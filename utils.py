@@ -66,7 +66,7 @@ class TextLoader():
 
         # Optional text cleaning or make them lower case, etc.
         #data = self.clean_str(data)
-        x_text = data.split()
+        x_text = data.replace("\n", "<eos>").split()
 
         self.vocab, self.words = self.build_vocab(x_text)
         self.vocab_size = len(self.words)
