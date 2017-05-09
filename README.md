@@ -1,17 +1,15 @@
 # word-rnn-tensorflow
-[![Build Status](https://travis-ci.org/hunkim/word-rnn-tensorflow.svg?branch=master)](https://travis-ci.org/hunkim/word-rnn-tensorflow)
-
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.
 
-Mostly reused code from https://github.com/sherjilozair/char-rnn-tensorflow which was inspired from Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn).
+Mostly reused code from https://github.com/hunkim/word-rnn-tensorflow which was inspired from Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn).
 
 # Requirements
 - [Tensorflow 1.1.0rc0](http://www.tensorflow.org)
 
 # Basic Usage
-To train with default parameters on the tinyshakespeare corpus, run:
+To train with default parameters on the harry potter corpus, run:
 ```bash
-python train.py
+python train.py --data_dir 'data/hp'
 ```
 
 To sample from a trained model
@@ -30,52 +28,18 @@ python sample.py --pick 2 --width 4
 
 ### Word-RNN
 ```
-LEONTES:
-Why, my Irish time?
-And argue in the lord; the man mad, must be deserved a spirit as drown the warlike Pray him, how seven in.
+# python sample.py -n 200
 
-KING would be made that, methoughts I may married a Lord dishonour
-Than thou that be mine kites and sinew for his honour
-In reason prettily the sudden night upon all shalt bid him thus again. times than one from mine unaccustom'd sir.
+Rowena Cleansweep on one arm wall, and Moody’s voice had vanished and made a slight shiver, nodding over the pile onto his head, clearly as angrily. “Just try and get in, Harry,” said Ron. “But what did you survive? Tell me so many closest indeed. Now, I used more than before, the diary’s still chained potted methods o’ rat dung, To poison them started out. Bill — progress — Flint — how did I matter, Potter. It was problem to choose ter end this out now … it is not that,” she said shortly. “D’you think she’d been saying — Professor Borgin, everything you —”
 
-LARTIUS:
-O,'tis aediles, fight!
-Farewell, it himself have saw.
+“There are all weekend, they’re getting a bit anywhere more, Dad’s at least for your lack of eleven, this might like a single, countercurse this possible week, you alone …”
 
-SLY:
-Now gods have their VINCENTIO:
-Whipt fearing but first I know you you, hinder truths.
+The clock right in the Great Hall was dragged into the air, and preparing more worse than the prefects have noticed their horror by killing Grimmauld Place from Ron.
 
-ANGELO:
-This are entitle up my dearest state but deliver'd.
+He had training suddenly. His chair had recently begun to disentangle fire. It was full to nobody to die here, but so obvious, like every word of all the eve of the honor.”
 
-DUKE look dissolved: seemeth brands
-That He being and
-full of toad, they knew me to joy.
+“The diary had happened, how accurate Voldemort left
 ```
-
-### Char-RNN
-```
-ESCALUS:
-What is our honours, such a Richard story
-Which you mark with bloody been Thilld we'll adverses:
-That thou, Aurtructs a greques' great
-Jmander may to save it not shif theseen my news
-Clisters it take us?
-Say the dulterout apy showd. They hance!
-
-AnBESS OF GUCESTER:
-Now, glarding far it prick me with this queen.
-And if thou met were with revil, sir?
-
-KATHW:
-I must not my naturation disery,
-And six nor's mighty wind, I fairs, if?
-
-Messenger:
-My lank, nobles arms;
-```
-
 ## Beam search
 
 Beam search differs from the other `--pick` options in that it does not greedily
@@ -84,62 +48,28 @@ running score for each beam.
 
 ### Word-RNN (with beam search)
 ```
-# python sample.py --prime "KING RICHARD III:" -n 100 --pick 2 --width 4
+# python sample.py --prime "Rowena" -n 100 --pick 2 --width 4
 
-KING RICHARD III:
-you, and and and and have been to be hanged, I am not to be touched?
+Rowena kittens on the back of the back of the door. It looked as though he had been recounting his adventures of the previous friends. He had no choice. The Prime Minister had taken refuge in the middle of the wardrobe. Harry looked up at Harry.
 
-Provost:
-A Bohemian born, for tying his own train,
-Forthwith by all that converses more with a crow-keeper;
-I have drunk, Broach'd with the acorn cradled. Follow.
+“Grindelwald?”
 
-FERDINAND:
-Who would not be conducted.
+Ignoring the remainder of the Order of the Phoenix,” she said. “Cedric Diggory.”
 
-BISHOP OF ELY:
-If you have been a-bed an acre of barren ground, hath holy;
-I warrant, my lord restored of noon.
+“Oh right,” said Harry.
 
-ISABELLA:
-'Save my master and his shortness whisper me to the pedlar;
-Money's a medler.
-That I will pamper it to complain.
+His insides acted as though he had been having. It had been a very good audience; he longed to be a Squib. It was a stag. It was a stag. It was a stag. It was only a baby!”
 
-VOLUMNIA:
-Indeed, I am
+Parvati tightened
 ```
 
 ### Word-RNN (without beam search)
 ```
-# python sample.py --prime "KING RICHARD III:" -n 100
+# python sample.py --prime "Rowena" -n 100
 
-KING RICHARD III:
-marry, so and unto the wind have yours;
-And thou Juliet, sir?
+Rowena kittens by the dropped she looked ready for closeness.
 
-JULIET:
-Well, wherefore speak your disposition cousin;
-May thee flatter.
-My hand will answer him;
-e not to your Mariana Below these those and take this life,
-That stir not light of reason.
-The time Lucentio keeps a root from you.
-Cursed be his potency,
-It was my neighbour till the birth and I drank stay.
+“No near the trophy dormitory, George gripped the binoculars. Buckbeak did say why Riddle was attacked by the world’s very funny feelings about for nonverbal questions about the man version of point eleven to Ron, Ron, having managed, finally, Ron, and Hermione left the infirmary and jabbed out Ginny, “you’ve been hiding for Draco Malfoy. We made him kill each other for you,” said Slughorn. “Oh, don’t you?”
 
-MENENIUS:
-Here's the matter,
-I know take this sour place,
-they know allegiance Had made you guilty.
-You do her bear comfort him between him or our noble bosom he did Bolingbroke's
+“I — just saved anyone in brand-new writing. “I’m Ted, as Hermione was taking advantage when he had suffered agreement as it held up. Neville’s
 ```
-
-# Projects
-If you have any project using this word-rnn, please let us know. I'll list up your project here.
-
-- http://bot.wpoem.com/ (Simple poem generator in Korean)
-
-
-# Contribution
-Your comments (issues) and PRs are always welcome.
