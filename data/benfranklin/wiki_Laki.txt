@@ -1,0 +1,161 @@
+{{Other uses}}
+{{Infobox mountain
+| name = Laki
+| photo = Laki fissure (3).jpg
+| photo_caption = 
+| elevation = Varies: canyon to {{convert|1725|m|ft|0}}
+| prominence = 
+| map = Iceland
+| map_caption = 
+| map_size = 200
+| label_position = right
+| location = [[Iceland]]
+| coordinates = {{coord|64|03|53|N|18|13|34|W|region:IS|display=inline,title}}
+| topo = 
+| type = [[Fissure vent]]s
+| age = 
+| last_eruption = 1784
+| first_ascent = 
+| easiest_route = 
+}}
+
+'''Laki''' or '''Lakagígar''' (''Craters of Laki'') is a [[Fissure vent|volcanic fissure]] in the south of [[Iceland]], not far from the volcanic fissure of [[Eldgjá]] and the small village of [[Kirkjubæjarklaustur]]. The fissure is properly referred to as Lakagígar, while Laki is a mountain that the fissure bisects. Lakagígar is part of a volcanic system centered on the volcano [[Grímsvötn]] and including the volcano [[Thordarhyrna]].<ref name="gvp">{{cite gvp
+ | vnum = 1702–03= 
+ | title = Katla
+ | accessdate = March 26, 2010 }}</ref><ref>{{cite web
+ | url = http://iceland.vefur.is/iceland_nature/Volcanoes_in_Iceland/katla.htm
+ | title = Iceland : Katla Volcano
+ | publisher = Iceland on the web
+ | accessdate = March 26, 2010 }}</ref><ref>{{cite journal|last= Gudmundsson
+ |first= Magnús T. 
+ |author2=Thórdís Högnadóttir
+  |date= January 2007
+ |title= Volcanic systems and calderas in the Vatnajökull region, central Iceland: Constraints on crustal structure from gravity data
+ |journal= Journal of Geodynamics 
+ |volume= 43
+ |issue= 1
+ |pages= 153–169
+ |url= 
+ |accessdate= 
+ |doi = 10.1016/j.jog.2006.09.015|bibcode = 2007JGeo...43..153G }}</ref> It lies between the [[glacier]]s of [[Mýrdalsjökull]] and [[Vatnajökull]], in an area of fissures that run in a southwest to northeast direction.
+
+The system erupted violently over an eight-month period between June 1783 and February 1784 from the Laki fissure and the adjoining volcano Grímsvötn, pouring out an estimated 42 billion tons or {{convert|14|km3|cumi|1|abbr=on}} of [[basalt]] lava and clouds of poisonous [[hydrofluoric acid]] and [[sulfur dioxide]] compounds that contaminated the soil, leading to the death of over 50% of Iceland's livestock population, and the destruction of the vast majority of all crops. This led to a [[famine]] which then killed approximately 25% of the island's human population.<ref>Gunnar Karlsson (2000), ''Iceland's 1100 Years'', p. 181</ref> The lava flows also destroyed 20 villages.
+
+The Laki eruption and its aftermath caused a drop in global temperatures, as 120 million tons of sulfur dioxide was spewed into the [[Northern Hemisphere]].  This caused crop failures in Europe and may have caused droughts in North Africa and India.
+
+==1783 eruption==
+{{contradict|date=May 2018}}
+
+On 8 June 1783, a 25&nbsp;km (15.5&nbsp;mi) long [[Fissure vent|fissure]] with 130 [[Volcanic crater|crater]]s opened with [[Phreatic eruption|phreatomagmatic]] explosions because of the groundwater interacting with the rising [[basalt]] [[magma]]. Over a few days the eruptions became less explosive, [[Strombolian eruption|Strombolian]], and later [[Hawaiian eruption|Hawaiian]] in character, with high rates of lava [[effusion]]. This event is rated as 6 on the [[Volcanic Explosivity Index]],<ref name="Laki1783GVP">{{cite web | url=http://volcano.si.edu/volcano.cfm?vn=373010 | title=Grimsvotn — Eruptive History | publisher=[[Smithsonian Institution]] | work=[[Global Volcanism Program]] | date=8 May 2017 | accessdate=15 June 2017}}</ref> but the eight-month emission of sulfuric aerosols resulted in one of the most important climatic and socially repercussive events of the last millennium.<ref>Brayshay and Grattan, 1999; Demarée and Ogilvie, 2001</ref><ref>{{cite news| url=http://www.economist.com/node/10311405 |title=The Summer of acid rain |work=The Economist |date=December 19, 2007 |accessdate=October 21, 2012}}</ref>
+
+The eruption, also known as the '''Skaftáreldar''' ("[[Skaftá]] fires") or Síðueldur was a [[VEI 6]], produced an estimated {{convert|14|km3|1|abbr=on}} of [[basalt]] lava, and the total volume of [[tephra]] emitted was {{convert|0.91|km3|1|abbr=on}}.<ref name="gvp2">{{cite gvp |1=1703-01=|2=Grímsvötn}}</ref> [[Lava fountain]]s were estimated to have reached heights of {{convert|800|to|1400|m|abbr=on}}. The gases were carried by the convective eruption column to altitudes of about {{convert|15|km|mi|-1|abbr=on}}.<ref name="1783–1784 Laki
+eruption">{{cite journal |last1=Thordaldson |first1=Thorvaldur |last2=Self |first2=Stephen  |date=January 8, 2003 |url=http://www.agu.org/pubs/crossref/2003/2001JD002042.shtml |title=Atmospheric and environmental effects of the 1783–1784 Laki eruption: A review and reassessment |journal=[[Journal of Geophysical Research]] |volume=108 |number=D1 40111 |doi=10.1029/2001JD002042 |accessdate=October 21, 2012|bibcode =   2003JGRD..108.4011T|arxiv = astro-ph/0309423 }}</ref>
+
+The eruption continued until 7 February 1784, but most of the lava was ejected in the first five months. Grímsvötn volcano, from which the Laki fissure extends, was also erupting at the time, from 1783 until 1785. The outpouring of gases, including an estimated 8&nbsp;million tons of [[hydrogen fluoride]] and an estimated 120&nbsp;million tons of [[sulfur dioxide]], gave rise to what has since become known as the "Laki haze" across Europe.<ref name="1783–1784 Laki
+eruption">{{cite journal |last1=Thordaldson |first1=Thorvaldur |last2=Self |first2=Stephen  |date=January 8, 2003 |url=http://www.agu.org/pubs/crossref/2003/2001JD002042.shtml |title=Atmospheric and environmental effects of the 1783–1784 Laki eruption: A review and reassessment |journal=[[Journal of Geophysical Research]] |volume=108 |number=D1 40111 |doi=10.1029/2001JD002042 |accessdate=October 21, 2012|bibcode =   2003JGRD..108.4011T|arxiv = astro-ph/0309423 }}</ref>
+
+===Consequences in Iceland===
+The consequences for Iceland, known as the ''Móðuharðindin'' or "Mist Hardships", were disastrous.<ref>{{cite news | author= | title=The eruption that changed Iceland forever | url=http://news.bbc.co.uk/2/hi/uk_news/magazine/8624791.stm | work=BBC News | date=April 16, 2010 | accessdate=31 May 2013}}</ref> An estimated 20–25% of the population died in the famine and [[fluoride toxicity|fluoride poisoning]] after the fissure eruptions ensued. Around 80% of sheep, 50% of cattle and 50% of horses died because of [[dental fluorosis]] and [[skeletal fluorosis]] from the 8&nbsp;million tons of hydrogen fluoride that were released.<ref name="bbc.co.uk">[http://www.bbc.co.uk/programmes/b00794xr BBC Timewatch: "Killer Cloud", broadcast 19 January 2007]</ref><ref>{{cite news | author=Richard Stone | title=Volcanology: Iceland's Doomsday Scenario? | url=http://www.sciencemag.org/cgi/content/summary/306/5700/1278 | work=Science | volume=306 | issue=5700 |page=1278| date=November 19, 2004 | accessdate=31 May 2013}}</ref>
+
+The parish priest and dean of [[Vestur-Skaftafellssýsla]], Jón Steingrímsson (1728–1791), grew famous because of the ''eldmessa'' ("fire sermon") that he delivered on 20 July 1783. The people of the small settlement of [[Kirkjubæjarklaustur]] were worshipping while the village was endangered by a lava stream, which ceased to flow not far from town, with the townsfolk still in church.
+
+{{quote|This past week, and the two prior to it, more poison fell from the sky than words can describe: ash, [[Pele's hair|volcanic hairs]], rain full of sulfur and [[potassium nitrate|saltpeter]], all of it mixed with sand. The snouts, nostrils, and feet of livestock grazing or walking on the grass turned bright yellow and raw. All water went tepid and light blue in color and gravel slides turned grey. All the earth's plants burned, withered and turned grey, one after another, as the fire increased and neared the settlements.<ref>{{cite book| author = Jón Steingrímsson|author2=Keneva Kunz | title = Fires of the earth: the Laki eruption, 1783–1784| date = December 1998| publisher = University of Iceland Press| isbn = 978-9979-54-244-5 }}</ref>}}
+[[File:Laki fissure (2).jpg|thumb|right|Center of the Laki Fissure]]
+
+===Consequences in monsoon regions===
+There is evidence that the Laki eruption weakened [[Africa]]n and [[India]]n [[monsoon]] circulations, leading to between {{convert|1|and|3|mm|in|2}} less daily precipitation than normal over the [[Sahel]] of Africa, resulting in, among other effects, low flow in the River [[Nile]].<ref name="grl" /> The resulting [[Famine#Famine in Africa|famine]] that afflicted [[Egypt]] in 1784 cost it roughly one-sixth of its population.<ref name="grl">{{cite journal |last1=Oman |first1=Luke |last2=Robock |first2=Alan |last3=Stenchikov |first3=Georgiy L. |last4=Thordarson |first4=Thorvaldur |date=September 30, 2006 |url=http://climate.envsci.rutgers.edu/pdf/OmanLakiNile2006GL027665.pdf |title=High-latitude eruptions cast shadow over the African monsoon and the flow of the Nile |journal=Geophysical Research Letters |volume=33 |number=L18711 |doi=10.1029/2006GL027665 |accessdate=June 9, 2012|bibcode = 2006GeoRL..3318711O }}</ref><ref name="sdaily">{{cite news |url=https://www.sciencedaily.com/releases/2006/11/061121232204.htm |title=Icelandic Volcano Caused Historic Famine In Egypt, Study Shows |author=[[Rutgers, the State University of New Jersey]] |publisher=[[Science Daily]] |date=November 22, 2006 |accessdate=June 9, 2012}}</ref> The eruption was also found to have affected the southern [[Arabian Peninsula]] and India.<ref name="sdaily" />
+
+===Consequences in Europe===
+An estimated {{convert|120,000,000|LT|t|lk=on}} of [[sulphur dioxide]] was emitted, about three times the total annual European industrial output in 2006 (but delivered to higher altitudes, hence more persistent), and equivalent to six times the total 1991 [[Mount Pinatubo]] eruption.<ref name="bbc.co.uk"/><ref name="1783¿1784 Laki eruption">{{cite journal |last1=Thordaldson |first1=Thorvaldur |last2=Self |first2=Stephen  |date=January 8, 2003 |url=http://www.agu.org/pubs/crossref/2003/2001JD002042.shtml |title=Atmospheric and environmental effects of the 1783¿1784 Laki eruption: A review and reassessment |journal=[[Journal of Geophysical Research]] |volume=108 |number=D1 40111 |doi=10.1029/2001JD002042 |accessdate=October 21, 2012|bibcode =   2003JGRD..108.4011T|arxiv = astro-ph/0309423 }}</ref> This outpouring of sulphur dioxide during unusual weather conditions caused a thick haze to spread across western Europe, resulting in many thousands of deaths throughout the remainder of 1783 and the winter of 1784.
+
+The summer of 1783 was the hottest on record and a rare high-pressure zone over Iceland caused the winds to blow to the south-east.<ref name="bbc.co.uk"/> The poisonous cloud drifted to [[Bergen]] in [[Denmark–Norway]], then spread to [[Prague]] in the [[Bohemia|Kingdom of Bohemia]] (now the Czech Republic) by 17 June, Berlin by 18 June, Paris by 20 June, [[Le Havre]] by 22 June, and Great Britain by 23 June. The fog was so thick that boats stayed in port, unable to navigate, and the sun was described as "blood coloured".<ref name="bbc.co.uk"/> <!-- needs a better citation -->
+
+Inhaling sulphur dioxide gas causes victims to choke as their internal soft tissue swells – the gas reacts with the moisture in lungs and produces [[sulfurous acid]].<ref name="elmhurst">{{cite web |url=http://www.elmhurst.edu/~chm/vchembook/196buildings.html |title=Acid Rain Effects on Buildings |publisher=[[Elmhurst College]] |accessdate=June 9, 2012}}</ref> The local death rate in [[Chartres]] was up by 5% during August and September, with more than 40 dead. In Great Britain, the records show that the additional deaths were among outdoor workers; the death rate in [[Bedfordshire]], [[Lincolnshire]] and the east coast was perhaps two or three times the normal rate.  It has been estimated that 23,000 British people died from the poisoning.<ref>{{cite news | author= | title=When a killer cloud hit Britain | url=http://news.bbc.co.uk/2/hi/science/nature/6276291.stm | work=BBC News | date=January 2007 | accessdate=31 May 2013}}</ref>
+
+The weather became very hot, causing severe [[thunderstorms]] with large [[hailstones]] that were reported to have killed [[cattle]],<ref>[http://www.pastpresented.ukart.com/weather1783.htm Volcano Seasons: Weather reports from northern Britain, 1783] from the ''Newcastle Courant'' and ''Cumberland Pacquet''</ref> until the haze dissipated in the autumn. The winter of 1783–1784 was very severe;<ref>[http://www.pastpresented.ukart.com/weather1784.htm Volcano Seasons: Weather reports from northern Britain, 1784] from the ''Newcastle Courant'' and ''Cumberland Pacquet''</ref> the naturalist [[Gilbert White]] in [[Selborne]], [[Hampshire]], reported 28&nbsp;days of continuous frost. The extreme winter is estimated to have caused 8,000 additional deaths in the UK. During the spring thaw, Germany and Central Europe reported severe flood damage.<ref name="bbc.co.uk"/>
+
+The meteorological impact of Laki continued, contributing significantly to several years of extreme weather in Europe. In France, the sequence of extreme weather events included a surplus harvest in 1785 that caused poverty for rural workers, as well as droughts, bad winters and summers. These events contributed significantly to an increase in poverty and famine that may have contributed to the [[French Revolution]] in 1789.<ref name="Wood58-57">Wood, C.A., 1992. "The climatic effects of the 1783 Laki eruption" in C. R. Harrington (Ed.), ''The Year Without a Summer?'' Canadian Museum of Nature, Ottawa, pp. 58–77</ref>  Laki was only one factor in a decade of climatic disruption, as [[Grímsvötn]] was erupting from 1783 to 1785, and there may have been an unusually strong El Niño effect from 1789 to 1793.<ref>Richard H. Grove, "Global Impact of the 1789–93 El Niño," ''Nature'' 393 (1998), 318–319.</ref>
+
+===Consequences in North America===
+In North America, the winter of 1784 was the longest and one of the coldest on record.  It was the longest period of below-zero temperatures in [[New England]], with the largest accumulation of snow in [[New Jersey]], and the longest freezing over of [[Chesapeake Bay]], where [[Annapolis, Maryland]] is, then the capital of the United States; the weather delayed Congressmen in coming to Annapolis to vote for the [[Treaty of Paris (1783)|Treaty of Paris]], which formally ended the [[American Revolutionary War]].  A huge snowstorm hit the [[Southern United States|South]]; the [[Mississippi River]] froze at [[New Orleans]] and there were reports of [[Drift ice|ice floe]]s in the [[Gulf of Mexico]].<ref name="Wood58-57"/><ref>{{cite web  | url = http://perso.club-internet.fr/acatte/Iceland_Laki_in_english.htm  | title = Volcanoes from Iceland: Laki  | publisher = lave club-internet fr  | accessdate = March 30, 2010  | deadurl = yes  | archiveurl = https://web.archive.org/web/20090926041646/http://perso.club-internet.fr/acatte/Iceland_Laki_in_english.htm  | archivedate = September 26, 2009  | df =   }}</ref>
+
+===Contemporary reports===
+[[File:Kirkjubaejarklaustur.jpg|thumb|[[Kirkjubaejarklaustur]], a village in South Iceland, was the home of Jón Steingrímsson  (1728 – 1791), who left contemporary accounts of the effects of the eruption, which was nearby. His reports are extensively quoted in the book ''Island on Fire''.<ref>Witze, Alexandra and Jeff Kanipe. Island on Fire: The Extraordinary Story of Laki, the Volcano That Turned Eighteenth-Century Europe Dark. Profile Books, 2014. {{ISBN|9781781250044}}.</ref>]]
+[[Gilbert White]] recorded his perceptions of the event at [[Selborne]], [[Hampshire]], England:
+
+:The summer of the year 1783 was an amazing and portentous one, and full of horrible phaenomena; for besides the alarming meteors and tremendous thunder-storms that affrighted and distressed the different counties of this kingdom, the peculiar haze, or smokey fog, that prevailed for many weeks in this island, and in every part of Europe, and even beyond its limits, was a most extraordinary appearance, unlike anything known within the memory of man. By my journal I find that I had noticed this strange occurrence from June 23 to July 20 inclusive, during which period the wind varied to every quarter without making any alteration in the air. The sun, at noon, looked as blank as a clouded moon, and shed a rust-coloured ferruginous light on the ground, and floors of rooms; but was particularly lurid and blood-coloured at rising and setting. All the time the heat was so intense that butchers' meat could hardly be eaten on the day after it was killed; and the flies swarmed so in the lanes and hedges that they rendered the horses half frantic, and riding irksome. The country people began to look, with a superstitious awe, at the red, louring aspect of the sun; [...]<ref>{{cite book| author = Gilbert White|author2=Edward Jesse | title = The natural history of Selborne: with observations on various parts of nature and the Naturalist's calendar| url = https://books.google.com/?id=7-YYAAAAYAAJ&pg=PA300| year = 1870| publisher = Bell & Daldy| page = 300 }}</ref>
+
+[[Benjamin Franklin]] recorded his observations in America in a 1784 lecture:
+
+:During several of the summer months of the year 1783, when the effect of the sun's rays to heat the earth in these northern regions should have been greater, there existed a constant fog over all Europe, and a great part of North America. This fog was of a permanent nature; it was dry, and the rays of the sun seemed to have little effect towards dissipating it, as they easily do a moist fog, arising from water. They were indeed rendered so faint in passing through it, that when collected in the focus of a burning glass they would scarce kindle brown paper. Of course, their summer effect in heating the Earth was exceedingly diminished. Hence the surface was early frozen. Hence the first snows remained on it unmelted, and received continual additions. Hence the air was more chilled, and the winds more severely cold. Hence perhaps the winter of 1783–4 was more severe than any that had happened for many years.
+
+: The cause of this universal fog is not yet ascertained [...] or whether it was the vast quantity of smoke, long continuing, to issue during the summer from [[Hekla]] in Iceland, and that other volcano which arose out of the sea near that island, which smoke might be spread by various winds, over the northern part of the world, is yet uncertain.<ref>{{cite journal|last1=Franklin|first1=Benjamin|title=Meteorological imaginations and conjectures|journal=Memoirs of the Literary and Philosophical Society of Manchester|date=1785|volume=2|pages=357–361|url=https://books.google.com/books?id=n1JJAAAAcAAJ&pg=PA357#v=onepage&q&f=false|series=1st series}} ; see especially pp. 359–360.</ref>
+
+Note that, according to contemporary records, Hekla did not erupt in 1783; its previous eruption was in 1766. The Laki fissure eruption was {{convert|45|mi|km}} to the east and the Grímsvötn volcano was erupting about {{convert|75|mi|km}} north east.  Additionally [[Katla volcano|Katla]], only {{convert|31|mi|km}} south east, was still renowned after its spectacular eruption 28 years earlier in 1755.
+
+[[Sir John Cullum, 6th Baronet|Sir John Cullum]] of [[Bury St Edmunds]], [[Suffolk]], England, recorded his observations on 23 June 1783 (the same date on which Gilbert White noted the onset of the unusual atmospheric phenomena), in a letter to [[Joseph Banks|Sir Joseph Banks]], then President of the [[Royal Society]]:
+
+:... about six o'clock, that morning, I observed the air very much condensed in my chamber-window; and, upon getting up, was informed by a tenant that finding himself cold in bed, about three o'clock in the morning, he looked out at his window, and to his great surprise saw the ground covered with a white frost: and I was assured that two men at Barton, about {{convert|3|mi|km}} off, saw in some shallow tubs, ice of the thickness of a crown-piece.<ref name="PhilTranRSocLond15">{{cite book | title=The Philosophical Transactions of the Royal Society of London — Abridged with notes and biographical illustrations — Volume 15 — from 1781 to 1785 | authors=Hutton, C., Shaw, G. and Pearson, R. (editors) | year=1809 | pages=604–605}}</ref>
+
+Sir John goes on to describe the effect of this "frost" on trees and crops:
+
+:The [[Awn (botany)|aristae]] of the [[barley]], which was coming into ear, became brown and withered at their extremities, as did the leaves of the oats; the rye had the appearance of being mildewed; so that the farmers were alarmed for those crops. The wheat was not much affected. The [[larch]], [[Weymouth pine]], and hardy [[Scotch fir]], had the tips of their leaves withered.<ref name="PhilTranRSocLond15"/>
+
+==See also==
+{{colbegin}}
+* [[Geography of Iceland]]
+* [[Glacial lake outburst flood]]
+* [[Iceland hotspot]]
+* [[Iceland plume]]
+* [[List of glaciers of Iceland]]
+* [[List of islands of Iceland]]
+* [[List of lakes of Iceland]]
+* [[List of rivers of Iceland]]
+* [[List of volcanic eruptions by death toll]]  
+* [[List of volcanoes in Iceland]]
+* [[List of waterfalls of Iceland]]
+* [[Plate tectonics]]
+* [[Timeline of volcanism on Earth]]
+* [[Volcanology of Iceland]]
+{{colend}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* Brayshay, M and Grattan, J. "Environmental and social responses in Europe to the 1783 eruption of the Laki fissure volcano in Iceland: a consideration of contemporary documentary evidence" in Firth, C. R. and McGuire, W. J. (eds) ''Volcanoes in the Quaternary''. Geological Society, London, Special Publication 161, 173–187, 1999
+* {{cite book| author = Chris Caseldine| title = Iceland: Modern Processes And Past Environments| url = https://books.google.com/?id=kEvDhihVhbMC| year = 2005| publisher = Elsevier| isbn = 978-0-444-50652-8 }}
+* Grattan, J., Brayshay, M. and Sadler, J. "Modelling the distal impacts of past volcanic gas emissions: Evidence of Europe-wide environmental impacts from gases emitted during the eruption of Italian and Icelandic volcanoes in 1783" in ''Quaternaire'', 9, 25–35. 1998.
+* Grattan, D., Schütenhelm, R. and Brayshay, M. "Volcanic gases, environmental crises and social response" in Grattan, J. and Torrence, R. (eds) ''Natural Disasters and Cultural Change'', Routledge, London 87–106. 2002.
+* Grattan, J.P. and Brayshay, M.B. "[https://www.questia.com/PM.qst?a=o&d=5000338532&er=deny An Amazing and Portentous summer: Environmental and social responses in Britain to the 1783 eruption of an Iceland Volcano]" in ''The Geographical Journal'' 161(2), 125–134. 1995.
+* Richard B. Stothers. "[http://pubs.giss.nasa.gov/abstracts/1996/Stothers_2.html The great dry fog of 1783]" in ''Climatic Change'', 32, 79–89, 1996.
+* "The Summer of Acid Rain", ''Economist'', December 19, 2007.
+* Thorvaldur Thordarson and Stephen Self. "[http://oro.open.ac.uk/5099/ Atmospheric and environmental effects of the 1783–1784 Laki eruption]; a review and reassessment" in ''J. Geophys. Res.'', 108, D1, 4011, {{doi|10.1029/2001JD002042}}, 2003.
+* Witze, Alexandra and Jeff Kanipe. ''Island on Fire: The Extraordinary Story of Laki, the Volcano That Turned Eighteenth-Century Europe Dark.'' Profile Books, 2014. {{ISBN|9781781250044}}.
+
+== External links==
+{{Commons category|Lakagígar (Laki eruption fissures)}}
+{{wikisource|Icelandic volcanoes,1783-4: contemporary reports|Laki}}
+* [https://web.archive.org/web/20090926041646/http://perso.club-internet.fr/acatte/Iceland_Laki_in_english.htm Photos and information]
+* [http://volcano.und.edu/vwdocs/volc_images/europe_west_asia/laki.html Information about the volcanism at Laki]
+* [https://web.archive.org/web/20081217214437/http://www.umhverfisstofnun.is/media/fraedsluefni/Lakagigar_enska.pdf Lakagígar]
+* [http://morgue.anglicansonline.org/051106/ A meditation on Jón Steingrímsson] from [[Anglicans Online]]
+* [https://web.archive.org/web/20070114001924/http://www.esc.cam.ac.uk/ivhhn/members/people/grattan.html Dr John Grattan at International Volcanic Heath Hazard Network]
+* [http://www.agu.org/meetings/cc02babstracts/Grattan-p.pdf A Sulphurous Stench: Illness and Death in Europe Following the Eruption of the Laki Fissure]
+* [http://hdl.handle.net/1946/17205 The Dry Fog of 1783: Environmental Impact and Human Reaction to the Lakagígar Eruption]
+
+{{Volcanoes of Iceland}}
+
+[[Category:1783 natural disasters]]
+[[Category:18th-century volcanic events]]
+[[Category:Flood basalts]]
+[[Category:Mountains of Iceland]]
+[[Category:Volcanoes of Iceland]]
+[[Category:VEI-6 volcanoes]]
+[[Category:Natural disasters in Iceland]]
+[[Category:Fissure vents]]
+[[Category:Active volcanoes]]
+[[Category:Iceland East Volcanic Zone]]
+[[Category:18th century in Iceland]]
+[[Category:Climate history]]
+[[Category:Events that forced the climate]]

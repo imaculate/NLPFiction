@@ -1,0 +1,150 @@
+{{about|the church on Boylston Street|the Puritan meeting house in Downtown Crossing|Old South Meeting House}}
+{{Infobox NRHP | name =Old South Church in Boston
+| nrhp_type =nhl
+| image =OldSouthChurchBoston.JPG
+| caption =
+| location= [[Boston, Massachusetts]]
+| coordinates = {{coord|42|21|0.7|N|71|4|40.8|W|display=inline,title}}
+| area =
+| built =1873
+| architect= [[Charles Amos Cummings]] and <br />[[Willard T. Sears]]
+| architecture= [[Gothic Revival architecture|Gothic Revival]]
+| designated_nrhp_type= December 30, 1970<ref name="nhlsum">{{cite web|url=http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=999&ResourceType=Building|title=Old South Church in Boston|accessdate=2008-07-06|work=National Historic Landmark summary listing|publisher=National Park Service|deadurl=yes|archiveurl=https://web.archive.org/web/20121008090853/http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=999&ResourceType=Building|archivedate=2012-10-08|df=}}</ref>
+| added = December 30, 1970
+| governing_body = Private
+| refnum=70000690<ref name="nris">{{NRISref|2007a}}</ref>
+}}
+
+'''Old South Church''' in [[Boston, Massachusetts]], (also known as '''New Old South Church''' or '''Third Church''') is a historic [[United Church of Christ]] congregation first organized in 1669. Its present building was designed in the [[Gothic Revival]] style by [[Charles Amos Cummings]] and [[Willard T. Sears]], completed in 1873, and amplified by the architects [[Allen & Collens]] between 1935–1937. The church, which was built on newly filled land in the [[Back Bay]] section of Boston, is located at 645 [[Boylston Street]] on [[Copley Square]].  It was designated a [[National Historic Landmark]] in 1970 for its architectural significance as one of the finest High Victorian Gothic churches in New England.<ref name=nhl>{{cite web|url={{NHLS url|id=70000690}}|title=NHL nomination for Old South Church|publisher=National Park Service|accessdate=2015-02-22}}</ref>  It is home to one of the older religious communities in the United States.
+
+==History of the congregation==
+
+Established in 1669, Old South Church is one of the older religious communities in the United States. It was organized by [[National Council of the Congregational Churches of the United States|Congregationalist]] dissenters from [[Boston's First Church]] and was known as the Third Church (to distinguish it from the First and [[Second Church, Boston|Second Congregational Churches]] in the city). The Third Church's congregation met first in their Cedar Meeting House (1670), then at the [[Old South Meeting House]] (1729) at the corner of Washington and [[Milk Street, Boston|Milk Street]]s in [[Boston]].
+[[File:Old South Church Christmas Eve Services 2017.png|thumb|left|alt=Christmas Eve services at the church in 2017.|[[Christmas Eve]] services at the church in 2017.]]
+Members of the congregation have included [[Samuel Adams]], [[William Dawes]], [[Benjamin Franklin]], [[Samuel Sewall]], and [[Phillis Wheatley]]. In 1773, Samuel Adams gave the signals from the Old South Meeting House for the "war whoops" that started the [[Boston Tea Party]].
+
+During the [[Unitarianism|Unitarian Movement]] of the early 19th century, Old South was the sole Congregational Church in Boston to adhere to the doctrine of [[Trinitarianism]]. In 1816 Old South Church joined with [[Park Street Church]] to form the [[City Mission Society]], a social justice society to serve Boston's urban poor. During the [[American Civil War]], Old South became a recruiting center for the [[Union Army]] under minister Jacob Manning. Though the congregation was not entirely abolitionist, it strongly supported the Union cause. The conclusion of the Civil War was followed by an expansive time of increased inclusion for the congregation. Under minister George Angier Gordon the congregation moved from its meeting house at Washington Street to its [[Back Bay]] location in 1875, occupying the present church constructed on newly filled land.
+
+Old South's commitment to urban ministry and care continued on into the 20th century becoming a segue for the inclusion of new members increasingly diverse by race, class, and sexual orientation. The congregation has formally adopted a platform of equality, social justice, and peace.{{citation needed|date=December 2011}}
+
+==Architecture==
+[[File:Oldsouthc1882.jpg|thumb|left|An 1882 engraving of Old South Church showing the first campanile.]]
+The church building was designed between 1870 and 1872 by the Boston architectural firm of [[Cummings and Sears]] in the [[Venetian Gothic architecture|Venetian Gothic]] style. The style follows the precepts of the British cultural theorist and architectural critic [[John Ruskin]] (1819–1900) as outlined in his treatise [[The Stones of Venice (book)|''The Stones of Venice.'']] Old South Church in Boston remains one of the most significant examples of Ruskin's influence on American architecture. The architects, [[Charles Amos Cummings]] and [[Willard T. Sears]], also designed the [[Isabella Stewart Gardner Museum]]. The exterior of the church is primarily built of [[Roxbury Conglomerate]] commonly called puddingstone. Many arches, and several walls of stone are striped with alternating courses of yellow-beige and deep red sandstone. The porticos and large open arches in the [[campanile]] are decorated with simple [[Tracery|plate tracery]].  The upper arches of the porticos are decorated with screens of ornate [[wrought iron]]. The building is [[roof]]ed in alternating bands of red and dark gray slate and the roofline finished with ornamental iron cresting.
+
+===Campanile===
+
+[[File:OSClantern.JPG|thumb|The lantern of Old South Church is inspired by the [[Basilica di San Marco (Venice)|Basilica of Saint Mark]] in [[Venice, Italy]].]]<!---If this pic is put further down, it cuases problems on wide screens--->
+A tall tower, or ''[[campanile]]'' is the trademark feature of Old South and is visible from several Boston neighborhoods. The tower, on the western end of the church, rises to a height of 246' and houses the church's 2020 pound bell. This is the second campanile built on the same site, designed by Allen & Collens it is similar to the 1875 design in its use of Moorish arches. The first tower, completed in 1875 along with the present Narthex and sanctuary, had begun to list by the late 1920s. The cause was determined to be the faulty footings and piles anchored in the soft former swampland. They were insufficient for the load of the tower. The congregation engaged the architectural firm of Allen & Collens to design a replacement campanile and a new chapel to be named in memory of the Reverend George Angier Gordon. The tower was dismantled, and early 1930s technology of steam shovel and steel pilings provided a lasting solution. Today, the pitch and height of the tower are tested annually and records attest to its enduring stability. The bell wheel, which by motion of a heavy rope swings the large bell, had deteriorated by the late 20th century requiring that the bell be rung by an external hammer. A faithful reconstruction of the original 1931 bell wheel, installed in early fall 2006, returned Old South's bell to "full swing."
+
+===Lantern===
+
+Centered above the Sanctuary on the east side of the church is a copper clad cupola surrounded by twelve ornate gothic arched windows. This feature is reminiscent of the cupolas of the [[St Mark's Basilica|Basilica of St. Mark]] in Venice. While the lantern provides a striking visual presence it was also built with function in mind. In the days before mechanical fans and air conditioning a series of mechanically operated louvers allowed for window panels to be opened to help cool the sanctuary inside.
+
+==Decorative arts==
+[[File:OldSouthMainDoor.JPG|left|thumb|Main entrance and portico looking northeast.]]
+The interior of Old South is exuberant yet quietly modulates the mix of rich materials: highly carved Italian cherry woodwork, limestone, stenciled plaster, and stained glass. The sanctuary is entered from the [[narthex]] through a screen carved in the Venetian Gothic style from French ''[[Caen stone|Caen limestone]]''. Hidden among the carved foliage that decorates the screen can be found a squirrel, lizard, owl, and snail. A similar theme of animals is also found in the carving of the building's exterior.  The interior of the [[chancel]] at the east end of the church, behind the choir, is faced by a running screen of wooden arches with ''[[quatrefoil]]'' lunettes adapted from the upper arcade of the [[Doge's Palace, Venice|Doge's Palace]] in Venice. The stained glass windows are by the English stained glass manufacturers [[Clayton and Bell]] and were produced in the style of 15th-century English glass.
+
+===1875 Cummings and Sears interior===
+
+[[File:OSCcaenScreen.jpg|thumb|right|250px|The narthex screen is carved of ''[[Caen stone]]'' limestone]]
+When Old South's church opened in 1875 it looked very much as it does today, based upon the design of Cummings and Sears. The walls were decorated in [[polychrome]] stenciling in shades of complex tertiary colors: a [[rose madder]] background with overlays of ochre, bay leaf green, warm gray, and persimmon, and highlights of metallic gold. Most of the interior structure, except for the carved wood frieze along the balconies, was already in place by 1875. High above the crossing of the transepts and nave is the lantern, or cupola. The ceiling of the lantern was painted a deep [[Prussian blue]] with a pattern of gilded stars to represent the [[firmament]] of God. The limestone tracery of the west wall of the sanctuary, with its foliage and animals, combined with the highly carved foliated woodwork and the overhead representation of the nighttime sky was intended to echo God's creation. Above the doors on the east chancel walls are glass mosaics of the tree of life by [[Antonio Salviati]]. A third mosaic by Salviati originally hung in the [[Tympanum (architecture)|tympanum]] above the tower's front doors. That mosaic was relocated to the vestibule when the tower was rebuilt 1922-1937. The combined effect was extremely rich; at once a spiritual and sensuous experience, and in great contrast to the chaste interior of Old South Meeting House on Washington Street. Stylistically the 1875 interior was in harmony with the Ruskinian Gothic exterior, and expressed Ruskin's ideal that it is "in art that the heart, the head, and the hand of a man come together."
+
+===1905 Tiffany interior===
+
+In 1905 the congregation engaged [[Louis Comfort Tiffany]] to redecorate the sanctuary. Tiffany headed a group of artisans called the Associated Artists who worked largely in a style now described as the [[Aesthetic Movement]]. Tiffany was a part of an emerging American view of design in the United States, increasingly taking fewer cues from Europe. Tiffany had decorated Mark Twain's home in Hartford, Connecticut, the state rooms at the [[White House]], and several Back Bay homes. In some ways Tiffany was an expected choice to redecorate Old South. He followed many of the ideas of John Ruskin; he believed in the dignity and importance of the human hand and eye in the decorative arts. Yet Tiffany arrived at Old South at a time when his gilded age style had begun a decline. A new wave of neoclassicism called [[Beaux-Arts architecture|Beaux-Arts]], and the [[Colonial Revival]] style were replacing Victorian ornament with a simpler classicism. Theodore Roosevelt's 1902 White House renovation removed all of the Tiffany influence. In Tiffany's redecoration, Old South's stained glass windows were covered by insets of translucent tinted purple glass. The original polychrome stenciled plaster walls were painted purple, then stenciled in a series of geometric patterns with metallic silver paint intended to appear as mother of pearl inlay. Similar to Tiffany's work at Mark Twain's Hartford, Connecticut home, or his design for the White House's [[Red Room (White House)|Red Room]]. The resulting work at Old South was a highly ornamneted visual experience, unified by a limited color palette.
+
+===1950s minimalism===
+
+[[File:Old South Church (interior), Boston, Massachusetts.JPG|thumb|right|250px|The wooden [[choir screen]] of the sanctuary is based on the upper arcade of the [[Doge's Palace, Venice]].]]
+In the early 1950s, possibly influenced by the minimalism of the [[International style (architecture)|International Style]], a second renovation of the Sanctuary took place. The mid-20th-century renovation largely ignored the architectural history of the church. Louis Comfort Tiffany's paint and stenciling was obscured by a coat of light gray paint, and the purple Tiffany glass installed over the stained glass was removed. The [[oculus]] of the cupola was closed up. In some ways the removal of decoration recalled the congregation's Puritan roots.
+
+===Recognition and restoration===
+
+Old South Church's building was designated a U.S. [[National Historic Landmark]] in 1970.<ref name="nhlsum"/>
+
+In 1984 a research-driven restoration was begun. The period of the building's construction was adopted, using old photographs and engravings as sources, and paint analysis to replicate original colors, the interior spaces were returned closely to their 1875 appearance. Walls were repainted rose madder and the original Cummings and Sears' stencil patterns were recreated. The cupola was reopened, once more admitting light to the Sanctuary below. Polychrome stenciling repeated the original palette of ochre, bay leaf green, warm gray, and persimmon with metallic gold.
+
+==Organ==
+The church's present organ, ''Opus 308,'' was built in 1921 by [[Ernest M. Skinner|E. M. Skinner & Company]] of Boston for the Municipal Auditorium Theater in St. Paul, Minnesota, and brought to the church in 1985 when that building was demolished. Originally 82 ranks and 5,728 pipes, it now has 115 ranks and 7,625 pipes ranging from 0.25 inches to 32 feet in length.
+
+The organ console is located behind the pulpit and is on a hydraulic platform so that it may be raised for concerts and recessed for worship services. The organ's pipes are located behind and to the right and left of the chancel and also at the back of the rear balcony above the entrance to the Sanctuary (32' and chamade). Ten ornately painted wooden pipes are mounted at the front of each side balcony.
+
+In December 2008, construction at the adjacent [[MBTA]] [[Copley (MBTA station)|Copley station]] created a crack in the church's exterior and damage in the sanctuary.<ref name=completion>{{cite news |url=http://www.boston.com/yourtown/news/back_bay/2010/09/copley_station_project_nears_e.html |title=Copley station project nears end; historic church plans repairs |newspaper=Boston Globe |author=Rocheleau, Matt |date=14 September 2010 |accessdate=28 August 2014}}</ref> Out of fear that its use might cause further damage, the organ was not used from then until just before Easter in 2009.
+
+==Bay Psalm Book==
+Old South Church is the owner of one of eleven remaining first-edition copies of the [[Bay Psalm Book]].<ref name="Psalm Book Sale">{{cite news|last1=Jacques|first1=Nicholas|title=Historic psalm book brings $14m for Old South Church|url=https://www.bostonglobe.com/metro/2013/11/27/old-south-church-sells-century-psalter-for-record-price/ZQLig0Mn9lq7UO0c1ZjO2N/story.html|accessdate=23 October 2016|publisher=Boston Globe|date=27 November 2013}}</ref> The Bay Psalm Book, printed in 1640 by Stephen Daye, "was the first book printed in the what became the United States."<ref>Murray, Stuart A.P. (2012). ''The Library: An Illustrated History''. New York, NY: Skyhorse Publishing p. 140.</ref> Until 2013, when one copy was sold at auction to David Rubenstein, Old South Church owned two of the eleven first-edition copies.<ref name="Psalm Book Sale" /> Old South Church's copy of the Bay Psalm Book is currently housed in the Rare Books Department of the [[Boston Public Library]].<ref>Boston Public Library, Special Collections List http://www.bpl.org/research/special/collections.htm Retrieved October 23, 2016</ref>
+
+==Senior ministers==
+[[File:OSCcornerstone.JPG|thumb|right|250px|Cornerstone of Old South is inscribed with the dates of its three houses of worship: 1670 for the Cedar Meeting House; 1730 for Old South Meeting House; and 1873 for the present Old South Church in Boston's Back Bay.]]
+To date twenty ministers have served Old South's congregation as Senior Minister; they are:
+;At Cedar Meeting House:
+* Thomas Thacher 1670-1678
+* [[Samuel Willard]] 1678-1707
+* Ebenezer Pemberton 1700-1717
+* Joseph Sewall 1713-1769
+* [[Thomas Prince]] 1718-1730
+;At Old South Meeting House:
+* Thomas Prince 1730-1758
+* Alexander Cumming 1761-1763
+* Samuel Blair 1766-1769
+* John Hunt/John Bacon 1771-1775
+* Joseph Eckley 1779-1811
+* [[Joshua Huntington]] 1808-1819
+* [[Benjamin B. Wisner]] 1821-1832 (departed in 1832 to become a Corresponding Secretary of the [[American Board of Commissioners for Foreign Missions]])
+* Samuel H. Stearns 1834-1836
+* George W. Blagden 1836-1872
+* Jacob M. Manning 1857-1882
+;At Old South Church
+* George Angier Gordon 1884-1927
+* Russell Henry Stafford 1927-1945
+* Frederick M. Meek 1946-1973
+* James W. Crawford 1974-2002
+* Carl F. Schultz, Jr. 2002-2005 (Interim)
+* Nancy S. Taylor 2005-
+
+==See also==
+[[File:Old South Church Boston 08132015.jpg|thumb|right|The Old South Church at dusk, August 2015]]
+* [[Old South Meeting House]]
+* [[List of National Historic Landmarks in Boston]]
+* [[National Register of Historic Places listings in northern Boston, Massachusetts]]
+
+==References==
+{{reflist}}
+* Aldrich, Megan. ''Gothic Revival.'' Phaidon Press Ltd: 1994. {{ISBN|0-7148-2886-6}}.
+* Bunting, Bainbridge. ''Houses of Boston's Back Bay: An Architectural History, 1840-1917.'' Belknap Press of Harvard University Press: 1967. {{ISBN|0-674-40901-9}}.
+* [[Henry-Russell Hitchcock|Hitchcock, Henry-Russell]]. ''Architecture: Nineteenth and Twentieth Centuries.'' Yale University Press, Penguin History of Art, Second edition: 1963. {{ISBN|0-14-056115-3}}.
+* Hill, George Andrews, and George Frederick Bigelow. ''History of the Old South Church (Third Church) Boston, 1669–1884.'' Houghton, Mifflin and Company, The Riverside Press: 1890.
+* O'Gorman, James F. ''On the Boards: Drawings by Nineteenth-Century Boston Architects.'' University of Pennsylvania Press:1989. {{ISBN|978-0-8122-1287-7}}.
+* Placzek, Adolf K. Macmillan. ''Encyclopedia of Architects.'' 4 vols. Free Press: 1982. {{ISBN|0-02-925000-5}}.
+* Shand-Tucci, Douglas. ''Built in Boston: City and Suburb, 1800–2000.'' The [[University of Massachusetts Press]]: 1999. {{ISBN|1-55849-201-1}}.
+* Waters, Henry Fritz-Gilbert. "Genealogical gleanings in England." ''The New England Historical and Genealogical Register." Vols. 37-52, 1883-98.
+* Withey, Henry F. ''Biographical Dictionary of American Architects (Deceased).'' Hennessey & Ingalls: 1970.
+* ''History of the Old South Church of Boston.'' Published for the benefit of the Old South Fund: 1890.
+
+==External links==
+{{commons category|Old South Church}}
+* [http://www.oldsouth.org/ Old South Church in Boston]: official website
+* [https://maps.google.com/?q=645+Boylston+St,+Boston,+MA+02116&ie=UTF8&t=k&z=16&iwloc=addr&om=0 Satellite image of Old South Church]
+* [http://www.ucc.org/find/boston-old-south-church.html Boston Old South Church] at the site of the United Church of Christ
+* [http://www.bc.edu/bc_org/avp/cas/fnart/fa267/hvgothic.html High Victorian Gothic architecture in America]
+* [http://www.iboston.org/mcp.php?pid=newOldSouthChurch Boston history and architecture]
+* {{youtube | id = if8Oz8Q_GKE | title = Old South Bell for Boston Marathon}} 2007
+
+{{National Register of Historic Places in Massachusetts}}
+
+[[Category:19th-century United Church of Christ church buildings]]
+[[Category:Bell towers in the United States]]
+[[Category:Church buildings with domes]]
+[[Category:Churches completed in 1874]]
+[[Category:Churches in Boston]]
+[[Category:Churches on the National Register of Historic Places in Massachusetts]]
+[[Category:Cummings and Sears buildings]]
+[[Category:Gothic Revival church buildings in Massachusetts]]
+[[Category:Landmarks in Copley Square]]
+[[Category:Members of the World Alliance of Reformed Churches]]
+[[Category:National Historic Landmarks in Boston]]
+[[Category:National Register of Historic Places in Boston]]
+[[Category:Stone churches in Massachusetts]]
+[[Category:Towers in Massachusetts]]
+[[Category:United Church of Christ churches in Massachusetts]]
+[[Category:Venetian Gothic architecture in the United States]]

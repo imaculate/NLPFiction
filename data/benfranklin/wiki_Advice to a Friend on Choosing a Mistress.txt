@@ -1,0 +1,43 @@
+'''"Advice to a Friend on Choosing a Mistress"''' is a letter by [[Benjamin Franklin]] dated June 25, 1745, in which Franklin counsels a young man about channeling sexual urges.  Due to its licentious nature the letter was not published in collections of Franklin's papers in the [[United States]] during the 19th century.  Federal court decisions from the mid- to late- 20th century cited the document as a reason for overturning obscenity laws.
+
+==Text==
+Franklin begins by advising a young man that a cure for sexual urges is unknown, and the proper solution is to take a wife.  Then, expressing doubts that the intended reader will actually marry, Franklin names several advantages of marriage.  As supplementary advice in case the recipient rejects all previous arguments, Franklin lists seven reasons why an older mistress is preferable to a young one.  Advantages include better conversation, less risk of unwanted pregnancy, and ''greater prudence in conducting an intrigue.''<ref name="franklin">Benjamin Franklin, "[http://www.bibliomania.com/2/9/77/124/21473/1/frameset.html Advice to a Friend on Choosing a Mistress]" (accessed 19 July 2008).</ref>
+
+According to John Richard Stevens, the unnamed correspondent is a friend of Franklin's named Cadwaller Colton, and it remains unknown whether Franklin was serious or if the letter was ever delivered.<ref>John Richard Stevens, ''Weird History 101: My Dinner with Attila the Hun, I Started World War I'', Adams Media, 1997 p. 219.  {{ISBN|1-55850-715-9}}</ref>  Whether serious or humorous, the letter is frankly sexual:
+{{quote|The Face first grows lank and wrinkled; then the Neck; then the Breast and Arms; the lower Parts continuing to the last as plump as ever: So that covering all above with a Basket, and regarding only what is below the Girdle, it is impossible of two Women to know an old from a young one. And as in the dark all Cats are grey, the Pleasure of corporal Enjoyment with an old Woman is at least equal, and frequently superior, every Knack being by Practice capable of Improvement.<ref name="franklin" />}}
+
+==Censorship==
+The Mistress letter was not the only document by Franklin that later generations censored.  The bawdy portion of Franklin's writing was accepted during his own era.  Although the Mistress letter was not published during his lifetime, Franklin's public works include an essay called "[[Fart Proudly]]".  A passage from his ''[[The Autobiography of Benjamin Franklin|Autobiography]]'' describes an unsuccessful attempt to seduce a friend's mistress.  As John Semonche observes in ''Censoring Sex: A Historical Journey Through American Media'', the autobiography was widely read during the 19th century because of its moral lessons, but the passage about the failed seduction was variously altered or deleted entirely.<ref name="semonche14">John Semonche, ''Censoring Sex: A Historical Journey Through American Media'', Rowman & Littlefield, 2007, p. 14.</ref>  The Mistress letter was omitted from 19th century publications of Franklin's works, and by some accounts it was singled out for suppression.<ref name="semonche14" /><ref name="werbel">Amy Beth Werbel, ''Thomas Eakins: Art, Medicine, and Sexuality in Nineteenth-Century Philadelphia'', Yale University Press, 2007, p. 161.  {{ISBN|0-300-11655-1}}</ref>
+
+This censorship occurred both informally and under law.<ref>Semonche, pp. 14-15.</ref>  The first state to enact obscenity legislation was [[Vermont]] in 1821.  During the following decades every state except [[New Mexico]] adopted similar laws.<ref>Semonche, p. 15</ref>  Then the [[Comstock laws|Comstock Act]] of 1873 made it a federal crime to circulate "obscene, lewd, and/or lascivious" material through the mail.<ref>Daniel J. Kevles, "[https://www.nytimes.com/2001/07/22/books/the-secret-history-of-birth-control.html?pagewanted=print The Secret History of Birth Control]", ''[[The New York Times]]'', 22 July 2001 (accessed 19 July 2008).</ref>
+
+Although Franklin had mistresses throughout his life (including one still-unknown mistress who bore his only son [[William Franklin]]), such circumstances were incompatible with patriotic sensibilities a century afterward.<ref name="werbel" /><ref>Stevens, pp. 219-225.</ref>  Amy Beth Werbel opines bluntly:
+
+{{quote|At a time when America was scant one hundred years old, Benjamin Franklin was an important part of its founding mythology.  Some Americans felt it their patriotic duty to hide the fact that the conqueror of electricity and continental congressman was also a raunchy (and probably unfaithful) lout.<ref name="werbel" />}}
+
+==Citations==
+By the mid-20th century, United States federal judges were citing the letter in [[originalism|originalist]] reasoning to overturn [[obscenity]] laws.  A [[Jerome Frank (lawyer)|Jerome Frank]] appellate opinion of 1957 named "Advice to a Young Man on Choosing a Mistress" along with "[[The Speech of Polly Baker]]" as two examples that would have convicted one of the nation's leading founding fathers on federal obscenity charges if they had been written and mailed under subsequent law.<ref>Nat Hentoff, ''The Nat Hentoff Reader'', Da Capo Press, 2001, p. 60.</ref>
+
+The most notable of these citations occurred in the [[United States Supreme Court]] case, ''[[United States v. 12 200-ft. Reels of Film]]''.  In a dissenting opinion, Justice [[William O. Douglas]] states:
+{{quote|The [[First Amendment to the United States Constitution|First Amendment]] was the product of a robust, not a prudish, age...  This was the age when Benjamin Franklin wrote his "Advice to a Young Man on Choosing a Mistress" and "[[Fart Proudly|A Letter to the Royal Academy at Brussels]]".  When the United States became a nation, none of the fathers of the country were any more concerned than Franklin with the question of pornography...  The [[Anthony Comstock]]s, the [[Thomas Bowdler]]s and [[Victorian era|Victorian]] hypocrisy—the predecessors of our present obscenity laws—had yet to come upon the stage.<ref>''[http://caselaw.lp.findlaw.com/cgi-bin/getcase.pl?court=us&vol=413&invol=123 United States v. 12 200-ft. Reels of Film]'', 413 U.S. 123 (1973); accessed 19 July 2008.</ref>}}
+
+The letter is also referenced during a conversation with Benjamin Franklin in the 2012 [[video game]] ''[[Assassin's Creed III]]'' during a cutscene in a general store.<ref>[https://www.youtube.com/watch?v=8JzXG-G3Asg ''Assassin's Creed III'' - Benjamin Franklin's 8 Reasons for Dating Older Women"]</ref>
+
+==See also==
+*[[Censorship in the United States]]
+*[[Fart Proudly]]
+
+==References==
+{{Reflist|2}}
+
+{{Benjamin Franklin}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Advice To A Friend On Choosing A Mistress}}
+[[Category:Works by Benjamin Franklin]]
+[[Category:Censorship in the United States]]
+[[Category:1745 works]]
+[[Category:Sexuality and age]]
+[[Category:Letters (message)]]
+[[Category:18th-century historical documents]]

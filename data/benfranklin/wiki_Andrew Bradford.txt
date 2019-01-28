@@ -1,0 +1,38 @@
+'''Andrew Bradford''' (1686 – November 24, 1742) was an early American printer in colonial [[Philadelphia]]. He published the first newspaper in Philadelphia, ''The American Weekly Mercury'', beginning in 1719, as well as the first magazine in America in 1741.<ref name=ambio>{{cite book|title=American National Biography|year=2010|publisher=Oxford University Press / American National Biography|author=Craig, Raymond A.|chapter=Andrew Bradford}}</ref><ref name=hist>{{cite book|last=Mott|first=Frank Luther|title=A History of American Magazines|year=1970|publisher=Harvard Univ. Press|location=Cambridge, Massachusetts|isbn=9780674395503|page=71|url=https://books.google.com/books?id=TIN35IEDPX8C&lpg=PA71&ots=Tnwkkf6hZB&dq=%22american%20magazine%22%20andrew%20bradford&pg=PA71#v=onepage&q&f=false|edition=Nachdr.}}</ref>
+
+[[Image:1719 American Weekly Mercury Dec22.png|thumb|right|''American Weekly Mercury'', 1719<ref>Steven J. Shaw. Colonial Newspaper Advertising: A Step toward Freedom of the Press. The Business History Review, Vol. 33, No. 3 (Autumn, 1959), pp. 409-420</ref>]]
+
+==Life and career==
+He was the son of a printer, and grandson of two others. He was born to [[William Bradford (1663-1752)|William]] and Elizabeth Sowle Bradford in Philadelphia. In 1692, the family moved to [[New York City|New York]], and there he learned the printing trade from his father. In 1709, Andrew Bradford was listed as a printer in New York; that year, he declined an offer from Rhode Island to become that colony's printer.<ref name=ambio />
+
+He returned to Philadelphia in 1712 and opened his own print shop. On December 22, 1719, he began publication of ''The [[American Weekly Mercury]]''. This was the first newspaper in Philadelphia and enjoyed a wide circulation. He also taught the print business to his nephew  [[William Bradford (1719-1791)|William Bradford]] and for a time employed [[Benjamin Franklin]] when Franklin first came to Philadelphia, introduced by Bradford's father William.<ref>{{cite book|title=Oxford Dictionary of National Biography|year=2004|publisher=Oxford University Press|author=Calhoun Winton|accessdate=8 May 2013|chapter=Bradford, William (1663–1752)}}</ref> Franklin would go on to establish a rival printing press and newspaper, the ''[[Pennsylvania Gazette]]'', in Philadelphia. On February 13, 1741, Bradford published the first issue of the ''American Magazine'', the first magazine to be published in America — beating out Franklin for the honor by three days.<ref name=hist />
+
+Throughout the 1720s, Bradford published political pamphlets critical of the local government, denouncing its "sinking credit" and supporting freedom of the press. He also published "Busy-Body" essays, criticisms of the colonial government penned by Franklin and [[Joseph Breintnall]], in the ''Mercury''. For these political actions, Bradford was brought before a council, censured several times, and jailed once.<ref name=ambio /> 
+ 
+Bradford's first wife was Dorcas Boels, who died in 1739. Bradford then married [[Cornelia Smith Bradford|Cornelia Smith]], who took over his print shop and newspaper upon his death in 1742.<ref>{{cite book|last=De Armond|first=Anna Janney|title=Notable American Women, A Biographical Dictionary: 1607-1950 (Vol.1-3)|year=1971|publisher=Harvard University Press|location=Cambridge|isbn=9780674627345|pages=219–220|url=http://search.ebscohost.com/login.aspx?direct=true&db=b6h&AN=34644211&site=brc-live|accessdate=3 May 2013|chapter=BRADFORD, Cornelia Smith.}}</ref>
+
+==References==
+{{reflist}}
+
+===Further reading===
+* {{cite book|last=Jones|first=Horatio G.|title=An address delivered at the annual meeting of the Historical society of Pennsylvania|year=1869|publisher=Philadelphia, King & Baird, printers|page=25|url=https://archive.org/details/addressdelivered00jo}}
+* {{cite book|last=Thomas|first=Isaiah|title=The history of printing in America|year=1810|url=http://openlibrary.org/books/OL25399626M/The_history_of_printing_in_America}} 
+* [http://hsp.org/sites/default/files/legacy_files/migrated/findingaid1676bradford.pdf The Bradford Family Papers (1620-1906)], held at the Historical Society of Pennsylvania
+
+==External links==
+* {{Commons category inline|Andrew Bradford}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bradford, Andrew}}
+[[Category:1686 births]]
+[[Category:1742 deaths]]
+[[Category:American printers]]
+[[Category:Businesspeople from Philadelphia]]
+[[Category:People of colonial Pennsylvania]]
+[[Category:American newspaper founders]]
+[[Category:American publishers (people)]]
+[[Category:Journalists from Pennsylvania]]
+
+
+{{newspaper-stub}}

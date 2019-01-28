@@ -1,0 +1,154 @@
+{{Redirect|Mesmer}}
+{{Infobox scientist
+|birth_name        = Franz Friedrich Anton Mesmer
+|image             =Franz Anton Mesmer, MRF - Vizille.jpg
+|image_size        =200px
+|caption           =Print of Franz Anton Mesmer<br >([[Musée de la Révolution française]])
+|birth_date        = {{birth-date|23 May 1734|23 May 1734}}
+|birth_place       = Iznang, [[Bishopric of Constance]] (today [[Moos, Baden-Württemberg]], Germany)
+|death_date = {{death date and age|1815|3|5|1734|5|23|df=y}}
+|death_place       = [[Meersburg]], [[Grand Duchy of Baden|Baden]]
+|residence         =
+|citizenship       =
+|nationality       = German
+|ethnicity         =
+|field             =
+|work_institutions =
+|alma_mater        =
+|doctoral_advisor  =
+|doctoral_students =
+|known_for         = [[Animal magnetism]]
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        =
+|influenced        =
+|prizes            =
+|religion          =
+|footnotes         =
+|signature         =
+}}
+'''Franz Friedrich Anton Mesmer''' ({{IPAc-en|ˈ|m|ɛ|z|m|ər}};<ref>[http://dictionary.reference.com/browse/mesmer "Mesmer"]. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> {{IPA-de|ˈmɛsmɐ|lang}}; 23 May 1734 – 5 March 1815) was a German [[physician|doctor]] with an interest in [[astronomy]] who theorised that there was a natural energy transference that occurred between all animated and inanimate objects that he called [[animal magnetism]], sometimes later referred to as ''mesmerism''. The theory attracted a wide following between about 1780 and 1850, and continued to have some influence until the end of the century.<ref name=Crabtree>Crabtree, introduction</ref> In 1843 the Scottish doctor [[James Braid (surgeon)|James Braid]] proposed the term [[hypnosis]] for a technique derived from animal magnetism; today this is the usual meaning of  ''[[wiktionary:en:mesmerism|mesmerism]]''.
+
+==Early life==
+Mesmer was born in the village of Iznang, on the shore of [[Lake Constance]] in [[Swabia]], [[Germany]], a son of master forester Anton Mesmer (1701—after 1747) and his wife, Maria/Ursula (née Michel; 1701—1770).<ref>Prinz</ref> After studying at the [[Society of Jesus|Jesuit]] universities of [[University of Dillingen|Dillingen]] and [[University of Ingolstadt|Ingolstadt]], he took up the study of [[medicine]] at the [[University of Vienna]] in 1759. In 1766 he published a [[doctoral dissertation]] with the [[Latin]] title ''De planetarum influxu in corpus humanum'' (''On the Influence of the Planets on the Human Body''), which discussed the influence of the [[moon]] and the [[planets]] on the human body and on disease. This was not [[medical astrology]]. Building largely on [[Isaac Newton]]'s theory of the tides, Mesmer expounded on certain tides in the human body that might be accounted for by the movements of the sun and moon.<ref>Bloch, xiii</ref> Evidence assembled by [[Frank A. Pattie]] suggests that Mesmer plagiarized<ref>Pattie, 13ff.</ref> a part of his dissertation from a work<ref>''De Imperio Solis ac Lunae in Corpora Humana et Morbis inde Oriundis'' (On the Influence of the Sun and Moon upon Human Bodies and the Diseases Arising Therefrom (1704). See Pattie, 16.</ref> by [[Richard Mead]], an eminent English physician and Newton's friend. However, in Mesmer's day doctoral theses were not expected to be original.<ref>Pattie, 13</ref>
+
+In January 1768, Mesmer married Anna Maria von Posch, a wealthy widow, and established himself as a doctor in [[Vienna]]. In the summers he lived on a splendid estate and became a patron of the arts. In 1768, when court intrigue prevented the performance of ''[[La finta semplice]]'' (K. 51), for which the twelve-year-old [[Wolfgang Amadeus Mozart]] had composed 500 pages of music, Mesmer is said to have arranged a performance in his garden of Mozart's ''[[Bastien und Bastienne]]'' (K. 50), a one-act opera,<ref>Pattie, 30</ref> though Mozart's biographer [[Georg Nikolaus von Nissen|Nissen]] found no proof that this performance actually took place. Mozart later immortalized his former patron by including a comedic reference to Mesmer in his opera ''[[Così fan tutte]]''.<ref>{{Cite journal|last=Steptoe|first=Andrew|date=1986|title=Mozart, Mesmer and 'Cosi Fan Tutte'|jstor=735887|journal=Music & Letters|volume=67|issue=3|pages=248–255}}</ref>
+[[Image:De planetarum influxu in corpus humanum manuscript.jpg|thumb|''De planetarum influxu in corpus humanum'']]
+
+==Animal magnetism==
+{{Hypnosis|origins}}
+In 1774, Mesmer produced an "artificial tide" in a patient, Francisca Österlin, who suffered from hysteria, by having her swallow a preparation containing iron and then attaching magnets to various parts of her body. She reported feeling streams of a mysterious fluid running through her body and was relieved of her symptoms for several hours. Mesmer did not believe that the magnets had achieved the cure on their own. He felt that he had contributed [[animal magnetism]], which had accumulated in his work, to her. He soon stopped using magnets as a part of his treatment.
+
+In the same year Mesmer collaborated with [[Maximilian Hell]].
+
+In 1775, Mesmer was invited to give his opinion before the Munich Academy of Sciences on the [[exorcism]]s carried out by [[Johann Joseph Gassner]] (Gaßner), a [[priest]] and [[Faith healer|healer]] who grew up in [[Vorarlberg]], Austria. Mesmer said that while Gassner was sincere in his beliefs, his cures resulted because he possessed a high degree of animal magnetism. This confrontation between Mesmer's secular ideas and Gassner's religious beliefs marked the end of Gassner's career as well as, according to [[Henri Ellenberger]], the emergence of [[dynamic psychiatry]].
+
+The scandal that followed Mesmer's only partial success in curing the blindness of an 18-year-old musician, [[Maria Theresia Paradis]], led him to leave [[Vienna]] in 1777. In February 1778 Mesmer moved to [[Paris]], rented an apartment in a part of the city preferred by the wealthy and powerful, and established a medical practice. Paris soon divided into those who thought he was a charlatan who had been forced to flee from Vienna and those who thought he had made a great discovery.
+
+In his first years in Paris, Mesmer tried and failed to get either the [[French Academy of Sciences|Royal Academy of Sciences]] or the [[Académie Nationale de Médecine|Royal Society of Medicine]] to provide official approval for his doctrines. He found only one physician of high professional and social standing, Charles d'Eslon, to become a disciple. In 1779, with d'Eslon's encouragement, Mesmer wrote an 88-page book, ''Mémoire sur la découverte du magnétisme animal'', to which he appended his famous 27 Propositions. These propositions outlined his theory at that time. Some contemporary scholars equate Mesmer’s animal magnetism with the Qi (chi) of Traditional Chinese Medicine and mesmerism with [[Qigong#Chinese Medical Qigong|medical Qigong]] practices.<ref>Fenton, 105ff.</ref><ref>Mackett, J., ''British Journal of Experimental & Clinical Hypnosis''</ref>
+
+According to d'Eslon, Mesmer understood health as the free flow of the process of life through thousands of channels in our bodies. Illness was caused by obstacles to this flow. Overcoming these obstacles and restoring flow produced crises, which restored health. When [[Nature]] failed to do this spontaneously, contact with a conductor of animal magnetism was a necessary and sufficient remedy. Mesmer aimed to aid or provoke the efforts of Nature. To cure an [[Insanity|insane]] person, for example, involved causing a fit of madness. The advantage of magnetism involved accelerating such crises without danger.
+
+===Procedure===
+Mesmer treated patients both individually and in groups. With individuals he would sit in front of his patient with his knees touching the patient's knees, pressing the patient's thumbs in his hands, looking fixedly into the patient's eyes. Mesmer made "passes", moving his hands from patients' shoulders  down along their arms. He then pressed his fingers on the patient's  [[hypochondrium]] region (the area below the [[diaphragm (anatomy)|diaphragm]]), sometimes holding his hands there for hours. Many patients felt peculiar sensations or had convulsions that were regarded as crises and supposed to bring about the cure. Mesmer would often conclude his treatments by playing some music on a [[glass armonica]].<ref>Gielen & Raymond, 32ff.</ref>
+
+By 1780 Mesmer had more patients than he could treat individually and he established a collective treatment known as the "baquet." An English doctor who observed Mesmer described the treatment as follows:[[File:AMesmerianExperimentogv.ogv|thumb|A caricature of Mesmer "baquet" filmed by [[Georges Méliès]], 1905|262x262px]]<blockquote>In the middle of the room is placed a vessel of about a foot and a half high which is called here a "baquet". It is so large that twenty people can easily sit round it; near the edge of the lid which covers it, there are holes pierced corresponding to the number of persons who are to surround it; into these holes are introduced iron rods, bent at right angles outwards, and of different heights, so as to answer to the part of the body to which they are to be applied. Besides these rods, there is a rope which communicates between the baquet and one of the patients, and from him is carried to another, and so on the whole round. The most sensible effects are produced on the approach of Mesmer, who is said to convey the fluid by certain motions of his hands or eyes, without touching the person. I have talked with several who have witnessed these effects, who have convulsions occasioned and removed by a movement of the hand...</blockquote>
+
+===Investigation===
+[[Image:Franz Anton Mesmers Grabstein 01 Gesamt.jpg|thumb|Mesmer's grave in the cemetery in [[Meersburg]], Germany.]]
+
+In 1784, without Mesmer requesting it, [[King Louis XVI]] appointed four members of the Faculty of Medicine as commissioners to investigate animal magnetism as practiced by d'Eslon. At the request of these commissioners the King appointed five additional commissioners from the Royal Academy of Sciences. These included the [[chemistry|chemist]] [[Antoine Lavoisier]], the doctor [[Joseph-Ignace Guillotin]], the [[astronomy|astronomer]] [[Jean Sylvain Bailly]], and the American [[ambassador]] [[Benjamin Franklin]].
+
+The commission conducted a series of experiments aimed not at determining whether Mesmer's treatment worked, but whether he had discovered a new physical fluid. The commission concluded that there was no evidence for such a fluid. Whatever benefit the treatment produced was attributed to "[[imagination]]." But one of the commissioners, the botanist [[Antoine Laurent de Jussieu]] took exception to the official reports. He wrote a dissenting opinion that declared Mesmer's theory credible and worthy of further investigation.
+
+The commission did not examine Mesmer, but investigated the practice of d'Eslon.
+
+In August 1784 Mesmer visited a Mesmeric society in Lyon. In 1785 Mesmer left Paris. In 1790 he was in Vienna again to settle the estate of his deceased wife Maria Anna. When he sold his house in Vienna in 1801 he was in Paris.
+
+Mesmer was driven into exile soon after the investigations on animal magnetism although his influential student, Armand-Marie-Jacques de Chastenet, Marquis de Puségur (1751-1825), continued to have many followers until his death.<ref>Gielen & Raymond, 39-45</ref> Mesmer continued to practice in Frauenfeld, Switzerland, for a number of years and died in 1815 in [[Meersburg]], Germany.<ref>(de) [http://www.knerger.de/html/mesmererfinder.html Mesmer's grave on the cemetery in Meersburg, source: knerger.de]</ref>
+
+[[Abbé Faria]], an Indo-Portuguese monk in Paris and a contemporary of Mesmer, claimed that "nothing comes from the magnetizer; everything comes from the subject and takes place in his [[imagination]], i.e. [[autosuggestion]] generated from within the mind."
+
+==Works==
+{{div col|colwidth=30em}}
+*''De planetarum influxu in corpus humanum'' (''Über den Einfluss der Gestirne auf den menschlichen Körper''; "The Influence of the Planets on the Human Body" / original language: Latin) (1766).
+*''Mémoire sur la découverte du magnetisme animal'', Didot, Genf und Paris 1779 [http://gallica.bnf.fr/ark:/12148/bpt6k75421p.r (Digitalisat)]
+*''Sendschreiben an einen auswärtigen Arzt über die Magnetkur'' ("Circulatory letter to an external[?] physician about the magnetic cure" / original language: German) (1775).
+*''Théorie du monde et des êtres organisés suivant les principes de M….'', Paris, 1784 [http://gallica.bnf.fr/ark:/12148/bpt6k107858b (Digitalisat)]
+*''Mémoire de F. A. Mesmer,...sur ses découvertes'', 1798 - 1799 [http://gallica.bnf.fr/ark:/12148/bpt6k75473x.r=memoire%20de%20mesmer%20su (Digitalisat)]
+*''Mesmerismus oder System der Wechselwirkungen. Theorie und Anwendung des thierischen Magnetismus'' ("Mesmerism or the system of inter-relations. Theory and applications of animal magnetism" / original language: German) (1814). Edited by [[Karl Christian Wolfart]]: ''Mesmerismus. Oder System der Wechselwirkungen, Theorie und Anwendung des thierischen Magnetismus als die allgemeine Heilkunde zur Erhaltung des Menschen. Mit dem Bildniß des Verfassers und 6 Kupfertafeln''. Nikolai, Berlin 1814 [http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10287671_00005.html Digitalisat]
+{{div col end}}
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+{{refbegin|25em}}
+*Bailly, J-S., "Secret Report on Mesmerism or Animal Magnetism", ''International Journal of Clinical and Experimental Hypnosis'', Vol. 50, No. 4, (October 2002), pp.&nbsp;364–68. [https://dx.doi.org/10.1080/00207140208410110 doi=10.1080/00207140208410110]
+*Franklin, B., Majault, M. J., Le Roy, J. B., Sallin, C. L., Bailly, J-S., d'Arcet, J., de Bory, G., Guillotin, J-I., and Lavoisier, A., "Report of the Commissioners charged by the King with the Examination of Animal Magnetism", ''International Journal of Clinical and Experimental Hypnosis'', Vol. 50, No. 4, (October 2002), pp.&nbsp;332–63. [https://dx.doi.org/10.1080/00207140208410109 doi=10.1080/00207140208410109]
+*{{cite journal |author= |trans-title=Classics: Memoir on the Discovery of Animal Magnetism (Franz A. Mesmer) |language=Spanish |journal=Actas luso-españolas de neurología, psiquiatría y ciencias afines |volume=1 |issue=5 |pages=733–9 |date=Sep 1973 |pmid=4593210  |title= Classics: Memoir on the Discovery of Animal Magnetism (Franz A. Mesmer) |issn= 0300-5062}}
+*{{cite journal |author=Akstein D |trans-title=Mesmer, the Precursor of Spiritual Medicine (I) |language=Portuguese |journal=Revista Brasileira de Medicina |volume=24 |issue=4 |pages=253–7 |date=April 1967 |pmid=4881184 |title=Mesmer, the Precursor of Spiritual Medicine (I) |issn=0034-7264}}
+* Buranelli, V., ''The Wizard from Vienna: Franz Anton Mesmer'', Coward, McCann & Geoghegan., (New York), 1975.
+*Crabtree, Adam (1988). ''Animal Magnetism, Early Hypnotism, and Psychical Research, 1766–1925 – An Annotated Bibliography''. White Plains, NY: Kraus International. {{ISBN|0-527-20006-9}}
+*{{cite book | last = Darnton | first = Robert | title = Mesmerism and the End of the Enlightenment in France | publisher = Harvard University Press | location = Cambridge | year = 1968 | isbn = 0-674-56951-2 }}
+* Donaldson, I.M.L., "Mesmer's 1780 Proposal for a Controlled Trial to Test his Method of Treatment Using 'Animal Magnetism'", ''Journal of the Royal Society of Medicine'', Vol.98, No.12, (December 2005), pp.&nbsp;572–575.
+*{{cite journal |author=Eckert H |trans-title=An Unknown Portrait of Franz Anton Mesmer |language=German |journal=Gesnerus |volume=12 |issue=1–2 |pages=44–6 |year=1955 |pmid=13305809 |title=An Unknown Portrait of Franz Anton Mesmer |issn=0016-9161}}
+*{{cite book | last = Ellenberger | first = Henri | title = The Discovery of the Unconscious | publisher = Basic Books | location = New York | year = 1970 | isbn = 0-465-01672-3 }}
+*{{cite book |last=Fenton|first=Peter Robert|title=Shaolin Nei Jin Qi Gong: Ancient Healing in the Modern World|date=1996|publisher=Samuel Weiser| location = York Beach|isbn=0-87728-876-3}}
+*{{cite journal |author=Forrest D |title=Mesmer |journal=The International Journal of Clinical and Experimental Hypnosis |volume=50 |issue=4 |pages=295–308 |date=October 2002 |pmid=12362948 |doi=10.1080/00207140208410106 |issn=0020-7144}}
+*{{cite journal |author=Gallo DA, Finger S |title=The Power of a Musical Instrument: Franklin, the Mozarts, Mesmer, and the Glass Armonica |journal=History of Psychology |volume=3 |issue=4 |pages=326–43 |date=November 2000 |pmid=11855437 |doi=10.1037/1093-4510.3.4.326 |issn=1093-4510}}
+*{{cite book|last1=Gielen|first1=Uwe|last2=Raymond|first2=Jeannette|editor1-last=Rich|editor1-first=Grant|editor2-last=Gielen|editor2-first=Uwe|title=Pathfinders in international psychology|date=2015|publisher=Information Age Publishing|location=Charlotte, NC|pages=25–51|chapter=The curious birth of psychological healing in the Western World (1775-1825): From Gaβner to Mesmer to Puységur.}}
+* Goldsmith, M., ''Franz Anton Mesmer: A History of Mesmerism'', Doubleday, Doran & Co., (New York), 1934.
+*{{cite book | last = Gould | first = Stephen | title = Bully for Brontosaurus | publisher = Norton | location = New York | year = 1991 | isbn = 0-393-30857-X }}
+*{{cite journal |author=Gravitz MA |title=The First Use of Self-Hypnosis: Mesmer Mesmerizes Mesmer |journal=The American Journal of Clinical Hypnosis |volume=37 |issue=1 |pages=49–52 |date=July 1994 |pmid=8085546 |issn=0002-9157 |doi=10.1080/00029157.1994.10403109}}
+* [https://archive.org/details/b24872210_0002 Harte, R., ''Hypnotism and the Doctors, Volume I: Animal Magnetism: Mesmer/De Puysegur'', L.N. Fowler & Co., (London), 1902].
+*{{cite journal |author=Iannini R |trans-title=Mesmer and Mesmerism |language=Italian |journal=Medicina nei Secoli |volume=4 |issue=3 |pages=71–83 |year=1992 |pmid=11640137 |title=Mesmer and mesmerism |issn=0394-9001}}
+*{{cite journal |author=Kihlstrom JF |title=Mesmer, the Franklin Commission, and Hypnosis: A Counterfactual Essay |journal=The International Journal of Clinical and Experimental Hypnosis |volume=50 |issue=4 |pages=407–19 |date=October 2002 |pmid=12362956 |doi=10.1080/00207140208410114 |issn=0020-7144}}
+*{{cite journal |author=Lopez CA |title=Franklin and Mesmer: An Encounter |journal=[[Yale Journal of Biology and Medicine]] |volume=66 |issue=4 |pages=325–31 |date=Jul 1993 |pmid=8209564 |pmc=2588895  |issn=0044-0086 }}
+*{{cite journal |author=Mackett, J |title=Chinese Hypnosis |journal=British Journal of Experimental & Clinical Hypnosis |volume=6 |issue=2 |pages=129–130 |date=June 1989 |issn=0265-1033}}
+*{{cite journal |author=Makari GJ |title=Franz Anton Mesmer and the Case of the Blind Pianist |journal=Hospital and Community Psychiatry |volume=45 |issue=2 |pages=106–10 |date=February 1994 |pmid=8168786 |url=https://ps.psychiatryonline.org/doi/abs/10.1176/ps.45.2.106 |issn=0022-1597 |doi=10.1176/ps.45.2.106 }}
+*{{cite book | last = Mesmer | first = Franz | title = Mesmerism | publisher = W. Kaufman | location = Los Altos | year = 1980 | isbn = 0-913232-88-2 }}
+*{{cite journal |author=Miodoński L |trans-title=Romantic Medicine in Germany as the Philosophical Explication for Understanding the World and Man - Mesmer and Mesmerism |language=Polish |journal=Medycyna Nowozytna |volume=8 |issue=2 |pages=5–32 |year=2001 |pmid=12568094 |title=Romantic Medicine in Germany as the Philosophical Explication for Understanding the World and Man – Mesmer and Mesmerism |issn=1231-1960}}
+*{{cite journal |author=Parish D |title=Mesmer and His Critics |journal=New Jersey Medicine: The Journal of the Medical Society of New Jersey |volume=87 |issue=2 |pages=108–10 |date=February 1990 |pmid=2407974 |issn=0885-842X}}
+* Pattie, F.A., "Mesmer's Medical Dissertation and Its Debt to Mead's ''De Imperio Solis ac Lunae''", ''Journal of the History of Medicine and Allied Sciences'', Vol.11, (July 1956), pp.&nbsp;275–287.
+*{{cite book | last = Pattie | first = Frank | title = Mesmer and Animal Magnetism: A Chapter in the History of Medicine | publisher = Edmonston Pub | location = Hamilton | year = 1994 | isbn = 0-9622393-5-6 }}
+*{{cite journal |author=Pattie FA |title=A Mesmer-Paradis Myth Dispelled |journal=The American Journal of Clinical Hypnosis |volume=22 |issue=1 |pages=29–31 |date=July 1979 |pmid=386774 |issn=0002-9157 |doi=10.1080/00029157.1979.10403997}}
+*{{cite book | last = Prinz | first = Armin | title = Mesmer, Franz Anton ''in:'' Neue Deutsche Biographie 17 | publisher = | location = | year = 1994 | isbn = }} http://www.deutsche-biographie.de/pnd118581309.html
+*{{cite journal |author=Schott H |title=Die Mitteilung des Lebensfeuers. Zum therapeutischen Konzept von Franz Anton Mesmer (1734-1815) |journal=Medizinhistorisches Journal |volume=17 |issue=3 |pages=195–214 |year=1982 |pmid=11615917 |issn=0025-8431}}
+*{{cite journal |author=Schott H |trans-title=Mesmer, Braid and Bernheim: On the History of the Development of Hypnotism |language=German |journal=Gesnerus |volume=41 |issue=1–2 |pages=33–48 |year=1984 |pmid=6378725 |title=Mesmer, Braid and Bernheim: On the History of the Development of Hypnotism |issn=0016-9161}}
+*{{cite journal |author=Shultheisz E |trans-title=Mesmer and Mesmerism |language=Hungarian |journal=Orvosi Hetilap |volume=106 |issue= |pages=1427–30 |date=July 1965 |pmid=14347842 |title=MESMER AND MESMERISM |issn=0030-6002}}
+*{{cite journal |author=Spiegel D |title=Mesmer Minus Magic: Hypnosis and Modern Medicine |journal=The International Journal of Clinical and Experimental Hypnosis |volume=50 |issue=4 |pages=397–406 |date=October 2002 |pmid=12362955 |doi=10.1080/00207140208410113 |issn=0020-7144}}
+*{{cite journal |author=Stone MH |title=Mesmer and His Followers: The Beginnings of Sympathetic Treatment of Childhood Emotional Disorders |journal=History of Childhood Quarterly |volume=1 |issue=4 |pages=659–79 |date=Spring 1974 |pmid=11614567  |issn=0091-4266 |url=https://www.nlm.nih.gov/medlineplus/childrenshealth.html |format=Free full text}}
+*{{cite journal |author=Voegele GE |title=The Relation of Mesmer to Mozart |journal=The American Journal of Psychiatry |volume=112 |issue=10 |pages=848–9 |date=April 1956 |pmid=13302494 |url=http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=13302494 |issn=0002-953X |doi=10.1176/ajp.112.10.848}}
+*{{cite journal |author=Watkins D |title=Franz Anton Mesmer: Founder of Psychotherapy |journal=Nursing Mirror and Midwives Journal |volume=142 |issue=22 |pages=66–7 |date=May 1976 |pmid=778805 |issn=0143-2524}}
+* Winter, A., ''Mesmerized: Powers of Mind in Victorian Britain'', The University of Chicago Press, (Chicago), 1998.
+* Wyckoff, J. [1975], ''Franz Anton Mesmer: Between God and Devil'', Prentice-Hall, (Englewood Cliffs), 1975.
+{{refend}}
+
+==External links==
+{{Commons category|Franz Anton Mesmer}}
+{{Wiktionary|mesmerism}}
+
+*{{webarchive |url=https://web.archive.org/web/20040710162753/http://www.unbf.ca/psychology/likely/readings/mesmer.htm |date=July 10, 2004 |title=Mesmer's 27 Propositions }}
+*{{Cite AmCyc|wstitle=Mesmer, Friedrich Anton|short=x}}
+*"Condorcet and mesmerism: a record in the history of scepticism", Condorcet manuscript (1784), online and analyzed on ''[http://www.bibnum.education.fr/sciences-humaines-et-sociales/diffusion-des-sciences/sur-les-raisons-qui-m-ont-empeche-jusqu-ici-de Bibnum]'' <small>[click 'à télécharger' for English version]</small>.
+
+{{Spiritism and Spiritualism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mesmer, Franz}}
+[[Category:1734 births]]
+[[Category:1815 deaths]]
+[[Category:18th-century German physicians]]
+[[Category:18th-century German writers]]
+[[Category:19th-century German writers]]
+[[Category:German astrologers]]
+[[Category:German male writers]]
+[[Category:German hypnotists]]
+[[Category:Animal magnetism]]
+[[Category:New Age predecessors]]
+[[Category:Rosicrucians]]
+[[Category:People from Konstanz (district)]]
+[[Category:19th-century male writers]]
+[[Category:18th-century occultists]]
+[[Category:19th-century occultists]]

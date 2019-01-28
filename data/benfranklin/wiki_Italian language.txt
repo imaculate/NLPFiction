@@ -1,0 +1,891 @@
+{{redirect|Italiano}}
+{{about|the standardized Italian language|other Italian languages originating or spoken in Italy|Languages of Italy}}
+{{Use dmy dates|date=July 2013}}
+{{Infobox language
+| name = Italian
+| nativename = ''italiano'', ''lingua italiana''
+| ethnicity = [[Italians]]
+| pronunciation = {{IPA-it|itaˈljaːno|}}
+| states = [[Italy]], [[Switzerland]], [[San Marino]], [[Vatican City]], [[Malta]], [[Slovenian Istria]] ([[Slovenia]]), [[Istria County]] and [[Dalmatia]] ([[Croatia]]), [[Corsica]] and [[Nice]] ([[France]]), [[Kotor]] and [[Tivat]] ([[Montenegro]]) and [[Corfù]] ([[Greece]])
+| region = Italy, [[Ticino]] and [[Italian Graubünden|southern Graubünden]], [[Slovenian Littoral]], western [[Istria]] and Dalmatia
+| speakers = {{sigfig|69|2}} million native speakers in the EU<ref name="europa2006">{{cite web|url= http://ec.europa.eu/public_opinion/archives/ebs/ebs_243_sum_en.pdf |title=Eurobarometer – Europeans and their languages }} {{small|(485&nbsp;KB)}}, February 2006</ref>
+| speakers2 = 90 million total speakers<br />[[Second language|L2 speakers]]: 24 million
+| date = 2012
+| dateprefix = c.
+| ref = e18
+| familycolor = Indo-European
+| fam2 = [[Italic languages|Italic]]
+| fam3 = [[Romance languages|Romance]]
+| fam4 = [[Italo-Western languages|Italo-Western]]
+| fam5 = [[Italo-Dalmatian languages|Italo-Dalmatian]]
+| script = [[Latin script|Latin]] ([[Italian alphabet]])<br />[[Italian Braille]]
+| nation = {{flag|Italy}}<br />{{flag|San Marino}}<br />{{flag|Switzerland}}<br />{{flag|Vatican City}}
+----
+{{flagicon|Slovenia}} [[Slovenian Istria]] <small>([[Slovenia]])</small><br />{{flag|Istria County}} <small>([[Croatia]])</small><br /> 
+{{flag|Brazil}} <small>([[Talian dialect]] in [[Rio Grande do Sul]] & [[Santa Catarina (state)|Santa Catarina]])
+
+{{flag|European Union}}<br />[[File:OSCE logo.svg|30px]] [[Organization for Security and Co-operation in Europe|OSCE]]<br />{{flag|Sovereign Military Order of Malta}}
+| minority = {{flag|Albania}}<br />{{flag|Argentina}}{{sfn|Lewis|Simons|Fennig|2014}}<br />{{flag|Australia}}<ref>{{Cite web |url=http://abs.gov.au/websitedbs/D3310116.NSF/85255e31005a1918852556c2005508d8/c47ad86d67c1466bca256ce0007e8d6b/$FILE/ATTH23CO/Exstatic%202%202005,%20Australia.xls |title=Australian Bureau of Statistics, 2005, "Language other than English" (spreadsheet of figures from 2001 Census) |access-date=8 December 2015 |archive-url=https://web.archive.org/web/20080720084411/http://abs.gov.au/Websitedbs/D3310116.NSF/85255e31005a1918852556c2005508d8/c47ad86d67c1466bca256ce0007e8d6b/$FILE/ATTH23CO/Exstatic%202%202005,%20Australia.xls |archive-date=20 July 2008 |dead-url=yes |df=dmy-all }}</ref><br />{{flag|Bosnia and Herzegovina}}<br />{{flag|Croatia}}<br />{{flag|Eritrea}}<br />{{flag|Libya}}<br />{{flag|Malta}}<ref>http://ec.europa.eu/public_opinion/archives/ebs/ebs_243_en.pdf</ref><br />{{flag|Monaco}}<ref>[http://www.monaco-iq.com/society Monaco IQ (English language)], referencing Chapter One of [http://www.gouv.mc/devwww/wwwnew.nsf/1909$/dfb8c2ae4774e8d9c12575ac0046c0e5gb?OpenDocument&Count=10000&InfoChap= Files and Reports&InfoSujet=General Population Census 2008&6Gb|2008 census (gouv.mc not an English source)] {{webarchive|url=https://web.archive.org/web/20110927091928/http://www.gouv.mc/devwww/wwwnew.nsf/1909%24/dfb8c2ae4774e8d9c12575ac0046c0e5gb?OpenDocument&Count=10000&InfoChap= |date=27 September 2011 }}</ref><br />{{flag|Montenegro}}<br />{{flag|Romania}}<br />{{flag|Slovenia}}<br />{{flag|Somalia}}<br />{{flag|Uruguay}}<br /> {{flag|Ethiopia}}<br />
+{{flag|Venezuela}}<ref name="L’ITALIANO IN VENEZUELA">{{cite journal|last1=Bernasconi|first1=Giulia|title=L’ITALIANO IN VENEZUELA|journal=Italiano LinguaDue|date=2012|issue=2|page=20|doi=10.13130/2037-3597/1921|url=https://www.openaire.eu/search/publication?articleId=doajarticles::e2c6e2d8ae5915079007d321c21defb0|accessdate=22 January 2017|publisher=Università degli Studi di Milano|language=Italian|quote=L'italiano come lingua acquisita o riacquisita è largamente diffuso in Venezuela: recenti studi stimano circa 200.000 studenti di italiano nel Paese}}</ref><!--Please add where it is "officially" ar at least recognized as a "minority language". All unsourced inserts will be removed--->
+| agency = [[Accademia della Crusca]] (''de facto'')
+| iso1 = it
+| iso2 = ita
+| iso3 = ita
+| lingua = 51-AAA-q
+| map = Map Italophone World.png
+| mapsize = 310px
+| mapcaption = {{legend|#0c5eb1|Main language}}
+{{legend|#9fceff|Former official language, now secondary}}
+{{legend|#00ff00|Large Italian-speaking communities}}
+| notice = IPA
+| sign = ''[[Italiano segnato]]'' "(Signed Italian)"<ref>{{cite web|url=http://www.cdila.it/cds/Index?q=object/detail&p=_system_cms_node/_a_ID/_v_33 |title=Centro documentazione per l'integrazione |publisher=Cdila.it |date= |accessdate=2015-10-22}}</ref> <br />''[[italiano segnato esatto]]'' "(Signed Exact Italian)"<ref>{{cite web|url=http://www.cdila.it/cds/Index?q=object/detail&p=_system_cms_node/_a_ID/_v_37 |title=Centro documentazione per l'integrazione |publisher=Cdila.it |date= |accessdate=2015-10-22}}</ref>
+| glotto = ital1282
+| glottorefname = Italian
+}}
+{{Italian language|state=expanded}}
+
+'''Italian''' (''italiano'' {{IPA-it|itaˈljaːno||It-italiano.ogg}} or {{lang|it|lingua italiana}} {{IPA-it|ˈliŋɡwa itaˈljaːna|}}) is a [[Romance languages|Romance language]]. Italian, together with [[Sardinian language|Sardinian]], is by most measures the closest language to [[Vulgar Latin]] of the Romance languages.<ref>{{cite web |url=https://www.britannica.com/topic/Romance-languages |title=Romance languages |encyclopaedia=Encyclopædia Britannica |access-date=19 February 2017 |quote=... if the Romance languages are compared with Latin, it is seen that by most measures Sardinian and Italian are least differentiated and French most}}</ref> Italian is an official language in [[Italy]], [[Switzerland]], [[San Marino]], [[Vatican City]] and western [[Istria]] (in [[Slovenian Istria|Slovenia]] and [[Istria County|Croatia]]). It formerly had official status and is still widely spoken in [[Albania]], [[Malta]], [[Monaco]], and in some parts of France (especially [[Corsica]], [[Nice]], [[Savoie]]), Greece ([[Venetian rule in the Ionian Islands|Ionian Islands]] and [[Italian Islands of the Aegean|Dodecanese]]) and Montenegro ([[Kotor]]), as well as in former [[Italian East Africa]] and [[Italian North Africa]] regions where it plays a significant role in various sectors. Italian is also spoken by large [[Italian diaspora|expatriate communities]] in the [[Americas]] and [[Australia]].<ref name="ethnologue.com">[http://www.ethnologue.com/show_language.asp?code=ita Ethnologue report for language code:ita (Italy)] – Gordon, Raymond G., Jr. (ed.), 2005. Ethnologue: Languages of the World, Fifteenth edition. Dallas, Tex.: SIL International. Online version</ref> It also has official minority status in [[Bosnia and Herzegovina]], [[Croatia]], [[Slovenia]] and [[Romania]].<ref name="charter-ratifications">{{cite web|title=Reservations and Declarations for Treaty No.148 – European Charter for Regional or Minority Languages |url=http://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/148/declarations?p_auth=63PpH3zN|website=Council of Europe|publisher=Council of Europe|accessdate=25 April 2017}}</ref> Many speakers are native bilinguals of both standardized Italian and [[Languages of Italy|other regional languages]].<ref>{{cite web|url=http://www.ethnologue.com/show_country.asp?name=IT |title=Italy |publisher=Ethnologue |date=1999-02-19 |accessdate=2015-10-22}}</ref>
+
+Italian is a major European language, being one of the official languages of the [[Organization for Security and Co-operation in Europe]] and one of the working languages of the [[Council of Europe]]. It is the fourth [[Languages of the EU|most widely spoken first language in the European Union]] with 69 million native speakers (13% of the EU population) and it is spoken as a second language by 16 million EU citizens (3%).<ref name="europa2006" /> Including Italian speakers in non-EU European countries (such as Switzerland and Albania) and on other continents, the total number of speakers is around 90 million.<ref name="Italian language">{{cite web|url=http://www2.le.ac.uk/departments/modern-languages/lal/languages%20at%20lal/italian |title=Italian — University of Leicester |publisher=.le.ac.uk |date= |accessdate=2015-10-22}}</ref> Italian is the main working language of the [[Holy See]], serving as the [[lingua franca]] (common language) in the Roman Catholic hierarchy as well as the official language of the [[Sovereign Military Order of Malta]]. Italian is known as the ''language of music'' because of its use in [[musical terminology]] and [[opera]]. Its influence is also widespread in the [[arts]] and in the [[luxury goods]] market. Italian has been reported as the fourth or fifth most frequently taught foreign language in the world.<ref name="becomingitalianwordbyword.typepad.com">{{cite web|url=http://becomingitalianwordbyword.typepad.com/becomingitalian/2014/06/italian-is-the-fourth-most-studied-language-in-the-world.html |title=Becoming Italian Word by Word: Italian Becomes the Fourth Most Studied Language in the World |publisher=Becomingitalianwordbyword.typepad.com |date=2014-06-25 |accessdate=2015-10-22}}</ref>
+
+Italian was adopted by the state after the [[Unification of Italy]], having previously been a literary language based on [[Tuscan dialect|Tuscan]] as spoken mostly by the [[upper class]] of Florentine society.<ref>[http://www.italian-language-study.com/italian-language/modern-italian.htm] {{webarchive|url=https://web.archive.org/web/20091003014156/http://www.italian-language-study.com/italian-language/modern-italian.htm|date=3 October 2009}}</ref> Its development was also influenced by other [[Italian languages]] and to some minor extent, by the [[Germanic languages]] of the [[Migration period|post-Roman invaders]]. The incorporation into Italian of learned words from its own ancestor language, [[Classical Latin|Latin]], is another form of lexical borrowing through the influence of written language, scientific terminology and the liturgical language of the Church. Throughout the Middle Ages and into the early modern period, most literate Italians were also literate in Latin; and thus they easily adopted Latin words into their writing—and eventually speech—in Italian. Its vowels are the second-closest to Latin after [[Sardinian language|Sardinian]].<ref>See [[Classification of Romance languages|''Italica'' 1950: 46]] (cf. [https://books.google.com/books?id=M0sbAAAAIAAJ&q=%22Demonstrates+a+comparative+statistical+method%22] and [https://books.google.com/books?id=M0sbAAAAIAAJ&q=%22there+is+a+maximum+of+77+change+points%22]): "Pei, Mario A. "A New Methodology for Romance Classification." Word, v, 2 (Aug. 1949), 135–146. Demonstrates a comparative statistical method for determining the extent of change from the Latin for the free and checked stressed vowels of French, Spanish, Italian, Portuguese, Rumanian, Old Provençal, and Logudorese Sardinian. By assigning 3½ change points per vowel (with 2 points for diphthongization, 1 point for modification in vowel quantity, ½ point for changes due to nasalization, palatalization or umlaut, and −½ point for failure to effect a normal change), there is a maximum of 77 change points for free and checked stressed vowel sounds (11×2×3½=77). According to this system (illustrated by seven charts at the end of the article), the percentage of change is greatest in French (44%) and least in Italian (12%) and Sardinian (8%). Prof. Pei suggests that this statistical method be extended not only to all other phonological but also to all morphological and syntactical, phenomena.".</ref><ref>See [[Classification of Romance languages|Koutna ''et al.'' (1990: 294)]]: "In the late forties and in the fifties some new proposals for classification of the Romance languages appeared. A statistical method attempting to evaluate the evidence quantitatively was developed in order to provide not only a classification but at the same time a measure of the divergence among the languages. The earliest attempt was made in 1949 by Mario Pei (1901–1978), who measured the divergence of seven modern Romance languages from Classical Latin, taking as his criterion the evolution of stressed vowels. Pei's results do not show the degree of contemporary divergence among the languages from each other but only the divergence of each one from Classical Latin. The closest language turned out to be Sardinian with 8% of change. Then followed Italian — 12%; Spanish — 20%; Romanian — 23,5%; Provençal — 25%; Portuguese — 31%; French — 44%."</ref> As in most Romance languages, [[stress (linguistics)|stress]] is distinctive but, unlike most other Romance languages, Italian retains Latin's contrast between short and [[gemination|long consonants]].<ref>{{Cite web|url=https://www.pdx.edu/multicultural-topics-communication-sciences-disorders/italian|title=Portland State Multicultural Topics in Communications Sciences & Disorders {{!}} Italian|website=www.pdx.edu|access-date=2017-02-05}}</ref> Almost all words and syllables finish with pure vowels, a factor that makes Italian words extremely easy to use in [[rhyming]]. Italian has a 7 vowel sound system ('e' and 'o' have mid-low and mid-high sounds); Classical Latin had 10, 5 with short and 5 with long sounds.
+
+{{anchor|Middle Ages}}
+
+== History ==
+{{Refimprove section|date=October 2013}}
+
+=== Origins ===
+{{multiple image
+| align = left
+ | direction = vertical
+ | width = 165
+ | image1 = Dante Luca.jpg
+ | alt1 =
+ | caption1 =
+ | image2 = Altichiero, ritratto di Francesco Petrarca.jpg
+ | alt2 =
+ | caption2 = [[Dante Alighieri]] (''top'') and [[Petrarch]] (''bottom'') were influential in establishing their [[Tuscan dialect]] as the most prominent literary language in all of [[Italy]] in the [[Late Middle Ages]].
+ | footer =
+ }}
+
+During the [[Middle Ages]], the established written language in Europe was Latin, though the great majority of people were illiterate, and only a handful were well versed in the language. In the [[Italian peninsula]], as in most of Europe, most would instead speak a local vernacular. These dialects (as they are commonly referred to) were born from [[Vulgar Latin]] over the course of centuries, evolving naturally unaffected by formal standards and teachings. They are not in any sense "dialects of" standard Italian, that itself started off being one of these local tongues, but [[sister language]]s of Italian. Mutual intelligibility with Italian varies widely, as it does with Romance languages in general. The Romance dialects of Italy can differ greatly from Italian at all levels ([[phonology]], [[Morphology (linguistics)|morphology]], [[syntax]], [[lexicon]], [[pragmatics]]) and are classified [[Linguistic typology|typologically]] as distinct languages.<ref name=":0">{{Cite book|url=https://www.worldcat.org/oclc/17650220|title=The Italian language today|last=Lepschy|first= Anna Laura|last2=Lepschy|first2=Giulio C.|date=1988|publisher=New Amsterdam|year=|isbn=978-0-941533-22-5|edition=2nd|location=New York|pages=13, 22, 19–20, 21, 35, 37|oclc=17650220}}</ref><ref>{{Cite |last= Andreose | first = Alvise |last2=Renzi |first2=Lorenzo | contribution = Geography and distribution of the Romance Languages in Europe| editor-last = Maiden | editor-first = Martin |editor2-last= Smith | editor2-first = John Charles |editor3-last= Ledgeway | editor3-first = Adam |title=The Cambridge History of the Romance Languages | volume = Vol. 2, Contexts| pages =302-308 |publisher = Cambridge University Press |place = Cambridge | year = 2013 }}</ref>
+ 
+The standard Italian language has a poetic and literary origin in the writings of [[Tuscany|Tuscan]] writers of the 12th century, and, even though the grammar and core lexicon are basically unchanged from those used in Florence in the 13th century,<ref>{{cite book|url=http://www.treccani.it/enciclopedia/storia-della-lingua_(Enciiopedia_dell'Italiano)/|title=Storia della lingua|author=Vittorio Coletti|publisher=Istituto della Enciclopedia italiana|isbn=9788812000487|accessdate=10 October 2015|quote=L’italiano di oggi ha ancora in gran parte la stessa grammatica e usa ancora lo stesso lessico del fiorentino letterario del Trecento.}}</ref> the modern standard of the language was largely shaped by relatively recent events. However, Romance vernacular as language spoken in the Apennine peninsula has a longer history. In fact, the earliest surviving texts that can definitely be called vernacular (as distinct from its predecessor Vulgar Latin) are legal formulae known as the [[Placiti Cassinesi]] from the [[Duchy of Benevento|Province of Benevento]] that date from 960–963, although the [[Veronese Riddle]], probably from the 8th or early 9th century, contains a late form of Vulgar Latin that can be seen as a very early sample of a vernacular dialect of Italy.<ref>{{cite web|url=http://www.italian-language.biz/italian/history.asp|title=History of the Italian language|publisher=Italian-language.biz|accessdate=2006-09-24}}</ref>
+
+The language that came to be thought of as Italian developed in central Tuscany and was first formalized in the early 14th century through the works of Tuscan writer [[Dante Alighieri]], written in his native [[Florentine dialect|Florentine]]. Dante's epic poems, known collectively as the ''[[Divine Comedy|Commedia]],'' to which another Tuscan poet [[Giovanni Boccaccio]] later affixed the title ''Divina'', were read throughout the peninsula and his written dialect became the "canonical standard" that all educated [[Italians]] could understand. Dante is still credited with standardizing the Italian language. In addition to the widespread exposure gained through literature, the Florentine dialect also gained prestige due to the political and cultural significance of Florence at the time and the fact that it was linguistically an intermediate between the northern and the southern Italian dialects.{{r|":0"|page=22}} Thus the dialect of [[Florence]] became the basis for what would become the official language of Italy.
+
+Italian was progressively made an official language of most of the Italian states predating unification, slowly replacing Latin, even when ruled by foreign powers (like Spain in the [[Kingdom of Naples]], or Austria in the [[Kingdom of Lombardy-Venetia]]), even though the masses kept speaking primarily their local vernaculars. Italian was also one of the many recognised languages in the [[Austro-Hungarian Empire]].
+
+Italy has always had a distinctive dialect for each city because the cities, until recently, were thought of as [[city-state]]s. Those dialects now have considerable [[variety (linguistics)|variety]]. As Tuscan-derived Italian came to be used throughout Italy, features of local speech were naturally adopted, producing various versions of regional Italian. The most characteristic differences, for instance, between [[Rome|Roman]] Italian and [[Milan]]ese Italian are the [[consonant length|gemination]] of initial consonants and the pronunciation of stressed "e", and of "s" in some cases: e.g. ''va bene'' "all right": is pronounced {{IPA|[va ˈbbːɛne]}} by a Roman (and by any standard Italian speaker), {{IPA|[va ˈbene]}} by a Milanese (and by any speaker whose native dialect lies to the north of the [[La Spezia–Rimini Line]]); ''a casa'' "at home" is {{IPA|[a ˈkkːasa]}} for Roman and standard, {{IPA|[a ˈkaza]}} for Milanese and generally northern.
+
+In contrast to the [[Gallo-Italic languages|Gallo-Italic linguistic panorama]] of [[northern Italy]], the [[Italo-Dalmatian languages|Italo-Dalmatian]] [[Neapolitan language|Neapolitan]] and its related dialects were largely unaffected by the Franco-[[Occitan language|Occitan]] influences introduced to Italy mainly by [[bard]]s from France during the [[Middle Ages]], but after the [[Norman conquest of southern Italy]], Sicily became the first Italian land to adopt Occitan lyric moods (and words) in poetry. Even in the case of Northern Italian languages, however, scholars are careful not to overstate the effects of outsiders on the natural indigenous developments of the languages.
+
+The economic might and relatively advanced development of Tuscany at the time ([[Late Middle Ages]]) gave its language weight, though [[Venetian language|Venetian]] remained widespread in medieval Italian commercial life, and [[Ligurian language (Romance)|Ligurian (or Genoese)]] remained in use in maritime trade alongside the Mediterranean. The increasing political and cultural relevance of [[Florence]] during the periods of the rise of the ''[[Medici bank|Banco Medici]]'', [[Humanism]], and the [[Renaissance]] made its dialect, or rather a refined version of it, a standard in the arts.
+
+=== Renaissance ===
+The [[Renaissance]] era, known as {{lang|it|il Rinascimento}} in Italian, was seen as a time of "rebirth", which is the literal meaning of both {{lang|fr|renaissance}} (from French) and {{lang|it|rinascimento}} (Italian).
+
+[[File:Pietro Bembo2.jpg|thumb|left|upright=0.63|[[Pietro Bembo]] was an influential figure in the development of the Italian language from the Tuscan dialect, as a literary medium, codifying the language for standard modern usage.]]
+
+During this time, long-existing beliefs stemming from the teachings of the [[Roman Catholic Church]] began to be understood from new a perspectives as [[humanists]]—individuals who placed emphasis on the human body and its full potential—began to shift focus from the church to human beings themselves.<ref name=":4">{{Cite book|url=https://www.worldcat.org/oclc/58837884|title=A history of Western society|last=P.|first=McKay, John|date=2006|publisher=Houghton Mifflin|others=Hill, Bennett D., Buckler, John.|isbn=978-0-618-52273-6|edition=8th|location=Boston|oclc=58837884}}</ref> Humanists began forming new beliefs in various forms: social, political, and intellectual. The ideals of the Renaissance were evident throughout the [[Protestant Reformation]], which took place simultaneously with the Renaissance. The Protestant Reformation began with [[Martin Luther]]'s rejection of the selling of indulgences by [[Johann Tetzel]] and other authorities within the Roman Catholic Church, resulting in Luther's eventual break-off from the Roman Catholic Church in the [[Diet of Worms]]. After Luther was excommunicated from the Roman Catholic Church, he founded what was then understood to be a sect of [[Catholicism]], later referred to as [[Lutheranism]].<ref name=":4" /> Luther's preaching in favor of faith and scripture rather than tradition led him to translate the [[Bible]] into many other languages, which would allow for people from all over Europe to read the Bible. Previously, the Bible was only written in [[Latin]], but after the Bible was translated, it could be understood in many other languages, including Italian. The Italian language was able to spread even more with the help of Luther and the invention of the [[printing press]] by [[Johannes Gutenberg]]. The printing press facilitated the spread of Italian because it was able to rapidly produce texts, such as the Bible, and cut the costs of books which allowed for more people to have access to the translated Bible and new pieces of literature.<ref name=":1">{{cite web|last1=Zucker|first1=Steven|last2=Harris|first2=Beth|title=An Introduction to the Protestant Reformation|url=https://www.khanacademy.org/humanities/world-history/renaissance-and-reformation/protestant-reformation/a/an-introduction-to-the-protestant-reformation|website=khanacademy|publisher=khanacademy|accessdate=8 July 2017}}</ref> The Roman Catholic Church was losing its control over the population, as it was not open to change, and there was an increasing number of reformers with differing beliefs.<ref name=":0x">{{cite web|url=https://www.britannica.com/event/Renaissance|title=Renaissance|website=Encyclopædia Britannica|publisher=Encyclopædia Britannica, inc|last1=The Editors of Encyclopædia Britannica|accessdate=16 July 2017}}</ref>
+
+Italian became the language used in the courts of every state in the [[Italian peninsula]]. The rediscovery of Dante's {{lang|it|[[De vulgari eloquentia]]|italic=yes}} and a renewed interest in linguistics in the 16th century, sparked a debate that raged throughout Italy concerning the criteria that should govern the establishment of a modern Italian literary and spoken language. This discussion, known as {{lang|it|questione della lingua}} (i. e., the ''problem of the language''), ran through the Italian culture until the end of the 19th century, often linked to the political debate on achieving a united Italian state. Renaissance scholars divided into three main factions:
+* The [[purism (language)|purists]], headed by Venetian [[Pietro Bembo]] (who, in his ''[[Gli Asolani]]'', claimed the language might be based only on the great literary classics, such as [[Petrarch]] and some part of Boccaccio). The purists thought the Divine Comedy was not dignified enough because it used elements from non-lyric registers of the language.
+* [[Niccolò Machiavelli]] and other [[Florence|Florentines]] preferred the version spoken by ordinary people in their own times.
+* The [[courtier]]s, like [[Baldassare Castiglione]] and [[Gian Giorgio Trissino]], insisted that each local vernacular contribute to the new standard.
+
+[[File:Alessandro Manzoni.jpg|thumb|upright|[[Alessandro Manzoni]] sat the basis for the modern Italian language and helped creating linguistic unity throughout Italy.<ref>[http://manzoni.classicauthors.net/IPromessiSposiOrTheBetrothed/IPromessiSposiOrTheBetrothed1.html I Promessi sposi or The Betrothed] {{webarchive|url=https://web.archive.org/web/20110718073016/http://manzoni.classicauthors.net/IPromessiSposiOrTheBetrothed/IPromessiSposiOrTheBetrothed1.html |date=18 July 2011 }}</ref>]]
+
+A fourth faction claimed that the best Italian was the one that the papal court adopted, which was a mixture of the [[Tuscan dialect|Tuscan]] and [[Roman dialect|Roman]] dialects. 
+Eventually, Bembo's ideas prevailed, and the foundation of the [[Accademia della Crusca]] in Florence (1582–1583), the official legislative body of the Italian language led to publication of [[Agnolo Monosini]]'s Latin tome {{lang|la|[[Floris Italicae lingue libri novem|Floris italicae linguae libri novem]]|italic=yes}} in 1604 followed by the first Italian dictionary in 1612.
+
+The continual advancements in technology plays a crucial role in the diffusion of languages. After the invention of the [[printing press]] in the fifteen century, the number of printing presses in Italy grew rapidly and by the year 1500 reached a total of 56, the biggest number of printing presses in all of Europe. This allowed to produce more pieces of literature at a lower cost and as the dominant language, Italian spread.<ref>{{cite journal|date=2011|title=Information Technology and Economic Change: The Impact of the Printing Press|journal=The Quarterly Journal of Economics|volume=126|issue=3|pages=1133–1172|last1=Dittmar|first1=Jeremiah|doi=10.1093/qje/qjr035}}</ref>
+
+=== Modern era ===
+An important event that helped the diffusion of Italian was the conquest and occupation of Italy by [[Napoleon]] in the early 19th century (who was himself of Italian-Corsican descent). This conquest propelled the unification of Italy some decades after and pushed the Italian language into a [[lingua franca]] used not only among clerks, nobility, and functionaries in the Italian courts but also by the [[bourgeoisie]].
+
+=== Contemporary times ===
+Italian literature's first modern novel, ''I promessi sposi'' ([[The Betrothed (Manzoni novel)|The Betrothed]]) by [[Alessandro Manzoni]], further defined the standard by "rinsing" his Milanese "in the waters of the [[Arno River|Arno]]" ([[Florence]]'s river), as he states in the preface to his 1840 edition.
+
+After unification, a huge number of civil servants and soldiers recruited from all over the country introduced many more words and idioms from their home languages (''[[ciao]]'' is derived from the [[Venetian language|Venetian]] word ''s-cia[v]o'' ("slave"), ''[[panettone]]'' comes from the [[Lombard language|Lombard]] word ''panetton'', etc.). Only 2.5% of Italy's population could speak the Italian standardized language properly when the nation was unified in 1861.<ref>{{cite web|url=http://www.ethnologue.com/show_language.asp?code=ita |title=Lewis, M. Paul (ed.) (2009). Ethnologue: Languages of the World, Sixteenth edition |publisher=Ethnologue.com |date= |accessdate=2010-04-21}}</ref>
+
+== Classification ==
+Italian is a [[Romance language]], and is therefore a descendant of [[Vulgar Latin]] (the spoken form of non-classical Latin).{{refn|group=note|It is debated, that the Sicilian language is the oldest and ''direct'' descendant of Vulgar Latin.<ref>{{cite web|url=http://babylonpost.globalist.it/Detail_News_Display?ID=78159&typeb=0&dante-perde-la-paternita-la-lingua-italiana-e-nata-in-sicilia |title=Dante perde la paternità: la lingua italiana è nata in Sicilia |editor=Ghetti, Noemi |date=14 June 2013 |publisher=Babylon Post |accessdate=15 October 2016}}</ref>}} Standard Italian is based on [[Tuscan language|Tuscan]], especially its [[Florentine dialect]], and is therefore an [[Italo-Dalmatian languages|Italo-Dalmatian language]], to which [[Sicilian language|Sicilian]] and the extinct [[Dalmatian language|Dalmatian]] also belong, among a few others.
+
+Unlike most other Romance languages, Italian retains Latin's contrast between short and [[consonant length|long consonants]]. As in most Romance languages, [[stress (linguistics)|stress]] is distinctive. In particular, among the Romance languages, Italian is the closest to Latin in terms of [[vocabulary]].<ref name="Grimes 1996">{{cite book |last= Grimes |first= Barbara F. |editor= Barbara F. Grimes |others= Consulting Editors: Richard S. Pittman & Joseph E. Grimes |title= Ethnologue: Languages of the World |edition= thirteenth |date=October 1996 |publisher= [[Ethnologue|Summer Institute of Linguistics, Academic Pub]] |location= Dallas, Texas |isbn= 1-55671-026-7}}</ref> [[Lexical similarity]] is 89% with [[French language|French]], 87% with [[Catalan language|Catalan]], 85% with [[Sardinian language|Sardinian]], 82% with [[Spanish language|Spanish]], 78% with [[Ladin language|Ladin]], 77% with [[Romanian language|Romanian]]<ref name="ethnologue.com" /><ref name=MED>{{Harvcoltxt|Brincat|2005}}</ref><ref name="ezglot.com">{{cite web|url=http://www.ezglot.com/most-similar-languages.php?l=ita|title=Most similar languages to Italian}}</ref> and 70% with [[Portuguese language|Portuguese]].{{citation needed|date=January 2019}}
+
+One study analyzing the degree of differentiation of Romance languages in comparison to Latin (comparing [[phonology]], [[inflection]], [[discourse]], [[syntax]], [[vocabulary]], and [[intonation (linguistics)|intonation]]) estimated that among the languages analyzed the distance between Italian and Latin is only higher than that between Sardinian and Latin.<ref>{{cite book |title=Story of Language |last=Pei |first=Mario |authorlink=Mario Pei |year=1949 |isbn=0-397-00400-1 }}</ref>
+
+== Geographic distribution ==
+{{main|Geographical distribution of Italian speakers}}
+[[File:Idioma italiano.png|thumb|right|upright=0.9|Use of the Italian language in Europe]]
+[[File:Lengua italiana.png|thumb|right|upright=0.9|Use of the Italian language in Europe and former use in Africa]]
+
+Italian is an official language of [[Italy]] and [[San Marino]] and is spoken fluently by the majority of the countries' populations. Italian is the third most spoken language in Switzerland (after German and French), and its use has modestly declined since the 1970s.<ref name="offstat">{{cite web |url=http://www.bfs.admin.ch/bfs/portal/fr/index/infothek/lexikon/bienvenue___login/blank/zugang_lexikon.Document.52217.pdf |title=Recensement Fédéral de la Population 2000 — Le Paysage Linguistique en Suisse |accessdate=5 January 2006 |author1=Lüdi, Georges |author2=Werlen, Iwar |date=April 2005 |format=PDF |publisher=Office fédéral de la statistique |location=[[Neuchâtel]] |language=French, German, Italian |deadurl=yes |archiveurl=https://web.archive.org/web/20071129182415/http://www.bfs.admin.ch/bfs/portal/fr/index/infothek/lexikon/bienvenue___login/blank/zugang_lexikon.Document.52217.pdf |archivedate=29 November 2007 |df=dmy-all }}</ref> Italian is also used in administration and official documents in [[Vatican City]].<ref>The Vatican City State appendix to the [[Acta Apostolicae Sedis]] is entirely in Italian.</ref>
+
+Due to heavy Italian influence during the [[Italian Empire|Italian colonial period]], Italian is still understood by some in former colonies.<ref name="ethnologue.com">[http://www.ethnologue.com/show_language.asp?code=ita Ethnologue report for language code:ita (Italy)] – Gordon, Raymond G., Jr. (ed.), 2005. Ethnologue: Languages of the World, Fifteenth edition. Dallas, Tex.: SIL International. Online version</ref> Although it was the primary language in [[Libya]] since [[Italian Libya|colonial rule]], Italian greatly declined under the [[History of Libya under Muammar Gaddafi|rule of Muammar Gaddafi]], who expelled the [[Italian settlers in Libya|Italian Libyan]] population and made [[Modern Standard Arabic|Arabic]] the sole official language of the country.<ref>[http://www.iht.com/articles/2004/10/21/news/italy.php] {{webarchive|url=https://web.archive.org/web/20081217024247/http://www.iht.com/articles/2004/10/21/news/italy.php|date=17 December 2008}}</ref> In [[Eritrea]], Italian is at times used in commerce and the capital city [[Asmara]] still has one Italian-language school.<ref>{{cite web|url=http://www.scuoleasmara.it |title=Scuola Italiana di Asmara (in Italian) |publisher=Scuoleasmara.it |date= |accessdate=2010-04-21}}</ref> Italian was also introduced to [[Somalia]] through colonialism and was the sole official language of administration and education during the [[Italian Somaliland|colonial period]] but fell out of use after government, educational and economic infrastructure were destroyed in the [[Somali Civil War]].
+
+Although over 17 million [[Italian American|Americans are of Italian descent]], only a little over one million people in the United States speak Italian at home.<ref>{{cite web | url    = http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_00_SF3_QTP16&prodType=table | title  = Language Spoken at Home: 2000   | publisher  = [[United States Bureau of the Census]] | accessdate = 8 August 2012}}</ref> Nevertheless, an Italian language media market does exist in the country.<ref>{{cite web|url=http://netcapricorn.com/newsletter/italian_ethnic_market.html |title=Newsletter |publisher=Netcapricorn.com |date= |accessdate=2015-10-22}}</ref>
+
+Italian immigrants to [[South America]] have also brought a presence of the language to that continent. Italian is the second most spoken language in [[Argentina]]<ref>{{cite web|url=http://www.americaeconomia.com/politica-sociedad/sociedad/los-segundos-idiomas-mas-hablados-de-sudamerica |title=Los segundos idiomas más hablados de Sudamérica &#124; AméricaEconomía – El sitio de los negocios globales de América Latina |publisher=Americaeconomia.com |date=2015-07-16 |accessdate=2015-10-22}}</ref> after the official language of Spanish, with over 1 million (mainly of the older generation) speaking it at home, and Italian has also influenced the dialect of Spanish spoken in Argentina and [[Uruguay]], mostly in phonology, known as [[Rioplatense Spanish]].
+
+=== Education ===
+Italian is widely taught in many schools around the world, but rarely as the first foreign language. Italian is the fourth<ref name="becomingitalianwordbyword.typepad.com" /><ref>{{cite web |url=http://www.lastampa.it/2014/07/02/italia/cronache/lingua-italiana-la-quarta-pi-studiata-nel-mondo-NdOvjvS27hybRegFLXyl3H/pagina.html |title=Lingua italiana, la quarta più studiata nel mondo – La Stampa |publisher=Lastampa.it |date= |accessdate=2015-10-22}}</ref> most frequently taught foreign language in the world.<ref>{{cite web|url=http://www.iic-colonia.de/italiano-2000/09.12%20Analisi%20generale%20dei%20dati.htm |title=9 |publisher=Iic-colonia.de |date= |accessdate=2015-10-22}}</ref> In the 21st century, technology also allows for the continual spread of the Italian language, as people have new ways for one to learn how to speak, read, and write languages at their own pace and at any given time. For example, the free website and application [[Duolingo]] has 4.94 million English speakers learning the Italian language.<ref>{{cite web|url=https://www.duolingo.com/courses|title=duolingo |last=|first=|date=|website=duolingo|accessdate=18 July 2017}}</ref>
+
+According to the [[Italian Ministry of Foreign Affairs]], every year there are more than 200,000 foreign students who study the Italian language; they are distributed among the 90 [[Italian Cultural Institute|Institutes of Italian Culture]] that are located around the world, in the 179 Italian schools located abroad, or in the 111 Italian lecturer sections belonging to foreign schools where Italian is taught as a language of culture.<ref name="esteri.it">{{cite web|url=http://www.esteri.it/MAE/IT/Politica_Estera/Cultura/PromozioneLinguaItaliana/DatiStatisticheInsegnamentoLingua.htm |title=Dati e statistiche |publisher=Esteri.it |date=2007-09-28 |accessdate=2015-10-22}}</ref>
+
+=== Influence and derived languages ===
+{{See also|Italian diaspora}}
+
+[[File:Aglomerado Gran Buenos Aires.png|thumb|upright|In blue color [[Buenos Aires]], Argentina, where [[Cocoliche]] developed.]]
+From the late nineteenth to the mid-twentieth century, thousands of Italians settled in Argentina, Uruguay, southern Brazil, and Venezuela, where they formed a physical and cultural presence.
+
+In some cases, colonies were established where variants of regional [[languages of Italy]] were used, and some continue to use this regional language. Examples are [[Rio Grande do Sul]], [[Brazil]], where [[Talian dialect|Talian]] is used, and the town of [[Chipilo]] near Puebla, [[Mexico]]; each continues to use a derived form of [[Venetian language|Venetian]] dating back to the nineteenth century. Another example is [[Cocoliche]], an Italian–Spanish [[pidgin]] once spoken in [[Argentina]] and especially in [[Buenos Aires]], and [[Lunfardo]].
+
+[[Rioplatense Spanish]], and particularly the speech of the city of Buenos Aires, has intonation patterns that resemble those of [[Languages of Italy|Italian languages]] because Argentina has had a continuous large influx of Italian settlers since the second half of the nineteenth century: initially primarily from northern Italy; then, since the beginning of the twentieth century, mostly from southern Italy.
+
+=== Lingua franca ===
+{{See also|Mediterranean Lingua Franca}}
+
+Starting in late [[medieval]] times in much of Europe and the Mediterranean, Latin was replaced as the primary commercial language by Italian language variants (especially Tuscan and Venetian). These variants were consolidated during the [[Renaissance]] with the strength of Italy and the rise of [[Renaissance humanism|humanism]] and [[the arts]].
+
+During that period, Italy held artistic sway over the rest of Europe. It was the norm for all educated gentlemen to make the [[Grand Tour]], visiting Italy to see its great historical monuments and works of art. It thus became expected to learn at least some Italian. In England, while the classical languages [[Latin]] and [[Greek language|Greek]] were the first to be learned, Italian became the second most common modern language after French, a position it held until the late eighteenth century when it tended to be replaced by German. [[John Milton]], for instance, wrote some of his early poetry in Italian.
+
+Within the [[Catholic church]], Italian is known by a large part of the ecclesiastical hierarchy and is used in substitution for Latin in some official documents.
+
+Italian [[loanword]]s continue to be used in most languages in matters of art and [[music]] (especially [[classical music]] including [[opera]]), in the [[design]] and [[fashion]] industries, in some sports like [[football (association)|football]]<ref>{{Cite web|url=http://www.ilsonline.it/italy/italianlanguage.html|title=Italian Language|last=|first=|date=|website=www.ilsonline.it|publisher=|access-date=2016-10-07}}</ref> and especially, in culinary terms.
+
+== Dialects ==
+{{Main|Regional Italian}}
+{{See also|Languages of Italy}}
+Throughout Italy, regional variations of Standard Italian, called [[Regional Italian]], are spoken. In Italy, almost all the [[Languages of Italy|other languages spoken as the vernacular]] — other than standard Italian and some languages spoken among immigrant communities — are often imprecisely called "[[Languages of Italy|Italian dialects]]",<ref>{{cite web| url=http://www.ccjk.com/facts-figures-italian-language/ | title=Major Dialects of Italian|publisher=Ccjk.com|accessdate=2015-10-22 }}</ref> even though they are quite different, with some belonging to different linguistic branches. The only exceptions to this are twelve groups considered "[[Languages of Italy#Recognition by the Italian state|historical language minorities]]", which are officially recognized as distinct [[minority language]]s by the law. On the other hand, [[Corsican language|Corsican]] (a language spoken on the [[France|French]] island of [[Corsica]]) is closely related to [[Tuscan dialect|Tuscan]], from which Standard Italian derives and evolved.
+[[File:Dialetti Italia 1939.png|thumb|Linguistic map of Italy according to Clemente Merlo and Carlo Tagliavini (1937)]]
+The differences in the evolution of Latin in the different regions of Italy can be attributed to the presence of three other types of languages: [[Stratum (linguistics)|substrata, superstrata, and adstrata]]. The most prevalent were substrata (the language of the original inhabitants), as the Italian dialects were most likely simply Latin as spoken by native cultural groups. Superstrata and adstrata were both less important. Foreign conquerors of Italy that dominated different regions at different times left behind little to no influence on the dialects. Foreign cultures with which Italy engaged in peaceful relations with, such as trade, had no significant influence either.{{r|":0"|page=19-20}}
+
+Regional differences can be recognized by various factors: the openness of vowels, the length of the consonants, and influence of the local language (for example, in informal situations the contraction ''{{wiktit|annà}}'' replaces ''{{wiktit|andare}}'' in the area of Rome for the infinitive "to go"; and ''{{wiktit|nare}}'' is what [[Venice|Venetians]] say for the infinitive "to go").
+
+There is no definitive date when the various Italian variants of Latin—including varieties that contributed to modern Standard Italian—began to be distinct enough from Latin to be considered separate languages. One criterion for determining that two language variants are to be considered separate languages rather than variants of a single language is that they have evolved so that they are no longer [[mutually intelligible]]; this diagnostic is effective if mutual intelligibility is minimal or absent (e.g. in Romance, Romanian and Portuguese), but it fails in cases such as Spanish-Portuguese or Spanish-Italian, as native speakers of either pairing can understand each other well if they choose to do so. Nevertheless, on the basis of accumulated differences in morphology, syntax, phonology, and to some extent lexicon, it is not difficult to identify that for the Romance varieties of Italy, the first extant written evidence of languages that can no longer be considered Latin comes from the ninth and tenth centuries C.E. These written sources demonstrate certain vernacular characteristics and sometimes explicitly mention the use of the vernacular in Italy. Full literary manifestations of the vernacular began to surface around the 13th century in the form of various religious texts and poetry.{{r|":0"|page=21}}Although these are the first written records of Italian varieties separate from Latin, the spoken language had likely diverged long before the first written records appear, since those who were literate generally wrote in Latin even if they spoke other Romance varieties in person.
+
+Throughout the 19th and 20th centuries, the use of Standard Italian became increasingly widespread and was mirrored by a decline in the use of the dialects. An increase in literacy was one of the main driving factors (one can assume that only literates were capable of learning Standard Italian, whereas those who were illiterate had access only to their native dialect). The percentage of literates rose from 25% in 1861 to 60% in 1911, and then on to 78.1% in 1951. [[Tullio De Mauro]], an Italian linguist, has asserted that in 1861 only 2.5% of the population of Italy could speak Standard Italian. He reports that in 1951 that percentage had risen to 87%. The ability to speak Italian did not necessarily mean it was in everyday use, and most people (63.5%) still usually spoke their native dialects. In addition, other factors such as mass emigration, industrialization, and urbanization, and internal migrations after [[World War II]] contributed to the proliferation of Standard Italian. The Italians who emigrated during the [[Italian diaspora]] beginning in 1861 were often of the uneducated lower class, and thus the emigration had the effect of increasing the percentage of literates, who often knew and understood the importance of Standard Italian, back home in Italy. A large percentage of those who had emigrated also eventually returned to Italy, often more educated than when they had left.{{r|":0"|page=35}}
+
+The Italian dialects have declined in the modern era, as Italy unified under Standard Italian and continues to do so aided by mass media, from newspapers to radio to television.{{r|":0"|page=37}}
+
+== Phonology ==
+{{Main|Italian phonology}}
+[[File:It-Vangeli.ogg|thumb|[[wikisource:Bible (King James)/Luke#Chapter 2|Luke 2]], 1–7 of the Bible being read by a speaker of Italian from [[Milan]]]]
+{{IPA notice}}
+{{transcluded section|source=Italian phonology|part=yes}}
+{{trim|{{#section-h:Italian phonology|Consonants}}}}
+Italian has a seven-vowel system, consisting of {{IPA|/a, ɛ, e, i, ɔ, o, u/}}, as well as 23 consonants. Compared with most other Romance languages, Italian phonology is conservative, preserving many words nearly unchanged from [[Vulgar Latin]]. Some examples:
+* Italian ''{{wiktita|quattordici}}'' "fourteen" < Latin {{smallcaps|{{wiktlat|quattuordecim}}}} (cf. Romanian ''{{wiktron|paisprezece}}/{{wiktron|paișpe}}'', Spanish ''{{wiktspa|catorce}}'', French ''{{wiktfra|quatorze}}'' {{IPA|/kaˈtɔʁz/}}, [[Catalan language|Catalan]] and [[Portuguese language|Portuguese]] {{lang|pt|[[wikt:catorze|catorze]]|italic=yes}})
+* Italian ''settimana'' "week" < Latin {{smallcaps|septimāna}} (cf. Romanian ''săptămână'', Spanish and Portuguese ''semana'', French ''semaine'' {{IPA|/s(ə)ˈmɛn/}}, [[Catalan language|Catalan]] ''setmana'')
+* Italian ''medesimo'' "same" < Vulgar Latin *{{smallcaps|medi(p)simum}} (cf. Spanish ''mismo'', [[Portuguese language|Portuguese]] ''mesmo'', French ''même'' {{IPA|/mɛm/}}, [[Catalan language|Catalan]] ''mateix''; note that Italian usually uses the shorter ''stesso'')
+* Italian ''guadagnare'' "to win, earn, gain" < Vulgar Latin *{{smallcaps|guadanyāre}} < [[Germanic languages|Germanic]] {{IPA|/waidanjan/}} (cf. Spanish ''ganar'', Portuguese ''ganhar'', French ''gagner'' {{IPA|/ɡaˈɲe/}}, [[Catalan language|Catalan]] ''guanyar'')
+
+The conservativeness of Italian phonology is partly explained by its origin. Italian stems from a literary language that is derived from the 13th-century speech of the city of [[Florence]] in the region of [[Tuscany]], and has changed little in the last 700 years or so. Furthermore, the Tuscan dialect is the most conservative of all [[Regional Italian|Italian dialects]], radically different from the [[Gallo-Italian languages]] less than 100 miles to the north (across the [[La Spezia–Rimini Line]]).
+
+The following are some of the conservative phonological features of Italian, as compared with the common [[Western Romance]] languages (French, Spanish, [[Portuguese language|Portuguese]], [[Galician language|Galician]], [[Catalan language|Catalan]]). Some of these features are also present in [[Romanian language|Romanian]].
+* Little or no [[lenition]] of consonants between vowels, e.g. {{smallcaps|vīta}} > ''vita'' "life" (cf. Romanian ''viață'', Spanish ''vida'' {{IPA|[biða]}}, French ''vie''), {{smallcaps|pedem}} > ''piede'' "foot" (cf. Spanish ''pie'', French ''pied'' {{IPA|/pje/}}).
+* Preservation of geminate consonants, e.g. {{smallcaps|annum}} > {{IPA|/ˈan.no/}} ''anno'' "year" (cf. Spanish ''año'' {{IPA|/aɲo/}}, French ''an'' {{IPA|/ɑ̃/}}, Portuguese ''ano'' {{IPA|/ˈã.nu/}}).
+* Preservation of all [[Proto-Romance]] final vowels, e.g. {{smallcaps|pacem}} > ''pace'' "peace" (cf. Romanian ''pace'', Spanish ''paz'', French ''paix'' {{IPA|/pɛ/}}), {{smallcaps|octō}} > ''otto'' "eight" (cf. Romanian ''opt'', Spanish ''ocho'', French ''huit'' {{IPA|/ɥi(t)/}}), {{smallcaps|fēcī}} > ''feci'' "I did" (cf. Spanish ''hice'', French ''fis'' {{IPA|/fi/}}).
+* Preservation of most intertonic vowels (those between the stressed syllable and either the beginning or ending syllable). This accounts for some of the most noticeable differences, as in the forms ''quattordici'' and ''settimana'' given above.
+* Slower consonant development, e.g. {{smallcaps|folia}} > Italo-Western {{IPA|/fɔʎʎa/}} > ''foglia'' {{IPA|/ˈfɔʎʎa/}} "leaf" (cf. Romanian ''foaie'' {{IPA|/ˈfo̯aje/}}, Spanish ''hoja'' {{IPA|/ˈoxa/}}, French ''feuille'' {{IPA|/ˈfœj/}}; but note Portuguese ''folha'' {{IPA|/ˈfoʎɐ/}}).
+
+Compared with most other Romance languages, Italian has a large number of inconsistent outcomes, where the same underlying sound produces different results in different words, e.g. {{smallcaps|laxāre}} > ''lasciare'' and ''lassare'', {{smallcaps|captiāre}} > ''cacciare'' and ''cazzare'', {{smallcaps|(ex)dēroteolāre}} > ''sdrucciolare'', ''druzzolare'' and ''ruzzolare'', {{smallcaps|rēgīna}} > ''regina'' and ''reina'', {{smallcaps|-c-}} > {{IPA|/k/}} and {{IPA|/ɡ/}}, {{smallcaps|-t-}} > {{IPA|/t/}} and {{IPA|/d/}}. Although in all these examples the second form has fallen out of usage, the dimorphism is thought to reflect the several-hundred-year period during which Italian developed as a literary language divorced from any native-speaking population, with an origin in 12th/13th-century Tuscan but with many words borrowed from [[Languages of Italy|languages]] farther to the north, with different sound outcomes. (The [[La Spezia–Rimini Line]], the most important [[isogloss]] in the entire Romance-language area, passes only about 20 miles to the north of Florence.)
+
+Some other features that distinguish Italian from the Western Romance languages:
+* Latin {{smallcaps|ce-,ci-}} becomes {{IPA|/tʃe, tʃi/}} rather than {{IPA|/(t)se, (t)si/}}.
+* Latin {{smallcaps|-ct-}} becomes {{IPA|/tt/}} rather than {{IPA|/jt/}} or {{IPA|/tʃ/}}: {{smallcaps|octō}} > ''otto'' "eight" (cf. Spanish ''ocho'', French ''huit,'' Portuguese ''oito'').
+* Vulgar Latin {{smallcaps|-cl-}} becomes ''cchi'' {{IPA|/kkj/}} rather than {{IPA|/ʎ/}}: {{smallcaps|oclum}} > ''occhio'' "eye" (cf. Portuguese ''olho'' {{IPA|/oʎu/}}, French ''oeil'' {{IPA|/œj/}} < {{IPA|/œʎ/}}); but Romanian ''ochi'' {{IPA|/okʲ/}}.
+* Final {{IPA|/s/}} is not preserved, and vowel changes rather than {{IPA|/s/}} are used to mark the plural: ''amico, amici'' "male friend(s)", ''amica, amiche'' "female friend(s)" (cf. Romanian ''amic, amici'',''amică, amice'', Spanish ''amigo(s)'' "male friend(s)", ''amiga(s)'' "female friend(s)"); {{smallcaps|trēs, sex}} → ''tre, sei'' "three, six" (cf. Romanian ''trei, șase'', Spanish ''tres, seis'').
+
+Standard Italian also differs in some respects from most nearby Italian languages:
+* Perhaps most noticeable is the total lack of [[metaphony (Romance languages)|metaphony]], though metaphony is a feature characterizing nearly every other [[Languages of Italy|Italian language]].
+* No simplification of original {{IPA|/nd/}}, {{IPA|/mb/}} (which often became {{IPA|/nn/, /mm/}} elsewhere).
+
+=== Assimilation ===
+Italian [[phonotactics]] do not usually permit verbs and polysyllabic nouns to end with consonants, excepting poetry and song, so foreign words may receive [[Epenthetic vowel#Epenthesis of a vowel, or anaptyxis|extra terminal vowel sounds]].<!--(Maybe this should go under history?)--->
+
+== Writing system ==
+{{Main|Italian alphabet}}
+The Italian alphabet is typically considered to consist of 21 letters. The letters j, k, w, x, y are traditionally excluded, though they appear in loanwords such as ''jeans'', ''whisky'', ''taxi'', ''xenofobo'', ''xilofono''. The letter {{angle bracket|x}} has become common in standard Italian with the prefix ''extra-'', although ''(e)stra-'' is traditionally used; it is also common to use of the Latin particle ''ex(-)'' to mean "former(ly)" as in: ''la mia ex'' ("my ex-girlfriend"), "Ex-Jugoslavia" ("Former Yugoslavia"). The letter {{angle bracket|j}} appears in the first name ''Jacopo'' and in some Italian place-names, such as [[Bajardo]], [[Bojano]], [[Joppolo]], [[Jerzu]], [[Jesolo]], [[Jesi]], [[Ajaccio]], among others, and in ''Mar Jonio'', an alternative spelling of ''Mar Ionio'' (the [[Ionian Sea]]). The letter {{angle bracket|j}} may appear in dialectal words, but its use is discouraged in contemporary standard Italian.<ref name="Clivio">{{cite book|title=The Sounds, Forms, and Uses of Italian: An Introduction to Italian Linguistics|first=Gianrenzo|last=Clivio|first2=Marcel|last2=Danesi|publisher=University of Toronto Press|year=2000|pages=21, 66}}</ref> Letters used in foreign words can be replaced with [[phonetics|phonetically]] equivalent native Italian letters and [[digraph (orthography)|digraphs]]: {{angle bracket|gi}}, {{angle bracket|ge}}, or {{angle bracket|i}} for {{angle bracket|j}}; {{angle bracket|c}} or {{angle bracket|ch}} for {{angle bracket|k}} (including in the standard prefix ''kilo-''); {{angle bracket|o}}, {{angle bracket|u}} or {{angle bracket|v}} for {{angle bracket|w}}; {{angle bracket|s}}, {{angle bracket|ss}}, {{angle bracket|z}}, {{angle bracket|zz}} or {{angle bracket|cs}} for {{angle bracket|x}}; and {{angle bracket|e}} or {{angle bracket|i}} for {{angle bracket|y}}.
+* The [[acute accent]] is used over word-final {{angle bracket|e}} to indicate a stressed [[Close-mid front unrounded vowel|front close-mid vowel]], as in ''perché'' "why, because". In dictionaries, it is also used over {{angle bracket|o}} to indicate a stressed [[Close-mid back rounded vowel|back close-mid vowel]] (''azióne''). The [[grave accent]] is used over word-final {{angle bracket|e}} to indicate a [[Open-mid front unrounded vowel|front open-mid vowel]], as in ''tè'' "tea". The grave accent is used over any vowel to indicate word-final stress, as in ''gioventù'' "youth". Unlike {{angle bracket|é}}, which is a ''close''-mid vowel, a stressed final {{angle bracket|o}} is always a [[Open-mid back rounded vowel|back open-mid vowel]] (''andrò''), making {{angle bracket|ó}} unnecessary outside of dictionaries. Most of the time, the penultimate syllable is stressed. But if the stressed vowel is the final letter of the word, the accent is mandatory, otherwise it is virtually always omitted. Exceptions are typically either in dictionaries, where all or most stressed vowels are commonly marked. Accents can optionally be used to disambiguate words that differ only by stress, as for ''prìncipi'' "princes" and ''princìpi'' "principles", or ''àncora'' "anchor" and ''ancóra'' "still''/''yet". For monosyllabic words, the rule is different: when two orthographically identical monosyllabic words with different meanings exist, one is accented and the other is not (example: ''è'' "is", ''e'' "and").
+* The letter {{angle bracket|h}} distinguishes ''ho'', ''hai'', ''ha'', ''hanno'' (present indicative of ''avere'' "to have") from ''o'' ("or"), ''ai'' ("to the"), ''a'' ("to"), ''anno'' ("year"). In the spoken language, the letter is always silent. The {{angle bracket|h}} in ''ho'' additionally marks the contrasting open pronunciation of the {{angle bracket|o}}. The letter {{angle bracket|h}} is also used in combinations with other letters. No [[phoneme]] {{IPA|/h/}} exists in Italian. In nativized foreign words, the {{angle bracket|h}} is silent. For example, ''hotel'' and ''hovercraft'' are pronounced {{IPA|/oˈtɛl/}} and {{IPA|/ˈɔverkraft/}} respectively. (Where {{angle bracket|h}} existed in Latin, it either disappeared or, in a few cases before a back vowel, changed to {{IPA|[ɡ]}}: ''traggo'' "I pull" ← Lat. {{smallcaps|trahō}}.)
+* The letters {{angle bracket|s}} and {{angle bracket|z}} can symbolize [[voice (phonetics)|voiced]] or [[voicelessness|voiceless]] consonants. {{angle bracket|z}} symbolizes {{IPA|/dz/}} or {{IPA|/ts/}} depending on context, with few minimal pairs. For example: ''zanzara'' {{IPA|/dzanˈdzaːra/}} "mosquito" and ''nazione'' {{IPA|/natˈtsjoːne/}} "nation". {{angle bracket|s}} symbolizes {{IPA|/s/}} word-initially before a vowel, when clustered with a voiceless consonant ({{angle bracket|p, f, c, ch}}), and when doubled; it symbolizes {{IPA|/z/}} when between vowels and when clustered with voiced consonants. Intervocalic {{angle bracket|s}} varies regionally between {{IPA|/s/}} and {{IPA|/z/}}, with {{IPA|/z/}} being more dominant in northern Italy and {{IPA|/s/}} in the south.
+* The letters {{angle bracket|c}} and {{angle bracket|g}} vary in pronunciation between [[plosives]] and [[affricates]] depending on following vowels. The letter {{angle bracket|c}} symbolizes {{IPA|/k/}} when word-final and before the back vowels {{angle bracket|a, o, u}}. It symbolizes {{IPAslink|tʃ}} as in ''chair'' before the front vowels {{angle bracket|e, i}}. The letter {{angle bracket|g}} symbolizes {{IPA|/ɡ/}} when word-final and before the back vowels {{angle bracket|a, o, u}}. It symbolizes {{IPAslink|dʒ}} as in ''gem'' before the front vowels {{angle bracket|e, i}}. Other Romance languages and, to an extent, English have similar variations for {{angle bracket|c, g}}. Compare [[hard and soft C]], [[hard and soft G]]. (See also [[Palatalization (sound change)|palatalization]].)
+* The [[digraph (orthography)|digraphs]] {{angle bracket|ch}} and {{angle bracket|gh}} indicate ({{IPA|/k/}} and {{IPA|/ɡ/}}) before {{angle bracket|i, e}}. The digraphs {{angle bracket|ci}} and {{angle bracket|gi}} indicate softness ({{IPA|/tʃ/}} and {{IPA|/dʒ/}}) before {{angle bracket|a, o, u}}. For example:
+
+:{| class="wikitable"
+!
+! colspan="2" | Before back vowel (A, O, U)
+! colspan="2" | Before front vowel (I, E)
+|-
+! rowspan="2" | Plosive
+! C
+| caramella {{IPA|/karaˈmɛlla/}} ''[[candy]]''
+! CH
+| china {{IPA|/ˈkiːna/}} ''[[India ink]]''
+|-
+! G
+| gallo {{IPA|/ˈɡallo/}} ''[[rooster]]''
+! GH
+| ghiro {{IPA|/ˈɡiːro/}} ''[[edible dormouse]]''
+|-
+! rowspan="2" | Affricate
+! CI
+| ciambella {{IPA|/tʃambɛlla/}} ''[[doughnut|donut]]''
+! C
+| Cina {{IPA|/ˈtʃiːna/}} ''China''
+|-
+! GI
+| giallo {{IPA|/ˈdʒallo/}} ''[[yellow]]''
+! G
+| giro {{IPA|/ˈdʒiːro/}} ''[[wikt:round|round]], [[wikt:tour|tour]]''
+|}
+
+:Note: {{angle bracket|h}} is [[silent letter|silent]] in the digraphs ''[[ch (digraph)|{{angle bracket|ch}}]]'', ''[[gh (digraph)|{{angle bracket|gh}}]]''; and {{angle bracket|i}} is silent in the digraphs {{angle bracket|ci}} and {{angle bracket|gi}} before {{angle bracket|a, o, u}} unless the {{angle bracket|i}} is stressed. For example, it is silent in ''[[ciao]]'' {{IPA|/ˈtʃaː.o/}} and cielo {{IPA|/ˈtʃɛː.lo/}}, but it is pronounced in ''farmacia'' {{IPA|/ˌfar.maˈtʃiː.a/}} and ''farmacie'' {{IPA|/ˌfar.maˈtʃiː.e/}}.
+<!--
+* There are three other special [[digraph (orthography)|digraphs]] in Italian: [[gn (digraph)|{{angle bracket|gn}}]], {{angle bracket|gl}} and {{angle bracket|sc}}. The digraph {{angle bracket|gn}} represents {{IPAslink|ɲ}}. {{angle bracket|gl}} represents {{IPAslink|ʎ}} before {{angle bracket|i}}, and never at the beginning of a word, except in the [[personal pronoun]] and [[definite article]] ''gli''. An exception is the word ''glicerina'' ("glycerin"), which is pronounced with a hard {{angle bracket|g}}. (Compare with [[Spanish language|Spanish]] {{angle bracket|ñ}} and {{angle bracket|ll}}, [[Portuguese language|Portuguese]] {{angle bracket|nh}} and {{angle bracket|lh}}.) {{angle bracket|sc}} represents a fricative {{IPAslink|ʃ}} before {{angle bracket|e, i}}. Except in the speech of some Northern Italians, all of these are normally [[geminate]] between vowels.
+* In general, there is a clear one-to-one correspondence between letters or digraphs and phonemes, as in [[Spanish language|Spanish]]; in standard varieties of Italian, there is little allophonic variation. The most notable exceptions are assimilation of /n/ in point of articulation before consonants, assimilatory voicing of /s/ to following voiced consonants, and vowel length (vowels are long in stressed open syllables, except at the end of words, and short elsewhere) — compare with the substantial number of [[allophone]]s of the English phoneme /t/. Spelling is mostly phonemic and usually difficult to mistake, given a clear pronunciation. Exceptions exist, especially in foreign borrowings. There are fewer cases of [[dyslexia]] than among speakers of languages such as English,<ref>E. Paulescu et al., Dyslexia – cultural diversity and biological unity, "Science", vol. 291, pp. 2165–2167.</ref> and the concept of a [[spelling bee]] is strange to Italians.
+
+=== Common variations ===
+Some variations in the usage of the writing system may be present in practical use. These are scorned by educated people and normal written language, but they are so common in certain limited contexts that knowledge of them may be useful.
+* Usage of ''x'' instead of ''per'' "for". This is common among teenagers and in [[Text messaging|SMS]] abbreviations. The multiplication operator is read "per" in Italian. For example, ''per te'' ("for you") is shortened to ''x te'' (compare with English ''4 u''). The ''per'' within words can also be replaced with ''x''. For example: ''perché'' ("why, because") to ''xché'' or ''xké''; ''sapere'' ("to know") to ''saxe''). This usage is useful shorthand in quick notes or in SMS, but it is unacceptable in formal writing.
+* Usage of foreign letters such as {{angle bracket|k}}, {{angle bracket|j}} and {{angle bracket|y}}, especially in nicknames and SMS language: ''ke'' instead of ''che'', ''Giusy'' instead of ''Giuseppina''. This is mirrored in the usage of ''i'' in English names such as ''Staci'' instead of ''Stacey'' or in the usage of ''c'' in [[Northern Europe]] (''Jacob'' instead of ''Jakob''). The use of {{angle bracket|k}} instead of {{angle bracket|ch}} or {{angle bracket|c}} to represent a plosive sound is documented in some historical texts from before the standardization of the Italian language. The usage is no longer standard in Italian. The letter {{angle bracket|k}} has sometimes been used in satire to suggest a political figure is an authoritarian or even a "pseudo-nazi". For example, [[Francesco Cossiga]] was famously nicknamed ''Kossiga'' by rioting students during his tenure as minister of internal affairs. Compare the [[satiric misspelling#"K" replacing "C"|politicized spelling ''Amerika'']] in the USA. Although not a letter in the standard Italian alphabet, the letter {{angle bracket|j}} is found in many of the languages of southern Italy, including [[Neapolitan language|Neapolitan]] and [[Sicilian language|Sicilian]]. In modern texts written in any such language, the {{angle bracket|j}} is often replaced with {{angle bracket|i}}.
+* The following abbreviations are limited to electronic-communications media: ''nn'' for ''non'' "not"; ''cmq'' for ''comunque'' "anyway, however"; ''cm'' for ''come'' "how, like, as"; ''d'' for ''di'' "of"; ''(io/loro) sn'' for ''(io/loro) sono'' "I am, they are"; ''(io) dv'' for ''(io) devo'' "I must, I have to" or for ''dove'' "where"; ''(tu) 6'' for ''(tu) sei'' "you are"; ''dmn'' for ''domani'' "tomorrow".
+* Whenever non-[[ASCII]] characters are unavailable or unreliable (as in e-mail), accents may be replaced with adjacent apostrophes. For example: in ''perche<nowiki>'</nowiki>'' instead of ''perché''. The practice was standard on manual typewriters that had no accents and is still common for uppercase accented letters. Uppercase {{angle bracket|[[È]]}} is rare and is absent from the [[Keyboard layout#Italian|Italian keyboard layout]]. It is often substituted with {{angle bracket|E<nowiki>'</nowiki>}}, even though there are [[:it:Aiuto:Manuale di stile#Scrivere È|several ways]] of producing the uppercase È on a computer.
+
+== Sounds ==
+{{Main|Italian phonology}}
+{{IPA notice|lang=it}}
+
+=== Vowels ===
+Italian has seven [[vowel]] phonemes: {{IPA|/a/}}, {{IPA|/e/}}, {{IPA|/ɛ/}}, {{IPA|/i/}}, {{IPA|/o/}}, {{IPA|/ɔ/}}, {{IPA|/u/}}, represented by five letters: "a, e, i, o, u". The pairs {{IPA|/e/}}-{{IPA|/ɛ/}}, and {{IPA|/o/}}-{{IPA|/ɔ/}} are seldom distinguished in writing and often confused, even though most varieties of Italian employ both phonemes consistently. Compare, for example standard "perché" {{IPA|[perˈke]}} (why, because) and "senti" {{IPA|[ˈsɛnti]}} (you hear), as pronounced by most central and southern speakers, with {{IPA|[perˈkɛ]}} and {{IPA|[ˈsenti]}}, employed by most northern speakers. As a result, the usage is strongly indicative of a person's origin. The standard (Tuscan) usage of these vowels is listed in vocabularies, and employed outside Tuscany mainly by specialists, especially actors and a few (television) journalists.
+These are truly different [[phonemes]], however: compare {{IPA|/ˈpeska/}} (fishing) and {{IPA|/ˈpɛska/}} (peach), both spelled ''pesca'' ({{Audio|It-pesca.ogg|listen}}). Similarly {{IPA|/ˈbotte/}} ('barrel') and {{IPA|/ˈbɔtte/}} ('beatings'), both spelled ''botte'', discriminate {{IPA|/o/}} and {{IPA|/ɔ/}} ({{Audio|It-botte-mp.ogg|listen}}).
+
+In general, vowel combinations usually pronounce each vowel separately. [[Diphthong]]s exist (e.g. ''uo'', ''iu'', ''ie'', ''ai''), but are limited to an unstressed ''u'' or ''i'' before or after a stressed vowel.
+
+The unstressed ''u'' in a diphthong approximates the English semivowel ''w'', and the unstressed ''i'' approximates the semivowel ''y''. E.g.: ''buono'' {{IPA|[ˈbwɔːno]}}, ''ieri'' {{IPA|[ˈjɛːri]}}.
+
+[[Triphthong]]s exist in Italian as well, like "contin''uia''mo" ("we continue"). Three vowel combinations exist only in the form semiconsonant ({{IPA|/j/}} or {{IPA|/w/}}), followed by a vowel, followed by a [[:wikt:desinence|desinence]] vowel (usually {{IPA|/i/}}), as in ''miei'', ''suoi'', or two semiconsonants followed by a vowel, as the group ''-uia-'' exemplified above, or ''-iuo-'' in the word ''aiuola''.<ref>{{cite book | last=Serianni | first=Luca | coauthors=Castelvecchi, Alberto |title=Italiano | publisher=Garzanti | year=1997 | page=15}}</ref>
+
+=== Mobile diphthongs ===
+Many Latin words with a short ''e'' or ''o'' have Italian counterparts with a so-called mobile diphthong (''ie'' and ''uo'' respectively). The mobility, however, is of stress: when the vowel sound is stressed, it is pronounced and written as a diphthong, e.g. ''buono'' 'good'; when not stressed, it is pronounced and written as a single vowel, as in ''bontà'' 'goodness'.
+
+So Latin ''focus'' gave rise to Italian ''fuoco'' (meaning both "fire" and "optical focus"): when unstressed, as in ''focale'' ("focal") the "o" remains alone. Latin ''pes'' (more precisely its accusative form ''pedem'') is the source of Italian ''piede'' (foot): but unstressed "e" was left unchanged in ''pedone'' (pedestrian) and ''pedale'' (pedal). From Latin ''jocus'' comes Italian ''giuoco'' ("play", "game"), though in this case ''gioco'' is more common: ''giocare'' means "to play (a game)". From Latin ''homo'' comes Italian ''uomo'' (man), but also ''umano'' (human) and ''ominide'' (hominid). From Latin ''ovum'' comes Italian ''uovo'' (egg) and ''ovaie'' (ovaries). (The same phenomenon occurs in [[Spanish language|Spanish]]: ''juego'' (play, game) and ''jugar'' (to play), ''nieve'' (snow) and ''nevar'' (to snow)). Stress-conditioned historical diphthongization can also produce alternating verb stems, as in stem-stressed ''siedo'' 'I sit' and suffix-stressed ''sediamo'' 'we sit'.
+
+=== Consonants ===
+{{See also|Syntactic doubling}}
+
+Two symbols in a table cell denote the voiceless and voiced consonant, respectively.
+
+{| class="wikitable"
+|+ Consonants of Italian<ref>{{Harvcoltxt|Rogers & d'Arcangeli|2004|p=117}}</ref>
+!
+! [[bilabial consonant|Bilabial]]
+! [[labiodental consonant|Labio-<br />dental]]
+! [[dental consonant|Dental]]/<br />[[alveolar consonant|Alveolar]]
+! [[postalveolar consonant|Post-<br />alveolar]]
+! [[palatal consonant|Palatal]]
+! [[velar consonant|Velar]]
+|-
+! [[Nasal stop|Nasal]]
+| style="text-align: center;" | {{IPA|m}}
+| style="text-align: center;" | {{IPA|ɱ}}
+| style="text-align: center;" | {{IPA|n}}
+|
+| style="text-align: center;" | {{IPA|ɲ}}
+| style="text-align: center;" | {{IPA|ŋ}}*
+|-
+! [[plosive consonant|Plosive]]
+| style="text-align: center;" | {{IPA|p}}, {{IPA|b}}
+|
+| style="text-align: center;" | {{IPA|t̪}}, {{IPA|d̪}}
+|
+|
+| style="text-align: center;" | {{IPA|k}}, {{IPA|ɡ}}
+|-
+! [[affricate consonant|Affricate]]
+|
+|
+| style="text-align: center;" | {{IPA|t͡s}}, {{IPA|d͡z}}
+| style="text-align: center;" | {{IPA|t͡ʃ}}, {{IPA|d͡ʒ}}
+|
+|
+|-
+! [[fricative consonant|Fricative]]
+|
+| style="text-align: center;" | {{IPA|f}}, {{IPA|v}}
+| style="text-align: center;" | {{IPA|s}}, {{IPA|z}}
+| style="text-align: center;" | {{IPA|ʃ}}
+|
+|
+|-
+! [[trill consonant|Trill]]
+|
+|
+| style="text-align: center;" | {{IPA|r}}
+|
+|
+|
+|-
+! [[lateral consonant|Lateral]]
+|
+|
+| style="text-align: center;" | {{IPA|l}}
+|
+| style="text-align: center;" | {{IPA|ʎ}}
+|
+|-
+! [[approximant consonant|Approximant]]
+|
+|
+|
+|
+| style="text-align: center;" | {{IPA|j}}
+| style="text-align: center;" | {{IPA|w}}
+|}
+
+Note: Unlike in standard English, {{IPA|ŋ}} is ''not'' a phoneme in standard Italian; instead, when preceding a velar ({{IPA|/k/}} or {{IPA|/ɡ/}}) {{IPA|[ŋ]}} appears as an [[allophone]] of {{IPA|/n/}}. More generally, nasals assimilate to the point of articulation of whatever consonant they precede. -->
+
+Italian has geminate, or double, consonants, which are distinguished by [[Consonant length|length]] and intensity. Length is distinctive for all consonants except for {{IPA|/ʃ/}}, {{IPA|/dz/}}, {{IPA|/ts/}}, {{IPA|/ʎ/}}, {{IPA|/ɲ/}}, which are always geminate when between vowels, and {{IPA|/z/}}, which is always single.
+Geminate plosives and affricates are realized as lengthened closures. Geminate fricatives, nasals, and {{IPA|/l/}} are realized as lengthened [[continuant]]s. There is only one vibrant phoneme {{IPA|/r/}} but the actual pronunciation depends on context and regional accent. Generally one can find a flap consonant {{IPA|[ɾ]}} in unstressed position whereas {{IPA|[r]}} is more common in stressed syllables, but there may be exceptions. Especially people from the Northern part of Italy ([[Parma]], [[Aosta Valley]], [[South Tyrol]]) may pronounce {{IPA|/r/}} as {{IPA|[ʀ]}}, {{IPA|[ʁ]}}, or {{IPA|[ʋ]}}.<ref>{{cite book |last= Canepari |first= Luciano |title= Il MªPI – Manuale di pronuncia italiana |edition= second |date=January 1999 |publisher= Zanichelli |location= Bologna |isbn= 88-08-24624-8}}</ref>
+
+Of special interest to the linguistic study of [[Regional Italian]] is the ''[[Tuscan gorgia|gorgia toscana]]'', or "Tuscan Throat", the weakening or [[lenition]] of [[:wiktionary:intervocalic|intervocalic]] {{IPA|/p/}}, {{IPA|/t/}}, and {{IPA|/k/}} in the [[Tuscan language]].
+
+The [[voiced postalveolar fricative]] {{IPA|/ʒ/}} is present as a phoneme only in loanwords: for example, ''garage'' {{IPA|[ɡaˈraːʒ]}}. Phonetic {{IPA|[ʒ]}} is common in Central and Southern Italy as an intervocalic allophone of {{IPA|/dʒ/}}: ''gente'' {{IPA|[ˈdʒɛnte]}} 'people' but ''la gente'' {{IPA|[laˈʒɛnte]}} 'the people', ''ragione'' {{IPA|[raˈʒoːne]}} 'reason'.
+
+== Grammar ==
+{{Main|Italian grammar}}
+{{See also|Italian verbs}}
+
+Italian grammar is typical of the grammar of [[Romance languages]] in general. [[Grammatical case|Cases]] exist for personal pronouns ([[Nominative case|nominative]], [[Oblique case|oblique]], [[Accusative case|accusative]], [[Dative case|dative]]), but not for nouns.
+
+There are two basic classes of nouns in Italian, referred to as [[Grammatical gender|genders]], masculine and feminine. Gender may be [[natural gender|natural]] (''ragazzo'' 'boy', ''ragazza'' 'girl') or simply grammatical with no possible reference to biological gender (masculine ''costo'' 'cost', feminine ''costa'' 'coast'). Masculine nouns typically end in ''-o'' (''ragazzo'' 'boy'), with plural marked by ''-i'' (''ragazzi'' 'boys'), and feminine nouns typically end in ''-a'', with plural marked by ''-e'' (''ragazza'' 'girl', ''ragazze'' 'girls). For a group composed of boys and girls, ''ragazzi'' is the plural, suggesting that ''-i'' is a general plural. A third category of nouns is [[Marker (linguistics)|umarked]] for gender, ending in ''-e'' in the singular and ''-i'' in the plural: ''legge'' 'law, f. sg.', ''leggi'' 'laws, f. pl.'; ''fiume'' 'river, m. sg.', ''fiumi'' 'rivers, m. pl.', thus assignment of gender is arbitrary in terms of form, enough so that terms may be identical but of distinct genders: ''fine'' meaning 'aim, purpose' is masculine, while ''fine'' meaning 'end, ending' (e.g. of a movie) is feminine, and both are ''fini'' in the plural, a clear instance of ''-i'' as a non-gendered default plural marker. These nouns often, but not always, denote [[Animacy|inanimates]]. There are a number of nouns that have a masculine singular and a feminine plural, most commonly of the pattern m. sg. ''-o'', f. pl. ''-a'' (''miglio'' 'mile, m. sg.', ''miglia'' 'miles, f. pl.'; ''paio'' 'pair, m. sg., ''paia'' 'pairs, f. pl.'), and thus are sometimes considered neuter (these are usually derived from [[Grammatical gender|neuter]] Latin nouns). An instance of neuter gender also exists in pronouns of the third person singular.
+
+Examples:<ref name=":6" />
+{| class="wikitable" href="Accademia della Crusca"
+! href="Floris Italicae lingue libri novem" |Definition
+!Gender
+! href="Napoleon" |Singular Form
+! href="lingua franca" |Plural Form
+|- href="bourgeoisie"
+|Son
+| href="The Betrothed (Manzoni novel)" |Masculine
+|Figlio
+|Figli
+|- href="Alessandro Manzoni"
+| href="Arno River" |House
+| href="Florence" |Feminine
+|Casa
+| href="ciao" |Case
+|- href="Venetian language"
+|Love
+| href="panettone" |Masculine
+| href="Lombard language" |Amore
+|Amori
+|- href="Romance language"
+| href="Vulgar Latin" |Art
+| href="Tuscan language" |Feminine
+| href="Florentine dialect" |Arte
+| href="Italo-Dalmatian languages" |Arti
+|}
+Nouns, adjectives, and articles [[Inflection|inflect]] for gender and number (singular and plural).
+
+Like in English, common nouns are capitalized when occurring at the beginning of a sentence. Unlike English, nouns referring to languages (e.g. Italian), speakers of languages, or inhabitants of an area (e.g. Italians) are not capitalized.<ref name=":5" />
+
+There are three types of [[adjective]]s: descriptive, invariable and form-changing. Descriptive adjectives are the most common, and their endings change to match the number and gender of the noun they modify. Invariable adjectives are adjectives whose endings do not change. The form changing adjectives "buono (good), bello (beautiful), grande (big), and santo (saint)" change in form when placed before different types of nouns. Italian has three degrees for comparison of adjectives: positive, comparative, and superlative.<ref name=":5" />
+
+The order of words in the phrase is relatively free compared to most European languages.<ref name="Clivio" /> The position of the verb in the phrase is highly mobile. Word order often has a lesser grammatical function in Italian than in [[English language|English]]. Adjectives are sometimes placed before their noun and sometimes after. Subject nouns generally come before the verb. Italian is a [[null-subject language]], so that nominative pronouns are usually absent, with subject indicated by verbal [[inflection]]s (e.g. ''amo'' 'I love', ''ama'' 's/he loves', ''amano'' 'they love'). Noun objects normally come after the verb, as do pronoun objects after imperative verbs, infinitives and gerunds, but otherwise pronoun objects come before the verb.
+
+There are both indefinite and definite [[Article (grammar)|articles]] in Italian. There are four indefinite articles, selected by the gender of the noun they modify and by the phonological structure of the word that immediately follows the article. ''Uno'' is masculine singular, used before ''z'' ({{IPA|ts/}} or {{IPA|/dz/}}), ''s+consonant'', ''gn'' ({{IPA|/ɲ/}}), or ''ps'', while masculine singular ''un'' is used before a word beginning with any other sound. The noun ''zio'' 'uncle' selects masculine singular, thus ''uno zio'' 'an uncle' or ''uno zio anziano'' 'an old uncle,' but ''un mio zio'' 'an uncle of mine'. The feminine singular indefinite articles are ''una'', used before any consonant sound, and its abbreviated form, written ''un','' used before vowels: ''una camicia'' 'a shirt', ''una camicia bianca'' 'a white shirt',  ''un'altra camicia'' 'a different shirt'. There are seven forms for definite articles, both singular and plural. In the singular: ''lo'', which corresponds to the uses of ''uno''; ''il'', which corresponds to the uses with consonant of ''un''; ''la,'' which corresponds to the uses of ''una''; ''l','' used for both masculine and feminine singular before vowels. In the plural: ''gli'' is the masculine plural of ''lo and l<nowiki>'</nowiki>''; ''i'' is the plural of ''il''; and ''le'' is the plural of feminine ''la'' and ''l''<nowiki/>'.<ref name=":5" />
+
+There are numerous [[Contraction (grammar)|contractions]] of [[preposition]]s with subsequent [[Article (grammar)|articles]]. There are numerous productive [[suffix]]es for [[Italian diminutive|diminutive]], [[Augmentative#Italian|augmentative]], pejorative, attenuating etc., which are also used to create [[neologism]]s.
+
+There are 27 pronouns, grouped in [[clitic]] and tonic pronouns. Personal pronouns are separated into three groups: subject, object (which take the place of both direct and indirect objects), and reflexive. Second person subject pronouns have both a polite and a familiar form. These two different types of address are very important in Italian social distinctions. All object pronouns have two forms: stressed and unstressed (clitics). Unstressed object pronouns are much more frequently used, and come before the verb (''Lo vedo''. 'I see him.'). Stressed object pronouns come after the verb, and are used when emphasis is required, for contrast, or to avoid ambiguity (''Vedo lui, ma non lei''. 'I see him, but not her'). Aside from personal pronouns, Italian also has demonstrative, interrogative, possessive, and relative pronouns. There are two types of demonstrative pronouns: relatively near (this) and relatively far (that). Demonstratives in Italian are repeated before each noun, unlike in English.<ref name=":5" />
+
+There are three regular sets of verbal [[Grammatical conjugation|conjugations]], and various verbs are irregularly conjugated. Within each of these sets of conjugations, there are four simple (one-word) verbal conjugations by person/number in the [[indicative mood]] ([[present tense]]; [[past tense]] with [[imperfective aspect]], past tense with [[perfective aspect]], and [[future tense]]), two simple conjugations in the [[subjunctive mood]] (present tense and past tense), one simple conjugation in the [[conditional mood]], and one simple conjugation in the [[imperative mood]]. Corresponding to each of the simple conjugations, there is a compound conjugation involving a simple conjugation of "to be" or "to have" followed by a [[past participle]]. "To have" is used to form compound conjugation when the verb is transitive ("Ha detto", "ha fatto": he/she has said, he/she has made/done), while "to be" is used in the case of verbs of motion and some other intransitive verbs ("È andato", "è stato": he/she has gone, he/she has been). "To be" may be used with transitive verbs, but in such a case it makes the verb passive ("Ê detto", "è fatto": it is said, it is made/done). This rule is not absolute, and some exceptions do exist.
+
+== Words ==
+===Conversation===
+Note: the plural form of verbs could also be used as an extremely formal (for example to [[Nobility|noble]] people in [[Monarchy|monarchies]]) singular form.
+
+{| class="wikitable"
+! English (''inglese'') || Italian (''italiano'') || Pronunciation
+|-
+| Yes || ''Sì'' || ([//upload.wikimedia.org/wikipedia/commons/a/a2/It-s%C3%AC.ogg listen]) {{IPA|/ˈsi/}}
+|-
+| No || ''No'' || ([//upload.wikimedia.org/wikipedia/commons/4/4f/It-no.ogg listen]) {{IPA|/ˈnɔ/}}
+|-
+| Of course! || ''Certo!'' / ''Certamente!'' / ''Naturalmente!'' || {{IPA|/ˈtʃɛrto/}} {{IPA|/ˌtʃertaˈmente/}} {{IPA|/naturalˈmente/}}
+|-
+| Hello! || ''[[Ciao]]!'' (informal) / ''Salve!'' (formal) || {{IPA|/ˈtʃaːo/}}
+|-
+| Cheers! || ''Salute!'' || {{IPA|/saˈluːte/}}
+|-
+| How are you? || ''Come stai?'' (informal) / ''Come sta?'' (formal) / ''Come state?'' (plural) / ''Come va?'' (general, informal) || {{IPA|/ˌkomeˈstai/}}; {{IPA|/ˌkomeˈsta/}} {{IPA|/ˌkome ˈstaːte/}} {{IPA|/ˌkome va/}}
+|-
+| Good morning! || ''Buongiorno!'' (= Good day!) || {{IPA|/ˌbwɔnˈdʒorno/}}
+|-
+| Good evening! || ''Buonasera!'' || {{IPA|/ˌbwɔnaˈseːra/}}
+|-
+| Good night! || ''Buonanotte!'' (for a good night sleeping) / ''Buona serata!'' (for a good night awake) || {{IPA|/ˌbwɔnaˈnɔtte/}} {{IPA|/ˌbwɔna seˈraːta/}}
+|-
+| Have a nice day! || ''Buona giornata!'' (formal) || {{IPA|/ˌbwɔna dʒorˈnaːta/}}
+|-
+| Enjoy the meal! || ''Buon appetito!'' || {{IPA|/ˌbwɔn‿appeˈtiːto/}}
+|-
+| Goodbye! || ''Arrivederci'' (general) / ''ArrivederLa'' (formal) / ''Ciao!'' (informal) || ([//upload.wikimedia.org/wikipedia/commons/9/9e/It-arrivederci.ogg listen]) {{IPA|/arriveˈdertʃi/}}
+|-
+| Good luck! || ''Buona fortuna!'' (general) || {{IPA|/ˌbwɔna forˈtuːna/}}
+|-
+| I love you || ''Ti amo'' (between lovers only) / ''Ti voglio bene'' (in the sense of "I am fond of you"'', between lovers, friends, relatives etc.) || {{IPA|/ti ˈaːmo/}}; {{IPA|/ti ˌvɔʎʎo ˈbɛːne/}}
+|-
+| Welcome [to...] || ''Benvenuto/-i'' (for male/males or mixed) ''/ Benvenuta/-e'' (for female/females) [''a / in...''] || {{IPA|/beɱveˈnuːto/}}
+|-
+| Please || ''Per favore'' / ''Per piacere'' / ''Per cortesia'' || ([//upload.wikimedia.org/wikipedia/commons/0/02/It-per_favore.ogg listen]) {{IPA|/per faˈvoːre/}} {{IPA|/per pjaˈtʃeːre/}} {{IPA|/per korteˈziːa/}}
+|-
+| Thank you! || ''Grazie!'' (general) / ''Ti ringrazio!'' (informal) / ''La ringrazio!'' (formal) / ''Vi ringrazio!'' (plural) || ([//upload.wikimedia.org/wikipedia/commons/e/e0/It-grazie.ogg listen]) {{IPA|/ˈɡrattsje/}} {{IPA|/ti riŋˈɡrattsjo/}}
+|-
+| You are welcome! || ''Prego!'' || {{IPA|/ˈprɛːɡo/}}
+|-
+| Excuse me / I am sorry || ''Mi dispiace'' (only "I am sorry") / ''Scusa(mi)'' (informal) / ''Mi scusi'' (formal) / ''Scusatemi'' (plural) / ''Sono desolato'' ("I am sorry", if male) / ''Sono desolata'' ("I am sorry", if female) || ([//upload.wikimedia.org/wikipedia/commons/b/b8/It-scusi.ogg listen]) {{IPA|/ˈskuːzi/}}; {{IPA|/ˈskuːza/}}; {{IPA|/mi disˈpjaːtʃe/}}
+|-
+| Who? || ''Chi?'' || {{IPA|/ki/}}
+|-
+| What? || ''Che cosa?'' / ''Cosa?'' / ''Che?'' || {{IPA|/kekˈkɔːsa/}} {{IPA|/ˈkɔːsa/}} {{IPA|/ˈke/}}
+|-
+| When? || ''Quando?'' || {{IPA|/ˈkwando/}}
+|-
+| Where? || ''Dove?'' || {{IPA|/ˈdoːve/}}
+|-
+| How? || ''Come?'' || {{IPA|/ˈkoːme/}}
+|-
+| Why / Because || ''Perché'' || {{IPA|/perˈke/}}
+|-
+| Again || ''Di nuovo'' / ''Ancora'' || {{IPA|/di ˈnwɔːvo/}}; {{IPA|/aŋˈkoːra/}}
+|-
+| How much? / How many? || ''Quanto?'' / ''Quanta?'' / ''Quanti?'' / ''Quante?'' || {{IPA|/ˈkwanto/}}
+|-
+| What is your name? || ''Come ti chiami?'' (informal) / ''Qual è il suo nome?'' (formal) / ''Come si chiama?'' (formal) || {{IPA|/ˌkome tiˈkjaːmi/}} {{IPA|/kwal ˈɛ il ˌsu.o ˈnoːme/}}
+|-
+| My name is ... || ''Mi chiamo ...'' || {{IPA|/mi ˈkjaːmo/}}
+|-
+| This is ... || ''Questo è ...'' (masculine) / ''Questa è ...'' (feminine) || {{IPA|/ˌkwesto ˈɛ/}} {{IPA|/ˌkwesta ˈɛ/}}
+|-
+| Yes, I understand. || ''Sì, capisco.'' / ''Ho capito.'' || {{IPA|/si kaˈpisko/}} {{IPA|/ɔkkaˈpiːto/}}
+|-
+| I do not understand. || ''Non capisco.'' / ''Non ho capito.'' || ([//upload.wikimedia.org/wikipedia/commons/0/0b/It-non_capisco.ogg listen]) {{IPA|/noŋ kaˈpisko/}} {{IPA|/nonˌɔkkaˈpiːto/}}
+|-
+| Do you speak English? || ''Parli inglese?'' (informal) / ''Parla inglese?'' (formal) / ''Parlate inglese?'' (plural) || ([//upload.wikimedia.org/wikipedia/commons/0/09/It-parlate_inglese.ogg listen]) {{IPA|/parˌlate iŋˈɡleːse/}} ([//upload.wikimedia.org/wikipedia/commons/9/96/Parla_inglese.ogg listen]) {{IPA|/ˌparla iŋˈɡleːse/}}
+|-
+| I do not understand Italian. || ''Non capisco l'italiano.'' || {{IPA|/noŋ kaˌpisko litaˈljaːno/}}
+|-
+| Help me! || ''Aiutami!'' (informal) / ''Mi aiuti!'' (formal) / ''Aiutatemi!'' (plural) / ''Aiuto!'' (general) || {{IPA|/aˈjuːtami/}} {{IPA|/ajuˈtaːtemi/}} {{IPA|/aˈjuːto/}}
+|-
+| You are right/wrong! || ''(Tu) hai ragione/torto!'' (informal) / ''(Lei) ha ragione/torto!'' (formal) / ''(Voi) avete ragione/torto!'' (plural) ||
+|-
+| What time is it? || ''Che ora è?'' / ''Che ore sono?'' || {{IPA|/ke ˌora ˈɛ/}} {{IPA|/ke ˌore ˈsono/}}
+|-
+| Where is the bathroom? || ''Dov'è il bagno?'' || ([//upload.wikimedia.org/wikipedia/commons/6/6e/It-dov%27%C3%A8_il_bagno.ogg listen]) {{IPA|/doˌvɛ il ˈbaɲɲo/}}
+|-
+| How much is it? || ''Quanto costa?'' || {{IPA|/ˌkwanto ˈkɔsta/}}
+|-
+| The bill, please. || ''Il conto, per favore.'' || {{IPA|/il ˌkonto per faˈvoːre/}}
+|-
+| The study of Italian sharpens the mind. || ''Lo studio dell'italiano aguzza l'ingegno.'' || {{IPA|/loˈstuːdjo dellitaˈljaːno aˈɡuttsa linˈdʒeɲɲo/}}
+|}
+
+===  Question words ===
+{| class="wikitable"
+!English
+!Italian<ref name=":5">{{Cite book|title=Practice Makes Perfect: Complete Italian Grammar, Premium Second Edition|last=Danesi|first=Marcel|publisher=McGraw-Hill Education|year=2008|isbn=978-1-259-58772-6|location=New York|pages=}}</ref><ref name=":6">{{Cite web|url=https://www.collinsdictionary.com/us/dictionary/english-italian|title=Collins Italian Dictionary {{!}} Translations, Definitions and Pronunciations|website=www.collinsdictionary.com|language=en-US|access-date=2017-07-28}}</ref>
+!IPA
+|-
+|what (adj.)
+|che
+|/ke/
+|-
+|what (standalone)
+|cosa
+|/ˈkɔːza/
+|-
+|who
+|chi
+|/ki/
+|-
+|how
+|come
+|/ˈkoːme/
+|-
+|where
+|dove
+|/ˈdoːve/
+|-
+|why, because
+|perché
+|/perˈke/
+|-
+|which
+|quale
+|/ˈkwaːle/
+|-
+|when
+|quando
+|/ˈkwando/
+|-
+|how much
+|quanto
+|/ˈkwanto/
+|}
+
+=== Time ===
+{| class="wikitable"
+!English
+!Italian<ref name=":5" /><ref name=":6" />
+!IPA
+|-
+|today
+|oggi
+|/ˈɔddʒi/
+|-
+|yesterday
+|ieri
+|/ˈjɛːri/
+|-
+|tomorrow
+|domani
+|/doˈma:ni/
+|-
+|second
+|secondo
+|/seˈkondo/
+|-
+|minute
+|minuto
+|/miˈnu:to/
+|-
+|hour
+|ora
+|/ˈo:ra/
+|-
+|day
+|giorno
+|/ˈdʒorno/
+|-
+|week
+|settimana
+|/settiˈma:na/
+|-
+|month
+|mese
+|/ˈme:se/
+|-
+|year
+|anno
+|/ˈanno/
+|}
+
+=== Numbers ===
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable"
+! English || Italian || [[International Phonetic Alphabet|IPA]]
+|-
+| one || ''uno'' || {{IPA|/ˈuːno/}}
+|-
+| two || ''due'' || {{IPA|/ˈduːe/}}
+|-
+| three || ''tre'' || {{IPA|/ˈtre/}}
+|-
+| four || ''quattro'' || {{IPA|/ˈkwattro/}}
+|-
+| five || ''cinque'' || {{IPA|/ˈtʃiŋkwe/}}
+|-
+| six || ''sei'' || {{IPA|/ˈsɛi/}}
+|-
+| seven || ''sette'' || {{IPA|/ˈsɛtte/}}
+|-
+| eight || ''otto'' || {{IPA|/ˈɔtto/}}
+|-
+| nine || ''nove'' || {{IPA|/ˈnɔve/}}
+|-
+| ten || ''dieci'' || {{IPA|/ˈdjɛːtʃi/}}
+|}
+
+{{col-break}}
+
+{| class="wikitable"
+! English || Italian || IPA
+|-
+| eleven || ''undici'' || {{IPA|/ˈunditʃi/}}
+|-
+| twelve || ''dodici'' || {{IPA|/ˈdoːditʃi/}}
+|-
+| thirteen || ''tredici'' || {{IPA|/ˈtreːditʃi/}}
+|-
+| fourteen || ''quattordici'' || {{IPA|/kwatˈtorditʃi/}}
+|-
+| fifteen || ''quindici'' || {{IPA|/ˈkwinditʃi/}}
+|-
+| sixteen || ''sedici'' || {{IPA|/ˈseːditʃi/}}
+|-
+| seventeen || ''diciassette'' || {{IPA|/ditʃasˈsɛtte/}}
+|-
+| eighteen || ''diciotto'' || {{IPA|/diˈtʃɔtto/}}
+|-
+| nineteen || ''diciannove'' || {{IPA|/ditʃanˈnɔːve/}}
+|-
+| twenty || ''venti'' || {{IPA|/ˈventi/}}
+|}
+
+{{col-break}}
+
+{| class="wikitable"
+! English || Italian || IPA
+|-
+| twenty-one || ''ventuno'' || {{IPA|/venˈtuːno/}}
+|-
+| twenty-two || ''ventidue'' || {{IPA|/ˌventiˈduːe/}}
+|-
+| twenty-three || ''ventitré'' || {{IPA|/ˌventiˈtre/}}
+|-
+| twenty-four || ''ventiquattro'' || {{IPA|/ˌventiˈkwattro/}}
+|-
+| twenty-five || ''venticinque'' || {{IPA|/ˌventiˈtʃiŋkwe/}}
+|-
+| twenty-six || ''ventisei'' || {{IPA|/ˌventiˈsɛi/}}
+|-
+| twenty-seven || ''ventisette'' || {{IPA|/ˌventiˈsɛtte/}}
+|-
+| twenty-eight || ''ventotto'' || {{IPA|/venˈtɔtto/}}
+|-
+| twenty-nine || ''ventinove'' || {{IPA|/ˌventiˈnɔːve/}}
+|-
+| thirty || ''trenta'' || {{IPA|/ˈtrenta/}}
+|}
+
+{{col-end}}
+{| class="wikitable"
+! English !! Italian !! IPA
+|-
+| one hundred || cento || {{IPA|/ˈtʃɛnto/}}
+|-
+| one thousand || mille || {{IPA|/ˈmille/}}
+|-
+| two thousand || duemila || {{IPA|/ˌdueˈmiːla/}}
+|-
+| two thousand and eighteen (2018) || duemiladiciotto || {{IPA|/dueˌmilaˈditˈɔtto/}}
+|-
+| one million
+| un milione
+| /miˈljone/
+|-
+| one billion
+| un miliardo
+| /miˈljardo/
+|}
+
+=== Days of the week ===
+{|
+! English || Italian || IPA
+|-
+| Monday || ''lunedì'' || {{IPA|/luneˈdi/}}
+|-
+| Tuesday || ''martedì'' || {{IPA|/marteˈdi/}}
+|-
+| Wednesday || ''mercoledì'' || {{IPA|/ˌmerkoleˈdi/}}
+|-
+| Thursday || ''giovedì'' || {{IPA|/dʒoveˈdi/}}
+|-
+| Friday || ''venerdì'' || {{IPA|/venerˈdi/}}
+|-
+| Saturday || ''sabato'' || {{IPA|/ˈsaːbato/}}
+|-
+| Sunday || ''domenica'' || {{IPA|/doˈmeːnika/}}
+|}
+
+=== Months of the year ===
+{|
+! English || Italian || IPA
+|-
+| January || ''gennaio'' || {{IPA|/dʒenˈnaːjo/}}
+|-
+| February || ''febbraio'' || {{IPA|/febˈbraːjo/}}
+|-
+| March || ''marzo'' || {{IPA|/ˈmartso/}}
+|-
+| April || ''aprile'' || {{IPA|/aˈpriːle/}}
+|-
+| May || ''maggio'' || {{IPA|/ˈmaddʒo/}}
+|-
+| June || ''giugno'' || {{IPA|/ˈdʒuɲɲo/}}
+|-
+| July || ''luglio'' || {{IPA|/ˈluʎʎo/}}
+|-
+| August || ''agosto'' || {{IPA|/aˈɡosto/}}
+|-
+| September || ''settembre'' || {{IPA|/setˈtɛmbre/}}
+|-
+| October || ''ottobre'' || {{IPA|/otˈtoːbre/}}
+|-
+| November || ''novembre'' || {{IPA|/noˈvɛmbre/}}
+|-
+| December || ''dicembre'' || {{IPA|/diˈtʃɛmbre/}}<ref>{{cite web|author1=Kellogg, Michael|title=Dizionario italiano-inglese WordReference|url=http://www.wordreference.com/iten|website=WordReference.com|publisher=WordReference.com|accessdate=7 August 2015|language=Italian, English}}</ref>
+|}
+
+== See also ==
+{{Portal|Italy|Switzerland|Vatican City|Language}}
+{{InterWiki|code=it}}
+{{div col|colwidth=22em}}
+* [[Languages of Italy]]
+* [[Accademia della Crusca]]
+* [[CELI]]
+* [[CILS (Qualification)]]
+* ''[[Enciclopedia Italiana]]''
+* [[Italian alphabet]]
+* [[Italian dialects (disambiguation)|Italian dialects]]
+* [[Italian exonyms]]
+* [[Italian grammar]]
+* [[Italian honorifics]]
+* [[The Italian Language Foundation]] (in the United States)
+* [[Italian language in Croatia]]
+* [[Italian language in Slovenia]]
+* [[Italian language in the United States]]
+* [[Italian language in Venezuela]]
+* [[Italian literature]]
+* [[Italian music terminology|Italian musical terms]]
+* [[Italian phonology]]
+* [[Italian profanity]]
+* [[Italian Sign Language]]
+* [[Italian Studies]]
+* [[Italian Wikipedia]]
+* [[Italian-language international radio stations]]
+* [[Lessico etimologico italiano]]
+* [[Sicilian School]]
+* [[Veronese Riddle]]
+* [[Languages of the Vatican City]]
+* [[Talian dialect|Talian]]
+* [[List of English words of Italian origin]]
+{{div col end}}
+
+== Notes ==
+{{reflist|group=note}}
+
+== References ==
+{{Reflist|30em}}
+
+== Bibliography ==
+{{refbegin}}
+* {{citation
+ |last=Ashby
+ |first=Patricia
+ |title=Understanding Phonetics
+ |year=2011
+ |publisher=Routledge
+ |series=Understanding Language series
+ |isbn=978-0340928271
+}}
+* {{cite journal
+ |last=Bertinetto
+ |first=Pier Marco
+ |last2=Loporcaro
+ |first2=Michele
+ |year=2005
+ |title=The sound pattern of Standard Italian, as compared with the varieties spoken in Florence, Milan and Rome
+ |journal=Journal of the International Phonetic Association
+ |volume=35
+ |issue=2
+ |pages=131–151
+ |doi=10.1017/S0025100305002148
+ |ref=harv
+ |url=https://www.zora.uzh.ch/33383/1/S0025100305002148a.pdf
+}}
+* {{citation
+ |last=Canepari
+ |first=Luciano
+ |year=1992
+ |title=Il MªPi – Manuale di pronuncia italiana
+ |trans-title=Handbook of Italian Pronunciation
+ |language=Italian
+ |location=Bologna
+ |publisher=Zanichelli
+ |isbn=88-08-24624-8
+}}
+* {{cite journal
+ |last=Hall
+ |first=Robert A. Jr.
+ |year=1944
+ |title=Italian phonemes and orthography
+ |journal=Italica
+ |volume=21
+ |issue=2
+ |pages=72–82
+ |doi=10.2307/475860
+ |jstor=475860
+ |publisher=American Association of Teachers of Italian
+ |ref=harv
+}}
+* {{Cite journal
+| doi        = 10.1017/S0025100304001628
+| last       = Rogers
+| first      = Derek
+| last2      = d'Arcangeli
+| first2     = Luciana
+| year       = 2004
+| title      = Italian
+| journal    = Journal of the International Phonetic Association
+| volume     = 34
+| issue      = 1
+| pages      = 117–121
+| ref        = harv
+| postscript = <!--None-->
+}}
+* M. Vitale, ''Studi di Storia della Lingua Italiana'', LED Edizioni Universitarie, Milano, 1992, {{ISBN|88-7916-015-X}}
+* S. Morgana, ''Capitoli di Storia Linguistica Italiana'', LED Edizioni Universitarie, Milano, 2003, {{ISBN|88-7916-211-X}}
+* J. Kinder, ''CLIC: Cultura e Lingua d'Italia in CD-ROM / Culture and Language of Italy on CD-ROM'', Interlinea, Novara, 2008, {{ISBN|978-88-8212-637-7}}
+* {{cite book | url = https://archive.org/details/VocabolarioTreccaniDiItaliano | title = Treccani Italian Dictionary | language = it | publisher = it | format = iso | website = [[Internet Archive|archive.org]] | archive-url = http://archive.is/xbGmP | archive-date = Oct 17, 2018 | deadurl = no}} (with a similar list of other Italian-modern languages dictionaries)
+
+{{refend}}
+
+== External links ==
+{{InterWiki|code=it}}
+{{Sister project links|d=Q652|n=no|voy=Italian phrasebook|v=Introduction to Italian|b=Italian|s=no|q=no|m=no|mw=no|species=no|c=Category:Italian language|wikt=Italian}}
+* [https://dizionario.internazionale.it/ Il Nuovo De Mauro] {{it icon}}
+* {{DMOZ|Science/Social_Sciences/Linguistics/Languages/Natural/Indo-European/Italic/Romance/Italian/}}
+* [[:wikt:Appendix:Italian Swadesh list|Swadesh list in English and Italian]]
+* [[:wikiquote:Italian proverbs|Italian proverbs]]
+* "[http://www.bbc.co.uk/languages/italian/ Learn Italian]," ''[[BBC]]''
+* [http://spanishenglish.com/translate_to_italian.html Online English-Italian Translation]
+* [https://www.linguaitaliana.esteri.it/ Portal of the Italian Language] {{it icon}}
+* [http://context.reverso.net/translation/ Translation of Italian expressions] {{it icon}}
+
+{{Navboxes
+|title = Articles related to the Italian language
+|state =autocollapse
+|list =
+{{Italy topics}}
+{{ItalianLanguage}}
+{{Languages of Italy}}
+{{Languages of Slovenia}}
+{{Languages of Switzerland}}
+{{Romance languages}}
+{{Languages of Europe}}
+}}
+
+{{Portal bar|Language|Italy|Vatican City|Switzerland|European Union}}
+{{Authority control}}
+
+[[Category:Italian language| ]]
+[[Category:Fusional languages]]
+[[Category:Languages attested from the 10th century]]
+[[Category:Languages of Italy]]
+[[Category:Languages of San Marino]]
+[[Category:Languages of Sicily]]
+[[Category:Languages of Switzerland]]
+[[Category:Languages of Vatican City]]
+[[Category:Languages of Slovenia]]
+[[Category:Languages of Croatia]]
+[[Category:Subject–verb–object languages]]

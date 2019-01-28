@@ -1,0 +1,43 @@
+__NOTOC__
+{{Infobox NRHP
+  | name = Moravian Sun Inn
+  | nrhp_type = 
+  | image = Moravian Sun Inn Oct 11.JPG
+  | caption = Moravian Sun Inn, October 2011
+  | location= 564 Main St., [[Bethlehem, Pennsylvania]]
+  | coordinates = {{coord|40|37|19|N|75|22|54|W|display=inline,title}}
+| locmapin = Pennsylvania#USA
+  | built = {{Start date|1758}}
+  | added = October 2, 1973
+  | area = less than one acre
+  | refnum = 73001658<ref name="nris">{{NRISref|version=2010a}}</ref>
+}}
+The '''Moravian Sun Inn''' was an  18th-century inn built by the [[Moravian Church|Moravian community]] at [[Bethlehem, Pennsylvania|Bethlehem]], [[Pennsylvania]] to provide accommodations for non-Moravian merchants who had business with the community.  Many people prominent during the [[American Revolution]] stayed there, including [[George Washington]], [[Martha Washington]], [[Alexander Hamilton]], [[Benjamin Franklin]], [[John Adams]], [[Samuel Adams]], [[John Hancock]], and the [[Marquis de Lafayette]]. On September 22, 1777 fourteen members of the [[Continental Congress]] signed the register and stayed overnight.<ref name="arch">{{cite web| url = https://www.dot7.state.pa.us/ce/SelectWelcome.asp| title = National Historic Landmarks & National Register of Historic Places in Pennsylvania| publisher = CRGIS: Cultural Resources Geographic Information System| format = Searchable database}} ''Note:'' This includes {{cite web| url = {{NRHP-PA|H001027_01H.pdf}}| title = National Register of Historic Places Inventory Nomination Form: Moravian Sun Inn | accessdate = 2011-11-07| author = unknown| format = PDF| date= n.d.}}</ref>
+
+The original inn was built in 1758, as a {{Convert|66|by|40|ft|sing=on}}, two-story stone building with a mansard roof. In 1826 a third story was added with 17 new rooms. In 1866 the building was again enlarged, almost completely hiding  the original inn. It was added to the [[National Register of Historic Places]] in 1978.<ref name="D and L">{{cite web
+  | title = Moravian Sun Inn
+  | work =Delaware and Lehigh National Heritage Corridor
+  | publisher = A National Register of Historic Places travel Itinerary   | year =
+  | url =http://www.nps.gov/history/nr/travel/delaware/sun.htm
+  | accessdate =April 19, 2011  }}</ref>
+
+After Washington's defeat at the [[Battle of Brandywine]] much of the American army's baggage and stores were kept near the inn and many people fleeing [[Philadelphia]] stayed at the inn.  During [[Fries's Rebellion]] in 1799 seventeen of Fries's followers were held at the inn and then freed by Fries.
+
+==Gallery==
+<gallery>
+FIle:Sun Inn_HABS.jpg|Original and 1866 elevations
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.loc.gov/pictures/item/pa0653/ Sun Inn, 564 Main Street, Bethlehem, Northampton County, PA]: 5 measured drawings at [[Historic American Buildings Survey]]
+
+{{National Register of Historic Places in Pennsylvania}}
+
+[[Category:Hotel buildings on the National Register of Historic Places in Pennsylvania]]
+[[Category:Hotel buildings completed in 1758]]
+[[Category:Buildings and structures in Northampton County, Pennsylvania]]
+[[Category:Moravian settlement in Pennsylvania]]
+[[Category:National Register of Historic Places in Northampton County, Pennsylvania]]

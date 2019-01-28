@@ -1,0 +1,706 @@
+{{about|the English city|the city in Massachusetts, United States|Cambridge, Massachusetts|other uses|Cambridge (disambiguation)}}
+{{EngvarB|date=April 2014}}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+ | official_name = Cambridge
+ | other_name =
+ City of Cambridge
+| settlement_type = [[City status in the United Kingdom|City]] and [[non-metropolitan district]]
+ | image_skyline = KingsCollegeChapelWest.jpg
+ | imagesize = 280px
+ | image_caption = King's College Chapel, seen from [[the Backs]]
+ <!-- Commented out because image was deleted: | image_blank_emblem = Arms-cambridge.jpg -->
+ | blank_emblem_type = Coat of Arms of the City Council
+ | blank_emblem_size = 150px
+ | blank_emblem_link = Cambridge City Council, England
+ | nickname =
+ | motto =
+<!-- images and maps ----------->
+ | image_map = Cambridge UK locator map.svg
+ | mapsize = 200px
+ | map_caption = Cambridge shown within [[Cambridgeshire]]
+ <!-- Location ------------------>
+ | coordinates       = {{coord|52.205|0.119|region:GB|format=dec|display=inline}}
+ | subdivision_type = [[List of sovereign states|Sovereign state]]
+ | subdivision_name = {{Flagcountry|United Kingdom}}
+| subdivision_type1    = [[Countries of the United Kingdom|Country]]
+| subdivision_type2    = [[Regions of England|Region]]
+ | subdivision_type3 = [[Ceremonial counties of England|Ceremonial county]]
+ | subdivision_type4 = Admin HQ
+ | subdivision_name1    = {{flagu|England}}
+| subdivision_name2 = [[East of England]]
+ | subdivision_name3 = {{flag|Cambridgeshire}}
+ | subdivision_name4 = [[Cambridge Guildhall]]
+<!-- Politics ----------------->
+ | established_title = Founded
+ | established_date = 1st century
+ | established_title2 = City status
+ | established_date2 = 1951
+<!-- Area --------------------->
+ | government_footnotes =
+ | government_type = [[Non-metropolitan district]], [[City status in the United Kingdom|city]]
+ | leader_title = Governing&nbsp;body
+ | leader_name = [[Cambridge City Council]]
+ | leader_title1 = Mayor
+ | leader_name1 = Nigel Gawthrope ([[Labour Party (UK)|L]])
+ | area_total_sq_mi = 15.71<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+ | area_land_sq_mi = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population ----------------------->
+ | elevation_m = 6
+<!-- Area/postal codes & others -------->
+ | population_total = {{English district population|GSS = E07000008}} ([[List of English districts by population|ranked {{English district rank|GSS = E07000008}}]])
+ | population_as_of = {{English statistics year}}
+ | population_metro = 280,000 <ref name="appsso.eurostat.ec.europa.eu">{{cite web |url=http://ec.europa.eu/eurostat/data/database/-/data.general.urb |title=Population on 1 January by age groups and sex - functional urban areas |accessdate=5 June 2016}}</ref>
+<!-- General information --------------->
+-| population_demonym=Cantabrigian
+ | population_blank1_title =
+ | population_blank1 = 
+| population_blank2_title = Ethnicity (2011)<ref name=Census2011>{{NOMIS2011|id=2092957699|title=Cambridge Local Authority|accessdate=8 February 2018}}</ref>
+ | population_blank2 = 66% White British<br/>1.4% White Irish<br/>15% White Other<br/>1.7% Black British<br/>3.2% Mixed Race<br/>11% British Asian & Chinese<br/>1.6% other
+| postal_code_type = Postcode
+ | postal_code = [[CB postcode area|CB1&nbsp;– CB5]]
+ | area_code = 01223
+ | website = [https://www.cambridge.gov.uk/ www.cambridge.gov.uk]
+| leader_title3 = [[MPs elected in the UK general election, 2017|MPs]]:
+ | leader_name3 = [[Daniel Zeichner]] ([[Labour Party (UK)|L]])<br/>[[Heidi Allen]] ([[Conservative Party (UK)|C]])
+ | timezone = [[Greenwich Mean Time]]
+ | utc_offset = +0
+ | timezone_DST = [[British Summer Time|BST]]
+ | utc_offset_DST = +1
+ | blank1_name = [[ONS coding system|ONS code]]
+ | blank1_info = 12UB (ONS)<br/>E07000008 (GSS)
+ | blank2_name = [[British national grid reference system|OS grid reference]]
+ | blank2_info = {{gbmappingsmall|TL450588}}
+ }}
+<!-- INFOBOX END -->
+'''Cambridge''' ({{IPAc-en|ˈ|k|eɪ|m|b|r|ɪ|dʒ}}<ref>{{cite web|url=http://www.collinsdictionary.com/dictionary/english/cambridge?showCookiePolicy=true|title=Cambridge
+|accessdate=24 September 2014|publisher=Collins Dictionary|date=n.d.}}</ref> {{respell|KAYM|brij}}) is a [[College town|university city]] and the [[county town]] of [[Cambridgeshire]], [[England]], on the [[River Cam]] approximately {{convert|50|mi|0}} north of London. At the [[United Kingdom Census 2011]], its population was 123,867 including 24,506 students.<ref name=Census2011/><ref>{{cite web |url=http://thegeographist.wordpress.com/2013/11/23/largest-cities-uk-population/ |title=1000 Largest Cities in the UK |year=2013 |publisher=The Geographist |accessdate=15 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140509061755/http://thegeographist.wordpress.com/2013/11/23/largest-cities-uk-population/ |archivedate=9 May 2014 |df=dmy }}</ref> Cambridge became an important trading centre during the Roman and Viking ages, and there is archaeological evidence of settlement in the area as early as the [[Bronze Age]]. The first [[Town charter#Municipal charters|town charters]] were granted in the 12th century, although modern city status was not officially conferred until 1951.
+
+The world-renowned [[University of Cambridge]] was founded in 1209.<ref>{{cite news |url= https://www.telegraph.co.uk/education/universityeducation/8793862/What-it-takes-to-make-it-to-Oxbridge.html |title=What it takes to make it to Oxbridge |first=Richard |last=Cairns |newspaper=[[The Daily Telegraph]] |location =London |date=1 October 2011 |accessdate=26 February 2012}}</ref>  The buildings of the university include [[King's College Chapel, Cambridge|King's College Chapel]], [[Cavendish Laboratory]], and the [[Cambridge University Library]], one of the largest legal deposit libraries in the world. The city's skyline is dominated by several college buildings, along with the spire of the [[Our Lady and the English Martyrs Church]], the chimney of [[Addenbrooke's Hospital]] and [[St John's College, Cambridge|St John's College]] Chapel tower. [[Anglia Ruskin University]] evolved from the Cambridge School of Art and the Cambridgeshire College of Arts and Technology has its main campus in the city.
+
+Cambridge is at the heart of the high-technology [[Silicon Fen]] with industries such as [[software industry|software]] and [[bioscience]] and many start-up companies born out of the university. More than 40% of the workforce have a higher education qualification, more than twice the national average{{citation needed|date=May 2018}}. The [[Cambridge Biomedical Campus]], one of the largest biomedical research clusters in the world, is soon to house premises of [[AstraZeneca]], a hotel and the relocated [[Papworth Hospital]].<ref>{{cite news|url= https://www.bbc.co.uk/news/uk-england-cambridgeshire-25197143 |title=Papworth heart and lung specialist hospital to move |date=3 December 2013 |work=[[BBC News]]}}</ref>
+
+[[Parker's Piece]] hosted the first ever game of [[association football]]. The [[Strawberry Fair]] music and arts festival and Midsummer Fairs are held on [[Midsummer Common]], and the annual [[Cambridge Beer Festival]] takes place on [[Jesus Green]]. The city is adjacent to the [[M11 motorway|M11]] and [[A14 road (England)|A14]] roads, and [[Cambridge railway station|Cambridge station]] is less than an hour from [[London King's Cross railway station]].
+
+==History==
+{{see also|Timeline of Cambridge}}
+
+===Prehistory===
+{{see also|Prehistoric Britain|British Iron Age}}
+Settlements have existed around the Cambridge area since [[Prehistoric Britain|prehistoric times]]. The earliest clear evidence of occupation is the remains of a {{nowrap|3,500-}}year-old farmstead discovered at the site of [[Fitzwilliam College]].<ref>{{cite news |url= http://news.bbc.co.uk/1/hi/england/cambridgeshire/7194650.stm |title=Bronze Age site is found in city |work=BBC News |date=17 January 2008 |accessdate=5 February 2009}}</ref> Archaeological evidence of occupation through the [[British Iron Age|Iron Age]] is a settlement on [[Castle Hill, Cambridge|Castle Hill]] from the 1st century BC, perhaps relating to wider cultural changes occurring in southeastern Britain linked to the arrival of the [[Belgae]].<ref>{{cite web |url= http://www.visitcambridge.org/VisitCambridge/Factsheets.aspx |title=A brief history of Cambridge |publisher=Cambridge City Council |year=2010 |accessdate=27 June 2010}}</ref>
+
+===Roman===
+{{main|Duroliponte}}
+The principal [[Roman Britain|Roman]] site is a small fort (''{{lang|la|[[castrum]]}}'') '''[[Duroliponte]]''' on [[Castle Hill, Cambridge|Castle Hill]], just northwest of the city centre around the location of the earlier [[Britons (Celtic people)|British]] village. The fort was bounded on two sides by the lines formed by the present [[Mount Pleasant, Cambridge|Mount Pleasant]], continuing across [[Huntingdon Road]] into Clare Street. The eastern side followed Magrath Avenue, with the southern side running near to [[Chesterton Lane, Cambridge|Chesterton Lane]] and [[Kettle's Yard]] before turning northwest at Honey Hill.<ref>{{cite book | last=Gray |first=Ronald D |author2=Stubbings, Derek | title= Cambridge Street-Names: Their Origins and Associations |publisher=[[Cambridge University Press]] | date=2000 | location=Cambridge | pages=2–3}}</ref> It was constructed around AD&nbsp;70 and converted to civilian use around 50 years later. Evidence of more widespread Roman settlement has been discovered including numerous farmsteads<ref>{{cite news |url= https://www.theguardian.com/science/2009/aug/28/archaeology-cambridge-university-girton-roman |title=The Roman foundations of Cambridge |first=John |last=Henley |newspaper=[[The Guardian]] |date=28 August 2009|quote='What's interesting about Cambridge is that with these tracts of land bequeathed to the university, you have a lot of preserved green space coming in close to the city centre,' says Chris Evans, head of the Cambridge unit. 'It hasn't been developed in the intervening centuries. There are iron-age and Roman farmsteads literally every 200–300 metres.' |accessdate=26 February 2012 |location=London}}</ref> and a village in the Cambridge district of [[Newnham, Cambridgeshire|Newnham]].<ref>{{cite web |url= http://www.cam.ac.uk/research/news/schoolgirls-unearth-roman-village-under-college-garden |title=Schoolgirls unearth Roman village under College garden |publisher=University of Cambridge |date=22 September 2010 |quote=Large amounts of Roman pottery convinced both Dr Hills and Dr Lewis that they had dug through to the remains of a 2,000-year-old settlement, significant because it suggests that the Roman presence at Newnham was far more considerable than previously thought. |accessdate=26 February 2012}}</ref>
+
+===Medieval===
+Following the [[Roman withdrawal from Britain]] around 410, the location may have been abandoned by the [[Romano-Britons|Britons]], although the site is usually identified as {{nowrap|'''Cair Grauth'''}}<ref name=mommy>[[Nennius]] ({{abbr|attrib.|Traditional attribution}}). [[Theodor Mommsen]] ({{abbr|ed.|Editor}}). [[s:la:Historia Brittonum#VI. CIVITATES BRITANNIAE|''Historia Brittonum'', VI.]] Composed after {{sc|ad}}&nbsp;830. {{la icon}} Hosted at [[s:la:Main Page|Latin Wikisource]].</ref> listed among the 28 [[civitas|cities]] of [[Sub-Roman Britain|Britain]] by the ''[[Historia Brittonum|History of the Britons]]''.<ref name=nashford>Ford, David Nash. "[http://www.britannia.com/history/ebk/articles/nenniuscities.html The 28 Cities of Britain]" at Britannia. 2000.</ref>{{refn|Although note that [[Bishop Ussher]] believed the listing to refer to the [[Cambridge, Gloucestershire|Cambridge]] in [[Gloucestershire]].<ref name=shusher>Newman, John Henry &&nbsp;al. [http://www.mocavo.co.uk/Lives-of-the-English-Saints-St-Gilbert-Prior-of-Sempringham-Volume-3/527392/459 ''Lives of the English Saints: St. German, Bishop of Auxerre'', Ch.&nbsp;X: "Britain in 429, A.&nbsp;D.",<!--sic--> p.&nbsp;92.] {{Webarchive|url=https://web.archive.org/web/20160321234154/http://www.mocavo.co.uk/Lives-of-the-English-Saints-St-Gilbert-Prior-of-Sempringham-Volume-3/527392/459# |date=21 March 2016 }} James Toovey (London), 1844.</ref>}} Evidence exists that the [[Saxon invasion of Britain|invading Anglo-Saxons]] had begun occupying the area by the end of the century.<ref>{{cite book | last = Burnham | first = Barry C |author2=Wacher, John | title = The Small Towns of Roman Britain | publisher = B T Batsford | date = 1990 | location = London}}</ref> Their settlement – also on and around Castle Hill – became known as '''Grantebrycge'''{{refn|In the [[Anglo-Saxon Chronicle]], cited by Roach.<ref name="Roach2-15"/>}} ("[[River Cam|Granta]]-bridge"). (By [[Middle English]], the settlement's name had changed to "Cambridge" and the [[River Cam|lower stretches]] of the [[Granta (river)|Granta]] changed their name to match.<ref>{{Cite journal|url= https://books.google.com/books?id=PUsAAAAAYAAJ&pg=PA403 |work= Notes and Queries: A Medium of Inter-Communication for Literary Men, General Readers, etc. |first=F. |last=Chance |date=13 November 1869 |volume=4 |location=London |title=Cambridge. |pages=401–404 |accessdate=25 February 2012 |publisher=Bell & Daldy |oclc=644126889}}</ref>) [[Anglo-Saxons|Anglo-Saxon]] grave goods have been found in the area. During this period, Cambridge benefited from good trade links across the hard-to-travel fenlands. By the 7th century, the town was less significant and described by [[Bede]] as a "little ruined city" containing the burial site of [[Etheldreda]].<ref name="Roach2-15">{{cite web |url=http://www.british-history.ac.uk/report.aspx?compid=66604 |title=The city of Cambridge: Medieval history |editor=Roach, J.P.C. |publisher=Institute of Historical Research |year=1959 |work=A History of the County of Cambridge and the Isle of Ely: Volume 3: The City and University of Cambridge |accessdate=18 July 2011 }}</ref> Cambridge was on the border between the [[East Anglia|East]] and [[Middle Anglia]]n kingdoms and the settlement slowly expanded on both sides of the river.<ref name="Roach2-15"/>
+[[File:cmglee St Benets exterior.jpg|thumb|[[St Bene't's Church]], the oldest standing building in Cambridgeshire, situated next to [[Corpus Christi College, Cambridge|Corpus Christi College]]<ref>{{cite book|last1=Taylor|first1=Kevin|title=Central Cambridge: A Guide to the University and Colleges|date=31 March 1994|publisher=Cambridge University Press|page=34|url=https://books.google.com/books?id=pV7QR7f1TFcC&lpg=PA34&ots=jETfUwoHUv&dq=st%20ben'et%20church%20oldest&pg=PA34#v=onepage&q=st%20ben'et%20church%20oldest&f=false|accessdate=13 September 2016}}</ref>]]
+The arrival of the [[Vikings]] was recorded in the ''[[Anglo-Saxon Chronicle]]'' in 875. Viking rule, the [[Danelaw]], had been imposed by 878<ref name="Brooke">{{Cite book |url= https://books.google.com/books?id=7T0uIfkPn28C&lpg=PR11&ots=yYYbrrk8Ac&dq=danelaw%20cambridge%20878&lr&pg=PA7|title=A history of the University of Cambridge |volume=1 |publisher=Cambridge University Press |year=1988|pages=9–10 [10]|first=Christopher |last=Nugent Lawrence Brooke |author2= Riehl Leader, Damien |isbn=0-521-32882-9}}</ref> Their vigorous trading habits caused the town to grow rapidly. During this period the centre of the town shifted from Castle Hill on the left bank of the river to the area now known as the Quayside on the right bank.<ref name="Brooke"/> After the Viking period, the Saxons enjoyed a return to power, building churches such as [[St Bene't's Church]], wharves, merchant houses and a [[Mint (coin)|mint]], which produced coins with the town's name abbreviated to "Grant".<ref name="Brooke"/>
+
+In 1068, two years after his conquest of England, [[William of Normandy]] built a [[Cambridge Castle|castle]] on Castle Hill.<ref name="Roach2-15"/> Like the rest of the newly conquered kingdom, Cambridge fell under the control of the King and his deputies.
+
+The first town charter was granted by [[Henry I of England|Henry I]] between 1120 and 1131. It gave Cambridge monopoly of waterborne traffic and hithe tolls and recognised the [[borough]] court.<ref name="british-history-66606">{{cite web |url= http://www.british-history.ac.uk/report.aspx?compid=66606 |title=The city of Cambridge: Constitutional history |editor=Roach, J.P.C. |publisher=Institute of Historical Research |year =1959 |work= A History of the County of Cambridge and the Isle of Ely: Volume 3: The City and University of Cambridge |accessdate=26 February 2012}}</ref> The distinctive [[The Holy Sepulchre, Cambridge|Round Church]] dates from this period.<ref>{{cite book|editor1-last=Roach|editor1-first=RPC|title=The city of Cambridge: Churches;  A History of the County of Cambridge and the Isle of Ely: Volume 3, the City and University of Cambridge.|date=1959|publisher=Victoria County History|location=London|pages=123–132|url=http://www.british-history.ac.uk/vch/cambs/vol3/pp123-132|accessdate=23 September 2016}}</ref> In 1209, Cambridge University was founded by students escaping from hostile townspeople in [[Oxford]].<ref>{{cite web |url= http://www.cam.ac.uk/univ/history/records.html |title=University and Colleges: A Brief History |publisher=University of Cambridge |date=7 February 2008 |accessdate=13 January 2010}}</ref> The oldest existing college, [[Peterhouse, Cambridge|Peterhouse]], was founded in 1284.<ref>{{cite web |url= http://www.pet.cam.ac.uk/welcome-peterhouse/about-college |title=About the College  |publisher=Peterhouse College |accessdate=13 January 2010}}</ref>
+
+In 1349 Cambridge was affected by the [[Black Death]]. Few records survive but 16 of 40 scholars at [[King's Hall, Cambridge|King's Hall]] died.<ref name="Ziegler">{{Cite book| title=The Black Death |first=Philip |last=Ziegler |ISBN=978-0-14-027524-7 |publisher=Penguin |location=London |author2=Platt, Colin |year=1998 |edition=2nd |page=178}}</ref> The town north of the river was severely affected being almost wiped out.<ref>{{Cite book |title= Cambridge, Described and Illustrated: Being a Short History of the Town and University |first=Thomas |last=Atkinson |year=1897 |page=41 |location=London |publisher=Macmillan |oclc=1663499 |url= https://archive.org/stream/cambridgedescrib00atkiuoft/cambridgedescrib00atkiuoft_djvu.txt |quote=The Ward beyond the Bridge, that is, all the town on the Castle side of the river, appears to have been almost entirely destroyed. Most of the people in the parish of All Saints' in Castro died and those that escaped left the neighbourhood for other parishes.}}</ref> Following further depopulation after a second national epidemic in 1361, a letter from the Bishop of Ely suggested that two parishes in Cambridge be merged as there were not enough people to fill even one church.<ref name="Ziegler"/> With more than a third of English clergy dying in the Black Death, four new colleges were established at the university over the following years to train new clergymen, namely [[Gonville Hall]], [[Trinity Hall, Cambridge|Trinity Hall]], [[Corpus Christi College, Cambridge|Corpus Christi]] and [[Clare College, Cambridge|Clare]].<ref>{{cite book |url= https://books.google.com/books?id=J5XeBQwrjLwC&pg=PA70 |title=The Black Death and the Transformation of the West (European History Series) |first=David |last=Herlihy  |year=1997 |isbn=978-0-674-07613-6 |publisher=Harvard University Press |page=70 |accessdate=25 February 2012}}</ref>
+
+In 1382 a revised town charter effects a "diminution of the liberties that the community had enjoyed", due to Cambridge's participation in the [[Peasants' Revolt]]. The charter transfers supervision of baking and brewing, weights and measures, and [[Engrossing (law)|forestalling and regrating]], from the town to the university.<ref name="british-history-66606"/>
+[[King's College Chapel, Cambridge|King's College Chapel]], was begun in 1446 by [[Henry VI of England|King Henry VI]].<ref name="Kings Chapel">{{cite web | url=http://www.kings.cam.ac.uk/chapel/history.html | title=History of the Chapel | publisher=King's College, Cambridge | accessdate=19 July 2011}}</ref>  The chapel was built in phases by a succession of kings of England from 1446 to 1515, its history intertwined with the [[Wars of the Roses]], and completed during the reign of [[Henry VIII of England|King Henry VIII]].<ref name="Kings Chapel"/> The building would become synonymous with Cambridge, and currently is used in the logo for the City Council.<ref>{{cite book|last1=Pennick|first1=Nigel|title=Secrets of King's College Chapel|date=9 January 2012|publisher=Karnac Books|page=3|accessdate=23 September 2016}}</ref>
+
+[[File:Part of Peterhouse College - geograph.org.uk - 1508178.jpg|thumb|[[Peterhouse]] was the first college to be founded in the University of Cambridge.]]
+
+===Early modern===
+[[File:Cambridge 1575 colour.jpg|thumb|left|Cambridge in 1575]]
+Following repeated outbreaks of pestilence throughout the 16th Century,<ref name="publichealth">{{cite book|title=The city of Cambridge: Public health; A History of the County of Cambridge and the Isle of Ely: Volume 3, the City and University of Cambridge.|date=1959|publisher=Victoria County History|location=London|pages=101–108|url=http://www.british-history.ac.uk/vch/cambs/vol3/pp101-108|accessdate=23 September 2016}}</ref> sanitation and fresh water were brought to Cambridge by the construction of [[Hobson's Conduit]] in the early 1600s. Water was brought from Nine Wells, at the foot of the [[Gog Magog Hills]], into the centre of the town.<ref>{{cite web | url=http://www.bbc.co.uk/cambridgeshire/natural_history/walk_through_time/07.shtml | title=Cambridgeshire > Natural History > Cam Valley Walk > Stage 7 | publisher=BBC Cambridgeshire | accessdate=23 July 2013}}</ref>
+
+Cambridge played a significant role in the early part of the [[English Civil War]] as it was the headquarters of the [[Eastern Association|Eastern Counties Association]], an organisation administering a regional [[East Anglian]] army, which became the mainstay of the Parliamentarian military effort before the formation of the [[New Model Army]].<ref name="british-history-66605">{{cite web |url= http://www.british-history.ac.uk/report.aspx?compid=66605 |title=The city of Cambridge&nbsp;– Modern history &#124; A History of the County of Cambridge and the Isle of Ely: Volume 3: The City and University of Cambridge (1959) |pages=15–29 |year=1959 |accessdate=26 February 2012}}</ref> In 1643 control of the town was given by Parliament to [[Oliver Cromwell]], who had been educated at [[Sidney Sussex College]].<ref>{{Cite web|url=http://www.british-history.ac.uk/vch/cambs/vol3/pp15-29|title=The city of Cambridge: Modern history {{!}} British History Online|website=www.british-history.ac.uk|language=en|access-date=2018-07-06}}</ref> The town's castle was fortified and garrisoned with troops and some bridges were destroyed to aid its defence. Although [[Royalist]] forces came within {{convert|2|mi|0|abbr=out}} of the town in 1644, the defences were never used and the garrison was stood down the following year.<ref name="british-history-66605"/>
+
+===Early-industrial era===
+In the 19th century, in common with many other English towns, Cambridge expanded rapidly, due in part to increased life expectancy and improved agricultural production leading to increased trade in town markets.<ref name="british-history-66609">{{cite web |url=http://www.british-history.ac.uk/report.aspx?compid=66609 |title=The city of Cambridge: Economic history |author=J. P. C. Roach (editor) |publisher=Institute of Historical Research |year=1959 |work=A History of the County of Cambridge and the Isle of Ely: Volume 3: The City and University of Cambridge |accessdate=1 March 2012}}</ref> The [[Inclosure Acts]] of 1801 and 1807 enabled the town to expand over surrounding open fields and in 1912 and again in 1935 its boundaries were extended to include Chesterton, Cherry Hinton, and Trumpington.<ref name="british-history-66605" />
+
+The railway came to Cambridge in 1845 after initial resistance, with the opening of the [[Great Eastern Railway]]'s London to Norwich line. The station was outside the town centre following pressure from the university to restrict travel by undergraduates.<ref name="british-history-66603">{{cite web |url=http://www.british-history.ac.uk/report.aspx?compid=66603&strquery=cambridge |title=The city of Cambridge |author=J. P. C. Roach (editor)|publisher=Institute of Historical Research |year=1959 |work=A History of the County of Cambridge and the Isle of Ely: Volume 3: The City and University of Cambridge |accessdate=1 March 2012}}</ref> With the arrival of the railway and associated employment came development of areas around the station, such as [[Mill Road, Cambridge|Romsey Town]].<ref name="brigham">{{citation|title=Bringing it all back home: Changes in Housing and Society 1966-2006|first1=Allan|last1=Brigham|first2=Colin|last2=Wiles|publisher=Chartered Institute of Housing, Eastern Branch|date=2006|url=http://www.colc.co.uk/cambridge/tours/article3.htm}}</ref> The rail link to London stimulated heavier industries, such as the production of brick, cement and [[malt]].<ref name="british-history-66609"/>
+
+===20th century===
+From the 1930s to the 1980s, the size of the city was increased by several large [[council estate]]s.<ref name="british-history-15307">{{cite book |url=http://www.british-history.ac.uk/report.aspx?compid=15307 |title=Chesterton: Introduction |pages=5–13 |author=Wright, A.P.M.; Lewis, C.P. (eds) |publisher=Institute of Historical Research |year=1989 |work=A History of the County of Cambridge and the Isle of Ely: Volume 9: Chesterton, Northstowe, and Papworth Hundreds |accessdate=6 March 2012}}</ref> The biggest impact has been on the area north of the river, which are now the estates of [[East Chesterton]], [[King's Hedges]], and [[Arbury]] where [[Archbishop of Canterbury|Archbishop]] [[Rowan Williams]] lived and worked as an assistant priest in the early 1980s.<ref>{{cite book |title= Rowan's Rule: the biography of the Archbishop |first=Rupert |last=Shott |year=2009 |ISBN=978-0-340-95433-1| url=https://books.google.com/books?id=3kJbJ7ldSJsC&pg=PT83|page=83 |publisher=Hodder & Stoughton |location =London |accessdate =8 September 2016}}</ref>
+
+During the Second World War, Cambridge was an important centre for defence of the east coast. The town became a military centre, with an [[R.A.F.]] training centre and the regional headquarters for Norfolk, Suffolk, Essex, Cambridgeshire, [[Huntingdonshire]], Hertfordshire, and [[Bedfordshire]] established during the conflict.<ref name="british-history-66605"/> The town itself escaped relatively lightly from German bombing raids, which were mainly targeted at the railway. 29 people were killed and no historic buildings were damaged. In 1944, a secret meeting of military leaders held in Trinity College laid the foundation for the allied invasion of Europe.<ref name="british-history-66609"/> During the war Cambridge served as an [[Evacuations of civilians in Britain during World War II|evacuation centre]] for over 7,000 people from London, as well as for parts of the [[University of London]].<ref name="british-history-66605"/>
+
+Cambridge was granted its [[city status in the United Kingdom|city charter]] in 1951 in recognition of its history, administrative importance and economic success.<ref name="british-history-66605"/> Cambridge does not have a cathedral, traditionally a prerequisite for city status, instead falling within the Church of England [[Diocese of Ely]]. In 1962 Cambridge's first shopping arcade, Bradwell's Court, opened on Drummer Street, though this was demolished in 2006.<ref>{{cite web|url=http://www.christslane.co.uk/about/timeline.htm |title=Christ's Lane |publisher=Land Securities |date=n.d. |accessdate=13 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20080907115715/http://www.christslane.co.uk/about/timeline.htm |archivedate=7 September 2008 }}</ref> Other shopping arcades followed at Lion Yard, which housed a relocated Central Library for the city, and the [[Grafton Centre]] which replaced Victorian housing stock which had fallen into disrepair in [[The Kite, Cambridge|the Kite area]] of the city. This latter project was controversial at the time.<ref>{{cite news |url= https://www.telegraph.co.uk/news/obituaries/1467625/Derek-Taunt.html |title=Derek Taunt&nbsp;– Obituary |newspaper=The Daily Telegraph|date=23 July 2004|accessdate=26 February 2012 |location=London}}</ref>
+
+The city gained its second University in 1992 when Anglia Polytechnic became Anglia Polytechnic University. Renamed [[Anglia Ruskin University]] in 2005, the institution has its origins in the Cambridge School of Art opened in 1858 by [[John Ruskin]]. [[The Open University]] also has a presence in the city, with an office operating on Hills Road.<ref>{{Cite web|url=http://www.open.ac.uk/about/estates/our-estate/cambridge|title=The Open University in the East of England|last=|first=|date=|website=|publisher=|access-date=2 February 2017}}</ref>
+
+==Governance==
+
+===Local government===
+[[File:Cambridge UK ward map 2010 coloured on Cambridge-Openstreetmap-08-06-13.svg|thumb|right|upright=1.35|Map showing the 2010 electoral boundaries of the city, with [[postcode district]]s superimposed.]]
+{{See also|Cambridge local elections}}
+Cambridge is a [[non-metropolitan district]] served by [[Cambridge City Council]]. Cambridge Local Authority District covers most of the City's urban area but some extends outside this into South Cambridgeshire District. Cambridge is one of five districts within the county of Cambridgeshire, and is bordered on all sides by the mainly rural [[South Cambridgeshire]] district. The city council's headquarters are in the [[Cambridge Guildhall|Guildhall]], a large building in the market square. Cambridge was granted a Royal Charter by King John in 1207, which permitted the appointment of a Mayor,<ref name="1207charter">{{cite web | url=https://www.cambridge.gov.uk/ceremonial-maces-chain-of-office-city-chest | title=Ceremonial maces, 1207 charter and the city's coat of arms | publisher=Cambridge City Council | accessdate=8 June 2015}}</ref> although the first recorded Mayor, Harvey FitzEustace, served in 1213.<ref>{{cite web|url=http://www.cambridge.gov.uk/ccm/content/council-and-democracy/how-the-council-works/the-mayor/mayors-of-cambridge.en |title=The mayors of Cambridge |publisher=Cambridge City Council |accessdate=4 March 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20090923003216/http://www.cambridge.gov.uk/ccm/content/council-and-democracy/how-the-council-works/the-mayor/mayors-of-cambridge.en |archivedate=23 September 2009 }}</ref> City councillors now elect a mayor annually.
+
+For electoral purposes the city is divided into 14 wards: Abbey, [[Arbury]], Castle, [[Cherry Hinton]], Coleridge, [[Chesterton, Cambridge|East Chesterton]], [[King's Hedges]], Market, [[Newnham, Cambridgeshire|Newnham]], [[Mill Road, Cambridge|Petersfield]], Queen Edith's, [[Mill Road, Cambridge|Romsey]], [[Trumpington, Cambridgeshire|Trumpington]], and [[Chesterton, Cambridge|West Chesterton]]. The political composition of the city council is currently:  25 [[Labour Party (UK)|Labour]] councillors, 14 [[Liberal Democrats (UK)|Liberal Democrat]], 2 independent  and one [[Conservative Party (UK)|Conservative]].<ref>{{cite web | url=http://www.cambridge-news.co.uk/News/Elections-2014-Labour-take-control-of-Cambridge-City-Council-20140523052655.htm | title=Elections 2014: Labour takes control of Cambridge City Council | work=Cambridge News | date=23 May 2014 | accessdate=24 May 2014 | deadurl=yes | archiveurl=https://web.archive.org/web/20140525145244/http://www.cambridge-news.co.uk/News/Elections-2014-Labour-take-control-of-Cambridge-City-Council-20140523052655.htm | archivedate=25 May 2014 | df=dmy-all }}</ref>
+
+Each of the 14 wards also elects councillors to [[Cambridgeshire County Council]]. Responsible for services including school education, social care and highways, since 2017 the County Council has been controlled by the [[Conservative Party (UK)|Conservative Party]].<ref>{{Cite web|url=https://www.bbc.co.uk/news/topics/cnx753jend8t/cambridgeshire-county-council|title=Cambridgeshire County Council|website=BBC News|language=en-GB|access-date=2018-08-02}}</ref>
+
+===Westminster===
+{{See also|Cambridge (UK Parliament constituency)}}
+The [[British House of Commons|parliamentary]] [[Cambridge (UK Parliament constituency)|constituency of Cambridge]] covers most of the city. [[Daniel Zeichner]] ([[Labour Party (UK)|Labour]]) was elected Member of Parliament (MP) at the [[United Kingdom general election, 2015|2015 general election]], replacing [[Julian Huppert]], a [[Liberal Democrats (UK)|Liberal Democrat]]. He was re-elected in the [[United Kingdom general election, 2017|2017 general election]]. One area of the city, Queen Edith's ward,<ref>{{cite web|url=http://www.election-maps.co.uk/ |title=Ordnance Survey |publisher=Election maps |accessdate=17 July 2010}}</ref> lies in the [[South Cambridgeshire (UK Parliament constituency)|South Cambridgeshire]] constituency, whose MP is [[Heidi Allen]] ([[Conservative Party (UK)|Conservative]]).<ref name=":1">{{Cite news|url=https://www.bbc.com/news/politics/constituencies/E14000934|title=Cambridgeshire South parliamentary constituency - Election 2017|last=|first=|date=|work=BBC News|access-date=2018-12-31|archive-url=https://www.webcitation.org/755J73sLe?url=https://www.bbc.com/news/politics/constituencies/E14000934|archive-date=31 December 2018|language=en-GB|dead-url=no|df=dmy-all}}</ref> Allen was also elected in 2015, succeeding [[Andrew Lansley]],<ref>{{Cite news|url=http://www.theguardian.com/politics/2015/oct/20/heidi-allen-mp-tory-tax-credit-rebel|title=Heidi Allen MP: Tory tax credit rebel|last=Khomami|first=Nadia|date=2015-10-20|work=The Guardian|access-date=2018-12-31|language=en-GB|issn=0261-3077}}</ref> and was re-elected in 2017.<ref name=":1" /> The city had previously elected a Labour MP from 1992 to 2005 and prior to this, usually elected a Conservative after [[World War II|the Second World War]]. However, the Conservatives have seen their share of the vote fall over the past 20 years.{{citation needed|date=September 2016}}
+
+The University of Cambridge formerly had two seats in the House of Commons; [[Isaac Newton|Sir Isaac Newton]] was one of the most notable MPs. The [[Cambridge University (UK Parliament constituency)|Cambridge University constituency]] was abolished under 1948 legislation, and ceased at the dissolution of Parliament for the [[United Kingdom general election, 1950|1950 general election]], along with the other [[university constituency|university constituencies]].
+
+==Geography and environment==
+{{Geographic location
+ | Centre    = Cambridge
+ | North     = [[Histon and Impington]] [[Milton, Cambridgeshire|Milton]]
+ | Northeast = [[Fen Ditton]]
+ | East      = [[Teversham]]
+ | Southeast = [[Fulbourn]]
+ | South     = [[Great Shelford]]
+ | Southwest = [[Grantchester]]
+ | West      = [[Coton, Cambridgeshire|Coton]]
+ | Northwest = [[Girton, Cambridgeshire|Girton]]
+ | image     = 
+}}
+[[File:cmglee Cambridge aerial.jpg|thumb|left|upright=1.35|Aerial view of Cambridge city centre]]
+[[file:Cambridge Morning.webm|thumb|Cambridge morning]]
+Cambridge is situated about {{convert|50|mi|0}} north-by-east of London. The city is located in an area of level and relatively low-lying terrain just south of [[the Fens]], which varies between {{convert|6|and|24|m|ft}} [[above mean sea level|above sea level]].<ref name="http://www.britannica.com/EBchecked/topic/90641/Cambridge">{{cite web|url= http://www.britannica.com/EBchecked/topic/90641/Cambridge |title=Cambridge (England, United Kingdom) |publisher=Britannica Online Encyclopedia |accessdate=13 January 2010}}</ref> The town was thus historically surrounded by low lying wetlands that have been drained as the town has expanded.<ref name=":0">{{Cite web|url=https://www.cambridge.gov.uk/sites/default/files/docs/SUDS-Design-and-Adoption-Guide.pdf|title=Wayback Machine|last=|first=|date=2016-12-20|website=|archive-url=https://web.archive.org/web/20161220065907/https://www.cambridge.gov.uk/sites/default/files/docs/SUDS-Design-and-Adoption-Guide.pdf|archive-date=2016-12-20|dead-url=|access-date=2018-04-02}}</ref>
+
+The underlying geology of Cambridge consists of [[gault]] clay and [[Chalk Group|Chalk Marl]], known locally as Cambridge Greensand,<ref name="NatEngGeo">{{cite web|url=http://www.naturalengland.org.uk/ourwork/conservation/geodiversity/englands/counties/area_ID4.aspx |title=England's Geology&nbsp;– Cambridgeshire |work=[[Natural England]] |accessdate=27 February 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20091021063524/http://www.naturalengland.org.uk/ourwork/conservation/geodiversity/englands/counties/area_ID4.aspx |archivedate=21 October 2009 }}</ref> partly overlaid by [[Gravel|terrace gravel]].<ref name=":0" /> A layer of [[Phosphate nodule|phosphatic nodules]] ([[coprolites]]) under the marl were mined in the 19th century for fertiliser. It became a major industry in the county, and its profits yielded buildings such as the [[Cambridge Corn Exchange|Corn Exchange]], [[Fulbourn Hospital]] and [[St John's College, Cambridge#College Chapel|St. John's Chapel]] until the [[List of Acts of the Parliament of the United Kingdom, 1880–1899#1894|Quarries Act 1894]] and competition from America ended production.<ref name="NatEngGeo"/>
+
+The [[River Cam]] flows through the city from the village of [[Grantchester]], to the southwest. It is bordered by [[water meadows]] within the city such as [[Sheep's Green]] as well as residential development.<ref name=":0" /> Like most cities, modern-day Cambridge has many suburbs and areas of high-density housing. The city centre of Cambridge is mostly commercial, historic buildings, and large green areas such as Jesus Green, [[Parker's Piece]] and [[Midsummer Common]]. Many of the roads in the centre are pedestrianised. Population growth has seen new housing developments in the 21st century, with estates such as the CB1<ref>{{cite web |url=http://www.cambridgeshire.gov.uk/transport/projects/cambridge/cambridgegateway/CB1+development.htm |title=CB1 development |publisher=Cambridgshire County Council |accessdate=13 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101009021937/http://www.cambridgeshire.gov.uk/transport/projects/cambridge/cambridgegateway/CB1%2Bdevelopment.htm |archivedate=9 October 2010 |df=dmy-all }}</ref> and [[Accordia]] schemes near the station,<ref>{{cite press release|url=http://www.cambridge.gov.uk/ccm/content/news-releases/2008/accordia-wins-prize.en |title=Accordia wins top architectural prize |publisher=Cambridge City Council |date=15 October 2008 |accessdate=13 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101214062115/http://cambridge.gov.uk/ccm/content/news-releases/2008/accordia-wins-prize.en |archivedate=14 December 2010 }}</ref> and developments such as Great Kneighton, formally known as Clay Farm,<ref>{{cite web|url=http://www.clayfarm.co.uk/vision |title=Vision |publisher=Clay Farm |accessdate=13 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100109182335/http://www.clayfarm.co.uk/vision |archivedate=9 January 2010 }}</ref> and Trumpington Meadows<ref>{{cite web|url=http://www.trumpingtonmeadows.com/Home |title=Home |publisher=Trumpington Meadows Land Company |accessdate=13 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20090831131342/http://www.trumpingtonmeadows.com/Home |archivedate=31 August 2009 }}</ref> currently under construction in the south of the city. Other major developments currently being constructed in the city are Darwin Green (formerly [[National Institute of Agricultural Botany|NIAB]]), and University-led developments at [[West Cambridge]] and [[North West Cambridge Development|North West Cambridge]], ([[Eddington, Cambridge|Eddington]]).
+
+The entire city centre, as well as parts of Chesterton, Petersfield, West Cambridge, Newnham, and Abbey, are covered by an [[Air Quality Management Area]], implemented to counter high levels of [[nitrogen dioxide]] in the atmosphere.<ref>{{cite web|title=Air Pollution in Cambridge|url=https://www.cambridge.gov.uk/content/air-pollution-cambridge|publisher=Cambridge City Council|accessdate=3 June 2016}}</ref>
+
+===Climate===
+The city has an [[oceanic climate]]. ([[Köppen climate classification|Köppen]]: ''Cfb'').<ref>{{Cite web|url=https://www.weatherbase.com/weather/weather-summary.php3?s=26530&cityname=Cambridge,+England,+United+Kingdom&units=|title=Cambridge, England Köppen Climate Classification (Weatherbase)|website=Weatherbase|access-date=2018-11-13}}</ref> Cambridge currently has two official weather observing stations, the National Institute of Agricultural Botany (NIAB), about {{convert|2|mi|0|abbr=out}} north of the city centre near [[Girton, Cambridgeshire|Girton]], and the [[Cambridge University Botanic Garden]], about 1 mile south of the city centre. In addition, the Digital Technology Group of the University's [[Computer Laboratory, University of Cambridge|Computer Laboratory]]<ref>{{cite web|title=Cambridge University Computer Laboratory Digital Technology Group|url=http://www.cl.cam.ac.uk/research/dtg/www/|accessdate=26 September 2014}}</ref> maintains a weather station on the [[West Cambridge|West Cambridge site]], displaying current weather conditions online via web browsers or an [[mobile app|app]], and also an archive dating back to 1995.<ref>{{cite web |title = Weather Station, Cambridge University Computer Laboratory Digital Technology Group| url=http://www.cl.cam.ac.uk/research/dtg/weather/ | accessdate=26 September 2014}}</ref>
+
+The city, like most of the UK, has a [[oceanic climate|maritime climate]] highly influenced by the [[Gulf Stream]]. Located in the driest region of Britain,<ref>{{cite journal |url= https://books.google.com/books?id=7V7pNKAE8AsC&pg=PA1525 |title=Mapping the Distribution of Flowering Plants |first=Franklyn |last= Perring |work=New Scientist |date=16 June 1960 |page=1525|accessdate=26 February 2012}}</ref><ref>{{cite web |url=http://www.botanic.cam.ac.uk/Botanic/Page.aspx?p=27&ix=2830&pid=0&prcid=0&ppid=0 |title=Climate & Soils |publisher=Cambridge University Botanic Garden |year=2012 |quote=Cambridge is in the driest region of Britain and has a more continental climate than most of Britain. |accessdate=26 February 2012 |archive-url=https://web.archive.org/web/20120401045512/http://www.botanic.cam.ac.uk/Botanic/Page.aspx?p=27&ix=2830&pid=0&prcid=0&ppid=0 |archive-date=1 April 2012 |dead-url=yes |df=dmy-all }}</ref> Cambridge's rainfall averages around {{convert|570|mm|2|abbr=on}} per year, around half the national average,<ref>{{cite web |url=http://www.cambridge-water.co.uk/customers/water-efficiency-strategy |title=Our strategy |publisher=Cambridge Water |year=2012 |quote=We live in one of the driest areas of the UK. The East of England's rainfall of conditions is only half the national average and Cambridge is one of the driest parts of this region. |accessdate=26 February 2012 |archive-url=https://web.archive.org/web/20120327201856/http://www.cambridge-water.co.uk/customers/water-efficiency-strategy |archive-date=27 March 2012 |dead-url=yes |df=dmy-all }}</ref> with some years occasionally falling into the semi-arid (under {{convert|500|mm|2|abbr=on}} of rain per year) category. The last time this occurred was in 2011 with {{convert|380.4|mm|2|abbr=on}}<ref>{{cite web|url= http://www.botanic.cam.ac.uk/Botanic/Page.aspx?p=27&ix=2830&pid=0&prcid=0&ppid=0|title= Climate and Soils|publisher= Cambridge University Botanic Garden|accessdate= 21 February 2011|archive-url= https://web.archive.org/web/20110726111553/http://www.botanic.cam.ac.uk/Botanic/Page.aspx?p=27&ix=2830&pid=0&prcid=0&ppid=0|archive-date= 26 July 2011|dead-url= yes|df= dmy-all}}</ref> of rain at the Botanic Gardens and {{convert|347.2|mm|2|abbr=on}} at the NIAB site.<ref>{{cite web |url= http://www.metoffice.gov.uk/climate/uk/stationdata/cambridgedata.txt |title= NIAB weather data |publisher= Met Office |accessdate= 4 February 2013 |deadurl= yes |archiveurl= https://web.archive.org/web/20110629215430/http://www.metoffice.gov.uk/climate/uk/stationdata/cambridgedata.txt |archivedate= 29 June 2011 |df= dmy-all }}</ref> Conversely, 2012 was the wettest year on record, with {{convert|812.7|mm|2|abbr=on}} reported.<ref>{{cite web|url= http://www.botanic.cam.ac.uk/Botanic/NewsItem.aspx?p=27&ix=116&pid=2722&prcid=4&ppid=2722|title= Wettest year since records began |publisher =Cambridge University Botanic Garden |accessdate=4 February 2013}}</ref> Snowfall accumulations are usually small, in part because of Cambridge's low elevation, and low precipitation tendency during transitional snow events.
+
+Owing to its low lying, inland, and easterly position within the British Isles, summer temperatures tend to be somewhat higher than areas further west, and often rival or even exceed those recorded in the London area. July 2006 for example recorded the highest official mean monthly maximum (i.e. averaged over the entire month) of any month at any location in the UK since records began; {{convert|28.3|C|F}}, at both the NIAB<ref>{{cite web|url=http://www.metoffice.gov.uk/climate/uk/stationdata/cambridgedata.txt|title=Historic station data: Cambridge NIAB|publisher=[[Met Office]]|accessdate=21 February 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110629215430/http://www.metoffice.gov.uk/climate/uk/stationdata/cambridgedata.txt|archivedate=29 June 2011|df=dmy-all}}</ref> and Botanic Garden<ref name="ECAD-July2006">{{cite web|url= http://eca.knmi.nl/utils/monitordetail.php?seasonid=13&year=2006&indexid=TX&stationid=1639 |title=Anomaly details for Station Cambridge (B. GDNS): Mean of daily maximum temperature, July 2006|work=[[European Climate Assessment and Dataset]]|accessdate=21 February 2011}}</ref> observing stations.  Cambridge also often records the annual highest national temperature in any given year&nbsp;– {{convert|30.2|C|F}} in July 2008 at NIAB<ref>{{cite web|url=http://www.metoffice.gov.uk/climate/uk/2008/july.html|title=UK Climate: July 2008|publisher=[[Met Office]]|accessdate=21 February 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110629215447/http://www.metoffice.gov.uk/climate/uk/2008/july.html|archivedate=29 June 2011|df=dmy-all}}</ref> and {{convert|30.1|C|F}} in August 2007 at the Botanic Garden<ref>{{cite web|url= http://eca.knmi.nl/utils/monitordetail.php?seasonid=14&year=2007&indexid=TXx&stationid=1639 |title=Anomaly details for Station Cambridge (B. GDNS): Maximum value of daily maximum temperature, August 2007|work=[[European Climate Assessment and Dataset]]|accessdate=21 February 2011}}</ref> are two recent examples. The absolute maximum stands at {{convert|36.9|C|F}}<ref>{{cite web|url= http://eca.knmi.nl/utils/monitordetail.php?seasonid=14&year=2003&indexid=TXx&stationid=1639|title=Anomaly details for Station Cambridge (B. GDNS): Maximum value of daily maximum temperature, August 2003|work=[[European Climate Assessment and Dataset]]|accessdate=21 February 2011}}</ref> set on 10 August 2003, although a temperature of {{convert|37.5|C|F}}<ref>{{cite web|url=http://www.metoffice.gov.uk/climate/uk/interesting/aug03maxtemps.html |title=August 2003&nbsp;– Hot spell|publisher=[[Met Office]]|accessdate=21 February 2011}}</ref> was recorded on the same day at the Guildhall rooftop weather station in the city centre and is acknowledged by the Met Office. Before this, the absolute maximum was {{convert|36.5|C|F}} set at the Botanic Garden<ref>{{cite web|url= http://www.metoffice.gov.uk/climate/uk/interesting/aug1990/ |title=Hot spell August 1990|publisher=[[Met Office]]|accessdate=21 February 2011}}</ref> in August 1990. The last time the temperature exceeded {{convert|35|C|F}} was July 2006 when the maximum reached {{convert|35.6|C|F}} at the Botanic Garden<ref name="ECAD-July2006"/> and {{convert|35.8|C|F}} at NIAB.<ref>{{cite web|url=http://www.metoffice.gov.uk/climate/uk/interesting/july2006/MaxTemp1907Points_jpeg.JPG |title=July 2006 |publisher=[[Met Office]] |accessdate=21 February 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110629215609/http://www.metoffice.gov.uk/climate/uk/interesting/july2006/MaxTemp1907Points_jpeg.JPG |archivedate=29 June 2011 }}</ref> Typically the temperature will reach {{convert|25.1|C|F}} or higher on over 25 days of the year over the 1981–2010 period,<ref>{{cite web|url= http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1981-2010&indexid=SU&stationid=1639 |title= Climatology details for station CAMBRIDGE (B. GDNS): Summer days (TX > 25&nbsp;°C)|work=[[European Climate Assessment and Dataset]]|accessdate=11 September 2012}}</ref> with the annual warmest day averaging {{convert|31.5|C|F}}<ref>{{cite web|url= http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1981-2010&indexid=TXx&stationid=1639 |title=Climatology details for station CAMBRIDGE (B. GDNS): Maximum value of daily maximum temperature|work=[[European Climate Assessment and Dataset]]|accessdate=11 September 2012}}</ref> over the same period.
+
+The absolute minimum temperature recorded at the Botanic Garden site was {{convert|-17.2|C|F}}, recorded in February 1947,<ref>{{cite web|url=http://www.botanic.cam.ac.uk/Botanic/Page.aspx?p=27&ix=2858&pid=2830&prcid=4&ppid=2830|title=Botanic Garden Extremes 1931–60|accessdate=21 February 2011|archive-url=https://web.archive.org/web/20110726111540/http://www.botanic.cam.ac.uk/Botanic/Page.aspx?p=27&ix=2858&pid=2830&prcid=4&ppid=2830|archive-date=26 July 2011|dead-url=yes|df=dmy-all}}</ref> although a minimum of {{convert|-17.8|C|F}} was recorded at the now defunct observatory site in December 1879.<ref>{{cite web |url=http://www.torro.org.uk/site/lowtempsyear.php|title=8 December 1879|accessdate=21 February 2011}}</ref> More recently the temperature fell to {{convert|-15.3|C|F}} on 11 February 2012,<ref>{{cite web |url= http://metofficenews.wordpress.com/2012/02/11/coldest-temperatures-of-winter-so-far/|title=Coldest temperatures of winter so far |work=[[Met Office]] News Blog|date= 11 February 2012 |accessdate=27 February 2012}}</ref> {{convert|-12.2|C|F}} on 22 January 2013<ref>{{cite web |url= http://metofficenews.wordpress.com/2013/01/22/overnight-minimum-temperatures/|title=22nd Jan 2013 Temperatures |work=[[Met Office]] News Blog|date= 22 January 2013 |accessdate=4 February 2013}}</ref> and {{convert|-10.9|C|F}}<ref>{{cite web|url=http://www.botanic.cam.ac.uk/Botanic/Page.aspx?p=27&ix=2858&pid=2830&prcid=4&ppid=2830|title=December 2010|publisher=Cambridge University Botanic Garden|accessdate=21 February 2011|archive-url=https://web.archive.org/web/20110726111540/http://www.botanic.cam.ac.uk/Botanic/Page.aspx?p=27&ix=2858&pid=2830&prcid=4&ppid=2830|archive-date=26 July 2011|dead-url=yes|df=dmy-all}}</ref> on 20 December 2010. The average frequency of air frosts ranges from 42.8 days at the NIAB site,<ref>{{cite web |url= http://www.metoffice.gov.uk/public/weather/climate/u1214b469|title=Cambridge 1981–2010 averages|publisher=[[Met Office]]|accessdate=11 September 2012}}</ref> to 48.3 days at the Botanic Garden<ref>{{cite web |url=http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1981-2010&indexid=FD&stationid=1639 |title=Climatology details for station CAMBRIDGE (B. GDNS): Frost days (TN < 0&nbsp;°C)|work=[[European Climate Assessment and Dataset]]|accessdate=11 September 2012}}</ref> per year over the 1981–2010 period. Typically the coldest night of the year at the Botanic Garden will fall to {{convert|-8.0|C|F}}.<ref>{{cite web |url=http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1981-2010&indexid=TNn&stationid=1639 |title=Climatology details for station CAMBRIDGE (B. GDNS): Minimum value of daily minimum temperature|work=[[European Climate Assessment and Dataset]]|accessdate=11 September 2012}}</ref> Such minimum temperatures and frost averages are typical for inland areas across much of southern and central England.
+
+Sunshine averages around 1,500 hours a year or around 35% of possible, a level typical of most locations in inland central England.
+
+{{Weather box|location = Cambridge University Botanic Garden, elevation 12m,1981–2010, extremes 1914–
+|metric first = y
+|single line = y
+|Jan record high C = 14.9
+|Feb record high C = 18.8
+|Mar record high C = 23.9
+|Apr record high C = 27.4
+|May record high C = 31.1
+|Jun record high C = 34.0
+|Jul record high C = 35.6
+|Aug record high C = 36.9
+|Sep record high C = 33.9
+|Oct record high C = 29.3
+|Nov record high C = 21.1
+|Dec record high C = 15.8
+|year record high C= 36.9
+|Jan high C =  7.4
+|Feb high C = 8.0
+|Mar high C = 11.1
+|Apr high C = 13.8
+|May high C = 17.5
+|Jun high C = 20.4
+|Jul high C = 23.1
+|Aug high C = 22.8
+|Sep high C = 19.6
+|Oct high C = 15.2
+|Nov high C = 10.5
+|Dec high C =  7.7
+|year high C=
+|Jan low C =  1.4
+|Feb low C =  1.2
+|Mar low C =  3.0
+|Apr low C =  4.3
+|May low C =  7.3
+|Jun low C = 10.2
+|Jul low C = 12.4
+|Aug low C = 12.2
+|Sep low C = 10.0
+|Oct low C =  7.2
+|Nov low C =  3.9
+|Dec low C =  1.7
+|year low C=
+|Jan record low C = −16.1
+|Feb record low C = −17.2
+|Mar record low C = −11.7
+|Apr record low C =  −6.1
+|May record low C =  −4.4
+|Jun record low C =  −0.6
+|Jul record low C =   2.2
+|Aug record low C =   3.3
+|Sep record low C =  −2.2
+|Oct record low C =  −6.1
+|Nov record low C = −13.3
+|Dec record low C = −15.6
+|year record low C= −17.2
+|precipitation colour = green
+|Jan precipitation mm = 45.96
+|Feb precipitation mm = 34.58
+|Mar precipitation mm = 38.57
+|Apr precipitation mm = 40.34
+|May precipitation mm = 46.75
+|Jun precipitation mm = 52.08
+|Jul precipitation mm = 50.7
+|Aug precipitation mm = 53.58
+|Sep precipitation mm = 54.27
+|Oct precipitation mm = 57.65
+|Nov precipitation mm = 54.85
+|Dec precipitation mm = 46.87
+|year precipitation mm= 557.65
+|source 1 = KNMI<ref>{{cite web| url=http://eca.knmi.nl/utils/mapserver/climatology.php?indexcat=**&indexid=**&periodidselect=1981-2010&seasonid=0&scalelogidselect=no&minx=-461428.571429&miny=-4727380.952381&maxx=405238.095239&maxy=-4077380.952380&MapSize=560%2C420&imagewidth=560&imageheight=420&CMD=QUERY_POINT&CMD=QUERY_POINT#bottom| title=Climate Normals 1981–2010|work=[[European Climate Assessment and Dataset]]| accessdate=11 September 2012}}</ref>
+|date=September 2012}}
+
+{{Weather box|location = Cambridge University Botanic Garden, elevation 12m,1971–2000
+|collapsed = y
+|metric first = y
+|single line = y
+|Jan high C =  7.0
+|Feb high C =  7.6
+|Mar high C = 10.4
+|Apr high C = 13.0
+|May high C = 16.9
+|Jun high C = 19.8
+|Jul high C = 22.6
+|Aug high C = 22.5
+|Sep high C = 19.1
+|Oct high C = 14.9
+|Nov high C = 10.1
+|Dec high C =  7.9
+
+|Jan low C =  1.2
+|Feb low C =  0.9
+|Mar low C =  2.7
+|Apr low C =  4.0
+|May low C =  6.8
+|Jun low C =  9.7
+|Jul low C = 11.9
+|Aug low C = 11.8
+|Sep low C =  9.7
+|Oct low C =  6.8
+|Nov low C =  3.5
+|Dec low C =  2.1
+|year high C= 14.3 |year low C=  5.9
+|year high F =57.8 |year low F =42.7<!--for precision-->
+|Jan precipitation mm = 44.79
+|Feb precipitation mm = 32.56
+|Mar precipitation mm = 41.72
+|Apr precipitation mm = 42.44
+|May precipitation mm = 45.03
+|Jun precipitation mm = 53.70
+|Jul precipitation mm = 41.85
+|Aug precipitation mm = 48.46
+|Sep precipitation mm = 53.34
+|Oct precipitation mm = 54.35
+|Nov precipitation mm = 51.39
+|Dec precipitation mm = 50.31
+|year precipitation mm=559.94
+|source 1 = KNMI<ref>{{cite web| url=http://eca.knmi.nl/utils/mapserver/climatology.php?indexcat=**&indexid=**&periodidselect=1971-2000&seasonid=0&scalelogidselect=no&minx=-461428.571429&miny=-4727380.952381&maxx=405238.095239&maxy=-4077380.952380&MapSize=560%2C420&imagewidth=560&imageheight=420&CMD=QUERY_POINT&CMD=QUERY_POINT#bottom| title=Climate Normals 1971–2000|work=[[European Climate Assessment and Dataset]]| accessdate=21 February 2011}}</ref>
+|<!--month=February |year= 2011|-->date=March 2012}}
+
+{{Weather box|location = Cambridge NIAB, elevation 26m,1981–2010
+|collapsed = y
+|metric first = y
+|single line = y
+|Jan high C =  7.3
+|Feb high C =  7.7
+|Mar high C = 10.6
+|Apr high C = 13.3
+|May high C = 16.9
+|Jun high C = 19.9
+|Jul high C = 22.8
+|Aug high C = 22.6
+|Sep high C = 19.3
+|Oct high C = 14.9
+|Nov high C = 10.3
+|Dec high C =  7.5
+
+|Jan low C =  1.6
+|Feb low C =  1.3
+|Mar low C =  3.1
+|Apr low C =  4.3
+|May low C =  7.1
+|Jun low C = 10.2
+|Jul low C = 12.4
+|Aug low C = 12.4
+|Sep low C = 10.4
+|Oct low C =  7.6
+|Nov low C =  4.2
+|Dec low C =  1.9
+|year high C= 14.4 |year low C=  6.4
+|year high F =58.0 |year low F =43.5<!--rounds down--><!--for precision-->
+|Jan precipitation mm = 46.6
+|Feb precipitation mm = 34.5
+|Mar precipitation mm = 38.3
+|Apr precipitation mm = 41.2
+|May precipitation mm = 46.0
+|Jun precipitation mm = 51.5
+|Jul precipitation mm = 47.5
+|Aug precipitation mm = 50.8
+|Sep precipitation mm = 53.5
+|Oct precipitation mm = 59.0
+|Nov precipitation mm = 52.8
+|Dec precipitation mm = 46.4
+|year precipitation mm=568.1
+|Jan sun =  58.3
+|Feb sun =  77.1
+|Mar sun = 110.7
+|Apr sun = 152.5
+|May sun = 179.4
+|Jun sun = 176.7
+|Jul sun = 187.6
+|Aug sun = 182.6
+|Sep sun = 139.5
+|Oct sun = 113.9
+|Nov sun =  66.7
+|Dec sun =  49.3
+|year sun=1494.5
+|source 1 = Met Office<ref>{{cite web| url=http://www.metoffice.gov.uk/public/weather/climate/u1214b469| title=Climate Normals 1981–2010| publisher=[[Met Office]]| accessdate=11 September 2012}}</ref>
+<!--|month=September |year= 2012-->
+|date=September 2012}}
+
+{{Weather box|location = Cambridge NIAB, elevation 26m,1971–2000
+|collapsed = y
+|metric first = y
+|single line = y
+|Jan high C =  7.0
+|Feb high C =  7.4
+|Mar high C = 10.2
+|Apr high C = 12.6
+|May high C = 16.5
+|Jun high C = 19.4
+|Jul high C = 22.2
+|Aug high C = 22.3
+|Sep high C = 18.9
+|Oct high C = 14.6
+|Nov high C =  9.9
+|Dec high C =  7.8
+
+|Jan low C =  1.3
+|Feb low C =  1.1
+|Mar low C =  2.9
+|Apr low C =  4.0
+|May low C =  6.7
+|Jun low C =  9.8
+|Jul low C = 12.0
+|Aug low C = 11.9
+|Sep low C = 10.1
+|Oct low C =  7.1
+|Nov low C =  3.7
+|Dec low C =  2.3
+|year high C= 14.1 |year low C=  6.1
+|year high F =57.3 |year low F =42.9<!--for precision-->
+|Jan precipitation mm = 45.0
+|Feb precipitation mm = 32.7
+|Mar precipitation mm = 41.5
+|Apr precipitation mm = 43.1
+|May precipitation mm = 44.5
+|Jun precipitation mm = 53.8
+|Jul precipitation mm = 38.2
+|Aug precipitation mm = 48.8
+|Sep precipitation mm = 51.0
+|Oct precipitation mm = 53.8
+|Nov precipitation mm = 51.1
+|Dec precipitation mm = 50.0
+|year precipitation mm=553.5
+|Jan sun =  55.5
+|Feb sun =  72.6
+|Mar sun = 107.0
+|Apr sun = 145.8
+|May sun = 189.7
+|Jun sun = 180.0
+|Jul sun = 191.3
+|Aug sun = 186.9
+|Sep sun = 141.6
+|Oct sun = 115.0
+|Nov sun =  68.1
+|Dec sun =  47.7
+|year sun=1501.2
+|source 1 = Met Office<ref>{{cite web| url=http://www.metoffice.gov.uk/climate/uk/averages/19712000/sites/cambridge.html| title=Climate Normals 1971–2000| publisher=[[Met Office]]| accessdate=21 February 2011| deadurl=yes| archiveurl=https://web.archive.org/web/20110605033838/http://www.metoffice.gov.uk/climate/uk/averages/19712000/sites/cambridge.html| archivedate=5 June 2011| df=dmy-all}}</ref>
+<!--|month=February |year= 2011-->
+|date=March 2012}}
+
+===Ecology===
+The city contains three [[Site of Special Scientific Interest|Sites of Special Scientific Interest]] (SSSIs), at Cherry Hinton East Pit, Cherry Hinton West Pit, and Travellers Pit,<ref>{{cite journal|url=https://www.cambridge.gov.uk/sites/default/files/documents/Nature-Conservation-Strategy_0.pdf|title=CAMBRIDGE CITY NATURE CONSERVATION STRATEGY "ENHANCING BIODIVERSITY"|date=September 2006|author=The Wildlife Trust for Bedfordshire, Cambridgeshire, Northamptonshire & Peterborough|publisher=Cambridge City Council|journal=|access-date=16 May 2016|archive-url=https://web.archive.org/web/20160818014957/https://www.cambridge.gov.uk/sites/default/files/documents/Nature-Conservation-Strategy_0.pdf|archive-date=18 August 2016|dead-url=yes|df=dmy-all}}</ref> and ten [[Local nature reserve|Local Nature Reserves]] (LNRs): Sheep's Green and Coe Fen,
+Coldhams Common, Stourbridge Common, Nine Wells, Byron's Pool, West Pit, Paradise, Barnwell West, Barnwell East, and Logan's Meadow.<ref>{{cite web|title=Cambridge City Local Nature Reserves|url=http://lnr.cambridge.gov.uk/visit-the-cambridge-nature-reserves/|publisher=Cambridge City Council|accessdate=16 May 2016}}</ref>
+
+=== Green belt ===
+{{further|Cambridge Green Belt}}
+Cambridge is completely enclosed by [[Green belt (United Kingdom)|green belt]] as a part of a wider environmental and planning policy first defined in 1965 and formalised in 1992.<ref name="Cambridge-Green-Belt">{{cite web|title=The Origins of the Cambridge Green Belt|url=https://www.cambridge.gov.uk/sites/default/files/documents/rd-strat-400.pdf|website=www.cambridge.gov.uk|first=Anthony|author=J Cooper, MA, LL.B, PhD|access-date=14 February 2018|archive-url=https://web.archive.org/web/20180215023734/https://www.cambridge.gov.uk/sites/default/files/documents/rd-strat-400.pdf#|archive-date=15 February 2018|dead-url=yes|df=dmy-all}}</ref><ref>{{cite web|title=Green belt final|url=https://www.eastcambs.gov.uk/sites/default/files/PS.EVR4%20-%20Green%20Belt%20-%20FINAL.pdf|website=www.eastcambs.gov.uk}}</ref> While some small tracts of green belt exist on the fringes of the city's boundary, much of the protection is in the surrounding South Cambridgeshire<ref>{{cite web|title=CAMBRIDGE GREEN BELT STUDY A Vision of the Future for Cambridge in its Green Belt Setting|url=https://www.scambs.gov.uk/sites/default/files/documents/Cambridge-Green-Belt-Study.pdf|website=www.scambs.gov.uk|access-date=14 February 2018|archive-url=https://web.archive.org/web/20180215023736/https://www.scambs.gov.uk/sites/default/files/documents/Cambridge-Green-Belt-Study.pdf#|archive-date=15 February 2018|dead-url=yes|df=dmy-all}}</ref> and nearby [[East Cambridgeshire]]<ref>{{cite web|title=East Cambridgeshire Local Plan - April 2015|url=https://www.eastcambs.gov.uk/sites/default/files/Local%20Plan%20April%202015%20-%20front%20cover%20and%20inside%20front%20cover_0.pdf|website=www.eastcambs.gov.uk}}</ref> districts, helping to maintain local green space, prevent further [[urban sprawl]] and unplanned expansion of the city, as well as protecting smaller outlying villages from further convergence with each other as well as the city.<ref>{{cite web|title=LDA Design - Cambridge Inner Belt Boundary Study|url=https://www.cambridge.gov.uk/public/ldf/coredocs/rd-mc-030-part1.pdf|website=www.cambridge.gov.uk}}</ref>
+
+==Demography==
+The demography in Cambridge changes considerably in and out of University term times, so can be hard to measure.{{Citation needed|date=February 2018}}
+
+In the [[United Kingdom Census 2001|2001 Census]] held during University term, 89.44% of Cambridge residents identified themselves as white, compared with a national average of 92.12%.<ref>
+2001 Census (Ethnic group, Cambridge local authority). Office For National Statistics.</ref> Within the University, 84% of undergraduates and 80% of post-graduates identify as white (including overseas students).<ref>{{cite web
+ |url=http://www.admin.cam.ac.uk/news/press/factsheets/ethnicity.html
+ |title=University of Cambridge Fact Sheet: Ethnicity
+ |accessdate=17 January 2008
+ |deadurl=yes
+ |archiveurl=https://web.archive.org/web/20080101185656/http://www.admin.cam.ac.uk/news/press/factsheets/ethnicity.html
+ |archivedate=1 January 2008
+ |df=dmy
+}}
+.Retrieved 17 January 2008.</ref>
+
+Cambridge has a much higher than average proportion of people in the highest paid professional, managerial or administrative jobs (32.6% vs. 23.5%)<ref name=2001CensusASG>ONS 2001 Census (Approximated Social Grade&nbsp;– Workplace Population, Cambridge local authority)</ref> and a much lower than average proportion of manual workers (27.6% vs. 40.2%).<ref name=2001CensusASG/> In addition, a much higher than average proportion of people have a high level qualification (e.g. degree, [[Higher National Diploma]], Master's or PhD), (41.2% vs. 19.7%).<ref>ONS 2001 Census (Qualifications, Cambridge local authority)</ref>
+
+===Historical population===
+{| class="wikitable" style="border:none;"
+|-
+! Year || colspan="2"|Population
+| rowspan="13" style="border:none;padding:1em;"|
+! Year || colspan="2"|Population
+|-
+| 1749 || style="text-align:right;"|{{bartable| 6,131||0.001}}
+| 1901 || style="text-align:right;"|{{bartable| 38,379||0.001}}
+|-
+| colspan="3" style="text-align:center;"|⋮
+| 1911 || style="text-align:right;"|{{bartable| 40,027||0.001}}
+|-
+| 1801 || style="text-align:right;"|{{bartable| 10,087||0.001}}
+| 1921 || style="text-align:right;"|{{bartable| 59,212||0.001}}
+|-
+| 1811 || style="text-align:right;"|{{bartable| 11,108||0.001}}
+| 1931 || style="text-align:right;"|{{bartable| 66,789||0.001}}
+|-
+| 1821 || style="text-align:right;"|{{bartable| 14,142||0.001}}
+| 1951 || style="text-align:right;"|{{bartable| 81,500||0.001}}
+|-
+| 1831 || style="text-align:right;"|{{bartable| 20,917||0.001}}
+| 1961 || style="text-align:right;"|{{bartable| 95,527||0.001}}
+|-
+| 1841 || style="text-align:right;"|{{bartable| 24,453||0.001}}
+| 1971 || style="text-align:right;"|{{bartable| 99,168||0.001}}
+|-
+| 1851 || style="text-align:right;"|{{bartable| 27,815||0.001}}
+| 1981 || style="text-align:right;"|{{bartable| 87,209||0.001}}
+|-
+| 1861 || style="text-align:right;"|{{bartable| 26,361||0.001}}
+| 1991 || style="text-align:right;"|{{bartable|107,496||0.001}}
+|-
+| 1871 || style="text-align:right;"|{{bartable| 30,078||0.001}}
+| 2001 || style="text-align:right;"|{{bartable|108,863||0.001}}
+|-
+| 1891 || style="text-align:right;"|{{bartable| 36,983||0.001}}
+| 2011 || style="text-align:right;"|{{bartable|123,900||0.001}}
+|}
+
+<small>
+Local census 1749<ref>{{Citation|title=The History of the County of Cambridgeshire|first=Edmund|last=Carter|year=1753|url=https://books.google.com/books?id=BqI9AAAAcAAJ&pg=PA13|quote=...6131 souls; as they were collected from house to house in July and August in the year 1749}}</ref>
+Census: Regional District 1801–1901<ref>
+{{cite web |url=http://www.visionofbritain.org.uk/data_cube_table_page.jsp?data_theme=T_POP&data_cube=N_TPop&u_id=10155071 |title=Cambridge Civil Parish|publisher=Vision of Britain |accessdate=26 July 2008}}
+</ref>
+Civil Parish 1911–1961<ref>
+{{cite web |url=http://www.visionofbritain.org.uk/data_cube_table_page.jsp?data_theme=T_POP&data_cube=N_TPop&u_id=10011383 |title=Cambridge Civil Parish|publisher=Vision of Britain |accessdate=26 July 2008}}</ref>
+District 1971–2011<ref>
+{{cite web |url=http://www.visionofbritain.org.uk/data_cube_table_page.jsp?data_theme=T_POP&data_cube=N_TPop&u_id=10057243 |title=Cambridge Civil Parish|publisher=Vision of Britain |accessdate=26 July 2008}}
+</ref>
+</small>
+
+==Economy==
+
+The town's river link to the surrounding agricultural land, and good road connections to London in the south meant Cambridge has historically served as an important regional trading post. King Henry I granted Cambridge a monopoly on river trade, privileging this area of the economy of Cambridge <ref>{{cite book|title=The Story of Cambridge|first=Stephanie|last=Boyd|work=Cambridge University Press |ISBN=978-0-521-62897-6|year=2005}}</ref> The town [[Market Hill, Cambridge|market]] provided for trade in a wide variety of goods and annual trading fairs such as [[Stourbridge Fair]] and [[Midsummer Fair]] were visited by merchants from across the country. The river was described in an account of 1748 as being "often so full of [merchant boats] that the navigation thereof is stopped for some time".<ref name="Gentleman1748">{{cite journal |url= https://books.google.com/books?id=CvoqAAAAYAAJ&pg=PA64 |journal=The London magazine, or, Gentleman's monthly intelligencer |page=64 |title=A description of Cambridge |date=January 1748 |volume=17 |author1=Kimber, Isaac |author2=Kimber, Edward |location =London |publisher=R. Baldwin |accessdate=29 February 2012}}</ref> For example, 2000 [[wikt:Special:Search/firkin|firkins]] of butter were brought up the river every Monday from the agricultural lands to the North East, particularity Norfolk, to be unloaded in the town for road transportation to London.<ref name="Gentleman1748"/> Changing patterns of retail distribution and the advent of the railways led to a decline in Cambridge's importance as a market town.<ref>{{cite book |title= A History of the University of Cambridge |volume=3 |first=Peter |last=Searby  |page=705 |isbn=978-0-521-35060-0 |year=1997 |publisher=Cambridge University Press}}</ref>
+
+[[File:S95MarketCambridgefromGreatStMarys.jpg|upright=1.15|thumb|left|Cambridge Market viewed from the Tower of [[Church of St Mary the Great, Cambridge|St. Mary the Great]]]]
+
+Today Cambridge has a diverse economy with strength in sectors such as research & development, software consultancy, high value engineering, creative industries, pharmaceuticals and tourism.<ref>{{cite web|url=http://www.cambridgeshire.gov.uk/NR/rdonlyres/3B0B3A7B-E448-4D61-A853-0B5A1A467969/0/CambridgeCityDistrictReport2011.pdf |title=Cambridge City&nbsp;– Annual demographic and socio-economic report |page=17 |date=April 2011 |publisher=Cambridgeshire County Council |deadurl=yes |archiveurl=https://web.archive.org/web/20130828063418/http://www.cambridgeshire.gov.uk/NR/rdonlyres/3B0B3A7B-E448-4D61-A853-0B5A1A467969/0/CambridgeCityDistrictReport2011.pdf |archivedate=28 August 2013 }}</ref> Described as one of the "most beautiful cities in the world" by [[Forbes]] in 2010,<ref>{{cite news| url=https://www.forbes.com/2010/01/22/paris-london-travel-lifestyle-travel-tourism-new-york-top-ten-cities.html | work=Forbes | first=Tim | last=Kiladze | title=World's Most Beautiful Cities | date=22 January 2010}}</ref> with the view from [[The Backs]] being selected as one of the 10 greatest in England by [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]] chair [[Simon Jenkins]], tourism generates over £750 million for the city's economy.<ref>{{Cite news|url=https://www.cambridge-news.co.uk/business/business-news/dramatic-increase-tourisms-contribution-cambridge-13139177|title=Dramatic increase in tourism's contribution to the Cambridge economy revealed|last=Gooding|first=Matt|date=2017-06-05|work=cambridgenews|access-date=2018-02-12}}</ref>
+
+Cambridge and its surrounds are sometimes referred to as [[Silicon Fen]], an allusion to [[Silicon Valley]], because of the density of high-tech businesses and [[business incubator|technology incubators]] that have developed on [[science park]]s around the city. Many of these parks and buildings are owned or leased by university colleges, and the companies often have been spun out of the university.<ref>{{cite web|url=http://www.ukspa.org.uk/science_parks/content/1059/cambridge_science_park |title=Science Parks &#124; Cambridge Science Park |work=United Kingdom Science Park Association |year=2012 |quote=many companies on the park have spun out of Cambridge University...the majority of the companies on the Cambridge Science Park have active links and research partnerships with the University |accessdate=29 February 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120130154419/http://www.ukspa.org.uk/science_parks/content/1059/cambridge_science_park |archivedate=30 January 2012 }}</ref> [[Cambridge Science Park]], which is the largest commercial R&D centre in Europe, is owned by [[Trinity College Cambridge|Trinity College]];<ref>{{cite web|url=http://www.ukspa.org.uk/science_parks/content/1059/cambridge_science_park |title=Science Parks &#124; Cambridge Science Park |work=United Kingdom Science Park Association |year=2012 |quote=Cambridge Science Park is Europe's longest-serving and largest centre for commercial research and development... |accessdate=29 February 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120130154419/http://www.ukspa.org.uk/science_parks/content/1059/cambridge_science_park |archivedate=30 January 2012 }}</ref><ref>{{cite web|url=http://www.cambridgesciencepark.co.uk/about/history/ | title=History |publisher=[[Cambridge Science Park]] | accessdate=14 August 2011}}</ref> [[St John's College, Cambridge|St John's]] is the landlord of [[St John's Innovation Centre]].<ref>{{cite web|url=http://www.stjohns.co.uk/about/history/ |title=History |publisher=St John's Innovation Centre |accessdate=19 July 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110707012502/http://www.stjohns.co.uk/about/history/ |archivedate=7 July 2011 }}</ref> Technology companies include [[Abcam plc|Abcam]], [[CSR plc|CSR]], [[ARM Limited]], [[Cambridge Semiconductor Limited|CamSemi]], [[Jagex]] and [[Sinclair Research Ltd|Sinclair]].<ref>{{cite web |url=http://www.cambridgenetwork.co.uk/directory/ou_spinout/ |title=Directory of Cambridge Network Members&nbsp;– Cambridge University Spin Out |work=Cambridge Network |year=2012 |accessdate=29 February 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20070429102928/http://www.cambridgenetwork.co.uk/directory/ou_spinout/ |archivedate=29 April 2007 |df=dmy-all }}</ref> [[Microsoft]] has located its [[Microsoft Research]] UK offices in [[West Cambridge]], separate from the main Microsoft UK campus in [[Reading, Berkshire|Reading]], and also has an office on Station Road.
+
+Cambridge was also the home of [[Pye Ltd.]], founded in 1898 by W. G. Pye, who worked in the [[Cavendish Laboratory]]; it began by supplying the University and later specialised in wireless telegraphy equipment, radios, televisions and also defence equipment.<ref name="british-history-66609"/> Pye Ltd evolved into several other companies including [[TETRA]] radio equipment manufacturer [[Sepura]]. Another major business is [[Marshall Aerospace]] located on the eastern edge of the city. The [[Cambridge Network]] keeps businesses in touch with each other. The software company [[Autonomy Corporation]] is located at the Business Park on Cowley Road.
+
+==Transport==
+{{Main|Transport in Cambridge}}
+[[File:Guided bus from Trumpington - geograph.org.uk - 2543891.jpg|thumb|right|A guided bus on the Cambridgeshire Guided Busway]]
+Because of its rapid growth in the 20th century, Cambridge has a congested road network.<ref>{{cite web |url=http://www.cambridgefutures.org/futures2/report1.htm |title=Cambridge Futures 2 – Report |publisher=Cambridgefutures.org |accessdate=26 March 2013 |archive-url=https://web.archive.org/web/20130130191440/http://www.cambridgefutures.org/futures2/report1.htm |archive-date=30 January 2013 |dead-url=yes |df=dmy-all }}</ref> The [[M11 motorway]] from east London terminates to the north-west of the city where it joins the [[A14 road (England)|A14]], a major freight route which connects the port of [[Felixstowe]] on the east coast with the [[English Midlands|Midlands]]. The A428 connects the city with [[Bedford, Bedfordshire|Bedford]] and [[St Neots]], and the [[A10 road (England)|A10]] connects the city to [[King's Lynn]] to the north via [[Ely, Cambridgeshire|Ely]], and to central London to the south.
+
+As a university town lying on fairly flat ground and with traffic congestion, Cambridge has the highest level of cycle use in the UK.<ref>[http://www.statistics.gov.uk/CCI/SearchRes.asp?term=KS15&btnSubmit=Search UK Census 2001] {{webarchive |url=https://web.archive.org/web/20090605201526/http://www.statistics.gov.uk/CCI/SearchRes.asp?term=KS15&btnSubmit=Search |date=5 June 2009 }}</ref> According to the 2001 census, 25% of residents travelled to work by bicycle. Furthermore, a survey in 2013 found that 47% of residents travel by bike at least once a week.<ref>[http://www.cambridge-news.co.uk/News/Cambridge-retains-cycling-capital-title-in-nationwide-survey-20130416110617.htm Cambridge retains 'cycling capital' title in nationwide survey | Cambridge News | Latest News Headlines From Cambridge City & Cambridgeshire | National News By] {{webarchive|url=https://web.archive.org/web/20130419062221/http://www.cambridge-news.co.uk/News/Cambridge-retains-cycling-capital-title-in-nationwide-survey-20130416110617.htm |date=19 April 2013 }}. Cambridge News (16 April 2013). Retrieved on 15 July 2013.</ref> In recognition of this, the 3rd stage of the [[2014 Tour de France]] started in the city, adjacent to Parker's Piece.
+
+Cambridge has several bus services including routes linking five [[Park and Ride]] sites all of which operate seven days a week and are aimed at encouraging motorists to park near the city's edge.<ref>[http://www.cambridgeshire.gov.uk/transport/around/parkandride Cambridge park-and-ride]. Cambridgeshire County Council. {{webarchive |url=https://web.archive.org/web/20130308123636/http://www.cambridgeshire.gov.uk/transport/around/parkandride |date=8 March 2013 }}</ref> Since 2011, the [[Cambridgeshire Guided Busway]] has carried bus services into the centre of Cambridge from [[St Ives, Cambridgeshire|St Ives]], [[Huntingdon]], [[Peterborough]] and other towns and villages along the routes, operated by [[Stagecoach in The Fens|Stagecoach]] and [[Go Whippet]].<ref>{{cite web |title=The Busway - Routes and Times |url=http://www.thebusway.info/routes-and-times.aspx |publisher=Cambridgeshire County Council |accessdate=29 December 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20141225184459/http://www.thebusway.info/routes-and-times.aspx |archivedate=25 December 2014 |df=dmy }}</ref> The A service continues on to the railway station and [[Addenbrooke's Hospital|Addenbrookes]], before terminating at a new Park and Ride in [[Trumpington, Cambridgeshire|Trumpington]]. Since 2017 it has also linked to Cambridge North railway station.
+
+Cambridge also has its own airport; [[Cambridge Airport]] was used mainly by charter and training flights as well as to fly in aircraft for maintenance.<ref>{{cite web |url=http://www.cambridgecityairport.com/ |title=Archived copy |accessdate=14 October 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20091211170657/http://www.cambridgecityairport.com/ |archivedate=11 December 2009 |df=dmy }} "Cambridge Airport"</ref><ref>[http://www.masfcambridge.com/] "Cambridge Flying Club"</ref><ref>[http://www.cambridgeaeroclub.co.uk/]"Cambridge Aero Club"</ref> Regular flights to [[Jersey]] and European destinations such as [[Gothenburg]] operated until the end of January 2016 when all scheduled and charter traffic from the airport was halted.<ref name="cn2dec15">[http://www.cambridge-news.co.uk/Cambridge-Airport-axes-flights/story-28284945-detail/story.html Cambridge Airport axes charter and scheduled passenger flights] {{webarchive |url=https://web.archive.org/web/20151220034356/http://www.cambridge-news.co.uk/Cambridge-Airport-axes-flights/story-28284945-detail/story.html |date=20 December 2015 }}, ''[[Cambridge News]]'', 2 December 2015. Retrieved 2016-02-02.</ref>
+
+=== Rail ===
+[[Cambridge railway station]] was opened in 1845, initially linking to [[Bishopsgate railway station|Bishopsgate station]] in London, via Bishops Stortford.<ref>{{cite book|last1=Fellowes|first1=Reginald B|title=Railways to Cambridge - actual and proposed)|date=1948|publisher=Oleander Press|location=Cambridge,UK|isbn=0 902675 62 1|page=10|edition=1976 reprint}}</ref> Further lines opened throughout the 19th century, including the [[Cambridge and St Ives branch line]], the [[Stour Valley Railway]], the [[Cambridge to Mildenhall railway]], and the [[Varsity Line]]. [[Cherryhinton railway station|Another station]] was opened in Cherry Hinton though, at the time, this was a separate village to Cambridge. Several of these lines were closed during the 1960s.
+
+Today, Cambridge station has direct rail links to London with termini at {{stnlnk|London King's Cross}} (via the [[Cambridge Line]] and the [[East Coast Main Line]]), {{stnlnk|Liverpool Street}} (on the [[West Anglia Main Line]]), and [[St Pancras railway station|St Pancras]] (on the [[Thameslink]] line). Commuter trains to King's Cross run every half hour during peak hours, with a journey time of 53 minutes.<ref>{{cite web|url=https://www.greatnorthernrail.com/travel-information/plan-your-journey/-/media/goahead/gtr-all-timetables/gn-timetables---10-dec-2017-to-19-may-2018/gn1712a06-web.pdf|title=Train Timetables|publisher=Great Northern|accessdate=17 December 2017}}</ref> Trains also run to {{stnlnk|King's Lynn}} and {{stnlnk|Ely}} (via the [[Fen Line]]), {{stnlnk|Norwich}} (via the [[Breckland Line]]), {{stnlnk|Leicester}}, [[Birmingham New Street railway station|Birmingham]], {{stnlnk|Peterborough}}, {{stnlnk|Stevenage}}, {{stnlnk|Ipswich}}, [[London Stansted Airport]], [[Brighton railway station|Brighton]] and [[Gatwick Airport railway station|Gatwick Airport]].
+
+A second railway station, [[Cambridge North railway station|Cambridge North]], opened on 21 May 2017, having originally planned to open in March 2015.<ref>{{cite news|url=http://www.cambridge-news.co.uk/news/cambridge-news/first-train-arrives-cambridge-north-13067120|title=First train arrives at Cambridge North station - but it took 30 years to get there|last1=Brown|first1=Raymond|date=21 May 2017|accessdate=21 May 2017|publisher=Cambridge Evening News}}</ref><ref>{{cite news|url=http://www.cambridge-news.co.uk/PICTURES-step-opening-Cambridges-second-railway-station-work-starts-guided-busway-extension/story-22370634-detail/story.html|title=PICTURES: First step towards opening of Cambridge’s second railway station as work starts on guided busway extension|date=23 July 2014|work=Cambridge News|accessdate=15 September 2014|archiveurl=https://web.archive.org/web/20140905005943/http://www.cambridge-news.co.uk/PICTURES-step-opening-Cambridges-second-railway-station-work-starts-guided-busway-extension/story-22370634-detail/story.html|archivedate=5 September 2014|deadurl=yes|df=dmy}}</ref><ref name="February 2012 Cambridge News">{{cite news|url=http://www.cambridge-news.co.uk/Home/Cambridges-new-railway-station-to-open-in-2015-21022012.htm|title=Cambridge's new railway station 'to open in 2015'|date=21 February 2012|newspaper=Cambridge News|accessdate=27 February 2012|archiveurl=https://web.archive.org/web/20120224071720/http://www.cambridge-news.co.uk/Home/Cambridges-new-railway-station-to-open-in-2015-21022012.htm|archivedate=24 February 2012|deadurl=yes|df=dmy}}</ref> A third railway station, Cambridge South, near Addenbrooke's Hospital has been proposed.<ref>{{cite news |last1=Cox |first1=Tara |title=2025 opening for Cambridge South station is 'unacceptable' |url=https://www.cambridge-news.co.uk/news/cambridge-news/cambridge-south-station-james-palmer-14664599 |accessdate=31 May 2018 |publisher=Local World |date=May 16, 2018}}</ref>
+
+==Education==
+[[File:Anglia Ruskin Cambridge Main, 28 Sep, 2012.jpg|thumb|[[Anglia Ruskin University]] evolved from the nineteenth century Cambridge School of Art, opened by [[educationist]] and art figure [[John Ruskin]] in 1858.]]
+{{See also|List of schools in Cambridgeshire}}
+Cambridge's two universities,<ref>{{cite web|url=http://www.cambridge.gov.uk/public/docs/Draft%20housing%20strategy%202009.pdf |archiveurl=https://www.webcitation.org/5rIWIiOz1?url=http://www.cambridge.gov.uk/public/docs/Draft%20housing%20strategy%202009.pdf |archivedate=17 July 2010 |title=Draft housing strategy 2009–2010 |publisher=Cambridge City Council |accessdate=28 September 2009 |deadurl=yes |df=dmy }}</ref> the collegiate [[University of Cambridge]] and the local campus of [[Anglia Ruskin University]], serve around 30,000 students, by some estimates.<ref>{{cite web |url=http://www.thecompleteuniversityguide.co.uk/single.htm?ipg=6388 |archive-url=https://archive.is/20130114025558/http://www.thecompleteuniversityguide.co.uk/single.htm?ipg=6388 |dead-url=yes |archive-date=14 January 2013 |title=Cambridge |publisher=The Complete University Guide |accessdate=28 September 2009 }}</ref> Cambridge University estimated its 2007/08 student population at 17,662,<ref>{{cite web |url=http://www.admin.cam.ac.uk/offices/planning/information/statistics/facts/2009_poster.pdf |title=Facts and Figures January 2009 |publisher=University of Cambridge: Planning and statistics section|accessdate=28 September 2009 |date=January 2009}}</ref> and Anglia Ruskin reports 24,000 students across its two campuses (one of which is outside Cambridge, in [[Chelmsford, Essex|Chelmsford]]) for the same period.<ref>{{cite web|url=http://www.anglia.ac.uk/ruskin/en/home/your_university/about_anglia_ruskin/annual_review_0708.Maincontent.0002.file.tmp/Annual%20Review%2007-08%20web.pdf |title=Annual Review 2007-8 |publisher=Anglia Ruskin University |accessdate=28 September 2009 }}{{Dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref> State provision in the [[further education]] sector includes [[Hills Road Sixth Form College]], [[Long Road Sixth Form College]], and [[Cambridge Regional College]].
+
+Both state and [[Independent school (UK)|independent schools]] serve Cambridge pupils from nursery to secondary school age. State schools are administered by Cambridgeshire County Council, which maintains 251 schools in total,<ref>{{cite web|url=http://www.cambridgeshire.gov.uk/education/schools/ |title=Our schools and colleges |accessdate=28 September 2009 |publisher=Cambridgeshire County Council |deadurl=yes |archiveurl=https://web.archive.org/web/20090402122811/http://www.cambridgeshire.gov.uk/education/schools |archivedate=2 April 2009 }}</ref> 35 of them in Cambridge city.<ref>{{cite news |title=Educational establishments in Cambridgeshire |publisher=Cambridgeshire County Council }}</ref> [[Netherhall School]], [[Chesterton Community College]], the Parkside Federation (comprising [[Parkside Community College]] and [[Coleridge Community College]]), [[North Cambridge Academy]] and the Christian inter-denominational [[St Bede's Inter-Church School|St. Bede's School]] provide [[comprehensive school|comprehensive]] secondary education.<ref>{{Cite news |url= http://www.cambridge-news.co.uk/cn_news_crier/displayarticle.asp?id=444678 |archive-url= https://archive.is/20120729163405/http://www.cambridge-news.co.uk/cn_news_crier/displayarticle.asp?id=444678 |dead-url= yes |archive-date= 29 July 2012 |title=It's a record breaker for GCSE students |date=27 August 2009 |accessdate=28 September 2009 |first=John |last=Morgan |newspaper=Cambridge News}}</ref> Many other pupils from the Cambridge area attend [[Village College]]s, an educational institution unique to Cambridgeshire, which serve as secondary schools during the day and adult education centres outside of school hours.<ref>{{Cite book |url=https://books.google.com/books?id=jq2ZWVoo_vEC&pg=PA149&dq=%22village+college%22&as_brr=3#v=onepage&q=%22village%20college%22&f=false |title=Managing external relations in schools: a practical guide |first=Nicholas |last=Foskett |publisher=Routledge |year=1992 |isbn=0-415-06833-9 |page=149 }}</ref> Independent schools in the city include [[The Perse School]], [[Stephen Perse Foundation]], [[Sancton Wood School]], [[St Mary's School, Cambridge|St Mary's School]], [[Heritage School, Cambridge|Heritage School]] and [[The Leys School]].<ref>{{Cite news |url=https://www.telegraph.co.uk/property/cities/3350043/City-spotlight-Cambridge.html |title=City spotlight: Cambridge |newspaper=[[The Daily Telegraph]]|first=Max |last=Davidson |date=20 May 2006|accessdate=28 September 2009 |location=London}}</ref> The city has one [[University Technical College]], [[Cambridge Academy for Science and Technology]], which opened in September 2014.
+
+==Sport==
+
+===Football===
+
+[[File:Reality Checkpoint - geograph.org.uk - 971592.jpg|thumb|Parker's Piece]]
+Cambridge played a unique role in the invention of modern [[association football|football]]: the game's first set of rules were drawn up by members of the University in 1848. The [[Cambridge Rules]] were first played on [[Parker's Piece]] and had a "defining influence on the 1863 [[The Football Association|Football Association]] rules." which again were first played on Parker's Piece.<ref>{{cite web |url= http://www.bbc.co.uk/cambridgeshire/content/articles/2006/06/09/cambridge_football_rules_parkers_piece_feature.shtml |title=Cambridge...the birthplace of football?! |publisher=BBC}}</ref>
+
+The city is home to [[Cambridge United F.C.]], who play at the [[Abbey Stadium]]. Formed in 1912, as Abbey United, they were elected to the [[Football League]] in 1970 and reached the [[Football League Second Division]] in 1978, although a serious decline in them in the mid 1980s saw them drop back down to the [[Football League Fourth Division]] and almost go out of business. Success returned to the club in the early 1990s when they won two successive promotions and reached the [[FA Cup]] quarter finals in both of those seasons, and in 1992 they came close to becoming the first English team to win three successive Football League promotions which would have taken them into the newly created [[FA Premier League]]. But they were beaten in the playoffs and another decline set in, which was completed in 2005 when they were relegated from the Football League and for the second time in 20 years narrowly avoided going out of business. After nine years of non league football they returned to the Football League in 2014 by winning the [[Conference National]] playoffs.
+
+[[Cambridge City F.C.]] of the [[Southern Football League Premier Division]] now play in the adjoining village of [[Histon and Impington|Histon]]. Formed in Cambridge in 1908 as Cambridge Town, the club were [[Southern Premier League]] champions in 1962-63, the highest they have finished in the [[English football pyramid]]. After a legal dispute with their landlords,<ref>{{cite web|url = https://www.theguardian.com/football/2007/oct/03/newsstory.sport2|title = The supporters who took on a property developer and won|date = 3 October 2007|accessdate = 3 September 2014|website = The Guardian|publisher = |last = Conn|first = David}}</ref> the club left their home ground in Cambridge in order to [[groundshare]] with fellow Southern League Premier club  [[Histon F.C.]] in 2013-14 and intend to construct a new ground outside the city, in [[Sawston]].
+
+===Cricket===
+
+As well as being the home of the [[Cambridge Rules]] in football, Parker's Piece was used for [[first-class cricket]] matches from 1817 to 1864.<ref>{{cite web|url=https://cricketarchive.com/Archive/Grounds/11/375_f.html |title=List of first-class matches on Parker's Piece |publisher=Cricketarchive.com |accessdate=17 July 2010}}</ref> The University of Cambridge's Cricket ground, [[Fenner's]], is located in the city and is one of the home grounds for [[minor counties]] team [[Cambridgeshire CCC]].<ref>{{cite web |url=http://cambcounty.play-cricket.com/home/aboutUs.asp |title=About Us |publisher=Cambridgeshire CCC |accessdate=6 January 2009 |deadurl=yes |archiveurl=https://archive.is/20120717191057/http://cambcounty.play-cricket.com/home/aboutUs.asp |archivedate=17 July 2012 |df=dmy-all }}
+</ref> There are seven amateur cricket clubs within the city: Cambridge Granta, Camden, Cambridge St Giles, New Chesterton Institute, Fen Ditton, Romsey Town and Cherry Hinton.<ref>{{cite web |url= http://www.cambsca.co.uk|title=Cambridgeshire Cricket Association |publisher=Cambridgeshire CA|accessdate=5 October 2011}}</ref>
+
+===Rugby===
+The city is represented in both codes of [[Rugby football]]. [[Rugby Union]] club [[Cambridge R.U.F.C.]] were founded in 1923,<ref>{{cite news|last1=Jackson|first1=Steve|title=Cambridge RUFC season preview|url=http://news.bbc.co.uk/sport1/hi/rugby_union/7596431.stm|accessdate=16 September 2016|work=BBC Sport|publisher=BBC|date=5 September 2008}}</ref> and play in [[National League One]]<ref>{{cite news|last1=Taylor|first1=Mark|title=Familiar faces and new tests: Cambridge Rugby Club's National League One fixtures for 2016/17|url=http://www.cambridge-news.co.uk/familiar-faces-new-tests-cambridge-rugby-club-s/story-29350768-detail/story.html|accessdate=16 September 2016|work=Cambridge News|date=1 June 2016}}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> at their home ground, [[Grantchester Road]], in the southwest corner of the city. Cambridge Lions represent the city in [[rugby league]], and are members of [[East Men's League|East Rugby League]].<ref>{{cite news|title=Cambridge Lions suffer loss at Southend Spartans in East Rugby League|url=http://www.cambridge-news.co.uk/cambridge-lions-suffer-loss-southend-spartans/story-29402730-detail/story.html|accessdate=16 September 2016|work=Cambridge News|date=15 June 2016}}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> <!---[[Cambridge Eagles]] [[Rugby League]] team competed in the National Conference League East Section, but played their home games outside the city in Sawston. --->
+
+===Watersports===
+
+[[File:Cambridge MayBump2015 (pixinn.net).jpg|thumb|right|[[Bumps race]] on the [[River Cam]]]]
+The River Cam running through the city centre is used for boating. The University and its colleges are well known for [[Rowing (sport)|rowing]] and the [[Cambridgeshire Rowing Association]], formed in 1868, organises competitive rowing on the river outside of the University.<ref>
+{{cite web|url=http://www.cra-online.net/info/history/early.htm|title=Early CRA History|publisher=Cambridgeshire Rowing Association|accessdate=14 January 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20090519101519/http://www.cra-online.net/info/history/early.htm|archivedate=19 May 2009|df=dmy-all}}</ref> Rowing clubs based in the city include [[City of Cambridge Rowing Club|City of Cambridge RC]], [[Cambridge '99 Rowing Club|Cambridge '99 RC]], [[Cantabrigian Rowing Club|Cantabrigian RC]] and [[Rob Roy Boat Club|Rob Roy BC]]. Shallower parts of the Cam are used for recreational [[punt (boat)|punting]], a type of boating in which the craft is propelled by pushing against the river bed with a [[quant pole]].
+
+Cambridge Swimming Club, Cambridge Dive team, and City of Cambridge Water Polo Club are all based at Parkside Swimming Pool.<ref>{{cite web|title=Parkside Pools|url=https://www.cambridge.gov.uk/content/parkside-pools|publisher=Cambridge City Council|accessdate=20 April 2016}}</ref>
+
+===Other sports===
+
+Cambridge is home to two [[Real Tennis]] courts out of just 42 in the world at Cambridge University Real Tennis Club.<ref>{{cite web|url=http://www.curtc.net/ |title=Cambridge University Real Tennis Club |publisher=Curtc.net |accessdate=17 July 2010}}</ref> [[British American Football League]] club [[Cambridgeshire Cats]] play at Coldham's Common. Cambridge Royals are members of the [[British Baseball Federation]]'s Triple-A South Division.<ref>{{cite web | url=http://www.britishbaseball.org/news_article/show/613720?referrer_id=271910-news | title=Triple-A South, Double-A Central and Northern Conference 2016 schedules announced | publisher=British Baseball Federation | date=18 February 2016 | accessdate=12 October 2016}}</ref> Cambridge has two cycling clubs Team Cambridge<ref>{{cite web|url=http://www.team-cambridge.co.uk/ |title=Team Cambridge |publisher=Team Cambridge |accessdate=17 July 2010}}</ref> and Cambridge Cycling Club.<ref>{{cite web|url=http://www.cambridge-cycling-club.org.uk/ |title=Cambridge CC |publisher=Cambridge-cycling-club.org.uk |accessdate=17 July 2010}}</ref> [[Cambridge & Coleridge Athletic Club]]<ref>{{cite web|url=http://cambridgeandcoleridge.org.uk/|title=Cambridge & Coleridge AC official website}}</ref> is the city's track and field club, based at the University of Cambridge's Wilberforce Road track. Cambridge [[Handball]] Club compete in the men's England Handball National Super 8 League, and the women's England Handball National Super 7 League. The city is also represented in [[polo]] by Cambridge Polo Club, based in [[Barton, Cambridgeshire|Barton]], just outside the city. The Romsey Town Rollerbillies play [[roller derby]] in Cambridge.<ref>{{cite web |url=http://ukrda.org.uk// |title=Uk Roller Derby |publisher=Uk Roller Derby |accessdate=31 October 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20111024164540/http://ukrda.org.uk/ |archivedate=24 October 2011 |df=dmy-all }}</ref> Speedway racing was formerly staged at a greyhound stadium in Coldhams Lane.<ref>{{cite web|title=Cambridge Speedway|url=http://www.speedwayplus.com/Cambridge.shtml|website=www.speedwayplus.com|accessdate=20 September 2016}}</ref>
+
+===Varsity sports===
+
+Cambridge is also known for the sporting events between the [[University of Cambridge]] and the [[University of Oxford]], especially the rugby union [[The Varsity Match|Varsity Match]] and the [[Oxford and Cambridge Boat Race|Boat Race]], though many of these do not take place within Cambridge.
+
+==Culture==
+
+===Theatre===
+[[File:CambridgeCorn.jpg|thumb|upright|Cambridge Corn Exchange]]
+Cambridge's main traditional theatre is the [[Cambridge Arts Theatre|Arts Theatre]], a venue with 666 seats in the town centre.<ref>{{cite web|url=http://www.cambridgeartstheatre.com/ |title=Cambridge Arts Theatre Website |publisher=Cambridgeartstheatre.com |accessdate=17 July 2010}}</ref> The theatre often has touring shows, as well as those by local companies. The largest venue in the city to regular hold theatrical performances is the [[Cambridge Corn Exchange]] with a capacity of 1,800 standing or 1,200 seated. Housed within the city's 19th century former [[corn exchange]] building the venue was used for a variety of additional functions throughout the 20th century including [[Tea party (social gathering)|tea parties]], [[motor show]]s, sports matches and a music venue with temporary stage.<ref name=Cornexhist>{{cite web|url=http://www.cornex.co.uk/ccm/cornex/pages/virtualtour/history-of-the-cambridge-corn-exchange.en|archiveurl=https://web.archive.org/web/20080829124506/http://www.cornex.co.uk/ccm/cornex/pages/virtualtour/history-of-the-cambridge-corn-exchange.en|archivedate=29 August 2008|title=The History of the Cambridge Corn Exchange|publisher=Cambridge City Council|accessdate=2 March 2009}}</ref> The City Council renovated the building in the 1980s, turning it into a full-time arts venue, hosting theatre, dance and music performances.<ref name=Cornexhist/>
+<!--
+{{stereo image|image=Cambridge_Leisure_Park_RL.jpg|caption=Cambridge Leisure Park (The Junction is the building behind the signs).|width=640|height=160|swa =1}}
+-->
+The newest theatre venue in Cambridge is the 220-seat J2, part of [[Cambridge Junction]] in Cambridge Leisure Park. The venue was opened in 2005 and hosts theatre, dance, live music and comedy<ref>{{cite web|url=http://www.junction.co.uk/about-us/our-spaces |title=Our Spaces |work=junction.co.uk |quote=J2 is the venue for our theatre, dance, family theatre and comedy programme |accessdate=28 February 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120212004617/http://www.junction.co.uk/about-us/our-spaces |archivedate=12 February 2012 }}</ref> The [[ADC Theatre]] is managed by the University of Cambridge, and typically has 3 shows a week during term time. It hosts the [[Cambridge University Footlights Dramatic Club]] which has produced many notable figures in British comedy. The Mumford Theatre is part of [[Anglia Ruskin University]], and hosts shows by both student and non-student groups. There are also a number of venues within the colleges.
+
+===Museums===
+Within the city there are several notable museums, some run by the [[University of Cambridge Museums]] consortium and others independent of it.
+
+The [[Fitzwilliam Museum]] is the city's largest, and is the lead museum of the University of Cambridge Museums. Founded in 1816 from the bequeathment and collections of [[Richard FitzWilliam, 7th Viscount FitzWilliam|Richard, Viscount FitzWilliam]], the museum was originally located in the building of the [[Perse Grammar School]] in [[Free School Lane]].<ref name=Fitwilliam>{{cite journal|url=http://www.british-history.ac.uk/report.aspx?compid=66639|title=The University of Cambridge — The Fitzwilliam Museum|work= A History of the County of Cambridge and the Isle of Ely: Volume 3, the City and University of Cambridge|editor=J P C Roach|date=1959|pages=326–327}}</ref> After a brief housing in the University of Cambridge library, it moved to its current, purpose-built building on [[Trumpington Street]] in 1848.<ref name=Fitwilliam/> The museum has five departments: Antiquities; Applied Arts; Coins and Medals; Manuscripts and Printed Books; and Paintings, Drawings and Prints. Other members of the University of Cambridge Museums are the [[Museum of Archaeology and Anthropology, University of Cambridge|Museum of Archaeology and Anthropology]], [[Scott Polar Research Institute|The Polar Museum]], [[Sedgwick Museum of Earth Sciences|The Sedgwick Museum of Earth Sciences]], [[Museum of Classical Archaeology, Cambridge|Museum of Classical Archaeology]], [[Whipple Museum of the History of Science|The Whipple Museum of the History of Science]], and the [[Cambridge University Museum of Zoology|University Museum of Zoology]].
+
+The [[Museum of Cambridge]], formerly known as the Cambridge & County Folk Museum, is a [[social history]] museum located in a former pub on Castle Street.<ref>{{cite web|url=http://www.fensmuseums.org.uk/page_id__45.aspx|title=Museum of Cambridge: The life and history of the people of Cambridge|publisher=Fen Museum Partnership|accessdate=13 September 2016}}</ref> [[The Centre for Computing History]], a museum dedicated to the story of the [[Information age]], moved to Cambridge from [[Haverhill, Suffolk|Haverhill]] in 2013.<ref>{{cite news|title=Cambridge Centre of Computing History opens|url=https://www.bbc.co.uk/news/uk-england-cambridgeshire-23493348|accessdate=13 September 2016|work=BBC News|date=30 July 2013}}</ref> Housed in a former sewage pumping station, the [[Cambridge Museum of Technology]] has a collection of large exhibits related to the city's [[industrial heritage]].
+
+===Music===
+
+====Popular music====
+[[Pink Floyd]] are the most notable band with roots in Cambridge. The band's former songwriter, guitarist and vocalist [[Syd Barrett]] was born and lived in the city, and he and another founding member, [[Roger Waters]], went to school together at [[Cambridgeshire High School for Boys]]. [[David Gilmour]], the guitarist who replaced Barrett, was also a Cambridge resident and attended the nearby [[Perse School]]. Bands who were formed in Cambridge include [[Clean Bandit]], [[Henry Cow]], [[The Movies (band)|The Movies]], [[Katrina and the Waves]], [[The Soft Boys]],<ref>{{Allmusic|class=artist|id=p5472|label=The Soft Boys}}</ref> [[Ezio (band)|Ezio]]<ref>{{Allmusic|class=artist|id=p165353|label=Ezio}}</ref> [[The Broken Family Band]],<ref>{{cite web|url=http://www.xfm.co.uk/artists/the-broken-family-band/biography|title=The Broken Family Band biography|publisher=www.xfm.co.uk|accessdate=13 August 2008|deadurl=yes|archiveurl=https://web.archive.org/web/20081220143638/http://www.xfm.co.uk/artists/the-broken-family-band/biography|archivedate=20 December 2008|df=dmy-all}}</ref> [[Uncle Acid & the Deadbeats]],<ref>{{cite web|last=Rivadavia|first=Eduardo|title=Uncle Acid and the Deadbeats: Blood Lust|url=http://www.allmusic.com/album/blood-lust-mw0002264930|work=[[AllMusic]]|accessdate=2 June 2013}}</ref> and the pop-classical group [[King's Singers]], who were formed at the University.<ref>{{cite web|url=http://www.kingssingers.com/about.php?startid=9 |title=The Official Kings Singers Website :History |first= |last= |work=kingssingers.com |year=2012 |quote=The group takes its name from King's College Cambridge, where Martin Lane, Al Hume, Alastair Thompson, Richard Salter, Simon Carrington and Brian Kay were choral scholars. |accessdate=25 February 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20111010165008/http://kingssingers.com/about.php?startid=9 |archivedate=10 October 2011 }}</ref> Solo artist [[Boo Hewerdine]]<ref>{{Allmusic|class=artist|id=p85801|label=Boo Hewerdine}}</ref> is from Cambridge, as are [[drum and bass]] artists (and brothers) [[Nu:Tone]] and [[Logistics (artist)|Logistics]]. Singers [[Matthew Bellamy]],<ref>{{cite news |url= https://www.telegraph.co.uk/culture/music/music-news/8176141/Muse-profile-of-the-band.html |title=Muse: profile of the band |first=David |last=Cheal |newspaper=The Daily Telegraph|date=13 April 2001 |accessdate=28 February 2012 |location=London}}</ref> of the rock band [[Muse (band)|Muse]], [[Tom Robinson]],<ref>{{cite news|title = Tom Robinson is showing a new generation the power of the protest song|url = https://www.independent.co.uk/arts-entertainment/music/features/tom-robinson-singer-shows-new-generation-the-power-of-the-protest-song-in-his-first-album-for-20-10467604.html|website = The Independent|access-date = 11 February 2016|language = en-GB}}</ref> and [[Olivia Newton-John]]<ref>{{cite web |url= http://www.olivia-newtonjohn.com/olivia-newton-john/bio.php |title=Biography |publisher=www.olivia-newtonjohn.com |accessdate=9 December 2008}}</ref> were born in the city. 2012 [[Mercury Prize]] winners [[Alt-J]] are based in Cambridge.<ref>{{cite web|last=Jane |first=Sarah |url=https://www.bbc.co.uk/news/entertainment-arts-20176215 |title=BBC News – Mercury Prize: Alt-J album An Awesome Wave wins award |publisher=Bbc.co.uk |date=2 November 2012 |accessdate=26 March 2013}}</ref>
+
+Live music venues hosting popular music in the city include the [[Cambridge Corn Exchange]], [[Cambridge Junction]] and the Portland Arms.
+
+===Contemporary art===
+Cambridge contains the [[Kettle's Yard]] gallery and the artist run organisations Aid and Abet, Cambridge Art Salon, and Changing Spaces.<ref>{{cite web|last1=Collins|first1=Ruthie|title=Cambridge art scene: change in the air|url=https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2013/jan/03/cambridge-art-scene-galleries-change|website=The guardian|publisher=Guardian Media Group|accessdate=20 April 2016|date=3 January 2013}}</ref> [[Wysing Arts Centre]], one of the leading research centres for the visual arts in Europe, is associated with the city, though is located several miles west of Cambridge.<ref>{{cite web |url=http://www.cultunet.com/es/recursos-culturales/convocatorias/wysing-arts-centre-programme-of-artists-residencies-cambridge |archive-url=https://web.archive.org/web/20140429192943/http://www.cultunet.com/es/recursos-culturales/convocatorias/wysing-arts-centre-programme-of-artists-residencies-cambridge |dead-url=yes |archive-date=29 April 2014 |title=cultunet |publisher=cultunet.com |date=3 December 2012 |accessdate=3 February 2013 }}</ref> Anglia Ruskin University operates the publicly accessible Ruskin Gallery within the Cambridge School of Art.<ref>{{cite web|title=About the gallery|url=http://www.anglia.ac.uk/arts-law-and-social-sciences/ruskin-gallery/about-the-gallery|publisher=Anglia Ruskin University|accessdate=18 May 2016}}</ref>
+
+===Festivals and events===
+[[File:Strawberry Fair 2007, Cambridge - geograph.org.uk - 460832.jpg|thumb|Strawberry Fair]]
+Several fairs and festivals take place in Cambridge, mostly during the British summer. [[Midsummer Common|Midsummer Fair]] dates back to 1211, when it was granted a charter by [[John, King of England|King John]].<ref>{{cite web|url=http://www.sheffield.ac.uk/nfa/researchandarticles/cambridgefair|title=Cambridge Midsummer Fair|accessdate=26 April 2016|publisher=National Fairground Archive, [[University of Sheffield]]}}</ref> Today it exists primarily as an annual [[travelling funfair|funfair]] with the vestige of a market attached and is held over several days around or close to [[midsummers day]]. On the first Saturday in June Midsummer Common is the site for [[Strawberry Fair]], a free music and children's fair, with various market stalls. For one week in May, on [[Jesus Green]], the annual [[Cambridge Beer Festival]] has been held since 1974.<ref>{{cite web|url=http://www.cambridgebeerfestival.com |title=Cambridge & District CAMRA Winter Ale Festival 2010 |publisher=Cambridgebeerfestival.com |accessdate=13 January 2010}}</ref>
+
+[[Cambridge Folk Festival]] is held annually in the grounds of [[Cherry Hinton Hall]]. The festival has been organised by the city council since its inception in 1964. The Cambridge Summer Music Festival is an annual festival of classical music, held in the University's colleges and chapels.<ref>{{cite web|url=http://www.gramophone.co.uk/festivals/cambridge-summer-music-festival|title=Cambridge Summer Music Festival|publisher=The Gramophone|accessdate=20 October 2010}}</ref> The [[Cambridge Shakespeare Festival]] is an eight-week season of open-air performances of the works of [[William Shakespeare]], held in the gardens of various colleges of the university.<ref>{{cite web |url= http://www.cambridgeshakespeare.com/about/ |title=About the Festival  |publisher= The Cambridge Shakespeare Festival |accessdate=27 February 2012}}</ref> Started in 1977, the [[Cambridge Film Festival]] was held annually in July, moving to September in 2008 to avoid a clash with the rescheduled [[Edinburgh Film Festival]].<ref>{{cite web |url=http://www.festivalfocus.org/festival_view.php?uid=1024 |title=Cambridge Film Festival |publisher=Festival Focus |accessdate=21 July 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080702060335/http://www.festivalfocus.org/festival_view.php?uid=1024 |archivedate=2 July 2008 |df=dmy-all }}</ref>
+
+The [[Cambridge Science Festival]], typically held annually in March, is the United Kingdom's largest free [[science festival]].<ref name="bbc">{{cite web|title=University of Cambridge Science Festival 2011|publisher=BBC News|url=http://bbc.co.uk/news/uk-england-cambridgeshire-12759607|accessdate=21 March 2015}}</ref> Between 1975 and 1985 the [[Cambridge Poetry Festival]] was held binannually.<ref>
+{{cite web
+ |url        = http://www.manifold.group.shef.ac.uk/issue9/AlisonBlairUnderwoodPR9.html
+ |title      = Open account - A memoir: the Cambridge Poetry Festival
+ |last       = Blair-Underwood
+ |first      = Alison
+ |year       = 2012
+ |work       = Blackbox Manifold, Issue 9: Peter Robinson at Sixty
+ |publisher  = Blackbox Manifold
+ |accessdate = 6 June 2013}}</ref> Other festivals include the annual Mill Road Winter Fair, held the first Saturday of December,<ref>{{Cite news|url=https://www.cambridge-news.co.uk/whats-on/cambridge-mill-road-fair-christmas-13958797|title=All you need to know about the 2017 Mill Road Winter Fair|last=Rabbett|first=Abigail|date=2017-12-01|work=cambridgenews|access-date=2018-05-31}}</ref> the E-luminate Festival, which has taken place every November since 2013,<ref>{{cite news |last1=Rabbett |first1=Abigail |title=Cambridge News |url=https://www.cambridge-news.co.uk/whats-on/music-nightlife-news/eluminate-festival-cambridge-when-light-12547526 |accessdate=31 May 2018 |agency=Local World |date=17 Jan 2018}}</ref> and The Big Weekend, is a city outdoor event organised by the City Council every July.<ref>{{cite web |title=Big Weekend |url=https://www.visitcambridge.org/whats-on/major-festivals-and-events/the-big-weekend |website=Visit Cambridge |publisher=Cambridge City Council |accessdate=31 May 2018}}</ref>
+
+===Literature and film===
+{{See also|University of Cambridge in popular culture}}
+The city has been the setting for all or part of several novels, including [[Douglas Adams]]' ''[[Dirk Gently's Holistic Detective Agency]]'', [[Rose Macaulay]]'s ''[[They Were Defeated]]'',<ref>{{Cite news |url= http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=EP19321224.2.33.5 |title=They were defeated |newspaper=Evening Post |location =Wellington, NZ |page=7 |date=24 December 1932 |accessdate=7 October 2010}}</ref> [[Kate Atkinson]]'s ''[[Case Histories]]'',<ref>{{cite news |url= https://www.telegraph.co.uk/culture/books/3622947/A-daily-sense-of-danger.html |title= A Daily Sense of Danger – ''Case Histories'' by Kate Atkinson |newspaper=The Daily Telegraph |first=Katie |last=Owen |date=29 August 2004 |accessdate=25 February 2011 |location=London}}</ref> [[Rebecca Stott]]'s ''Ghostwalk''<ref>{{cite web |url= http://www.bbc.co.uk/radio4/womanshour/03/2007_12_fri.shtml |title=Woman's Hour -Rebecca Stott on 'Ghostwalk' |publisher=BBC Radio 4 |year=2012 |accessdate=25 February 2012}}</ref> and [[Robert Harris (novelist)|Robert Harris]]'s ''Enigma'',<ref>{{cite book |author=Chainey, Graham |title=A Literary History of Cambridge|location=Cambridge|origyear=1985|year=1995|isbn=0-907115-25-X}}</ref><ref>{{cite book|author= Garrett, Martin |title=Cambridge: a Cultural and Literary History|location=Oxford|year=2004|isbn=1-902669-79-7}}</ref> while [[Susanna Gregory]] wrote a series of novels set in 14th century Cambridge.<ref>{{cite web |url= http://www.literaturewales.org/writers-of-wales/i/130359/desc/gregory-susanna/ |title= GREGORY, SUSANNA &#124; List of Writers |work= literaturewales.org |accessdate= 25 February 2012 |deadurl= yes |archiveurl= https://web.archive.org/web/20130831223859/http://www.literaturewales.org/writers-of-wales/i/130359/desc/gregory-susanna/ |archivedate= 31 August 2013 |df= dmy-all }}</ref> [[Gwen Raverat]], the granddaughter of [[Charles Darwin]], talked about her late Victorian Cambridge childhood in her memoir ''[[Period Piece (book)|Period Piece]]'' and ''[[The Night Climbers of Cambridge]]'' is a book written by [[Noel Symington]] under the pseudonym "Whipplesnaith" about nocturnal climbing on the colleges and town buildings of Cambridge in the 1930s.<ref>{{cite web|url=http://cucc.survex.com/archive/jnl/1983/roof.htm|title=Some References to Cambridge Night Climbing|accessdate=26 August 2010|archive-url=https://web.archive.org/web/20090209213416/http://cucc.survex.com/archive/jnl/1983/roof.htm|archive-date=9 February 2009|dead-url=yes|df=dmy-all}}</ref>
+
+Fictionalised versions of Cambridge appear in [[Philippa Pearce]]'s ''[[Tom's Midnight Garden]]'' and ''[[Minnow on the Say]]'', the city renamed as Castleford, and as the home of [[Tom Sharpe]]'s fictional college in ''[[Porterhouse Blue]]''.<ref>{{cite book |url= https://books.google.com/books?id=plfdVgJoEVoC&pg=PA167 |title=No equal in the world: an interpretation of the academic presidency |first=Joseph N. |last=Crowley |publisher=University of Nevada Press |location =Reno, NV |year=1994 |isbn=978-0-87417-237-9 |page=167 |accessdate=25 February 2012}}</ref>
+
+[[ITV (TV network)|ITV]] TV series [[Grantchester (TV series)|''Granchester'']] was partly filmed in Cambridge.<ref>{{cite web |title=Grantchester – Drama Series Hits ITV 1 |url=https://www.visitcambridge.org/things-to-do/film-and-tv-locations-to-visit/grantchester-tv-series |website=Visit Cambridge |publisher=Cambridge City Council |accessdate=31 May 2018}}</ref>
+
+==Public services==
+[[File:Addenbrooke's hospital.JPG|thumb|[[Addenbrooke's Hospital]]]]
+Cambridge is served by [[Cambridge University Hospitals NHS Foundation Trust]], with several smaller medical centres in the city and a [[teaching hospital]] at [[Addenbrooke's Hospital|Addenbrooke's]]. Located on the [[Cambridge Biomedical Campus]], Addenbrooke's is one of the largest hospitals in the United Kingdom and is a designated regional [[trauma centre]].
+
+The East of England Ambulance Service covers the city and has an ambulance station on Hills Road.<ref>{{cite web|url=http://www.nhs.uk/ServiceDirectories/Pages/Trust.aspx?id=RYC&v=6 |accessdate=28 September 2009 |title=East of England Ambulance Service NHS Trust |publisher=National Health Service |deadurl=yes |archiveurl=https://web.archive.org/web/20110927125551/http://www.nhs.uk/ServiceDirectories/Pages/Trust.aspx?id=RYC&v=6 |archivedate=27 September 2011 }}</ref> The smaller Brookfields Hospital stands on Mill Road.<ref>{{cite web|url=http://www.nhs.uk/ServiceDirectories/Pages/Hospital.aspx?id=5PP33 |archive-url=http://webarchive.nationalarchives.gov.uk/20090413225533/http://www.nhs.uk/ServiceDirectories/Pages/Hospital.aspx?id=5PP33 |dead-url=yes |archive-date=13 April 2009 |title=Brookfields Hospital |publisher=National Health Service |accessdate=28 September 2009 }}</ref> [[Cambridgeshire Constabulary]] provides the city's policing; the main police station is at [[Parkside, Cambridge|Parkside]],<ref>{{cite web |url=http://www.cambs-police.co.uk/contactus/maps.asp |title=Contact us |publisher=Cambridgeshire Constabulary |accessdate=28 September 2009 }}</ref> adjacent to the city's [[fire station]], operated by [[Cambridgeshire Fire and Rescue Service]].<ref>{{cite web|url=http://www.cambsfire.gov.uk/about/parkside.php |title=Cambridge fire station |publisher=Cambridgehsire Fire and Rescue |accessdate=28 September 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090928063131/http://www.cambsfire.gov.uk/about/parkside.php |archivedate=28 September 2009 }}</ref>
+
+[[Cambridge Water Company]] supplies water services to the city,<ref>{{cite web |url= http://www.cambridge-water.co.uk/home/about-us |title= About Us |publisher= Cambridge Water Company |year= 2012 |accessdate= 26 February 2012 |archive-url= https://web.archive.org/web/20120224213521/http://www.cambridge-water.co.uk/home/about-us |archive-date= 24 February 2012 |dead-url= yes |df= dmy-all }}</ref> while [[Anglian Water]] provides [[sewerage]] services.<ref>{{cite web|url=http://www.cambridge-water.co.uk/about_you/charges.asp |title=About you: water charges |publisher=Cambridge Water |accessdate=28 September 2009 |quote="Anglian Water supply your sewerage services. Cambridge Water bills and collects on behalf of Anglian Water." |deadurl=yes |archiveurl=https://web.archive.org/web/20090916212341/http://www.cambridge-water.co.uk/about_you/charges.asp |archivedate=16 September 2009 }}</ref> For the supply of electricity, Cambridge is part of the [[East of England]] region, for which the [[distribution network operator]] is [[UK Power Networks]].<ref>{{cite web |url= http://www.nationalgrid.com/uk/Electricity/AboutElectricity/DistributionCompanies/ |title=National Grid: Distribution Network Operator (DNO) Companies |first= |last= |work=nationalgrid.com |year=2012 |quote=Distribution Network Operator (DNO) Companies |accessdate=26 February 2012}}</ref> The city has no power stations, though a five-metre wind turbine, part of a [[Cambridge Regional College]] development, can be seen in [[King's Hedges]].<ref>{{cite web |url=http://www.building.co.uk/story.asp?storycode=3107979 |title=The SmartLIFE Sustainable Skills Centre in Cambridge |accessdate=28 September 2009 |publisher=Building.co.uk |first=Will |last=Jones |date=6 March 2008}}</ref>
+
+Following the [[Public Libraries Act 1850]] the city's first public library, located on Jesus Lane, was opened in 1855.<ref name="Roach116-122">{{cite web |url=http://www.british-history.ac.uk/report.aspx?compid=66616 |title=The city of Cambridge: Public buildings |editor= Roach, J.P.C. |publisher=Institute of Historical Research |year=1959 |work=A History of the County of Cambridge and the Isle of Ely: Volume 3: The City and University of Cambridge |accessdate=19 July 2011}}</ref> It was moved to the Guildhall in 1862,<ref name="Roach116-122"/> and is now located in the [[Grand Arcade (Cambridge)|Grand Arcade]] shopping centre. The library was reopened in September 2009,<ref name="libopen">{{Cite news|title=Revamped Central Library ready to open |url=http://www.cambridge-news.co.uk/cn_news_home/displayarticle.asp?id=451672 |newspaper=Cambridge News |accessdate=28 September 2009 |date=25 September 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20120926033441/http://www.cambridge-news.co.uk/cn_news_home/displayarticle.asp?id=451672 |archivedate=26 September 2012 }}</ref> after having been closed for refurbishment for 33 months, more than twice as long as was forecast when the library closed for redevelopment in January 2007.<ref name="libopen"/><ref>{{Cite news|url=http://www.cambridge-news.co.uk/cn_news_home/DisplayArticle.asp?ID=408967 |title=Library is hit by new delay fear |date=17 April 2009 |first=Chris |last=Elliott |newspaper=Cambridge News |accessdate=28 September 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20120926033500/http://www.cambridge-news.co.uk/cn_news_home/DisplayArticle.asp?ID=408967 |archivedate=26 September 2012 }}</ref> As of 2018 the city contains six public libraries, run by the County Council.<ref>{{Cite news|url=https://www.cambridgeshire.gov.uk/residents/libraries-leisure-&-culture/libraries/find-a-library/|title=Find a library|work=Cambridgeshire County Council|access-date=2018-02-09|language=en}}</ref>
+
+The [[Cambridge City Cemetery]] is located to the north of [[Newmarket Road, Cambridge|Newmarket Road]].
+
+==Religion==
+[[File:CambridgeTownCentre.jpg|thumb|right|[[St Mary the Great with St Michael, Cambridge|Great St Mary's Church]] marks the centre of Cambridge, while the [[Senate House (University of Cambridge)|Senate House]] on the left is the centre of the University. [[Gonville and Caius College]] is in the background.]]
+Cambridge has a [[List of churches in Cambridge|number of churches]], some of which form a significant part of the city's architectural landscape. Like the rest of Cambridgeshire it is part of the [[Anglican]] [[Diocese of Ely]].<ref>{{cite web|url=http://www.elydiocese.org/who-we-are1/a-brief-history-of-the-diocese-of-ely/|accessdate=26 April 2016|title=A brief history of the Diocese of Ely|website=The Church Of England Diocese Of Ely|deadurl=yes|archiveurl=https://web.archive.org/web/20160513231910/http://www.elydiocese.org/who-we-are1/a-brief-history-of-the-diocese-of-ely/|archivedate=13 May 2016|df=dmy-all}}</ref> A Cambridge-based family and youth organisation, [[Romsey Mill]], had its centre re-dedicated in 2007 by the [[Archbishop of York]], and is quoted as an example of best practice in a study<ref>{{cite web|url=http://www.eera.gov.uk/Documents/About%20EERA/Policy/Social%20Inclusion/rss_chapter3.pdf |title=EERA 61 Social Strategy |publisher=[[East of England Regional Assembly]] |accessdate=17 July 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110606050507/http://www.eera.gov.uk/Documents/About%20EERA/Policy/Social%20Inclusion/rss_chapter3.pdf |archivedate=6 June 2011 |df=dmy }}</ref> into [[social inclusion]] by the [[East of England Regional Assembly]].
+
+[[St Mary the Great with St Michael, Cambridge|Great St Mary's Church]] has the status of "University Church".<ref>{{cite web|url=http://www.gsm.cam.ac.uk/great-st-marys/|archive-url=https://archive.is/20120801173303/http://www.gsm.cam.ac.uk/great-st-marys/|dead-url=yes|archive-date=1 August 2012|title=Great St Mary's|publisher=Great St Mary's Ministry|accessdate=21 March 2012}}</ref> Many of the University colleges contain chapels that hold services according to the rites and ceremonies of the [[Church of England]], while the chapel of [[St Edmund's College, Cambridge|St Edmund's College]] is Roman Catholic.<ref>{{cite web|url=http://www.st-edmunds.cam.ac.uk/life/chapel/index.php |title=Chapel |publisher=St Edmund's College, Cambridge |date=12 May 2008 |accessdate=17 October 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080923132344/http://www.st-edmunds.cam.ac.uk/life/chapel/index.php |archivedate=23 September 2008 }}</ref> The city also has a number of [[Cambridge Theological Federation|theological colleges]] training clergy for [[ordination]] into a number of denominations, with affiliations to both the University of Cambridge and [[Anglia Ruskin University]].
+
+Cambridge is in the Roman Catholic [[Diocese of East Anglia]] and is served by the large [[Gothic Revival]] [[Our Lady and the English Martyrs Church]] at the junction of Hills Road and Lensfield Road, [[St Laurence's Church, Cambridge|St Laurence's]] on Milton Road, St Vincent De Paul Church on Ditton Lane and by the church of St Philip Howard, in Cherry Hinton Road.<ref>{{cite web|url = http://www.catholicdirectory.org/Catholic_Information.asp?ID=868|title = Diocese of East Anglia|date = |accessdate = 6 January 2015|website = Catholic Directory|publisher = |last = |first = }}</ref> There is a [[Moscow Patriarchate|Russian Orthodox]] church under the [[Russian Orthodox Diocese of Sourozh|Diocese of Sourozh]] who worship at the chapel of [[Westcott House, Cambridge|Westcott House]],<ref>{{cite web |url= http://www.sourozh.org/parishes-eng/ |title=Parishes&nbsp;– Diocese of Sourozh|publisher=[[Russian Orthodox Diocese of Sourozh]]|accessdate=21 March 2012}}</ref> and the [[Greek Orthodox Church]] holds services at the church St Athanasios under the [[Archdiocese of Thyateira and Great Britain]].<ref>{{cite web |url= http://www.thyateira.org.uk/index.php?option=com_content&task=view&id=225&Itemid=136 |title= The Greek Orthodox Church of St. Anthanasius and St. Clement |publisher= [[Greek Orthodox Archdiocese of Thyateira and Great Britain]] |accessdate=21 March 2012}}</ref> There are three [[Quaker]] Meetings in Cambridge, located on Jesus Lane, Hartington Grove, and a Meeting called "Oast House" that meets in Pembroke College.<ref>{{cite web|url=http://www.cambridge-quakers.org.uk/ |title=Quakers in Cambridge |publisher=Cambridge Quakers |accessdate=21 March 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20110725104136/http://www.cambridge-quakers.org.uk/ |archivedate=25 July 2011 }}</ref>
+
+An [[Orthodox Judaism|Orthodox]] synagogue and Jewish student centre is located on Thompson's Lane, operated jointly by the [[Cambridge Traditional Jewish Congregation]] and the [[Cambridge University Jewish Society]], which is affiliated to the [[Union of Jewish Students]].<ref>{{cite web |url= http://www.ctjc.org.uk|title=Welcome to CTJC|publisher=Cambridge Traditional Jewish Congregation|quote=We share our shul building with the students, who run Shabbat services during term-time.|accessdate=28 February 2012}}</ref><ref>{{cite web|url=http://www.ujs.org.uk/jsocs/view/271/cambridge-university/ |title=Cambridge University &#124; Union of Jewish Students |publisher=Cambridge University Union of Jewish Students |quote=The Cambridge Traditional Jewish Congregation hold Orthodox services at Thompsons Lane which are run by the students during term time and the residents in the vacation. |accessdate=28 February 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120726021846/http://www.ujs.org.uk/jsocs/view/271/cambridge-university/ |archivedate=26 July 2012 }}</ref> The Beth Shalom [[Reform Judaism|Reform]] synagogue which previously met at a local school,<ref>{{cite news |url= http://news.bbc.co.uk/local/cambridgeshire/hi/people_and_places/religion_and_ethics/newsid_8609000/8609693.stm |title=Home of its own: Cambridge Synagogue has a new base|work=BBC News|date=12 April 2010|accessdate=28 February 2012}}</ref> has recently opened a purpose-built synagogue.<ref>{{cite web|url=http://www.beth-shalom.org.uk/index.php?option=com_content&task=view&id=100&Itemid=100 |title=Beth Shalom Reform Synagogue&nbsp;– Cambridge&nbsp;– A New Synagogue|work=beth-shalom.org.uk|quote=Our new Synagogue and Community Centre is an environmentally-friendly, economical and flexible space...|accessdate=16 July 2016}}</ref> There is also a student-led egalitarian [[minyan]] which holds services on Friday evenings.
+
+The [[Abu Bakr Jamia Islamic Centre]] on Mawson Road and the Omar Faruque Mosque and Cultural Centre in Kings Hedges<ref>{{cite web |url= http://www.salatomatic.com/d/Cambridge+17159+Omar-Faruque-Mosque-and-Cultural-Centre/?msg=9 |title=Omar Faruque Mosque and Cultural Centre |publisher= Salatomatic |accessdate=20 July 2010}}</ref> serve the city's community of around 4,000 Muslims until a planned new mosque is built.<ref>{{cite news|url=http://www.cambridge-news.co.uk/cn_news_home/displayarticle.asp?id=312719 |title=Mosque site hunt is over |first=Rachel |last=Extance |newspaper=[[Cambridge News]] |date=6 May 2008 |accessdate=21 March 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20090105221743/http://www.cambridge-news.co.uk/cn_news_home/displayarticle.asp?id=312719 |archivedate=5 January 2009 }}</ref>
+
+A [[Buddhism|Buddhist]] centre was opened in the former [[Theatre Royal, Barnwell, Cambridge|Barnwell Theatre]] on Newmarket Road in 1998.<ref>{{cite web |url= http://www.cambridgebuddhistcentre.com/cbc/CBC_history.php |title=History of the Barnwell or Festival Theatre |publisher= Cambridge Buddhist Centre |accessdate=13 January 2010}}</ref> A [[Hinduism|Hindu]] shrine was opened in 2010 at the Bharat Bhavan Indian cultural centre off [[Mill Road, Cambridge|Mill Road]].<ref>{{cite web|url=http://www.iccacambridge.co.uk/home|title=The Indian Community and Culture Association of Cambridge (ICCA),|work=Bharat Bhavan Indian cultural centre|accessdate=3 March 2012|archive-url=https://web.archive.org/web/20120519091507/http://www.iccacambridge.co.uk/home|archive-date=19 May 2012|dead-url=yes|df=dmy-all}}</ref><ref>{{cite web|url=http://www.iccacambridge.co.uk/hall-hire/shrine|title=The Shrine|work=Bharat Bhavan Indian cultural centre|accessdate=3 March 2012|archive-url=https://web.archive.org/web/20120519091704/http://www.iccacambridge.co.uk/hall-hire/shrine|archive-date=19 May 2012|dead-url=yes|df=dmy-all}}</ref>
+
+==Twinned cities==
+Cambridge is [[Twin towns and sister cities|twinned]] with two cities. Like Cambridge, both have universities and are also similar in population; [[Heidelberg]], Germany since 1965,<ref name=twintown>{{cite web|url=http://www.heidelberg.de/servlet/PB/menu/1123761_l1/index.html |title=Twinning |publisher=City of Heidelberg |accessdate=12 November 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20060718022609/http://www.heidelberg.de/servlet/PB/menu/1123761_l1/index.html |archivedate=18 July 2006 }}</ref> and [[Szeged]], Hungary since 1987.<ref name=twintown/>
+
+==Panoramic gallery==
+{{wide image|Cambridge-1.jpg|800px|[[Trinity Street, Cambridge|Trinity Street]]}}
+{{wide image|Panoramic View of Cambridge.jpg|800px|[[King's Parade]]}}
+{{wide image|Panoramic view of Cambridge.jpg|800px|[[Silver Street, Cambridge|Silver Street]]}}
+{{wide image|Panoramic view of Cambridge 02.jpg|800px|[[Quayside, Cambridge|Quayside]]}}
+{{wide image|Cambridge Panorama.jpg|800px|Cambridge skyline}}
+{{wide image|Panorama of Kings Parade in Cambridge, UK, at St. Mary's.jpg|800px|Cambridge King's Parade at St Mary's}}
+[[File:Panorama of Cambridge City Centre.jpg|alt= Panorama of Cambridge City Centre, viewed from the tower of Great St. Mary's|center|thumb|upright=3.65|Panorama of Cambridge City Centre, viewed from the tower of Great St. Mary's]]
+
+==See also==
+{{Portal|England}}
+* [[:Category:People from Cambridge]]
+* [[List of bridges in Cambridge]]
+* ''[[Cambridge News]]''
+* [[Cambridgeshire Archives and Local Studies]]
+* [[:Category:Buildings and structures in Cambridge]]
+* [[:Category:Organisations based in Cambridge]]
+{{Clear}}
+
+==References==
+;Notes
+{{Reflist}}
+
+==Further reading==
+{{See also|Timeline of Cambridge#Bibliography|l1=Bibliography of the history of Cambridge}}
+*{{Citation |publisher = Macmillan & Bowes |publication-place = Cambridge |title = A catalogue of books printed at or relating to the University, town & county of Cambridge, from 1521 to 1893 |url = http://openlibrary.org/books/OL23284674M/A_catalogue_of_books_printed_at_or_relating_to_the_University_town_county_of_Cambridge_from_1521_to_ |author = Bowes, Robert |publication-date = 1894 |oclc = 1064186 |accessdate = 13 September 2016 }}
+* [[Tim Rawle|Rawle, Tim]] (author and photographer), [[John Adamson (publisher)|John Adamson]] (editor). ''[[Cambridge (book)|Cambridge]]'' (new ed. with foreword by William Bortrick). Cambridge: [[Oxbridge Portfolio|The Oxbridge Portfolio]] (2016), 204 pp. {{ISBN|978-0-9572867-2-6}}
+
+==External links==
+{{Wikiquote}}
+{{Commons category|Cambridge}}
+{{wikivoyage|Cambridge (England)|Cambridge}}
+*[https://www.cambridge.gov.uk/ Cambridge City Council]
+*[http://www.camplus.co.uk/webcam.htm The Cambridge Market Place Webcam]
+*[http://calh.org.uk/ Cambridgeshire Association for Local History]
+*[http://ccan.co.uk/ Cambridgeshire Community Archives ]
+*[http://www.visitcambridge.org/ The official tourism website for Cambridge]
+{{Cambridgeshire}}
+{{East of England}}
+{{UK cities}}
+{{Coord|52.205|0.119|region:GB_type:city(110000)|display=title}}
+{{Use dmy dates|date=February 2018}}
+
+{{Authority control}}
+
+[[Category:Cambridge| ]]
+[[Category:Pages including recorded pronunciations (UK English)]]
+[[Category:Cities in the East of England]]
+[[Category:County towns in England]]
+[[Category:University towns in the United Kingdom]]
+[[Category:Non-metropolitan districts of Cambridgeshire]]
+[[Category:Local government districts of the East of England]]

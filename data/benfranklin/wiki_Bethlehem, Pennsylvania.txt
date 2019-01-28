@@ -1,0 +1,551 @@
+{{Use mdy dates|date=September 2015}}
+{{Infobox settlement
+|official_name = Bethlehem, Pennsylvania
+|settlement_type = City
+|nicknames = The Christmas City,<ref>{{cite web | title = Welcome to the Christmas City | publisher = ChristmasCity.org website | url = http://www.christmascity.org/ | accessdate = March 22, 2009}}</ref> The Steel City
+|
+|website = [http://www.bethlehem-pa.gov/ bethlehem-pa.gov]
+|image_skyline = Bethlehem PA Photo Collage.jpg
+|imagesize = 
+|image_caption = 
+|image_flag = 
+|image_seal = Bethlehem PA seal.png
+|image_map = File:Northampton County Pennsylvania Incorporated and Unincorporated areas Bethlehem Highlighted.svg
+|mapsize = 
+|map_caption = Location of Bethlehem in Northampton County, Pennsylvania.
+|pushpin_map = Pennsylvania#USA
+|pushpin_label_position = left
+|pushpin_label = Bethlehem
+|pushpin_map_caption = Location in Pennsylvania
+|pushpin_mapsize = 
+|subdivision_type = Country
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_type2 = [[List of counties in Pennsylvania|Counties]]
+|subdivision_name = United States
+|subdivision_name1 = [[Pennsylvania]]
+|subdivision_name2 = [[Lehigh County, Pennsylvania|Lehigh]] and [[Northampton County, Pennsylvania|Northampton]]
+|government_type = [[Mayor-council government|Mayor-Council]]
+|leader_title = Mayor
+|leader_name = Robert J. Donchez
+|established_title = Founded
+|established_date = December 24, 1741
+|area_magnitude = 
+|unit_pref       = Imperial
+|area_total_sq_mi = 15.05
+|area_total_km2 = 38.99
+|area_land_sq_mi = 14.80
+|area_land_km2 = 38.34
+|area_water_sq_mi = 0.25
+|area_water_km2 = 0.65
+|area_urban_sq_mi = 289.50
+|area_urban_km2 = 749.79
+|area_metro_sq_mi = 730.0
+|area_metro_km2 = 1174.82
+|population_as_of = [[2010 United States Census|2010]]
+|population_note = 
+|population_total = 74,982
+|population_metro = 740395
+|population_urban = 576408
+|population_density_km2 = 1448.83
+|population_density_sq_mi = 3752.55
+|timezone = [[North American Eastern Time Zone|EST]]
+|utc_offset = -5
+|timezone_DST = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = -4
+|coordinates     = {{coord|40|37|34|N|75|22|32|W|region:US-PA|display=inline,title}}
+|elevation_m = 109.728
+|elevation_ft = 360
+|footnotes = 
+|postal_code_type = [[ZIP Code]]s
+|postal_code = 18015-18018
+|area_code = [[Area codes 610 and 484|610 and 484]]
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 75293
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 42-06088
+|area_footnotes = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_42.txt|publisher=United States Census Bureau|accessdate=Aug 14, 2017}}</ref>
+}}
+ <!-- Infobox ends !-->
+
+'''Bethlehem''' is a city in [[Lehigh County, Pennsylvania|Lehigh]] and [[Northampton County, Pennsylvania|Northampton]] counties in the [[Lehigh Valley]] region of the eastern portion of the [[U.S. state]] of [[Pennsylvania]]. The city is named after the Palestinian city Bethlehem that is located in the West Bank. As of the 2010 census, the city had a total population of 74,982, making it the seventh largest city in Pennsylvania, after [[Philadelphia]], [[Pittsburgh]], [[Allentown, Pennsylvania|Allentown]], [[Erie, Pennsylvania|Erie]], [[Reading, Pennsylvania|Reading]], and [[Scranton, Pennsylvania|Scranton]].<ref>[http://2010.census.gov/news/releases/operations/cb11-cn74.html.csv U.S. Census Bureau, 2010. Retrieved 25 March 2011.]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Of this, 55,639 were in Northampton County, and 19,343 were in Lehigh County.
+
+Bethlehem lies in the center of the Lehigh Valley, a region of <span style="white-space:nowrap">{{convert|731|sqmi|abbr=on}}</span> that is home to more than 800,000 people.  Together with Allentown and [[Easton, Pennsylvania|Easton]], the Valley embraces the '''Allentown-Bethlehem-Easton, PA-NJ metropolitan area''', including Lehigh, Northampton, and [[Carbon County, Pennsylvania|Carbon]] counties within Pennsylvania, and [[Warren County, New Jersey|Warren County]] in the adjacent state of [[New Jersey]]. Smaller than Allentown but larger than Easton, Bethlehem is the Lehigh Valley's second most populous city. In turn, this [[metropolitan area]] comprises Pennsylvania's third-largest metropolitan area and the state's largest and most populous contribution to the greater [[New York metropolitan area|New York City metropolitan area]].
+
+There are four general sections of the city: central Bethlehem, the south side, the east side, and the west side. Each of these sections blossomed at different times in the city's development and each contains areas recognized under the [[National Register of Historic Places]]. ZIP codes that use the address Bethlehem totaled 116,000 in population in the year 2000. These ZIP codes include [[Bethlehem Township, Northampton County, Pennsylvania|Bethlehem Township]] and [[Hanover Township, Northampton County, Pennsylvania|Hanover Township]].
+
+The [[Norfolk Southern Railway]]'s [[Lehigh Line (Norfolk Southern)|Lehigh Line]] (formerly the main line of the [[Lehigh Valley Railroad]]), runs through Bethlehem heading east to [[Easton, Pennsylvania]] and [[Phillipsburg, New Jersey]] across the Delaware River. The Norfolk Southern Railway's [[Reading Line]] runs through Bethlehem heading west to Allentown and Reading.
+
+In July 2006, ''[[Money (magazine)|Money]]'' magazine placed Bethlehem as number 88 on its "Top 100 Best Places to Live."<ref>{{cite news| url=http://money.cnn.com/magazines/moneymag/bplive/2006/top100/index4.html | work=CNN | title=MONEY Magazine: Best places to live 2006: Top 100 76–100}}</ref>
+
+== History ==
+[[File:Colonial Industrial Quarter-Bethlehem, Pa..jpg|thumb|left|The Colonial Industrial Quarter on the east bank of Monocacy Creek in Bethlehem.]]
+The areas along the Delaware River and its tributaries in eastern Pennsylvania were long inhabited by [[indigenous peoples]] of various cultures.  By the time of European contact, these areas were the historic territory of the [[Algonquian languages|Algonquian]]-speaking [[Lenape Nation]], which had three main divisions, the [[Unami people|Unami]], [[Unalachtigo Lenape|Unalachtigo]], and [[Munsee people|Munsee]].  They traded with the Dutch and then English colonists in the mid-Atlantic area.
+
+On Christmas Eve in 1741, [[David Nitschmann der Bischof|David Nitschmann]] and Count Nicolaus von [[Zinzendorf]], leading a small group of [[Moravian Church|Moravians]], founded the [[Mission (Christian)|mission]] community of Bethlehem along the banks of the [[Monocacy Creek (Lehigh River)|Monocacy Creek]] by the [[Lehigh River]] in the colony of [[Pennsylvania]]. They came to set up missionary communities among the Native Americans and unchurched German-speaking Christians. They named the settlement after the Biblical town [[Bethlehem]] of [[Judea (Roman province)|Judea]], the birthplace of Jesus. "Count Zinzendorf said, 'Brothers, how more fittingly could we call our new home than to name it in honor of the spot where the event we now commemorate took place. We will call this place Bethlehem.' And so was Bethlehem named after the birthplace of the Man of Peace.'" (from a letter by Gordon Dent to Mr. T. Donald Bain March 3, 1965 quoting from "Story of Bethlehem Steel" by Arundel Cotter, more details are given in this article) Originally it was a typical Moravian Settlement Congregation, where the Church owned all the property.  Until the 1850s, supposedly only members of the Moravian Church were permitted to lease land plots in Bethlehem. However, a member of a group of families that were part of a [[Huguenot]] settlement in the [[Delaware River Valley]] also landed in Bethlehem, and a decade or two before 1800 had established grist and saw mills known as Calvin's Mills. One member of this family was part of the Bethlehem Township council from 1798 to 1802.<ref name="Calvin">{{cite book|last=Calvin|first=Claude|title=The Calvin Families|publisher=University of Wisconsin|date=1945|url=https://babel.hathitrust.org/cgi/pt?id=wu.89062866439;view=1up;seq=1|p=59}}</ref> The historic Brethren's House, Sisters' House, Widows' House and ''[[Gemeinhaus-Lewis David De Schweinitz Residence|Gemeinhaus]]'' (Congregation House) with the Old Chapel are remnants of this period of communal living.<ref>{{cite web|title=Exploring the Religious History of the Lehigh Valley at the Moravian Historical Society Museum|url=https://uncoveringpa.com/moravian-historical-society-museum|website=Uncovering PA|accessdate=25 December 2017}}</ref>
+
+The Moravians ministered to regional Lenape [[Indigenous peoples of the Americas|Native Americans]] through their mission in the area, as well as further east in the New York colony.  In the historic Bethlehem [[God's Acre]] cemetery, converted Lenape lie buried alongside the Moravians.
+
+In 1762, Bethlehem built the first water-works in America to pump water for public use. While [[George Washington]] and his troops stayed in [[Valley Forge]], Washington stored his personal effects at the farm of James Burnside in Bethlehem – {{as of | 1998 | lc = on}} a historical museum (Burnside Plantation).<ref>{{cite web|url=http://www.tnonline.com/archives/news/1998_weeklies/09.23/lehigh/briefs.html|archiveurl=https://web.archive.org/web/20040709174002/http://www.tnonline.com/archives/news/1998_weeklies/09.23/lehigh/briefs.html|title=weekly news briefs|archivedate=July 9, 2004|work=tnonline.com}}</ref>
+
+The prosperous village was incorporated into a free borough in the County of Northampton in 1845.  After the Unity Synod of 1848, Bethlehem became the headquarters of the Northern Province of the Moravian Church in North America.<ref>[http://www.moravian.org/history/ "Moravian Church in North America: Our History"] {{webarchive |url=https://web.archive.org/web/20080829134130/http://www.moravian.org/history/ |date=August 29, 2008 }}</ref>
+
+On March 27, 1900, [[the Bach Choir of Bethlehem]] presented the United States debut of German [[Lutheran]] [[Johann Sebastian Bach]]'s [[Mass in B Minor]] in the city's Central Moravian Church.
+
+=== Boroughs merge ===
+After the [[American Civil War|Civil War]] the Borough of South Bethlehem was formed. In 1886 the Borough of West Bethlehem (in Lehigh County) was formed. In 1904, the Boroughs of West Bethlehem (in Lehigh County) and Bethlehem (in Northampton County) merged. In 1917, the Borough of South Bethlehem and Bethlehem merged to become the City of Bethlehem, with Archibald Johnston (1865-1948) selected as the new city's first mayor. [[Bethlehem Township, Pennsylvania]] has remained a separate political entity. Even after the merger of the two boroughs, the bureau initially provided a count for the original sections.
+
+{| class="wikitable " border="1" style="margin: 1em auto 1em auto"
+|+ Populations of the Municipalities named '''Bethlehem'''													
+|-													
+!	Census	!!	All Three <br>boroughs	!!	South<br> Bethlehem	!!	Original<br>Bethlehem	!!	West<br> Bethlehem	!!	Bethlehem & <br> West Bethlehem	!!	Bethlehem <br>Township
+|-													
+|	1850	||		||	-----	||	1,516	||	-----	||		||	-----
+|-													
+|	1860	||		||	-----	||	2,868	||	-----	||		||	-----
+|-													
+|	1870	||		||	3,556	||	4,512	||	-----	||		||	2,230
+|-													
+|	1880	||		||	4,925	||	5,193	||	-----	||		||	2,282
+|-													
+|	1890	||	19,823	||	10,302	||	6,762	||	2,759	||	9,521	||	2,397
+|-													
+|	1900	||	23,999	||	13,241	||	7,293	||	3,465	||	10,758	||	3,090
+|-													
+|	1910	||	32,810	||	19,973	||	8,365	||	4,472	||	12,837	||	3,414
+|}
+
+=== Bethlehem Steel ===
+[[File:Bethlehem steel c.1896.jpg|thumb|right|The [[Blast furnace]]s of Bethlehem Steel seen in a panoramic view from the north bank of the [[Lehigh River]]. South Mountain is in the distance. (c. 1896).]]
+
+Bethlehem became a center of heavy industry and trade during the [[industrial revolution]]. The [[Bethlehem Steel|Bethlehem Steel Corporation]] (1857–2003), founded and based in Bethlehem, was once the second-largest steel producer in the United States, after [[Pittsburgh, Pennsylvania]]-based [[U.S. Steel]]. Bethlehem Steel was also one of the largest [[shipbuilding]] companies in the world and one of the most powerful symbols of American industrial manufacturing leadership.
+
+Bethlehem Steel began producing the first wide-flange structural shapes made in the United States and they pioneered the production of the now-ubiquitous "I-beam" used in construction of steel-framed buildings, including skyscrapers. It manufactured construction materials for numerous New York and other city skyscrapers, as well as for major bridges.
+
+The company became a major supplier of [[armor]] plate and ordnance products during [[World War I]] and [[World War II]], including the manufacture of 1,100 [[warship]]s. After roughly 140 years of metal production at its Bethlehem plant, Bethlehem Steel ceased operations there in 1995, in the face of overseas competition and declining demand.
+
+=== Christmas star ===
+{{Unreferenced section|date=March 2011}}
+
+On December 7, 1937, at a grand ceremony during the [[Great Depression]], Mrs. Marion Brown Grace pulled a large switch to turn on the new Christmas street lights and a large wooden star. Mrs. Grace was the daughter of former South Bethlehem burgess, Charles F. Brown, and wife of Eugene Grace, President of [[Bethlehem Steel]] Corporation. Hundreds of citizens attended the ceremony and thousands more listened to the speeches and musical performances on the radio. This was the first year the Bethlehem [[Chamber of Commerce]] adopted the nickname "Christmas City, USA".
+
+[[File:Star of Bethlehem Main Street 2382px.jpg|thumb|The star of Bethlehem viewed from Main Street at night, in 2007. The Hotel Bethlehem is located on the right side of the street.]]
+The Hotel Bethlehem was chosen for the ceremony because it was built on the site of the first building in Bethlehem – a two-room log house – where on Christmas Eve 1741, the original settlers conducted their evening worship. As their benefactor, Count Zinzendorf, observed the farm animals that shared the space and listened to them sing the hymn, "Not Jerusalem, But Lowly Bethlehem", he proclaimed the name of the settlement to be Bethlehem. The people gathered at the 1937 ceremony heard the same words when the Bach Choir sang the old German hymn, "Jesu, Rufe Mich (Jesus, Call Thou Me)", by Adam Drese.
+
+The ''Bethlehem Globe-Times'' paid for the large wooden star erected on the top of South Mountain, at a cost of $460. The original star was created with four wooden planks, overlapped to create an eight-point star, 60 feet high by 51 feet wide, mounted on two wooden poles, and lit by 150 50-watt light bulbs. The installation of the star was done by [[PPL (utility)|Pennsylvania Power and Light]] and the Bethlehem Water Department. The star was erected on the top of South Mountain, on property owned by the Water Department, located in Lower Saucon Township.
+
+In 1939, the wooden star was replaced with a star made of Bethlehem steel, at a cost of $5,000. It had eight rays, with the main horizontal ray 81 feet wide and the main vertical ray 53 feet high. In 1967, the current star, 91 feet high, was installed on the old steel frame and set in a concrete base 25 feet wide by 5 feet deep. Plexiglas was installed to protect the 250 50-watt light bulbs. In the summer of 2006, the city repaired the base. A crew of municipal electricians changes the bulbs every two years.  Beginning in the mid-1990s, the star was lit from 4:30&nbsp;p.m. until midnight, every day of the year.
+
+During World War II, from 1941 to 1945, none of the Christmas decorations in Bethlehem were lit. City officials said the lit star made "too good of an air raid target"{{Citation needed|date=March 2011}} and "during the global strife it didn't seem right for the lights to be all lit up when our boys were out in the darkness fighting for us".{{Citation needed|date=March 2011}} When lit, the star can be seen from as far as Wind Gap, {{convert|20|mi|km}} away. The star has become an important symbol for Bethlehem.
+
+== Geography ==
+[[File:Lehigh River Bethlehem.jpg|thumb|left|The [[Lehigh River]] in Bethlehem in 2007.]]
+[[File:Monocacy Creek Bethlehem.jpg|thumb|right|[[Monocacy Creek (Lehigh River)|Monocacy Creek]] near downtown Bethlehem in 2007.]]
+According to the [[United States Census Bureau]], the city has a total area of {{convert|19.4|sqmi|km2}}, of which, {{convert|19.3|sqmi|km2}} of it is land and {{convert|0.2|sqmi|km2}} of it (0.88%) is water. Bethlehem is about {{convert|50|mi|km}} north of [[Philadelphia]] and about {{convert|80|mi|km}} west of [[New York City]].
+
+Because large volumes of water were required in the steelmaking process, the city purchased <span style="white-space:nowrap">{{convert|22,000|acre}}</span> of land in the [[Pocono Mountains]], where its water is stored in reservoirs.
+
+=== Climate ===
+Bethlehem has a [[humid continental climate]] (''Dfa''). Summers are typically hot and humid, fall and spring are generally mild, and winter is cold. Precipitation is distributed throughout the year, with thunderstorms in the summer, showers in spring and fall, and snow in winter. The average high temperature varies widely, from {{convert|36|°F|°C}} in January to {{convert|84|°F|°C}} in July. The highest recorded temperature was {{convert|105|°F|°C}}, while the lowest recorded temperature was {{convert|-16|°F|°C}}.
+
+Bethlehem falls under the [[USDA]] 6b Plant [[Hardiness zone]].<ref>{{cite web
+ |url      = http://planthardiness.ars.usda.gov/PHZMWeb/#
+ |title      = USDA Plant Hardiness Zone Map
+ |author      = Agricultural Research Center, PRISM Climate Group Oregon State University
+ |website      = USDA
+ |accessdate      = February 24, 2014
+ |deadurl      = yes
+ |archiveurl      = https://web.archive.org/web/20140227032333/http://planthardiness.ars.usda.gov/PHZMWeb/
+ |archivedate      = February 27, 2014
+ |df      = mdy-all
+ }}</ref>
+
+{{Weather box|width=auto
+|location = Bethlehem
+|single line = Y
+|Jan record high F = 72
+|Feb record high F = 76
+|Mar record high F = 87
+|Apr record high F = 94
+|May record high F = 97
+|Jun record high F = 100
+|Jul record high F = 105
+|Aug record high F = 105
+|Sep record high F = 99
+|Oct record high F = 93
+|Nov record high F = 81
+|Dec record high F = 72
+|year record high F= 105
+|Jan high F = 36
+|Feb high F = 40
+|Mar high F = 49
+|Apr high F = 61
+|May high F = 72
+|Jun high F = 80
+|Jul high F = 84
+|Aug high F = 82
+|Sep high F = 75
+|Oct high F = 64
+|Nov high F = 53
+|Dec high F = 41
+|year high F=
+|Jan low F = 19
+|Feb low F = 22
+|Mar low F = 29
+|Apr low F = 39
+|May low F = 48
+|Jun low F = 58
+|Jul low F = 63
+|Aug low F = 61
+|Sep low F = 53
+|Oct low F = 41
+|Nov low F = 33
+|Dec low F = 24
+|year low F=
+|Jan record low F = −16
+|Feb record low F = −12
+|Mar record low F = −5
+|Apr record low F = 12
+|May record low F = 29
+|Jun record low F = 39
+|Jul record low F = 38
+|Aug record low F = 41
+|Sep record low F = 31
+|Oct record low F = 19
+|Nov record low F = 3
+|Dec record low F = −9
+|year record low F= −16
+|Jan precipitation inch = 3.03
+|Feb precipitation inch = 2.80
+|Mar precipitation inch = 3.39
+|Apr precipitation inch = 3.56
+|May precipitation inch = 4.14
+|Jun precipitation inch = 4.31
+|Jul precipitation inch = 4.95
+|Aug precipitation inch = 3.69
+|Sep precipitation inch = 4.62
+|Oct precipitation inch = 3.88
+|Nov precipitation inch = 3.50
+|Dec precipitation inch = 3.58
+|year precipitation inch= 45.45
+|source 1 = The Weather Channel<ref>{{cite web|title=Monthly Averages for Bethlehem, PA|url=http://www.weather.com/outlook/travel/businesstraveler/wxclimatology/monthly/USPA0125|accessdate=August 3, 2013|archive-url=https://web.archive.org/web/20140305081702/http://www.weather.com/outlook/travel/businesstraveler/wxclimatology/monthly/USPA0125|archive-date=March 5, 2014|dead-url=yes|df=mdy-all}}</ref>
+|date=August 2013
+}}
+
+== Cityscape ==
+
+=== Neighborhoods ===
+[[File:Bethlehem Pa 1935 LOC fsa 8c52905.jpg|thumb|right|South Bethlehem in 1935, looking north to houses and [[Bethlehem Steel]]]]
+Bethlehem is divided into four main areas: Center City, West Side, East Side, and South Side.  The West Side is located in Lehigh County, while the other three neighborhoods are located in Northampton county.
+* Center City is bounded by the Monocacy Creek to the west, [[Hanover Township, Northampton County, Pennsylvania|Hanover]] and [[Bethlehem Township, Northampton County, Pennsylvania|Bethlehem]] townships (both [[Northampton County, Pennsylvania|Northampton County]]) to the north, and Stefko Boulevard to the east.
+* The West Side begins at the city's western border with [[Allentown, Pennsylvania|Allentown]] and continues east to the Monocacy Creek and north to [[Hanover Township, Lehigh County, Pennsylvania|Hanover Township (Lehigh County)]].
+**The Mount Airy Neighborhood is bounded by Pennsylvania Ave to the west, W. Broad St to the north, 2nd Ave to the east and the [[Lehigh River]] to the south.
+* The East Side is bordered to the west by Center City and to the east by Bethlehem Township and [[Freemansburg, Pennsylvania|Freemansburg]]. The East Side includes the [[Pembroke Village]] area.
+* The South Side's borders are [[Fountain Hill, Pennsylvania|Fountain Hill]] to the west, the [[Lehigh River]] to the north, [[South Mountain (eastern Pennsylvania)|South Mountain]] to the south, and [[Hellertown]] to the east.
+
+== Demographics ==
+{{US Census population
+|1850= 1516
+|1860= 2866
+|1870= 4512
+|1880= 5193
+|1890= 6762
+|1900= 7293
+|1910= 12837
+|1920= 50358
+|1930= 57892
+|1940= 58490
+|1950= 66340
+|1960= 75408
+|1970= 72686
+|1980= 70419
+|1990= 71428
+|2000= 71329
+|2010= 74982
+|estyear=2016
+|estimate=75293
+|estref=<ref name="USCensusEst2016">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2016.html|title=Population and Housing Unit Estimates|accessdate=June 9, 2017}}</ref>
+|footnote=Sources:<ref name="USDecennialCensus">{{cite web|title=Census of Population and Housing|url=https://www.census.gov/prod/www/decennial.html|publisher=U.S. Census Bureau|accessdate=December 11, 2013|deadurl=yes|archiveurl=https://www.webcitation.org/6YSasqtfX?url=http://www.census.gov/prod/www/decennial.html|archivedate=May 12, 2015|df=mdy}}</ref><ref name="GR2">{{cite web|url=http://factfinder2.census.gov|publisher=[[United States Census Bureau]]|accessdate=January 31, 2008|title=American FactFinder|deadurl=yes|archiveurl=https://web.archive.org/web/20130911234518/http://factfinder2.census.gov/|archivedate=September 11, 2013|df=mdy}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|accessdate=December 11, 2013|deadurl=yes|archiveurl=https://www.webcitation.org/6HQu4Spqa?url=http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archivedate=June 17, 2013|df=mdy}}</ref>
+}}
+
+As of the census<ref name="GR2" /> of 2010, there were 74,982 people residing in the city. There were 31,221 housing units, with 5.9% vacant.  The racial makeup of the city was 76.4% [[White (U.S. Census)|White]], 6.9% [[African American (U.S. Census)|African American]], 0.3% [[Native American (U.S. Census)|Native American]], 2.9% [[Asian (U.S. Census)|Asian]], 0.0% [[Pacific Islander (U.S. Census)|Pacific Islander]], 10.0% from [[Race (United States Census)|other races]], and 3.4% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 24.4% of the population.
+
+As of the census<ref name="GR2" /> of 2000, there were 71,329 people residing in the city, including 17,094 families and 28,116 households. The population density was 3,704.4 people per square mile (1,429.9/km²). There were 29,631 housing units at an average density of 1,538.8 per square mile (594.0/km²). The racial makeup of the city was 81.85% [[White (U.S. Census)|White]], 3.64% [[African American (U.S. Census)|African American]], 0.26% [[Native American (U.S. Census)|Native American]], 2.22% [[Asian (U.S. Census)|Asian]], 0.03% [[Pacific Islander (U.S. Census)|Pacific Islander]], 9.44% from [[Race (United States Census)|other races]], and 2.56% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 18.23% of the population.
+There were 28,116 households, out of which 26.3% had children under the age of 18 living with them, 44.1% were married couples living together, 12.8% had a female householder with no husband present, and 39.2% were non-families. 32.3% of all households were made up of individuals, and 14.4% had someone living alone who was 65 years of age or older. The average household size was 2.34 and the average family size was 2.95.
+
+In the city, the population was spread out, with 21.0% under the age of 18, 14.4% from 18 to 24, 26.6% from 25 to 44, 20.1% from 45 to 64, and 17.9% who were 65 years of age or older. The median age was 36 years. For every 100 females, there were 91.5 males. For every 100 females age 18 and over, there were 88.6 males.
+
+The median income for a household in the city was $35,815, and the median income for a family was $45,354. Males had a median income of $35,190 versus $25,817 for females. The per capita income for the city was $18,987. About 11.1% of families and 15.0% of the population were below the poverty line, including 20.7% of those under age 18 and 8.8% of those age 65 or over.
+
+The city is served by [[Lehigh Valley International Airport]], which also serves [[Allentown, Pennsylvania]] and the greater Lehigh Valley.
+
+== Economy ==
+{{See also|Transportation in the Lehigh Valley}}
+In December 2006, [[Las Vegas Sands Corp]] was awarded a Category 2 Slot Machine License by the [[Pennsylvania Gaming Control Board]]. LVSC began work on the site, categorized as both the largest [[brownfield]] redevelopment project in the nation and the largest casino development investment made to date in the Commonwealth. Its mission was to create reinvestment and urbanization in the area. At a projected cost of $743 million, the historic [[Bethlehem Steel]] plant is being redeveloped as a fully integrated [[resort]], to include 3,000 slot machines, over 300 hotel rooms, 9 restaurants, {{convert|200000|sqft|m2}} of retail outlet shopping, and {{convert|46000|sqft|m2}} of flexible multi-purpose space.<ref>{{cite web|url=http://www.pasands.com/about/default.aspx|archive-url=https://web.archive.org/web/20090512030742/http://www.pasands.com/about/default.aspx|dead-url=yes|archive-date=May 12, 2009|title=Sands Casino - Resort - Bethlehem|date=May 12, 2009|publisher=}}</ref> In 2007, the casino resort company of [[Las Vegas Sands]] began the construction of [[Sands Casino Resort Bethlehem]]. The Sands Casino has been projected to bring in approximately one million dollars in revenue per day as of 2009.
+
+Another major economic anchor to the city is [[St. Luke's University Health Network|St. Luke's Hospital]] located in neighboring Fountain Hill. That Hospital and Health Network is the second largest of its type in the [[Lehigh Valley]]. Other major employers include [[B. Braun Melsungen|B. Braun]], [[Lehigh University]], and [[the Guardian Life Insurance Company of America]].<ref>{{cite web|url=http://www.greaterlehighvalleyrealtors.com/about-the-lehigh-valley/top-25-lehigh-valley-employers|title=Top 25 Greater Lehigh Valley Employers - GLVR|publisher=|access-date=September 26, 2015|archive-url=https://web.archive.org/web/20150927170755/http://www.greaterlehighvalleyrealtors.com/about-the-lehigh-valley/top-25-lehigh-valley-employers|archive-date=September 27, 2015|dead-url=yes|df=mdy-all}}</ref>
+
+Other companies in Bethlehem include the candy company [[Just Born]].
+
+===Shopping===
+[[File:Bethlehem Pennsylvania Main Street.jpg|thumb|right|Main Street, downtown Bethlehem, 2007]]
+Over the past two decades, many shops and restaurants have opened in the city's downtown and South Side.<ref name=Chamber2010 /> In the mid-1970s, West Broad Street between New and Guetter Streets in center city was converted to a pedestrian plaza. The buildings on the south side of the block were torn down and replaced by an enclosed mall and 11-story office tower.<ref name=Lehigh>{{cite web|url=http://digital.lib.lehigh.edu/cdm4/beyond_viewer.php?CISOPTR=21471&ptr=21511&searchworks=search_0__621&DMTHUMB=1|title=Beyond Steel: Past Revitalization Efforts|publisher=[[Lehigh University]]|access-date=2017-12-01}}</ref> The tower, at One Bethlehem Plaza on the corner of Broad and New, continues to operate, but the 80,000-square-foot mall, which was erected in response to the development of suburban shopping malls, failed. Since then, the block has been reopened to traffic, and the mall has been converted into offices for PowerSchool, a major software company based in California, and the [[Internal Revenue Service]].<ref name=PowerSchool>{{Citation|last=Salamone|first=Anthony|title=Bethlehem's SunGard K-12 sold in $850M deal|newspaper=[[The Morning Call]]|date=February 2, 2017|url=http://www.mcall.com/business/retail/mc-allentown-moravian-book-shop-closing-20170512-story.html|access-date=2017-12-01}}</ref><ref name=Lehigh />
+
+In recent years, retail business in downtown Bethlehem, particularly along Main Street south of Broad, has experienced a renaissance, based on the city's historic character.<ref name=LATimes>{{Citation|last=Zimmerman|first=Karl|title=Bethlehem, Pa.'s German Christmas tradition|newspaper=[[Los Angeles Times]]|date=December 25, 2011|url=http://articles.latimes.com/2011/dec/25/travel/la-tr-bethlehem-20111225|access-date=2017-12-01}}</ref> The two-block shopping area is anchored by Moravian College's Main Street Campus and Central Moravian Church at the southern end and The Bethlehem Commons indoor mall and historic Sun Inn (1758) at its northern end. In between, numerous boutiques have opened, selling artwork, gifts, clothing, antiques, crafted beverages, gourmet foods, jewelry, hand cut crystal, holiday decorations, and other specialties.<ref name=Downtown>{{cite web|url=https://getdowntownbethlehem.com/get-the-style/|title=Get Downtown and Experience Bethlehem: Shopping and Salons|publisher=Downtown Bethlehem Association|access-date=2017-12-01}}</ref> Among the blocks' additional attractions are the [[Moravian Book Shop]] (1745), the country's oldest continuously operating bookstore, and the historic Hotel Bethlehem (1922).<ref name=Downtown /><ref name=Publishers>{{Citation|last=High|first=John|title=PW: Centenarian Booksellers II|newspaper=[[Publishers Weekly]]|date=August 14, 2000|url=https://www.publishersweekly.com/pw/print/20000814/19127-pw-centenarian-booksellers-ii.html|access-date=2017-12-01}}</ref> Meanwhile, on the city's South Side, stores and restaurants have sprung up on Third and Fourth Streets, largely because of the presence of Lehigh University but also tied to the opening of the Sands Casino and the development of the SteelStacks Arts and Cultural campus.<ref name=Chamber2010>{{cite web|url=http://www.bethlehempa.org/docs/Guide_2010-revwebsite.pdf|title=Bethlehem Pennsylvania Guide, July 2010-July 2011|publisher=Greater Lehigh Valley Chamber of Commerce|access-date=2017-12-01}}</ref><ref name=UrbanLand>{{cite web|url=https://casestudies.uli.org/steelstacks-arts-and-cultural-campus/|title=SteelStacks Arts and Cultural Campus|publisher=[[Urban Land Institute]]|access-date=2017-12-01}}</ref>
+
+Outside the center city there are several shopping centers:
+* [[Westgate Mall (Bethlehem)|Westgate Mall]], on Schoenersville Road, is an enclosed mall anchored by [[The Bon-Ton]] department store and [[Weis Markets]].
+* Lehigh Center Shopping Center, on Union Boulevard near the Allentown border, includes [[Marshalls|Marshalls/HomeGoods]], [[Staples Inc.|Staples]], [[Giant-Carlisle|Giant]] supermarket, and [[Big Lots]].
+* Martin Court Shopping Center, on Eighth Avenue near Rt. 378, has [[Lowe's]] and [[PriceRite]].
+* Stefko Boulevard Shopping Center, between Washington and Easton Avenues, includes Valley Farm Market, [[Dollar Tree]], VIA Thrift Store, [[Pennsylvania Liquor Control Board|Pennsylvania Wine and Spirits]], J's Steaks and Subs, and [[Meadows Frozen Custard|The Meadows Frozen Custard]].
+* Bethlehem Squares shopping center, on the edge of the city in [[Bethlehem Township, Northampton County, Pennsylvania|Bethlehem Township]], has [[Giant-Carlisle|Giant]] supermarket, [[TJMaxx]], [[Wal-Mart]], and [[The Home Depot]].
+
+==Infrastructure==
+===Transportation===
+[[Interstate 78 in Pennsylvania|Interstate 78]] passes to the south of Bethlehem and has access to the city at an interchange with [[Pennsylvania Route 412]]. [[U.S. Route 22 in Pennsylvania|U.S. Route 22]] passes to the north of Bethlehem on the Lehigh Valley Thruway and has access to the city at interchanges with [[Pennsylvania Route 378]], Schoenersville Road, [[Pennsylvania Route 512]] (Center Street), and [[Pennsylvania Route 191]] (Linden Street). PA 378 runs north-south through Bethlehem, passing through the southern part of the city on Wyandotte Street, crossing the [[Lehigh River]] on the [[Hill to Hill Bridge]], and heading through the northern part of the city on a freeway to US 22. PA 412 enters Bethlehem from the south at an interchange with I-78 on the border with [[Hellertown, Pennsylvania|Hellertown]] and runs north and west through the southern part of the city to its northern terminus at PA 378.<ref name=PennDOTLehigh>{{cite map|publisher=[[Pennsylvania Department of Transportation|PennDOT]]|title=Lehigh County, Pennsylvania Highway Map|url=http://www.dot7.state.pa.us/BPR_pdf_files/Maps/GHS/Roadnames/lehigh_GHSN.PDF|year=2015|accessdate=January 23, 2016}}</ref><ref name=PennDOTNorthampton>{{cite map|publisher=[[Pennsylvania Department of Transportation|PennDOT]]|title=Northampton County, Pennsylvania Highway Map|url=http://www.dot7.state.pa.us/BPR_pdf_files/Maps/GHS/Roadnames/Northampton_GHSN.PDF|year=2015|accessdate=January 17, 2016}}</ref>
+
+[[Lehigh and Northampton Transportation Authority|LANTA]] provides local bus service in Bethlehem, serving points in the city and providing connections to [[Allentown, Pennsylvania|Allentown]], [[Easton, Pennsylvania|Easton]], the [[Lehigh Valley Mall]], and other points in the Lehigh Valley. The Bethlehem Transportation Center at Broad and Guetter streets serves as a transit hub for LANTA buses in Bethlehem.<ref>{{cite map|title=System Map|publisher=LANTA|url=http://www.lantabus.com/wp-content/uploads/2016/09/05sep2016_system_map_jpeg_3000px.jpeg|accessdate=February 14, 2018}}</ref> [[Bieber Transportation Group]] and [[Trans-Bridge Lines]] provide intercity bus service in Bethlehem, stopping at the Bethlehem Transportation Center and the [[Sands Casino Resort Bethlehem]] bus terminal. Bieber Transportation Group provides service to the [[Philadelphia Greyhound Terminal]] in [[Philadelphia]], [[Midtown Manhattan]] in [[New York City]], and [[Reading, Pennsylvania|Reading]].<ref>{{cite web|title=Daily Bus Service to Philadelphia, PA|publisher=Bieber Transportation Group|date=January 8, 2017|url=http://www.biebergroup.com/philadelphia|accessdate=February 6, 2017}}</ref><ref>{{cite web|title=Daily Bus Service to New York City, NY|publisher=Bieber Transportation Group|date=January 8, 2017|url=http://www.biebergroup.com/new-york-city|accessdate=February 6, 2017}}</ref> Trans-Bridge Lines provides service from Bethlehem to [[Port Authority Bus Terminal]] in New York City along two routes, one of which runs from Allentown and Bethlehem to New York City and the other which runs from Bethlehem to New York City via [[Doylestown, Pennsylvania]] and [[Flemington, New Jersey]]<ref>{{cite web|title=Allentown/Clinton/New York Route/Bethlehem Transportation Center to New York City|publisher=Trans-Bridge Lines|date=June 4, 2018|url=http://transbridgelines.com/schedules/schedules-eff-june-2018/BethlehemEastDivided.pdf|accessdate=August 27, 2018|archive-url=https://web.archive.org/web/20180828134401/http://transbridgelines.com/schedules/schedules-eff-june-2018/BethlehemEastDivided.pdf|archive-date=August 28, 2018|dead-url=yes|df=mdy-all}}</ref><ref>{{cite web|title=Doylestown/Flemington/New York Route/Bethlehem Transportation Center to New York City|publisher=Trans-Bridge Lines|date=June 4, 2018|url=http://transbridgelines.com/schedules/schedules-eff-june-2018/DoylesBethlehemEast.pdf|accessdate=August 27, 2018|archive-url=https://web.archive.org/web/20180828071247/http://transbridgelines.com/schedules/schedules-eff-june-2018/DoylesBethlehemEast.pdf|archive-date=August 28, 2018|dead-url=yes|df=mdy-all}}</ref>
+
+Freight rail service in Bethlehem is provided by the [[Norfolk Southern Railway]] and [[Lehigh Valley Rail Management]]. Norfolk Southern Railway operates the [[Lehigh Line (Norfolk Southern)|Lehigh Line]] through the city along the Lehigh River, with the [[Reading Line]] splitting from the Lehigh Line in Bethlehem.<ref name=PennDOTLehigh/><ref name=PennDOTNorthampton/> Bethlehem formerly had passenger rail service at the [[Bethlehem Union Station]], which originally served the [[Lehigh Valley Railroad]] and [[Reading Company]] and had service along [[SEPTA]]'s [[Bethlehem Line]] south to Philadelphia until 1981, when service was cut back to [[Quakertown, Pennsylvania|Quakertown]] and later [[Lansdale, Pennsylvania|Lansdale]]. The [[Central Railroad of New Jersey]] formerly provided passenger rail service to the city at the [[Bethlehem station (Central Railroad of New Jersey)|Bethlehem station]].
+
+The [[Lehigh Valley International Airport]] is located northwest of Bethlehem and provides commercial air service to the area.
+
+===Utilities===
+Electricity in Bethlehem is provided by [[PPL Electric Utilities]].<ref>{{cite web|title=Service Area|publisher=PPL Electric Utilities|url=https://www.pplelectric.com/utility/about-us/about-ppl-electric-utilities/service-area.aspx|accessdate=August 20, 2017}}</ref><ref>{{cite web|title=General Tariff|publisher=PPL Electric Utilities|date=June 20, 2017|page=4|url=https://www.pplelectric.com/-/media/PPLElectric/At-Your-Service/Docs/Current-Electric-Tariff/master.pdf|accessdate=August 20, 2017}}</ref> [[UGI Utilities]] supplies [[natural gas]] to the city.<ref>{{cite web|title=Geographic Footprint|publisher=UGI|url=https://www.ugi.com/about-us/geographic-footprint/|accessdate=October 4, 2017}}</ref><ref>{{cite web|title=Gas Tariff|publisher=UGI Utilities|date=July 7, 2017|pages=5–6|url=http://gasmngmt.ugi.com/UGIU/doc/tariff/GStariff6.pdf#page=1|accessdate=October 10, 2017}}</ref> The City of Bethlehem Department of Water & Sewer Resources provides water and sewer service to Bethlehem and parts of 10 adjacent municipalities in Lehigh and Northampton counties, serving 35,000 water customers and 25,000 sewer customers. The city's water supply comes from the [[Pocono Mountains]], with the surface water sources containing 10 billion gallons of freshwater capacity in an area consisting of 23,000 acres of protected watershed.<ref>{{cite web|title=Bethlehem Water & Sewer Resources|publisher=Bethlehem, Pennsylvania|url=http://www.bethlehem-pa.gov/water/index.html|accessdate=August 27, 2018}}</ref> Trash collection in Bethlehem is provided by private haulers while the City of Bethlehem Recycling Department provides recycling collection.<ref>{{cite web|title=Recycling Services|publisher=Bethlehem, Pennsylvania|url=http://www.bethlehem-pa.gov/recycling/index.html|accessdate=August 27, 2018}}</ref>
+
+== Politics and government ==
+{{See also|Mayor of Bethlehem, Pennsylvania}}
+[[File:Bethlehem Municipal and Public Safety Complex Oct 11.JPG|thumb|left|Bethlehem Municipal and Public Safety Complex, October 2011]]
+The city government is composed of a mayor and a seven-person city council.
+
+Mayor Robert Donchez was sworn in on January 6, 2014. The previous mayor of Bethlehem was [[John B. Callahan]], who was elected to his second term in November 2005. His election marked the 10th consecutive year a Democrat has held the city's highest office.<ref>{{cite web |title=Mayor's Biography: John B. Callahan |publisher=City of Bethlehem website |url=http://www.bethlehem-pa.gov/about/mayor/ |accessdate= November 22, 2008}}</ref>
+
+Callahan is a member of the [[Mayors Against Illegal Guns Coalition]],<ref>{{cite web| url=http://www.mayorsagainstillegalguns.org/html/about/members.shtml| title = Coalition Members | publisher = Mayors Against Illegal Guns Coalition web site | accessdate = November 22, 2008|archiveurl = https://web.archive.org/web/20080327061125/http://www.mayorsagainstillegalguns.org/html/about/members.shtml |archivedate = March 27, 2008|deadurl=yes}}</ref> a [[bi-partisan]] group with a stated goal of "making the public safer by getting illegal guns off the streets." The Coalition was founded by former Boston Mayor [[Thomas Menino]] and New York City Mayor [[Michael Bloomberg]].
+
+Federally, Bethlehem is part of [[Pennsylvania's 7th congressional district]], represented by Democrat [[Susan Wild]].
+
+=== Crime ===
+{{Infobox UCR
+|city_name=Bethlehem
+|year=2009
+|homicide=1.4
+|forcible_rape=22.1
+|robbery=132.7
+|aggravated_assault=146.5
+|violent_crime=302.7
+|burglary=504.5
+|larceny_theft=1,994.5
+|motor_vehicle_theft=171.4
+|arson=18.0
+|property_crime=2,670.4
+|source_url=http://www2.fbi.gov/ucr/cius2009/data/table_08_pa.html
+|source_name=2009 FBI UCR Data
+|notes=2009 population: 72,349
+}}
+Bethlehem has a significantly lower crime rate than that of [[Allentown, Pennsylvania|Allentown]] and [[Easton, Pennsylvania|Easton]].  In 2008, Bethlehem had an overall crime index of 244.4,<ref>{{cite web |url=http://www.city-data.com/city/Bethlehem-Pennsylvania.html |title=Bethlehem, Pennsylvania |work=city-data.com}}</ref> while Allentown's crime index was 510.4<ref>{{cite web |url=http://www.city-data.com/city/Allentown-Pennsylvania.html |title=Allentown, Pennsylvania |work=city-data.com}}</ref> and Easton's crime index was 379.2.<ref>{{cite web |url=http://www.city-data.com/city/Easton-Pennsylvania.html |title=Easton, Pennsylvania |work=city-data.com}}</ref>  The United States' average was 320.9.
+
+== Education ==
+
+=== Colleges and universities ===
+[[File:Moravian College Bethlehem 2924px.jpg|thumb|left|[[Moravian College]]'s south campus in Bethlehem.]]
+Bethlehem is home to three institutes of higher education. [[Lehigh University]], located on South Mountain on the city's South Side, has 5,000 undergraduates and 2,100 graduate students.<ref>{{cite web | url = http://www3.lehigh.edu/about/default.asp | title = About Lehigh | publisher = [[Lehigh University]] | accessdate = August 29, 2009 | deadurl = yes | archiveurl = https://web.archive.org/web/20090926030620/http://www3.lehigh.edu/about/default.asp | archivedate = September 26, 2009 | df = mdy-all }}</ref> The university, which was founded in 1865, was ranked No. 44 in [[U.S. News & World Report]]'s 2017 ratings of America's best colleges.<ref>{{cite web | url = http://colleges.usnews.rankingsandreviews.com/best-colleges/lehigh-university-3289 | title = Best Colleges 2017 | publisher = [[U.S. News & World Report]] | accessdate = August 29, 2016}}</ref>
+
+[[Moravian College]], located in the center city area, is a small, highly respected [[liberal arts]] college. Founded in 1742 as Bethlehem Female Seminary, Moravian is the sixth oldest college in the nation.<ref>{{cite web | url = http://www.moravian.edu/about/index.htm | title = About Moravian College | publisher = [[Moravian College]] | accessdate = August 29, 2009 | deadurl = yes | archiveurl = https://web.archive.org/web/20090815021429/http://www.moravian.edu/about/index.htm | archivedate = August 15, 2009 | df = mdy-all }}</ref> Besides undergraduate programs, the college also includes the Moravian Theological Seminary, a graduate school with approximately 100 students from more than a dozen religious denominations.<ref>{{cite web | url = http://www.moravianseminary.edu/general/seminary.html | title = About MTS | publisher = Moravian Theological Seminary | accessdate = August 29, 2009 | deadurl = yes | archiveurl = https://web.archive.org/web/20090418134327/http://www.moravianseminary.edu/general/seminary.html | archivedate = April 18, 2009 | df = mdy-all }}</ref>
+
+The [[International Institute for Restorative Practices]] is a graduate school dedicated to the advanced education of professionals and to the conduct of research that can develop the growing field of [[restorative practices]].<ref>{{cite web |url=http://www.iirp.edu/mission.php/ |title=Archived copy |accessdate=2011-08-11 |deadurl=yes |archiveurl=https://web.archive.org/web/20111001082250/http://www.iirp.edu/mission.php |archivedate=October 1, 2011 |df=mdy }}</ref> The IIRP offers two master's degrees: the Master of Restorative Practices and Education (MRPE) and the Master of Restorative Practices and Youth Counseling (MRPYC). The IIRP also offers an 18-credit Graduate Certificate in Restorative Practices.<ref>{{cite web|url=http://www.iirp.edu/certificate.php|title=Graduate Certificate in RP - International Institute for Restorative Practices|work=iirp.edu|deadurl=yes|archiveurl=https://web.archive.org/web/20111001082432/http://www.iirp.edu/certificate.php|archivedate=October 1, 2011|df=mdy-all}}</ref>
+
+The main campus of [[Northampton Community College]] is located in neighboring [[Bethlehem Township, Pennsylvania|Bethlehem Township]], but it does have a satellite campus within the city.
+
+=== Primary and secondary education ===
+Bethlehem is home to the [[Bethlehem Area School District]] (BASD), which covers a {{convert|40|sqmi|km2|adj=on}} area that includes the city, the boroughs of Fountain Hill and Freemansburg, and Bethlehem and Hanover Townships.<ref name="Bethlehem">{{cite web | url = http://bethlehempa.org/citylife/education/ | title = Citylife: Education | publisher = City of Bethlehem website | accessdate = August 29, 2009 | deadurl = yes | archiveurl = https://web.archive.org/web/20091024041655/http://www.bethlehempa.org/citylife/education/ | archivedate = October 24, 2009 | df = mdy-all }}</ref> The district operates two high schools for grades 9–12: [[Liberty High School (Bethlehem, Pennsylvania)|Liberty High School]] near center city and [[Freedom High School (Pennsylvania)|Freedom High School]] in neighboring [[Bethlehem Township, Pennsylvania|Bethlehem Township]].
+
+The district also has four public middle schools for grades 6–8: Broughal Middle School, East Hills Middle School, [[Nitschmann Middle School]], and Northeast Middle School. In addition, BASD maintains 16 public elementary schools for grades K-5: Asa Packer Elementary School, Calypso Elementary School,  Clearview Elementary School, Donegan Elementary School, Farmersville Elementary School, Fountain Hill Elementary School, Freemansburg Elementary School, Governor Wolf Elementary School, Hanover Elementary School, James Buchanan Elementary School, Lincoln Elementary School, Marvine Elementary School, Miller Heights Elementary School, Spring Garden Elementary School, Thomas Jefferson Elementary School, and William Penn Elementary School. [[Lehigh Valley Charter High School for the Arts]]  is also operated by the district, though it accepts students in grades 9–12 from throughout Northampton and surrounding counties.
+
+Bethlehem has two private high schools: [[Bethlehem Catholic High School]], which serves grades 9–12, and [[Moravian Academy]], which serves all primary and secondary school grades. [[Notre Dame High School (Easton, Pennsylvania)|Notre Dame High School]], located just north of the city, also serves grades 9 through 12.
+
+Bethlehem Catholic, Freedom and Liberty all compete athletically in Pennsylvania's [[Eastern Pennsylvania Conference (PIAA)|Eastern Pennsylvania Conference]].
+
+== Media ==
+{{Main|Media in the Lehigh Valley}}
+Bethlehem's daily newspaper, ''The Globe-Times'', ceased publication in 1991.  ''[[The Morning Call]]'', based in Allentown, and ''[[The Express-Times]]'', based in Easton, are now the city's dominant newspapers.  Other smaller newspapers include the ''Bethlehem Press''; an award-winning weekly, ''Pulse Weekly,'' based in Allentown; ''Eastern Pennsylvania Business Journal,'' based in Bethlehem; and ''Lehigh Valley Sports Extra'', an all-sports monthly newspaper founded in 2001.
+
+Religious broadcaster [[WBPH]] is the only television station licensed in Bethlehem, though [[WLVT-TV|WLVT Channel 39]], a [[Public Broadcasting Service|PBS]] affiliate, has its operations in the city. [[WFMZ-TV|WFMZ Channel 69]], an independent station, is based in neighboring Allentown. Bethlehem is part of the Philadelphia [[Media market|DMA]] and its cable systems also receive select radio and television broadcasts from New York City.
+
+Bethlehem has two licensed commercial radio stations, variety [[WGPA]] AM, and [[rock music|hard rock]] [[WZZO]] FM (though the latter's facilities are in [[Whitehall Township, Pennsylvania|Whitehall Township]]). There is also one non-commercial station, WLVR FM, operated by Lehigh University. In addition, [[Public broadcasting|public radio]] station [[WDIY]] FM, while licensed in Allentown, maintains its facilities in Bethlehem. There are numerous other stations broadcast from Allentown and Easton representing a variety of commercial formats, as well as several [[Broadcast translator|translators]] of public stations from Philadelphia and New Jersey.
+{{Allentown Radio}}
+
+== Sports ==
+{| class="wikitable"
+|-
+! scope="col" | Club
+! scope="col" | League
+! scope="col" | Venue
+! scope="col" | Established
+! scope="col" | Championships
+|-
+! scope="row" style="font-weight: normal;" | [[Bethlehem Steel FC]]
+| [[United Soccer League|USL]], Soccer
+| [[Goodman Stadium]]
+| 2016
+| 0
+|}
+
+===Lehigh Valley Storm, Lehigh Valley Steelhawks and Philadelphia Eagles===
+
+A semi-professional football team, the Lehigh Valley Storm, is based in the city.  Bethlehem is also home to the [[Lehigh Valley Steelhawks]], a [[Professional Indoor Football League (2012)|Professional Indoor Football League]] team who played their home games at [[Stabler Arena]] in Bethlehem till they moved to [[PPL Center]] in Allentown for 2014.
+
+From 1996 to 2012, the [[Philadelphia Eagles]] of the [[National Football League]] held their pre-season training camp each summer at the football facilities of Bethlehem's [[Lehigh University]]. As of 2013, the contract expired with the [[Philadelphia Eagles]] choosing to hold pre-season camp closer to home in [[South Philadelphia]].<ref>[http://articles.mcall.com/2013-03-15/sports/mc-eagles-lehigh-preseason-20130315_1_novacare-complex-mary-kay-baker-camp "No more training camp at Lehigh University for Birds"], By Nick Fierro, March 15, 2013.</ref>
+
+===Stabler Arena===
+Bethlehem also is home to Lehigh University's [[Stabler Arena]], which hosts numerous athletic and music events. Stabler is home to the [[Professional Indoor Football League (2012)|Professional Indoor Football League's]] [[Lehigh Valley Steelhawks]] and to [[Lehigh University]] collegiate basketball.
+
+===High school athletics===
+Bethlehem-area high schools, including Bethlehem Catholic High School, Freedom High School and Liberty High School, compete athletically in the [[Eastern Pennsylvania Conference (PIAA)|Eastern Pennsylvania Conference]].
+
+===Other===
+In the early part of the 20th century, Bethlehem had a corporate soccer team, the [[Bethlehem Steel F.C. (1907–30)|Bethlehem Steel F.C.]], which won the 1918–19 championship in the National Association Football League (NAFL), and then won what amounted to national championships three more times during the next decade (1920–21 in the NAFL; 1926–27 in the American Soccer League I; and in 1928–29 winning the EPSL II). The Bethlehem Steel sides consisted largely of British imported players and also had the distinction of being the first American professional soccer team to play in Europe, which it did during its tour of [[Sweden]] in 1919. The team also won the National Challenge Cup, now called the [[Lamar Hunt U.S. Open Cup]] after billionaire sports franchise owner [[Lamar Hunt]], five times beginning in 1915, and for the last time in 1926.
+
+The Lehigh Valley RFC [[rugby union]] team play their home matches at Monocacy Park.
+
+==Recreation and entertainment==
+The city is famous for its annual [[Musikfest]], a largely free, ten-day music festival that draws over a million people to the city each August. Since its founding in 1898, The Bach Choir of Bethlehem has been attracting thousands of visitors to the annual Bethlehem Bach Festival,<ref>bach.org/history.php</ref> now held largely on the campus of Lehigh University and on the historic grounds of the Moravian Community. Other festivals include The Celtic Classic, which celebrates Celtic culture, food and music,<ref>{{cite web|url=http://www.celticfest.org/|title=Celtic Classic 2015 - Bethlehem, PA - Highland Games, Irish and Celtic Music Festival|work=celticfest.org}}</ref> and the [[SouthSide Film Festival]], a non-competitive, not-for-profit film festival. The city has also been the past, and current host of the North East Art Rock Festival, or [[NEARFest]], a popular 3-day [[Progressive rock]] music event.
+
+The Bethlehem Area Public Library is a popular destination for recreation and entertainment.<ref>{{cite web|url=http://www.bapl.org|title=Welcome to Bethlehem Area Public Library|work=bapl.org}}</ref> The Banana Factory houses studios of area artists and is open to the public every first Friday of the month.<ref>{{cite web|url=http://www.bananafactory.org/|title=Banana Factory  —  Arts & Education Center|work=bananafactory.org}}</ref>  Touchstone Theatre, also on the SouthSide, houses the Valley's only professional resident theatre company, producing and presenting original theatre performances.<ref>{{cite web|url=http://www.touchstone.org/|title=Touchstone Theatre|work=touchstone.org}}</ref>
+[[File:SteelStacks at Night.jpg|thumb|right|SteelStacks campus at night]]
+Historic Bethlehem features many specialized boutiques, spas and nightclubs along its main streets.
+
+On the first Friday of the month, the businesses of the Southside Shopping District hosts First Friday,<ref>{{cite web |url=http://firstfridaybethlehem.com/ |title=First Friday, Southside Bethlehem |publisher=Downtown Bethlehem Association |accessdate=May 10, 2010}}</ref> a celebration of arts and culture. Stores, restaurants and art galleries stay open late and offer special discounts, refreshments, gallery openings and more.
+
+Lehigh University's [[Zoellner Arts Center]] offers a variety of musical and dramatic events through the year.
+
+The city is the location of Pennsylvania's largest casino, the [[Sands Casino Resort Bethlehem]], located on the former Bethlehem Steel property.
+
+The [[Lehigh Canal]] provides hiking and biking opportunities along the canal [[towpath]] which follows the [[Lehigh River]] in Bethlehem. Both the Lehigh Canal and the [[Monocacy Creek (Lehigh River tributary)|Monocacy Creek]] are popular for sport fishing, and both are stocked annually with trout.
+
+The western part of the former Bethlehem Steel site was selected as a filming location for the movie ''[[Transformers: Revenge of the Fallen]]'', which was released in 2009. In the film, the Steel's blast furnaces and surrounding area are used for the opening sequence of the film to represent Shanghai.
+
+In spring 2011, the city opened Steel Stacks, a ten-acre campus that showcases music, art, festivals, films and educational programming throughout the year.<ref>{{cite web|url=http://www.steelstacks.org/history/ |title=Archived copy |accessdate=2014-01-20 |deadurl=yes |archiveurl=https://web.archive.org/web/20131207144430/http://www.steelstacks.org/history/ |archivedate=December 7, 2013 |df=mdy }}</ref> It is located in the backdrop of the blast furnaces of the former Bethlehem Steel plant.
+
+===City parks===
+Bethlehem owns 39 park sites, encompassing {{convert|568|acre|km2|1}}.  Among the city's parks are Buchannan Park, Elmwood Park, Illick's Mill Park, Johnston Park, Monocacy Park, Rockland Park, Rose Garden, Sand Island, Saucon Park, Sell Field, South Mountain Park, Triangle Park, West Side Park, and Yosko Park.<ref>{{cite web | title = Parks and Recreation, Comprehensive Plan 2008 | publisher = City of Bethlehem | url = http://www.bethlehem-pa.gov/dept/planning_Zoning_Permits/compplan/PDF/Comprehensive%20Plan%20_Parks%20and%20Recreation.pdf | accessdate = November 22, 2008 | deadurl = yes | archiveurl = https://web.archive.org/web/20081217015747/http://www.bethlehem-pa.gov/dept/planning_Zoning_Permits/compplan/PDF/Comprehensive%20Plan%20_Parks%20and%20Recreation.pdf | archivedate = December 17, 2008 | df = mdy-all }}</ref><ref>{{cite web | title = Parks, Recreation & Public Property | publisher = City of Bethlehem website | url = http://www.bethlehem-pa.gov/parks/index.htm | accessdate = November 22, 2008 | deadurl = yes | archiveurl = https://web.archive.org/web/20081208200645/http://www.bethlehem-pa.gov/parks/index.htm | archivedate = December 8, 2008 | df = mdy-all }}</ref>
+
+==Notable people==
+{{See also|List of people from the Lehigh Valley}}
+[[File:Karl Bodmer Travels in America (3).jpg|thumb|right|''View of Bethlehem'' (circa 1832): aquatint by [[Karl Bodmer]] from the book ''"Maximilian, Prince of Wied’s Travels in the Interior of North America, during the years 1832–1834"'']]
+[[File:Bethlehem PA graveyard and steel mill 1935.jpg|thumb|right|Graveyard with [[Bethlehem Steel]] in background, 1935. Photo by [[Walker Evans]].]]
+* [[Jeff Andretti]], professional [[race car]] driver.
+* [[John Andretti]], professional race car driver, raced in [[NASCAR]] and [[IndyCar Series]].
+* [[Michael Andretti]], professional racing team owner, former professional race car driver.
+* [[David A. Bader]], [[Georgia Institute of Technology|Georgia Tech]] professor.
+* [[Chuck Bednarik]], former professional football player, [[Philadelphia Eagles]], [[Pro Football Hall of Fame]] member.
+* [[Michael Behe]], [[biochemist]] at [[Lehigh University]], advocate of [[intelligent design]].
+* [[Stephen Vincent Benét]], writer.
+* [[Pete Carril]], former professional and collegiate basketball coach.
+* [[Alexandra Chando]], actress.
+* [[H.D.]], writer, poet.
+* [[Russell Davenport]], publisher and writer.
+* [[Jimmy DeGrasso]], drummer, [[Alice Cooper|Alice Cooper band]], former drummer, [[Megadeth]].
+* [[Richard Diehl]], archaeologist, academic and [[Mesoamerican]]ist scholar.
+* [[Edwin Drake]], oil driller.
+* [[Jonathan Frakes]], director and actor, ''[[Star Trek: The Next Generation]]''.
+* [[Mark Wayne Glasmire]], singer.
+* [[Murray H. Goodman]] (born 1925), real estate developer<ref>{{cite web|url=http://thegoodmancompany.com/bio_goodman.php|title=The Goodman Company - A History of Shopping Center Excellence|website=thegoodmancompany.com}}</ref>
+* [[Eugene Grace]], industrialist, President of [[Bethlehem Steel]], 1916–1945.
+* [[John Valentine Haidt]], German-born American painter and lay [[Moravian Church|Moravian]] preacher.
+* [[Mel Harris]], actress, [[American Broadcasting Company|ABC]]'s ''[[Thirtysomething (TV series)|thirtysomething]]''.
+* [[Mike Hartenstine]], former professional football player.
+* [[Darrun Hilliard]], professional basketball player, [[San Antonio Spurs]]
+* [[George Hrab]], musician.
+* [[Dwayne Johnson|Dwayne "The Rock" Johnson]], professional wrestler and actor.
+* [[Archibald Johnston (Bethlehem)|Archibald Johnston]], industrialist, mayor, and civic leader.
+* [[Steve Kimock]], freeform rock guitarist.
+* [[Gelsey Kirkland]], ballerina.
+* [[Nathan Homer Knorr]], religious leader and 3rd president, [[Jehovah's Witnesses]].
+* [[Joe Kovacs]], world champion, Olympic silver medalist in shot put.
+* [[Noel LaMontagne]], former professional football player, [[Cleveland Browns]].
+* [[Gary Lavelle]], former professional baseball player, [[Oakland Athletics]], [[San Francisco Giants]] and [[Toronto Blue Jays]].
+* [[Barry W. Lynn]], executive director of [[Americans United for Separation of Church and State]].
+* [[John E. Madden]], thoroughbred trainer in [[National Museum of Racing and Hall of Fame]].
+* [[Zach Makovsky]], mixed martial artist fighting in UFC's flyweight division.
+* [[John E. McGlade]], Chairman, Chief Executive Officer and President of [[Air Products & Chemicals]].
+* [[Alix Olson]], spoken word poet.
+* [[Bob Parsons (American football)|Bob Parsons]], football player for [[Penn State Nittany Lions football|Penn State]] and [[Chicago Bears]].
+* [[Billy Packer]], [[CBS]] basketball analyst.
+* [[Daniel Roebuck]], actor, [[American Broadcasting Company|ABC]]'s ''[[Lost (TV series)|Lost]]''.
+* [[Thom Schuyler]], country music singer and songwriter.
+* [[Charles M. Schwab]], industrialist, former President of [[U.S. Steel]], later founded and was first Chairman of Bethlehem Steel Corporation.
+* [[Sheetal Sheth]], actress, ''[[Looking for Comedy in the Muslim World]]''.
+* [[John Spagnola]], former professional football player, [[Green Bay Packers]], [[Philadelphia Eagles]] and [[Seattle Seahawks]].
+* [[Donald Smaltz]], lawyer.
+* [[Sarah Strohmeyer]], novelist, creator of ''[[Bubbles Yablonsky|Bubbles]]''.
+* [[Jonathan Taylor Thomas]], actor, [[American Broadcasting Company|ABC]]'s ''[[Home Improvement (TV series)|Home Improvement]]''.
+* [[Melissa VanFleet]], singer/songwriter and musician.
+
+==In popular culture==
+*In the comic strip ''[[Dennis the Menace (US comics)|Dennis the Menace]]'', Dennis' grandfather lives in Bethlehem.  This features in the three-part holiday story, "Dennis in the Christmas City," which has been reprinted frequently since its original appearance in 1963.<ref>{{cite journal|title=Dennis in the Christmas City|journal=Dennis the Menace|publisher= Giant |number= 19|date= Winter 1963}}</ref>
+
+==Related communities==
+{{Commons category|Bethlehem, Pennsylvania}}
+
+===Sister cities===
+{{Main|List of sister cities in Pennsylvania}}
+* {{flagdeco|SVN}} [[Murska Sobota]], Slovenia
+* {{flagdeco|JPN}} [[Tondabayashi]], [[Osaka Prefecture]], Japan
+* {{flagdeco|DEU}} [[Schwäbisch Gmünd]], [[Baden-Württemberg]], Germany
+* {{flagdeco|GRC}} [[Corfu (city)|Corfu]], Greece<ref>{{cite web|last=Radzievich|first=Nicole|title=Bethlehem welcomes Corfu, fourth sister city|url=http://articles.mcall.com/2013-03-22/news/mc-bethlehem-corfu-sister-city-20130322_1_sister-city-fourth-sister-bethlehem-steel|publisher=The Morning Call|accessdate=April 2, 2014}}</ref>
+
+===Twin cities===
+{{unreferenced section|date=August 2018}}
+* {{flagdeco|US}} [[Allentown, Pennsylvania]]
+* {{flagdeco|US}} [[Easton, Pennsylvania]]
+
+==See also==
+{{portal|Pennsylvania}}
+*[[Bethlehem Municipal Band]]
+
+==References==
+
+{{Reflist|2}}
+
+==External links==
+{{Commons category|Bethlehem, Pennsylvania}}
+{{wikivoyage|Bethlehem (Pennsylvania)}}
+* [http://www.bethlehem-pa.gov/ Official website].
+* [http://www.bethlehempa.org/ Official visitor website].
+* [https://web.archive.org/web/20080506111048/http://www.nps.gov/history/nr/twhp/wwwlps/lessons/59bethlehem/59bethlehem.htm ''Bethlehem, Pennsylvania: A Moravian Settlement in Colonial America,'' a National Park Service Teaching with Historic Places (TwHP) lesson plan].
+* [http://teachinghistory.org/history-content/website-reviews/22966 Teachinghistory.org review of web resource, ''Bethlehem Digital History Project'']
+* {{Cite EB1911|wstitle=Bethlehem (Pennsylvania)|display=Bethlehem, a borough of Northampton and Lehigh counties, Pennsylvania, U.S.A. |short=x}}
+* {{Cite EB1911|wstitle=South Bethlehem |short=x}}
+
+{{Geographic location
+|Centre = Bethlehem
+|North = [[Hanover Township, Northampton County, Pennsylvania|Hanover (Northampton Co.)]]
+|Northeast = [[Nazareth, Pennsylvania|Nazareth]]
+|East = [[Easton, Pennsylvania|Easton]]
+|Southeast = [[Hellertown, Pennsylvania|Hellertown]]
+|South = [[Center Valley, Pennsylvania|Center Valley]]
+|Southwest = [[Fountain Hill, Pennsylvania|Fountain Hill]]
+|West = [[Allentown, Pennsylvania|Allentown]]
+|Northwest = [[Hanover Township, Lehigh County, Pennsylvania|Hanover (Lehigh Co.)]]
+|image =
+}}
+
+{{Navboxes
+|title=Articles relating to Bethlehem, Pennsylvania
+|list=
+{{Lehigh Valley}}
+{{Lehigh County, Pennsylvania}}
+{{Northampton County, Pennsylvania}}
+{{Pennsylvania}}
+}}
+
+{{Authority control}}
+
+[[Category:Bethlehem, Pennsylvania|*]]
+[[Category:Cities in Pennsylvania]]
+[[Category:Moravian settlement in Pennsylvania]]
+[[Category:Populated places on the Lehigh River]]
+[[Category:Populated places established in 1741]]
+[[Category:Cities in Lehigh County, Pennsylvania]]
+[[Category:Cities in Northampton County, Pennsylvania]]
+[[Category:1741 establishments in Pennsylvania]]

@@ -1,0 +1,886 @@
+{{other uses}}
+{{Infobox settlement
+|name                     = Nantucket, Massachusetts
+|settlement_type          = [[New England town|Town]] and [[List of counties in Massachusetts|county]]
+|official_name            = Town of Nantucket<br/>County of Nantucket 
+|image_skyline            = Nantucket-08-2004.jpg
+|imagesize                =
+|image_caption            =
+|image_flag               = Flag of Nantucket, Massachusetts.svg
+| flag_border = no
+|image_seal               = NantucketMA-seal.png
+|nickname                 =
+|motto                    =
+|image_map                = Map of Massachusetts highlighting Nantucket County.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Nantucket County within Massachusetts
+|pushpin_map              = USA
+|pushpin_relief           = 1
+|pushpin_label            = Nantucket
+|pushpin_map_caption      = Location within the United States
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+|coordinates              = {{coord|41|16|58|N|70|5|58|W|region:US-MA|display=inline,title}}
+| subdivision_type = Country
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        =
+|subdivision_name1        = [[Massachusetts]]
+|subdivision_name2        =
+|established_title        = Settled
+|established_date         = 1641
+|established_title2       = Incorporated
+|established_date2        = 1671
+|established_title3       =
+|established_date3        =
+|government_type          = [[Open town meeting]]
+|leader_title             = <!--[[Town Administrator|Town<br>&nbsp;&nbsp;&nbsp;Administrator]]-->
+|leader_name              =
+|leader_title1            = <!--Board of <br>&nbsp;&nbsp;&nbsp;Selectmen-->
+|leader_name1             =
+|area_magnitude           =
+|area_total_km2           = 272.6
+|area_total_sq_mi         = 105.3
+|area_land_km2            = 123.8
+|area_land_sq_mi          = 47.8
+|area_water_km2           = 148.8
+|area_water_sq_mi         = 57.5
+|elevation_m              = 9
+|elevation_ft             = 30
+|population_total         = 10,172
+|population_as_of         = 2010
+|population_density_km2   = 82.2
+|population_density_sq_mi = 212.8
+|postal_code_type         = ZIP codes
+|postal_code              = 02554, 02564, 02584
+|area_code                = [[Area code 508|508]] Exchanges: 228, 271, 325, 825, 332, 400
+|website                  = [http://www.nantucket-ma.gov/ www.nantucket-ma.gov]
+|footnotes                =
+|timezone                 = [[Eastern Standard Time Zone|Eastern]]
+|utc_offset = &minus;5
+|timezone_DST             = [[Eastern Standard Time Zone|Eastern]]
+|utc_offset_DST = &minus;4
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 25-43790
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0619376
+}}
+
+'''Nantucket''' {{IPAc-en|ˌ|n|æ|n|ˈ|t|ʌ|k|ᵻ|t}} is an island about {{convert|30|mi|km|sigfig=1}} by ferry<ref>{{cite book
+ | last = Tessein
+ | first = Terry
+ | title = Fly Fishing Boston: A Complete Saltwater Guide from Rhode Island to Maine
+ | publisher = The Countryman Press
+ | date = 2003
+ | location =
+ | page = 224
+ | language =
+ | url = https://books.google.com/books?id=gKdEbCJ-cHYC&pg=PA185&dq=nantucket+ferry+distance+hyannis&hl=en&sa=X&ved=0ahUKEwjji6rclvLQAhUFQiYKHXHHAVcQ6AEIUTAJ#v=onepage&q=nantucket%20ferry%20distance%20hyannis&f=false
+ | isbn = 9781581578652 }}</ref> south from [[Cape Cod]], in the [[U.S. state]] of [[Massachusetts]].  Together with the small islands of [[Tuckernuck Island|Tuckernuck]] and [[Muskeget]], it constitutes the [[New England town|Town]] of Nantucket, and the conterminous Nantucket County. As of the [[2010 United States Census|2010 census]], the population was 10,172.<ref name="QF">{{cite web|title=State & County QuickFacts|url=http://quickfacts.census.gov/qfd/states/25/25019.html|archive-url=https://web.archive.org/web/20010519090454/http://quickfacts.census.gov/qfd/states/25/25019.html|dead-url=yes|archive-date=May 19, 2001|publisher=United States Census Bureau|accessdate=August 26, 2013|df=}}</ref> Part of the town is designated the [[Nantucket (CDP), Massachusetts|Nantucket CDP]], or [[census-designated place]]. The region of Surfside on Nantucket is the southernmost settlement in Massachusetts.
+
+The name "Nantucket" is adapted from similar [[Eastern Algonquian languages|Algonquian]] names for the island, perhaps meaning "faraway land or island" or "sandy, sterile soil tempting no one."<ref>{{Cite news|url=https://www.britannica.com/place/Nantucket|title=Nantucket {{!}} island, Massachusetts, United States|work=Encyclopedia Britannica|access-date=2018-01-26|language=en}}</ref>
+
+Nantucket is a [[tourism|tourist]] destination and [[summer colony]]. Due to tourists and seasonal residents, the population of the island increases to at least 50,000 during the summer months.<!---, but has risen to over 70,000 in certain times. ----><ref>{{cite web |url= http://www.nantucket-ma.gov/Faq.aspx?QID=289/about |archive-url= https://archive.is/20160505162733/http://www.nantucket-ma.gov/Faq.aspx?QID=289/about |dead-url= yes |archive-date= 2016-05-05 |title=How many people live on Nantucket? |first= |last= |work=nantucket-ma.gov |year= 2015|accessdate=2016-03-28}}</ref> The average sale price for a single-family home was $2.3 million in the first quarter of 2018.<ref>{{cite web|url=https://www.forbes.com/sites/kathleenhowley/2018/05/30/nantucket-real-estate-smashes-records/#53c2154c1b1e|title=Real Estate Sales Smash Records On Nantucket As Wealthy Americans Buy Beach Houses|first=Kathleen|last=Howley|publisher=}}</ref>
+
+The [[National Park Service]] cites Nantucket, designated a [[National Historic Landmark District]] in 1966, as being the "finest surviving architectural and environmental example of a late 18th- and early 19th-century New England seaport town."<ref>
+{{cite web
+ | last = Staff
+ | first =
+ | authorlink =
+ | title = Nantucket Historic District
+ | work = Maritime History of Massachusetts
+ | publisher = National Park Service
+ | url = http://www.nps.gov/nr/travel/maritime/nan.htm
+ | accessdate = 2013-04-08 }}
+</ref>
+
+== History ==
+{{see also|Timeline of Nantucket}}
+[[File:Clinton Folgers "Horsemobile".jpg|thumb|250px|Clinton Folger, [[mail carrier]] for Nantucket, towed his car to the state highway for driving to [[Siasconset, Massachusetts|Siasconset]], in observance of an early 20th-century ban on automobiles on town roads.]]
+[[File:hsl-Nantucket01-horses and people in street-closeup.jpg|thumb|right|250px|1870s street scene on Nantucket]]
+
+===Etymology===
+Nantucket probably takes its name from a [[Wampanoag]] word, transliterated variously as ''natocke'', ''nantaticu'', ''nantican'', ''nautica'' or ''natockete'', which is part of Wampanoag lore about the creation of [[Martha's Vineyard]] and Nantucket.<ref>
+{{cite book
+ | last = Laverte
+ | first = Suzanne
+ | last2 = Orr
+ | first2 = Tamra
+ | authorlink =
+ | title = Massachusetts
+ | publisher = Marshall Cavendish
+ | year = 2009
+ | location = Tarrytown, New York
+ | page = 38
+ | url = https://books.google.com/books?id=R5rA_Z7cnXAC&pg=PA12&lpg=PA12&dq=Natockete+Nantucket&source=bl&ots=vPIv1RC2a3&sig=hvdJ2hVHCmSZrW3IueTG64JtXQM&hl=en&sa=X&ei=OINjUZL2AonA0QHs64CYCw&ved=0CHYQ6AEwCQ#v=onepage&q=Natockete%20Nantucket&f=false
+ | isbn = 978-0-7614-3005-6 }}
+</ref> The meaning of the term is uncertain, although it may have meant "in the midst of waters" or "far away island." Wampanoag is an [[Eastern Algonquian languages|Eastern Algonquian language]] of southern New England.<ref>Huden, John C. (1962). ''Indian Place Names of New England." New York: Museum of the American Indian. Cited in: Bright, William (2004). ''Native American Place Names in the United States." Norman: University of Oklahoma Press, pg. 312</ref> The [[Nehantucket]] (known to Europeans as the Niantic) were an Algonquin-speaking culture of the area.<ref>{{cite web|url=https://books.google.com/books?id=Xpx6WoPz7xIC&pg=PA31&lpg=PA31&dq=nehantucket&source=bl&ots=lwvK_QInWn&sig=S6Z_pn-32LhJHVUlX2qj-lGkNuE&hl=en&sa=X&ved=0ahUKEwi0yfP1kLXPAhWCdx4KHTz2BnMQ6AEISzAL#v=onepage&q=nehantucket&f=false|title=The Indian Tribes of North America|first=John Reed|last=Swanton|date=25 August 2018|publisher=Genealogical Publishing Com|via=Google Books}}</ref>
+
+Nantucket's nickname, "The Little Grey Lady of the Sea," refers to the island as it appears from the ocean when it is fog-bound.<ref>
+{{cite book
+ | last = Morris
+ | first = Paul C.
+ | authorlink =
+ | title = Maritime Nantucket: A Pictoral History of the "Little Grey Lady of the Sea"
+ | publisher = Lower Cape Publishers
+ | date = 1996-07-01
+ | page = 272}}
+</ref><ref>
+{{cite journal
+ | last = Editors
+ | first =
+ | authorlink =
+ | title = 60,000 Summer visitors replace whalers on salty Martha's Vineyard & Nantucket
+ | journal = Life Magazine
+ | volume =
+ | issue =
+ | pages = 34–39
+ | publisher =
+ | location =
+ | date = 1937-08-09
+ | language =
+ | url = https://books.google.com/books?id=oUUEAAAAMBAJ&pg=PA38&dq=Nantucket+grey+lady&hl=en&sa=X&ei=TYZjUbGLIYLC0gHVwICwCA&ved=0CEQQ6AEwAg#v=onepage&q=Nantucket%20grey%20lady&f=false
+ | accessdate = 2013-04-08}}
+</ref>
+
+=== European Colonization ===
+The earliest English settlement in the region began on the neighboring island of [[Martha's Vineyard]].  Nantucket Island's original [[Native Americans in the United States|Native American]] inhabitants, the [[Wampanoag people]], lived undisturbed until 1641 when the island was deeded by the English (the authorities in control of all land from the coast of Maine to New York) to [[Thomas Mayhew]] and his son, merchants from [[Watertown, Massachusetts]], and Martha's Vineyard. Nantucket was part of [[Dukes County, New York|Dukes County]], [[New York (state)|New York]], until 1691, when it was transferred to the newly formed [[Province of Massachusetts Bay]] and split off to form Nantucket County.  As Europeans began to settle Cape Cod, the island became a place of refuge for Native Americans in the region, as Nantucket was not yet settled by Europeans. The growing population welcomed seasonal groups of other Native Americans who traveled to the island to fish and later harvest whales that washed up on shore.<ref>
+{{cite book
+ | last = Philbrick
+ | first =  Nathaniel
+ | title = Abram's Eyes: The Native American Legacy of Nantucket Island
+ | publisher = Mill Hill Press
+ | year = 1998
+ | location = Nantucket
+ | page = 308
+ | isbn = 9780963891082}}
+</ref>
+
+===Nantucket founders===
+In October 1641, William, Earl of Stirling, deeded the island to Thomas Mayhew of Watertown, [[Massachusetts Bay]]. In 1659 Mayhew sold an interest in the island to nine other purchasers, reserving 1/10th of an interest for himself, "for the sum of thirty pounds&nbsp;... and also two beaver hats, one for myself, and one for my wife."<ref>{{cite book|last1=Worth|first1=Henry|title=Nantucket Lands and Landowners|date=1901|publisher=Nantucket Historical Association|pages=53–82|edition=Volume 2, Issue 1}}</ref>
+
+Each of the ten original owners was allowed to invite one partner. There is some confusion about the identity of the first twenty owners, partly because William Pile did not choose a partner, and sold his interest to Richard Swain, which was subsequently divided between John Bishop and the children of George Bunker.
+
+Anxious to add to their number and to induce tradesmen to come to the island, the total number of shares were increased to twenty-seven. The original purchasers needed the assistance of tradesmen who were skilled in the arts of weaving, milling, building and other pursuits and selected men who were given half a share provided that they lived on Nantucket and carried on their trade for at least three years.
+
+By 1667, twenty-seven shares had been divided among 31 owners.<ref>{{cite book|last1=Anderson|first1=Florence|title=A Grandfather for Benjamin Franklin: The True Story of a Nantucket Pioneer and His Mates|date=1940|publisher=Meador|page=183}}</ref>
+
+=== British settlement ===
+Nantucket's settlement by the English did not begin in earnest until 1659, when Thomas Mayhew sold his interest to a group of investors, led by [[Tristram Coffin (Nantucket)|Tristram Coffin]]. The "nine original purchasers" were Tristram Coffin, Peter Coffin, [[Thomas Macy]], Christopher Hussey, Richard Swain, Thomas Barnard, [[Stephen Greenleaf]], John Swain and William Pike. These men are considered the founding fathers of Nantucket, and many islanders are related to these families. Seamen and tradesmen began to populate Nantucket, such as Richard Gardner (arrived 1667) and Capt. John Gardner (arrived 1672), sons of [[Thomas Gardner (planter)|Thomas Gardner]].<ref>Gardner, Frank A MD (1907). ''Thomas Gardner Planter and Some of his Descendants''. Salem, MA: Essex Institute. (via [https://books.google.com/books?id=k6hLAAAAMAAJ&pg=PA1&dq=thomas+gardner+planter&ei=DN-4Sr7mN5qUygT89aT7Dg#v=onepage&q=&f=false Google Books])</ref>
+
+[[File:The town of Sherburne in the island of Nantucket (NYPL b12610613-422499).jpg|thumb|300px|right|The town on Nantucket Island, when it was still called Sherburne, in 1775]]
+Before 1795 the town on the island was called Sherburne.<ref name="Sherburne">{{cite book|last1=Brookes M.D.|first1=Richard|title=A General Gazetteer ... Illustrated with maps ... The fifteenth edition, with considerable additions and improvements|date=1819|publisher=J.Bumpus|location=London|page=471|edition=15|url=https://books.google.co.uk/books?id=neBhAAAAcAAJ&lpg=PA471&ots=ZCkYd68gNl&dq=sherburne%20massachusets&pg=PR3#v=onepage&q=sherburne%20massachusets&f=false|accessdate=20 September 2017}}</ref> The original settlement was near Capaum Pond. At that time the pond was a small harbor, whose entrance silted up, forcing the settlers to dismantle their houses, and move them northeast by two miles to the present location.<ref>{{cite web|title=Discover Nantucket|url=http://www.discovernantucket.com/history.php|website=discovernantucket.com|publisher=The Inquirer and Mirror|accessdate=20 September 2017}}</ref>
+
+In his 1835 history of Nantucket Island, Obed Macy wrote that in the early pre-1672 colony, a whale of the kind called "scragg" entered the harbor and was pursued and killed by the settlers.<ref>{{cite book |author= Macy, Obed |title=The History of Nantucket:being a compendious account of the first settlement of the island by the English:together with the rise and progress of the whale fishery, and other historical facts relative to said island and its inhabitants:in two parts |year=1835 |publisher= Hilliard, Gray & Co. |location= Boston |isbn=1-4374-0223-2 }}</ref> This event started the Nantucket whaling industry. A. B. Van Deinse points out that the "scrag whale", described by P. Dudley in 1725 as one of the species hunted by early New England whalers, was almost certainly the [[gray whale]], which has flourished on the [[West Coast of the United States|west coast]] of [[North America]] in modern times with protection from whaling.<ref>{{cite journal |last= Van Deinse |first= A. B. |year= 1937 |title=Recent and older finds of the gray whale in the Atlantic |journal= Temminckia |volume= 2 |pages=161–188 }}</ref><ref>{{cite journal |last= Dudley |first= P |year= 1725 |title=An essay upon the natural history of whales |journal= Philosophical Transactions of the Royal Society of London |volume=33 |pages=256–259 |doi=10.1098/rstl.1724.0053}}</ref> Nantucket's dependence on whaling as an industry also had a significant impact on their decision to remain neutral in 1775 at the start of the [[Nantucket in the Revolutionary War|American Revolutionary War]].<ref>
+{{Citation
+ | last = Hinchman
+ | first = Lydia S.
+ | title = William Rotch and the Neutrality of Nantucket during the Revolutionary War
+ | journal = Bulletin of Friends' Historical Society of Philadelphia
+ | volume = 1
+ | issue = 2
+ | pages = 49–55
+ | date = February 1907 }}</ref>
+
+[[Herman Melville]] commented on Nantucket's whaling dominance in ''[[Moby-Dick]]'', Chapter 14: "Two thirds of this terraqueous globe are the Nantucketer's. For the sea is his; he owns it, as Emperors own empires". The ''Moby-Dick'' characters [[Captain Ahab|Ahab]] and [[List of Moby-Dick characters#Mates|Starbuck]] are both from Nantucket.
+
+By 1850, whaling was in decline, as Nantucket's whaling industry had been surpassed by that of [[New Bedford]]. The island suffered great economic hardships, worsened by the "Great Fire" of July 13, 1846, that, fueled by whale oil and lumber, devastated the main town, burning some {{convert|40|acres|0|abbr=off}}.<ref>{{cite book | last1 = Kelley | first1 = Shawnie | title = It Happened on Cape Cod | publisher = Globe Pequot | year = 2006 | url = https://books.google.com/books?id=EuSeEVcASI4C | accessdate = 2011-11-22 | isbn = 978-0-7627-3824-3}}</ref> The fire left hundreds homeless and poverty-stricken, and many people left the island. Another contributor to the decline was the silting up of the harbor, which prevented large whaling ships from entering and leaving the port, unlike New Bedford, which still owned a deep water port. In addition, the development of railroads made mainland whaling ports, such as New Bedford, more attractive because of the ease of [[transshipment]] of whale oil onto trains, an advantage unavailable to an island.  The [[American Civil War]] dealt the death blow to the island's whaling industry, as virtually all of the remaining whaling vessels were destroyed by [[Confederate States of America|Confederate]] [[commerce raiders]].{{citation needed|date=July 2015}}
+
+=== Later history ===
+As a result of this depopulation, the island was left under-developed and isolated until the mid-20th century. The isolation kept many of the pre-Civil War buildings intact and, by the 1950s, enterprising developers began buying up large sections of the island and restoring them to create an upmarket destination for wealthy people in the Northeastern United States.
+
+In the 1960s, Nantucket and Martha's Vineyard considered seceding from the Commonwealth of Massachusetts which they tried in 1977, unsuccessfully. The secession vote was sparked by a proposed change to the [[Massachusetts Constitution]] that reduced the islands' representation in the [[Massachusetts General Court]].<ref>[http://www.time.com/time/magazine/article/0,9171,914917-2,00.html People Section] ''[[Time (magazine)|Time]]'' magazine, April 18, 1977.]</ref>
+
+== Geology and geography ==
+[[File:Sum04-118.jpg|thumb|right|250px|The [[cobblestone]] Main Street in historic downtown Nantucket]]
+
+According to the [[U.S. Census Bureau]], the county has a total area of {{convert|304|sqmi}}, of which {{convert|45|sqmi}} is land and {{convert|259|sqmi}} (85%) is water.<ref name="GR1">{{cite web|url=https://www.census.gov/geo/maps-data/data/docs/gazetteer/counties_list_25.txt|publisher=United States Census Bureau|accessdate=September 16, 2014|date=August 22, 2012|title=2010 Census Gazetteer Files|deadurl=yes|archiveurl=https://archive.is/20140914175857/http://www.census.gov/geo/maps-data/data/docs/gazetteer/counties_list_25.txt|archivedate=September 14, 2014|df=}}</ref> It is the smallest county in Massachusetts by land area and second-smallest by total area. The area of Nantucket Island proper is {{convert|47.8|sqmi|km2}}. The triangular region of ocean between Nantucket, Martha's Vineyard, and Cape Cod is [[Nantucket Sound]]. The highest point on the island is Sankaty Head, which stands {{convert|111|ft|m}} above sea level.
+[[File:Nantucket NASA 2002.jpg|thumb|right|250px|NASA satellite Image of Nantucket Island]]
+
+Nantucket was formed by the outermost reach of the [[Laurentide Ice Sheet]] during the recent [[Wisconsin Glaciation]], shaped by the subsequent rise in sea level. The low ridge across the northern section of the island was deposited as [[glacial moraine]] during a period of glacial standstill, a period during which [[till]] continued to arrive and was deposited as the glacier melted at a stationary front. The southern part of the island is an [[outwash plain]], sloping away from the arc of the moraine and shaped at its margins by the sorting actions and transport of [[longshore drift]]. Nantucket became an island when rising sea levels covered the connection with the mainland, about 5,000–6,000 years ago.<ref>The most recent survey of the geology of Cape Cod and the islands, accessible to the layman, is Robert N. Oldale, ''Cape Cod, Martha's Vineyard & Nantucket: The Geologic Story'', 2001.</ref>
+
+The entire island, as well as the adjoining islands of Tuckernuck and Muskeget, comprise both the Town of Nantucket and the County of Nantucket, which are [[Consolidated city–county|consolidated]]. The main settlement, also called Nantucket, is located at the western end of Nantucket Harbor, where it opens into Nantucket Sound. Key localities on the island include [[Madaket, Massachusetts|Madaket]], [[Surfside, Massachusetts|Surfside]], [[Polpis, Massachusetts|Polpis]], Wauwinet, Miacomet, and [[Siasconset, Massachusetts|Siasconset]] (generally shortened to "'Sconset").<ref name=Oars>
+{{cite book
+ | last = Karttunen
+ | first = Frances Ruley
+ | title = The Other Islanders: People Who Pulled Nantucket's Oars
+ | publisher = Spinner Publications
+ | date = 2005
+ | location =
+ | page = 304
+ | language =
+ | url =
+ | isbn =  0932027938 }}
+</ref>
+
+==Climate==
+According to the [[Köppen climate classification]] system, Nantucket features a climate that borders between a ''Dfb'' ([[humid continental climate]]) and an ''Cfb'' ([[oceanic climate]] - east half of the island based on the location of the [[weather station]]), the latter a climate type rarely found on the east coast of [[North America]] and closest to the same by the original classification.<ref name = Köppen>{{cite journal| last = Kottek | first = M.|author2=J. Grieser |author3=C. Beck |author4=B. Rudolf |author5=F. Rubel | title =World Map of the Köppen-Geiger climate classification updated| journal =Meteorol. Z.| volume =15 | pages =259–263| url =http://www.schweizerbart.de/resources/downloads/paper_free/55034.pdf| doi =10.1127/0941-2948/2006/0130| accessdate =28 August 2012| year =2006| issue = 3}}</ref> Nantucket's climate is heavily influenced by the Atlantic Ocean, which helps moderate temperatures in the town throughout the course of the year. Average high temperatures during the town's coldest month (January) are around {{convert|38|F|C}}, while average high temperatures during the town's warmest months (July and August) hover around {{convert|75|F|C}}. Nantucket receives on average {{convert|41|in|mm}} of precipitation annually, spread relatively evenly throughout the year. Similar to many other cities with an oceanic climate, Nantucket features a large number of cloudy or overcast days, particularly outside the summer months. The highest daily maximum temperature was {{convert|100|F|C}} on August 2, 1975, and the highest daily minimum temperature was {{convert|76|F|C}} on the same day. The lowest daily maximum temperature was {{convert|12|F|C}} on January 8, 1968, and the lowest daily minimum temperature was {{convert|-3|F|C}} on December 31, 1962 and January 16, 2004.
+{{Weather box
+|location = Nantucket, Massachusetts ([[Nantucket Memorial Airport]])
+|single line = Y
+|Jan record high F = 63
+|Feb record high F = 58
+|Mar record high F = 66
+|Apr record high F = 83
+|May record high F = 85
+|Jun record high F = 92
+|Jul record high F = 92
+|Aug record high F = 100
+|Sep record high F = 86
+|Oct record high F = 83
+|Nov record high F = 74
+|Dec record high F = 63
+|year record high F = 100
+|Jan high F = 38.1
+|Feb high F = 39.4
+|Mar high F = 44.3
+|Apr high F = 51.3
+|May high F = 59.8
+|Jun high F = 68.0
+|Jul high F = 75.1
+|Aug high F = 74.7
+|Sep high F = 69.5
+|Oct high F = 60.8
+|Nov high F = 51.9
+|Dec high F = 43.7
+|year high F =56.4
+|Jan mean F = 31.6
+|Feb mean F = 33.0
+|Mar mean F = 37.6
+|Apr mean F = 44.8
+|May mean F = 53.0
+|Jun mean F = 61.7
+|Jul mean F = 68.6
+|Aug mean F = 68.3
+|Sep mean F = 62.8
+|Oct mean F = 54.2
+|Nov mean F = 45.7
+|Dec mean F = 37.3
+|year mean F = 49.9
+|Jan low F = 25.1
+|Feb low F = 26.5
+|Mar low F = 30.9
+|Apr low F = 38.4
+|May low F = 46.1
+|Jun low F = 55.5
+|Jul low F = 62.2
+|Aug low F = 61.8
+|Sep low F = 56.2
+|Oct low F = 47.5
+|Nov low F = 39.4
+|Dec low F = 30.9
+|year low F =43.4
+|Jan record low F = -3
+|Feb record low F = -2
+|Mar record low F =  7
+|Apr record low F = 20
+|May record low F = 28
+|Jun record low F = 35
+|Jul record low F = 47
+|Aug record low F = 39
+|Sep record low F = 34
+|Oct record low F = 22
+|Nov record low F = 16
+|Dec record low F = -3
+|year record low F= -3
+|precipitation colour = green
+|Jan precipitation inch = 3.61
+|Feb precipitation inch = 2.72
+|Mar precipitation inch = 4.25
+|Apr precipitation inch = 3.74
+|May precipitation inch = 3.42
+|Jun precipitation inch = 3.49
+|Jul precipitation inch = 3.09
+|Aug precipitation inch = 3.91
+|Sep precipitation inch = 4.04
+|Oct precipitation inch = 3.92
+|Nov precipitation inch = 4.43
+|Dec precipitation inch = 3.80
+|year precipitation inch=44.42
+|Jan snow inch =  7.4
+|Feb snow inch =  8.5
+|Mar snow inch =  6.6
+|Apr snow inch =  0.8
+|May snow inch =  0.0
+|Jun snow inch =  0.0
+|Jul snow inch =  0.0
+|Aug snow inch =  0.0
+|Sep snow inch =  0.0
+|Oct snow inch =  0.0
+|Nov snow inch =  0.2
+|Dec snow inch =  5.8
+|year snow inch =29.4
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 12
+|Feb precipitation days = 10
+|Mar precipitation days = 11
+|Apr precipitation days = 11
+|May precipitation days = 10
+|Jun precipitation days =  8
+|Jul precipitation days =  7
+|Aug precipitation days =  9
+|Sep precipitation days =  8
+|Oct precipitation days =  9
+|Nov precipitation days = 12
+|Dec precipitation days = 13
+|year precipitation days=118
+|source 1 = NOAA (1981−2010 normals)<ref name= NOAA>
+{{cite web
+| url = http://www.weather.gov/climate/xmacis.php?wfo=box
+| title = NowData - NOAA Online Weather Data
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| accessdate = February 19, 2015}}</ref><ref name="NOAA txt">
+{{cite web
+| url = ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USW00014756.normals.txt
+| publisher = National Oceanic and Atmospheric Administration
+| title = MA Nantucket MEM AP
+| accessdate = February 19, 2015}}</ref>
+|source 2 = Western Regional Climate Center (precipitation days and snow 1948−present)<ref name = WRCC >
+{{cite web
+| url = http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?ma5159
+| title = General Climate Summary Tables
+| publisher = Western Regional Climate Center
+| accessdate = February 19, 2015
+}}</ref>
+|date=April 2011 }}
+
+== Demographics ==
+{{See also|List of Massachusetts locations by per capita income}}
+
+{{US Census population
+|1790= 4555
+|1800= 5617
+|1810= 6807
+|1820= 7266
+|1830= 7202
+|1840= 9012
+|1850= 8452
+|1860= 6094
+|1870= 4123
+|1880= 3727
+|1890= 3268
+|1900= 3006
+|1910= 2962
+|1920= 2797
+|1930= 3678
+|1940= 3401
+|1950= 3484
+|1960= 3559
+|1970= 3774
+|1980= 5087
+|1990= 6012
+|2000= 9520
+|2010= 10172
+|estyear=2016
+|estimate=11008
+|estref=<ref name="USCensusEst2016">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2016.html|title=Population and Housing Unit Estimates|accessdate=June 9, 2017}}</ref>
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|url=https://www.census.gov/prod/www/decennial.html|title=U.S. Decennial Census|publisher=United States Census Bureau|accessdate=September 16, 2014}}</ref><br />1790-1960<ref>{{cite web|url=http://mapserver.lib.virginia.edu|title=Historical Census Browser|publisher=University of Virginia Library|accessdate=September 16, 2014}}</ref> 1900-1990<ref>{{cite web|url=https://www.census.gov/population/cencounts/ma190090.txt|title=Population of Counties by Decennial Census: 1900 to 1990|publisher=United States Census Bureau|accessdate=September 16, 2014}}</ref><br />1990-2000<ref>{{cite web|url=https://www.census.gov/population/www/cen2000/briefs/phc-t4/tables/tab02.pdf|title=Census 2000 PHC-T-4. Ranking Tables for Counties: 1990 and 2000|publisher=United States Census Bureau|accessdate=September 16, 2014}}</ref> 2010-2014<ref name="QF"/>
+}}
+
+As of the [[2010 United States Census]], there were 10,172&nbsp;people, 4,229&nbsp;households, and 2,429&nbsp;families residing in the county.<ref name="census-dp1">{{cite web
+  |url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0500000US25019
+  |title=DP-1 Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data
+  |accessdate=2016-01-12
+  |publisher=[[United States Census Bureau]]}}</ref> The population density was {{convert|226.2|PD/sqmi}}. There were 11,618 housing units at an average density of {{convert|258.4|/sqmi}}.<ref name="census-density">{{cite web
+  |url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.CY07/0500000US25019
+  |accessdate=2016-01-12
+  |title=Population, Housing Units, Area, and Density: 2010 - County
+  |publisher=[[United States Census Bureau]]}}</ref> The racial makeup of the county was 87.6% white, 6.8% black, 1.2% Asian, 0.1% American Indian, 2.6% from other races, and 1.8% from two or more races. Those of Hispanic or Latino origin made up 9.4% of the population.<ref name="census-dp1"/> In terms of ancestry, 20.9% were [[English people|English]], 18.8% were [[Irish people|Irish]], 11.5% were [[Americans|American]], 10.9% were [[Germans|German]], and 6.4% were [[Italians|Italian]].<ref name="census-dp2">{{cite web
+  |url=http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_5YR/DP02/0500000US25019
+  |title=DP02 SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES – 2006-2010 American Community Survey 5-Year Estimates
+  |accessdate=2016-01-12
+  |publisher=[[United States Census Bureau]]}}</ref>
+
+Of the 4,229&nbsp;households, 28.7% had children under the age of 18 living with them, 44.8% were married couples living together, 8.3% had a female householder with no husband present, 42.6% were non-families, and 29.7% of all households were made up of individuals. The average household size was 2.39 and the average family size was 2.93. The median age was 39.4 years.<ref name="census-dp1"/>
+
+The median income for a household in the county was $83,347 and the median income for a family was $129,728. Males had a median income of $82,959 versus $46,577 for females. The per capita income for the county was $53,410. About 3.6% of families and 7.2% of the population were below the [[poverty line]], including 6.9% of those under age 18 and 8.2% of those age 65 or over.<ref name="census-dp3">{{cite web
+  |url=http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_5YR/DP03/0500000US25019
+  |title=DP03 SELECTED ECONOMIC CHARACTERISTICS – 2006-2010 American Community Survey 5-Year Estimates
+  |accessdate=2016-01-12
+  |publisher=[[United States Census Bureau]]}}</ref>
+
+== Government ==
+
+===Local===
+Town and county governments are combined in Nantucket (see [[List of counties in Massachusetts]]). Nantucket's elected legislative body is its Select Board (name changed in 2018 from [[Board of Selectmen]]),<ref>{{cite web| title = Nantucket Selectmen go gender-neutral| work = Inquirer & Mirror website| url = http://www.ack.net/news/20180321/nantucket-selectmen-go-gender-neutral}}</ref> which is responsible for the town government's goals and policies.<ref>{{cite web| title = Board of Selectmen| work = Town and County of Nantucket website| publisher = | url = http://www.nantucket-ma.gov/Pages/NantucketMA_BOS/index | archive-url = https://web.archive.org/web/20070722114934/http://www.nantucket-ma.gov/Pages/NantucketMA_BOS/index | dead-url = yes | archive-date = 2007-07-22 | accessdate = 2013-04-10}}</ref> It is administered by a town manager, who is responsible for all departments, except for the school, airport and water departments.<ref>{{cite web| title = Town Administration| work = Town and County of Nantucket website| publisher = | url = http://www.nantucket-ma.gov/Pages/NantucketMA_Admin/index| archive-url = https://web.archive.org/web/20071001181709/http://www.nantucket-ma.gov/Pages/NantucketMA_Admin/index| dead-url = yes| archive-date = 2007-10-01| accessdate = 2013-04-10| df = }}</ref>
+
+===State===
+Nantucket is represented in the [[Massachusetts House of Representatives]] by [[Dylan Fernandes]], Democrat, of Woods Hole, who represents Precincts 1, 2, 5 and 6, of Falmouth, in [[Barnstable County, Massachusetts|Barnstable County]]; Chilmark, Edgartown, Aquinnah, Gosnold, Oak Bluffs, Tisbury and West Tisbury, all in [[Dukes County, Massachusetts|Dukes County]]; and Nantucket. Rep. Fernandes has served since January 4, 2017. Nantucket is represented in the [[Massachusetts Senate]] by [[Julian Cyr]], Democrat, of [[Truro, Massachusetts|Truro]], who has also served since January 4, 2017.
+
+===National===
+Nantucket is in [[Massachusetts's 9th congressional district]], which has existed since 2013. {{As of|2013}}, it was represented in the [[United States House of Representatives]] by [[William R. Keating|Bill Keating]], a Democrat of Bourne. Massachusetts is currently represented in the [[United States Senate]] by senior senator [[Elizabeth Warren]] (Democrat) and junior senator [[Ed Markey]] (Democrat).
+
+==Politics==
+
+===Party affiliations===
+In 2010, 55% of Nantucket residents were unaligned with a major political party; 29% were registered Democrats and 16% were registered Republicans.<ref name="Massachusetts Elections Division">{{cite web|title = Registration and Party Enrollment Statistics as of October 13, 2010 | publisher = Massachusetts Elections Division | format = PDF | accessdate = 2010-03-14 | url = http://www.sec.state.ma.us/ele/ele10/enrollment_count_regdt_10132010.pdf}}</ref>
+{| class=wikitable
+|-
+! colspan = 6 | Voter registration and party enrollment on October 13, 2010<ref name="Massachusetts Elections Division"/>
+|-
+! colspan = 2 | Party
+! Number of voters
+! Percentage
+|-
+{{party color|Democratic Party (United States)}}
+| [[Democratic Party (United States)|Democratic]]
+| style="text-align:center;"| 2,283
+| style="text-align:center;"| 28.79%
+|-
+{{party color|Republican Party (United States)}}
+| [[Republican Party (United States)|Republican]]
+| style="text-align:center;"| 1,251
+| style="text-align:center;"| 15.77%
+|-
+{{party color|Independent Party (United States)}}
+| Unaffiliated*
+| style="text-align:center;"| 4,351
+| style="text-align:center;"| 54.86%
+|-
+{{party color|Libertarian Party (United States)}}
+| Minor Parties
+| style="text-align:center;"| 46
+| style="text-align:center;"| 0.58%
+|-
+! colspan = 2 | Total
+! style="text-align:center;"| 7,931
+! style="text-align:center;"| 100%
+|}
+
+<sup>*</sup>The Commonwealth of Massachusetts allows voters to enroll with a political party or to remain "unenrolled."<ref>{{cite web |url=http://www.sec.state.ma.us/ele/elepar/paridx.htm |title=Massachusetts Directory of Political Parties and Designations |author=Secretary of the Commonwealth of Massachusetts |date=December 21, 2015 |access-date=December 21, 2015 |quote=}}</ref>
+
+===Voting patterns===
+Throughout the late 19th and most of the 20th century, Nantucket was a Republican stronghold in presidential elections. From 1876 to 1984, only two Democrats carried Nantucket: [[Woodrow Wilson]] and [[Lyndon Johnson]]. Since 1988, however, it has trended Democratic.
+{{Hidden begin
+|titlestyle = background:#ccccff;
+|title      = Presidential elections results
+}}
+{| align="center" border="2" cellpadding="4" cellspacing="0" style="float:right; margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|+ '''Presidential elections results'''<ref>{{cite web|url=http://uselectionatlas.org/RESULTS|title=Dave Leip's Atlas of U.S. Presidential Elections|first=David|last=Leip|website=uselectionatlas.org}}</ref>
+|- bgcolor=lightgrey
+! Year
+! [[Republican Party (United States)|Republican]]
+! [[Democratic Party (United States)|Democratic]]
+! [[Third Party (United States)|Third parties]]
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 2016|2016]]'''
+|  style="text-align:center; {{Party shading/Republican}}|29.1% ''1,892''
+|  style="text-align:center; {{Party shading/Democratic}}|'''63.7%''' ''4,146''
+|  style="text-align:center; background:honeyDew;"|7.2% ''470''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 2012|2012]]'''
+|  style="text-align:center; {{Party shading/Republican}}|35.7% ''2,187''
+|  style="text-align:center; {{Party shading/Democratic}}|'''62.6%''' ''3,830''
+|  style="text-align:center; background:honeyDew;"|1.7% ''103''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 2008|2008]]'''
+|  style="text-align:center; {{Party shading/Republican}}|30.8% ''1,863''
+|  style="text-align:center; {{Party shading/Democratic}}|'''67.3%''' ''4,073''
+|  style="text-align:center; background:honeyDew;"|1.9% ''116''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 2004|2004]]'''
+|  style="text-align:center; {{Party shading/Republican}}|35.6% ''2,040''
+|  style="text-align:center; {{Party shading/Democratic}}|'''63.0%''' ''3,608''
+|  style="text-align:center; background:honeyDew;"|1.3% ''76''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 2000|2000]]'''
+|  style="text-align:center; {{Party shading/Republican}}|33.0% ''1,624''
+|  style="text-align:center; {{Party shading/Democratic}}|'''58.3%''' ''2,874''
+|  style="text-align:center; background:honeyDew;"|8.7% ''428''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 1996|1996]]'''
+|  style="text-align:center; {{Party shading/Republican}}|29.4% ''1,222''
+|  style="text-align:center; {{Party shading/Democratic}}|'''59.0%''' ''2,453''
+|  style="text-align:center; background:honeyDew;"|11.6% ''484''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 1992|1992]]'''
+|  style="text-align:center; {{Party shading/Republican}}|27.5% ''1,158''
+|  style="text-align:center; {{Party shading/Democratic}}|'''48.3%''' ''2,037''
+|  style="text-align:center; background:honeyDew;"|24.2% ''1,021''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 1988|1988]]'''
+|  style="text-align:center; {{Party shading/Republican}}|39.4% ''1,469''
+|  style="text-align:center; {{Party shading/Democratic}}|'''59.2%''' ''2,209''
+|  style="text-align:center; background:honeyDew;"|1.4% ''53''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1984|1984]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''53.5%''' ''1,697''
+|  style="text-align:center; {{Party shading/Democratic}}|45.9% ''1,456''
+|  style="text-align:center; background:honeyDew;"|0.5% ''17''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1980|1980]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''40.5%''' ''1,149''
+|  style="text-align:center; {{Party shading/Democratic}}|36.7% ''1,040''
+|  style="text-align:center; background:honeyDew;"|22.9% ''649''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1976|1976]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''53.3%''' ''1,399''
+|  style="text-align:center; {{Party shading/Democratic}}|42.5% ''1,115''
+|  style="text-align:center; background:honeyDew;"|4.3% ''112''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1972|1972]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''59.6%''' ''1,418''
+|  style="text-align:center; {{Party shading/Democratic}}|40.0% ''952''
+|  style="text-align:center; background:honeyDew;"|0.4% ''10''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1968|1968]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''55.3%''' ''991''
+|  style="text-align:center; {{Party shading/Democratic}}|41.5% ''744''
+|  style="text-align:center; background:honeyDew;"|3.2% ''57''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 1964|1964]]'''
+|  style="text-align:center; {{Party shading/Republican}}|32.9% ''587''
+|  style="text-align:center; {{Party shading/Democratic}}|'''67.0%''' ''1,197''
+|  style="text-align:center; background:honeyDew;"|0.2% ''3''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1960|1960]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''63.5%''' ''1,219''
+|  style="text-align:center; {{Party shading/Democratic}}|36.4% ''698''
+|  style="text-align:center; background:honeyDew;"|0.1% ''2''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1956|1956]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''83.3%''' ''1,582''
+|  style="text-align:center; {{Party shading/Democratic}}|16.7% ''317''
+|  style="text-align:center; background:honeyDew;"|0.1% ''1''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1952|1952]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''78.6%''' ''1,490''
+|  style="text-align:center; {{Party shading/Democratic}}|21.4% ''405''
+|  style="text-align:center; background:honeyDew;"|0.1% ''2''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1948|1948]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''70.3%''' ''1,013''
+|  style="text-align:center; {{Party shading/Democratic}}|28.4% ''409''
+|  style="text-align:center; background:honeyDew;"|1.4% ''20''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1944|1944]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''57.8%''' ''779''
+|  style="text-align:center; {{Party shading/Democratic}}|42.2% ''569''
+|  style="text-align:center; background:honeyDew;"|0.1% ''1''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1940|1940]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''61.6%''' ''1,015''
+|  style="text-align:center; {{Party shading/Democratic}}|37.9% ''624''
+|  style="text-align:center; background:honeyDew;"|0.5% ''8''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1936|1936]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''62.8%''' ''969''
+|  style="text-align:center; {{Party shading/Democratic}}|35.5% ''548''
+|  style="text-align:center; background:honeyDew;"|1.8% ''27''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1932|1932]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''58.8%''' ''812''
+|  style="text-align:center; {{Party shading/Democratic}}|40.7% ''561''
+|  style="text-align:center; background:honeyDew;"|0.5% ''7''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1928|1928]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''68.6%''' ''865''
+|  style="text-align:center; {{Party shading/Democratic}}|31.3% ''395''
+|  style="text-align:center; background:honeyDew;"|0.1% ''1''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1924|1924]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''79.6%''' ''708''
+|  style="text-align:center; {{Party shading/Democratic}}|18.8% ''167''
+|  style="text-align:center; background:honeyDew;"|1.6% ''14''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1920|1920]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''74.5%''' ''608''
+|  style="text-align:center; {{Party shading/Democratic}}|25.1% ''205''
+|  style="text-align:center; background:honeyDew;"|0.4% ''3''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 1916|1916]]'''
+|  style="text-align:center; {{Party shading/Republican}}|44.2% ''249''
+|  style="text-align:center; {{Party shading/Democratic}}|'''54.4%''' ''307''
+|  style="text-align:center; background:honeyDew;"|1.4% ''8''
+|-
+|  style="text-align:center; {{Party shading/Democratic}}|'''[[United States presidential election in Massachusetts, 1912|1912]]'''
+|  style="text-align:center; {{Party shading/Republican}}|21.8% ''123''
+|  style="text-align:center; {{Party shading/Democratic}}|'''43.8%''' ''247''
+|  style="text-align:center; background:honeyDew;"|34.4% ''194''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1908|1908]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''70.8%''' ''359''
+|  style="text-align:center; {{Party shading/Democratic}}|26.8% ''136''
+|  style="text-align:center; background:honeyDew;"|2.4% ''12''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1904|1904]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''67.3%''' ''378''
+|  style="text-align:center; {{Party shading/Democratic}}|30.3% ''170''
+|  style="text-align:center; background:honeyDew;"|2.5% ''14''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1900|1900]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''76.7%''' ''375''
+|  style="text-align:center; {{Party shading/Democratic}}|20.9% ''102''
+|  style="text-align:center; background:honeyDew;"|2.5% ''12''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1896|1896]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''79.3%''' ''485''
+|  style="text-align:center; {{Party shading/Democratic}}|10.1% ''62''
+|  style="text-align:center; background:honeyDew;"|10.6% ''65''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1892|1892]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''65.5%''' ''440''
+|  style="text-align:center; {{Party shading/Democratic}}|32.7% ''220''
+|  style="text-align:center; background:honeyDew;"|1.8% ''12''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1888|1888]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''68.1%''' ''487''
+|  style="text-align:center; {{Party shading/Democratic}}|30.1% ''215''
+|  style="text-align:center; background:honeyDew;"|1.8% ''13''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1884|1884]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''59.5%''' ''328''
+|  style="text-align:center; {{Party shading/Democratic}}|37.0% ''204''
+|  style="text-align:center; background:honeyDew;"|3.5% ''19''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1880|1880]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''78.5%''' ''395''
+|  style="text-align:center; {{Party shading/Democratic}}|21.5% ''108''
+|  style="text-align:center; background:honeyDew;"|0.0% ''0''
+|-
+|  style="text-align:center; {{Party shading/Republican}}|'''[[United States presidential election in Massachusetts, 1876|1876]]'''
+|  style="text-align:center; {{Party shading/Republican}}|'''78.6%''' ''379''
+|  style="text-align:center; {{Party shading/Democratic}}|21.4% ''103''
+|  style="text-align:center; background:honeyDew;"|0.0% ''0''
+|}
+{{Hidden end}}
+
+===Top employers===
+According to Nantucket's 2014 Comprehensive Annual Financial Report,<ref>{{cite web|url=http://nantucket-ma.gov/ArchiveCenter/ViewFile/Item/331|format=PDF|title=Town of Nantucket, Massachusetts Comprehensive Annual Financial Report}}</ref> the top employers in the town are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+|1
+| Town of Nantucket
+|941
+|-
+|2
+| [[Nantucket Cottage Hospital]]
+|180
+|-
+|3
+| Nantucket Island Resorts
+|125
+|-
+|4
+| Marine Home Center
+|135
+|-
+|5
+| [[Blue Hills Bank|Nantucket Bank]]
+|80
+|-
+|6
+| [[Stop & Shop]]
+|65
+|-
+|7
+| [[The Woods Hole, Martha's Vineyard and Nantucket Steamship Authority]]
+|28
+|-
+|8
+| Harbor Fuel
+|23
+|-
+|9
+| [[Bank of America]]
+|20
+|-
+|10
+| The Brotherhood of Thieves (restaurant)
+|20
+|}
+
+== Education ==
+[[File:CoffinSchoolNantucket.JPG|thumb|In 1827, [[Sir Isaac Coffin, 1st Baronet|Admiral Sir Isaac Coffin]] set up the Coffin School to educate descendants of [[Tristram Coffin (Nantucket)|Tristram Coffin]].<ref>{{cite web | url = http://www.nantucketpreservation.org/380-380 | title = The History of The Coffin School | last1 = Finger | first1 = Jascin Leonardo | publisher = Nantucket Preservation Trust | location = Nantucket, Massachusetts | accessdate = 2014-09-01}}</ref>  After initially faltering, the school was reconstituted in this building on Winter Street in 1854.]]
+Nantucket's public school district is [[Nantucket Public Schools]]. The Nantucket school system had 1,289 students and 117 teachers in 2011.<ref name="report">{{cite web|title=2011 NCLB Report Card - Nantucket|url=http://profiles.doe.mass.edu/reportcard/rc.aspx?linkid=38&orgcode=01970000&fycode=2011&orgtypecode=5&|work=No Child Left Behind Reports|publisher=Massachusetts Department of Elementary and Secondary Education}}</ref>
+
+Schools on the island include:
+* Nantucket Elementary School (Public)
+* Nantucket Intermediate School (Public)
+* Cyrus Peirce Middle School (Public)
+* [[Nantucket High School]] (Public)
+* Nantucket Community School (Public, Extracurricular)
+* Nantucket Lighthouse School (Private)<ref>{{cite web
+ | title = The Nantucket Lighthouse School
+ | url = http://www.nantucketlighthouseschool.org
+ | accessdate = 2013-08-03 }}</ref>
+* Nantucket New School (Private)<ref>{{cite web
+ | title = The Nantucket New School
+ | url = http://www.nantucketnewschool.org
+ | accessdate = 2013-08-03}}</ref>
+
+Nantucket Public Schools District information and meetings are broadcast on Nantucket Community Television (Channel 18) in Nantucket.<ref>{{cite web|url=https://nantucketcommunitytelevision.org/|title=Nantucket Community Television – Broadcasting Nantucket.  Vision. Voice. Life.|website=nantucketcommunitytelevision.org}}</ref>
+
+A major museum association, the [[Maria Mitchell Association]], offers educational programs to the Nantucket Public Schools, as well as the [[Nantucket Historical Association]], though the two are not affiliated.
+
+The [[University of Massachusetts Boston]] operates a field station on Nantucket. The [[Massachusetts College of Art & Design]] is affiliated with the Nantucket Island School of Design & the Arts, which offers summer courses for teens, youth, postgraduate, and undergraduate programs.
+
+== Arts and culture ==
+[[File:Robinson Nantucket.jpg|thumb|right|250px|[[Theodore Robinson]]'s painting ''Nantucket'', 1882]] Nantucket has several noted museums and galleries, including the [[Maria Mitchell Association]] and the [[Nantucket Whaling Museum]].
+
+Nantucket is home to both visual and performing arts.The island has been an [[art colony]] since the 1920s, whose artists have come to capture the natural beauty of the island's landscapes and seascapes, including its flora and the fauna. Noted artists who have lived on or painted in Nantucket include [[Frank Swift Chase]] and [[Theodore Robinson]]. Artist [[Rodney Charman (Artist)|Rodney Charman]] was commissioned to create a series of paintings depicting the marine history of Nantucket, which were collected in the book ''Portrait of Nantucket, 1659–1890: The Paintings of Rodney Charman'' in 1989.<ref>{{Cite book|url=https://books.google.com/books?id=hUPgAAAACAAJ&dq=Portrait+of+Nantucket,+1659-1890:+The+Paintings+of+Rodney+Charman&hl=en&sa=X&ved=0ahUKEwjtm9LA3MLaAhXhT98KHeC0BUYQ6AEIKTAA|title=Portrait of Nantucket, 1659-1890: The Paintings of Rodney Charman|last=Mooney|first=Robert E.|date=1996-12-12|publisher=Mill Hill Press|isbn=9780963891037|language=en}}</ref> Noted authors, including [[Herman Melville]] and [[Nathaniel Philbrick]], have visited or lived there. Internationally famous pop star [[Meghan Trainor]] hails from Nantucket.
+
+The island is the site of a number of festivals, including a book festival, wine and food festival, comedy festival, and a cranberry festival.<ref>
+{{cite web
+ | url = https://nantucket.net/activities/festivals.php
+ | title = Nantucket Festivals
+ | last =
+ | first =
+ | date = 2017
+ | website = nantucket.net
+ | publisher = Yesterday's Island, Inc.
+ | access-date = 2017-04-05
+ | quote = }}</ref>
+
+===Popular culture===
+Several literary and dramatic works involve people from, or living on, Nantucket. These include:
+* [[Nathaniel Philbrick]]'s ''Away Off Shore: Nantucket Island and Its People, 1602–1890''.
+* [[Nathaniel Philbrick]]'s ''[[In the Heart of the Sea|In the Heart of the Sea: The Tragedy of the Whaleship Essex]]''
+* [[Edgar Allan Poe|Poe]]'s ''[[The Narrative of Arthur Gordon Pym of Nantucket]]''.
+* The science-fiction-based [[Nantucket series|''Nantucket'' series]] by [[S. M. Stirling]] has the island being sent back in time from March 17, 1998 to circa [[1250 BC]] in the [[Bronze Age]].
+* Most of the [[Joan Aiken]] novel ''[[Nightbirds on Nantucket]]'' is set on the island.
+* The 1971 coming-of-age film ''[[Summer of '42]]'' was set in Nantucket.
+* The 1986 comedy ''[[One Crazy Summer]]'' was set in Nantucket and filmed on [[Cape Cod]].<ref>{{cite book|title=Film and Television Locations: a State-by-State Guidebook to Moviemaking sites, excluding Los Angeles|first=Doug|last=Gelbert |year=2002 |publisher=[[McFarland & Company]] |page=111|url=https://books.google.com/books?ei=9p1UTqKhDafUiAKDk8DhDA&ct=result&id=qYRZAAAAMAAJ&dq=Film+and+Television+Locations%3A+a+state-by-state+guidebook&q=crazy+summer#search_anchor}}</ref>
+* Nantucket is the location used in Josephine Angelini's books.{{citation needed|date=February 2015}}
+* The 1990s sitcom ''[[Wings (1990 TV series)|Wings]]'' (a series about a fictional airline serving the airport) depicted life on Nantucket at the fictional "Tom Nevers Field" and other locations, with some of the outdoor scenes filmed at various sites on the island.{{citation needed|date=November 2015}} 
+* The island's name is used as a rhyming device in a noted [[Limerick (poetry)|limerick]], beginning "[[There once was a man from Nantucket]]..".
+* [[Elin Hilderbrand|Elin Hilderbrand's]] novels are set on Nantucket.
+* Herman Melville's classic ''[[Moby-Dick]]'' has Ishmael starting his voyage at Nantucket
+* Nantucket is the setting for the Merry Folger series of mystery novels by [[Francine Mathews]].<ref name=GWMW>page 161–164, ''Great Women Mystery Writers'', 2nd Ed. by Elizabeth Blakesley Lindsay, 2007, publ. Greenwood Press, {{ISBN|0-313-33428-5}}</ref>
+* American journalist [[Pam Belluck]]'s 2012 non-fiction book ''Island Practice'' follows the misadventures of Nantucket doctor Timothy J. Lepore, MD.
+
+==Transportation==
+
+From 1900 to 1918, Nantucket was one of few jurisdictions in the United States that banned automobiles.<ref>{{cite web|url=https://www.flickr.com/photos/nantuckethistoricalassociation/3347365572/|title=Flickr|website=Flickr}}</ref>
+
+Nantucket can be reached by sea from the mainland by [[The Woods Hole, Martha's Vineyard and Nantucket Steamship Authority|The Steamship Authority]], [[Hy-Line Cruises]], or Freedom Cruise Line, or by private boat.<ref>{{cite web|url=http://www.nantucketchamber.org/by-sea.html|title=Business Directory Search - Nantucket Island Chamber of Commerce, MA|website=www.nantucketchamber.org}}</ref> A task force was formed in 2002 to consider limiting the number of vehicles on the island, in an effort to combat heavy traffic during the summer months.<ref>[https://web.archive.org/web/20131114103706/http://www.capecodonline.com/apps/pbcs.dll/article?AID=%2F20020507%2FNEWS01%2F305079971 Nantucket 'gridlock' spurs plan to limit cars on island]. CapeCodOnline.com (2002-05-07). Retrieved on 2013-08-16.</ref>
+
+Nantucket is served by [[Nantucket Memorial Airport]] ([[IATA airport code]] ACK), a three-runway airport on the south side of the island. The airport is one of the busiest in Massachusetts and often logs more take-offs and landings on a summer day than Boston's [[Logan Airport]]. This is due in part to the large number of private planes used by wealthy summer inhabitants, and in part to the 10-seat [[Cessna 402]]s used by several commercial air carriers to serve the island community.
+
+[[Nantucket Regional Transit Authority]] operates seasonal island-wide shuttle buses to many destinations including Surfside Beach, Siasconset, and the airport.
+
+Until 1917, Nantucket was served by the narrow-gauge [[Nantucket Railroad]].
+{{Clear}}
+<gallery mode="packed" heights="150px">
+File:Nantucket light 1.jpg|[[Sankaty Head Light]] [[lighthouse]]
+File:Great Point Light.jpg|[[Great Point Light]]house
+File:Light house at Brant point in Nantucket harbor.jpg|Brant Point Light in Nantucket Harbor
+</gallery>
+
+===Transportation disasters===
+[[File:Line5125 - Flickr - NOAA Photo Library.jpg|thumb|right|250px|The ''[[Argo Merchant]]'' ran aground on December 15, 1976. A silvery oil slick can be seen coming from the center holds in the foreground.]]
+Nantucket waters were the site of several noted transportation disasters:
+* On May 15, 1934, the ocean liner [[RMS Olympic|RMS ''Olympic'']], sister ship to [[RMS Titanic|RMS ''Titanic'']], rammed and sank the [[Nantucket Lightship LV-117]] in heavy fog, roughly 45 miles south of Nantucket Island. Four men survived out of a crew of 11.
+* On July 25, 1956, the Italian ocean liner [[SS Andrea Doria|SS ''Andrea Doria'']] collided with the [[MS Athena|MS ''Stockholm'']] in heavy fog {{convert|45|mi|km}} south of Nantucket, resulting in the deaths of 51 people (46 on the ''Andrea Doria'', 5 on the ''Stockholm'').
+* On December 15, 1976, the [[oil tanker]] ''[[Argo Merchant]]'' ran aground {{convert|29|mi|km}} southeast of Nantucket. Six days later, on December 21, the wrecked ship broke apart, causing one of the largest [[oil spill]]s in history.
+* On October 31, 1999, [[EgyptAir Flight 990]], traveling from [[New York City]] to [[Cairo]], crashed approximately {{convert|60|mi|km}} south of Nantucket, killing all 217 people on board.
+
+==National Register of Historic Places==
+The following Nantucket places are listed on the [[National Register of Historic Places]]:<ref>{{cite web|url=http://www.nationalregisterofhistoricplaces.com/MA/Nantucket/state.html|title=National Register of Historical Places - MASSACHUSETTS (MA), Nantucket County|website=www.nationalregisterofhistoricplaces.com}}</ref>
+* [[Nantucket Historic District]], a [[National Historic Landmark District]] (added December 13, 1966); Expanded to encompass the entire island in 1975.<ref>{{cite web|url=http://www.nantucketpreservation.org/nantucket%E2%80%99s-national-historic-landmark-update-gains-advisory-committee-approval-410|title=Nantucket’s National Historic Landmark Update Gains Advisory Committee Approval - Nantucket Preservation Trust|website=www.nantucketpreservation.org}}</ref>
+* [[Brant Point Light|Brant Point Light Station]]—Brant Point (added October 28, 1987)
+* [[Jethro Coffin House]]—a [[National Historic Landmark]], Sunset Hill Road (added December 24, 1968)
+* [[Sankaty Head Light]] (added November 15, 1987)
+
+==Notable people==
+<!--- Please a) include a reference to demonstrate that an entry is or was a resident, b)  keep explanatory text simple and brief, and c) ensure that the person is notable enough to have a Wikipedia entry. --->
+While many notable people own property or regularly visit the island, the following have been residents of the island:
+{{div col}}
+* [[Eliza Starbuck Barney]], abolitionist, genealogist<ref name="Stout">{{cite web|last1=Stout|first1=Kate|title="Who Was Eliza Barney?"|url=https://www.nha.org/history/hn/HNbarneystout.htm|website=www.nha.org|publisher=Nantucket Historical Association|accessdate=3 December 2017}}</ref> 
+* [[Allison Mleczko]], ice hockey player
+* [[James H. Cromartie]], artist
+* [[A. J. Cronin]], novelist
+* [[J. A. Folger|James A. Folger]], founder of the coffee company bearing his name
+* [[Mayhew Folger]], whaling captain
+* [[Anna Gardner]], abolitionist, poet, teacher
+* [[Robert Moller Gilbreth]], businessman, educator, and politician<ref>{{cite web|url=http://gilbrethnetwork.tripod.com/dozen.html|title=The Gilbreth Network: That Most Famous Dozen|website=gilbrethnetwork.tripod.com}}</ref>
+* [[Phebe Ann Coffin Hanaford]], first woman ordained as a Universalist minister in New England
+* [[Elin Hilderbrand]], author 
+* [[Dorcas Honorable]], last of the Nantucket [[Wampanoag]]s
+* [[Rowland Hussey Macy]], 19th-century retailer, founder of Macy's department store
+* [[Maria Mitchell]], astronomer
+* [[Raymond Rocco Monto]], orthopedic surgeon
+* [[Mary Morrill]], grandmother of [[Benjamin Franklin]]
+* [[Lucretia Coffin Mott]], minister, abolitionist, social reformer, and proponent of women's rights
+* [[Cyrus Peirce]], educator
+* [[Nathaniel Philbrick]], author
+* [[Joseph Gardner Swift]], first graduate of the [[United States Military Academy]]
+* [[Meghan Trainor]], singer and songwriter<ref>
+{{Citation
+ | last = Globe correspondent
+ | first =
+ | title = All about Nantucket's Meghan Trainor
+ | newspaper = Boston Globe
+ | series = Style
+ | date = September 16, 2014
+ | url = https://www.bostonglobe.com/lifestyle/style/2014/09/16/all-about-nantucket-meghan-trainor/hBHcLNeJ5u1cj97XzXXcoO/story.html
+ | accessdate = 2015-09-04 }}
+</ref>
+* [[Charles F. Winslow]], physician, 19th-century science author
+* [[Mary A. Brayton Woodbridge]], 19th-century temperance reformer, editor
+{{div col end}}
+
+== See also ==<!--This list needs to be reduced by integration of elements into the main article.-->
+{{div col|colwidth=25em}}
+* [[Essex (1799 whaleship)|''Essex'' tragedy]]
+* [[List of National Historic Landmarks in Massachusetts]]
+* [[Maria Mitchell Association]]
+* [[Nantucket Dreamland Foundation]]
+* [[Nantucket Whaling Museum|Nantucket Historical Association]]
+* [[The Nantucket Project]]
+* [[Nantucket Forests]]
+* [[Nantucket Reds]]
+* [[Nantucket shipbuilding]]
+* [[National Register of Historic Places listings in Nantucket County, Massachusetts]]
+{{div col end}}
+
+== References ==
+{{reflist|30em}}
+
+== Notes ==
+* Bond, C. Lawrence, ''Native Names of New England Towns and Villages'', privately published by C. Lawrence Bond, Topsfield, Massachusetts, 1991.
+* [[Nathaniel Philbrick|Philbrick, Nathaniel]], ''[[In the Heart of the Sea: The Tragedy of the Whaleship Essex]]'', Penguin, NY, NY, 2000.
+* [http://www.neatorama.com/2009/09/25/neatorama-shop-story-i-once-had-a-chum-from-nantucket/ I Once Had a Chum from Nantucket by Drs. Ernest and Convalescence Bidet-Wellville] on Neatorama
+* [https://www.nytimes.com/2005/06/05/national/class/NANTUCKET-FINAL.html?ei=5090&en=4225cda3ce4bef53&ex=1275624000&adxnnl=1&partner=rssuserland&emc=rss&pagewanted=all&adxnnlx=1140375939-+Yl719kmuDWV2YuhVLnehA Fabrikant, Geraldine, "Old Nantucket Warily Meets the New", ''New York Times'', June 5, 2005]
+* [http://travel.nytimes.com/2010/07/18/travel/18hours.html?th&emc=th 36 Hours in Nantucket in the ''New York Times'' of July 18, 2010]
+
+== Further reading ==
+* {{cite book | last = Macy | first = William Francis | title = The Story of Old Nantucket: A Brief History of the Island and its People from its Discovery down to the Present Day | place = Nantucket | publisher = The Inquirer and Mirror Press | year = 1915 | url = https://books.google.com/?id=xCcSAAAAYAAJ&printsec=frontcover}}
+* {{cite book |last=Tower |first=W. S. |title=A History of the American Whale Fishery |year=1907 |publisher=University of Philadelphia | url = https://books.google.com/?id=du4JAAAAIAAJ&printsec=frontcover}}
+
+== External links ==
+{{Commons category-inline|Nantucket}}
+
+{{Wikivoyage-inline|Nantucket}}
+* [http://www.nantucket-ma.gov/ Town of Nantucket website]
+{{Nantucket County, Massachusetts}}
+{{Massachusetts}}
+{{National Register of Historic Places in Massachusetts}}
+{{Massachusetts Public High Schools}}
+{{Islands and Peninsulas of Massachusetts}}
+
+{{Authority control}}
+
+[[Category:1641 establishments in Massachusetts]]
+[[Category:Cape Cod and the Islands| ]]<!--please leave the empty space as standard-->
+[[Category:County seats in Massachusetts]]
+[[Category:Historic districts in Massachusetts]]
+[[Category:Islands of Southeastern Massachusetts]]
+[[Category:Islands of Nantucket County, Massachusetts]]
+[[Category:Massachusetts counties]]
+[[Category:Nantucket, Massachusetts|*]]
+[[Category:National Historic Landmarks in Massachusetts]]
+[[Category:National Register of Historic Places in Nantucket County, Massachusetts]]
+[[Category:Populated coastal places in Massachusetts]]
+[[Category:Populated places established in 1641]]
+[[Category:Port cities and towns in Massachusetts]]
+[[Category:Southeastern Massachusetts]]
+[[Category:Towns in Massachusetts]]
+[[Category:Wampanoag tribe]]

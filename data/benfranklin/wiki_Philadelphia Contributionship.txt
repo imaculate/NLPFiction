@@ -1,0 +1,75 @@
+{{Infobox NRHP 
+| name =Philadelphia Contributionship
+| nrhp_type =nhl
+| image =Philadelphia_Contributionship.jpg
+| image_size = 267px
+| caption = (2013)
+| location= 212 S. 4th St.<br>[[Philadelphia]], [[Pennsylvania]]
+| coordinates = {{coord|39.946825|-75.148249|format=dms|display=inline,title}}
+| locmapin = Philadelphia#Pennsylvania#USA
+| built =1835-36
+| architect= [[Thomas U. Walter]]<br>Collins and Autenreith<ref name=philarch>{{cite philarch}}, p.50</ref>
+| architecture= [[Greek Revival architecture|Greek Revival]]<ref name=philarch />
+| designated_nrhp_type= December 22, 1977<ref name="nhlsum">{{cite web|url=http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=1140&ResourceType=Building|title=Philadelphia Contributionship |accessdate=2008-02-17|work=National Historic Landmark summary listing|publisher=National Park Service}}</ref>
+| added = May 27, 1971<ref name="nris">{{NRISref|2007a}}</ref>
+| governing_body = private
+| refnum=71000732
+ | designated_other1_name = Pennsylvania state historical marker
+ | designated_other1_abbr=PHMC
+ | designated_other1_date = December 17, 1954<ref name=phmcdatabase>{{cite web | title =  PHMC Historical Markers  | work =Historical Marker Database | publisher = Pennsylvania Historical & Museum Commission | url =http://search.pahistoricalmarkers.com/ | accessdate = December 10, 2013}}</ref>
+ | designated_other1_link = List of Pennsylvania state historical markers
+ | designated_other1_color = navy
+ | designated_other1_textcolor=#ffc94b
+}}
+
+The '''Philadelphia Contributionship for the Insurance of Houses from Loss by Fire''' is the oldest property insurance company in the [[United States]]. It was organized by [[Benjamin Franklin]] in 1752, and incorporated in 1768.<ref name=philarch /><ref name="events">{{Cite web|url=http://www.contributionship.com/history/index.html |title=Key events in the history of Contributionship |accessdate=2008-10-18 |publisher=The Contributionship Companies |deadurl=yes |archiveurl=https://web.archive.org/web/20110205135317/http://www.contributionship.com/history/index.html |archivedate=February 5, 2011 }}</ref>
+
+The Contributionship's building, at 212 S. 4th Street between Walnut and Locust Streets in the [[Society Hill]] neighborhood of [[Philadelphia]], was built in 1835-36 and was designed by [[Thomas U. Walter]] in the [[Greek Revival architecture|Greek Revival style]], with [[Corinthian columns]]. The portico was replaced in 1866 by Collins and Autenreith who also expanded the living quarters on the top two floors by the addition of a [[mansard]] roof.  A marble cornice between the third and fourth floors was also added.<ref name=philarch />  The building was listed on the [[National Register of Historic Places]] in 1971 and was designated a [[National Historic Landmark]] in 1977.<ref name="nhlsum"/><ref name="nrhpinv2">{{Cite journal|title=National Register of Historic Places Inventory-Nomination: Philadelphia Contributionship|url={{NHLS url|id=71000732}} |format=pdf|date=May 1977 |author=George R. Adams |publisher=National Park Service}} and {{NHLS url|id=71000732|title=''Accompanying 9 photos, exterior and interior, from 1972 and 1977''|photos=y}}&nbsp;{{small|(32&nbsp;KB)}}</ref>
+
+==History==
+The Philadelphia Contributionship was founded in 1752, largely through the efforts of [[Benjamin Franklin]].  It was structured as a [[mutual insurance]] organization, providing fire insurance to a limited area in and around Philadelphia.  It introduced several key principles that underpin modern insurance techniques, including inspecting properties to be insured, and setting rates based on a risk assessment.  Buildings that were not constructed to specified standards were rejected for coverage, and rates could be raised for unsafe living practices, such as the storage of combustible materials in wooden buildings.  The company also was the first to establish a financial reserve from which to pay claims.<ref name="nrhpinv2"/>
+
+Franklin's newspaper, ''[[The Pennsylvania Gazette]]'', first began to advertise the upcoming (April 13, 1752) organizational meeting in its issue of February 18, with a notice that "All persons inclined to subscribe to the articles of insurance of houses from fire, in or near this city, are desired to appear at the Court-house, where attendance will be given, to take in their subscriptions, every seventh day of the week, in the afternoon, until the 13th of April next, being the day appointed by the said articles for electing twelve directors and a treasurer."  <ref>''The Pennsylvania Gazette'', February 18, 1752, p2</ref><ref>''The Pennsylvania Gazette'', March 17, 1752, p2</ref>
+
+The company directors at first met in taverns and other public meeting spaces, with larger organizational meetings taking place at the courthouse.  Its directors finally purchased land for a permanent headquarters in 1835.  Although the company has not innovated in insurance practices since its early days, it continues to function as an insurer in the Philadelphia area.<ref name="nrhpinv2"/>
+
+==Early directors==
+{| class="wikitable"
+|+Notable early directors of the company included:
+!Name !! Occupation
+|-
+| [[William Coleman (judge)|William Coleman]] || judge
+|-
+| [[Benjamin Franklin]] || printer
+|-
+| [[Samuel Rhoads]] || architect / master carpenter
+|-
+| [[Philip Syng]] || silversmith
+|}
+
+==See also==
+*{{Portal-inline|Philadelphia}}
+* [[History of insurance]]
+* [[History of cooperatives in the United States]]
+* [[List of National Historic Landmarks in Philadelphia]]
+* [[National Register of Historic Places listings in Center City, Philadelphia]]
+
+==References==
+'''Notes'''
+{{Reflist}}
+
+==External links==
+*{{commonscat-inline}}
+*{{official website}}
+* [http://www.contributionship.com/history/index.html Key events in the history of Contributionship] – official website of the Contributionship Companies
+
+{{Society Hill}}
+{{National Register of Historic Places in Pennsylvania|state=collapsed}}
+{{Benjamin Franklin}}
+
+[[Category:Buildings and structures on the National Register of Historic Places in Philadelphia]]
+[[Category:National Historic Landmarks in Pennsylvania]]
+[[Category:Office buildings completed in 1836]]
+[[Category:Pennsylvania state historical marker significations]]
+[[Category:Society Hill, Philadelphia]]
+[[Category:1768 establishments in Pennsylvania]]

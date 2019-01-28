@@ -1,0 +1,359 @@
+{{About|the study of weather|the science of measurement|Metrology|the study of meteors|Meteoritics|other uses of the root word "meteor"|Meteor (disambiguation)}}
+{{short description|Interdisciplinary scientific study of the atmosphere focusing on weather forecasting}}
+
+{{Weather}}
+{{Atmospheric sciences}}
+
+'''Meteorology''' is a branch of the [[atmospheric sciences]] which includes [[atmospheric chemistry]] and [[atmospheric physics]], with a major focus on [[weather forecasting]].  The study of meteorology dates back [[millennia]], though significant progress in meteorology did not occur until the 18th century. The 19th century saw modest progress in the field after [[weather observation]] networks were formed across broad regions. Prior attempts at [[Weather prediction|prediction of weather]] depended on historical data. It was not until after the elucidation of the [[laws of physics]] and more particularly, the development of the computer, allowing for the automated solution of a great many equations that model the weather, in the latter half of the 20th century that significant breakthroughs in weather forecasting were achieved.
+
+[[List of meteorological phenomena|Meteorological phenomena]] are observable weather events that are explained by the science of meteorology. Meteorological phenomena are described and quantified by the variables of [[Earth's atmosphere]]: [[temperature]], [[air pressure]], [[water vapour]], [[mass flow]], and the variations and interactions of those variables, and how they change over time. Different [[Scale (spatial)|spatial scales]] are used  to describe and predict weather on local, regional, and global levels.
+ 
+Meteorology, [[climatology]], [[atmospheric physics]], and [[atmospheric chemistry]] are sub-disciplines of the [[atmospheric sciences]]. Meteorology and [[hydrology]] compose the interdisciplinary field of [[hydrometeorology]]. The interactions between Earth's atmosphere and its oceans are part of a coupled ocean-atmosphere system. Meteorology has application in many diverse fields such as the military, [[energy production]], transport, [[agriculture]], and [[construction]].
+
+The word ''[[wikt:meteorology|meteorology]]'' is from the [[Ancient Greek]] [[wikt:μετέωρος|μετέωρος]] ''metéōros'' (''meteor'') and [[wikt:-λογία|-λογία]] ''-logia'' (''[[wikt:-logy|-(o)logy]]''), meaning "the study of things high in the air".
+
+==History==
+{{Main|Timeline of meteorology}}
+[[File:AlpineRainbow.jpg|thumb|left|[[Parhelion|Parhelion (sundog)]] in [[Savoie]]]]
+
+The ability to predict rains and floods based on annual cycles was evidently used by humans at least from the time of agricultural settlement if not earlier. Early approaches to predicting weather were based on [[astrology]] and were practiced by priests. [[Cuneiform]] inscriptions on [[Babylon]]ian tablets included associations between thunder and rain. The [[Babylon|Chaldean]]s differentiated the [[22° halo|22°]] and [[46° halo]]s.<ref name=":0">{{Cite journal|last=Hellmann|first=G.|date=1908-10-01|title=The dawn of meteorology|journal=Quarterly Journal of the Royal Meteorological Society|language=en|volume=34|issue=148|pages=221–232|doi=10.1002/qj.49703414802|issn=1477-870X|bibcode=1908QJRMS..34..221H}}</ref>
+
+Ancient [[India]]n [[Upanishads]] contain mentions of [[clouds]] and [[seasons]].<ref name="imd">{{cite web|author=NS, nsimd@ymail.com |url=http://www.imd.gov.in/doc/history/history.htm |title=History of Meteorology in India |publisher=Imd.gov.in |date= |accessdate=2012-03-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20120330125208/http://www.imd.gov.in/doc/history/history.htm |archivedate=2012-03-30 |df= }}</ref> The Samaveda mentions sacrifices to be performed when certain phenomena were noticed.<ref name=":0" /> [[Varāhamihira]]'s classical work ''Brihatsamhita'', written about 500 AD,<ref name="imd"/> provides evidence of weather observation.
+
+In 350 BC, [[Aristotle]] wrote ''[[Meteorology (Aristotle)|Meteorology]]''.<ref>{{cite web|url=http://www.infoplease.com/ce6/weather/A0859595.html|title=meteorology: Introduction|publisher=|accessdate=16 June 2015}}</ref> Aristotle is considered the founder of meteorology.<ref>{{cite web|url=http://yale.edu/ynhti/curriculum/units/1994/5/94.05.01.x.html|title=94.05.01: Meteorology|publisher=|accessdate=16 June 2015}}</ref> One of the most impressive achievements described in the ''Meteorology'' is the description of what  is now known as the [[Water Cycle|hydrologic cycle]].<ref name="Aristotle">{{Cite book|last=Aristotle |title=Meteorology |url=http://etext.library.adelaide.edu.au/a/aristotle/meteorology/ |year=2004 |publisher=eBooks@Adelaide |location=The University of Adelaide Library, University of Adelaide, South Australia 5005 |quote=Translated by E.W. Webster |origyear=350 BCE |deadurl=yes |archiveurl=https://web.archive.org/web/20070217110549/http://etext.library.adelaide.edu.au/a/aristotle/meteorology/ |archivedate=2007-02-17 |df= }}</ref>
+
+The book [[De Mundo]] (composed before 250 BC or between 350 and 200 BC) noted<ref name=1908DeMundo>{{cite book|url=https://archive.org/details/demundoarisrich|title=De Mundo|year=1914|author=Aristotle; Forster, E. S. (Edward Seymour), 1879–1950; Dobson, J. F. (John Frederic), 1875–1947|page=Chapter 4|publisher=Oxford : The Clarendon Press}}</ref>
+:If the flashing body is set on fire and rushes violently to the Earth it is called a thunderbolt; if it is only half of fire, but violent also and massive, it is called a ''meteor''; if it is entirely free from fire, it is called a smoking bolt. They are all called 'swooping bolts' because they swoop down upon the Earth. Lightning is sometimes smoky, and is then called 'smoldering lightning"; sometimes it darts quickly along, and is then said to be ''vivid''. At other times, it travels in crooked lines, and is called ''forked lightning''. When it swoops down upon some object it is called 'swooping lightning'.
+
+The [[Ancient Greece|Greek]] scientist [[Theophrastus]] compiled a book on weather forecasting, called the ''Book of Signs''. The work of Theophrastus remained a dominant influence in the study of weather and in weather forecasting for nearly 2,000 years.<ref>{{cite web|url=http://www.infoplease.com/cig/weather/forecasting-from-beginning.html|title=Weather|publisher=|accessdate=16 June 2015}}</ref> In 25 AD, [[Pomponius Mela]], a geographer for the [[Roman Empire]], formalized the climatic zone system.<ref>{{cite web |url=http://www.paleorama.com/timelines/geography.html |archive-url=https://archive.today/20120906121823/http://www.paleorama.com/timelines/geography.html |dead-url=yes |archive-date=2012-09-06 |title=Timeline of geography, paleontology |publisher=Paleorama.com |quote=Following the path of Discovery }}</ref> According to Toufic Fahd, around the 9th century, [[Al-Dinawari]] wrote the ''Kitab al-Nabat'' (''Book of Plants''), in which he deals with the application of meteorology to [[agriculture]] during the [[Muslim Agricultural Revolution]]. He describes the meteorological character of the sky, the [[planet]]s and [[constellation]]s, the sun and [[moon]], the [[lunar phase]]s indicating [[season]]s and rain, the ''anwa'' ([[Astronomical object|heavenly bodies]] of rain), and atmospheric phenomena such as winds, thunder, lightning, snow, floods, valleys, rivers, lakes.<ref name=Fahd-815>{{cite journal|last=Fahd|first=Toufic|title=Botany and agriculture|page=815|postscript=<!--None-->}}</ref><ref>{{cite book|last1=Morelon|first1=Régis|last2=Rashed|first2=Roshdi|year=1996|title=Encyclopedia of the History of Arabic Science|volume=3|publisher=[[Routledge]]|isbn=978-0-415-12410-2 |postscript=<!--None-->|title-link=Encyclopedia of the History of Arabic Science}}</ref>{{Verify source|date=September 2010}}
+
+Early attempts at predicting weather were often related to prophesy and divining and sometimes based on astrological ideas. Admiral FitzRoy tried to separate scientific approaches from prophetic ones.<ref>{{cite journal|author= Anderson, Katharine|year=1999| title= The weather prophets: science and reputation in Victorian meteorology| journal=History of Science| volume=37|pages=179–215|bibcode=1999HisSc..37..179A}}</ref>
+
+===Research of visual atmospheric phenomena===
+[[File:Baker beach at twilight 41.jpg|Twilight at [[Baker Beach]]|thumb]]
+{{See also|Rainbow|Twilight}}
+
+Ptolemy wrote on the [[atmospheric refraction]] of light in the context of astronomical observations.<ref>Smith AM, 1996. "Ptolemy's Theory of Visual Perception: An English Translation of the Optics," pp. 46. ''Transactions of the American Philosophical Society'' vol. 86, part 2.</ref> In 1021, [[Alhazen]] showed that atmospheric refraction is also responsible for [[twilight]]; he estimated that twilight begins when the sun is 19 degrees below the [[horizon]], and also used a geometric determination based on this to estimate the maximum possible height of the [[Earth's atmosphere]] as 52,000 ''passim'' (about 49 miles, or 79&nbsp;km).<ref>Frisinger H (1973), "Aristotle's Legacy in Meteorology." ''Bulletin of the American Meteorological Society'' volume 3 issue 3, pp. 198–204. [http://journals.ametsoc.org/doi/pdf/10.1175/1520-0477%281973%29054%3C0198%3AALIM%3E2.0.CO%3B2 Link].</ref>
+
+[[St. Albert the Great]] was the first to propose that each drop of falling rain had the form of a small sphere, and that this form meant that the rainbow was produced by light interacting with each raindrop.<ref>{{cite web|url=http://rammb.cira.colostate.edu/dev/hillger/ancient.htm#magnus|title=Ancient and pre-Renaissance Contributors to Meteorology|publisher=|accessdate=16 June 2015}}</ref> [[Roger Bacon]] was the first to calculate the angular size of the rainbow. He stated that a rainbow summit can not appear higher than 42 degrees above the horizon.<ref>{{cite book|author1=Raymond L. Lee|author2=Alistair B. Fraser|title=The Rainbow Bridge: Rainbows in Art, Myth, and Science|url=https://books.google.com/books?id=kZcCtT1ZeaEC&pg=PA155|year=2001|publisher=Penn State Press|isbn=978-0-271-01977-2|page=155}}</ref> In the late 13th century and early 14th century, [[Kamāl al-Dīn al-Fārisī]] and [[Theodoric of Freiberg]] were the first to give the correct explanations for the primary [[rainbow]] phenomenon. Theoderic went further and also explained the secondary rainbow.<ref>Topdemir, Hüseyin Gazi (2007), [http://www.idosi.org/hssj/hssj2%281%2907/10.pdf Kamal Al-din Al-Farisi's explanation of the rainbow]</ref> In 1716, Edmund Halley suggested that [[Aurora (astronomy)|aurorae]] are caused by "magnetic effluvia" moving along the [[Earth's magnetic field]] lines.
+
+===Instruments and classification scales===
+{{See also|Beaufort Scale|Celsius|Fahrenheit}}
+[[File:Wea00920.jpg|thumb|A hemispherical cup anemometer]]
+
+In 1441, [[Sejong the Great of Joseon|King Sejong]]'s son, Prince Munjong of Korea, invented the first standardized [[rain gauge]].<ref>{{Cite book|url=https://books.google.com/books?id=4taaVmhmd8sC&pg=PA151|title=Earth Science' 2005 Ed.|publisher=Rex Bookstore, Inc.|isbn=978-971-23-3938-7|page=151}}</ref> These were sent throughout the [[Joseon Dynasty]] of [[Korea]] as an official tool to assess land taxes based upon a farmer's potential harvest. In 1450, [[Leone Battista Alberti]] developed a swinging-plate [[anemometer]], and was known as the first ''anemometer''.<ref name="Jacobson">{{Cite book |last=Jacobson |first=Mark Z. |title=Fundamentals of Atmospheric Modeling |type=paperback |edition=2nd |date=June 2005 |publisher=Cambridge University Press |location=New York |isbn=978-0-521-54865-6 |page=828}}</ref> In 1607, [[Galileo Galilei]] constructed a [[Galileo thermometer|thermoscope]]. In 1611, [[Johannes Kepler]] wrote the first scientific treatise on snow crystals: "Strena Seu de Nive Sexangula (A New Year's Gift of Hexagonal Snow)".<ref>{{cite web|url=http://www.its.caltech.edu/~atomic/snowcrystals/earlyobs/earlyobs.htm|title=Early Snow Crystal Observations|publisher=|accessdate=16 June 2015}}</ref> In 1643, [[Evangelista Torricelli]] invented the mercury [[barometer]].<ref name="Jacobson"/> In 1662, Sir [[Christopher Wren]] invented the mechanical, self-emptying, tipping bucket rain gauge. In 1714, [[Gabriel Fahrenheit]] created a reliable scale for measuring temperature with a mercury-type thermometer.<ref>Grigull, U., Fahrenheit, a Pioneer of Exact Thermometry. Heat Transfer, 1966, The Proceedings of the 8th International Heat Transfer Conference, San Francisco, 1966, Vol. 1.</ref> In 1742, [[Anders Celsius]], a Swedish astronomer, proposed the "centigrade" temperature scale, the predecessor of the current [[Celsius]] scale.<ref>Beckman, Olof,[http://www.astro.uu.se/history/Celsius_scale.html History of the Celsius temperature scale.], ''translated'', Anders Celsius  (Elementa,84:4,2001); ''English''</ref> In 1783, the first hair [[hygrometer]] was demonstrated by [[Horace-Bénédict de Saussure]]. In 1802–1803, [[Luke Howard]] wrote ''On the Modification of Clouds'', in which he assigns [[List of cloud types|cloud types]] [[Latin]] names.<ref>Thornes, John. E. (1999). ''John Constable's Skies.''  The [[University of Birmingham]] Press, pp. 189. {{ISBN|1-902459-02-4}}.</ref> In 1806, [[Francis Beaufort]] introduced his [[Beaufort scale|system for classifying wind speeds]].<ref>Bill Giles O.B.E. (2009). [http://www.bbc.co.uk/weather/features/understanding/beaufort_scale.shtml Beaufort Scale.] [[BBC]]. Retrieved on 2009-05-12.</ref> Near the end of the 19th century the first [[cloud atlas]]es were published, including the ''[[International Cloud Atlas]]'', which has remained in print ever since. The April 1960 launch of the first successful [[weather satellite]], [[TIROS-1]], marked the beginning of the age where weather information became available globally.
+
+===Atmospheric composition research===
+In 1648, [[Blaise Pascal]] rediscovered that [[atmospheric pressure]] decreases with height, and deduced that there is a vacuum above the atmosphere.<ref>Florin to Pascal, September 1647, ''Œuves completes de Pascal'', 2:682.</ref> In 1738, [[Daniel Bernoulli]] published ''Hydrodynamics'', initiating the [[Kinetic theory of gases]] and established the basic laws for the theory of gases.<ref>{{MacTutor Biography|id=Bernoulli_Daniel}}</ref> In 1761, [[Joseph Black]] discovered that [[ice]] absorbs [[heat]] without changing its temperature when melting. In 1772, Black's student [[Daniel Rutherford]] discovered [[nitrogen]], which he called ''phlogisticated air'', and together they developed the [[phlogiston theory]].<ref>[http://www.londonmet.ac.uk/genesis/search/$-search-results.cfm?CCODE=2476 Biographical note at "Lectures and Papers of Professor Daniel Rutherford (1749–1819), and Diary of Mrs Harriet Rutherford"].</ref> In 1777, [[Antoine Lavoisier]] discovered [[oxygen]] and developed an explanation for combustion.<ref>"Sur la combustion en général" ("On Combustion in general," 1777) and "Considérations Générales sur la Nature des Acides" ("General Considerations on the Nature of Acids," 1778).</ref> In 1783, in Lavoisier's essay "Reflexions sur le phlogistique",<ref>Nicholas W. Best, "[https://link.springer.com/article/10.1007/s10698-015-9220-5 Lavoisier's 'Reflections on Phlogiston' I: Against Phlogiston Theory"], ''[[Foundations of Chemistry]]'', 2015, '''17''', 137–151.</ref> he deprecates the phlogiston theory and proposes a [[caloric theory]].<ref>Nicholas W. Best, [https://link.springer.com/article/10.1007/s10698-015-9236-x Lavoisier's 'Reflections on Phlogiston' II: On the Nature of Heat], ''[[Foundations of Chemistry]]'', 2015, '''17'''. In this early work, Lavoisier calls it “igneous fluid”.</ref><ref>The 1880 edition of [[A Guide to the Scientific Knowledge of Things Familiar]], a 19th-century educational science book, explained heat transfer in terms of the flow of caloric.</ref> In 1804, Sir [[John Leslie (physicist)|John Leslie]] observed that a matte black surface radiates heat more effectively than a polished surface, suggesting the importance of [[black body radiation]]. In 1808, [[John Dalton]] defended caloric theory in ''A New System of Chemistry'' and described how it combines with matter, especially gases; he proposed that the [[heat capacity]] of gases varies inversely with [[atomic weight]]. In 1824, [[Nicolas Léonard Sadi Carnot|Sadi Carnot]] analyzed the efficiency of [[steam engine]]s using caloric theory; he developed the notion of a [[reversible process (thermodynamics)|reversible process]] and, in postulating that no such thing exists in nature, laid the foundation for the [[second law of thermodynamics]].
+
+===Research into cyclones and air flow===
+[[File:Earth Global Circulation - en.svg|thumb|upright=1.35|General circulation of the Earth's atmosphere: The westerlies and trade winds are part of the Earth's atmospheric circulation.]]
+{{Main|Coriolis effect|Prevailing winds}}
+
+In 1494, [[Christopher Columbus]] experienced a tropical cyclone, which led to the first written European account of a hurricane.<ref>Morison, Samuel Eliot, ''Admiral of the Ocean Sea: A Life of Cristopher Columbus'', Boston, 1942, page 617.</ref> In 1686, [[Edmund Halley]] presented a systematic study of the [[trade winds]] and [[monsoon]]s and identified solar heating as the cause of atmospheric motions.<ref>Cook, Alan H., ''Edmond Halley: Charting the Heavens and the Seas'' (Oxford: Clarendon Press, 1998)</ref> In 1735, an ''ideal'' explanation of [[Atmospheric circulation|global circulation]] through study of the [[trade winds]] was written by [[George Hadley]].<ref>George Hadley, "Concerning the cause of the general trade winds," Philosophical Transactions, vol. 39 (1735).</ref> In 1743, when [[Benjamin Franklin]] was prevented from seeing a lunar eclipse by a [[tropical cyclone|hurricane]], he decided that cyclones move in a contrary manner to the winds at their periphery.<ref name="Dorst">Dorst, Neal, [http://www.aoml.noaa.gov/hrd/tcfaq/J6.html FAQ:_Hurricanes,_Typhoons,_and_Tropical_Cyclones:_Hurricane_Timeline], [http://www.aoml.noaa.gov/hrd/ Hurricane_Research_Division,_Atlantic_Oceanographic_and_Meteorological_Laboratory,_NOAA], ''January 2006''.</ref> Understanding the kinematics of how exactly the rotation of the Earth affects airflow was partial at first. Gaspard-Gustave Coriolis published a paper in 1835 on the energy yield of machines with rotating parts, such as waterwheels.<ref name=corps>{{Cite journal |author=G-G Coriolis |title=Sur les équations du mouvement relatif des systèmes de corps |journal=J. De l'Ecole Royale Polytechnique |volume=15 |pages=144–154 |year=1835}}</ref> In 1856, [[William Ferrel]] proposed the existence of a [[Ferrel cell|circulation cell]] in the mid-latitudes, and the air within deflected by the Coriolis force resulting in the prevailing westerly winds.<ref>[[William Ferrel]]. [http://www.aos.princeton.edu/WWWPUBLIC/gkv/history/ferrel-nashville56.pdf An Essay on the Winds and the Currents of the Ocean.] {{webarchive|url=https://web.archive.org/web/20131011124201/http://www.aos.princeton.edu/WWWPUBLIC/gkv/history/ferrel-nashville56.pdf |date=2013-10-11 }} Retrieved on 2009-01-01.</ref> Late in the 19th century, the motion of air masses along [[isobar (meteorology)|isobar]]s was understood to be the result of the large-scale interaction of the [[pressure gradient force]] and the deflecting force. By 1912, this deflecting force was named the Coriolis effect.<ref>{{Cite book |title=The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies |author=Arthur Gordon Webster |publisher=B.G. Teubner |year=1912 |page=320 |url=https://books.google.com/?id=zXkRAAAAYAAJ&pg=PA320&dq=coriolis+centrifugal+force+date:0-1920}}</ref> Just after World War I, a group of meteorologists in Norway led by [[Vilhelm Bjerknes]] developed the [[Norwegian cyclone model]] that explains the generation, intensification and ultimate decay (the life cycle) of [[extratropical cyclone|mid-latitude cyclones]], and introduced the idea of [[front (meteorology)|fronts]], that is, sharply defined boundaries between [[air mass]]es.<ref name="NorCycMod">Shaye Johnson. [http://weather.ou.edu/~metr4424/Files/Norwegian_Cyclone_Model.pdf#search=%22norwegian%20cyclone%20model%22 The Norwegian Cyclone Model.] {{webarchive|url=https://web.archive.org/web/20060901163934/http://weather.ou.edu/~metr4424/Files/Norwegian_Cyclone_Model.pdf |date=2006-09-01 }} Retrieved on 2006-10-11.</ref> The group included [[Carl-Gustaf Rossby]] (who was the first to explain the large scale atmospheric flow in terms of [[fluid dynamics]]), [[Tor Bergeron]] (who first determined how rain forms) and [[Jacob Bjerknes]].
+
+===Observation networks and weather forecasting===
+[[File:Wolkenstockwerke.png|thumb|upright=1.35|Cloud classification by altitude of occurrence]]
+[[File:Hyetographic_or_Rain_Map_of_the_World_1848_Alexander_Keith_Johnston.png|thumb|upright=1.35|right|This "Hyetographic or Rain Map of the World " was first published 1848 by [[Alexander Keith Johnston (1804–1871)|Alexander Keith Johnston]].]]
+[[File:Hyetographic_or_Rain_Map_of_Europe_1848_Alexander_Keith_Johnston.png|thumb|upright=1.35|right|This "Hyetographic or Rain Map of Europe" was also published in 1848 as part of "The Physical Atlas".]]
+{{See also|History of surface weather analysis}}
+
+In the late 16th century and first half of the 17th century a range of meteorological instruments was invented – the [[thermometer]], [[barometer]], [[hydrometer]], as well as wind and rain gauges. In the 1650s natural philosophers started using these instruments to systematically record weather observations. Scientific academies established weather diaries and organised observational networks.<ref name="ModScience">{{Cite book|title = The Oxford Companion to the History of Modern Science|publisher=Oxford University Press|date=2003|author=John L. Heilbron|isbn=9780199743766|pages=518}}</ref> In 1654, [[Ferdinando II de Medici]] established the first ''weather observing'' network, that consisted of meteorological stations in [[Florence]], [[Cutigliano]], [[Vallombrosa]], [[Bologna]], [[Parma]], [[Milan]], [[Innsbruck]], [[Osnabrück]], Paris and [[Warsaw]]. The collected data were sent to Florence at regular time intervals.<ref>Raymond S. Bradley, Philip D. Jones, ''Climate Since A.D. 1500'', Routledge, 1992, {{ISBN|0-415-07593-9}}, p.144</ref> In the 1660s [[Robert Hooke]] of the [[Royal Society of London]] sponsored networks of weather observers. [[Hippocrates]]' treatise ''Airs, Waters, and Places'' had linked weather to disease. Thus early meteorologists attempted to correlate weather patterns with epidemic outbreaks, and the climate with public health.<ref name="ModScience" />
+
+During the [[Age of Enlightenment]] meteorology tried to rationalise traditional weather lore, including astrological meteorology. But there were also attempts to establish a theoretical understanding of weather phenomena. [[Edmond Halley]] and [[George Hadley]] tried to explain [[trade winds]]. They reasoned that the rising mass of heated equator air is replaced by an inflow of cooler air from high latitudes. A flow of warm air at high altitude from equator to poles in turn established an early picture of circulation. Frustration with the lack of discipline among weather observers, and the poor quality of the instruments, led the early modern [[nation states]] to organise large observation networks. Thus by the end of the 18th century meteorologists had access to large quantities of reliable weather date.<ref name="ModScience" /> In 1832, an electromagnetic telegraph was created by [[Baron Schilling]].<ref>Rebecca Martin (2009) [http://www.abc.net.au/cgi-bin/common/printfriendly.pl?/catapult/indepth/telegraph.htm Catapult - Indepth - Communication: telegraph] {{Webarchive|url=https://web.archive.org/web/20160303171042/http://www.abc.net.au/cgi-bin/common/printfriendly.pl?%2Fcatapult%2Findepth%2Ftelegraph.htm |date=2016-03-03 }}, [[Australian Broadcasting Corporation]], Retrieved on 2009-05-12</ref> The arrival of the [[electrical telegraph]] in 1837 afforded, for the first time, a practical method for quickly gathering [[surface weather observation]]s from a wide area.<ref>[[Library of Congress]], [http://memory.loc.gov/ammem/sfbmhtml/sfbmtelessay.html The Invention of the Telegraph], Retrieved on 2009-01-01</ref>
+
+This data could be used to produce maps of the state of the atmosphere for a region near the Earth's surface and to study how these states evolved through time. To make frequent weather forecasts based on these data required a reliable network of observations, but it was not until 1849 that the [[Smithsonian Institution]] began to establish an observation network across the United States under the leadership of [[Joseph Henry]].<ref>{{cite web|url=http://www.si.edu/archives/ihd/jhp/joseph03.htm |title=Smithsonian Institution Archives |accessdate=16 June 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20061020020548/http://www.si.edu/archives/ihd/jhp/joseph03.htm |archivedate=20 October 2006 |df= }}</ref> Similar observation networks were established in Europe at this time. The Reverend [[William Clement Ley]] was key in understanding of cirrus clouds and early understandings of [[Jet Stream]]s.<ref>{{cite web|url=https://www.rmets.org/event/66b0c4c8-1f3a-e511-80d0-005056b14b19/abstract/fa253828-213a-e511-80d0-005056b14b19|title=Prophet without Honour: The Reverend William Clement Ley and the hunt for the jet stream|work=rmets.org|accessdate=13 October 2016|archive-url=https://web.archive.org/web/20160828052608/https://www.rmets.org/event/66b0c4c8-1f3a-e511-80d0-005056b14b19/abstract/fa253828-213a-e511-80d0-005056b14b19|archive-date=2016-08-28|dead-url=yes|df=}}</ref> [[Charles Kenneth Mackinnon Douglas]], known as 'CKM' Douglas read Ley's papers after his death and carried on the early study of weather systems.<ref>{{cite journal|title=Meteorologist's profile — Charles Kenneth Mackinnon Douglas, OBE, AFC, MA|journal = Weather|first=M.|last=Field|date=1 October 1999|volume=54|issue=10|pages=321–327|doi=10.1002/j.1477-8696.1999.tb03992.x|bibcode=1999Wthr...54..321F}}</ref>
+Nineteenth century researchers in meteorology were drawn from military or medical backgrounds, rather than trained as dedicated scientists.<ref>{{Cite journal|last=Williamson|first=Fiona|date=2015-09-01|title=Weathering the empire: meteorological research in the early British straits settlements|url=http://journals.cambridge.org/article_S000708741500028X |journal=The British Journal for the History of Science|volume=48|issue=3|pages=475–492|doi=10.1017/S000708741500028X|pmid=26234178|issn=1474-001X}}</ref> In 1854, the United Kingdom government appointed [[Robert FitzRoy]] to the new office of ''Meteorological Statist to the Board of Trade'' with the task of gathering weather observations at sea. FitzRoy's office became the [[Met Office|United Kingdom Meteorological Office]] in 1854, the second oldest national meteorological service in the world (the [[Central Institution for Meteorology and Geodynamics]] (ZAMG) in Austria was founded in 1851 and is the oldest weather service in the world). The first daily weather forecasts made by FitzRoy's Office were published in ''[[The Times]]'' newspaper in 1860. The following year a system was introduced of hoisting storm warning cones at principal ports when a gale was expected.
+
+Over the next 50 years many countries established national meteorological services. The [[India Meteorological Department]] (1875) was established to follow tropical cyclone and [[monsoon]].<ref>[[India Meteorological Department]] [http://www.imd.gov.in/doc/history/eastablishment-of-imd.htm Establishment of IMD.] {{webarchive|url=https://web.archive.org/web/20151120224108/http://www.imd.gov.in/doc/history/eastablishment-of-imd.htm |date=2015-11-20 }} Retrieved on 2009-01-01.</ref> The Finnish Meteorological Central Office (1881) was formed from part of Magnetic Observatory of [[Helsinki University]].<ref>Finnish Meteorological Institute. [http://www.fmi.fi/organization/history.html History of Finnish Meteorological Institute.] {{webarchive|url=https://web.archive.org/web/20100725213620/http://www.fmi.fi/organization/history.html |date=2010-07-25 }} Retrieved on 2009-01-01.</ref> Japan's Tokyo Meteorological Observatory, the forerunner of the [[Japan Meteorological Agency]], began constructing surface weather maps in 1883.<ref>[[Japan Meteorological Agency]]. [http://www.jma.go.jp/jma/en/History/indexe_his.htm History.] {{webarchive|url=https://web.archive.org/web/20101225034901/http://www.jma.go.jp/jma/en/History/indexe_his.htm |date=2010-12-25 }} Retrieved on 2006-10-22.</ref> The [[United States Weather Bureau]] (1890) was established under the [[United States Department of Agriculture]]. The [[Bureau of Meteorology|Australian Bureau of Meteorology]] (1906) was established by a Meteorology Act to unify existing state meteorological services.<ref name="ABC">{{cite web |url=http://www.abc.net.au/news/stories/2008/01/01/2129737.htm |title=BOM celebrates 100 years |publisher=[[Australian Broadcasting Corporation]]|date=2007-12-31 }}</ref><ref>{{cite web |title=Collections in Perth: 20. Meteorology |publisher=National Archives of Australia |date= |url=http://www.naa.gov.au/naaresources/Publications/research_guides/guides/perth/chapter20.htm |accessdate=2008-05-24}}</ref>
+
+===Numerical weather prediction===
+{{Main|Numerical weather prediction}}
+[[File:IBM 7090 console used by a meteorologist, 1965.jpg|thumb|A meteorologist at the console of the IBM 7090 in the Joint Numerical Weather Prediction Unit. c. 1965]]
+
+In 1904, Norwegian scientist [[Vilhelm Bjerknes]] first argued in his paper ''Weather Forecasting as a Problem in Mechanics and Physics'' that it should be possible to forecast weather from calculations based upon [[physical law|natural laws]].<ref>Berknes, V. (1904) "Das Problem der Wettervorhersage, betrachtet vom Standpunkte der Mechanik und der Physik" (The problem of weather prediction, considered from the viewpoints of mechanics and physics), ''Meteorologische Zeitschrift'', '''21''' : 1–7.  Available in English on-line at:  [http://www.schweizerbart.de/resources/downloads/paper_free/74383.pdf Schweizerbart science publishers].</ref><ref>{{cite web |url=http://docs.lib.noaa.gov/rescue/Bibliographies/Bjerknes/Bjerknes_July_2004.pdf |format=PDF |title=Pioneers in Modern Meteorology and Climatology: Vilhelm and Jacob Bjerknes |accessdate=2008-10-13}}</ref>
+
+It was not until later in the 20th century that advances in the understanding of atmospheric physics led to the foundation of modern [[numerical weather prediction]]. In 1922, [[Lewis Fry Richardson]] published "Weather Prediction By Numerical Process",<ref>Richardson, Lewis Fry, ''Weather Prediction by Numerical Process'' (Cambridge, England:  Cambridge University Press, 1922).  Available on-line at:  [https://archive.org/stream/weatherpredictio00richrich#page/n7/mode/2up Internet Archive.org].</ref> after finding notes and derivations he worked on as an ambulance driver in World War I. He described how small terms in the prognostic fluid dynamics equations that govern atmospheric flow could be neglected, and a numerical calculation scheme that could be devised to allow predictions. Richardson envisioned a large auditorium of thousands of people performing the calculations. However, the sheer number of calculations required was too large to complete without electronic computers, and the size of the grid and time steps used in the calculations led to unrealistic results. Though numerical analysis later found that this was due to [[numerical instability]].
+
+Starting in the 1950s, [[number|numerical]] forecasts with computers became feasible.<ref>American Institute of Physics. [http://www.aip.org/history/sloan/gcm/ Atmospheric General Circulation Modeling.] {{webarchive|url=https://web.archive.org/web/20080325084036/http://www.aip.org/history/sloan/gcm/ |date=2008-03-25 }} Retrieved on 2008-01-13.</ref> The first [[weather forecast]]s derived this way used [[barotropic]] (single-vertical-level) models, and could successfully predict the large-scale movement of midlatitude [[Rossby wave]]s, that is, the pattern of [[low pressure area|atmospheric lows]] and [[high pressure area|highs]].<ref>{{cite book |title=Storm Watchers |page=208 |year=2002 |author=Cox, John D. |publisher=John Wiley & Sons, Inc. |isbn=978-0-471-38108-2}}</ref> In 1959, the UK Meteorological Office received its first computer, a [[Ferranti Mercury]].<ref>{{Cite web|url=https://www.metoffice.gov.uk/research/modelling-systems/history-of-numerical-weather-prediction|title=The history of Numerical Weather Prediction at the Met Office|last=|first=|date=|website=Met Office|access-date=}}</ref>
+
+In the 1960s, the [[Chaos theory|chaotic]] nature of the atmosphere was first observed and mathematically described by [[Edward Lorenz]], founding the field of [[chaos theory]].<ref>Edward N. Lorenz, "Deterministic non-periodic flow", ''Journal of the Atmospheric Sciences'', vol.&nbsp;20, pages 130–141 (1963).</ref> These advances have led to the current use of [[ensemble forecasting]] in most major forecasting centers, to take into account uncertainty arising from the chaotic nature of the atmosphere.<ref name="HPCens">{{cite web |url=http://www.wpc.ncep.noaa.gov/ensembletraining |author=Manousos, Peter |publisher=[[Hydrometeorological Prediction Center]] |date=2006-07-19 |accessdate=2010-12-31 |title=Ensemble Prediction Systems}}</ref> Mathematical models used to predict the long term weather of the Earth ([[climate model]]s), have been developed that have a resolution today that are as coarse as the older weather prediction models. These climate models are used to investigate long-term [[climate]] shifts, such as what effects might be caused by human emission of [[greenhouse gas]]es.
+
+==Meteorologists==
+{{further|Weather forecasting}}
+
+'''Meteorologists''' are scientists who study meteorology.<ref>{{cite book|first1=Todd S.|last1=Glickman|location=Cambridge, Massachusetts|date=June 2009|url=http://glossary.ametsoc.org/wiki/Meteorologist |title=Meteorology Glossary|format=electronic|edition=2nd|publisher=[[American Meteorological Society]]|accessdate=March 10, 2014}}</ref> The American Meteorological Society published and continually updates an authoritative electronic ''Meteorology Glossary''.<ref>{{cite book|first1=Todd S.|last1=Glickman|location=Cambridge, Massachusetts|date=June 2000|url=http://glossary.ametsoc.org/?p=1&query=doldrums|title=Meteorology Glossary|format=electronic|edition=2nd|publisher=[[American Meteorological Society]]|accessdate=March 10, 2014}}</ref> Meteorologists work in [[Government agency|government agencies]], private consulting and [[research]] services, industrial enterprises, utilities, radio and [[television stations]], and in [[education]]. In the United States, meteorologists held about 9,400 jobs in 2009.<ref name="BLS">[http://www.bls.gov/oco/ocos051.htm Bureau of labor statistics: "Occupational Outlook Handbook, 2010–11 Edition"]</ref>
+
+Meteorologists are best known by the public for [[weather forecasting]]. Some radio and television weather forecasters are professional meteorologists, while others are [[reporters]] (weather specialist, weatherman, etc.) with no formal meteorological training. The [[American Meteorological Society]] and [[National Weather Association]] issue "Seals of Approval" to weather broadcasters who meet certain requirements.
+
+==Equipment==
+[[File:Huracán Hugo.jpg|thumb|Satellite image of [[Hurricane Hugo]] with a [[polar low]] visible at the top of the image]]
+{{Main|Meteorological instrumentation}}
+Each science has its own unique sets of laboratory equipment. In the atmosphere, there are many things or qualities of the atmosphere that can be measured. Rain, which can be observed, or seen anywhere and anytime was one of the first atmospheric qualities measured historically. Also, two other accurately measured qualities are wind and humidity. Neither of these can be seen but can be felt. The devices to measure these three sprang up in the mid-15th century and were respectively the [[rain gauge]], the anemometer, and the hygrometer. Many attempts had been made prior to the 15th century to construct adequate equipment to measure the many atmospheric variables. Many were faulty in some way or were simply not reliable. Even [[Aristotle]] noted this in some of his work as the difficulty to measure the air.
+
+Sets of surface measurements are important data to meteorologists. They give a snapshot of a variety of weather conditions at one single location and are usually at a [[weather station]], a ship or a [[weather buoy]]. The measurements taken at a weather station can include any number of atmospheric observables. Usually, temperature, [[atmospheric pressure|pressure]], wind measurements, and [[humidity]] are the variables that are measured by a thermometer, barometer, anemometer, and hygrometer, respectively.<ref>Office of the Federal Coordinator of Meteorology. [http://www.ofcm.gov/fmh-1/fmh1.htm Federal Meteorological Handbook No. 1 - Surface Weather Observations and Reports: September 2005.] {{webarchive|url=https://web.archive.org/web/19990420051036/http://www.ofcm.gov/fmh-1/fmh1.htm |date=1999-04-20 }} Retrieved on 2009-01-02.</ref> Professional stations may also include air quality sensors ([[carbon monoxide]], [[carbon dioxide]], [[methane]], [[ozone]], [[dust]], and [[smoke]]), [[ceilometer]] (cloud ceiling), falling precipitation sensor,  [[level sensor|flood sensor]], [[lightning|lightning sensor]], [[microphone]] ([[explosion]]s, [[sonic boom]]s, [[thunder]]), [[pyranometer]]/[[pyrheliometer]]/[[spectroradiometer]] (IR/Vis/UV [[photodiodes]]), [[rain gauge]]/[[snow gauge]], [[scintillation counter]] ([[background radiation]], [[fallout]], [[radon]]), [[seismometer]] ([[earthquake]]s and tremors), [[transmissometer]] (visibility), and a [[GPS clock]] for [[data logging]]. Upper air data are of crucial importance for weather forecasting. The most widely used technique is launches of [[radiosonde]]s. Supplementing the radiosondes a [[Aircraft Meteorological Data Relay|network of aircraft collection]] is organized by the [[World Meteorological Organization]].
+
+[[Remote sensing]], as used in meteorology, is the concept of collecting data from remote weather events and subsequently producing weather information. The common types of remote sensing are [[Radar]], [[Lidar]], and [[satellites]] (or [[photogrammetry]]). Each collects data about the atmosphere from a remote location and, usually, stores the data where the instrument is located. Radar and Lidar are not passive because both use [[EM radiation]] to illuminate a specific portion of the atmosphere.<ref>Peebles, Peyton, [1998], ''Radar Principles'', John Wiley & Sons, Inc., New York, {{ISBN|0-471-25205-0}}.</ref>  Weather satellites along with more general-purpose Earth-observing satellites circling the earth at various altitudes have become an indispensable tool for studying a wide range of phenomena from forest fires to [[El Niño]].
+
+==Spatial scales==
+The study of the atmosphere can be divided into distinct areas that depend on both time and spatial scales. At one extreme of this scale is climatology. In the timescales of hours to days, meteorology separates into micro-, meso-, and synoptic scale meteorology. Respectively, the [[geospatial]] size of each of these three scales relates directly with the appropriate timescale.
+
+Other subclassifications are used to describe the unique, local, or broad effects within those subclasses.
+{| class="wikitable" style="border-spacing: 5px; margin:auto;"
+|+ '''Typical Scales of Atmospheric Motion Systems'''<ref>{{cite web|last1=Holton|first1=James|title=An Introduction to Dynamic Meteorology|url=http://www.staff.science.uu.nl/~delde102/Holton_2004.pdf|publisher=Elsevier Academic Press|accessdate=5 March 2016|page=5}}</ref>
+|-
+! scope="col" style="width:150px;"| Type of motion
+! scope="col" style="width:100px;"| Horizontal scale (meter)
+|-
+|-
+| Molecular mean free path ||  10<sup>−3</sup> 
+|-
+| Minute turbulent eddies ||  10<sup>−2</sup> – 10<sup>−1</sup>  
+|-
+| Small eddies ||     10<sup>−1</sup> – 1
+|-
+|  Dust devils ||    1–10 
+|-
+| Gusts   ||  10 – 10<sup>2</sup>  
+|-
+| Tornadoes  || 10<sup>2</sup> 
+|-
+| Thunderclouds ||  10<sup>3</sup>   
+|-
+| Fronts, squall lines ||  10<sup>4</sup> – 10<sup>5</sup>   
+|-
+| Hurricanes ||  10<sup>5</sup>  
+|-
+| Synoptic Cyclones || 10<sup>6</sup>  
+|-
+| Planetary waves ||  10<sup>7</sup>
+|-
+| Atmospheric tides ||  10<sup>7</sup>  
+|-
+| Mean zonal wind ||  10<sup>7</sup>  
+|-
+|}
+
+===Microscale===
+{{Main|Microscale meteorology}}
+
+Microscale meteorology is the study of atmospheric phenomena on a scale of about {{convert|1|km|mi}} or less. Individual thunderstorms, clouds, and local turbulence caused by buildings and other obstacles (such as individual hills) are modeled on this scale.<ref>{{cite web |url=http://amsglossary.allenpress.com/glossary/search?query=micrometeorology |title=AMS Glossary of Meteorology |accessdate=2008-04-12 |publisher=[[American Meteorological Society]] |deadurl=yes |archiveurl=https://web.archive.org/web/20110606101802/http://amsglossary.allenpress.com/glossary/search?query=micrometeorology |archivedate=2011-06-06 |df= }}</ref>
+
+===Mesoscale===
+{{Main|Mesoscale meteorology}}
+
+Mesoscale meteorology is the study of atmospheric phenomena that has horizontal scales ranging from 1&nbsp;km to 1000&nbsp;km and a vertical scale that starts at the Earth's surface and includes the atmospheric boundary layer, troposphere, [[tropopause]], and the lower section of the [[stratosphere]]. Mesoscale timescales last from less than a day to weeks. The events typically of interest are [[thunderstorm]]s, [[squall line]]s, [[weather front|fronts]], [[rainbands|precipitation bands]] in [[tropical cyclone|tropical]] and [[extratropical cyclone]]s, and topographically generated weather systems such as mountain waves and [[sea breeze|sea and land breezes]].<ref>''[http://amsglossary.allenpress.com/glossary Online Glossary of Meteorology]'', [[American Meteorological Society]] [http://www.ametsoc.org/], 2nd Ed., 2000, [http://www.allenpress.com Allen Press].</ref>
+
+===Synoptic scale===
+[[File:Surface analysis.gif|thumb|upright=1.35|[[NOAA]]: Synoptic scale weather analysis.]]
+{{Main|Synoptic scale meteorology}}
+
+Synoptic scale meteorology predicts atmospheric changes at scales up to 1000&nbsp;km and 10<sup>5</sup> sec (28 days), in time and space. At the synoptic scale, the [[Coriolis acceleration]] acting on moving air masses (outside of the tropics) plays a dominant role in predictions. The phenomena typically described by [[synoptic meteorology]] include events such as extratropical cyclones, baroclinic troughs and ridges, [[weather front|frontal zones]], and to some extent [[jet stream]]s. All of these are typically given on [[weather map]]s for a specific time. The minimum horizontal scale of synoptic phenomena is limited to the spacing between [[weather station|surface observation stations]].<ref>Bluestein, H., ''<u>Synoptic-Dynamic Meteorology in Midlatitudes: Principles of Kinematics and Dynamics, Vol. 1</u>'', Oxford University Press, 1992; {{ISBN|0-19-506267-1}}</ref>
+
+===Global scale===
+[[File:WOA09 sea-surf TMP AYool.png|thumb|upright=1.35|Annual mean sea surface temperatures.]]
+
+Global scale meteorology is the study of weather patterns related to the transport of heat from the [[tropics]] to the [[Geographical pole|poles]]. Very large scale oscillations are of importance at this scale. These oscillations have time periods typically on the order of months, such as the [[Madden–Julian oscillation]], or years, such as the [[El Niño–Southern Oscillation]] and the [[Pacific decadal oscillation]]. Global scale meteorology pushes into the range of climatology. The traditional definition of climate is pushed into larger timescales and with the understanding of the longer time scale global oscillations, their effect on climate and weather disturbances can be included in the synoptic and mesoscale timescales predictions.
+
+Numerical Weather Prediction is a main focus in understanding air–sea interaction, tropical meteorology, atmospheric predictability, and tropospheric/stratospheric processes.<ref>[http://www.nrlmry.navy.mil/sec7532.htm Global Modelling], US Naval Research Laboratory, Monterey, Ca.</ref> The [[Naval Research Laboratory]] in Monterey, California, developed a global atmospheric model called [[Navy Operational Global Atmospheric Prediction System]] (NOGAPS). NOGAPS is run operationally at [[Fleet Numerical Meteorology and Oceanography Center]] for the United States Military. Many other global atmospheric models are run by national meteorological agencies.
+
+==Some meteorological principles==
+
+===Boundary layer meteorology===
+[[Boundary layer]] meteorology is the study of processes in the air layer directly above Earth's surface, known as the [[Planetary boundary layer|atmospheric boundary layer]] (ABL). The effects of the surface&nbsp;– heating, cooling, and [[friction]]&nbsp;– cause [[turbulence|turbulent mixing]] within the air layer. Significant movement  of [[sensible heat|heat]], [[matter]], or [[momentum]] on time scales of less than a day are caused by turbulent motions.<ref>''Garratt, J.R., ''<u>The atmospheric boundary layer</u>'', Cambridge University Press, 1992; {{ISBN|0-521-38052-9}}.</ref> Boundary layer meteorology includes the study of all types of surface–atmosphere boundary, including ocean, lake, urban land and non-urban land for the study of meteorology.
+
+===Dynamic meteorology===
+Dynamic meteorology generally focuses on the [[fluid dynamics]] of the atmosphere. The idea of [[air parcel]] is used to define the smallest element of the atmosphere, while ignoring the discrete molecular and chemical nature of the atmosphere. An air parcel is defined as a point in the fluid continuum of the atmosphere. The fundamental laws of fluid dynamics, thermodynamics, and motion are used to study the atmosphere. The physical quantities that characterize the state of the atmosphere are temperature, density, pressure, etc. These variables have unique values in the continuum.<ref>Holton, J.R. [2004]. An Introduction to Dynamic Meteorology, 4th Ed., Burlington, Md: Elsevier Inc.. {{ISBN|0-12-354015-1}}.</ref>
+
+==Applications==
+
+===Weather forecasting===
+[[File:Day5pressureforecast.png|thumb|upright=1.35|Forecast of surface pressures five days into the future for the north Pacific, North America, and north Atlantic Ocean]]
+{{Main|Weather forecasting}}
+
+Weather forecasting is the application of science and technology to predict the state of the [[Earth's atmosphere|atmosphere]] at a future time and given location. Humans have attempted to predict the weather informally for millennia and formally since at least the 19th century.<ref>Mistic House, [http://www.mistichouse.com/astrology-lessons.htm Astrology Lessons, History, Prediction, Skeptics, and Astrology Compatibility], Retrieved on 2008-01-12, Archived at: {{webarchive |url=https://web.archive.org/web/20080608133837/http://www.mistichouse.com/astrology-lessons.htm |date=June 8, 2008 }}</ref><ref>Eric D. Craft, [http://eh.net/encyclopedia/article/craft.weather.forcasting.history An Economic History of Weather Forecasting] {{webarchive|url=https://web.archive.org/web/20070503193324/http://eh.net/encyclopedia/article/craft.weather.forcasting.history |date=2007-05-03 }}, Retrieved on 2007-04-15</ref> Weather forecasts are made by collecting quantitative [[data]] about the current state of the atmosphere and using scientific understanding of atmospheric processes to project how the atmosphere will evolve.<ref>[[NASA]], [http://earthobservatory.nasa.gov/Library/WxForecasting/wx2.html Weather Forecasting Through the Ages], Retrieved on 2008-05-25</ref>
+
+Once an all-human endeavor based mainly upon changes in [[Atmospheric pressure|barometric pressure]], current weather conditions, and sky condition,<ref>Weather Doctor, [http://www.islandnet.com/~see/weather/eyes/barometer3.htm Applying The Barometer To Weather Watching], Retrieved on 2008-05-25</ref><ref>Mark Moore, [http://www.nwac.us/education_resources/Field_forecasting.pdf Field Forecasting – A Short Summary] {{webarchive|url=https://web.archive.org/web/20090325034756/http://www.nwac.us/education_resources/Field_forecasting.pdf |date=2009-03-25 }}, Retrieved on 2008-05-25</ref> [[numerical weather prediction|forecast models]] are now used to determine future conditions. Human input is still required to pick the best possible forecast model to base the forecast upon, which involves pattern recognition skills, [[teleconnection]]s, knowledge of model performance, and knowledge of model biases. The [[chaos theory|chaotic]] nature of the atmosphere, the massive computational power required to solve the equations that describe the atmosphere, error involved in measuring the initial conditions, and an incomplete understanding of atmospheric processes mean that forecasts become less accurate as the difference in current time and the time for which the forecast is being made (the ''range'' of the forecast) increases. The use of ensembles and model consensus help narrow the error and pick the most likely outcome.<ref name="Klaus">Klaus Weickmann, Jeff Whitaker, Andres Roubicek and Catherine Smith. [http://www.cdc.noaa.gov/spotlight/12012001/ The Use of Ensemble Forecasts to Produce Improved Medium Range (3–15 days) Weather Forecasts.] Retrieved on 2007-02-16.</ref><ref name="TBK">Todd Kimberlain. [http://www.wpc.ncep.noaa.gov/research/TropicalTalk.ppt Tropical cyclone motion and intensity talk (June 2007).] Retrieved on 2007-07-21.</ref><ref>Richard J. Pasch, Mike Fiorino, and [[Chris Landsea]]. [http://www.emc.ncep.noaa.gov/research/NCEP-EMCModelReview2006/TPC-NCEP2006.ppt TPC/NHC’S REVIEW OF THE NCEP PRODUCTION SUITE FOR 2006.]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }} Retrieved on 2008-05-05.</ref>
+
+There are a variety of end uses to weather forecasts. Weather warnings are important forecasts because they are used to protect life and property.<ref>[http://www.weather.gov/mission.shtml National Weather Service Mission Statement] {{webarchive|url=https://web.archive.org/web/20131124214601/http://www.weather.gov/mission.shtml |date=2013-11-24 }}, Retrieved on 2008-05-25</ref> Forecasts based on temperature and [[Precipitation (meteorology)|precipitation]] are important to agriculture,<ref>Blair Fannin, [http://southwestfarmpress.com/news/061406-Texas-weather/ Dry weather conditions continue for Texas] {{webarchive|url=https://web.archive.org/web/20090703095038/http://southwestfarmpress.com/news/061406-Texas-weather/ |date=2009-07-03 }}, Retrieved on 2008-05-26</ref><ref>Dr. Terry Mader, [http://beef.unl.edu/stories/200004030.shtml Drought Corn Silage] {{webarchive|url=https://web.archive.org/web/20111005203246/http://beef.unl.edu/stories/200004030.shtml |date=2011-10-05 }}, Retrieved on 2008-05-26</ref><ref>Kathryn C. Taylor, [http://pubs.caes.uga.edu/caespubs/pubcd/C877.htm Peach Orchard Establishment and Young Tree Care] {{webarchive|url=https://web.archive.org/web/20081224112403/http://pubs.caes.uga.edu/caespubs/pubcd/C877.htm |date=2008-12-24 }}, Retrieved on 2008-05-26</ref><ref>[[Associated Press]], [https://query.nytimes.com/gst/fullpage.html?res=9D0CE5DB1E30F937A25752C0A967958260 After Freeze, Counting Losses to Orange Crop], Retrieved on 2008-05-26</ref> and therefore to commodity traders within stock markets. Temperature forecasts are used by utility companies to estimate demand over coming days.<ref>''[[The New York Times]]'',  [https://query.nytimes.com/gst/fullpage.html?res=9F0CE7D9123AF935A15751C0A965958260 FUTURES/OPTIONS; Cold Weather Brings Surge In Prices of Heating Fuels], Retrieved on 2008-05-25</ref><ref>[[BBC]], [http://news.bbc.co.uk/1/hi/uk/5212724.stm Heatwave causes electricity surge], Retrieved on 2008-05-25</ref><ref>[http://www.tcdsb.org/environment/energydrill/EDSP_KeyMessages_FINAL.pdf The Seven Key Messages of the Energy Drill Program] {{webarchive|url=https://web.archive.org/web/20120217042744/http://www.tcdsb.org/environment/energydrill/EDSP_KeyMessages_FINAL.pdf |date=2012-02-17 }}, Retrieved on 2008-05-25</ref> On an everyday basis, people use weather forecasts to determine what to wear. Since outdoor activities are severely curtailed by heavy rain, snow, and [[wind chill]], forecasts can be used to plan activities around these events, and to plan ahead and survive them.
+
+===Aviation meteorology===
+Aviation meteorology deals with the impact of weather on [[air traffic control|air traffic management]]. It is important for air crews to understand the implications of weather on their flight plan as well as their aircraft, as noted by the [[Aeronautical Information Manual]]:<ref>An international version called the [[Aeronautical Information Publication]] contains parallel information, as well as specific information on the international airports for use by the international community.</ref>
+<blockquote>''The effects of ice on aircraft are cumulative—thrust is reduced, drag increases, lift lessens, and weight increases. The results are an increase in stall speed and a deterioration of aircraft performance. In extreme cases, 2 to 3 inches of ice can form on the leading edge of the airfoil in less than 5 minutes. It takes but 1/2 inch of ice to reduce the lifting power of some aircraft by 50 percent and increases the frictional drag by an equal percentage.''<ref>''"7-1-22. PIREPs Relating to Airframe Icing"'', [February 16, 2006], [[Aeronautical Information Manual]], [http://www.faa.gov/air_traffic/publications/ATpubs/AIM/ FAA AIM Online] {{webarchive|url=https://web.archive.org/web/20090712031134/http://www.faa.gov/air_traffic/publications/ATpubs/AIM/ |date=2009-07-12 }}</ref></blockquote>
+
+===Agricultural meteorology===
+Meteorologists, [[soil science|soil scientists]], agricultural hydrologists, and [[agronomy|agronomists]] are people concerned with studying the effects of weather and climate on plant distribution, [[crop yield]], water-use efficiency, [[phenology]] of plant and animal development, and the energy balance of managed and natural ecosystems. Conversely, they are interested in the role of vegetation on climate and weather.<ref>[http://www.elsevier.com/wps/find/journaldescription.cws_home/503295/description?navopenmenu=-2 Agricultural and Forest Meteorology], Elsevier, {{ISSN|0168-1923}}.</ref>
+
+===Hydrometeorology===
+[[Hydrometeorology]] is the branch of meteorology that deals with the [[hydrologic cycle]], the water budget, and the rainfall statistics of [[storm]]s.<ref>[http://www.britannica.com/eb/article-9041744/hydrometeorology Encyclopædia Britannica], 2007.</ref> A hydrometeorologist prepares and issues forecasts of accumulating (quantitative) precipitation, heavy rain, heavy snow, and highlights areas with the potential for flash flooding. Typically the range of knowledge that is required overlaps with climatology, mesoscale and synoptic meteorology, and other geosciences.<ref>[http://www.wpc.ncep.noaa.gov/html/about2.shtml About the HPC], NOAA/ National Weather Service, National Centers for Environmental Prediction, [http://www.wpc.ncep.noaa.gov/ Hydrometeorological Prediction Center], Camp Springs, Maryland, 2007.</ref>
+
+The multidisciplinary nature of the branch can result in technical challenges, since tools and solutions from each of the individual disciplines involved may behave slightly differently, be optimized for different hard- and software platforms and use different data formats. There are some initiatives – such as the DRIHM project<ref>{{cite web|url=http://www.drihm.eu/|title=Home|author=Super User|publisher=|accessdate=16 June 2015}}</ref> – that are trying to address this issue.<ref>[http://www.drihm.eu/images/newsletter/newsletter%20drihm%2001.pdf DRIHM News, number 1, March 2012, p2] "An ideal environment for hydro-meteorology research at the European level"</ref>
+
+===Nuclear meteorology===
+Nuclear meteorology investigates the distribution of [[radioactive]] [[aerosol]]s and [[gas]]es in the atmosphere.<ref>{{cite journal
+|url=http://www.springerlink.com/index/R55V691512754216.pdf
+|title=Modern research in nuclear meteorology
+|accessdate=July 6, 2008
+|date=February 1974
+|format=PDF
+|journal=Atomic Energy
+|volume=36
+|issue=2
+|pages=197–198
+|language=
+|doi=10.1007/BF01117823|last1=Tsitskishvili
+|first1=M. S.
+|last2=Trusov
+|first2=A. G.
+}}</ref>
+
+===Maritime meteorology===
+Maritime meteorology deals with air and wave forecasts for ships operating at sea. Organizations such as the [[Ocean Prediction Center]], Honolulu [[National Weather Service]] forecast office, United Kingdom [[Met Office]], and [[Japan Meteorological Agency|JMA]] prepare high seas forecasts for the world's oceans.
+
+===Military meteorology===
+{{Main|Military meteorology}}
+
+Military meteorology is the research and application of meteorology for [[military]] purposes. In the United States, the [[United States Navy]]'s [[Commander, Naval Meteorology and Oceanography Command]] oversees meteorological efforts for the Navy and [[United States Marine Corps|Marine Corps]] while the [[United States Air Force]]'s [[Air Force Weather Agency]] is responsible for the Air Force and [[United States Army|Army]].
+
+===Environmental meteorology===
+Environmental meteorology mainly analyzes industrial pollution dispersion physically and chemically based on meteorological parameters such as temperature, humidity, wind, and various weather conditions.
+
+===Renewable energy===
+Meteorology applications in renewable energy includes basic research, "exploration", and potential mapping of wind power and solar radiation for wind and solar energy.
+
+==See also==
+{{Main|Outline of meteorology|Glossary of meteorology}}
+{{Columns-list|colwidth=30em|
+*[[Aerography (meteorology)|Aerography]]
+*[[American Practical Navigator]]
+*[[Atmospheric circulation]]
+*[[Atmospheric layers]]
+*[[Atmospheric models]]
+* [[Atmospheric pressure]]
+*[[Atmospheric thermodynamics]]
+*[[Automated airport weather station]]
+*[[Cloud]]
+*[[Eddy covariance]] flux (eddy correlation, eddy flux)
+*[[El Niño–Southern Oscillation]]
+*[[Index of meteorology articles]]
+*[[List of cloud types]]
+*[[List of meteorology institutions]]
+*[[List of Russian meteorologists]]
+*[[List of weather instruments]]
+*[[Madden–Julian oscillation]]
+*[[Meteorological winter]]
+*[[National Weatherperson's Day]]
+*[[Precipitation]]
+*[[ROFOR]]
+*[[Space weather]]
+*[[Walker circulation]]
+*[[Weather and climate]]
+*[[Weather station]]
+}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Byers, Horace. General Meteorology. New York:  McGraw-Hill, 1994.
+*{{Cite book
+|last=Garret
+|first=J.R.
+|title=The atmospheric boundary layer
+|publisher=Cambridge University Press
+|isbn=978-0-521-38052-2
+|year=1992
+|origyear=1992}}
+*{{Cite book
+|authorlink=http://www.ametsoc.org/
+|others=American Meteorological Society
+|title=Glossary of Meteorology
+|url=http://amsglossary.allenpress.com/glossary
+|edition=2nd
+|publisher=Allen Press
+|year=2000}}
+*{{Cite book
+|last=Bluestein
+|first=H
+|title=Synoptic-Dynamic Meteorology in Midlatitudes: Principles of Kinematics and Dynamics, Vol. 1
+|publisher=[[Oxford University Press]]
+|isbn=978-0-19-506267-0
+|year=1992
+|origyear=1992}}
+*{{Cite book
+|last=Bluestein
+|first=H
+|title=Synoptic-Dynamic Meteorology in Midlatitudes: Volume II: Observations and Theory of Weather Systems
+|publisher=Oxford University Press
+|isbn=978-0-19-506268-7
+|year=1993
+|origyear=1993}}
+*{{Cite book
+|last=Reynolds
+|first=R
+|title=Guide to Weather
+|publisher=Firefly Books Inc
+|location=Buffalo, New York
+|isbn=978-1-55407-110-4
+|page=208
+|year=2005
+|origyear=2005}}
+*{{Cite book
+ |last         = Holton
+ |first        = J.R.
+ |title        = An Introduction to Dynamic Meteorology
+ |url          = http://elsevier.com.uk
+ |edition      = 4th
+ |publisher    = Elsevier Inc.
+ |location     = Burlington, Md
+ |isbn         = 978-0-12-354015-7
+ |year         = 2004
+ |origyear     = 2004
+ |access-date  = 2017-05-21
+ |archive-url  = https://web.archive.org/web/20130719153537/http://elsevier.com.uk/
+ |archive-date = 2013-07-19
+ |dead-url     = yes
+ |df           = 
+}}
+* {{cite book |author1=Roulstone, Ian  |author2=Norbury, John  |lastauthoramp=yes |title=Invisible in the Storm: the role of mathematics in understanding weather |url=https://books.google.com/?id=qnMrFEHMrWwC|year=2013 |publisher=Princeton University Press|isbn=978-0691152721  }}
+
+===Dictionaries and encyclopedias===
+* {{cite book|first1=Todd S.|last1=Glickman|location=Cambridge, Massachusetts|date=June 2000|url=http://glossary.ametsoc.org/?p=1&query=doldrums |title=Meteorology Glossary|format=electronic|edition=2nd|publisher=[[American Meteorological Society]]}}
+* {{cite book|first1=Roberto |last1=Gustavo Herrera |first2=Ricardo |last2=García-Herrera |first3=Luis |last3=Prieto |first4=David |last4=Gallego |first5=Emiliano |last5=Hernández  |first6=Luis |last6=Gimeno |first7=Gunther |last7=Können |first8=Frits |last8=Koek |first9=Dennis |last9=Wheeler |first10=Clive |last10=Wilkinson |first11=Maria |last11=Del Rosario Prieto |first12=Carlos |last12=Báez |first13=Scott |last13=Woodruff |url=http://pendientedemigracion.ucm.es/info/cliwoc/Dictionary_text.pdf |title=A Dictionary of Nautical Meteorological Terms: CLIWOC Multilingual Dictionary of Meteorological Terms; An English/Spanish/French/Dutch Dictionary of Windforce Terms Used by Mariners from 1750 to 1850 |publisher=[[CLIWOC]] |format=[[PDF]]}}
+* {{cite web|url=http://www.cwb.gov.tw/V7e/knowledge/encyclopedia/me000.htm |title=Meteorology Encyclopedia |publisher=Central Weather Bureau|date=2018-12-06 }}
+
+==External links==
+{{commons category|Meteorology}}
+{{Wikisource portal|Meteorology}}
+{{Wikiversity|Meteorology}}
+
+''Please see [[weather forecasting]] for weather forecast sites.''
+*[http://www.shodor.org/metweb/ Air Quality Meteorology] – Online course that introduces the basic concepts of meteorology and air quality necessary to understand meteorological computer models. Written at a bachelor's degree level.
+*[http://www.globe.gov/home The GLOBE Program] – (Global Learning and Observations to Benefit the Environment) An international environmental science and education program that links students, teachers, and the scientific research community in an effort to learn more about the environment through student data collection and observation.
+*[http://amsglossary.allenpress.com/glossary Glossary of Meteorology] – From the American Meteorological Society, an excellent reference of nomenclature, equations, and concepts for the more advanced reader.
+*[http://www.srh.noaa.gov/srh/jetstream/ JetStream – An Online School for Weather] – National Weather Service
+*[http://www.bom.gov.au/lam/ Learn About Meteorology] – Australian Bureau of Meteorology
+*[http://weather.about.com The Weather Guide] – Weather Tutorials and News at About.com
+*[http://meted.ucar.edu/ Meteorology Education and Training (MetEd)] – The COMET Program
+*[https://web.archive.org/web/20060712090225/http://www.lib.noaa.gov/ NOAA Central Library] – National Oceanic & Atmospheric Administration
+*[http://ww2010.atmos.uiuc.edu The World Weather 2010 Project] The University of Illinois at Urbana-Champaign
+*[http://www.ogimet.com/index.phtml.en Ogimet – online data from meteorological stations of the world, obtained through NOAA free services]
+*[https://www.archives.ucar.edu/ National Center for Atmospheric Research Archives, documents the history of meteorology]
+*[http://www.metoffice.gov.uk/learning/science Weather forecasting and Climate science] – United Kingdom Meteorological Office
+* [http://www.bbc.co.uk/programmes/p00548v8 Meteorology], BBC Radio 4 discussion with Vladimir Jankovic, Richard Hambyn and Iba Taub (''In Our Time, Mar. 6, 2003)
+
+{{Navboxes
+|list =
+{{Meteorological variables}}
+{{Meteorological equipment}}
+{{Physical geography topics}}
+{{Earth-based meteorological observation}}
+{{Space-based meteorological observation}} }}
+{{Portal bar|Atmospheric sciences|Weather|}}
+{{Authority control}}
+
+[[Category:Meteorology| ]]
+[[Category:Applied and interdisciplinary physics]]
+[[Category:Oceanography]]
+[[Category:Physical geography]]
+[[Category:Greek words and phrases]]

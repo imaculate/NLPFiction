@@ -1,0 +1,215 @@
+{{for|the 1994 film|Commissioner (film)}}
+A '''commissioner''' is, in principle, a member of a [[Regulatory agency|commission]] or an individual who has been given a [[wiktionary:commission|commission]] (official charge or authority to do something).
+
+In practice, the title of commissioner has evolved to include a variety of senior officials, often sitting on a specific commission. In particular, commissioner frequently refers to senior [[police]] or government officials. A High Commissioner is equivalent to an [[ambassador]], originally between the United Kingdom and the [[Dominion]]s and now between all Commonwealth states, whether [[Commonwealth realms]], [[Commonwealth Republics|republics]], or countries having a monarch other than that of the realms. The title is sometimes given to senior officials in the private sector; for instance, many [[North America]]n [[sport]]s leagues.
+
+There is some confusion between commissioners and [[commissary|commissaries]], because other European languages use the same word for both. Therefore titles such as ''commissaire'' in French, ''Kommissar'' in German and ''comisario'' in Spanish can mean either commissioner or commissary in English, depending on the context.
+
+==Domestic public official==
+A Commissioner within a modern [[State (polity)|state]] generally holds his or her office by virtue of a [[Letters patent|commission]] from the [[head of state]] or a council of elected representatives (or appointed by non-elected officials in the case of dictatorships).
+
+===Canadian territories===<!-- This section is linked from Provinces and territories of Canada -->
+Commissioners are the formal heads of the [[Canadian Territories|territories]] in [[Canada]] (those areas under the formal jurisdiction of the federal Crown-[[Queen-in-Council|in-Council]] and without separate constitutional status of a [[Provinces and territories of Canada|province]]). Unlike the [[Governor General of Canada|governor general]] or a [[Lieutenant governor (Canada)|lieutenant governor]], commissioners are not viceregal representatives of the [[Monarchy of Canada|Canadian monarch]]; rather, they are delegates of the federal Crown-in-Council and, under federal [[statute]]s governing the territories,<ref>[http://laws.justice.gc.ca/en/N-27/252179.html] {{webarchive|url=https://web.archive.org/web/20060902153722/http://laws.justice.gc.ca/en/N-27/252179.html|date=September 2, 2006}}</ref><ref>[http://laws.justice.gc.ca/en/Y-2.01/265655.html] {{webarchive|url=https://web.archive.org/web/20110605040023/http://laws.justice.gc.ca/en/Y-2.01/265655.html|date=June 5, 2011}}</ref><ref>{{cite web|url=http://laws.justice.gc.ca/en/N-28.6/index.html |title=Nunavut Act |publisher=Laws.justice.gc.ca |date= |accessdate=2015-07-13}}</ref> act in accordance with written instructions from Cabinet or the minister responsible (currently the [[Minister of Aboriginal Affairs and Northern Development (Canada)|Minister of Aboriginal Affairs and Northern Development]]). While commissioners formerly had a direct day-to-day role in administration and government and chaired the territory's executive council, today they are under instruction to act more like provincial lieutenant governors, as territorial assemblies have taken on more responsibility. Commissioners thus perform ceremonial duties similar to those of the monarch and viceroys, including reading the [[Speech from the Throne]] at the opening of the territorial legislature and presenting commendations to [[Canadian Forces]] members for long-term or outstanding service to the office. Possible candidates for the position are selected by the [[Advisory Committee on Vice-Regal Appointments]]. The official appointment is made by the Governor General-in-Council (the [[Government of Canada#Executive power|federal government]]).
+
+====Current Canadian commissioners====
+{| class="wikitable"
+|-
+! Symbol of office
+! Territory
+! Current commissioner
+! Commissioner since
+|-
+| style="text-align:center;"| [[File:Badge of the Commissioner of the Northwest Territories.svg|80px]]
+| [[Commissioners of the Northwest Territories|Northwest Territories]]
+| [[Margaret M. Thom]]
+| September 18, 2017
+|-
+| style="text-align:center;"| [[File:Badge of the Commissioner of Nunavut.svg|80px]]
+| [[Commissioners of Nunavut|Nunavut]]
+| [[Nellie Kusugak]]
+| June 23, 2015 
+|-
+| style="text-align:center;"| [[File:Badge of the Commissioner of Yukon.svg|80px]]
+| [[Commissioner of Yukon|Yukon]]
+| [[Angélique Bernard]]
+| March 12, 2018
+|}
+
+===Imperial China===
+Senior Public Servants, Commissioners and other high-ranking bureaucrats referred to collectively as [[Mandarin (bureaucrat)|Mandarins]].
+
+===Isle of Man===
+In the [[local government in the Isle of Man|local government system]] of the [[Isle of Man]], a Commissioner is an elected representative equivalent to a [[Councillor]].  All town, village, district and parish local government bodies consist of commissioners, with the exception of [[Douglas, Isle of Man|Douglas]], which has a council and councillors.
+
+===Malawi===
+[[Malawi]]'s position of [[District Commissioner (Malawi)|District Commissioner]] refers to the person that is appointed by the [[President of Malawi]] to oversee the administration of any of its [[Districts of Malawi|28 districts]]. One commissioner is appointed per district. The position was created during the colonial era, sustained during the [[Kamuzu Banda]] era and continues as a prominent position in democratic era in Malawi.
+
+===Scotland===
+{{main|Commissioner (Scottish Parliament)}}
+Prior to the [[Acts of Union 1707]], an [[elect]]ed member of the [[Estates of Scotland|Estates]] (parliament) of [[Scotland]] held the office of Commissioner, representing a [[constituency]] (the equivalent of a [[member of parliament]] in the contemporaneous [[Parliament of England]]). There were [[Burgh]] Commissioners and [[Shire or Stewartry]] Commissioners.
+
+===United States===<!-- This section is linked from [[List of counties in Texas]] -->
+In many [[U.S. state]]s, the legislative and executive decision-making bodies of [[County (United States)|counties]] are called the board of commissioners or [[county commission]].
+
+In [[Minnesota]], [[Alaska]], [[New York (state)|New York]] and [[Tennessee]], the heads of statewide [[Cabinet (government)|cabinet]]-level departments are called "commissioners".
+
+In [[California]], Court Commissioners are subordinate judicial officers granted many of the same authorities as Judges, though not all.
+
+Historically, the U.S. government appointed special commissioners for a variety of tasks.  For example, the head of the [[U.S. Department of Agriculture]] from 1862 to 1889 was a commissioner, not a Cabinet secretary.<ref name="or"/>
+
+Until 1968, federal courts appointed commissioners to perform routine judicial duties such as taking testimony, taking bail, and even enforcing laws such as the [[Fugitive Slave Act]]. These commissioners were replaced by [[United States magistrate judge|United States Magistrates]].<ref>{{Cite web|url=http://www.fjc.gov/history/home.nsf/page/admin_03_02.html|title=History of the Federal Judiciary {{!}} Federal Judicial Center|website=www.fjc.gov|language=en|access-date=2018-06-04}}</ref>
+
+===General===
+
+====Police====
+{{main|Police commissioner}}
+In police services in the Commonwealth of Nations and United States, the title of '''commissioner''' typically designates the '''head of an entire police force'''.
+
+In reference to police forces in other countries, "commissioner" is sometimes incorrectly used to mean a '''[[commissary]]'''. In many nations (such as Latin American countries, France, Germany, Austria, the Netherlands, Luxembourg, Spain, Italy, etc.) a ''commissary'' is typically the commander of a major police station or a locally/regionally  important police service. The equivalent ranks in the police forces of the United States and the United Kingdom are respectively '''captain''' and '''superintendent'''.
+
+====Other emergency services====
+In [[firefighting]] services in the Commonwealth of Nations, the title of ''commissioner'' typically designates the head of an entire fire service in a particular jurisdiction, such as the Commissioner of the [[New South Wales Rural Fire Service]] or the Commissioner of [[Fire and Rescue NSW]], two separate fire authorities that operate within the [[Australia]]n state of [[New South Wales]].
+
+==International public and colonial context==
+
+===British and Commonwealth overseas possessions===
+The title of Commissioner or '''[[Colonial Service#Ranks|District Commissioner]]''', as such, was used by the (gubernatorial) chief British official in:
+*[[British India]], now composed of four independent countries (Pakistan, India, Burma and Bangladesh), where the [[Divisional Commissioner]] was the head of one of the few Divisions of a province, and was higher than a [[Deputy Commissioner (India)|Deputy Commissioner]] and lower than a Secretary (now Principal Secretary) in the provincial capital.
+* [[British Central Africa]]
+* Territories of [[Rhodesia (name)|Zambesia and Rhodesia]], administered under charter by the [[British South Africa Company]]
+* the [[Oil Rivers Protectorate]] (from 5 June 1885 under a [[consul-general]]; soon renamed [[Niger Coast Protectorate]]), from 3 August 1891 till 1 January 1900 when it became the [[Protectorate of Southern Nigeria]], hence under a High Commissioner
+* the Caribbean [[Turks and Caicos Islands]], 1874 – 4 July 1959, as a dependency under the Governor of [[Jamaica]] colony
+* the [[Weihaiwei under British rule|Weihaiwei]] [[concession territory]] (held from [[China]]) from 1902 to 1938
+* [[Kamaran Island]], in June 1915 taken from the Ottoman Empire and subordinated to the [[Aden Settlement]], but not incorporated, till on 30 November 1967 it became part of the newly independent [[People's Republic of South Yemen]].
+* the [[UN trust territory]] of [[British Cameroons]], only two incumbents, from 1 October 1954 (the only [[Special Resident]] succeeding himself till 1956) to 1 October 1961 when Southern British Cameroons is incorporated into the independent Republic of Cameroon (former French mandate of Cameroun), after the northern part united with Nigeria on 1 June 1961.
+
+The title of Commissioner was also used by the senior diplomatic representatives of [[Commonwealth of Nations|Commonwealth]] countries in British [[Crown colony|colonies]], such as:
+*[[Hong Kong]], prior to the [[Transfer of the sovereignty of Hong Kong|handover]] to the [[People's Republic of China]] in 1997, after which they became known as Consuls-General.
+*[[Singapore]], prior to independence in 1965, after which they became known as High Commissioners.
+
+===Canada===
+Canada calls its government officials in charge of export promotion "[[Trade Commissioner|trade commissioners]]".  There are 150 offices of the [[Canadian Trade Commissioner Service]] in Canada and abroad, and they "assist with export advice and guidance to help [Canadians] achieve [their] international business goals."  The website devoted to the Canadian Trade Commissioner Service uses the Internet domain www.tradecommissioner.gc.ca.<ref name="canada1">{{cite web|title=Doing Business Abroad: The Canadian Trade Commissioner Service|url=http://www.tradecommissioner.gc.ca/eng/trade-offices.jsp|accessdate=January 18, 2010}}</ref>
+
+===European Union===
+The '''[[European Commissioner]]s''' are the members of the [[European Commission]], the highest executive organ of the [[European Union]], which is the closest EU equivalent to a (confederate) government. Each Commissioner is assigned a portfolio under the authority of the '''President of the EU Commission''', but they make most important decisions collegially, often subject to approval by the [[European Parliament]] and/or the [[Council of the European Union]] representing the national governments of the member countries.
+
+===French colonies===
+The [[French language|French]] equivalent, ''Commissaire'', was used for various officials employed at different levels of the colonial administration in several French-ruled countries.
+
+===Russian Empire===
+After on 17 April 1914 [[Tannu Tuva]] (ethnically Mongolian) was declared a Russian [[protectorate|'protected' area]] ([[Uryanhay]] [Urjanhaj] [[krai|kray]]), two subsequent Russian Commissioners for the Affairs of Urjanhai Kray (1914–1915 A.P. Cererin (Tsererin) and 1915–1917 Yu.V. Grigoryev) were appointed, alongside the last native tribal Paramount chief (title [[Ambyn-noyon]]), followed by a single [[Commissar]] of the Provisional Government
+(October 1917 – 16 March 1918  Aleksey Aleksandrovich Turchaninov) until czarist rule collapsed for good, giving way to the Soviet regime
+
+===United Nations administration===
+A '''UN Commissioner''' appointed in 1949 supervised the transition of the [[UN Trust territory]] of Libya (a former Italian colony; actually [[Tripolitania]] and [[Cyrenaica]] each were under a British Administrator, in 1949 restyled [[Resident (title)|Resident]], [[Fezzan]] under a French Military Governor, in 1950 also restyled Résident) to independence as a united monarchy in 1951.
+
+===United States===
+From the mid-19th century until 1939, two U.S. Government [[United States Cabinet|cabinet]] [[United States federal executive departments|departments]] used the title "commissioner" for officials posted abroad who did not enjoy [[Diplomatic rank|diplomatic status]].  U.S. federal agencies have not titled officials posted abroad as commissioners since 1939.
+
+====U.S. Department of Agriculture====
+During the 19th century, the [[U.S. Department of Agriculture]] (USDA) began sending employees, called "agricultural commissioners", abroad to investigate foreign agriculture.  These appointments were of a roving nature, as the officials were not assigned to a particular country or city.  In 1919 USDA posted to London an agricultural commissioner without diplomatic status, Edward Foley, to report on British agriculture.  Additional commissioners were posted through the 1920s to Buenos Aires, Berlin, and Shanghai.  The title began to be phased out in 1930 with passage of the [[Foreign Agricultural Service]] Act, which granted USDA authority to use the diplomatic title "[[attaché]]".  The last USDA employee to bear the title "agricultural commissioner" was Owen Dawson, agricultural commissioner at the U.S. Consulate in Shanghai, who received diplomatic status and the title [[agricultural attaché]] in 1939 when USDA's overseas officers were transferred to the Department of State.<ref name="clem">{{cite book | last =Clem  | first =Alan L.  | title =The U.S. Agricultural Attaché, His History and His Work, FAS M-91  | publisher =USDA Foreign Agricultural Service  | date =July 1960  | location =Washington  | url =https://archive.org/details/TheAgriculturalAttacheHisHistoryAndWork}}</ref><ref name="mustard">{{cite book  | last =Mustard  | first =Allan  | title =A study of management doctrines and leadership philosophies of selected organizations with international missions  | publisher =Foreign Agricultural Service, U.S. Dept. of Agriculture  | year =2003  | location =Arlington, Virginia  | pages =vi, 85 leaves : col. ill. ; 28 cm.  | url =http://agricola.nal.usda.gov/cgi-bin/Pwebrecon.cgi?Search%5FArg=Mustard%2C%20Allan&SL=None&Search%5FCode=NAME%5F&CNT=25&PID=ciU3nI8jeMbNUPhiwSRB_mmU60oCQ&BROWSE=1&HC=1&SID=1}}</ref><ref>{{cite book  | last =U.S. Department of Agriculture
+  | title =Report of the Commissioner of Agriculture
+  | publisher =USGPO
+  | date =issues of 1883–1885
+  | location =Washington
+  | url =http://www.nal.usda.gov}}</ref><ref>{{cite book|last=U.S. Department of Agriculture|title=Report of the Secretary of Agriculture|location=Washington|publisher=USGPO|date=issues of 1893, 1903, 1905, 1920, 1922, 1931, 1932, 1933, 1934, 1935, 1937, 1938, 1939, 1952, 1953, 1954| url =http://www.nal.usda.gov}}</ref>
+
+Noted American author [[Mark Twain]] recounted meeting one of the 19th-century roving agricultural commissioners in ''[[Innocents Abroad]]'':
+
+<blockquote>I was proud to observe that among our excursionists were three ministers of the gospel, eight doctors, sixteen or eighteen ladies, several military and naval chieftains with sounding titles, an ample crop of "Professors" of various kinds, and a gentleman who had "COMMISSIONER OF THE UNITED STATES OF AMERICA TO EUROPE, ASIA, AND AFRICA" thundering after his name in one awful blast! I had carefully prepared myself to take rather a back seat in that ship because of the uncommonly select material that would alone be permitted to pass through the camel's eye of that committee on credentials; I had schooled myself to expect an imposing array of military and naval heroes and to have to set that back seat still further back in consequence of it maybe; but I state frankly that I was all unprepared for this crusher.</blockquote>
+
+<blockquote>I fell under that titular avalanche a torn and blighted thing. I said that if that potentate must go over in our ship, why, I supposed he must – but that to my thinking, when the United States considered it necessary to send a dignitary of that tonnage across the ocean, it would be in better taste, and safer, to take him apart and cart him over in sections in several ships.</blockquote>
+
+<blockquote>Ah, if I had only known then that he was only a common mortal, and that his mission had nothing more overpowering about it than the collecting of seeds and uncommon yams and extraordinary cabbages and peculiar bullfrogs for that poor, useless, innocent, mildewed old fossil the Smithsonian Institute [sic], I would have felt so much relieved.<ref>{{cite web|title=Twain, Mark, 1835–1910. Innocents Abroad, Electronic Text Center, University of Virginia Library|url=http://etext.virginia.edu/etcbin/toccer-new2?id=TwaInno.sgm&images=images/modeng&data=/texts/english/modeng/parsed&tag=public&part=all|deadurl=yes|archiveurl=https://web.archive.org/web/20050312143948/http://etext.virginia.edu/etcbin/toccer-new2?id=TwaInno.sgm&images=images%2Fmodeng&data=%2Ftexts%2Fenglish%2Fmodeng%2Fparsed&tag=public&part=all|archivedate=2005-03-12|df=}}</ref></blockquote>
+
+====U.S. Department of Commerce====
+Following unification of the [[U.S. Foreign Service]] under the [[Rogers Act]] in 1924, overseas trade promotion shifted from [[consul (representative)|consul]]s of the United States to "[[Trade Commissioner|trade commissioners]]" employed by the [[U.S. Department of Commerce]].  Most but not all trade commissioners were retitled [[commercial attaché]]s upon creation of the [[Foreign Commercial Service|Foreign Commerce Service]] (''viz.'') in 1927. The title "trade commissioner" went out of use in the United States when Commerce's overseas officials were transferred to the Department of State and all three U.S. foreign services (of the Departments of State, Agriculture and Commerce) were merged in 1939 under [[Reorganization Act of 1939|Reorganization Plan No. II]].<ref name="or">{{cite book  | title =Official Register of the United States Government  | publisher =USGPO  | date =issues of 1883, 1885, 1889, 1891, 1893, 1899, 1901, 1903, 1905, 1907, 1925–1959  | location =Washington  | url =https://archive.org/search.php?query=Official%20Register%20of%20the%20United%20States}}</ref><ref>{{cite book | last =U.S. Department of State  | title =Biographic Register  | publisher =USGPO
+  | location =Washington  | url =http://lccn.loc.gov/09022072}}</ref>
+
+==Non-public entities==
+
+===The Salvation Army===
+In [[The Salvation Army]], the rank of [[Commissioner in The Salvation Army|Commissioner]] is the second-highest attainable rank and the highest rank by appointment,<ref>[http://salvos.org.au/about-us/overview/our-terminology.php Info on TSA ranks and terminology]</ref> as the rank of [[Generals of The Salvation Army|General]] is by election. It is one of the original ranks of the Army and has been in use since 1880, the first Commissioner was [[George Scott Railton]].
+
+===Scouting===
+Within the [[Scout Movement]], a [[Scout Commissioner|Commissioner]] is a senior adult leader who is responsible for the management of an aspect of Scouting and/or the leadership of other adults, as opposed to adult leaders who lead youth members.
+{{see also|Commissioner Service}}
+
+===Boy Scouts of America===
+Commissioners are district and council leaders who help Scout units succeed. They coach and consult with adult leaders of Cub Scout packs, Boy Scout troops, and Venturing crews. Commissioners help maintain the standards of the Boy Scouts of America.<ref>https://www.scouting.org/Home/Commissioners.aspx</ref>
+
+===Sports===
+In many North American [[sports league]]s, including nearly all [[professional sport|professional]] leagues, the commissioner is the highest executive position in the owners association.  The exact powers of the commissioner depend on the constitution and/or rules of the league, and are invariably limited by State and Federal Law and collective bargaining agreements.  Commissioners are elected by the owners of the league's clubs or board of directors/governors, and function as Executive Directors of the various owners associations describing themselves as Leagues and handle matters such as discipline, arbitration of disputes between the clubs, etc in the interests of the owners.
+
+The title was first used in 1920, when [[Kenesaw Mountain Landis]] was appointed [[Commissioner of Baseball]] in the aftermath of the [[Black Sox Scandal]]. Landis was titled "Commissioner" partly to distinguish his office from that of the "President" of the [[American League|American]] and [[National League]]s. Landis' title derived from the ''[[National Commission (baseball)|National Commission]]'', the ruling body for baseball established in 1903, which were largely autonomous organizations at the time. The Commission originally consisted of three members. Desperate to restore public confidence in their sport's integrity, [[baseball]] owners agreed to appoint Landis as the game's sole ''Commissioner'' after he rebuffed their offer of a position at the head of a reformed Commission. Baseball owners also gave Landis absolute power and a lifetime contract,{{Dubious|date=June 2011}} which permitted the former judge to assume more power over the sport than a commissioner in any sport has held since.{{Citation needed|date=June 2007}}
+
+The other [[major professional sports league]]s of North America followed suit, either replacing their positions of league president with that of commissioner or appointing a commissioner and reducing the position of league president to a mere figurehead role. The [[National Football League]] appointed its first commissioner in 1941. The NFL, which in its early years faced several rival leagues, intended its commissioner's office to be analogous to the one then held by Landis in baseball, with authority over all of professional football. The NFL's rivals responded by appointing their own commissioners (thereby explicitly rejecting the NFL commissioner's authority). Finally in 1966, the [[American Football League]] agreed abolish their commissioner's office and recognize the authority of then-NFL commissioner [[Pete Rozelle]] in exchange for the NFL agreeing to [[AFL-NFL merger|a merger]] with its most successful rival. This did not result in any formal change to Rozelle's title or even in his powers, since the NFL constitution already purportedly granted him extensive power over other professional leagues. Nevertheless he became informally known as the ''football commissioner'' until 1970 when the merger was finalized and the AFL was fully absorbed into the NFL. No rival U.S. football league has recognized the NFL Commissioner's authority since 1970, although no such league has lasted longer than three seasons.
+
+In [[Canadian football]], the title of commissioner dates to no later than the 1940's. Like many of the NFL's rivals south of the border, the top Canadian football leagues then in existence (the [[Interprovincial Rugby Football Union]] and [[Western Interprovincial Football Union]]) appointed commissioners in a bid to assert their leagues' independence from the NFL commissioner. When the two leagues formed an umbrella organization (the Canadian Football Council) in 1956, the posts of IRFU Commissioner and WIFU Commissioner were abolished and former WIFU Commissioner [[Sydney Halter]] was appointed Commissioner of the CFC. When the CFC itself evolved into the modern [[Canadian Football League]] in 1958, Halter carried on in office as that league's first commissioner.
+
+The [[National Basketball Association]] followed suit by appointing a commissioner in 1967, largely in response to a [[American Basketball Association|rival league]] that commenced play that year. The ABA did not recognize the NBA commissioner's authority and maintained its own commissioner's office until [[American Basketball Association–National Basketball Association merger|merging with the NBA]] in 1976. The [[National Hockey League]] did not follow suit when the rival [[World Hockey Association]] commenced play, as then-NHL president [[Clarence Campbell]], who was openly hostile to the WHA's very existence, made clear he was not interested in any change to his own title. The NHL finally appointed a commissioner in 1993 (long after [[NHL-WHA merger|merging with the WHA]]) when current incumbent [[Gary Bettman]] assumed office. [[Major League Soccer]] appointed a commissioner upon its founding later that year.
+
+In general, the commissioners' powers and responsibilities in the NFL, NBA and NHL are not substantially different from those of the presidents that preceded them.  Although baseball's subsequent commissioners have not had the absolute power that Landis did, former Commissioner [[Bud Selig]] has succeeded in centralizing authority over [[Major League Baseball]] in the commissioner's office, relegating the position of league president to an honorary title and giving baseball's commissioner competencies similar to those of his colleagues in the other major sports.{{Citation needed|date=June 2007}}
+
+Many minor professional and amateur leagues throughout the United States and Canada have also appointed commissioners.  The title has not caught on outside North America. In Great Britain, the title ''chief executive'' is used for the most closely equivalent position in that country's professional leagues. A key difference between the state of affairs in North America and Europe is that most European sports (including those in Great Britain) include powerful governing bodies that operate independently of and hold some power over the professional leagues, whereas in North America the equivalent governing bodies' ''de facto'' authority is mostly confined to amateur sport. For example, while the [[Premier League]] is roughly as lucrative and wealthy as the "Big Four" North American leagues, the [[Football Association]] nevertheless has the power to veto the appointment of that league's chief executive.
+
+Current commissioners of the North American professional leagues are [[Roger Goodell]] in the NFL, [[Rob Manfred]] in the MLB (and [[minor league baseball]]), [[Adam Silver]] in the NBA, [[Gary Bettman]] in the NHL, [[Don Garber]] in MLS, [[Randy Ambrosie]] in the CFL and [[Oliver Luck]] in the [[XFL (2020)|XFL]].
+
+==Compound titles==
+In many cases, the term Commissioner is part of a more specific title, including English renditions of such titles in other languages. Examples (in some cases there are further compounds) include:
+
+* [[Assistant commissioner|Assistant Commissioner]]
+* [[Chief Commissioner]]
+* [[Civil Commissioner]]
+* [[Commissioner of Business Services]]
+* [[Commissioner of Finance]]
+* [[Commissioner of Legal Services]]
+* Commissioner of Public Lands
+* [[Commissioner of Public Works]]
+* [[Commissioner-General]]
+* [[Deputy Commissioner]]
+* District Commissioner
+* [[Divisional Commissioner]]
+* [[Extraordinary Commissioner]]
+* [[Federal Commissioner]]
+* [[Fire Commissioner]]
+* [[Football Match Commissioner]]
+* [[Government Commissioner]]
+* [[High Commissioner]]
+* [[Imperial Commissioner]]
+* [[Insurance Commissioner]]
+* [[Judicial Commissioner]]
+* [[Lord Commissioner of the Admiralty]]
+* [[Lord High Commissioner]] and its further compounds, notably [[Lord High Commissioner to the General Assembly of the Church of Scotland]] and [[Lord High Commissioner to the Parliament of Scotland]]
+* [[Military and Civil Commissioner]]
+* [[Park commissioner|Park Commissioner]]
+* [[Police commissioner|Police Commissioner]]
+* [[Provincial Commissioner]]
+* [[Resident Commissioner]]
+* [[Royal commissioner]]
+* [[Scout Commissioner]]
+* [[Special Commissioner]]
+* [[State Commissioner]] and [[Commissioner of State]]
+* [[Trade Commissioner]]
+* [[Traveling Commissioner]]
+
+==See also==
+{{Wikipedia books|United States sports commissioners}}
+*[[Ombudsman]]
+*[[List of Commissioners of New South Wales Police]]
+*[[List of Northwest Territories commissioners]]
+*[[List of Nunavut commissioners]]
+*[[List of Yukon commissioners]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[https://web.archive.org/web/20040416215955/http://www.ainc-inac.gc.ca/ps/nap/comm_e.html Official Handbook for Commissioners of the Territories (Canada)]
+*[http://www.worldstatesmen.org/ WorldStatesmen]
+
+[[Category:Diplomats by role]]
+[[Category:Gubernatorial titles]]
+[[Category:Legal professions]]
+[[Category:Terminology used in multiple sports]]
+[[Category:Titles]]

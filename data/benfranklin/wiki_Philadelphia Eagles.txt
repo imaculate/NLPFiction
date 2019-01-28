@@ -1,0 +1,739 @@
+{{short description|National Football League franchise in Philadelphia, Pennsylvania}}
+{{Use mdy dates|date=January 2019}}
+{{Use American English|date=February 2018}}
+{{Infobox NFL team
+| name = Philadelphia Eagles
+| current = 2018 Philadelphia Eagles season
+| logo = Philadelphia Eagles logo.svg
+| wordmark = Philadelphia Eagles wordmark.svg
+| founded = {{Start date and years ago|July 8, 1933}}<ref>{{cite web|title=Philadelphia Eagles Team Facts|url=http://www.profootballhof.com/teams/philadelphia-eagles/team-facts/|publisher=[[Pro Football Hall of Fame]]|accessdate=October 2, 2017}}</ref>
+| first_season = [[1933 Philadelphia Eagles season|1933]]
+| city = [[Lincoln Financial Field]]<br />[[Philadelphia|Philadelphia, Pennsylvania]]
+| misc = '''Headquartered''' in the NovaCare Complex<br />Philadelphia, Pennsylvania
+| uniform = Image:NFCE-UNIFORM-PHI-V3.3.AUE-2015.png
+| colors = [[Midnight green]], silver, black, white<ref>{{cite web|title=Team Information|url=http://prod.static.eagles.clubs.nfl.com/assets/docs/Philadelphia-Eagles-Media-Guide.pdf#page=2|publisher=NFL Enterprises LLC|work=2017 Philadelphia Eagles Media Guide|date=September 26, 2017|accessdate=May 15, 2018}}</ref><ref>{{cite web|title=Philadelphia Eagles Team Capsule|url=https://www.nfl.com/static/content/public/photo/2018/08/09/0ap3000000946101.pdf#page=204|publisher=NFL Enterprises, LLC|work=2018 Official National Football League Record and Fact Book|date=August 9, 2018|accessdate=September 17, 2018}}</ref><br />{{color box|#004C54}} {{color box|#A5ACAF}} {{color box|#000000}} {{color box|#FFFFFF}}
+| owner = [[Jeffrey Lurie]]<br />[[Christina Weiss Lurie]]<!-- Please do not vandalize this field. Jeffrey Lurie is the owner of the Philadelphia Eagles. Thank you.-->
+| chairman = Jeffrey Lurie
+| ceo = Jeffrey Lurie
+| president = Don Smolenski
+| general manager = [[Howie Roseman]] ([[de facto]])
+| coach = [[Doug Pederson]]
+| mascot = [[Swoop (Philadelphia Eagles)|Swoop]]
+| song = [[Fly, Eagles Fly]]
+| hist_yr = 1933–1942; 1944
+| hist_misc =
+| hist_misc2 =
+* Phil-Pitt "[[Steagles]]" (1943)
+| nicknames =
+* '''The Birds'''
+* '''The Iggles'''
+| NFL_start_yr = 1933
+| division_hist =
+* Eastern Division (1933–1949)
+* American Conference (1950–1952)
+* Eastern Conference (1953–1969)
+** Capitol Division (1967–1969)
+* '''[[National Football Conference]] (1970–present)'''
+** '''[[NFC East]] (1970–present)'''
+| no_league_champs = 4
+| league_champs =
+* '''[[List of NFL champions (1920–69)|NFL championships]] (pre-1970 [[AFL–NFL merger]]) (3)'''<br />[[1948 NFL Championship Game|1948]], [[1949 NFL Championship Game|1949]], [[1960 NFL Championship Game|1960]]
+| no_sb_champs = 1
+| sb_champs = {{nfly|2017}}&nbsp;([[Super Bowl LII|LII]])
+| no_conf_champs = 4
+| no_div_champs = 14
+| conf_champs =
+* '''NFL Eastern:''' {{nfly|1960}}
+* '''NFC:''' {{nfly|1980}}, {{nfly|2004}}, {{nfly|2017}}
+| div_champs =
+* '''NFL Eastern:''' {{nfly|1947}}, {{nfly|1948}}, {{nfly|1949}}, {{nfly|1960}}
+* '''NFC East:''' {{nfly|1980}}, {{nfly|1988}}, {{nfly|2001}}, {{nfly|2002}}, {{nfly|2003}}, {{nfly|2004}}, {{nfly|2006}}, {{nfly|2010}}, {{nfly|2013}}, {{nfly|2017}}
+| playoff_appearances =
+* '''NFL:''' [[1947 NFL Championship Game|1947]], [[1948 NFL Championship Game|1948]], [[1949 NFL Championship Game|1949]], [[1960 NFL Championship Game|1960]], [[1978–79 NFL playoffs|1978]], [[1979–80 NFL playoffs|1979]], [[1980–81 NFL playoffs|1980]], [[1981–82 NFL playoffs|1981]], [[1988–89 NFL playoffs|1988]], [[1989–90 NFL playoffs|1989]], [[1990–91 NFL playoffs|1990]], [[1992–93 NFL playoffs|1992]], [[1995–96 NFL playoffs|1995]], [[1996–97 NFL playoffs|1996]], [[2000–01 NFL playoffs|2000]], [[2001–02 NFL playoffs|2001]], [[2002–03 NFL playoffs|2002]], [[2003–04 NFL playoffs|2003]], [[2004–05 NFL playoffs|2004]], [[2006–07 NFL playoffs|2006]], [[2008–09 NFL playoffs|2008]], [[2009–10 NFL playoffs|2009]], [[2010–11 NFL playoffs|2010]], [[2013–14 NFL playoffs|2013]], [[2017–18 NFL playoffs|2017]], [[2018-19 NFL playoffs|2018]]
+| no_playoff_appearances = 26
+| stadium_years =
+* [[Baker Bowl]] (1933–1935)
+* [[John F. Kennedy Stadium (Philadelphia)|Philadelphia Municipal Stadium]] (1936–1939, 1941)
+* [[Connie Mack Stadium]] (1940, 1942–1957)
+* [[Franklin Field]] (1958–1970)
+* [[Veterans Stadium]] (1971–2002)
+* '''[[Lincoln Financial Field]] (2003–present)'''
+}}
+
+The '''Philadelphia Eagles''' are a professional [[American football]] team based in [[Philadelphia|Philadelphia, Pennsylvania]]. The Eagles compete in the [[National Football League]] (NFL) as a member club of the league's [[National Football Conference]] (NFC) [[NFC East|East]] division. They are [[Super Bowl]] champions, having won [[Super Bowl LII]], their first Super Bowl win in franchise history and their fourth NFL title overall, after winning the Championship Game in [[1948 NFL Championship Game|1948]], [[1949 NFL Championship Game|1949]], and [[1960 NFL Championship Game|1960]].
+
+The franchise was established in 1933 as a replacement for the bankrupt [[Frankford Yellow Jackets]], when a group led by [[Bert Bell]] secured the rights to an NFL franchise in Philadelphia. Bell, [[Chuck Bednarik]], [[Bob Brown (offensive lineman)|Bob Brown]], [[Brian Dawkins]], [[Reggie White]], [[Steve Van Buren]], [[Tommy McDonald (American football)|Tommy McDonald]], [[Greasy Neale]], [[Pete Pihos]], [[Sonny Jurgensen]], [[Terrell Owens]], and [[Norm Van Brocklin]] have been inducted to the [[Pro Football Hall of Fame]].
+
+The team has an [[Eagles–Giants rivalry|intense rivalry]] with the [[New York Giants]]. This rivalry is the oldest in the [[NFC East]] and is among the oldest in the NFL. It was ranked by [[NFL Network]] as the number one rivalry of all-time and ''[[Sports Illustrated]]'' ranks it amongst the Top 10 NFL rivalries of all-time at number four,<ref>{{cite web|url=http://sportsillustrated.cnn.com/multimedia/photo_gallery/2005/12/15/gallery.oldrivals/content.7.html|title=Top 10 NFL Rivalries Of All Time: No. 4 Giants-Eagles|magazine=[[Sports Illustrated]]|date=December 15, 2005|accessdate=September 17, 2017}}</ref> and according to [[ESPN]], it is one of the fiercest and most well-known rivalries in the American football community.<ref>{{cite web |url=http://sports.espn.go.com/espn/print?id=3086647&type=Columnist&imagesPrint=off |title=Ranking the NFL's best rivalries: Where does Colts-Pats fit? |last=Chadiha |first=Jeffri |publisher=ESPN.com |date=October 31, 2007 |accessdate=April 12, 2008}}</ref> They also have a [[Cowboys–Eagles rivalry|bitter rivalry]] with the [[Dallas Cowboys]], which has become more high-profile since the 1960s, as well as a [[Eagles–Redskins rivalry|historic rivalry]] with the [[Washington Redskins]]. Their rivalry with the [[Pittsburgh Steelers]] is another [[Eagles–Steelers rivalry|bitter rivalry]], roughly dating back to 1933, that mostly arises from the two teams' statuses as being from opposite ends of the [[Pennsylvania|same state]].<ref>{{cite news|last=Bryan|first=Dave|title=After 8 Straight Losses, Steelers Looking For Philadelphia Freedom Sunday Against Eagles|url=http://www.steelersdepot.com/2016/09/8-straight-losses-steelers-looking-philadelphia-freedom-sunday-eagles/|website=SteelersDepot.com|date=September 20, 2016|accessdate=September 17, 2017}}</ref>
+
+The team consistently ranks among the best in the league in attendance and has sold out every game since the 1999 season.<ref>{{cite news|last=Fox|first=Ashley|title=Fans always have Eagles' back|url=http://espn.go.com/nfl/playoffs/2013/story/_/id/10239020/philadelphia-eagles-fans-get-bad-rep-partly-due-their-fierce-loyalty-team|publisher=[[ESPN]]|date=January 4, 2014|accessdate=September 14, 2015}}</ref><ref>{{cite news|last=Clark|first=Kevin|title=Game Changer: NFL Scrambles to Fill Seats|url=https://online.wsj.com/articles/SB10001424052702303561504577495083707417526|newspaper=[[The Wall Street Journal]]|date=July 2, 2012|accessdate=September 14, 2015}}</ref> In a ''Sports Illustrated'' poll of 321 NFL players, Eagles fans were selected the most intimidating fans in the NFL.<ref>{{cite news|last=Smith|first=Howard|title=NFL Players Poll: Most Intimidating Fans|url=https://www.si.com/nfl/photos/2011/12/07nfl-players-poll-most-intimidating-fans-#1|magazine=Sports Illustrated|date=December 7, 2011|accessdate=September 14, 2015}}</ref>
+
+==Franchise history==
+{{Main|History of the Philadelphia Eagles}}
+
+===1931–1960===
+[[File:ChuckBednarik1952Bowman.jpg|thumb|left|[[Chuck Bednarik|"Concrete Charlie"]]]]
+Midway through the [[1931 NFL season|1931 season]], the [[Frankford Yellow Jackets]] went bankrupt and were forced to cease operations.<ref name="Lyons, 2010 pg. 81">Lyons, 2010 pg. 81</ref> After more than a year of searching for a suitable replacement, the NFL granted an expansion franchise to a syndicate headed by [[Bert Bell]] and [[Lud Wray]] and awarded them the franchise rights of the failed Yellow Jackets organization. The Bell-Wray group had to pay an entry fee of $3,500 (equal to ${{formatnum:{{Inflation|US|2500|1931}}}} today) and assumed a total debt of $11,000 that was owed to three other NFL franchises.<ref name="Lyons, 2010 pg. 82">Lyons, 2010 pg. 82</ref> Drawing inspiration from the Blue Eagle insignia of the [[National Recovery Administration]]—the centerpiece of President [[Franklin D. Roosevelt]]'s [[New Deal]]<ref name="Lyons, 2010 pg. 82" />—Bell and Wray named the new franchise the Philadelphia Eagles. Neither the Eagles nor the NFL officially regard the two franchises as the same, citing the aforementioned period of dormancy. Furthermore, almost no Yellow Jackets players were on the Eagles' first roster. The Eagles, along with the [[Pittsburgh Steelers]] and the now-defunct [[Cincinnati Reds (NFL)|Cincinnati Reds]], joined the NFL as [[expansion team]]s.
+
+In 1937, the Eagles moved to [[Shibe Park]] (renamed [[Connie Mack Stadium]] in 1954) and played their home games at the stadium through 1957, except for the 1941 season, which was played at [[John F. Kennedy Stadium (Philadelphia)|Municipal Stadium]], where they had played from 1936 to 1939.
+
+<blockquote>To accommodate football at Shibe Park during the winter, management set up stands in right field, parallel to 20th Street. Some 20 feet high, these "east stands" had 22 rows of seats. The goalposts stood along the first base line and in left field. The uncovered east stands enlarged capacity of Shibe Park to over 39,000, but the Eagles rarely drew more than 25 to 30,000.<ref>{{cite book |title=To Every Thing a Season: Shibe Park and Urban Philadelphia, 1909–1976 |last=Kuklick |first=Bruce |year=1993 |publisher=Princeton University Press |isbn=0-691-02104-X |page=86 |url=https://books.google.com/?id=1mN2Ejq-5VMC&pg=PA86 |accessdate=May 27, 2009}}</ref></blockquote>
+
+The Eagles struggled over the course of their first decade, enduring repeated losing seasons. In December 1940, [[Pittsburgh Steelers]] owner [[Art Rooney]] sold his franchise to [[Alexis Thompson]] for $160,000 and then used half of the proceeds to buy a half interest in the Eagles from Bell, his longtime friend.<ref name=steelers1940-41>See: [[History of the Pittsburgh Steelers#1940–41: A new name and a "new" team]].</ref> Soon after, Bell and Rooney traded the Eagles franchise to Thompson and moved it to Pittsburgh (as the "Steelers"), while Thompson moved the Steelers franchise to Philadelphia (as the "Eagles").<ref name=steelers1940-41 />
+
+In 1943, when manpower shortages stemming from World War II made it impossible to fill the roster, the team merged with the Pittsburgh Steelers forming the "Phil-Pitt Eagles" and were known as the "[[Steagles]]." (The merger, never intended as a permanent arrangement, was dissolved at the end of the [[1943 NFL season|1943 season]].) By the late 1940s, head coach [[Greasy Neale|Earle "Greasy" Neale]] and running back [[Steve Van Buren]] led the team to three consecutive NFL Championship Games, winning two of them in [[1948 NFL season|1948]] and [[1949 NFL season|1949]]. Those two championships mark the Eagles as the only NFL team ever to win back-to-back championships by shutouts, defeating the [[1948 Chicago Cardinals season|Chicago Cardinals]], 7–0, in [[1948 NFL Championship Game|1948]]—in a blizzard—and the [[1949 Los Angeles Rams season|Los Angeles Rams]], 14–0, in [[1949 NFL Championship Game|1949]].
+
+After the [[1957 Philadelphia Eagles season|1957 season]], the Eagles moved from Connie Mack Stadium to [[Franklin Field]] at the University of Pennsylvania. Franklin Field would seat over 60,000 for the Eagles, whereas Connie Mack had a capacity of 39,000.<ref name="The Eagles Encyclopedia">{{cite book |title=The Eagles Encyclopedia |last=Didinger |first=Ray |author2=Robert S. Lyons |year=2005 |publisher=[[Temple University Press]] |isbn=1-59213-449-1 |url=}}</ref> The stadium switched from grass to [[AstroTurf]] in 1969. It was the first NFL stadium to use artificial turf.
+
+In [[1960 NFL season|1960]], the Eagles won their [[1960 NFL Championship Game|third NFL championship]], under the leadership of future [[Pro Football Hall of Fame]]rs [[Norm Van Brocklin]] and [[Chuck Bednarik]]; the head coach was [[Buck Shaw]]. The [[1960 Philadelphia Eagles season|1960 Eagles]], by a score of 17–13, became the only team to defeat [[Vince Lombardi]] and his [[Green Bay Packers]] in the playoffs.
+[[File:dickvermeil.jpg|thumb|200px|right|[[Dick Vermeil]], Eagles head coach from 1976 to 1982]]
+
+===1961–1975===
+The Eagles had a decent [[1961 Philadelphia Eagles season|1961 season]] and then fell on hard times in 1962. [[Jerry Wolman]], after consulting his longtime friend Brandon Sturrock, bought the franchise in 1963 from the "[[Happy Hundred]]", a group of investors who owned the team from 1949 to 1963, for $5,505,000 (equal to ${{formatnum:{{Inflation|US|5505000|1963}}}} today).<ref name="The Eagles Encyclopedia" />
+
+In [[1969 NFL season|1969]], [[Leonard Tose]] bought the Eagles from Wolman for $16,155,000<ref>{{cite web |url=http://www.philadelphiaeagles.com/pdf/Y_B_YHISTORY.pdf |title=Year-by-Year History |accessdate=December 20, 2010 |archiveurl=https://web.archive.org/web/20060129104352/http://www.philadelphiaeagles.com/pdf/Y_B_YHISTORY.pdf |archivedate=January 29, 2006 |deadurl=yes  }}</ref> (equal to ${{formatnum:{{Inflation|US|16155000|1969}}}} today), then a record for a professional sports franchise. Tose's first official act was to fire Coach [[Joe Kuharich]] after a disappointing 24–41–1 record during his five-year reign. He followed this by naming former Eagles receiving great [[Pete Retzlaff]] as [[General manager|General Manager]] and [[Jerry Williams (American football)|Jerry Williams]] as coach.
+[[File:1986 Jeno's Pizza - 05 - Wilbert Montgomery.jpg|thumb|right|The Eagles defeated the Cowboys in the [[1980–81 NFL playoffs#Conference championships|1980 NFC Championship Game]] and earned their first Super Bowl appearance.]]
+
+With the [[AFL–NFL merger|merger]] of the NFL and [[American Football League|AFL]] in 1970, the Eagles were placed in the [[NFC East]] Division with their [[Eagles–Giants rivalry|archrivals]] the [[New York Giants]], the [[Washington Redskins]], and the [[Dallas Cowboys]]. Their heated [[Eagles–Giants rivalry|rivalry]] with the Giants is the oldest of the [[NFC East]] rivalries, dating all the way back to 1933 and is often named as one of the best rivalries in the NFL.<ref>{{cite news |title=The Birds' Biggest Rival—In a division of fierce foes, the Giants have battled the Eagles as tough as anyone |date=September 17, 2006 |first=Bob |last=Brookover |newspaper=Philadelphia Inquirer |page=D1}}</ref><ref>{{cite news |title=Eagles—Giants among top rivalries |date=November 6, 2008 |first=Bob |last=Brookover |newspaper=Philadelphia Inquirer |page=D6}}</ref>
+
+===1976–1984===
+In {{nfly|1976}}, [[Dick Vermeil]] was hired from [[UCLA Bruins football|UCLA]] to coach the Eagles, who had only one winning season from 1962 to 1975.<ref>{{cite web |url=https://news.google.com/newspapers?id=O70MAAAAIBAJ&sjid=gV8DAAAAIBAJ&pg=2239,224559&dq=dick+vermeil&hl=en |title=Eagles search ends with Vermeil |date=February 9, 1976 |work=St Petersburg Times |accessdate=November 5, 2013}}</ref> Starting in [[1978 NFL season|1978]], head coach Dick Vermeil and quarterback [[Ron Jaworski]] led the team to four consecutive playoff appearances.
+
+Vermeil's [[1980 Philadelphia Eagles season|1980 team]] won their first [[NFC East]] title. They were matched up against their hated rival the Dallas Cowboys in the NFC Championship game, which they won 20–7. However, the Eagles lost to the [[1980 Oakland Raiders season|Oakland Raiders]] in [[Super Bowl XV]] in 1981. The following year, the Eagles were eliminated in the wildcard round at home against the New York Giants. In the aftermath of the disappointing and strike-shortened season of 1982, head coach Dick Vermeil resigned, claiming that he was "burned out". Vermeil was replaced by defensive coordinator Marion Campbell.
+
+In January 1983, Tose announced that his daughter, Susan Fletcher, the Eagles' vice president and legal counsel, would eventually succeed him as primary owner of the Eagles. Then in 1984, rumors were circulating that Leonard Tose was thinking about moving the team to [[Phoenix, Arizona]] due to financial reasons.{{citation needed|date=August 2018}}
+
+===1985–1993===
+{{unreferenced section|date = December 2016}}
+In [[1985 NFL season|1985]], Tose was forced to sell the Eagles to [[Norman Braman]] and Ed Leibowitz, highly successful automobile dealers from Florida, for a reported $65&nbsp;million (equal to ${{formatnum:{{Inflation|US|65000000|1985}}}} today) to pay off his more than $25&nbsp;million (equal to ${{formatnum:{{Inflation|US|25000000|1985}}}} today) in gambling debts at [[Atlantic City, New Jersey|Atlantic City]] casinos.
+
+Philadelphia football struggled through the [[Marion Campbell]] years of the mid-1980s and was marked by a malaise in fan participation. However, in the 1985 Supplemental draft, the Eagles acquired the rights to [[Memphis Showboats]]' elite pass rusher Reggie White. In [[1986 NFL season|1986]], the arrival of head coach [[Buddy Ryan]] and his fiery attitude rejuvenated team performance and ignited the fan base, but the Eagles failed to win a playoff game during Ryan's tenure. Possibly the worst of these losses was the so-called Fog Bowl in 1988 against the [[Chicago Bears]], which happened to be Ryan's former team that he helped lead to a [[Super Bowl XX]] victory as defensive coordinator. Ryan was fired on January 7, 1991, after an upset home playoff loss to the [[1990 Washington Redskins season|Redskins]]. Offensive coordinator [[Rich Kotite]] was promoted to head coach three days later.
+
+After All Pro defensive tackle [[Jerome Brown]] was killed in an automobile accident, the team and fanbase became dedicated to "bring it home for Jerome" in the [[1992 NFL season|1992 season]]. Kotite did lead the Eagles to a playoff victory against the [[1992 New Orleans Saints season|New Orleans Saints]] during the 1992 season, but they lost all-time sacks leader Reggie White to free agency in the offseason. Kotie's contract was not renewed after a disappointing [[1994 NFL season|1994 season]] in which the Eagles went 7–9, losing their last seven games after starting the season 7–2. From 1988 to 1996, the Eagles qualified for the playoffs during six out of those nine seasons, but they won the NFC East only once, in [[1988 NFL season|1988]]. Among the team's offensive stars during that period were quarterback [[Randall Cunningham]], tight end [[Keith Jackson (tight end)|Keith Jackson]], and running back [[Herschel Walker]]. But the "Gang Green" defense is possibly what defined the team, led by [[Reggie White]], [[Jerome Brown]], [[Clyde Simmons]], [[Seth Joyner]], [[Wes Hopkins]], [[Mike Golic]], [[Byron Evans]], [[Eric Allen]], [[Andre Waters]] and [[Mark McMillian]].
+
+===Lurie era (1994–present)===
+{{Refimprove section|date=December 2010}}
+[[File:Jeff Garcia and Andy Reid.jpg|thumb|Andy Reid speaks with Jeff Garcia in a game against the Redskins.]]
+[[Jeffrey Lurie]] bought the Eagles on May 6, 1994 from then-owner Norman Braman for an estimated $185&nbsp;million. The club is now estimated to be the 17th most valuable sports team, worth $1.314&nbsp;billion, as valuated in 2014 by Forbes.<ref>{{cite web |url=https://www.forbes.com/pictures/mli45fdhk/no-11-philadelphia-eagles |title=The World's Most Valuable Sports Teams No. 11 Philadelphia Eagles |work=[[Forbes.com]] |date=July 12, 2011 |accessdate=February 11, 2013}}</ref>
+
+In Lurie's first season as owner, the team only had 7 wins, but that was followed by a 10-win season in 1995. Besides the 10 wins and a playoff berth, [[1996 Philadelphia Eagles season|1996]] was an eventful year. The uniforms changed from the classic shade of Kelly Green to a darker [[midnight green]], quarterback Randall Cunningham left after 11 seasons, and future fan favorite 13-year starter [[Brian Dawkins]] was drafted in the 2nd round. After slipping to 6–9–1, and then to 3–13, head coach [[Ray Rhodes]] was fired after four seasons.
+
+====Andy Reid era (1999–2012)====
+[[File:Jeffrey-Lurie August-2010.jpg|thumb|220px|right|[[Jeffrey Lurie]] has been owner since 1994.]]
+
+In [[1999 Philadelphia Eagles season|1999]], the Eagles hired head coach [[Andy Reid]] and [[1999 NFL draft|drafted]] quarterback [[Donovan McNabb]]. From 1999 until 2004, the team continually improved, going from 5–11 in 1999, returning to the playoffs in with an 11–5 record in 2000, being eliminated in the divisional round. Moreover, the Eagles played in four straight NFC Championship Games between 2001 and 2004. In [[2001 Philadelphia Eagles season|2001]], the Eagles stayed at 11–5, beating the Buccaneers and Bears to advance to the NFC championship, where they lost to the [[2001 St. Louis Rams season|St. Louis Rams]]. In [[2002 Philadelphia Eagles season|2002]], the Eagles drafted running back [[Brian Westbrook]], got the 1st round bye with the 2nd seed in the NFC with a 12–4 record, but the [[2002 Tampa Bay Buccaneers season|Tampa Bay Buccaneers]] got their revenge in the Championship and eliminated the Eagles. In [[2003 Philadelphia Eagles season|2003]], they won the NFC's first seed, but Westbrook went down in Week 17, culminating in a loss to the [[2003 Carolina Panthers season|Carolina Panthers]] in their 3rd straight NFC Championship.
+
+====2004 season and Super Bowl XXXIX====
+In [[2004 Philadelphia Eagles season|2004]], the Philadelphia Eagles had their best season since 1960, going 13–1 before resting their starters and losing their next 2, clinching the number one seed for the second year in a row. McNabb set career highs, completing 64% of his passes for 3,875 yards, though he didn't play all 16 games. McNabb became the first quarterback ever to throw more than 30 touchdowns and fewer than 10 interceptions in a season. His success could be attributed to the fact that he had a reliable receiver, [[Terrell Owens]], who got 1,200 yards and 14 touchdowns in 14 games. After defeating the [[Minnesota Vikings]] and [[Atlanta Falcons]], the Eagles advanced to [[Super Bowl XXXIX]], where they dueled the [[2004 New England Patriots season|New England Patriots]]. Although McNabb threw 3 touchdown passes and 357 yards in the game, and the score was tied 14–14 going into the fourth quarter, the Patriots outscored the Eagles and scored ten straight points. McNabb completed a 30-yard touchdown pass, and the Eagles defense held the Patriots to a 3 and out, but a crucial interception with 46 seconds left on the clock secured their fate. The Patriots won 24–21.
+
+====2005–2012====
+[[File:Brian Dawkins.jpg|thumb|200px|left|[[Brian Dawkins]] was one of the premier safeties in the NFL, and earned him the role of Eagles' defensive captain, and a mainstay on the Eagles.<ref>{{cite web|last=Heath|first=John|title=Denver's Brian Dawkins: An Ageless Wolverine|url=http://broncotalk.net/2011/10/26409/denver-broncos/denvers-brian-dawkins-an-ageless-wolverine/|publisher=BroncoTalk|accessdate=April 24, 2012}}</ref>]]
+
+The team took a step back in [[2005 Philadelphia Eagles season|2005]] with a 6–10 record. McNabb had played with a sports hernia and a broken thumb, starting 4–2 but losing three in a row, before McNabb finally succumbs to injury and is out for the rest of the season. For obnoxious behavior and a feud with McNabb, Owens was suspended after 7 games, eventually being cut. In [[2006 Philadelphia Eagles season|2006]], the team lost McNabb 10 games in and went into turmoil, but Westbrook stepped up, and the Eagles earned their fifth NFC East title under coach Reid, with a 10–6 record and a win in the wild card round, but they finished .500 in 2007. In [[2008 Philadelphia Eagles season|2008]], the team won their 500th game, and they also drafted [[DeSean Jackson]], a receiving threat when paired with McNabb.<ref>{{cite web |url=http://www.nbcphiladelphia.com/news/sports/Eagles_Beat_Falcons_.html |title=Westbrook Helps Eagles Soar Above Falcons, Win 500th Game |work=NBC 10 Philadelphia |author=Dan Gelston |date=October 26, 2008 |accessdate=February 11, 2013}}</ref>
+
+On January 11, 2009, the team defeated the defending Super Bowl champion [[2008 New York Giants season|New York Giants]] 23–11 en route to their sixth NFC Championship Game. In the NFC Championship, the Eagles made a rally, going from 24–6 at halftime to 25–24 with three minutes left in the fourth quarter, but they lost to the [[2008 Arizona Cardinals season|Arizona Cardinals]] by a score of 32–25 after quarterback [[Kurt Warner]] scored a last minute touchdown.
+
+On August 13, 2009, the Eagles signed quarterback [[Michael Vick]].<ref>{{cite web |url=http://sports.espn.go.com/nfl/news/story?id=4397938 |title=Vick, Eagles agree to 2-year deal |work=[[ESPN.com]] |date=August 14, 2009 |accessdate=February 11, 2013}}</ref> On December 6, 2009, [[Andy Reid]] became only the fifth coach in NFL history to win 100 or more games with a single team in a single decade (the other four are [[Tom Landry]], [[Don Shula]], [[Tony Dungy]], and [[Bill Belichick]], all Super Bowl winners).<ref>{{cite web |url=http://sports.espn.go.com/nfl/news/story?id=4727113 |title=Eagles sign Reid through 2013 |work=[[ESPN.com]] |date=December 9, 2009 |accessdate=February 11, 2013}}</ref> McNabb finally had a complete receiving corps, between first round draft pick [[Jeremy Maclin]], DeSean Jackson's 1,000 yard season, and [[Brent Celek]] ranking among the top 5 tight ends in the league. Without Brian Dawkins, defensive end [[Trent Cole]] stepped up and became the dominant force on defense with 12 sacks, earning him his second trip to the Pro Bowl and All-Pro honors. In 2009, the Eagles started 5–4, and then won six straight games. After a shutout against the Dallas Cowboys in week 17, the Eagles missed the first-round bye, but with a record of 11–5, they were the NFC's sixth seed. In their [[2009–10 NFL playoffs#NFC: Dallas Cowboys 34, Philadelphia Eagles 14|January 2010 wild card game]], the Eagles played against their divisional foes for the second consecutive week, losing 34–14 to hand Dallas their first of two playoff wins since [[1996–97 NFL playoffs#NFC: Dallas Cowboys 40, Minnesota Vikings 15|December 1996]].
+
+On March 5, 2010, [[Brian Westbrook]] was cut from the Eagles after eight seasons with the team. On April 4, 2010, the team traded long-time starting quarterback [[Donovan McNabb]] to the [[Washington Redskins]] in exchange for a second round draft pick.<ref>{{cite news |url=https://www.washingtonpost.com/wp-dyn/content/article/2010/04/04/AR2010040403253.html?hpid=artslot |title=Washington Redskins acquire quarterback Donovan McNabb from Philadelphia Eagles |last=Maese |first=Rick |date=April 5, 2010 |work=The Washington Post |accessdate=April 5, 2010}}</ref> [[Kevin Kolb]] was immediately named the starter, but after suffering a concussion in week 1 against the Packers, Vick took over as the starter. Vick led the Eagles to its sixth NFC East division title in ten seasons. With a record of 10–6 the Eagles clinched the third seed. In the [[2010-11 NFL playoffs|wild card round]], the Eagles lost 21–16 to eventual [[Super Bowl XLV]] champion [[2010 Green Bay Packers season|Green Bay Packers]].
+
+The [[2011 Philadelphia Eagles season|2011 season]] for the Eagles was a major disappointment, as they only managed to finish 8–8 and miss the playoffs. In [[2012 Philadelphia Eagles season|2012]], the Eagles started off winning three out of their four first games, but lost their next eight, and were eliminated from the playoff hunt. They only won one out of their last four games. After a loss to the [[New York Giants]] on December 30, 2012, longtime head coach [[Andy Reid]] was fired after fourteen seasons with the team.<ref>{{cite news |url=https://www.usatoday.com/story/sports/nfl/eagles/2012/12/30/andy-reid-fired/1799319/ |title=Eagles fire Reid |date=December 30, 2012 |work=USA Today |accessdate=December 30, 2012 |location=Philadelphia}}</ref>
+
+====Chip Kelly era (2013–2015)====
+On January 16, 2013, the Eagles brought in University of Oregon head coach [[Chip Kelly]] to succeed Reid as head coach after a 4–12 season.<ref>{{cite web |url=http://espn.go.com/nfl/story/_/id/8849699/chip-kelly-bolts-oregon-ducks-coach-philadelphia-eagles |title=Eagles hire Chip Kelly as coach |date=January 16, 2013 |accessdate=February 11, 2013 |work=[[ESPN.com]]}}</ref> The Philadelphia Eagles named Michael Vick starting quarterback going into the 2013 season with much promise running Chip Kelly's fast-paced spread offense.
+
+The 2013 season proved to be more successful for the Eagles. A hamstring injury took Michael Vick out after a 1–3 start, but his backup [[Nick Foles]] led the team to a 10–6 regular season record, and its seventh NFC East title in 13 seasons. Before throwing his first interception in Week 14, Foles threw 19 touchdowns, which was just one shy of the all-time NFL record of consecutive touchdowns without an interception to start a season, set earlier in the season by [[Peyton Manning]]. Foles also tied Manning for most touchdown passes in a single-game with seven against the [[Oakland Raiders]] which also made him the youngest player in NFL history to throw that many touchdowns in a game. Foles finished the regular season with 27 touchdown passes and only 2 interceptions, giving him the then-best TD-INT ratio in NFL history. (That record was later broken by [[Tom Brady]], in the 2016 season.) He also finished with a 119.0 passer rating, third highest in league history behind only [[Aaron Rodgers]] in 2011 and Peyton Manning in 2004. He was also only the second quarterback in NFL history to have a game in which he topped 400 passing yards and a perfect passer rating. [[LeSean McCoy]] finished his Pro Bowl season as the league's top rusher with 1,607 rushing yards (also a franchise record) and 2,146 total yards from scrimmage, also best in the NFL. As a whole, the Eagles offense scored 51 touchdowns, most in franchise history passing the previous season high set back in 1948.
+
+The Eagles opened the 2014 season winning their first three games and making NFL history as the only team ever to trail by ten or more points in their first three games and come back to win.<ref>[http://www.rockymounttelegram.com/sports/professional/eagles-overcome-yet-another-deficit-beats-redskins-2658733 Sports]. Rocky Mount Telegram. Retrieved on August 6, 2016.</ref> Nick Foles struggled with turnovers, but ultimately did well and led the Eagles to a 6–2 record, before breaking his collarbone, resulting in his job getting taken over by [[Mark Sanchez]], who outplayed Foles despite facing more playoff teams. The Eagles held the divisional title from week one to week 15 against the Cowboys. After going 9–3 with their crucial win over Dallas, the Eagles lost their next 3, and a week after losing the NFC East title, they lost an upset against the 3–11 Redskins and were eliminated from playoff contention with the Cowboys' win over the [[Indianapolis Colts]].
+
+Following the 2014 season, Chip Kelly was given total control and made some controversial moves. He traded [[LeSean McCoy]], who had become the team's all-time leading rusher after the 2014 season, for linebacker [[Kiko Alonso]], a player Kelly coached at Oregon who had missed the entire 2014 season.<ref name="PhiladelphiaEagles.com">{{cite web |url=http://www.philadelphiaeagles.com/news/article-1/Eagles-Acquire-LB-Alonso-For-RB-McCoy/1425a542-814c-43f9-bcad-ce18cee69b7d |work=PhiladelphiaEagles.com |title=Eagles Acquire LB Alonso For RB McCoy |date=March 10, 2015}}</ref> He also cut ten-year veteran and starter, Trent Cole, who was still a consistent threat on defense and was second only to legend [[Reggie White]] on the Eagles all-time sack list.<ref>{{cite web |last=Patra |first=Kevin |title=Indianapolis Colts to sign Trent Cole |url=http://www.nfl.com/news/story/0ap3000000477676/article/indianapolis-colts-to-sign-trent-cole |publisher=NFL.com |date=March 10, 2015 |accessdate=March 10, 2015}}</ref> He also made a trade where the highly successful [[Nick Foles]] was traded for [[Sam Bradford]], who had missed the entire 2014 season with an ACL tear.<ref>{{cite web |last1=Sessler |first1=Marc |title=Rams trading Sam Bradford to Eagles for Nick Foles |url=http://www.nfl.com/news/story/0ap3000000477790/article/rams-trading-sam-bradford-to-eagles-for-nick-foles |publisher=NFL.com |accessdate=March 10, 2015}}</ref> Kelly tried to re-sign Jeremy Maclin, who had stepped up as the team's leading wide receiver, but he signed with the [[Kansas City Chiefs]] instead. However, the Eagles also acquired league leading rusher [[DeMarco Murray]],<ref>{{cite web |url=http://www.philadelphiaeagles.com/news/article-1/Its-Official-RB-Murray-Signs-With-Eagles/d00ce62f-cb87-4dd0-b93e-3bb49498deef |title=It's Official: RB Murray Signs With Eagles |work=PhiladelphiaEagles.com |date=March 12, 2015 |accessdate=March 12, 2015}}</ref> which not only helped the Eagles, but hurt their rivals, the Dallas Cowboys. They also obtained Super Bowl champion [[Byron Maxwell]],<ref>{{cite web |title=CB Byron Maxwell joins Eagles via FA |url=http://www.philadelphiaeagles.com/news/article-1/CB-Byron-Maxwell-Joins-Eagles-Via-FA/cf7bfd10-bb1d-4d3e-bee7-e5b7b6b14523 |publisher=PhiladelphiaEagles.com |accessdate=March 10, 2015}}</ref> who left the Seattle Seahawks in free agency to sign a six-year, $63 million contract. The first two games of the season were disastrous, as they started 0–2. Bradford had a 2–4 TD-INT ratio, Maxwell was constantly beaten by Falcons receiver [[Julio Jones]], and Murray was held to 11 yards on 21 carries. After Murray was injured, [[Ryan Mathews (American football)|Ryan Mathews]] rushed for over 100 yards in a Week 3 win against the [[New York Jets]]. Kelly made Murray the unquestioned starter and although Murray's play improved over the season, he never regained his dominant form and was held to a career low 3.6 yards per carry average.
+
+On December 29, 2015, with one game left in the season, head coach Chip Kelly was released by the Eagles after a 6–9 record. Offensive coordinator [[Pat Shurmur]] was named Interim Coach for the final game against the rival New York Giants, which Shurmur won 35–30.<ref>{{cite web |url=http://www.philadelphiaeagles.com/news/article-1/Eagles-Release-Head-Coach-Chip-Kelly/fb1d79b9-7dd3-41c9-b964-85ac79d74f2b |title=Eagles Release Head Coach Chip Kelly |work=PhiladelphiaEagles.com |date=December 29, 2015 |accessdate=January 1, 2016}}</ref> Former player and current running backs coach [[Duce Staley]] was the first coach to be interviewed for the opening head coaching job on January 2, 2016.<ref>[http://espn.go.com/nfl/story/_/id/14485316/duce-staley-interviews-philadelphia-eagles-vacant-coaching-job Duce Staley interviews for Philadelphia Eagles' vacant coaching job]. Espn.go.com (January 2, 2016). Retrieved on August 6, 2016.</ref>
+
+===Doug Pederson era (2016–present)===
+
+====2016====
+[[File:Carson wentz 2016.jpg|thumb|220px|right|[[Carson Wentz]] made his debut in the [[2016 Philadelphia Eagles season|2016 season]]]]
+
+The Eagles hired [[Kansas City Chiefs|Chiefs]] [[offensive coordinator]] [[Doug Pederson]] as their next head coach on January 18, 2016. Eagles owner [[Jeffrey Lurie]] said in a statement:
+
+{{quote|"Doug is a strategic thinker, a compelling leader and communicator, and someone who truly knows how to get the best out of his players. All of these factors were what initially attracted us to Doug and we believe that he is the right man to help us achieve our ultimate goal."}}
+
+Pederson had been with the Chiefs for the preceding three years after spending the four seasons previous to those with the Eagles. He served as a quality control assistant for the Eagles in 2009 and 2010 before being promoted to quarterbacks coach for the 2011 and 2012 seasons. He was praised for his work with Chiefs quarterback [[Alex Smith]] over the preceding few seasons, particularly 2015, as the Chiefs moved into the top 10 in scoring offense.<ref>{{cite web |last=Wesseling |first=Chris |title=Philadelphia Eagles hire Doug Pederson as coach |url=http://www.nfl.com/news/story/0ap3000000622612/article/philadelphia-eagles-hire-doug-pederson-as-coach |publisher=National Football League |date=January 18, 2016 |accessdate=January 21, 2016}}</ref><ref>{{cite web |title=Eagles Name Doug Pederson Head Coach |url=http://www.philadelphiaeagles.com/news/article-1/Eagles-Name-Doug-Pederson-Head-Coach/25537f69-64f8-4fd2-8cab-3ad9b79cc59f |publisher=Philadelphia Eagles |date=January 18, 2016 |accessdate=January 21, 2016}}</ref>
+
+At the end of the 2015 season, the Eagles had the 13th pick in the [[2016 NFL Draft]]. They traded [[Byron Maxwell]], [[Kiko Alonso]], and their pick to the [[Miami Dolphins]] for the #8 pick. Later, they traded the #8 pick, their third-round pick, their fourth-round pick, a 2017 first-round pick, and a 2018 second-round pick to the [[Cleveland Browns]] for the #2 pick and a 2017 fourth-round pick. They used the #2 pick to draft [[North Dakota State Bison football|North Dakota State]] quarterback [[Carson Wentz]]. On September 3, 2016, the Eagles traded starting quarterback [[Sam Bradford]] to the [[Minnesota Vikings]], who had lost [[Teddy Bridgewater]] for the season, for a 2017 first-round pick and a 2018 fourth-round pick. Following the trade, the Eagles named Wentz the starting quarterback for Week 1 of the 2016 season.<ref>{{cite web|url=https://www.sbnation.com/2016/9/5/12792492/eagles-carson-wentz-starting-quarterback-sam-bradford-trade|title=Carson Wentz will start for Eagles|first=Alex|last=Reimer|date=September 5, 2016|work=sbnation.com}}</ref> First-time head coach Pederson led the Eagles to a 3–0 start to the season. His rookie quarterback started with 5 touchdowns, no interceptions and over 255 yards per game. The Week 4 bye took a toll on the Eagles, and they lost four out of the next five games, including a loss to every rival team in their division. They also lost right tackle [[Lane Johnson]] to a 10-game suspension following the Week 5 loss against the Lions which damaged Carson Wentz's hot start. In those four games, their average margin of loss was just under 5 points.<ref>{{cite web|first=Tom|last=Pennington|title=The Eagles Should Be Better Than 4-4|url=https://fivethirtyeight.com/features/the-eagles-should-be-better-than-4-4/|website=fivethirtyeight.com|accessdate= April 25, 2017|date=November 11, 2016}}</ref> Pederson and the Eagles won only three of their last seven games. Although Wentz started off the season well, the 6–5 quarterback finished with a TD–INT ratio of 8:7. The rookie head coach and rookie quarterback tandem led the Eagles to a 7–9 record, last in the division.
+
+====2017: First Super Bowl Championship====
+During the following offseason, the team made several acquisitions on the offensive side of the ball. The Eagles either traded or released notable players from the [[Chip Kelly]] era like [[Ryan Mathews (American football)|Ryan Mathews]], [[Matt Tobin]], [[Allen Barbre]], [[Jordan Matthews]] and [[Marcus Smith II]]. They signed more notable players to improve its wide receiver corps that have struggled the last two seasons like [[Alshon Jeffery]] and [[Torrey Smith]], as well as two-time Super Bowl champion [[LeGarrette Blount]]. They also added veterans on defense such as [[Patrick Robinson (cornerback)|Patrick Robinson]], [[Chris Long]], [[Corey Graham]], [[Tim Jernigan]] and [[Ronald Darby]]. The team addressed its defense mostly in the draft, using its top three picks on defensive players. The Eagles drafted [[Derek Barnett]] with the 14th overall pick.
+
+They opened the season on the road versus the [[Washington Redskins]] and won the game 30–17. The team lost to the [[Kansas City Chiefs]] the following week, 27–20, in Pederson's return to face [[Andy Reid]]. The Eagles then won six consecutive games, including a road victory against the [[Carolina Panthers]], 28–23. On the morning of October 31, 2017, just before the NFL trade deadline, the Eagles sent a fourth-round pick to the Dolphins for star running back [[Jay Ajayi]]. The move immediately paid dividends for the Eagles heading into their next game versus the [[Denver Broncos]], as Ajayi rushed for 77 yards on just eight attempts including a 46-yard touchdown near the end of the second quarter. The Eagles scored 51 points against the league's best defense, and entered their bye week with the best record in the league (8–1).
+
+Coming off of the bye week, Philadelphia defeated their bitter enemies, the [[Dallas Cowboys]], 37–9 and then routed the [[Chicago Bears]] 31–3.<ref name="PhiladelphiaEagles.com" /> The Eagles nine game win streak was snapped after a 24–10 against the [[Seattle Seahawks|Seahawks]] at [[CenturyLink Field]]. However, the Eagles bounced back in Week 14 road win versus the [[Los Angeles Rams]]. Carson Wentz left the game in the third quarter with a knee injury with a torn ACL, and backup [[Nick Foles]] would once again take over as starting quarterback.
+
+Foles' first start was a comeback from a 20–7 deficit against the [[New York Giants]] as he scored four touchdowns and won the game 34–29. Foles struggled in the last two games of the season against the [[Oakland Raiders]] and the Cowboys, and threw a touchdown and two interceptions in that span. Despite this, the Eagles clinched home-field advantage after the win against Oakland in week 16.
+
+In the playoffs, the Eagles opened as underdogs, the first time in history that a number 1 seed has opened up the postseason as an underdog. Foles would lead the Eagles past the [[Atlanta Falcons]] in the Divisional Round 15–10. In the NFC Championship, the Eagles annihilated the [[Minnesota Vikings]] 38–7, giving the nickname "Minneapolis Massacre", mocking the [[Minneapolis Miracle]] from their previous playoff victory. Foles had his best game since week 15 and threw for 352 passing yards and three touchdowns. The Eagles traveled to [[Minneapolis]] to compete in [[Super Bowl LII]], their third attempt at a title, against [[Tom Brady]] and the [[New England Patriots]] in a rematch of [[Super Bowl XXXIX]] from 2005.
+
+[[File:Nick Foles Super bowl LII pregame huddle.jpg|thumb|Foles in the Huddle before leaving the field prior to Super Bowl LII.]]
+
+With Foles at the helm, Philadelphia started off the game strong, leading the Patriots 22–12 at halftime. New England's only lead was by one point in the fourth quarter, 33–32. The Eagles rallied back and scored an 11-yard touchdown to tight end [[Zach Ertz]]. The last score of the game was a 46-yard field goal by [[Jake Elliott]] to make the final score 41–33. The franchise won their first Super Bowl ever and their first championship since 1960. Foles won [[Super Bowl MVP]] going 28 out of 43 with 373 passing yards, three touchdowns, and an interception. Foles became the first backup quarterback to start and win a Super Bowl since his opponent Tom Brady won as the backup for [[Drew Bledsoe]] in 2002's [[Super Bowl XXXVI]].
+
+==Season records==
+{{Main|List of Philadelphia Eagles seasons}}
+* Regular season record (all-time): 568–594–26
+* Playoff record (all-time): 22–21 (as of 2018)
+* Most points in a season: 474 points (2014)
+* NFL championships won: 4 (3 before the 1967 NFL-AFL merger created the Super Bowl)
+* Super Bowls won: 1
+* Passing leader (all-time): [[Donovan McNabb]] – 32,873 yards
+* Rushing leader (all-time): [[LeSean McCoy]] – 6,792 yards
+* Receiving leader (all-time): [[Harold Carmichael]] – 8,978 yards
+* Winningest coach (all-time): Andy Reid – 130 wins
+* Top player by approximate value (all-time): Donovan McNabb – 126 AV
+
+==Rivalries==
+
+===New York Giants===
+{{Main|Eagles–Giants rivalry}}
+One of the NFL's oldest, this rivalry began on October 15, 1933<ref>[http://legacy.philadelphiaeagles.com/eagles_files/html/AllTimeResults-13.html Philadelphia Eagles Media Guide] {{webarchive|url=https://web.archive.org/web/20140201140926/http://legacy.philadelphiaeagles.com/eagles_files/html/AllTimeResults-13.html |date=February 1, 2014 }}. Legacy.philadelphiaeagles.com. Retrieved on August 6, 2016.</ref>
+when the Giants defeated the newly founded Eagles 56–0. The all-time series is tied at 86–86–2. Three of the best known comebacks against the Giants are labeled as "Miracle In The Meadowlands – Herm Edwards", "Miracle In The Meadowlands II – Brian Westbrook" and "Miracle In The New Meadowlands – DeSean Jackson".
+
+===Dallas Cowboys===
+{{Main|Cowboys–Eagles rivalry}}
+The Cowboys have been one of the Eagles' biggest rivals. The Eagles won the first game in this rivalry 27–25 on September 30, 1960. Dallas leads the all-time series 63–51–0. They have been close in recent years, with Dallas winning 12 games from 2006 to the present while the Eagles have also won 12. There is much hostility between the two teams' fan bases, with incidents such as the 1989 [[Bounty Bowl]]. The rivalry has even spilled over into [[NFL Draft|Draft Weekend]], with Cowboys legend [[Drew Pearson (American football)|Drew Pearson]] and Eagles legend [[David Akers]] exchanging insults at the opposing franchise in [[2017 NFL Draft|2017]] and [[2018 NFL Draft|2018]], respectively.<ref>https://www.sbnation.com/2017/4/28/15481002/cowboys-drew-pearson-trolled-eagles-fans-nfl-draft-2017</ref><ref>http://www.nbcsports.com/philadelphia/the700level/former-eagles-k-david-akers-roasts-cowboys-nfl-draft</ref>
+
+===Washington Redskins===
+{{Main|Eagles–Redskins rivalry}}
+Not as big as the rivalries between the Giants and Cowboys, that with division rivals Washington Redskins is still fierce. It started in 1934 when the Washington Redskins were first known as the Boston Redskins; the Redskins defeated the Eagles 6–0, and lead the all-time series 85–76–6. The rivalry has been very even since 2010 overall. However, the Eagles swept the Redskins during the 2017 season for the first time since the 2013 season.
+
+===Pittsburgh Steelers===
+{{Main|Eagles–Steelers rivalry}}
+
+The Eagles and [[Pittsburgh Steelers]] are both located in [[Pennsylvania]] and began play in 1933. From that season, through 1966, this was a major rivalry for both teams as both were part of the same division. In 1967, they were placed in separate divisions but remained in the same conference for three years. In 1970, the Steelers (along with the [[Cleveland Browns]] and [[Baltimore Colts]]) moved to the [[American Football Conference]] while the Eagles stayed with the rest of the old-line NFL teams in the [[National Football Conference]]. As a result, the Eagles and Steelers no longer played each other every year; instead, they are scheduled to meet once every four years in the regular season, the most recent meeting being in 2016 at Lincoln Financial Field, with the Eagles winning 34–3. The Steelers have lost nine straight games on the road against the Eagles dating back to 1966, which was also the start of the [[Super Bowl]] era. The Eagles lead the all-time series 47–28–3.
+
+==Logo and uniforms==
+:''See also: [[Uniform (American football)]] and footnote about Eagles' uniform numbers.''<ref>{{cite web| title=What's in a number? Eagles tell their stories: Some are chosen, some are random |first=Zach|last=Berman |publisher=Philadelphia Media Network (Digital), LLC |date=November 18, 2016 |url=http://www.philly.com/philly/sports/eagles/The_stories_of_the_Philadelphia_Eagles_numbers.html |accessdate=November 30, 2016}} ''See also: [[National Football League uniform numbers]].''</ref>
+For several decades, the Eagles' [[away colours|colors]] were [[kelly green]], silver, and white. In 1954, the Eagles, along with the [[Baltimore Colts]], became the second team ever in the NFL to put a [[logo#Sports|logo]] on their [[football helmet|helmets]], with silver wings on a kelly green helmet. In 1969, the team wore two helmet versions: Kelly green with white wings in road games, and white with kelly green wings at home. From 1970 to '73, they wore the white helmets with Kelly green wings exclusively before switching back to Kelly green helmets with silver wings. By 1974, Joseph A. Scirrotto Jr. designed the silver wings took on a white outline, and this style on a kelly green helmet became standard for over two decades.
+
+From 1948 to 1995, the team logo was an eagle in flight carrying a football in its claws, although from '69–72, the eagle took on a more stylized look. As the design was similar to the ''[[Apollo 11]]'' emblem, and its [[Apollo Lunar Module|moon-landing craft]] was dubbed ''Eagle'', players wore the flight's mission patch on their jerseys during 1969.{{citation needed|date=July 2016|reason=[[YouTube]] is not a [[WP:RELIABLE|reliable source]]}}
+
+In 1973, the team's name was added below the eagle, returning to its pre-1969 look.
+
+However, both the logo and uniforms were radically altered in 1996. The primary kelly green color was changed to a darker shade, officially described as "midnight green." Silver was practically abandoned, as uniform pants moved to either white or midnight green. The traditional helmet wings were changed to a primarily white color, with silver and black accents. The team's logo combination (the eagle and club name lettering) also changed in 1996, with the eagle itself limited to a white (bald eagle) head, drawn in a less realistic, more cartoon-based style, and the lettering changing from calligraphic to block letters.
+
+Since the 1996 alterations, the team has made only minor alterations, mostly relating to jersey/pant combinations worn during specific games. For example, in 1997, against the [[1997 San Francisco 49ers season|San Francisco 49ers]], the team wore midnight green jerseys and pants for the first of only two occasions in team history. The second occasion was in 2002, during the final regular season game at [[Veterans Stadium]], a win over the division-rival [[2002 Washington Redskins season|Washington Redskins]]. A year later, in the first two games of the 2003 season (both home losses to the [[2003 Tampa Bay Buccaneers season|Tampa Bay Buccaneers]] and [[2003 New England Patriots season|New England Patriots]]), the Eagles wore white jerseys with white pants. Since 2003, the white jerseys along with white pants have been worn during preseason games.
+
+The 2003 season also saw the first (though only subtle) change to the 1996-style uniform. On both white and green jerseys, black shadows and silver trim were added to both the green and white numbering. The stripe on the pants changed from black-green-black to black-silver-green on the white pants, and from a solid black stripe to one stripe of black, another of silver, with one small white stripe in between for the midnight blue pants. The 2003 season also saw the team debut black alternate jerseys, with a green (instead of black) shadow on white numbers, and silver trim. These black jerseys have been worn for two selected [[home (sports)|home]] games each season (usually the first home game after [[bye (sports)|bye]] week and the season finale). In the 2003 and 2004 regular season home finales, the team wore the green [[road (sports)|road]] pants with the black alternate jerseys, but lost each game. Since then, the Eagles have only worn the black jerseys with the white pants. However, due to the special 75th anniversary uniforms serving as the "alternates" for one game in 2007, the Eagles could not wear the alternate black jersey that season per league rules (alternate uniforms are permitted twice per season but only one can be used). The black jerseys with white pants, however, re-appeared for the 2008 [[NFL on Thanksgiving Day|Thanksgiving]] night game against the [[2008 Arizona Cardinals season|Arizona Cardinals]]. The black jerseys were most recently used in a December 21, 2016 game against the [[New York Giants]], in which they won 24-19. From 2006 to 2013, the Eagles have only worn the alternate black jerseys once a season and for the last November home game, but did not use them in 2007, 2010, and 2011. For the 2007 and 2010 seasons, the Eagles used throwback uniforms in place of the black alternates for their anniversary to commemorate past teams. The team also started wearing black shoes exclusively in 2004. Since 2014, the Eagles have worn the black jersey twice per season. In 2016, they wore the black jersey three times.
+
+To celebrate the team's 75th anniversary, the 2007 uniforms featured a 75th-season logo patch on the left shoulder. In addition, the team wore [[throwback uniform|"throwback" jerseys]] in a 2007 game against the [[2007 Detroit Lions season|Detroit Lions]]. The yellow and blue jerseys, the same colors found on [[flag of Philadelphia|Philadelphia's city flag]], are based on those worn by the Philadelphia Eagles in the team's inaugural season, and were the same colors used by the former [[Frankford Yellow Jackets]] franchise prior to their suspension of operations in 1931. The Eagles beat Detroit, 56–21.<ref>{{cite web |url=http://www.philadelphiaeagles.com/news/Story.asp?story_id=12323 |archiveurl=https://web.archive.org/web/20100724212544/http://www.philadelphiaeagles.com/news/Story.asp?story_id=12323 |archivedate=July 24, 2010 |title=Eagles Unveil 75th Anniversary Plans |publisher=Philadelphia Eagles |date=April 25, 2007 |accessdate=December 20, 2010 |deadurl=yes  }}</ref>
+
+The Eagles wear their white jerseys at home for preseason games and daytime games in the first half of the regular season from September to mid-October when the temperature is warmer. In night contests in the first half of the regular season, the Eagles do not need to wear white at home since the temperature is cooler. However, there have been exceptions, such as the home opener against the Tampa Bay Buccaneers in 2003 and the Washington Redskins in 2007 that were played at night. In late October or beginning in November, the Eagles start to wear their colors at home (although they have done it earlier before), be it the midnight green jerseys or a third jersey. On one occasion the Eagles wore white at home after October in a meeting against the [[Dallas Cowboys]] on November 4, 2007 to make the Cowboys wear their road blue jerseys. Since moving to [[Lincoln Financial Field]] in 2003, the Eagles have worn white at home for at least their home opener, with the exceptions for the 2010 home opener (''see next paragraph''), the 2011 home opener against the [[2011 New York Giants season|New York Giants]], the 2016 home opener against the [[2016 Cleveland Browns season|Cleveland Browns]], and the 2017 home opener against the Giants.
+
+In the 2010 season against the Green Bay Packers, on September 12, 2010, the Eagles wore uniforms similar to the ones that were worn by the 1960 championship team in honor the 50th anniversary of that team.<ref>{{cite web |url=http://www.csnphilly.com/05/03/10/Eagles-Announce-Plans-to-Honor-1960-Titl/landing.html?blockID=227998&feedID=704 |title=Eagles Announce Plans to Honor 1960 Title Team |publisher=Csnphilly.com |date=May 3, 2010 |accessdate=December 20, 2010 |deadurl=yes |archiveurl=https://archive.is/20120730121316/http://www.csnphilly.com/05/03/10/Eagles-Announce-Plans-to-Honor-1960-Titl/landing.html?blockID=227998&feedID=704 |archivedate=July 30, 2012  }}</ref> In weeks 4 and 6 of the 2010 season, the Eagles wore their white jerseys in a match-up against the Washington Redskins and Atlanta Falcons respectively before reverting to their midnight green jerseys for the rest of their home games. For the 2011 season, the Eagles did not wear white for any of their home games.
+
+For the 2012 season [[Nike, Inc.|Nike]] took over from [[Reebok]] as the NFL's official apparel licensee, but the Eagles decided that they would not be adopting Nike's "Elite 51" uniform technology. Aside from the Nike logo replacing the Reebok logo, the only other change is the league-wide revision of the NFL shield on the uniform (replacing the NFL Equipment logo), other than that the uniforms essentially remain unchanged. The Eagles also revived their black alternate jersey.
+
+For the 2013 season, the Eagles started to wear white pants, as an alternate to their green pants, with their white jerseys, in the regular season.
+
+For the 2014 season the Eagles have officially adopted the "Elite 51″ style uniform from Nike. Recently the team has discussed bringing back the "Kelly Green" uniforms similar to the uniforms worn in the 1960 NFL Championship season and which were last worn in the 2010 season opener vs. Green Bay. Traditionally kelly green, silver and white had been the official team color until 1996 season when it switched to the current "Midnight Green" uniforms. But due to the NFL rules and restrictions having a team go through a waiting period before any major uniform changes and alterations can be made, it would most likely be quite some time before any uniform changes are officially made.
+
+In Week 6 of 2014 against the New York Giants, the team introduced black pants to complement their black jerseys, giving them a blackout uniform set, the Eagles won the game 27–0. The victory was their first shutout in 18 years. The blackout uniform was most recently worn in a Week 16 victory, 19-10, against the Raiders in 2017. The Eagles are 6–3 in their blackout uniforms: winning three times against the Giants and once against each of the [[Minnesota Vikings]], [[Denver Broncos]], and Oakland Raiders, and losing against the [[Seattle Seahawks]], [[Arizona Cardinals]], and [[Green Bay Packers]].
+
+==Training camp==
+The Eagles previously held their preseason training camp from the end of July through mid-August each year at [[Lehigh University]] in [[Bethlehem, Pennsylvania|Bethlehem]] in the [[Lehigh Valley]].<ref>{{cite web |url=http://www.philadelphiaeagles.com/news/TrainingCamp.html |archiveurl=https://web.archive.org/web/20100818042652/http://www.philadelphiaeagles.com/news/TrainingCamp.html |archivedate=August 18, 2010 |title=Training Camp, |publisher=Philadelphiaeagles.com |accessdate=December 20, 2010 |deadurl=yes  }}</ref> With the addition of head coach [[Chip Kelly]], the Eagles in 2013, moved their training camp to the [[NovaCare Complex]] in [[Philadelphia]].<ref>[http://www.foxnews.com/sports/2013/03/15/eagles-move-training-camp-from-lehigh Eagles move training camp from Lehigh]. Foxnews.com (March 15, 2013). Retrieved on August 6, 2016.</ref><ref name="TrainingCamp">{{cite news |author=Frank, Reuben |title=Eagles to keep training camp at Lehigh in 2013 |url=http://www.csnphilly.com/football-philadelphia-eagles/eagles-talk/Eagles-to-keep-training-camp-at-Lehigh-i?blockID=738054 |publisher=CSN Philly |date=July 10, 2012 |accessdate=July 10, 2012 |deadurl=yes |archiveurl=https://archive.is/20130121141009/http://www.csnphilly.com/football-philadelphia-eagles/eagles-talk/Eagles-to-keep-training-camp-at-Lehigh-i?blockID=738054 |archivedate=January 21, 2013  }}</ref> Training camps were previously held at [[Chestnut Hill Academy]] in 1935, [[Saint Joseph's University]] in 1939 and 1943, [[Saranac Lake, New York|Saranac Lake]] from 1946 to 1948, [[Hershey, Pennsylvania|Hershey]] from 1951 to 1967, [[Albright College]] from 1968 to 1972, [[Widener University]] from 1973 to 1979, and [[West Chester University of Pennsylvania|West Chester University]] from 1980 to 1995.<ref name="TrainingCamp" />
+
+==Fight song==
+{{details|Fly, Eagles Fly}}
+This fight song is heard during Eagles' home games after touchdowns and before the team is introduced prior to kickoff.
+
+==Eagles cheerleaders==
+[[File:Eagles-Cheerleaders-Unison-June-7-08.JPG|right|thumb|Eagles Cheerleaders doing a routine in 2008.]]
+{{Main|Philadelphia Eagles Cheerleaders}}
+
+The team also has its own [[National Football League Cheerleading|cheerleading squad]], which performs a variety of dance moves for the fans and the Eagles on the sideline.<ref>{{cite web |url=http://www.philadelphiaeagles.com/cheerleaders/index.html |title=Cheerleaders |publisher=Philadelphia Eagles |accessdate=September 3, 2012}}</ref> The squad also releases a swimsuit calendar each year, and is the first squad in the league to release the calendar on the [[Android (operating system)|Android]] and [[iOS]] mobile systems.<ref>{{cite web |url=http://www.philadelphiaeagles.com/cheerleaders/swimsuit-calendar.html |title=Cheerleaders – Swimsuit Calendar |publisher=Philadelphia Eagles |accessdate=July 4, 2012}}</ref><ref>{{cite web |url=https://play.google.com/store/apps/details?id=com.philadelphiaeagles.calendar |title=Eagles Cheerleaders Swimsuit – Android-apps op Google Play |publisher=Play.google.com |date=November 28, 2011 |accessdate=July 4, 2012}}</ref>
+
+==Players==
+{{Main|List of Philadelphia Eagles players}}
+
+===Current roster===
+{{Philadelphia Eagles roster}}
+
+==Awards and honors==
+
+===Retired numbers===
+{| class="wikitable" style="text-align:center"
+|-
+| colspan="4" style="{{NFLPrimaryStyle|Philadelphia Eagles}};"|'''Philadelphia Eagles retired numbers'''
+|-
+! style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};"| No.
+! style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};"|Player
+! style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};"|Position
+! style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};"|Years played
+|-
+| '''5''' || [[Donovan McNabb]] || [[Quarterback|QB]] || 1999–2009
+|-
+| '''15''' || [[Steve Van Buren]] || [[Halfback (American football)|HB]] || 1944–1951
+|-
+| '''20''' || [[Brian Dawkins]] || [[Safety (American and Canadian football position)|S]] || 1996–2008
+|-
+| '''40''' || [[Tom Brookshier]] || [[Cornerback|CB]] || 1953–1961
+|-
+| '''44''' || [[Pete Retzlaff]] || [[Running back|RB]], [[Wide receiver|WR]], [[Tight end|TE]] || 1956–1966
+|-
+| '''60''' || [[Chuck Bednarik]] || [[Linebacker|LB]], [[Center (American football)|C]] || 1949–1962
+|-
+| '''70''' || [[Al Wistert]] || [[Offensive tackle|OT]] || 1943–1951
+|-
+| '''92''' || [[Reggie White]]<sup>(*)</sup> || [[Defensive end|DE]] || 1985–1992
+|-
+| '''99''' || [[Jerome Brown]]<sup>(*)</sup> || [[Defensive tackle|DT]] || 1987–1991
+|}
+
+'''Notes:'''
+* <sup>(*)</sup> Posthumous honors.
+* Despite not being retired, no one has worn [[Randall Cunningham]]'s No. 12 since he left the Eagles in 1995.<ref>{{cite news |author=Didinger, Ray |title=Ray's QB Notes 4: Randall's No. 12 retired? |url=http://www.csnphilly.com/football-philadelphia-eagles/eagles-talk/Rays-QB-Notes-4-Randalls-No-12-retired?blockID=743807 |work=CSN Philly |date=July 21, 2012 |accessdate=August 3, 2012 |deadurl=yes |archiveurl=https://archive.is/20130120030648/http://www.csnphilly.com/football-philadelphia-eagles/eagles-talk/Rays-QB-Notes-4-Randalls-No-12-retired?blockID=743807 |archivedate=January 20, 2013  }}</ref> 
+
+===Pro Football Hall of Famers===
+[[File:Van Buren 1948 Bowman.jpg|right|thumb|220px|upright|Eagles legend [[Steve Van Buren]]]]
+{{Main|List of Pro Football Hall of Fame inductees}}
+{|class="wikitable" style="text-align:center"
+|-
+! colspan="10" style="{{NFLPrimaryStyle|Philadelphia Eagles}};"|'''Eagles in the Pro Football Hall of Fame'''
+|-
+! colspan="10" style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};"| '''Players'''
+|-
+! No.
+! Name
+! Positions
+! Seasons
+! style="border-right: 3px solid #004953"|Inducted
+! No.
+! Name
+! Positions
+! Seasons
+! Inducted
+|-
+| 60|| [[Chuck Bednarik]]|| [[Center (American football)|C]]–[[Linebacker|LB]]||1949–1962 || style="border-right: 3px solid #004953"|1967 || 33|| [[Ollie Matson]]|| [[Running back|RB]] || 1964–1966 || 1972
+|-
+| 76|| [[Bob Brown (offensive lineman)|Bob Brown]]|| [[Offensive tackle|OT]]||1964–1968 || style="border-right: 3px solid #004953"|2004 || 25|| [[Tommy McDonald (American football)|Tommy McDonald]]|| [[Wide receiver|WR]] || 1957–1963 || 1998
+|-
+| 80|| [[Cris Carter]]|| [[Wide receiver|WR]]||1987–1989 || style="border-right: 3px solid #004953"|2013 || 85|| [[Art Monk|James Arthur "Art" Monk]]|| [[Wide receiver|WR]] || 1995 || 2008
+|-
+| 95|| [[Richard Dent]]|| [[Defensive end|DE]]||1997 || style="border-right: 3px solid #004953"|2011 || 35|| [[Pete Pihos]]|| [[Tight end|TE]]–[[Defensive end|DE]] || 1947–1955 || 1970
+|-
+| 89|| [[Mike Ditka]]|| [[Tight end|TE]]||1967–1968 || style="border-right: 3px solid #004953"|1988 || 54|| [[Jim Ringo]]|| [[Center (American football)|C]] || 1964–1967 || 1981
+|-
+| 86|| [[Bud Grant]]|| [[Wide receiver|WR]]–[[Defensive end|DE]]||1951–1952 || style="border-right: 3px solid #004953"|1994 || 11|| [[Norm Van Brocklin]]|| [[Quarterback|QB]] || 1958–1960 || 1971
+|-
+| 56|| [[Bill Hewitt (American football)|Bill Hewitt]]|| End-[[Fullback (gridiron football)|FB]]||1937–1939, 1943 || style="border-right: 3px solid #004953"|1971 || 15|| [[Steve Van Buren]]|| [[Halfback (American football)|HB]] || 1944–1951 || 1965
+|-
+| 87|| [[Claude Humphrey]]|| [[Defensive end|DE]]||1979–1981 || style="border-right: 3px solid #004953"|2014 || 92|| [[Reggie White]]|| [[Defensive end|DE]] || 1985–1992 || 2006
+|-
+| 9|| [[Sonny Jurgensen]]|| [[Quarterback|QB]]||1957–1963 || style="border-right: 3px solid #004953"|1983 || 53|| [[Alex Wojciechowicz]]|| [[Center (American football)|C]]–[[Defensive tackle|DT]] || 1946–1950 || 1968
+|-
+| 80|| [[James Lofton]]|| [[Wide receiver|WR]] || 1993 || style="border-right: 3px solid #004953"|2003 || 20|| [[Brian Dawkins]]|| [[Safety (gridiron football position)|S]] || 1996-2008 || 2018
+|-
+! colspan="10" style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};"| '''Coaches and Executives'''
+|-
+! colspan="2"|Name
+!colspan="3"|Positions
+!colspan="3"|Seasons
+!colspan="2"|Inducted
+|- align=center
+| colspan="2"|[[Bert Bell]] || colspan="3"|Owner/Founder || colspan="3"|1933–1940 || colspan="2"|1963
+|- align=center
+| colspan="2"|[[Wayne Millner]] || colspan="3"|Assistant Coach || colspan="3"|1951 || colspan="2"|1968
+|- align=center
+| colspan="2"|[[Greasy Neale|Earle "Greasy" Neale]] || colspan="3"|Head Coach || colspan="3"|1941–1950 || colspan="2"|1969
+|- align=center
+| colspan="2"|[[Mike McCormack (American football)|Mike McCormack]] || colspan="3"|Head Coach || colspan="3"|1973–1975 || colspan="2"|1984
+|}
+
+===Eagles Hall of Fame===
+{{category see also|American football museums and halls of fame}}
+In 1987, the Eagles Honor Roll was established. Every Eagles player who had by then been elected into the [[Pro Football Hall of Fame]] was among the inaugural induction class. By 2012, the Honor Roll had been retitled as the Eagles Hall of Fame.<ref name="Honor roll 2012">{{cite news |author=Weinberg, David |title=Leo Carlin, Troy Vincent headed to Eagles Hall of Fame |url=http://www.pressofatlanticcity.com/blogs/david_weinberg/leo-carlin-troy-vincent-headed-to-eagles-hall-of-fame/article_c7131568-d274-11e1-8fd7-001a4bcf887a.html |publisher=pressofatlanticcity.com |date=July 20, 2012 |accessdate=July 20, 2012}}</ref> Players are considered for induction three years after their retirement from the NFL, and there have been 41 inductees into the Eagles Hall of Fame as of 2015.<ref>{{cite web |title=Eagles Hall of Fame Inductees |url=http://media.philadelphiaeagles.com/media/147490/eagles-hall-of-fame.pdf |publisher=philadelphiaeagles.com |accessdate=August 2, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20141025135557/http://media.philadelphiaeagles.com/media/147490/eagles-hall-of-fame.pdf |archivedate=October 25, 2014  }}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+| colspan="5" style="{{NFLPrimaryStyle|Philadelphia Eagles}};|'''Eagles Hall of Fame'''
+|-
+!scope="col" style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};|Year
+!scope="col" style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};| No.
+!scope="col" style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};| Name
+!scope="col" style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};| Position(s)
+!scope="col" style="{{NFLAltPrimaryStyle|Philadelphia Eagles}};| Tenure
+|-
+|rowspan=13|1987 || 60 || [[Chuck Bednarik]] || [[Center (American football)|C]]–[[Linebacker|LB]] || 1949–1962
+|-
+| — || [[Bert Bell]] || Founder-Owner || 1933–1940
+|-
+| 17 || [[Harold Carmichael]] || [[Wide receiver|WR]] || 1971–1983
+|-
+| 56 || [[Bill Hewitt (American football)|Bill Hewitt]] || [[Tight end|TE]]–[[Defensive end|DE]] || 1936–1939, 1943
+|-
+| 9 || [[Sonny Jurgensen]] || [[Quarterback|QB]] || 1957–1963
+|-
+| 33 || [[Ollie Matson]] || [[Running back|RB]] || 1964–1966
+|-
+| 31 || [[Wilbert Montgomery]] || [[Running back|RB]] || 1977–1984
+|-
+| — || [[Greasy Neale|Earle "Greasy" Neale]] || Head Coach || 1941–1950
+|-
+| 35 || [[Pete Pihos]] || [[Tight end|TE]]–[[Defensive end|DE]] || 1947–1955
+|-
+| 54 || [[Jim Ringo]] || [[Center (American football)|C]] || 1964–1967
+|-
+| 11 || [[Norm Van Brocklin]] || [[Quarterback|QB]] || 1958–1960
+|-
+| 15 || [[Steve Van Buren]] || [[Halfback (American football)|HB]] || 1944–1951
+|-
+| 53 || [[Alex Wojciechowicz]] || [[Center (American football)|C]]–[[Defensive tackle|DT]] || 1946–1950
+|-
+|rowspan=2|1988 || 66 || [[Bill Bergey]] || [[Linebacker|LB]] || 1974–1980
+|-
+| 25 || [[Tommy McDonald (American football)|Tommy McDonald]] || [[Wide receiver|WR]] || 1957–1963
+|-
+|rowspan=2|1989 || 40 || [[Tom Brookshier]] || [[Cornerback|CB]] || 1954–1961
+|-
+| 44 || [[Pete Retzlaff]] || [[Tight end|TE]] || 1956–1966
+|-
+||1990 || 22 || [[Timmy Brown]] || [[Running back|RB]] || 1960–1967
+|-
+|rowspan=2|1991 || 76 || [[Jerry Sisemore]] || [[Offensive tackle|OT]] || 1973–1987
+|-
+| 75 || [[Stan Walters]] || [[Offensive tackle|OT]] || 1975–1983
+|-
+||1992 || 7 || [[Ron Jaworski]] || [[Quarterback|QB]] || 1977–1986
+|-
+||1993 || 28 || [[Bill Bradley (American football)|Bill Bradley]] || [[Safety (gridiron football position)|S]]–[[Punter (football)|P]] || 1969–1976
+|-
+||1994 || — || [[Dick Vermeil]] || Head Coach || 1976–1982
+|-
+|rowspan=2|1995 || — || Jim Gallagher || Team Executive || 1949–1995
+|-
+| 82 || [[Mike Quick]] || [[Wide receiver|WR]] || 1982–1990
+|-
+||1996 || 99 || [[Jerome Brown]] || [[Defensive tackle|DT]] || 1987–1991
+|-
+|rowspan=3|1999 || — || [[Otho Davis]] || Head Trainer || 1973–1995
+|-
+| colspan="4" style="text-align:center;"|[[1948 Philadelphia Eagles season|1948]] [[1948 NFL Championship Game|NFL Championship]] team
+|-
+| colspan="4" style="text-align:center;"|[[1949 Philadelphia Eagles season|1949]] [[1949 NFL Championship Game|NFL Championship]] team
+|-
+||2004 || 76 || [[Bob Brown (offensive lineman)|Bob Brown]] || [[Offensive tackle|OT]] || 1964–1968
+|-
+||2005 || 92 || [[Reggie White]] || [[Defensive end|DE]] || 1985–1992
+|-
+|rowspan=2|2009 || 70 || [[Al Wistert]] || [[Offensive tackle|OT]] || 1943–1951
+|-
+| 12 || [[Randall Cunningham]] || [[Quarterback|QB]]–[[Punter (football)|P]] || 1985–1995
+|-
+|rowspan=2|2011 || 21 || [[Eric Allen]] || [[Cornerback|CB]] || 1988–1994
+|-
+| — || [[Jim Johnson (American football)|Jim Johnson]] || Defensive Coordinator || 1999–2008
+|-
+|rowspan=3|2012 || — || Leo Carlin || Ticket Manager || 1960–2015
+|-
+| 20 || [[Brian Dawkins]] || [[Safety (gridiron football position)|S]] || 1996–2008
+|-
+| 23 || [[Troy Vincent]] || [[Cornerback|CB]] || 1996–2003
+|-
+||2013 || 5 || [[Donovan McNabb]] || [[Quarterback|QB]] || 1999–2009
+|-
+|rowspan=2|2015 || 36 || [[Brian Westbrook]] || [[Running back|RB]] || 2002–2009
+|-
+| 55 || [[Maxie Baughan]] || [[Linebacker|LB]] || 1960–1965
+|-
+|rowspan=2|2016 || 54 || [[Jeremiah Trotter]] || [[Linebacker|LB]] || 1998–2001, 2004–2006, 2009
+|-
+| - || [[Merrill Reese]] || Radio Play by Play || 1977–Present
+|-
+||2017 || 2 || [[David Akers]] || [[Placekicker|K]] || 1999- 2010
+|}
+
+===75th anniversary team===
+{{Eagles75}}
+
+==Franchise records==
+Source:[https://www.pro-football-reference.com/teams/phi/ pro-football-reference.com Eagles Franchise Page]
+
+===Passing===
+{| class="wikitable" style="text-align: center"
+|-
+! rowspan=2|Statistic !! colspan=3 | Regular season !! colspan=3 | Playoffs !! colspan=2 | Rookie
+|-
+! Career !! Season !! Game !! Career !! Season !! Game !! Season !! Game
+|-
+|Completions ||2801<br />[[Donovan McNabb]] ||379<br />[[Carson Wentz]]<br />2016 ||37<br />[[Mark Sanchez]]<br />2014-12-20 @WAS<br />[[Sam Bradford]]<br />2015-12-26 WAS ||341<br />[[Donovan McNabb]] ||73<br />[[Donovan McNabb]]<br />2008 ||30<br />[[Donovan McNabb]]<br />2005-02-06 NNWE ||379<br />[[Carson Wentz]]<br />2016 ||36<br />[[Carson Wentz]]<br />2016-12-04 @CIN
+|-
+|Pass Attempts ||4746<br />[[Donovan McNabb]] ||607<br />[[Carson Wentz]]<br />2016 ||62<br />[[Randall Cunningham]]<br />1989-10-02 @CHI<br />[[Nick Foles]]<br />2014-10-26 @ARI ||577<br />[[Donovan McNabb]] ||121<br />[[Donovan McNabb]]<br />2008 ||54<br />[[Randall Cunningham]]<br />1988-12-31 @CHI ||607<br />[[Carson Wentz]]<br />2016 ||60<br />[[Carson Wentz]]<br />2016-12-04 @CIN
+|-
+|Passing Yards ||32873<br />[[Donovan McNabb]] ||3916<br />[[Donovan McNabb]]<br />2008 ||471<br />[[Nick Foles]]<br />2018-12-23 Hou ||3752<br />[[Donovan McNabb]] ||892<br />[[Donovan McNabb]]<br />2008 ||407<br />[[Randall Cunningham]]<br />1988-12-31 @CHI ||3782<br />[[Carson Wentz]]<br />2016 ||381<br />[[Nick Foles]]<br />2012-12-09 @TAM
+|-
+|Passing TDs ||216<br />[[Donovan McNabb]] ||33<br />[[Carson Wentz]]<br />2017 ||7<br />[[Nick Foles]]<br />2013-11-03 @OAK ||24<br />[[Donovan McNabb]] ||7<br />[[Donovan McNabb]]<br />2004 ||3<br />[[Ron Jaworski]]<br />1979-12-23 CHI<br />[[Rodney Peete]]<br />1995-12-30 DET<br />[[Donovan McNabb]]<br />2005-02-06 NNWE<br />2009-01-18 @ARI /> [[Nick Foles]]<br />2018-01-21 MIN<br /> 2018-02-04 NNWE ||16<br />[[Carson Wentz]]<br />2016 ||3<br />[[Scott Tinsley]]<br />1987-10-11 @DAL<br />[[Donovan McNabb]]<br />2000-01-02 STL
+|-
+|Intercepted ||151<br />[[Ron Jaworski]] ||26<br />[[Sonny Jurgensen]]<br />1962 ||6<br />[[Bobby Thomason]]<br />1956-10-21 CRD<br />[[Pete Liske]]<br />1971-09-26 DAL ||17<br />[[Donovan McNabb]] ||7<br />[[Ron Jaworski]]<br />1980 ||3<br />[[Ron Jaworski]]<br />1981-01-25 NOAK<br />[[Randall Cunningham]]<br />1988-12-31 @CHI<br />[[Donovan McNabb]]<br />2004-01-18 CAR<br />2005-02-06 NNWE ||17<br />[[Davey O'Brien]]<br />1939 ||4<br />[[Randall Cunningham]]<br />1985-09-15 RAM<br />[[Scott Tinsley]]<br />1987-10-18 @GNB<br />[[Brad Goebel]]<br />1991-10-13 NOR
+|-
+|Passer Rating ||94.2+<br />[[Nick Foles]] ||119.2#<br />[[Nick Foles]]<br />2013 ||158.3*<br />[[Donovan McNabb]]<br />2007-09-23 DET<br />[[Nick Foles]]<br />2013-11-03 @OAK ||83.6#<br />[[Jeff Garcia]] ||132.4*<br />[[Rodney Peete]]<br />1995 ||143.3*<br />[[Rodney Peete]]<br />1995-12-30 DET ||79.3#<br />[[Carson Wentz]]<br />2016 ||131.7*<br />[[Scott Tinsley]]<br />1987-10-11 @DAL
+|-
+|Sacked ||422<br />[[Randall Cunningham]] ||72<br />[[Randall Cunningham]]<br />1986 ||12<br />[[Donovan McNabb]]<br />2007-09-30 @NYG ||48<br />[[Donovan McNabb]] ||12<br />[[Donovan McNabb]]<br />2003 ||8<br />[[Donovan McNabb]]<br />2004-01-11 GNB ||38<br />[[John Reaves]]<br />1972 ||7<br />[[Randall Cunningham]]<br />1985-09-29 NYG
+|-
+|Yds/Pass Att ||8.71+<br />[[Sonny Jurgensen]] ||9.12#<br />[[Nick Foles]]<br />2013 ||16.29*<br />[[Sonny Jurgensen]]<br />1962-11-25 DAL ||6.5#<br />[[Donovan McNabb]]<br />[[Randall Cunningham]] ||10.2*<br />[[Norm Van Brocklin]]<br />1960 ||10.8*<br />[[Rodney Peete]]<br />1995-12-30 DET ||6.73#<br />[[John Reaves]]<br />1972 ||12.47*<br />[[Randall Cunningham]]<br />1985-09-22 @WAS
+|-
+|Pass Yds/Game ||266.1+<br />[[Sam Bradford]] ||278.6#<br />[[Donovan McNabb]]<br />2005 ||- ||234.5#<br />[[Donovan McNabb]] ||407*<br />[[Randall Cunningham]]<br />1988 ||- ||242.7#<br />[[Nick Foles]]<br />2012 ||-
+|}
++ = min. 500 attempts, # = min. 100 attempts, ∗ = minimum 15 attempts,
+
+===Rushing===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan=2|Statistic !! colspan=3 | Regular season !! colspan=3 | Playoffs !! colspan =2 | Rookie
+|-
+! Career !! Season !! Game !! Career !! Season !! Game !! Season !! Game
+|-
+|Rush Attempts ||1465<br />[[Wilbert Montgomery]] ||353<br />[[Ricky Watters]]<br />1996 ||35<br />[[Heath Sherman]]<br />1990-11-12 WAS ||141<br />[[Wilbert Montgomery]] ||68<br />[[Wilbert Montgomery]]<br />1980 ||26<br />[[Wilbert Montgomery]]<br />1979-12-23 CHI<br />1981-01-03 MIN<br />1981-01-11 DAL ||182<br />[[Po James]]<br />1972 ||28<br />[[Charlie Garner]]<br />1994-10-09 WAS
+|-
+|Rush Yards ||6792<br />[[LeSean McCoy]] ||1607<br />[[LeSean McCoy]]<br />2013 ||217<br />[[LeSean McCoy]]<br />2013-12-08 DET ||591<br />[[Brian Westbrook]] ||312<br />[[Wilbert Montgomery]]<br />1980 ||194<br />[[Wilbert Montgomery]]<br />1981-01-11 DAL ||637<br />[[LeSean McCoy]]<br />2009 ||178<br />[[Bryce Brown]]<br />2012-11-26 CAR
+|-
+|Rush Yds/Att ||6.62<br />[[Randall Cunningham]] ||7.98<br />[[Randall Cunningham]]<br />1990 ||11.63<br />[[Timmy Brown]]<br />1965-11-07 @CLE ||5.86<br />[[Donovan McNabb]] ||7.79<br />[[Brian Westbrook]]<br />2006 ||7.46<br />[[Wilbert Montgomery]]<br />1981-01-11 DAL ||4.9<br />[[Bryce Brown]]<br />2012 ||9.37<br />[[Bryce Brown]]<br />2012-11-26 CAR
+|-
+|Rushing TDs ||69<br />[[Steve Van Buren]] ||17<br />[[LeSean McCoy]]<br />2011 ||3<br />[[Wilbert Montgomery]]<br />1979-10-07 WAS<br />1982-12-19 HOU<br />[[LeSean McCoy]]<br />2010-09-19 @DET ||6<br />[[Wilbert Montgomery]] ||3<br />[[Wilbert Montgomery]]<br />1980<br />[[Brian Westbrook]]<br />2006 ||2<br />[[Wilbert Montgomery]]<br />1981-01-03 MIN<br />1981-12-27 NYG ||4<br />[[Ken Keller]]<br />1956<br />[[LeSean McCoy]]<br />2009<br />[[Bryce Brown]]<br />2012 ||2<br />[[Wilbert Montgomery]]<br />1977-12-18 NYJ<br />[[James Joseph (American football)|James Joseph]]<br />1991-11-04 NYG<br />[[Charlie Garner]]<br />1994-10-02 @SFO<br />[[Bryce Brown]]<br />2012-11-26 CAR<br />2012-12-02 @DAL
+|-
+|Rush Yds/Game ||79<br />[[Ricky Watters]] ||100.4<br />[[LeSean McCoy]]<br />2013 ||- ||74<br />[[Wilbert Montgomery]] ||128.5<br />[[Brian Westbrook]]<br />2006 ||- ||70.1<br />[[Mike Hogan (American football)|Mike Hogan]]<br />1976 ||-
+|}
+∗ = minimum 15 attempts, # = min. 100 attempts, + = min. 500 attempts
+
+===Receiving===
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan=2|Statistic !! colspan=3 | Regular season !! colspan=3 | Playoffs !! colspan =2 | Rookie
+|-
+! Career !! Season !! Game !! Career !! Season !! Game !! Season !! Game
+|-
+|Receptions ||589<br />[[Harold Carmichael]] ||116<br />[[Zach Ertz]]<br />2018 ||14<br />[[Zach Ertz]]<br />2018-11-11 DAL ||38<br />[[Chad Lewis]] ||19<br />[[Brent Celek]]<br />2008 ||10<br />[[Brent Celek]]<br />2009-01-18 @ARI ||81<br />[[Keith Jackson]]<br />1988 ||11<br />[[Junior Tautalatasi]]<br />1986-11-09 NYG
+|-
+|Receiving Yds ||8,978<br />[[Harold Carmichael]] ||1409<br />[[Mike Quick]]<br />1983 ||237<br />[[Tommy McDonald (American football)|Tommy McDonald]]<br />1961-12-10 NYG ||465<br />[[Harold Carmichael]] ||219<br />[[Alshon Jeffery]]<br />2018 ||146<br />[[Jeremy Maclin]]<br />2010-01-09 @DAL ||912<br />[[DeSean Jackson]]<br />2008 ||177<br />[[Hank Baskett]]<br />2006-12-31 ATL
+|-
+|Yds/Rec ||19.16+<br />[[Tommy McDonald (American football)|Tommy McDonald]] ||21.44#<br />[[Ben Hawkins (American football)|Ben Hawkins]]<br />1967 ||52.5*<br />[[DeSean Jackson]]<br />2010-12-12 @DAL ||16.03#<br />[[Harold Carmichael]] ||23.5*<br />[[Donte' Stallworth]]<br />2006 ||30.5*<br />[[Kevin Curtis]]<br />2009-01-18 @ARI ||21.09<br />#[[Hank Baskett]]<br />2006 ||28.5*<br />[[Fred Barnett]]<br />1990-10-15 MIN
+|-
+|Receiving TDs ||79<br />[[Harold Carmichael]] ||14<br />[[Terrell Owens]]<br />2004 ||4<br />[[Ben Hawkins (American football)|Ben Hawkins]]<br />1969-09-28 PIT ||6<br />[[Harold Carmichael]] ||3<br />[[Harold Carmichael]]<br />1979<br />[[Brent Celek]]<br />2008<br />[[Alshon Jeffery]]<br />2018 ||2<br />[[Harold Carmichael]]<br />1979-12-23 CHI<br />[[Fred Barnett]]<br />1993-01-03 @NOR<br />[[Chad Lewis]]<br />2005-01-23 ATL<br />[[Brent Celek]]<br />2009-01-18 @ARI<br /> [[Alshon Jeffery]]<br />2018-01-21 MIN||9<br />[[Calvin Williams]]<br />1990 ||2<br />(9 times)
+|-
+|Rec Yds/Game ||70.3+<br />[[DeSean Jackson]] ||90.4#<br />[[Ben Hawkins (American football)|Ben Hawkins]]<br />1967 ||- ||66.4#<br />[[Harold Carmichael]] ||146*<br />[[Jeremy Maclin]]<br />2009 ||- ||64.3#<br />[[Don Looney]]<br />1940 ||-
+|}
+∗ = minimum 4 receptions, # = min. 20 receptions, + = min. 200 receptions
+
+===Other===
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan=2|Statistic !! colspan=3 | Regular season !! colspan=3 | Playoffs !! colspan=2 | Rookie
+|-
+! Career !! Season !! Game !! Career !! Season !! Game !! Season !! Game
+|-
+|Total TDs ||79<br />[[Harold Carmichael]] ||20<br />[[LeSean McCoy]]<br />2011 ||4<br />[[Ben Hawkins (American football)|Ben Hawkins]]<br />1969-09-28 PIT<br />[[Wilbert Montgomery]]<br />1978-09-10 @WAS<br />1979-10-07 WAS<br />[[Brian Westbrook]]<br />2008-11-27 ARI ||6<br />[[Brian Westbrook]]<br />[[Wilbert Montgomery]]<br />[[Harold Carmichael]] ||3<br />[[Harold Carmichael]]<br />1979<br />[[Wilbert Montgomery]]<br />1980<br />[[Duce Staley]]<br />2001<br />[[Brian Westbrook]]<br />2006<br />[[Brent Celek]]<br />2008<br />[[Alshon Jeffery]]<br />2018 ||2<br />(8 times) ||9<br />[[Calvin Williams]]<br />1990 ||3<br />[[Corey Clement]]<br />2017-11-05 DEN
+|-
+|Yds from Scrimmage ||9,785<br />[[Brian Westbrook]] ||2146<br />[[LeSean McCoy]]<br />2013 ||249<br />[[Timmy Brown]]<br />1962-12-16 @STL ||925<br />[[Brian Westbrook]] ||443<br />[[Wilbert Montgomery]]<br />1980 ||208<br />[[Wilbert Montgomery]]<br />1981-01-11 DAL ||878<br />[[Charle Young]]<br />1973 ||189<br />[[Bryce Brown]]<br />2012-11-26 CAR
+|-
+|All Purpose Yds ||12,049<br />[[Timmy Brown]] ||2428<br />[[Timmy Brown]]<br />1963 ||341<br />[[Timmy Brown]]<br />1962-12-16 @STL ||953<br />[[Brian Westbrook]] ||443<br />[[Wilbert Montgomery]]<br />1980 ||208<br />[[Wilbert Montgomery]]<br />1981-01-11 DAL ||940<br />[[Steve Van Buren]]<br />1944 ||231<br />[[Kevin Bowman]]<br />1987-10-11 @DAL
+|}
+
+===Returning===
+{| class="wikitable" style="text-align: center"
+|-
+! rowspan=2|Statistic !! colspan=3 | Regular season !! colspan=3 | Playoffs
+|-
+! Career !! Season !! Game !! Career !! Season !! Game
+|-
+|Kick Returns ||169<br />[[Timmy Brown]] ||54<br />[[Allen Rossum]]<br />1999 ||8<br />[[Derrick Witherspoon]]<br />1996-11-24 @ARI<br />[[Allen Rossum]]<br />1999-11-21 IND<br />[[Quintin Demps]]<br />2008-11-09 NYG ||22<br />[[Brian Mitchell (American football)|Brian Mitchell]] ||11<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2001 ||6<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2002-01-27 @STL
+|-
+|Kick Ret Yds ||4,483<br />[[Timmy Brown]] ||1347<br />[[Allen Rossum]]<br />1999 ||253<br />[[Derrick Witherspoon]]<br />1996-11-24 @ARI ||522<br />[[Brian Mitchell (American football)|Brian Mitchell]] ||239<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2001 ||128<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2002-01-27 @STL
+|-
+|Yds/KR ||27.74<br />[[Josh Huff]] ||33.25<br />[[Steve Van Buren]]<br />1944 ||<br />61
+[[Jake Elliott]]
+
+2017-09-24
+|25.29<br />[[J.R. Reed]] ||26.8<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2002 ||31.25<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2003-01-19 TAM
+|-
+|Kick Ret TDs ||5<br />[[Timmy Brown]] ||2<br />[[Timmy Brown]]<br />1966<br />[[Derrick Witherspoon]]<br />1996 ||2<br />[[Timmy Brown]]<br />1966-11-06 DAL || colspan=3 | 0
+|-
+|Punt Returns ||148<br />[[Wally Henry]] ||54<br />[[Wally Henry]]<br />1981 ||9<br />[[Larry Marshall (American football)|Larry Marshall]]<br />1977-09-18 TAM ||16<br />[[Brian Mitchell (American football)|Brian Mitchell]] ||8<br />[[Wally Henry]]<br />1979<br />[[John Sciarra]]<br />1980 ||6<br />[[John Sciarra]]<br />1981-01-11 DAL
+|-
+|Punt Ret Yds ||1369<br />[[Brian Mitchell (American football)|Brian Mitchell]] ||567<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2002 ||140<br />[[Alvin Haymond]]<br />1968-10-06 @WAS ||174<br />[[DeSean Jackson]] ||122<br />[[DeSean Jackson]]<br />2008 ||109<br />[[DeSean Jackson]]<br />2009-01-04 @MIN
+|-
+|Yds/PR ||14.71<br />[[Ernie Steele]] ||20.44<br />[[Ernie Steele]]<br />1942 ||33<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2002-11-25 @SFO ||15.82<br />[[DeSean Jackson]] ||17.43<br />[[DeSean Jackson]]<br />2008 ||21.8<br />[[DeSean Jackson]]<br />2009-01-04 @MIN
+|-
+|Punt Ret TDs ||4<br />[[DeSean Jackson]]<br />[[Darren Sproles]] ||2<br />[[Brian Westbrook]]<br />2003<br />[[DeSean Jackson]]<br />2009<br />[[Darren Sproles]]<br />2014, 2015 ||1<br />(8 times) ||colspan=3 | 0
+|-
+|Total Return Yds ||4,997<br />[[Timmy Brown]] ||1729<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2002 ||234<br />[[Vai Sikahema]]<br />1992-11-22 @NYG ||657<br />[[Brian Mitchell (American football)|Brian Mitchell]] ||296<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2001 ||159<br />[[Brian Mitchell (American football)|Brian Mitchell]]<br />2003-01-19 TAM
+|}
+
+===Defense===
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan=2|Statistic !! colspan=3 | Regular season !! colspan=3 | Playoffs
+|-
+! Career !! Season !! Game !! Career !! Season !! Game
+|-
+|Interceptions ||34<br />[[Bill Bradley]]<br />[[Brian Dawkins]]<br />[[Eric Allen]] ||11<br />[[Bill Bradley]]<br />1971 ||3<br />[[Don Burroughs]]<br />1961-12-03 @PIT<br />[[Nate Ramsey]]<br />1965-11-28 @STL<br />[[Jim Nettles]]<br />1965-12-12 @PIT<br />[[Joe Scarpati]]<br />1966-10-23 @NYG ||5<br />[[Herm Edwards]] ||3<br />[[Roynell Young]]<br />1980<br />[[Damon Moore]]<br />2001 ||2<br />[[Herm Edwards]]<br />1981-01-03 MIN<br />[[Roynell Young]]<br />1981-01-03 MIN<br />[[Eric Allen]]<br />1993-01-03 @NOR<br />[[Damon Moore]]<br />2002-01-12 TAM
+|-
+|Int Ret Yds ||536<br />[[Bill Bradley]] ||248<br />[[Bill Bradley]]<br />1971 ||114<br />[[Frank LeMaster]]<br />1975-12-21 @WAS ||77<br />[[Damon Moore]] ||77<br />[[Damon Moore]]<br />2001 ||59<br />[[Damon Moore]]<br />2002-01-12 TAM
+|-
+|Int Ret TDs ||5<br />[[Eric Allen]] ||4<br />[[Eric Allen]]<br />1993 ||2<br />[[Eric Allen]]<br />1993-12-26 NOR || colspan=3 | 1<br />(6 times)
+|-
+|Sacks (since 1982) ||124<br />[[Reggie White]] ||21<br />[[Reggie White]]<br />1987 ||4.5<br />[[Clyde Simmons]]<br />1991-09-15 @DAL<br />[[Hugh Douglas (American football)|Hugh Douglas]]<br />1998-10-18 @SDG ||4<br />[[Derrick Burgess]]<br />[[Hugh Douglas (American football)|Hugh Douglas]]<br />[[Carl Hairston]]<br />[[Reggie White]] ||3<br />[[Carl Hairston]]<br />1980<br />[[Derrick Burgess]]<br />2004 ||2<br />[[Carl Hairston]]<br />1981-01-03 MIN<br />[[Hugh Douglas (American football)|Hugh Douglas]]<br />2000-12-31 TAM<br />[[Derrick Burgess]]<br />2005-01-23 ATL<br />[[Darwin Walker]]<br />2007-01-13 @NOR
+|}
+
+===Exceptional performances===
+{| class="wikitable" style="text-align: center;"
+|-
+!style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Statistic !! style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Career !! style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Season !! style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Playoff Games !! style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Rookie Games
+|-
+|300+ yard passing games ||30<br />[[Donovan McNabb]] ||6<br />[[Donovan McNabb]]<br />2004 ||3<br />[[Donovan McNabb]] ||4<br />[[Carson Wentz]]<br />2016
+|-
+|100+ yard rushing games ||26<br />[[Wilbert Montgomery]] ||8<br />[[Wilbert Montgomery]]<br />1981<br />[[Brian Westbrook]]<br />2006 ||2<br />[[Brian Westbrook]] ||2<br />[[Don Johnson]]<br />1953<br />[[Mike Hogan (American football)|Mike Hogan]]<br />1976<br />[[Charlie Garner]]<br />1994<br />[[Bryce Brown]]<br />2012
+|-
+|100+ yard receiving games ||23<br />[[Pete Retzlaff]] ||8<br />[[Terrell Owens]]<br />2004 ||2<br />[[Fred Barnett]]<br />[[Keith Jackson]] ||4<br />[[Charle Young]]<br />1973
+|-
+|Games with 1+ TD scored ||69<br />[[Harold Carmichael]] ||13<br />[[LeSean McCoy]]<br />2011 ||5<br />[[Harold Carmichael]]<br />[[Duce Staley]]<br />[[Brian Westbrook]] ||9<br />[[Calvin Williams]]<br />1990
+|-
+|Games with 2+ TD scored ||18<br />[[Brian Westbrook]] ||6<br />[[LeSean McCoy]]<br />2011 ||2<br />[[Wilbert Montgomery]] ||2<br />[[Bryce Brown]]<br />2012<br />[[Jordan Matthews]]<br />2014
+|-
+|Games with 3+ TD scored ||7<br />[[Brian Westbrook]] ||2<br />[[Pete Retzlaff]]<br />1965<br />[[Wilbert Montgomery]]<br />1982<br />[[Terrell Owens]]<br />2004<br />[[Brian Westbrook]]<br />2007, 2008 || - || -
+|}
+
+==Coaches==
+{{Main|List of Philadelphia Eagles head coaches}}
+
+===Current staff===
+{{Philadelphia Eagles staff}}
+
+==Radio and television==
+{{Main|List of Philadelphia Eagles broadcasters}}
+
+===Eagles radio affiliates===
+
+{{Col-begin}}
+{{Col-break}}
+
+====Pennsylvania====
+{| class="wikitable"
+|-
+! scope="col" style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|City 
+! scope="col" style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Call Sign 
+! scope="col" style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Frequency
+|-
+| [[Easton, Pennsylvania|Easton]] || [[WCTO]] || 96.1 FM
+|-
+| [[Levittown, Pennsylvania|Levittown]] || [[WBCB (AM)|WBCB]] || 1490 AM
+|-
+| rowspan=2|[[Philadelphia]] || [[WTEL (AM)|WTEL]] || 610 AM
+|-
+| [[WIP-FM]] || 94.1 FM
+|-
+| [[Pottsville, Pennsylvania|Pottsville]] || [[WPPA]] || 1360 AM
+|-
+| [[Reading, Pennsylvania|Reading]] || [[WEEU]] || 830 AM
+|-
+| [[Scranton, Pennsylvania|Scranton]] || [[WEJL]] || 630 AM
+|-
+| [[Sunbury, Pennsylvania|Sunbury]] || [[WEGH]] || 107.3 FM
+|-
+| [[Williamsport, Pennsylvania|Williamsport]] || [[WBZD-FM]] || 93.3 FM
+|-
+| [[York, Pennsylvania|York]] || [[WSOX]] || 96.1 FM
+|}
+
+{{Col-break}}
+
+====Delaware====
+{| class="wikitable"
+|-
+! scope="col" style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|City 
+! scope="col" style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Call Sign 
+! scope="col" style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Frequency
+|-
+| [[Milford, Delaware|Milford]] || [[WAFL (FM)|WAFL]] || 97.7 FM
+|-
+| [[Wilmington, Delaware|Wilmington]] || [[WDEL (AM)|WDEL]] || 1150 AM
+|}
+
+====New Jersey====
+{| class="wikitable"
+|-
+! scope="col" style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|City 
+! scope="col" style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Call Sign 
+! scope="col" style="{{NFLPrimaryStyle|Philadelphia Eagles|border=2}};"|Frequency
+|-
+| [[Atlantic City, New Jersey|Atlantic City]] || [[WPGG]] || 1450 AM
+|-
+| [[Millville, New Jersey|Millville]] || [[WENJ]] || 97.3 FM
+|}
+{{Col-break}}
+
+[[File:Philadelphia Eagles radio affiliates.png|thumb|right|Map of radio affiliates.]]
+
+{{Col-end}}
+
+From 2008 through 2010, Eagles games were broadcast on both rock-formatted WYSP and sports-talk [[WTEL (AM)|Sports Radio 610 WIP]], as both stations are owned and operated by [[CBS]] Radio. In 2011, CBS dropped the music on WYSP, renaming it [[WIP-FM]] and making it a full simulcast of WIP. Later, 610 AM became a CBS Sports Radio national broadcast, and 94 WIP was broadcast on WIP FM. The Eagles extended their broadcasting contract with WIP-FM through 2024.<ref>{{cite web|url=https://www.facebook.com/94wip/videos/1532568286831951/ |title=Sportsradio WIP - Entercom Communications CEO David Field |publisher=Facebook.com |date= |accessdate=January 19, 2018}}</ref>
+
+[[Merrill Reese]], who joined the Eagles in 1976, is the play-by-play announcer, and former Eagles wide receiver [[Mike Quick]], who replaced the offense lineman Stan Walters beginning in 1998, is the color analyst. The post game show, which has consisted of many Philadelphia sports personalities, as of the 2014 season is hosted by Kevin Riley, a former Eagles linebacker and special-teamer, and Rob Ellis. Riley was the former post-game host for the show on 94 WYSP before the WIP change over; Rob Ellis hosts a weekly show nightly from 6–10 on 94.1 WIP-FM. No announcement was made prior to the start of preseason regarding who would be the host(s) for 2015.
+
+In 2015, the preseason games are being televised on [[WCAU]], the local [[NBC]] [[owned and operated station]]. Television announcers for these preseason games were not announced prior to the start of preseason. During the regular season, games are governed by the [[National Football League on television|NFL's master broadcasting contract]] with [[FOX]], [[CBS]], [[NBC]], and [[ESPN]]. Most games can be seen on FOX-owned [[WTXF-TV]]. When hosting an AFC team, those games can be seen on CBS-owned [[KYW-TV]].
+
+==Fans==
+[[File:Eagles Packers Jan 9, 2011.jpg|thumb|right|200px|Full house at "The Linc" for a playoff game in January 2011]]
+[[File:An Eagles fan celebrates as confetti falls on the field at Super Bowl 2018, Minneapolis MN (40074198602).jpg|thumb|200px|An Eagles fan in attendance at [[U.S. Bank Stadium]] celebrates following the team's victory at [[Super Bowl LII]].]]
+[[file:Eagles Super Bowl Parade 03.jpg|thumb|right|200px|Eagles fans celebrating along [[Benjamin Franklin Parkway]] at the Super Bowl victory parade]]
+
+===Devotion===
+Although the method may vary, studies that attempt to rank the 32 fan bases in the NFL consistently place Eagles [[sports fan|fans]] among the best in the league, noting their "unmatched fervor."<ref name="forbes080901c">{{cite news |first=Matt |last=Woolsey |title=In Depth: America's Most Die-Hard Football Fans |url=https://www.forbes.com/2008/08/29/fans-football-loyal-forbeslife-cx_mw_0901sports_slide_11.html |work=Forbes |date=September 1, 2008 |accessdate=February 8, 2009}}</ref> Eagles fans have numerous dedicated web communities, ranking the Eagles just behind the [[Philadelphia Phillies|Phillies]] as the dominant Philadelphia sports presence on the web.<ref>[https://web.archive.org/web/20120807190923/http://www.myfoxphilly.com/story/17565369/phillies-pass-eagles-in-google-ranking Phillies Pass Eagles In Google Ranking]. myfoxphilly.com (July 2, 2011)</ref>
+
+The [[American City Business Journals]], which conducts a regular study to determine the most loyal fans in the NFL, evaluates fans based primarily on attendance-related factors,<ref name="bizjournal060904c">{{cite news |first=G. Scott |last=Thomas |title=NFL Fan Loyalty: Methodology |url=http://www.bizjournals.com/specials/pages/31.html |archiveurl=https://web.archive.org/web/20080526091257/http://www.bizjournals.com/specials/pages/31.html |archivedate=May 26, 2008 |work=Bizjournals |date=September 4, 2006 |accessdate=February 6, 2009 |deadurl=yes  }}</ref> and ranked Eagles fans third in both 1999<ref name="phillybizjournal990205">{{cite news |first=John |last=George |title=Proven: Eagles' fans are fanatics |work=Philadelphia Business Journal |location=Philadelphia; Pennsylvania |page=3 |date=February 5, 1999}}</ref> and 2006.<ref name="bizjournal060904a">{{cite news |first=G. Scott |last=Thomas |title=Full fan loyalty rankings |url=http://www.bizjournals.com/specials/pages/35.html |archiveurl=https://web.archive.org/web/20090629015139/http://www.bizjournals.com/specials/pages/35.html |archivedate=June 29, 2009 |work=Bizjournals |date=September 4, 2006 |accessdate=February 6, 2009 |deadurl=yes  }}</ref> The 2006 study called the fans "incredibly loyal", noting that they filled 99.8% of the seats in the stadium over the previous decade.<ref name="bizjournal060904b">{{cite news |first=G. Scott |last=Thomas |title=NFL Fan Support Rankings |url=http://www.bizjournals.com/specials/slideshow/13.html?page=21 |archiveurl=https://web.archive.org/web/20091226150432/http://www.bizjournals.com/specials/slideshow/13.html?page=21 |archivedate=December 26, 2009 |work=Bizjournals |date=September 4, 2006 |accessdate=February 6, 2009 |deadurl=yes  }}</ref> ''[[Forbes]]'' placed the Eagles fans first in its 2008 survey,<ref name="forbes080901a">{{cite news |first=Matt |last=Woolsey |title=America's Most Die-Hard Football Fans |url=https://www.forbes.com/2008/08/29/fans-football-loyal-forbeslife-cx_mw_0901sports.html |work=Forbes |date=September 1, 2008 |accessdate=February 8, 2009}}</ref> which was based on the correlation between team performance and fan attendance.<ref name="forbes080901b">{{cite news |first=Matt |last=Woolsey |title=America's Most Die-Hard Football Fans: Methodology |url=https://www.forbes.com/2008/08/29/fans-football-loyal-forbeslife-cx_mw_0901sports_2.html |work=Forbes |date=September 1, 2008 |accessdate=February 8, 2009}}</ref> [[ESPN.com]] placed Eagles fans fourth in the league in its 2008 survey, citing the connection between the team's performance and the mood of the city.<ref name="espn080829">{{cite news |first=Matt |last=Mosley |title=NFL's best fans? We gotta hand it to Steelers barely |url=http://sports.espn.go.com/nfl/preview08/columns/story?id=3530077 |publisher=ESPN |date=August 29, 2008 |accessdate=August 30, 2008}}</ref> The last home game which was blacked out on television in the Philadelphia market as a result of not being sold out was against the Arizona Cardinals on Sunday, September 12, 1999, which was Andy Reid's first home game as new head coach of the Eagles.{{citation needed|date=August 2017}}
+
+The studies note that—win or lose—Eagles fans can be counted on to pack their stadium. As of August 2008, the team had sold out 71 consecutive games, and 70,000 were on the team's waiting list for season tickets.<ref name="espn080829" /> Despite finishing with a 6–10 record in the 2005 season, the Eagles ranked second in the NFL in merchandise sales, and single-game tickets for the next season were sold out minutes after phone and Internet lines opened.<ref name=berman>{{cite web |last=Berman |first=Zack |date=June 14, 2006 |url=http://www.philadelphiaeagles.com/news/Story.asp?story_id=8517 |archiveurl=https://web.archive.org/web/20081209092002/http://www.philadelphiaeagles.com/news/Story.asp?story_id=8517 |archivedate=December 9, 2008 |title=Single Game Tickets Sold Out! |publisher=PhiladelphiaEagles.com |accessdate=June 22, 2006 |deadurl=yes  }}</ref>
+
+Eagles fans have also been known to chant the famous, "E-A-G-L-E-S – Eagles!" at [[Philadelphia Flyers|Flyers]], [[Philadelphia Phillies|Phillies]], and [[Philadelphia 76ers|76ers]] games when the team is getting [[blowout (sports)|blown out]] late in a game and a loss is inevitable, signifying their displeasure with the given team's performance, and that they are instead putting their hope into the Eagles.
+
+===Bad behavior===
+Along with their [[Ultras|fierce devotion]], Eagles fans have [[hooliganism|a reputation for bad behavior]] and [[violence in sports|sports-related violence]], especially when the team plays its rivals.<ref name="anderson20021029">{{cite news |url=https://www.nytimes.com/2002/10/29/sports/sports-of-the-times-to-eagles-shockey-is-public-enemy-no-1.html?partner=rssnyt&emc=rss |title=To Eagles, Shockey Is Public Enemy No. 1 |work=The New York Times |date=October 29, 2002 |accessdate=December 23, 2012 |author=Anderson, Dave}}</ref> In ''If Football's a Religion, Why Don't We Have a Prayer?'', Jereé Longman described the fans of the [[700 Level]] of Veterans Stadium as having a reputation for "[[crowd abuse|hostile taunting]], fighting, public urination and general strangeness."<ref>{{Cite book |last=Longman |first=Jeré |title=If Football's a Religion, Why Don't We Have a Prayer? |publisher=HarperCollins Publishers |year=2006 |location=New York |url=https://books.google.com/books?id=5LjeHAAACAAJ |isbn=978-0-06-084373-1}}</ref> So many incidents occurred at a 1997 game against the 49ers that at the following home game, Judge [[Seamus McCaffery]] began presiding over a temporary courtroom at the stadium; 20 suspects came before him that day.{{r|anderson20021029}} Fan behavior improved after the team's move to Lincoln Financial Field, and "Eagles Court" ended in December 2003.<ref name="ap20031206">{{cite news |url=http://sportsillustrated.cnn.com/2003/football/nfl/12/06/eagles.court.ap/ |title=Court at Eagles' games is out of session Sunday |work=Sports Illustrated |date=December 6, 2003 |agency=Associated Press |accessdate=December 23, 2012}}</ref>
+
+==Media and cultural reference==
+In the book ''[[MASH: A Novel About Three Army Doctors]]'', the character [[Spearchucker Jones|Captain Oliver Wendell "Spearchucker" Jones]] fictionally played for the Philadelphia Eagles, though in the movie this was changed to San Francisco.
+
+The [[1976 Philadelphia Eagles season|1976]] draw was the subject of the movie ''[[Invincible (2006 film)|Invincible]]''. The movie stars [[Mark Wahlberg]] as [[Vince Papale]], a 30-year-old bartender and part-time school teacher, and also a diehard Eagles fan who became an Eagles player. The film differs slightly from true events as the selection process was invitation only, and Papale had at least some previous playing experience.<ref>{{IMDb title|445990|Invincible}}</ref> The film ''[[Silver Linings Playbook]]'' highlights the [[2008 Philadelphia Eagles season]]. The film was critically acclaimed and nominated for several awards including 8 [[Academy Awards]].
+
+In the 1978 Academy Award-winning movie ''[[The Deer Hunter]]'', the Eagles are referenced when Nick talks to Stan in the bar, saying: "Hey, I got a hundred bucks says the Eagles never cross the fifty in the next half and Oakland wins by 20!" Stan responds; "And I got an extra twenty says the Eagles' quarterback wears a dress!"<ref>{{cite web|url=http://www.pages.drexel.edu/~ina22/splaylib/Screenplay-Deer_Hunter.pdf |title=The Deer Hunter Final Screenplay |last=Cimino |first=Michael |publisher=drexel.edu |accessdate=January 19, 2018}}</ref>
+
+The award-winning comedy series ''[[It's Always Sunny in Philadelphia]]'' starring [[Danny DeVito]] makes several references to the Philadelphia Eagles, most notably Season 3, Episode 2 – "The Gang Gets Invincible," the title being a reference to the Wahlberg film.<ref>{{cite web|last1=Savage|first1=Fred|title=The Gang Gets Invincible|url=https://www.imdb.com/title/tt1028236/|website=IMDB|publisher=IMDB|accessdate=September 27, 2016|date=September 13, 2007}}</ref>
+
+==See also==
+* [[South Philadelphia Sports Complex]]
+* [[Sports in Philadelphia]]
+* [[The Michael Vick Project]]
+* [[Forbes' list of the most valuable sports teams]]
+
+==Notes and references==
+{{Reflist|30em}}
+
+==Sources==
+* Lyons, Robert S. (2010). [https://books.google.com/books?id=QSB1B3QnYvwC ''On Any Given Sunday: A Life of Bert Bell'']. Philadelphia: Temple University Press. {{ISBN|978-1-59213-731-2}}. {{oclc|607553558}}.
+
+==External links==
+{{Commons category|Philadelphia Eagles}}
+* {{Official website}}
+
+{{Philadelphia Eagles}}
+{{Navboxes|titlestyle = {{NFLPrimaryStyle|Philadelphia Eagles|border=2}}|list =
+{{NFL}}
+{{Pennsylvania Sports}}
+{{Philadelphia Sports}}
+{{Philadelphia}}
+}}
+{{Portal bar|American football|National Football League|Philadelphia|Pennsylvania}}
+
+[[Category:Philadelphia Eagles| ]]
+[[Category:National Football League teams]]
+[[Category:Culture of Philadelphia]]
+[[Category:Steagles]]
+[[Category:Sports in Philadelphia]]
+[[Category:Sports clubs established in 1933]]
+[[Category:1933 establishments in Pennsylvania]]

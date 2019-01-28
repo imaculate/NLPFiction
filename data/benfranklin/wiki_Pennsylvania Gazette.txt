@@ -1,0 +1,100 @@
+{{Infobox newspaper
+| name                 = Pennsylvania Gazette
+| school               = 
+| logo                 = 
+| logo_size            = 
+| logo_alt             = 
+| image                = Benjamin Franklin statue by Ernst Plassman (1872).jpg
+| image_size           = 
+| image_alt            = 
+| caption              = Statue of [[Benjamin Franklin]] holding a copy of ''The Pennsylvania Gazette''
+| motto                = 
+| type                 = 
+| format               = 
+| owner                = <!-- or |owners= -->
+| founder              = [[Samuel Keimer]]
+| publisher            = 
+| president            = 
+| editor               = 
+| chiefeditor          = 
+| depeditor            = 
+| assoceditor          = 
+| maneditor            = 
+| generalmanager       = 
+| newseditor           = 
+| managingeditordesign = 
+| dirinteractive       = 
+| campuseditor         = 
+| campuschief          = 
+| metroeditor          = 
+| metrochief           = 
+| opeditor             = 
+| sportseditor         = 
+| photoeditor          = 
+| staff                = 
+| foundation           = {{start date and age|1728}} (as The Universal Instructor in all Arts and Sciences: and Pennsylvania Gazette)
+| political            = 
+| language             = 
+| ceased publication   = {{end date|1800}}
+| relaunched           = 
+| headquarters         = [[Pennsylvania]], [[United States|U.S.]]
+| publishing_city      = 
+| publishing_country   = 
+| circulation          = 
+| circulation_date     = 
+| circulation_ref      = 
+| readership           = 
+| sister newspapers    = 
+| ISSN                 = 
+| oclc                 = 
+| RNI                  = 
+| website              = 
+| free                 = 
+}}
+{{Distinguish|text = ''The Pennsylvania Gazette'', the [[University of Pennsylvania]]’s alumni magazine}}
+{{Use mdy dates|date=March 2012}}
+{{italic title}}
+'''''The Pennsylvania Gazette''''' was one of the [[United States]]' most prominent newspapers from 1728, before the time period of the [[American Revolution]], until 1800.
+
+==History==
+[[Image:Pennsylvania Gazette (May 9, 1754), page 1.jpg|thumb|left|upright|''The Pennsylvania Gazette'' for May 9, 1754]]
+The newspaper was first published in 1728 by [[Samuel Keimer]] and was the second newspaper to be published in [[Pennsylvania]] under the name ''The Universal Instructor in all Arts and Sciences: and Pennsylvania Gazette'', alluding to Keimer's intention to print out a page of [[Ephraim Chambers]]' ''[[Cyclopaedia, or Universal Dictionary of Arts and Sciences]]'' in each copy.<ref name="loc">{{cite web|title=Pennsylvania Gazette, Philadelphia|url=https://www.loc.gov/rr/news/circulars/pagazette.txt|accessdate=December 7, 2006|date=2006|publisher=Library of Congress}}</ref> On October 2, 1729, [[Benjamin Franklin]] and [[Hugh Meredith]] bought the paper and shortened its name, as well as dropping Keimer's grandiose plan to print out the ''Cyclopaedia''.<ref name="loc" /> Franklin not only printed the paper but also often contributed pieces to the paper under [[pseudonym|aliases]]. His newspaper soon became the most successful in the colonies.
+
+On August 6, 1741 Franklin published an editorial about deceased [[Andrew Hamilton (lawyer)|Andrew Hamilton]], a lawyer and public figure in Philadelphia who had been a friend. The editorial praised the man highly and showed Franklin had held the man in high esteem.<ref>{{cite book|last=Konkle|first=Burton Alva|title=Benjamin Chew 1722–1810: Head of the Pennsylvania Judiciary System Under Colony and Commonwealth|year=1932|publisher=University of Pennsylvania Press|location=Philadelphia, PA|pages=17–29 (28–29)}}</ref>
+
+On October 19, [[1752]] <ref>Tom Tucker, ''Bolt Of Fate: Benjamin Franklin And His Fabulous Kite'' (PublicAffairs, 2009) p135</ref> , Franklin published a third-person account of his pioneering [[kite experiment]] in ''The Pennsylvania Gazette'', without mentioning that he himself had performed it.<ref>Steven Johnson (2008) ''The Invention of Air'', p. 39 {{ISBN|978-1-59448-401-8}}</ref>
+
+Primarily a publication for classified ads, merchants and individuals listed notices of employment, lost and found goods and items for sale; the newspaper also reprinted foreign news. Most entries involved stories of travel.<ref>[https://www.academia.edu/4563002/Travel_Writing_Travel_Reading_in_Benjamin_Franklins_1747_Pennsylvania_Gazette Zach Hutchins, "Travel Writing, Travel Reading, and the Boundaries of Genre: Embracing the Banal in Franklin's 1747 Pennsylvania Gazette," Studies in Travel Writing 17.3 (2013):300-19.]</ref> 
+
+[[File:Benjamin Franklin - Join or Die.jpg|thumb|''[[Join, or Die]]'' political cartoon attributed to Benjamin Franklin, advocating that the American colonies join the Albany Plan for Union (May 9, 1754)]]
+This newspaper, among other firsts, would print the first [[editorial cartoon|political cartoon]] in America, ''[[Join, or Die]]'', authored by Franklin himself.<ref>{{cite web|title=Today in History: January 17|url=http://memory.loc.gov/ammem/today/jan17.html|accessdate=December 8, 2006|year=2006|publisher=Library of Congress}}</ref> It ceased publication in 1800, ten years after Franklin's death.<ref name="accessible.com">[http://www.accessible.com/accessible/aboutPG.jsp]</ref>
+
+It is claimed that the publication later reemerged as the ''[[Saturday Evening Post]]'' in 1821.<ref>[http://saturdayeveningpost.com/About-The-Saturday-Evening-Post.html About the ''Saturday Evening Post''] {{webarchive|url=https://web.archive.org/web/20090222211321/http://saturdayeveningpost.com/About-The-Saturday-Evening-Post.html |date=February 22, 2009 }}</ref>
+
+There are three known copies of the original issue, which are held by the Historical Society of Pennsylvania, the Library Company of Philadelphia, and the Wisconsin State Historical Society.<ref name="loc" />
+
+{{Anchor| alumni magazine}}Today, ''The Pennsylvania Gazette'' moniker is used by an unrelated bi-monthly alumni magazine of the [[University of Pennsylvania]], which Franklin founded and served as a trustee.
+
+Archives are available online for a fee.<ref name="accessible.com"/>
+
+==See also==
+* ''[[Pennsylvania Chronicle (Colonial newspaper)|Pennsylvania Chronicle]]''
+* [[William Goddard (US patriot/publisher)#The Constitutional Post|The Constitutional Post]]
+* [[Benjamin Franklin]]
+* ''[[Join, or Die]]''
+* ''[[Liberty's Kids]]''
+* [[The Drinker's Dictionary]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* {{Commons category inline|The Pennsylvania Gazette}}
+
+{{Benjamin Franklin}}
+{{Authority control}}
+
+[[Category:Defunct newspapers of Philadelphia]]
+[[Category:Publications established in 1728]]
+[[Category:Publications disestablished in 1800]]
+[[Category:1728 establishments in Pennsylvania]]

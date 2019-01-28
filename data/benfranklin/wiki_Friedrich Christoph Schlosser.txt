@@ -1,0 +1,44 @@
+[[File:Friedrich Christoph Schlosser.jpg|thumb|Friedrich Christoph Schlosser.]]
+'''Friedrich Christoph Schlosser''' (17 November 1776 – 23 September 1861) was a [[Germany|German]] [[historian]].
+
+==Biography==
+[[File:Schlosser.JPG|thumb|The grave in Heidelberg]]
+He was born at [[Jever]] in the [[Friesland (district)|District of Friesland]].  He studied [[theology]], mainly at [[university of Göttingen|Göttingen]], and then tutored privately.  Turning to the study of history, he tended to construct his syntheses upon the scanty basis of 18th century generalizations; in spite of the growing scientific school he became and remained for a quarter of a century the most popular German [[historian]]. In 1807, inspired by his study of [[Dante Alighieri|Dante]], he published his first work ''Abélard und Dulcin'', a defence of [[scholasticism]] and [[medieval]] thought. Two years later biographical studies of [[Theodore Beza]] and [[Peter Martyr Vermili]] (''Leben des Theodor de Bela und des Peter Martyr Vermili'', Heidelberg, 1809) revealed more genuine scholarship. In 1812 appeared his ''History of the Iconoclastic Emperors of the East'' (''Geschichte der bilderstürmenden Kaiser des oströmischen Reichs''), in which he contradicted some points in [[Edward Gibbon]]'s work and sought to avoid painting the past in present-day colours. His own strong predispositions prevented him from accomplishing this, however, and the history remains open to grave scientific criticism. It won him the favour of Archbishop [[Karl Theodor Dalberg]] and secured him a professorship in the [[Frankfurt]] Lyceum. He left Frankfurt in 1819 to become professor of history at [[university of Heidelberg|Heidelberg]] where he resided until his death.
+
+==Work==
+In 1815 appeared the first volume of his ''World History'' (''Weltgeschichte in zusammenhängender Erzählung''). This work, though never completed, extended through many volumes, bespeaking an inexhaustible energy and a vast erudition. But it lacks both accuracy of fact and charm of style, and is today deservedly quite forgotten. On the other hand, a translation of the pedagogical handbook of [[Vincent of Beauvais]] and the accompanying monograph are still of value.
+
+The next noteworthy work was a history of antiquity and its culture (''Universalhistorische Übersicht der Geschichte der alten Welt und ihrer Kultur'', 1st part, 1826; 2nd part, 1834), which, while revealing little knowledge of the new criticism of sources inaugurated by [[Friedrich August Wolf|F.A. Wolf]] and [[Barthold Georg Niebuhr|B.G. Niebuhr]], won its way by its unique handling of the subject and its grand style. In 1823 he published in two volumes a ''Geschichte des 18ten Jahrhunderts''.  This work, enlarged and improved, appeared in six volumes as ''Geschichte des 18ten Jahrhunderts und des 19ten bis zum Sturz des französischen Kaiserreichs'' (1836-1848). The history had a most extraordinary success, especially among the common people, owing, not to its scientific qualities, but to the fact that the author boldly and sternly sat in judgment upon men and events, and in his judgments voiced the feelings of the German nation in his day. For this very reason it is no longer read. It has been translated into English by D. Davison (8 vols, 1843-1852). Finally, Schlosser undertook a popular ''World History for the German People'' (''Weltgeschichte für das deutsche Volk'', 1844-1857), which also enjoyed the favour of those for whom it was written.
+
+===Works in English translation===
+* [https://archive.org/stream/historyeighteen06schlgoog#page/n6/mode/2up ''History of the Eighteenth Century and of the Nineteenth Century Till the Overthrow of the French Empire,''] [https://archive.org/stream/historyeighteen00schlgoog#page/n4/mode/2up Vol. 2,] [https://archive.org/stream/historyeighteen00unkngoog#page/n4/mode/2up Vol. 3,] [https://archive.org/stream/historyeighteen04schlgoog#page/n4/mode/2up Vol. 4,] [https://archive.org/stream/historyeighteen09schlgoog#page/n4/mode/2up Vol. 5,] [https://archive.org/stream/historyofeightee06schl#page/n3/mode/2up Vol. 6,] [https://archive.org/stream/historyofeightee07schl#page/n3/mode/2up Vol. 7,] [https://archive.org/stream/historyofeightee08schluoft#page/n5/mode/2up Vol. 8], Chapman and Hall. London, 1843-1852.
+
+==Evaluation==
+Schlosser stands apart from the movement towards scientific history in Germany in the 19th century. Refusing to limit himself to political history, as did [[Leopold von Ranke]], he never learned to handle his literary sources with the care of the scientific historian.  History was to him, as it had been to [[Cicero]], a school for morals; but he had perhaps a juster conception than Ranke of the breadth and scope of the historian's field.
+
+==Notes==
+{{No footnotes|date=July 2013}}
+{{reflist}}
+
+==References==
+* {{EB1911|wstitle=Schlosser, Friedrich Christoph}} This publication in turn cites:
+** [[Georg Gottfried Gervinus|G. G. Gervinus]] (Schlosser's pupil), ''F. C. Schlosser, ein Nekrolog'' (1861)
+**[[Georg Weber (historian)|Georg Weber]], ''F. C. Schlosser, der Historiker, Erinnerungsblätter'' (Leipzig, 1876)
+**[[Ottokar Lorenz]], ''F. C. Schlosser'' (Vienna, 1878)
+M. Martirano, Religion, Kulturgeschichte und moralisches Urteil in der Geschichtsauffassung Friedrich Christoph Schlossers, in «Geschichte und Gegenwart», 16 (1997) 4, pp.&nbsp;211–229.
+
+==External links==
+* {{Cite Americana|wstitle=Schlosser, Friedrich Christoph|year=1920 |short=x}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schlosser, Friedrich}}
+[[Category:1776 births]]
+[[Category:1861 deaths]]
+[[Category:People from Jever]]
+[[Category:German historians]]
+[[Category:University of Göttingen alumni]]
+[[Category:Heidelberg University faculty]]
+[[Category:Members of the Bavarian Maximilian Order for Science and Art]]
+[[Category:Recipients of the Pour le Mérite (civil class)]]
+[[Category:German male non-fiction writers]]

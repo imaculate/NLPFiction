@@ -1,0 +1,149 @@
+{{short description|Tool for representing pros and cons}}
+A '''decisional balance sheet''' or '''decision balance sheet''' is a [[Table (information)|tabular]] method for representing the pros and cons of different choices and for helping someone decide what to do in a certain circumstance. It is often used in working with [[ambivalence]] in people who are engaged in behaviours that are harmful to their health (for example, problematic [[substance abuse|substance use]] or [[Overeating|excessive eating]]),<ref>{{harvnb|DiClemente|2003|pp=74–77, 141–146}}; {{harvnb|Freimuth|2008|pp=226–231}}; {{harvnb|Walters|Rotgers|2012|pp=14–15}}</ref> as part of psychological approaches such as those based on the [[transtheoretical model]] of change,<ref name="Prochaska1994">{{harvnb|Prochaska|Velicer|Rossi|Goldstein|1994}}; {{harvnb|DiClemente|2003}}; {{harvnb|Norcross|Loberg|Norcross|2012}}</ref> and in certain circumstances in [[motivational interviewing]].<ref>{{harvnb|Miller|Rollnick|2013|pp=231–254}}; see also the section titled "MI is not a decisional balance" in {{harvnb|Miller|Rollnick|2009|pp=132–133}}</ref>
+
+==Use and history==
+The decisional balance sheet records the advantages and disadvantages of different options. It can be used both for individual and organisational decisions. The balance sheet recognises that both gains and losses can be consequences of a single decision. It might, for example, be introduced in a session with someone who is experiencing problems with their alcohol consumption with a question such as: "Could you tell me what you get out of your drinking and what you perhaps find less good about it?" Therapists are generally advised to use this sort of phrasing rather than a blunter injunction to think about the negative aspects of problematic behaviour, as the latter could increase [[psychological resistance]].<ref>{{harvnb|Roes|2002|p=83}}</ref>
+
+An early use of a decisional balance sheet was by [[Benjamin Franklin#Decision-making|Benjamin Franklin]]. In a 1772 letter to [[Joseph Priestley]], Franklin described his own use of the method,<ref>{{harvnb|Franklin|1975}}</ref> which is now often called the ''Ben Franklin method''.<ref>For examples of modern usage of the phrase "Ben Franklin method", see: {{harvnb|Suhr|1999|p=209}}; {{harvnb|Ullman|2006|pp=42–43}}</ref> It involves making a list of pros and cons, estimating the importance of each one, eliminating items from the pros and cons lists of roughly equal importance (or groups of items that can cancel each other out) until one column (pro or con) is dominant. Experts on [[decision support system]]s for practical reasoning have warned that the Ben Franklin method is only appropriate for very informal decision making: "A weakness in applying this rough-and-ready approach is a poverty of imagination and lack of background knowledge required to generate a full enough range and detail of competing considerations."<ref>{{harvnb|Girle|Hitchcock|McBurney|Verheij|2004}}</ref> Social psychologist [[Timothy D. Wilson]] has warned that the Ben Franklin method can be used in ways that fool people into falsely believing [[Rationalization (psychology)|rationalisation]]s that do not accurately reflect their true [[motivation]]s or predict their future behaviour.<ref>{{harvnb|Wilson|2002|pp=166–175}}</ref>
+
+In papers from 1959 onwards, [[Irving Janis]] and Leon Mann coined the phrase ''decisional balance sheet'' and used the concept as a way of looking at [[decision-making]].<ref>{{harvnb|Janis|1959}}; {{harvnb|Janis|Mann|1977|pp=135ff}}; Janis said that his balance sheet made "a considerable extension of psychological inquiry beyond the conventional discussions of decision-making" due to its novel inclusion of social, [[preconscious]], and [[Unconscious mind|unconscious]] motives: {{harvnb|Janis|1959|p=19}}</ref> [[James O. Prochaska]] and colleagues then incorporated Janis and Mann's concept into the [[transtheoretical model]] of change,<ref name="Velicer1985">{{harvnb|Velicer|DiClemente|Prochaska|Brandenburg|1985}}</ref> an [[Integrative psychotherapy|integrative theory of therapy]] that is widely used for facilitating [[Behavior change (public health)|behaviour change]].<ref name="Prochaska1994"/> Research studies on the transtheoretical model suggest that, in general, for people to succeed at behaviour change, the pros of change should outweigh the cons before they move from the contemplation stage to the action stage of change.<ref>{{harvnb|DiClemente|2003|pp=36–37}}; {{harvnb|Norcross|Loberg|Norcross|2012|p=77}}</ref> Thus, the balance sheet is both an informal measure of readiness for change and an aid for decision-making.<ref>[[Les Greenberg]] noted that Janis and Mann's description of [[Ambivalence#Goal conflicts|decisional conflict]] is similar to the idea of ''conflict splits'' in [[Gestalt therapy]], and experiential techniques such as the ''two-chair dialogue'' technique are another way of resolving such conflict: {{harvnb|Greenberg|Webster|1982|pp=468–469}}</ref>
+
+One research paper reported that combining the decisional balance sheet technique with the [[implementation intention]]s technique was "more effective in increasing exercise behaviour than a [[Scientific control|control]] or either strategy alone."<ref>{{harvnb|Prestwich|Lawton|Conner|2003}}</ref> Another research paper said that a decisional balance intervention may strengthen a person's commitment to change when that person has already made a commitment to change, but could decrease commitment to change if that person is ambivalent; the authors suggested that ''evocation of change talk'' (a technique from motivational interviewing) is more appropriate than a decisional balance sheet when a clinician intends to help ambivalent clients resolve their ambivalence in the direction of change.<ref>{{harvnb|Miller|Rose|2015}}</ref> [[William R. Miller (psychologist)|William R. Miller]] and [[Stephen Rollnick]]'s textbook on motivational interviewing discusses decisional balance in a chapter titled "Counseling with Neutrality", and describes "decisional balance as a way of proceeding when you wish to counsel with neutrality rather than move toward a particular change goal".<ref>{{harvnb|Miller|Rollnick|2013|p=36}}</ref>
+
+==Variations==
+There are several variations of the decisional balance sheet.<ref>Some early variations, in addition to those discussed here, can be found in: {{harvnb|Horan|1979}}</ref> In Janis and Mann's original description there are eight or more cells depending on how many choices there are.<ref>An example of an 8-cell balance sheet using Janis and Mann's original categories can be seen at {{cite web |title=Sample career decision balance sheet |url=http://www.careerkey.org/asp/your_decision/decisions_balance_sheet.html |website=careerkey.org |accessdate=12 July 2015}}</ref> For each new choice there are pairs of cells (one for advantages, one for disadvantages) for these four different aspects:<ref>{{harvnb|Velicer|DiClemente|Prochaska|Brandenburg|1985|pp=1279–1280}}</ref>
+<ol type="a">
+<li>anticipated utilitarian effects for self</li>
+<li>anticipated utilitarian effects for significant others</li>
+<li>anticipated effect on how one is regarded by significant others</li>
+<li>anticipated effects on how one views oneself</li>
+</ol>
+
+[[John C. Norcross]] is among the psychologists who have simplified the balance sheet to four cells: the pros and cons of changing, for self and for others.<ref>{{harvnb|Norcross|Loberg|Norcross|2012|p=76}}</ref> Similarly, a number of psychologists have simplified the balance sheet to a four-cell format consisting of the pros and cons of the current behaviour and of a changed behaviour.<ref>For example: {{harvnb|Tschudi|1977}}; {{harvnb|Feimuth|2008}}</ref> Some authors separate out short- and long-term benefits and risks of a behaviour.<ref>For example: {{harvnb|Dixon|Glover|1984|pp=178–180}}; {{harvnb|Roes|2002|p=84}}</ref> The example below allows for three options: carrying on as before, reducing a harmful behaviour to a level where it might be less harmful, or stopping it altogether; it therefore has six cells consisting of a pro and con pair for each of the three options.
+ 
+{| class="wikitable"
+|+ Example of decisional balance sheet for someone experiencing alcohol problems
+|-
+! 
+! Plusses
+! Minuses
+|-
+| '''Continue drinking as I am'''
+| It's what my friends do<br />It makes me less anxious<br />It's fun being drunk<br />I like the taste
+| I get into fights<br />Health problems<br />Divorce threat<br />Debts<br />I can't remember things the next day
+|-
+| '''Cut down'''
+| I can still meet my friends<br />It will help my health
+| Will my partner believe me?<br />Can I stick to it?
+|-
+| '''Stop drinking'''
+| I won't get into fights any more<br />It will please my partner<br />It will save money<br />Good for my health
+| I might have to avoid my friends<br />How will I cope with anxiety?<br />What will I do for fun? 
+|-
+|}
+
+Any evaluation is subject to change and often the cells are inter-connected. For example, looking at the table above, if something were to happen in the individual's marital life (an argument or the partner leaves or becomes pregnant or has an accident), the event can either increase or decrease how much weight the person gives to the elements in the balance sheet that refer to the relationship.
+
+Another refinement of the balance sheet is to use a scoring system to give numerical weights to different elements of the balance sheet; in such cases, the balance sheet becomes what is often called a [[decision matrix]].<ref>For example, such a weighted version is used to help readers choose between colleges in: {{harvnb|Lock|2005|pp=317ff}}</ref>
+
+Similarly, Fabio Losa and [[Valerie Belton]] combined [[drama theory]] and [[multiple-criteria decision analysis]], two decision-making techniques from the field of [[operations research]], and applied them to an example of interpersonal conflict over substance abuse, which they described as follows:
+
+<blockquote>A couple, Jo and Chris, have lived together for a number of years. However, Chris cannot stand any longer that Jo is always drunk and threatens to leave. The ''scene setting'' establishes the initial frame, the situation seen by a particular actor (Chris) at a specific point. The actors are Jo and Chris and each has a single yes/no policy option—for Chris this is to stay or leave and for Jo it is to stop drinking or not. These options define four possible scenarios or futures...<ref>{{harvnb|Losa|Belton|2006|pp=511}}</ref></blockquote>
+
+[[Dialectical behavior therapy]] includes a form of decisional balance sheet called a ''pros and cons grid''.<ref>{{harvnb|Linehan|2015|pp=132, 427–430}}</ref>
+
+==ABC model<!--This section is linked from multiple articles: do not rename without including an anchor to previous name ([[MOS:HEAD]])-->==
+Psychology professor [[:no:Finn Tschudi|Finn Tschudi]]'s ABC model of [[psychotherapy]] uses a structure similar to a decisional balance sheet: A is a row that defines the problem; B is a row that lists [[Schema (psychology)|schema]]s ([[tacit assumption]]s) about the advantages and disadvantages of resolving the problem; and C is a row that lists schemas about the advantages and disadvantages of maintaining the problem.<ref name="ABC">{{harvnb|Tschudi|1977}}; {{harvnb|Tschudi|Winter|2011}}</ref> Tschudi was partly inspired by [[Harold Greenwald]]'s book ''Decision Therapy'',<ref>{{harvnb|Greenwald|1973}}; {{harvnb|Tschudi|1977|p=323}}</ref> which posited that much of psychotherapy involves helping people make decisions.<ref>The other major influence on the ABC model was [[personal construct theory]]: {{harvnb|Tschudi|1977|p=323}}</ref> In the ABC model, people are said to be blocked or stuck in resolving a problem when their C schemas define strong advantages to maintaining the problem and/or strong disadvantages to resolving the problem, and often their C schemas are at a low level of awareness.<ref>{{harvnb|Tschudi|Winter|2011|p=93}}</ref> In such cases, resolving the problem usually requires raising awareness and restructuring the C schemas, although several other general strategies for resolving the problem are available as alternatives or adjuncts.<ref>{{harvnb|Tschudi|1977|pp=331–333}}</ref>
+
+In an approach to psychotherapy called [[coherence therapy]], A is called the ''[[symptom]]'', B is called the ''anti-symptom position'' and C is called the ''pro-symptom position'',<ref>{{harvnb|Tschudi|Winter|2011|p=91}}</ref> although coherence therapy also differentiates between "functional" symptoms that are directly caused by C and "functionless" symptoms that are not directly caused by C.<ref>{{harvnb|Ecker|Ticic|Hulley|2012|p=48}}</ref> In terms of [[behaviour modification]], the problematic half of A describes one or more costly [[operant]]s, and C describes the [[reinforcement]] that the operant provides.<ref>{{harvnb|Tschudi|1977|pp=336–337}}</ref>
+
+The following table summarizes the structure of the ABC model.<ref name="ABC"/>
+
+{| class="wikitable"
+|+ The ABC model
+|-
+| '''A = problem'''
+| a{{sub|1}} = problem position (PP)
+| a{{sub|2}} = desired position (DP)
+|-
+| '''B = elaboration of A'''
+| b{{sub|1}} = disadvantages of PP
+| b{{sub|2}} = advantages of DP
+|-
+| '''C = defines dilemma'''
+| c{{sub|2}} = advantages of PP
+| c{{sub|1}} = disadvantages of DP
+|-
+|}
+
+==Four square tool==
+In an approach to psychotherapy called focused [[acceptance and commitment therapy]] (FACT) the four square tool is a tabular method similar in appearance to a decisional balance sheet.<ref name="Strosahl">{{harvnb|Strosahl|Gustavsson|Robinson|2012|pp=265–272}}</ref> The four square tool shows four sets of behaviors: positive behaviors (called "workable" behaviors) and negative behaviors (called "unworkable" behaviors) that a person does publicly and privately. In the four square tool, the advantages and disadvantages of the behaviors are implied, rather than listed in separate cells as in a decisional balance sheet. The following table is a blank four square tool.<ref name="Strosahl"/>
+
+{| class="wikitable"
+|+ The four square tool from [[Acceptance and commitment therapy|FACT]]
+|-
+!
+! Not working<br/>(do less)
+! More workable<br/>(do more)
+|-
+! Public<br/>behavior
+| 
+| 
+|-
+! Private<br/>behavior
+| 
+| 
+|-
+|}
+
+==See also==
+{{Div col|colwidth=22em}}
+* [[Decision cycle]]
+* [[Decision tree]]
+* [[Formula for change]]
+* [[Immunity to change]]
+* [[Motivational salience]]
+* [[Psychological dependence]]
+* [[Reflective equilibrium]]
+* [[Unintended consequences]]
+{{Div col end}}
+
+==Notes==
+{{Reflist|colwidth=22em}}
+
+==References==
+{{Refbegin|colwidth=30em}}
+* {{cite book |last=DiClemente |first=Carlo C. |date=2003 |title=Addiction and change: how addictions develop and addicted people recover |location=New York |publisher=[[Guilford Press]] |isbn=1572300574 |oclc=50684146 |url=https://books.google.com/books?id=RT8KpET32qIC |ref=harv}}
+* {{cite book |last1=Dixon |first1=David N. |last2=Glover |first2=John A. |date=1984 |title=Counseling: a problem-solving approach |location=New York |publisher=[[John Wiley & Sons]] |isbn=047188877X |oclc=10046418 |ref=harv}}
+* {{cite book |last1=Ecker |first1=Bruce |last2=Ticic |first2=Robin |last3=Hulley |first3=Laurel |date=2012 |title=Unlocking the emotional brain: eliminating symptoms at their roots using memory reconsolidation |location=New York |publisher=[[Routledge]] |isbn=9780415897167 |oclc=772112300 |url=https://books.google.com/books?id=FIOQBAAAQBAJ |ref=harv}}
+* {{cite book |last=Franklin |first=Benjamin |authorlink=Benjamin Franklin |date=1975 |origyear=1772 |chapter=To Joseph Priestley |editor-last=Willcox |editor-first=William Bradford |title=The papers of Benjamin Franklin: January 1 through December 31, 1772 |volume=19 |location=New Haven |publisher=[[Yale University Press]] |pages=299–300 |isbn=0300018657 |oclc=310601 |chapterurl=http://franklinpapers.org/yale?vol=19&page=299a |ref=harv}}
+* {{cite book |last=Freimuth |first=Marilyn |date=2008 |chapter=Unmasking addiction and preparing for change |title=Addicted?: recognizing destructive behavior before it's too late |location=Lanham, MD |publisher=[[Rowman & Littlefield]] |pages=211–239 |isbn=9780742560253 |oclc=183258453 |ref=harv}}
+* {{cite book |last1=Girle |first1=Rod |last2=Hitchcock |first2=David |last3=McBurney |first3=Peter |last4=Verheij |first4=Bart |date=2004 |chapter=Decision support for practical reasoning |editor1-last=Reed |editor1-first=Chris |editor2-last=Norman |editor2-first=Timothy J. |title=Argumentation machines: new frontiers in argument and computation |series=Argumentation library |volume=9 |location=Boston |publisher=[[Kluwer Academic Publishers]] |pages=55–83 |isbn=1402018118 |oclc=53814623 |doi=10.1007/978-94-017-0431-1_3 |ref=harv}}
+* {{cite journal |last1=Greenberg |first1=Leslie S. |authorlink1=Les Greenberg |last2=Webster |first2=Michael C. |date=September 1982 |title=Resolving decisional conflict by Gestalt two-chair dialogue: relating process to outcome |journal=[[Journal of Counseling Psychology]] |volume=29 |issue=5 |pages=468–477 |doi=10.1037/0022-0167.29.5.468 |url=http://www.safranlab.net/uploads/7/6/4/6/7646935/greenberg_1982.pdf |ref=harv}}
+* {{cite book |last=Greenwald |first=Harold |authorlink=Harold Greenwald |date=1973 |title=Decision therapy |location=New York |publisher=P.H. Wyden |oclc=707490 |ref=harv}}
+* {{cite book |last=Horan |first=John J. |date=1979 |title=Counseling for effective decision making: a cognitive-behavioral perspective |location=North Scituate, MA |publisher=Duxbury Press |isbn=0878721959 |oclc=4114485 |url=http://horan.asu.edu/cfedm/ |ref=harv}}
+* {{cite journal |last=Janis |first=Irving L. |authorlink1=Irving Janis |date=March 1959 |title=Decisional conflicts: a theoretical analysis |journal=[[Journal of Conflict Resolution]] |volume=3 |issue=1 |pages=6–27 |doi=10.1177/002200275900300102 |ref=harv}}
+* {{cite book |last1=Janis |first1=Irving L. |authorlink1=Irving Janis |last2=Mann |first2=Leon |date=1977 |title=Decision making: a psychological analysis of conflict, choice, and commitment |location=New York |publisher=[[Free Press (publisher)|Free Press]] |isbn=0029161606 |oclc=2542340 |ref=harv}}
+* {{cite book |last=Linehan |first=Marsha M. |authorlink=Marsha M. Linehan |date=2015 |origyear=1993 |title=DBT skills training manual |edition=2nd |location=New York |publisher=[[Guilford Press]] |isbn=9781462516995 |oclc=883366057 |ref=harv}}
+* {{cite book |last=Lock |first=Robert D. |date=2005 |origyear=1992 |title=Taking charge of your career direction |edition=5th |series=Career planning guide |volume=1 |location=Belmont, CA |publisher=Thomson Brooks/Cole |isbn=0534574262 |oclc=56967151 |url=https://books.google.com/books?id=lU3YWgNCOsQC |ref=harv}}
+* {{cite journal |last1=Losa |first1=Fabio Beniamino |last2=Belton |first2=Valerie |authorlink2=Valerie Belton |date=May 2006 |title=Combining MCDA and conflict analysis: an exploratory application of an integrated approach |journal=[[Journal of the Operational Research Society]] |volume=57 |issue=5 |pages=510–525 |doi=10.1057/palgrave.jors.2602034 |jstor=4102448 |ref=harv}}
+* {{cite journal |last1=Miller |first1=William R. |authorlink1=William R. Miller (psychologist) |last2=Rollnick |first2=Stephen |authorlink2=Stephen Rollnick |date=March 2009 |title=Ten things that motivational interviewing is not |journal=Behavioural and Cognitive Psychotherapy |volume=37 |issue=2 |pages=129–140 |doi=10.1017/S1352465809005128 |pmid=19364414 |ref=harv}}
+* {{cite book |last1=Miller |first1=William R. |authorlink1=William R. Miller (psychologist) |last2=Rollnick |first2=Stephen |authorlink2=Stephen Rollnick |date=2013 |origyear=1991 |title=Motivational interviewing: helping people change |edition=3rd |series=Applications of motivational interviewing |location=New York |publisher=[[Guilford Press]] |isbn=9781609182274 |oclc=788281018 |url=https://books.google.com/books?id=o1-ZpM7QqVQC |ref=harv}}
+* {{cite journal |last1=Miller |first1=William R. |authorlink1=William R. Miller (psychologist) |last2=Rose |first2=Gary S. |date=March 2015 |title=Motivational interviewing and decisional balance: contrasting responses to client ambivalence |journal=Behavioural and Cognitive Psychotherapy |volume=43 |issue=2 |pages=129–141 |doi=10.1017/S1352465813000878 |pmid=24229732 |ref=harv}}
+* {{cite book |last1=Norcross |first1=John C. |authorlink1=John C. Norcross |last2=Loberg |first2=Kristin |last3=Norcross |first3=Jonathon |date=2012 |title=Changeology: 5 steps to realizing your goals and resolutions |location=New York |publisher=[[Simon & Schuster]] |isbn=9781451657616 |oclc=779265892 |url=https://books.google.com/books?id=88_YucyDh-EC |ref=harv}}
+* {{cite journal |last1=Prestwich |first1=Andrew |last2=Lawton |first2=Rebecca |last3=Conner |first3=Mark |date=December 2003 |title=The use of implementation intentions and the decision balance sheet in promoting exercise behaviour |journal=Psychology & Health |volume=18 |issue=6 |pages=707–721 |doi=10.1080/08870440310001594493 |url=http://eprints.whiterose.ac.uk/10346/2/imps_and_dbs_preprint.pdf |ref=harv}}
+* {{cite journal |last1=Prochaska |first1=James O. |authorlink1=James O. Prochaska |last2=Velicer |first2=Wayne F. |last3=Rossi |first3=Joseph S. |last4=Goldstein |first4=Michael G. |last5=Marcus |first5=Bess H. |last6=Rakowski |first6=William |last7=Fiore |first7=Christine |last8=Harlow |first8=Lisa L. |last9=Redding |first9=Colleen A. |last10=Rosenbloom |first10=Dena |date=January 1994 |title=Stages of change and decisional balance for 12 problem behaviors |journal=[[Health Psychology (journal)|Health Psychology]] |volume=13 |issue=1 |pages=39–46 |doi=10.1037/0278-6133.13.1.39 |pmid=8168470 |url=https://www.researchgate.net/profile/Wayne_Velicer/publication/15029731_Stages_of_change_and_decisional_balance_for_12_problem_behaviors/links/0c96051d3048ab2272000000.pdf |ref=harv}}
+* {{cite book |last=Roes |first=Nicholas A. |date=2002 |title=Solutions for the "treatment-resistant" addicted client: therapeutic techniques for engaging difficult clients |location=New York |publisher=[[Haworth Press]] |isbn=0789011212 |oclc=45715882 |ref=harv}}
+* {{cite book |last1=Strosahl |first1=Kirk |last2=Gustavsson |first2=Thomas |last3=Robinson |first3=Patricia A. |date=2012 |title=Brief interventions for radical change: principles and practice of focused acceptance and commitment therapy |location=Oakland, CA |publisher=[[New Harbinger Publications]] |isbn=9781608823451 |oclc=774496029 |ref=harv}}
+* {{cite book |last=Suhr |first=Jim |date=1999 |title=The choosing by advantages decisionmaking system |location=Westport, CT |publisher=Quorum |isbn=1567202179 |oclc=38862607 |url=https://books.google.com/books?id=TulbgUyU2GsC |ref=harv}}
+* {{cite book |last=Tschudi |first=Finn |date=1977 |chapter=Loaded and honest questions: a construct theory view of symptoms and therapy |editor-last=Bannister |editor-first=Donald |title=New perspectives in personal construct theory |location=London; New York |publisher=[[Academic Press]] |pages=321–350 |isbn=0120779404 |oclc=10274182 |chapterurl=http://folk.uio.no/ftschudi/1977_LoadedQ.pdf |ref=harv}}
+* {{cite book |last1=Tschudi |first1=Finn |last2=Winter |first2=David A. |date=2011 |chapter=The ABC model revisited |editor1-last=Caputi |editor1-first=Peter |editor2-last=Viney |editor2-first=Linda L. |editor3-last=Walker |editor3-first=Beverly M. |editor4-last=Crittenden |editor4-first=Nadia  |title=Personal construct methodology |location=Malden, MA |publisher=[[John Wiley & Sons]] |pages=89–108 |isbn=9780470770870 |oclc=730906380 |doi=10.1002/9781119953616.ch4 |chapterurl=http://folk.uio.no/ftschudi/2012_ABC-model.pdf |ref=harv}}
+* {{cite book |last=Ullman |first=David G. |date=2006 |title=Making robust decisions: decision management for technical, business, and service teams |location=Victoria, BC |publisher=Trafford |isbn=9781425109561 |oclc=81600845 |ref=harv}}
+* {{cite journal |last1=Velicer |first1=Wayne F. |last2=DiClemente |first2=Carlo C. |last3=Prochaska |first3=James O. |authorlink3=James O. Prochaska |last4=Brandenburg |first4=Nancy |date=May 1985 |title=Decisional balance measure for assessing and predicting smoking status |journal=[[Journal of Personality and Social Psychology]] |volume=48 |issue=5 |pages=1279–1289 |doi=10.1037/0022-3514.48.5.1279 |pmid=3998990 |url=https://www.researchgate.net/profile/Wayne_Velicer/publication/19162933_Decisional_balance_measure_for_assessing_and_predicting_smoking_status/links/0912f50b6855acf7ce000000.pdf |ref=harv}}
+* {{cite book |editor1-last=Walters |editor1-first=Scott T. |editor2-last=Rotgers |editor2-first=Frederick |date=2012 |origyear=1996 |title=Treating substance abuse: theory and technique |edition=3rd |location=New York |publisher=[[Guilford Press]] |isbn=9781462502578 |oclc=730404390 |ref=harv}}
+* {{cite book |last=Wilson |first=Timothy D. |date=2002 |chapter=Introspection and self-narratives |title=Strangers to ourselves: discovering the adaptive unconscious |location=Cambridge, MA |publisher=Belknap Press of [[Harvard University Press]] |pages=159–182 |isbn=0674009363 |oclc=49355958 |chapterurl=https://books.google.com/books?id=XPb37addxE0C&pg=PA159 |ref=harv}}
+{{Refend}}
+
+[[Category:Decision analysis]]
+[[Category:Motivation]]
+[[Category:Psychotherapy]]

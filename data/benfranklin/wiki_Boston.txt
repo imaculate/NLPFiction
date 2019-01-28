@@ -1,0 +1,1384 @@
+{{About|the city in the U.S. state of Massachusetts|the town in England|Boston, Lincolnshire|other uses}}
+{{short description|Capital city of Massachusetts, United States}}
+{{Use American English|date=September 2013}}
+{{Use mdy dates|date=July 2018}}
+{{Infobox settlement
+| name                            = Boston, Massachusetts
+| official_name                   = City of Boston
+| settlement_type                 = [[City]]
+| etymology                       = 
+| image_skyline                   = {{Photomontage
+| photo1a                   = Boston - panoramio (23).jpg{{!}}[[Financial District, Boston|Boston Financial District]] 
+| photo2a                   = Fenway from Legend's Box.jpg{{!}}[[Fenway Park]]
+| photo2b                   = Massachusetts State House - panoramio (1).jpg{{!}}[[Massachusetts State House]]
+| photo3a                   = Boston skyline from Longfellow Bridge September 2017 panorama 2.jpg{{!}}[[Back Bay]] and the [[Charles River]]
+| spacing                   = 2
+| position                  = center
+| color_border              = black
+| color                     = white
+| size                      = 300
+| foot_montage              = Clockwise from top: [[Downtown Boston|Downtown]]; [[Massachusetts State House]]; [[Back Bay]] and the [[Charles River]]; [[Fenway Park]]
+}}
+| imagesize = 300px
+| image_flag = Flag of Boston.svg
+| image_seal = Seal of Boston, Massachusetts.svg
+| nickname = ''See [[Boston nicknames]]''
+| motto = {{nowrap|''Sicut patribus sit Deus nobis'' {{smaller|([[Latin]])}}<br />{{smaller|"As God was with our fathers, so may He be with us"}}}}
+| image_map = {{maplink|frame=yes|plain=yes|zoom=9|id=Q100|type=shape|stroke-width=2|stroke-color=#000000}}
+| map_caption = Interactive map outlining Boston
+| pushpin_map = Massachusetts#USA#North America
+| pushpin_map_caption = Location within Massachusetts##Location within the United States##Location within North America
+| pushpin_relief = 1
+| pushpin_label = Boston
+| coordinates = {{coord|42|21|29|N|71|03|49|W|region:US-MA|display=inline,title}}
+| subdivision_type = [[List of sovereign states|Country]]
+| subdivision_name = {{nowrap|{{US}}}}
+| subdivision_type1 = [[U.S. state|State]]
+| subdivision_type2 = [[List of counties in Massachusetts|County]]
+| subdivision_type3 = [[List of regions of the United States|Region]]
+| subdivision_type4 = Historic countries
+| subdivision_type5 = [[Colony|Historic colonies]]
+| subdivision_name1 = {{flag|Massachusetts}}
+| subdivision_name2 = [[File:Seal of Suffolk County, Massachusetts.png|25px]] [[Suffolk County, Massachusetts|Suffolk]]
+| subdivision_name3 = {{flag|New England}}
+| subdivision_name4 = {{flagcountry|Kingdom of England}}<br />{{flagcountry|Kingdom of Great Britain}}
+| subdivision_name5 = [[Massachusetts Bay Colony]] in the [[Province of Massachusetts Bay]]
+| established_title = Settled (town)
+| established_date = {{longitem|September 7, 1630<br />{{smaller|(date of naming, [[Old Style and New Style dates|Old Style]])}}{{efn|On the [[Old Style and New Style dates|New Style]] (modern) calendar, anniversaries fall on September 17.}}}}
+| established_title2 = Incorporated&nbsp;(city)
+| established_date2 = March 4, 1822
+| named_for = [[Boston, Lincolnshire]]
+| government_type = [[Mayor–council government|Strong mayor / Council]]
+| leader_title = [[List of mayors of Boston|Mayor]]
+| leader_name = [[Marty Walsh (politician)|Marty Walsh]]&nbsp;([[Democratic Party (United States)|D]])
+| leader_title1 = [[City council|Council]]
+| leader_name1 = [[Boston City Council]]
+| unit_pref = Imperial
+| area_footnotes =
+| area_magnitude = 1 E+8
+| area_total_km2 = 232.14
+| area_total_sq_mi = 89.63 
+| area_land_km2 = 125.41
+| area_land_sq_mi = 48.42  
+| area_water_km2 = 106.73
+| area_water_sq_mi = 41.21 
+| area_urban_km2 = 4600
+| area_urban_sq_mi = 1770  
+| area_metro_km2 = 11700
+| area_metro_sq_mi = 4500  
+| area_blank1_title = [[Combined statistical area|CSA]]
+| area_blank1_km2 = 27600
+| area_blank1_sq_mi = 10600
+| elevation_ft = 141
+| population_total = 617594
+| population_rank = [[List of United States cities by population|21st, U.S.]] {{As of|2017|lc=y}} incorporated places estimate	
+| population_as_of = 2010
+<!-- Given separately to each figure because of differences -->
+| population_footnotes = <ref name="2010census">{{cite web |url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST16&prodType=table |title=Population and Housing Occupancy Status: 2010 – State – County Subdivision, 2010 Census Redistricting Data (Public Law 94-171) Summary File|publisher=[[United States Census Bureau]]|accessdate=March 23, 2011}}</ref><ref name="quickfacts"/><ref name="Urban population">{{cite web|url=https://www.census.gov/geo/www/ua/ua2k.txt |archive-url=https://web.archive.org/web/20020613030345/http://www.census.gov/geo/www/ua/ua2k.txt |dead-url=yes |archive-date=June 13, 2002 |title=Alphabetically sorted list of Census 2000 Urbanized Areas |accessdate=April 11, 2009 |publisher=United States Census Bureau, Geography Division |format=TXT |df= }}</ref><ref name="Metro population">{{cite web |url=https://www.census.gov/popest/data/metro/totals/2011/tables/CBSA-EST2011-01.csv |title=Table 1. Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: April 1, 2010 to July 1, 2011 (CBSA-EST2011-01) |accessdate=January 18, 2013 |publisher=[[United States Census Bureau]], Population Division |format=[[Comma-separated values|CSV]] |deadurl=yes |archiveurl=https://web.archive.org/web/20120427231227/http://www.census.gov/popest/data/metro/totals/2011/tables/CBSA-EST2011-01.csv |archivedate=April 27, 2012  }}</ref><ref name="CSA population">{{cite web |url=https://www.census.gov/popest/data/metro/totals/2011/tables/CBSA-EST2011-02.csv |title=Table 2. Annual Estimates of the Population of Combined Statistical Areas: April 1, 2010 to July 1, 2011 (CBSA-EST2011-02) |accessdate=January 18, 2013 |publisher=[[United States Census Bureau]], Population Division |format=[[Comma-separated values|CSV]] |deadurl=yes |archiveurl=https://web.archive.org/web/20130117113128/http://www.census.gov/popest/data/metro/totals/2011/tables/CBSA-EST2011-02.csv |archivedate=January 17, 2013  }}</ref>
+| population_density_km2 = 5,463
+| population_density_sq_mi = 14,149
+|population_est = 685094
+|pop_est_as_of = 2017
+|pop_est_footnotes = <ref name="quickfacts"/><!-- The cited reference does not provide a 2017 estimate as of March 1, 2018. The stated number of 687584 is about 7000 more than expected by extrapolation from previous years-->
+| population_urban = 4,180,000 (US: [[List of United States urban areas|10th]])
+| population_metro = 4,628,910 (US: [[List of Metropolitan Statistical Areas|10th]])<ref name=metroareapop>{{cite web|last1=Thomas|first1=G. Scott|title=Boston's population stays flat, but still ranks as 10th-largest in U.S. (BBJ DataCenter)|url=http://www.bizjournals.com/boston/blog/bbj_research_alert/2012/11/bostons-population-stays-flat-but.html|website=bizjournals.com|accessdate=May 4, 2015}}</ref>
+| population_blank1_title = [[Combined statistical area|CSA]]
+| population_blank1 = 8,041,303 (US: [[List of Combined Statistical Areas|6th]])
+| population_blank2_title = [[Demonym]]
+| population_blank2 = Bostonian
+| postal_code_type = [[ZIP Code]]s
+| postal_code = {{Collapsible list |title=53 ZIP codes<ref>{{cite web|url=http://zip4.usps.com/zip4/citytown.jsp |title=ZIP Code Lookup – Search By City |accessdate=April 20, 2009 |publisher=United States Postal Service |deadurl=yes |archiveurl=https://web.archive.org/web/20070903025217/http://zip4.usps.com/zip4/citytown.jsp |archivedate=September 3, 2007  }}</ref> |02108–02137, 02163, 02196, 02199, 02201, 02203, 02204, 02205, 02206, 02210, 02211, 02212, 02215, 02217, 02222, 02126, 02228, 02241, 02266, 02283, 02284, 02293, 02295, 02297, 02298, 02467 (also includes parts of Newton and Brookline)}}
+| area_code = [[Area codes 617 and 857|617 and 857]]
+| area_code_type = [[Telephone numbering plan|Area codes]]
+| website = [https://www.boston.gov/ Boston.gov]
+| timezone = [[Eastern Time Zone|EST]]
+| utc_offset = −5
+| timezone_DST = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST = −4
+| blank_name = [[Federal Information Processing Standards|FIPS code]]
+| blank_info = 25-07000
+| blank1_name = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info = 0617565
+| blank_name_sec2        = Primary Airport
+| blank_info_sec2         = [[Logan International Airport]]
+| blank2_name_sec2                     = [[Interstate Highway System|Interstates]]
+| blank2_info_sec2                     = [[File:I-90.svg|25px|link=Massachusetts Turnpike]] [[File:I-93.svg|25px|link=Interstate 93 in Massachusetts]] [[File:I-95.svg|25px|link=Interstate 95 in Massachusetts]] [[File:I-495.svg|30px|link=Interstate 495 in Massachusetts]]
+| blank3_name_sec2                     = [[Commuter Rail]]
+| blank3_info_sec2                     = [[MBTA Commuter Rail]] 
+| blank4_name_sec2                     = [[Rapid Transit]]
+| blank4_info_sec2                     = [[MBTA Subway]]
+}}
+
+'''Boston''' is the [[capital city|capital]] and [[List of municipalities in Massachusetts|most populous]] municipality<ref>{{cite web|title=Population and Housing Occupancy Status: 2010 – State – County Subdivision 2010 Census Redistricting Data (Public Law 94-171) Summary File|url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST16&prodType=table|publisher=[[United States Census Bureau]]|year=2010|accessdate=March 4, 2013}}</ref> of the [[Commonwealth (U.S. state)|Commonwealth]] of [[Massachusetts]] in the [[United States]]. The city proper covers {{convert|48|mi2|0|abbr=out}} with an estimated population of 685,094 in 2017,<ref name="quickfacts">{{cite web|url=https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml|title=American FactFinder|publisher=United States Census Bureau|accessdate=May 25, 2018}}</ref> making it also the most populous city in [[New England]].<ref name="2010census"/> Boston is the seat of [[Suffolk County, Massachusetts|Suffolk County]] as well, although the county government was disbanded on July 1, 1999.<ref>{{cite web|title=List of intact or abandoned Massachusetts county governments|url=https://www.sec.state.ma.us/cis/cisctlist/ctlistcounin.htm|website=sec.state.ma.us|publisher=[[Secretary of the Commonwealth of Massachusetts]]|accessdate=October 31, 2016}}</ref> The city is the economic and cultural anchor of a substantially larger metropolitan area known as [[Greater Boston]], a [[metropolitan statistical area]] (MSA) home to a census-estimated 4.8&nbsp;million people in 2016 and ranking as the tenth-largest such area in the country.<ref name=BostonMetroPopulation>{{cite web|url=https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2016/PEPANNRES/310M300US14460|title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2016 Population Estimates|publisher=[[United States Census Bureau]]|accessdate=June 3, 2017}}</ref> As a [[combined statistical area]] (CSA), this wider commuting region is home to some 8.2&nbsp;million people, making it the sixth-largest in the United States.<ref>{{cite web|url=https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2016/PEPANNRES/330M300US148|title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2016 Population Estimates Boston-Worcester-Providence, MA-RI-NH-CT CSA|publisher=United States Census Bureau|accessdate=June 3, 2017}}</ref>
+
+Boston is one of the oldest cities in the United States, founded on the [[Shawmut Peninsula]] in 1630 by [[Puritans|Puritan]] settlers from England.<ref name="history">{{cite web |last=Banner |first=David |title=Boston History – The History of Boston, Massachusetts |url=http://www.searchboston.com/articles/history.html |publisher=SearchBoston |accessdate=April 20, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090315031352/http://www.searchboston.com/articles/history.html |archivedate=March 15, 2009  }}</ref>{{sfn|Kennedy|1994|pp=11–12}} It was the scene of several key events of the [[American Revolution]], such as the [[Boston Massacre]], the [[Boston Tea Party]], the [[Battle of Bunker Hill]], and the [[Siege of Boston]]. Upon gaining U.S. independence from [[Kingdom of Great Britain|Great Britain]], it continued to be an important port and manufacturing hub as well as a center for education and culture.<ref name=AboutBoston>{{cite web|url=http://www.cityofboston.gov/visitors/about.asp|title=About Boston|publisher=City of Boston|accessdate=May 1, 2016}}</ref>{{sfn|Morris|2005|p=8}} The city has expanded beyond the original [[Boston Neck|peninsula]] through land reclamation and municipal annexation. Its rich history attracts many tourists, with [[Faneuil Hall]] alone drawing more than 20&nbsp;million visitors per year.<ref name="BostonTourism">{{cite web|url=http://www.thetravelerszone.com/travel-destinations/top-25-most-visited-tourist-destinations-in-america/|title= Top 25 Most Visited Tourist Destinations in America | date=May 10, 2008|publisher=The Travelers Zone|accessdate=February 14, 2013}}</ref> Boston's many firsts include the United States' first public park ([[Boston Common]], 1634), first public or [[state school]] ([[Boston Latin School]], 1635)<ref name="BPS">{{cite web |url=http://www.boston.k12.ma.us/bps/bpsglance.asp#students |title=BPS at a Glance |publisher=Boston Public Schools |date=March 14, 2007|accessdate=April 28, 2007| archiveurl = https://web.archive.org/web/20070403011648/http://boston.k12.ma.us/bps/bpsglance.asp| archivedate=April 3, 2007}}</ref> and first subway system ([[Tremont Street Subway]], 1897).{{sfn|Hull|2011|p=42}}
+
+The Boston area's many [[List of colleges and universities in metropolitan Boston|colleges and universities]] make it an international center of [[higher education]],<ref name=AcademicRanking2>{{cite web|url=https://www.timeshighereducation.com/world-university-rankings/2016/reputation-ranking#!/page/0/length/25/sort_by/rank_label/sort_order/asc/cols/rank_only|title=World Reputation Rankings|date=April 21, 2016|accessdate=May 12, 2016|publisher=}}</ref> including law, medicine, engineering, and business, and the city is considered to be a world leader in [[innovation]] and [[entrepreneurship]], with nearly 2,000 startups.<ref name=VentureCapitalBoston1>{{cite web|url=http://nvca.org/research/venture-investment/|title=Venture Investment – Regional Aggregate Data|publisher=National Venture Capital Association and PricewaterhouseCoopers|accessdate=April 22, 2016}}</ref><ref name="Kirsner">{{cite news|url=http://www.boston.com/business/technology/innoeco/2010/07/boston_is_1but_will_we_hold_on.html |title=Boston is #1&nbsp;... But will we hold on to the top spot? – Innovation Economy |work=The Boston Globe|date=July 20, 2010|accessdate=August 30, 2010| first=Scott | last=Kirsner}}</ref><ref>{{cite report |title= Innovation that Matters 2016 |publisher= US Chamber of Commerce|url = http://www.1776.vc/reports/innovation-that-matters-2016/ |date=2016}}</ref> Boston's economic base also includes [[financial center|finance]],<ref name=BostonFinance>[https://www.longfinance.net/media/documents/GFCI_24_final_Report_7kGxEKS.pdf] Accessed October 7, 2018.</ref> professional and business services, [[biotechnology]], [[information technology]], and government activities.<ref>{{cite web | url=http://www.bostonredevelopmentauthority.org/PDF/ResearchPublications/TheBostonEconomyin2010.pdf | title=The Boston Economy in 2010 | publisher=Boston Redevelopment Authority | date=January 2011 | accessdate=March 5, 2013 |archiveurl=https://web.archive.org/web/20120730182721/http://www.bostonredevelopmentauthority.org/PDF/ResearchPublications//TheBostonEconomyin2010.pdf |archivedate=July 30, 2012}}</ref> Households in the city claim the highest average rate of [[philanthropy]] in the United States;<ref name="transfer of wealth">{{cite web| url=http://www.tbf.org/~/media/TBFOrg/Files/Reports/Wealth%20Transfer%20Report%202013.pdf | title = Transfer of Wealth in Boston | publisher=[[The Boston Foundation]]| date=March 2013| accessdate=December 6, 2015}}</ref> businesses and institutions rank among the top in the country for environmental [[sustainability]] and investment.<ref>{{cite web|url=http://www.cityofboston.gov/news/Default.aspx?id=6332 | title=Boston Ranked Most Energy-Efficient City in the United States |publisher=City Government of Boston| date=September 18, 2013| accessdate=December 6, 2015}}</ref> The city has one of the highest [[Cost of living|costs of living]] in the United States<ref>{{cite web|url=http://blog.sfgate.com/ontheblock/2016/12/10/in-the-wake-of-the-ghost-ship-fire-examining-oaklands-staggering-rent-hikes/#photo-781392|title=In the wake of the Ghost Ship fire, examining Oakland's 'staggering' rent hikes|date=December 10, 2016|accessdate=December 12, 2016|publisher=}}</ref><ref name="Heudorfer">{{cite web |author1=Heudorfer, Bonnie |author2=Bluestone, Barry |url=http://www.tbf.org/uploadedFiles/Housing%20Report%20Card%202004.pdf |format=PDF |title=The Greater Boston Housing Report Card |publisher=Center for Urban and Regional Policy (CURP), Northeastern University |page=6 |accessdate=December 12, 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20061108003526/http://www.tbf.org/uploadedFiles/Housing%20Report%20Card%202004.pdf |archivedate=November 8, 2006  }}</ref> as it has undergone [[gentrification]],<ref>{{cite web|url=http://boston.curbed.com/2016/12/7/13867040/which-boston-neighborhoods-will-gentrify|title=Which Boston neighborhoods will gentrify next?|author=Tom Acitelli|publisher=Vox Media|date=December 7, 2016|accessdate=December 12, 2016}}</ref> though it remains high on world livability rankings.<ref name="quality of living">{{cite web| url=http://www.mercer.com/referencecontent.htm?idContent=1173105 | title = Quality of Living global city rankings 2010 – Mercer survey | publisher=[[Mercer (consulting firm)|Mercer]]| date=May 26, 2010| accessdate=August 20, 2011 |archiveurl=https://web.archive.org/web/20110812003533/http://www.mercer.com/referencecontent.htm?idContent=1173105 |archivedate=August 12, 2011}}</ref>
+
+== History ==
+{{Main| History of Boston ||Timeline of Boston}}
+
+===Colonial===
+
+Boston's early European settlers had first called the area ''Trimountaine'' (after its "three mountains," only traces of which remain today) but later renamed it ''Boston'' after [[Boston, Lincolnshire]], England, the origin of several prominent colonists. The renaming on September 7, 1630, ([[Old Style and New Style dates|Old Style]])<ref>{{cite book|last=Drake|first=Samuel Adams|title=Old Landmarks and Historic Personages of Boston|url=http://quod.lib.umich.edu/m/moa/AFJ7482.0001.001/24|year=1872|page=6}}</ref>{{efn|On the [[Old Style and New Style dates|New Style]] (modern) calendar, anniversaries of the original Old Style date fall on September 17.}} was by [[Puritans|Puritan]] colonists from England{{sfn|Kennedy|1994|pp=11–12}}<ref>{{cite web|url=http://www.cityofboston.gov/archivesandrecords/guide/town.asp |title=Archives Guide ~ Town of Boston |publisher=City of Boston |year=2013 |accessdate=February 13, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130420050502/https://www.cityofboston.gov/archivesandrecords/guide/town.asp |archivedate=April 20, 2013  }}</ref> who had moved over from [[Charlestown, Boston|Charlestown]] earlier that year in quest for fresh water. Their settlement was initially limited to the [[Shawmut Peninsula]], at that time surrounded by the [[Massachusetts Bay]] and [[Charles River]] and connected to the mainland by a narrow [[isthmus]]. The peninsula is thought to have been inhabited as early as 5000 BC.<ref>
+{{cite web |url=http://www.sec.state.ma.us/mhc/mhcexh/exhidx.htm |title=Archaeology of the Central Artery Project: Highway to the Past |publisher=Commonwealth Museum – Massachusetts Historical Commission |year=2007 |accessdate=April 6, 2007}}</ref>
+
+In 1629, the [[Massachusetts Bay Colony]]'s first governor [[John Winthrop]] led the signing of the [[Cambridge Agreement]], a key founding document of the city. Puritan ethics and their focus on education influenced its early history;{{sfn|Christopher|2006|p=46}} America's first public school was founded in Boston in 1635.<ref name="BPS"/> Over the next 130 years, the city participated in four [[French and Indian Wars]], until the British defeated the French and their Indian allies in North America.
+
+Boston was the largest town in [[British America]] until [[Philadelphia]] grew larger in the mid-18th century.<ref>{{cite web |url=http://bostonhistorycollaborative.com/pdf/Era2.pdf|title="Growth" to Boston in its Heyday, 1640s to 1730s|format=PDF |publisher=Boston History & Innovation Collaborative |year=2006 | page=2 | accessdate=March 5, 2013}}</ref> Boston's [[shore|oceanfront location]] made it a lively [[port]], and the city primarily engaged in [[shipping]] and fishing during its colonial days. However, Boston stagnated in the decades prior to the Revolution. By the mid-18th century, [[New York City]] and Philadelphia surpassed Boston in wealth. Boston encountered financial difficulties even as other cities in New England grew rapidly.<ref name="newamernation">{{cite book|last1=Smith|first1=Robert W.|title=Encyclopedia of the New American Nation|date=2005|publisher=Charles Scribners & Sons|location=Detroit, MI|isbn=978-0684313467|pages=214–219|edition=1st}}</ref><ref name="empireontheedge">{{cite book|last1=Bunker|first1=Nick|title=An Empire on the Edge: How Britain Came to Fight America|date=2014|publisher=Knopf|isbn=978-0307594846}}</ref>
+
+===Revolution and the Siege of Boston===
+
+{{See also|Boston campaign|Siege of Boston}}
+
+[[File:A south east view of the great town of Boston in New England in America (NYPL Hades-250999-465401).jpg|thumb|left|200px|''A south east view of the great town of Boston in New England in America'' (c. 1730)]]
+[[File:Boston Tea Party w.jpg|thumb|left|200px|upright=1.2|In 1773, a group of Boston rebels threw a shipment of tea by the British [[East India Company]] into Boston Harbor as a response to the [[Tea Act]], in an event known as the [[Boston Tea Party]]]]
+
+{{Quote box
+ |quote  = The weather continuing boisterous the next day and night, giving the enemy time to improve their works, to bring up their cannon, and to put themselves in such a state of defence, that I could promise myself little success in attacking them under all the disadvantages I had to encounter
+|align=left
+|width=30%
+|author=[[William Howe, 5th Viscount Howe]]
+|source=in a letter to [[William Legge, 2nd Earl of Dartmouth]] about the British army's decision to leave Boston, dated March 21, 1776.<ref>{{cite book |last1=Dawson |first1=Henry B. |title=Battles of the United States, by sea and land: embracing those of the Revolutionary and Indian Wars, the War of 1812, and the Mexican War; with important official documents|date=1858 |publisher=Johnson, Fry & Company |location=New York, NY}}</ref>
+}}
+
+Many of the crucial events of the [[American Revolution]]{{sfn|Morris|2005|p=7}} occurred in or near Boston. Boston's penchant for mob action along with the colonists' growing distrust in Britain fostered a revolutionary spirit in the city.<ref name="newamernation" /> When the British government passed the [[Stamp Act 1765|Stamp Act]] in 1765, a Boston mob ravaged the homes of [[Andrew Oliver]], the official tasked with enforcing the Act, and [[Thomas Hutchinson (governor)|Thomas Hutchinson]], then the Lieutenant Governor of Massachusetts.<ref name="newamernation" /><ref>{{cite journal|last1=Morgan|first1=Edmund S.|title=Thomas Hutchinson and the Stamp Act|journal=The New England Quarterly|date=1946|volume=21|issue=4|pages=459–492|doi=10.2307/361566}}</ref> The British sent two regiments to Boston in 1768 in an attempt to quell the angry colonists. This did not sit well with the colonists. In 1770, during the [[Boston Massacre]], the army killed several people in response to a mob in Boston. The colonists compelled the British to withdraw their troops. The event was widely publicized and fueled a revolutionary movement in America.<ref name="empireontheedge" />
+
+In 1773, Britain passed the [[Tea Act]]. Many of the colonists saw the act as an attempt to force them to accept the taxes established by the [[Townshend Acts]]. The act prompted the [[Boston Tea Party]], where a group of rebels threw an entire shipment of tea sent by the British [[East India Company]] into [[Boston Harbor]]. The Boston Tea Party was a key event leading up to the revolution, as the British government responded furiously with the [[Intolerable Acts]], demanding compensation for the lost tea from the rebels.<ref name="newamernation" /> This angered the colonists further and led to the [[American Revolutionary War]]. The war began in the area surrounding Boston with the [[Battles of Lexington and Concord]].<ref name="newamernation" /><ref name="frothingham">{{cite book | last = Frothingham, Jr | first = Richard | authorlink = | title = History of the Siege of Boston and of the Battles of Lexington, Concord, and Bunker Hill |url=https://books.google.com/books?id=Cu9BAAAAIAAJ| publisher = Little and Brown | year = 1851}}</ref>
+
+[[File:Boston, 1775bsmall1.png|thumb|right|upright|alt=Map of Boston in 1775|Map showing a British tactical evaluation of Boston in 1775]]
+
+Boston itself was besieged for almost a year during the [[Siege of Boston]], which began on April 19, 1775. The New England militia impeded the movement of the [[British Army]]. [[William Howe, 5th Viscount Howe]], then the commander-in-chief of the British forces in North America, led the British army in the siege. On June 17, the British captured the [[Charlestown, Boston|Charlestown peninsula]] in Boston, during the [[Battle of Bunker Hill]]. The British army outnumbered the militia stationed there, but it was a [[Pyrrhic victory]] for the British because their army suffered devastating casualties. It was also a testament to the power and courage of the militia, as their stubborn defending made it difficult for the British to capture Charlestown without losing many troops.<ref name="allemn">{{cite book | last = French | first = Allen | authorlink =Allen French | title = The Siege of Boston | publisher = McMillan  | year = 1911 |url=https://books.google.com/books?id=PqZcY9z3Vn4C |ref=French }}</ref><ref name="1776book">{{cite book |last1=McCullough |first1=David |title=[[1776 (book)|1776]] |date=2005 |publisher=Simon & Schuster |location=New York, NY |isbn=978-0-7432-2671-4}}</ref>
+
+Several weeks later, [[George Washington]] took over the militia after the [[Continental Congress]] established the [[Continental Army]] to unify the revolutionary effort. Both sides faced difficulties and supply shortages in the siege, and the fighting was limited to small-scale raids and skirmishes. On March 4, 1776, Washington commanded his army to [[Fortification of Dorchester Heights|fortify Dorchester Heights]], an area of Boston. The army placed cannons there to repel a British invasion against their stake in Boston. Washington was confident the army could resist a small-scale invasion with their fortifications. Howe planned an invasion into Boston, but bad weather delayed their advance. Howe decided to withdraw, because the storm gave Washington's army more time to improve their fortifications. British troops evacuated Boston on March 17, which solidified the revolutionaries' control of the city.<ref name="frothingham" /><ref name="allemn" />
+
+=== Post-revolution and the War of 1812 ===
+[[File:Old State House and State Street, Boston 1801.jpg|thumb|left|State Street (Boston)|State Street, 1801]]
+
+After the Revolution, Boston's long seafaring tradition helped make it one of the world's wealthiest international ports, with the slave trade,<ref>{{Cite web|url=http://archive.boston.com/bostonglobe/ideas/articles/2010/09/26/new_englands_hidden_history/|title=New England's hidden history|website=Boston.com|access-date=May 22, 2016}}</ref> rum, fish, salt, and tobacco being particularly important.<ref>{{cite web |url=http://www.universityarchives.com/browse.asp?sn=39159-001&show=True&thumbnails=True |title=Colonial Boston |accessdate=May 2, 2009|publisher=University Archives |archiveurl=https://web.archive.org/web/20090207181331/http://www.universityarchives.com/browse.asp?sn=39159-001&show=True&thumbnails=True|archivedate=February 7, 2009}}</ref> Boston's harbor activity was significantly curtailed by the [[Embargo Act of 1807]] (adopted during the [[Napoleonic Wars]]) and the [[War of 1812]]. Foreign trade returned after these hostilities, but Boston's merchants had found alternatives for their capital investments in the interim. Manufacturing became an important component of the city's economy, and the city's industrial manufacturing overtook international trade in economic importance by the mid-19th century. Boston remained one of the nation's largest manufacturing centers until the early 20th century, and was known for its garment production and leather-goods industries.<ref name="economy">{{cite web |title=Boston Economy |publisher=Advameg Inc.|work=City-Data.com|year=2007|url=http://www.city-data.com/us-cities/The-Northeast/Boston-Economy.html|accessdate=June 20, 2007}}</ref> A network of small rivers bordering the city and connecting it to the surrounding region facilitated shipment of goods and led to a proliferation of mills and factories. Later, a dense network of railroads furthered the region's industry and commerce.{{sfn|Kennedy|1994|p=46}}
+
+[[File:1800 beacon hill.jpg|thumb|Cutting down Beacon Hill in 1811; a view from the north toward the [[Massachusetts State House]]<ref>{{cite book|last = Whitehill|first=Walter Muir|title=Boston: A Topographical History|year=1968|edition=Second|pages=81–84}}</ref>]]
+
+During this period, Boston flourished culturally, as well, admired for its [[Classic book|rarefied literary life]] and generous [[the arts|artistic patronage]],<ref name=BosLitHist>{{cite web|title=Home page|url=http://www.bostonliteraryhistory.com |work=Forgotten Chapters of Boston's Literary History|publisher=The Trustees of Boston College|accessdate=May 22, 2012|format=Exhibition at Boston Public Library and Massachusetts Historical Society|date=March 28 – July 30, 2012}}</ref><ref name="BosLitHistMap">{{cite web|title=An Interactive Map of Literary Boston: 1794–1862|url=http://bostonliteraryhistory.com/sites/default/files/bostonliteraryhistorymap.pdf|work=Forgotten Chapters of Boston's Literary History|publisher=The Trustees of Boston College|accessdate=May 22, 2012|format=Exhibition|date=March 28 – July 30, 2012}}</ref> with members of old Boston families—eventually dubbed ''[[Boston Brahmin]]s''—coming to be regarded as the nation's social and cultural elites.{{sfn|Kennedy|1994|p=44}}
+
+Boston was an early port of the [[Triangular trade|Atlantic triangular slave trade]] in the New England colonies, but was soon overtaken by [[Salem, Massachusetts]] and [[Newport, Rhode Island]].<ref>{{cite book|url=https://books.google.com/books?id=0dL7vPC8G7YC&lpg=PA28|title=Cities in American Political History|first=Richardson|last=Dilworth|publisher=[[Sage Publications]]|p=28}}</ref> Boston eventually became a center of the [[Abolitionism in the United States|abolitionist]] movement.<ref>{{cite web|url=http://www.nps.gov/boaf/ |title=Boston African American National Historic Site|date=April 28, 2007|publisher=National Park Service |accessdate=May 8, 2007}}</ref> The city reacted strongly to the [[Fugitive Slave Act of 1850]],<ref>{{cite web |url=http://www.masshist.org/longroad/01slavery/fsl.htm|title=Fugitive Slave Law|accessdate=May 2, 2009|publisher=The Massachusetts Historical Society}}</ref> contributing to President [[Franklin Pierce]]'s attempt to make an example of Boston after the [[Anthony Burns]] Fugitive Slave Case.<ref>{{cite web |url=http://www.masshist.org/longroad/01slavery/burns.htm |title=The "Trial" of Anthony Burns |accessdate=May 2, 2009|publisher=The Massachusetts Historical Society}}</ref><ref>{{cite web |url=http://www.suffolk.edu/16075.html |archiveurl=https://web.archive.org/web/20080520121923/http://www.suffolk.edu/16075.html |archivedate=May 20, 2008 |title=150th Anniversary of Anthony Burns Fugitive Slave Case |accessdate=May 2, 2009|date=April 24, 2004|publisher=Suffolk University}}</ref>
+
+In 1822,<ref name=AboutBoston/> the citizens of Boston voted to change the official name from the "Town of Boston" to the "City of Boston", and on March 4, 1822, the people of Boston accepted the charter incorporating the City.<ref name="city charter">{{cite book |url=https://archive.org/stream/bostononehundred02stat/bostononehundred02stat_djvu.txt |title=Boston: one hundred years a city |accessdate=April 20, 2009|format=TXT |author1=State Street Trust Company |author2=Walton Advertising |author3=Printing Company  |lastauthoramp=yes |publisher=State Street Trust Company |location=Boston |volume=2 |year=1922}}</ref> At the time Boston was chartered as a city, the population was about 46,226, while the area of the city was only {{convert|4.7|sqmi}}.<ref name="city charter"/>
+
+===19th century===
+
+[[File:Boston-view-1841-Havell.jpeg|thumbnail|left|alt=Painting with a body of water with sailing ships in the foreground and a city in the background|View of Boston from [[Dorchester Heights]], 1841]]
+[[File:TremontSt ca1843 Boston byPhilipHarry MFABoston.png|thumbnail|left|[[Tremont Street]], 1843]]
+
+In the 1820s, Boston's population grew rapidly, and the city's ethnic composition changed dramatically with the first wave of European [[Immigration to the United States|immigrants]]. Irish immigrants dominated the first wave of newcomers during this period, especially following the [[Great Famine (Ireland)|Irish Potato Famine]]; by 1850, about 35,000 [[History of Irish Americans in Boston|Irish lived in Boston]].<ref>
+{{cite web |url=https://www.pbs.org/wgbh/amex/murder/peopleevents/p_immigrants.html |title=People & Events: Boston's Immigrant Population |year=2003 |publisher=WGBH/PBS Online (American Experience) |accessdate=May 4, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20071011184015/http://www.pbs.org/wgbh/amex/murder/peopleevents/p_immigrants.html |archivedate=October 11, 2007  }}</ref> In the latter half of the 19th century, the city saw increasing numbers of Irish, Germans, [[Lebanese people|Lebanese]], Syrians,<ref>{{cite web |url=https://www.archives.gov/genealogy/immigration/passenger-arrival.html |title=Immigration Records |publisher=The National Archives |accessdate=January 7, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090114032711/http://www.archives.gov/genealogy/immigration/passenger-arrival.html |archivedate=January 14, 2009  }}</ref> [[French Canadians]], and [[History of the Jews in Russia|Russian]] and [[History of the Jews in Poland|Polish Jews]] settling in the city. By the end of the 19th century, Boston's core neighborhoods had become enclaves of ethnically distinct immigrants. Italians inhabited the [[North End, Boston|North End]],<ref>{{cite book |url=https://books.google.com/?id=jET-HIcybREC |title=The Boston Italians |accessdate=May 16, 2009 |last=Puleo |first=Stephen |chapter=Epilogue: Today|chapterurl=https://books.google.com/books?id=jET-HIcybREC |publisher=Beacon Press |year=2007 |edition=illustrated |isbn=978-0-8070-5036-1}}</ref> Irish dominated [[South Boston]] and [[Charlestown, Boston|Charlestown]], and Russian Jews lived in the [[West End, Boston|West End]]. [[Irish Americans|Irish]] and [[Italian Americans|Italian]] immigrants brought with them Roman Catholicism. Currently, Catholics make up Boston's largest religious community,<ref>{{cite web |url=http://www.city-data.com/world-cities/Boston-People.html |title=Boston People |year=2007 |work=City-Data.com | publisher=Advameg Inc.|accessdate=May 5, 2007}}</ref> and the Irish have played a major role in Boston politics since the early 20th century; prominent figures include the [[Kennedy family|Kennedys]], [[Tip O'Neill]], and [[John F. Fitzgerald]].{{sfn|Bolino|2012|pp=285–286}}
+
+Between 1631 and 1890, the city tripled its area through [[land reclamation]] by filling in marshes, mud flats, and gaps between wharves along the waterfront.<ref name="landfills">{{cite web |url=http://www.iboston.org/rg/backbayImap.htm |title=The History of Land Fill in Boston |publisher=iBoston.org |year=2006 |accessdate=January 9, 2006 }}. Also see {{cite web |author=Howe, Jeffery |year=1996 |url=http://www.bc.edu/bc_org/avp/cas/fnart/fa267/bos_fill2.html |title=Boston: History of the Landfills |publisher=Boston College |accessdate=April 30, 2007 |archive-url=https://web.archive.org/web/20070410073014/http://www.bc.edu/bc_org/avp/cas/fnart/fa267/bos_fill2.html |archive-date=April 10, 2007 |dead-url=yes |df=mdy-all }}</ref> The largest reclamation efforts took place during the 19th century; beginning in 1807, the crown of Beacon Hill was used to fill in a {{Convert|50|acre|adj=mid}} mill pond that later became the [[Haymarket Square (Boston)|Haymarket Square]] area. The present-day [[Massachusetts State House|State House]] sits atop this lowered Beacon Hill. Reclamation projects in the middle of the century created significant parts of the [[South End, Boston|South End]], the [[West End, Boston|West End]], the [[Financial District, Boston|Financial District]], and [[Chinatown, Boston|Chinatown]].
+
+[[File:Old City Hall (Boston).jpg|thumb|right|The {{w|Old City Hall (Boston)|Old City Hall}} was home to the Boston city council from 1865 to 1969.]]
+[[File:Haymarket Square.JPG|thumb|right|alt=Colored print image of a city square in the 1900s|[[Haymarket Square (Boston)|Haymarket Square]], 1909]]
+
+After the [[Great Boston fire of 1872]], workers used building rubble as landfill along the downtown waterfront. During the mid-to-late 19th century, workers filled almost {{convert|600|acres|km2|abbr=on}} of brackish Charles River marshlands west of [[Boston Common]] with gravel brought by rail from the hills of Needham Heights. The city annexed the adjacent towns of [[South Boston]] (1804), [[East Boston]] (1836), [[Roxbury, Boston|Roxbury]] (1868), [[Dorchester, Boston|Dorchester]] (including present-day [[Mattapan]] and a portion of [[South Boston]]) (1870), [[Brighton, Boston|Brighton]] (including present-day [[Allston]]) (1874), [[West Roxbury]] (including present-day [[Jamaica Plain]] and [[Roslindale]]) (1874), [[Charlestown, Boston|Charlestown]] (1874), and [[Hyde Park, Boston|Hyde Park]] (1912).<ref>{{cite book |title=Historical Atlas of Massachusetts |page=37 |year=1991 |publisher=University of Massachusetts}}</ref><ref>{{cite book |last1=Holleran |first1=Michael |authorlink1= |authorlink2= |editor1-link= |others= |title=Boston's Changeful Times: Origins of Preservation and Planning in America |url=https://books.google.com/?id=j_L08ikdUrkC |accessdate=August 22, 2010|type= |edition= |series= |year=2001 |origyear= |publisher=[[The Johns Hopkins University Press]] |isbn=978-0-8018-6644-9 |oclc= |page=41 |at= |chapter=Problems with Change |chapterurl=https://books.google.com/books?id=j_L08ikdUrkC&lpg=PA41&pg=PA39 |quote= |ref= |bibcode= |laysummary= |laydate= |separator= |postscript= |lastauthoramp=}}</ref> Other proposals were unsuccessful for the annexation of [[Boston–Brookline annexation debate of 1873|Brookline]], Cambridge,<ref>{{cite news |title=Boston's Annexation Schemes.; Proposal To Absorb Cambridge And Other Near-By Towns |url=https://www.nytimes.com/1892/03/27/archives/bostons-annexation-schemes-proposal-to-absorb-cambridge-and-other.html |newspaper=[[The New York Times]] |isbn= |issn= |pmid= |pmd= |bibcode= |date=March 26, 1892 |page= 11 |at= |accessdate=August 21, 2010|quote= |archiveurl=https://timesmachine.nytimes.com/timesmachine/1892/03/27/104093600.pdf |archivedate=March 27, 1892|ref= }}</ref> and [[Chelsea, Massachusetts|Chelsea]].<ref>{{cite news |title=Has the time for Chelsea's annexation to Boston come? The Hub hasn't grown since 1912, and something has to follow that beleaguered community's receivership |first=Michael |last=Rezendes |url=https://pqasb.pqarchiver.com/boston/access/59275776.html?FMT=ABS&date=Oct%2013,%201991 |work=The Boston Globe |isbn= |issn= |pmid= |pmd= |bibcode= |date=October 13, 1991|page= 80 |at= |accessdate=August 22, 2010|quote= |ref= }}</ref><ref>{{cite news |title=Flynn offers to annex Chelsea |first1=Andrea |last1=Estes |last2=Cafasso|first2=Ed |url=https://pqasb.pqarchiver.com/bostonherald/access/69025902.html?FMT=ABS&FMTS=ABS:FT&date=Sep+9%2C+1991&author=ANDREA+ESTES+and+ED+CAFASSO&pub=Boston+Herald&edition=&startpage=001&desc=Flynn+offers+to+annex+Chelsea |newspaper=[[Boston Herald]] |isbn= |issn= |pmid= |pmd= |bibcode= |date=September 9, 1991|page= 1 |at= |accessdate=August 22, 2010|quote= |ref= }}</ref>
+
+===20th century===
+
+The city went into decline by the early to mid-20th century, as factories became old and obsolete and businesses moved out of the region for cheaper labor elsewhere.{{sfn|Bluestone|Stevenson|2002|p=13}} Boston responded by initiating various [[urban renewal]] projects, under the direction of the [[Boston Planning and Development Agency|Boston Redevelopment Authority]] (BRA) established in 1957. In 1958, BRA initiated a project to improve the historic West End neighborhood. Extensive demolition was met with strong public opposition.<ref>{{cite news |author=Collins, Monica |url=http://www.boston.com/news/globe/magazine/articles/2005/08/07/born_again/ |title=Born Again |work=The Boston Globe |date=August 7, 2005|accessdate=May 8, 2007}}</ref>
+
+The BRA subsequently re-evaluated its approach to urban renewal in its future projects, including the construction of the [[Government Center, Boston|Government Center]]. In 1965, the Columbia Point Health Center opened in the [[Dorchester, Boston|Dorchester]] neighborhood, the first [[Community health centers in the United States|Community Health Center]] in the United States. It mostly served the massive [[Columbia Point (Boston)|Columbia Point]] public housing complex adjoining it, which was built in 1953. The health center is still in operation and was rededicated in 1990 as the Geiger-Gibson Community Health Center.<ref>{{cite book | last=Roessner | first=Jane | title=A Decent Place to Live: from Columbia Point to Harbor Point – A Community History | publisher=Northeastern University Press | location=Boston | year=2000 | page=80 | isbn=978-1-55553-436-3}}</ref> The Columbia Point complex itself was redeveloped and revitalized from 1984 to 1990 into a mixed-income residential development called Harbor Point Apartments.<ref name="Roessner">Cf. Roessner, p.293. "The HOPE VI housing program, inspired in part by the success of Harbor Point, was created by legislation passed by Congress in 1992."</ref>
+
+By the 1970s, the city's economy had recovered after 30 years of economic downturn. A large number of high-rises were constructed in the [[Financial District, Boston|Financial District]] and in Boston's [[Back Bay, Boston|Back Bay]] during this period.{{sfn|Kennedy|1994|p=195}} This boom continued into the mid-1980s and resumed after a few pauses. Hospitals such as [[Massachusetts General Hospital]], [[Beth Israel Deaconess Medical Center]], and [[Brigham and Women's Hospital]] lead the nation in medical innovation and patient care. Schools such as [[Boston College]], [[Boston University]], the [[Harvard Medical School]], [[Tufts University School of Medicine]], [[Northeastern University]], [[Massachusetts College of Art and Design]], [[Wentworth Institute of Technology]], [[Berklee College of Music]], and [[Boston Conservatory]] attract students to the area. Nevertheless, the city experienced conflict starting in 1974 over [[desegregation busing]], which resulted in unrest and violence around public schools throughout the mid-1970s.{{sfn|Kennedy|1994|pp=194–195}}
+
+===21st century===
+
+[[File:Boston Back Bay reflection.jpg|thumbnail|left|250px|[[Back Bay, Boston|Back Bay neighborhood]]]]
+
+Boston is an intellectual, technological, and political center but has lost some important regional institutions,<ref>
+{{cite news |url=http://www.boston.com/news/local/articles/2005/04/15/atlantic_148_year_institution_leaving_city/ |title=Atlantic, 148-year institution, leaving city |author1=Feeney, Mark |author2=Mehegan, David |date=April 15, 2005|work=The Boston Globe |accessdate=March 31, 2007}}</ref> including the loss to mergers and acquisitions of local financial institutions such as [[FleetBoston Financial]], which was acquired by [[Charlotte, North Carolina|Charlotte]]-based [[Bank of America]] in 2004.<ref>{{cite news | url=http://www.boston.com/business/globe/articles/2004/03/09/fleetboston_bank_of_america_merger_approved_by_fed/ | title=FleetBoston, Bank of America Merger Approved by Fed | date=March 9, 2004 | work=The Boston Globe | accessdate=March 5, 2013}}</ref> Boston-based department stores [[Jordan Marsh]] and [[Filene's]] have both merged into the Cincinnati–based [[Macy's, Inc.|Macy's]].<ref>{{cite news | url=http://www.boston.com/business/globe/articles/2005/07/29/its_official_filenes_brand_will_be_gone/ | last1=Abelson | first1=Jenn | last2=Palmer, Jr. | first2=Thomas C. | title=It's Official: Filene's Brand Will Be Gone | work=The Boston Globe | date=July 29, 2005 | accessdate=March 5, 2013}}</ref>
+The 1993 acquisition of ''[[The Boston Globe]]'' by ''[[The New York Times]]''<ref>{{cite news | url=https://news.google.com/newspapers?id=6IJIAAAAIBAJ&pg=4346,4610151 | title=Largest Newspaper Deal in U.S. – N.Y. Times Buys Boston Globe for $1.1 Billion | last=Glaberson | first=William | date=June 11, 1993 | page=B-12 | work=Pittsburgh Post-Gazette | accessdate=March 5, 2013}}</ref> was reversed in 2013 when it was re-sold to Boston businessman [[John W. Henry]]. In 2016, it was announced [[General Electric]] would be moving its corporate headquarters from Connecticut to the Innovation District in South Boston, joining many other companies in this rapidly developing neighborhood.
+
+Boston has experienced [[gentrification]] in the latter half of the 20th century,<ref>{{cite news |url=https://www.usatoday.com/news/nation/2005-04-19-gentrification_x.htm |title=Studies: Gentrification a boost for everyone |accessdate=May 2, 2009|last=Hampson |first=Rick |work=USA Today |date=April 19, 2005}}</ref> with housing prices increasing sharply since the 1990s.<ref name="Heudorfer"/> Living expenses have risen; Boston has one of the highest costs of living in the United States<ref>{{cite web |url=http://www.infoplease.com/ipa/A0883960.html |title=Cost of Living Index for Selected U.S. Cities, 2005 |accessdate=May 2, 2009|work=Information Please Database |publisher=Pearson Education |year=2007}}</ref> and was ranked the 129th-most expensive major city in the world in a 2011 survey of 214 cities.<ref>{{cite web |url=http://www.mercer.com/press-releases/1420615 |title=Worldwide Cost of Living Survey 2011 – City Ranking |accessdate=February 21, 2013|date=July 12, 2011|publisher=Mercer}}</ref> Despite cost-of-living issues, Boston ranks high on livability ratings, ranking 36th [[World's most liveable cities|worldwide in quality of living]] in 2011 in a survey of 221 major cities.<ref>{{cite web|url=http://www.mercer.com/press-releases/quality-of-living-report-2011 |publisher=Mercer |title=2011 Quality of Living worldwide city rankings – Mercer survey |date=November 29, 2011 |accessdate=January 29, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121128200352/http://www.mercer.com/press-releases/quality-of-living-report-2011 |archivedate=November 28, 2012  }}</ref>
+
+On April 15, 2013, two Chechen Islamist brothers [[Boston Marathon bombing|detonated a pair of bombs]] near the finish line of the [[2013 Boston Marathon|Boston Marathon]], killing three people and injuring roughly 264.<ref name=260herald/>
+
+In 2016, Boston briefly [[Boston bid for the 2024 Summer Olympics|shouldered a bid]] as the US applicant for the [[2024 Summer Olympics]]. The bid was supported by the mayor and a coalition of business leaders and local philanthropists, but was eventually dropped due to public opposition.<ref>{{cite web|url=https://www.boston.com/sports/sports-news/2016/08/04/the-life-and-death-of-bostons-olympic-bid|title=The life and death of Boston's Olympic bid|date=August 4, 2016|publisher=}}</ref> The [[United States Olympic Committee|USOC]] then selected [[Los Angeles]] to be the American candidate with Los Angeles ultimately securing the right to host the [[2028 Summer Olympics]].
+
+==Geography==
+[[File:Boston Massachusetts 2007 satellite photo.jpg|thumb|right|alt=Aerial view of the Boston area from space|Boston as seen from the International Space Station (ISS)]]
+Boston has an area of {{convert|89.63|sqmi|1}}—{{convert|48.4|sqmi|1}} (54%) of land and {{convert|41.2|sqmi|1}} (46%) of water. The city's official elevation, as measured at [[Logan International Airport]], is {{convert|19|ft|abbr=on}} [[Above mean sea level|above sea level]].<ref>{{cite web
+|title=Elevation data – Boston
+|url={{Gnis3|617565}}
+|year=2007
+|publisher=U.S. Geological Survey}}</ref> The highest point in Boston is [[Bellevue Hill, Boston|Bellevue Hill]] at {{convert|330|ft}} above sea level, and the lowest point is at sea level.<ref>{{cite peakbagger
+| pid = 6759
+| name = Bellevue Hill, Massachusetts}}</ref> Situated onshore of the [[Atlantic Ocean]], Boston is the only state capital in the [[contiguous United States]] with an oceanic [[shoreline]].<ref>{{cite web|last=United States Embassy|title=Boston, Massachusetts: America's City of Firsts|url=http://iipdigital.usembassy.gov/st/english/pamphlet/2013/08/20130829281955.html#axzz3vj6MuW1s|accessdate=December 29, 2015}}</ref>
+
+{{Quotation|The geographical center of Boston is in Roxbury. Due north of the center we find the South End. This is not to be confused with South Boston which lies directly east from the South End. North of South Boston is East Boston and southwest of East Boston is the North End.|Author|Unknown – A common local colloquialism}}
+
+Boston is surrounded by the "[[Greater Boston]]" region and is contiguously bordered by the [[New England town|cities and towns]] of [[Winthrop, Massachusetts|Winthrop]], [[Revere, Massachusetts|Revere]], [[Chelsea, Massachusetts|Chelsea]], [[Everett, Massachusetts|Everett]], [[Somerville, Massachusetts|Somerville]], [[Cambridge, Massachusetts|Cambridge]], [[Watertown, Massachusetts|Watertown]], [[Newton, Massachusetts|Newton]], [[Brookline, Massachusetts|Brookline]], [[Needham, Massachusetts|Needham]], [[Dedham, Massachusetts|Dedham]], [[Canton, Massachusetts|Canton]], [[Milton, Massachusetts|Milton]], and [[Quincy, Massachusetts|Quincy]]. The [[Charles River]] separates Boston from [[Watertown, Massachusetts|Watertown]] and the majority of Cambridge, and the mass of Boston from its own Charlestown neighborhood. To the east lie [[Boston Harbor]] and the [[Boston Harbor Islands National Recreation Area]] (which includes part of the city's territory, specifically [[Calf Island (Massachusetts)|Calf Island]], [[Gallops Island]], [[Great Brewster Island]], [[Green Island (Massachusetts)|Green Island]], [[Little Brewster Island]], [[Little Calf Island]], [[Long Island]], [[Lovells Island]], [[Middle Brewster Island]], [[Nixes Mate]], [[Outer Brewster Island]], [[Rainsford Island]], [[Shag Rocks (Massachusetts)|Shag Rocks]], [[Spectacle Island (Massachusetts)|Spectacle Island]], [[The Graves (Massachusetts)|The Graves]], and [[Thompson Island (Massachusetts)|Thompson Island]]). The [[Neponset River]] forms the boundary between Boston's southern neighborhoods and the city of [[Quincy, Massachusetts|Quincy]] and the town of [[Milton, Massachusetts|Milton]]. The [[Mystic River]] separates Charlestown from Chelsea and Everett, and Chelsea Creek and Boston Harbor separate East Boston from Boston proper.<ref>{{cite web
+ |url=http://www.topozone.com/map.asp?lat=42.35833&lon=-71.06028
+ |title=Kings Chapel Burying Ground, USGS Boston South (MA) Topo Map
+ |publisher=TopoZone
+ |year=2006
+ |accessdate=January 6, 2016
+ |deadurl=yes
+ |archiveurl=https://archive.is/20120629004700/http://www.topozone.com/map.asp?lat=42.35833&lon=-71.06028
+ |archivedate=June 29, 2012
+ 
+}}</ref>
+
+===Cityscapes===
+{{Wide image|Boston Skyline, SONY NEX-5 Panorama Mode (4765830049).jpg|1800px|3=<div align=center>Sailboats on the [[Charles River]] overlook the [[List of tallest buildings in Boston|Boston skyline]], as seen from [[Cambridge, Massachusetts|Cambridge]].</div>|dir=rtl}}
+{{Wide image|2011 BostonMA 6273512600.jpg|1800px|3=<div align=center>From left to right: [[Boston City Hall]], the [[West End, Boston|West End]], the [[North End, Boston|North End]], [[Charlestown, Boston|Charlestown]], [[Boston Harbor]], and [[East Boston]]</div>|dir=rtl}}
+{{Wide image|Boston skyline from Cambridge November 2015 panorama 1.jpg|1800px|3=<div align=center>Sunset view of the Boston skyline and Charles River</div>|dir=rtl}}
+{{spaces}}
+
+===Neighborhoods===
+{{Main|Neighborhoods in Boston}}
+[[File:John Hancock Tower.jpg|thumb|upright|[[200 Clarendon Street]] is the tallest building in Boston, with a [[List of tallest buildings in the world by height to roof|roof height]] of {{convert|790|ft}}.]]
+Boston is sometimes called a "city of neighborhoods" because of the profusion of diverse subsections; the city government's Office of Neighborhood Services has officially designated 23 neighborhoods.<ref>{{cite web|url=http://www.cityofboston.gov/neighborhoods/default.asp |title=Official list of Boston neighborhoods|publisher=Cityofboston.gov |date=March 24, 2011|accessdate=September 1, 2012}}</ref> More than two-thirds of inner Boston's modern land area did not exist when the city was founded. Instead, it was created via the gradual filling in of the surrounding tidal areas over the centuries,<ref name="landfills"/> with earth from leveling or lowering Boston's three original hills (the "Trimountain", after which Tremont Street is named) and with gravel brought by train from Needham to fill the [[Back Bay]].{{sfn|Morris|2005|p=8}}
+
+[[Downtown Boston|Downtown]] and its immediate surroundings consist largely of low-rise masonry buildings (often [[Federal architecture|Federal style]] and [[Greek Revival]]) interspersed with modern highrises, in the Financial District, Government Center, and [[South Boston]].<ref>{{cite book | title=Built in Boston: City & Suburb, 1800–2000 | first=Douglass | last=Shand-Tucci | edition=2 | publisher=University of Massachusetts Press | year=1999 | isbn=978-1-55849-201-1 | pages=11, 294–299}}</ref> Back Bay includes many prominent landmarks, such as the [[Boston Public Library]], [[The First Church of Christ, Scientist|Christian Science Center]], [[Copley Square]], [[Newbury Street]], and New England's two tallest buildings: the [[200 Clarendon Street|John Hancock Tower]] and the [[Prudential Tower|Prudential Center]].<ref>{{cite web
+|url=http://www.emporis.com/en/wm/ci/?id=101045
+|title=Boston Skyscrapers
+|publisher=Emporis.com
+|year=2005
+|accessdate=May 15, 2005}}</ref>
+Near the John Hancock Tower is the [[Berkeley Building|old John Hancock Building]] with its prominent [[weather beacon|illuminated beacon]], the color of which forecasts the weather.{{sfn|Hull|2011|p=91}} Smaller commercial areas are interspersed among areas of single-family homes and wooden/brick multi-family row houses. The South End Historic District is the largest surviving contiguous Victorian-era neighborhood in the US.<ref>{{cite web
+|url=http://www.southendhistoricalsociety.org/our-history/
+|title=Our History
+|publisher=South End Historical Society
+|year=2013
+|accessdate=February 17, 2013}}</ref> The geography of downtown and South Boston was particularly affected by the Central Artery/Tunnel Project (known unofficially as the "[[Big Dig]]") which removed the unsightly elevated [[Central Artery]] and incorporated new green spaces and open areas.{{sfn|Morris|2005|pp=54, 102}}
+
+===Climate===
+
+[[File:USA Massachusetts Boston Foliage.jpg|thumb|275px|left|alt=Autumn foliage with a city skyline in the distant background|Boston's skyline in the background, with [[Autumn leaf color|fall foliage]] in the foreground]]
+
+{{climate chart
+| Boston, MA
+|22.2|35.8|3.36
+|24.7|38.7|3.25
+|31.1|45.4|4.32
+|40.6|55.6|3.74
+|49.9|66.0|3.49
+|59.5|75.9|3.68
+|65.4|81.4|3.43
+|64.6|79.6|3.35
+|57.4|72.4|3.44
+|46.5|61.4|3.94
+|38.0|51.5|3.99
+|28.2|41.2|3.78
+|units = imperial
+|float = right
+|clear = both }}
+
+Under the [[Köppen climate classification]], Boston has a [[humid subtropical climate]] (Köppen ''Cfa'').<ref>{{cite web|url=http://koeppen-geiger.vu-wien.ac.at/ |title=World Map of the Köppen-Geiger climate classification updated |date=November 6, 2008 |publisher=University of Veterinary Medicine Vienna |accessdate=May 5, 2018 |deadurl=yes |archiveurl=https://web.archive.org/web/20100906034159/http://koeppen-geiger.vu-wien.ac.at/ |archivedate=September 6, 2010 |df= }}</ref> bordering a hot summer [[humid continental climate]] (Köppen ''Dfa''). Summers are typically warm and humid, while winters are cold and stormy, with occasional periods of heavy snow. Spring and fall are usually cool to mild, with varying conditions dependent on wind direction and jet stream positioning. Prevailing wind patterns that blow offshore minimize the influence of the Atlantic Ocean. However, in winter areas near the immediate coast will often see more rain than snow as warm air is drawn off the Atlantic at times.<ref name="BostonWeather" /> The city lies at the transition between [[USDA]] plant [[hardiness zone]]s 6b (most of the city) and 7a (Downtown, South Boston, and East Boston neighborhoods).<ref>{{cite web|title=USDA Plant Hardiness Zone Map|url=http://planthardiness.ars.usda.gov/PHZMWeb/|publisher=United States Department of Agriculture|accessdate=March 22, 2018|archive-url=https://web.archive.org/web/20140227032333/http://planthardiness.ars.usda.gov/PHZMWeb/|archive-date=February 27, 2014|dead-url=yes|df=mdy-all}}</ref>
+
+The hottest month is July, with a mean temperature of {{convert|73.4|F|1}}. The coldest month is January, with a mean of {{convert|29.0|F|1}}. Periods exceeding {{convert|90|F|0}} in summer and below freezing in winter are not uncommon but rarely extended, with about 13 and 25&nbsp;days per year seeing each, respectively.<ref name="NWS Boston, MA (BOX)"/> The most recent sub-{{convert|0|F|0}} reading occurred on January 7, 2018, when the temperature dipped down to {{convert|−2|F|0}}.<ref name="NWS Boston, MA (BOX)"/> In addition, several decades may pass between {{convert|100|F|0}} readings, with the most recent such occurrence on July 22, 2011, when the temperature reached {{convert|103|F|0}}.<ref name="NWS Boston, MA (BOX)" /> The city's average window for freezing temperatures is November 9 through April 5.<ref name="NWS Boston, MA (BOX)" />{{efn|The average number of days with a low at or below freezing is 94.}} Official temperature records have ranged from {{convert|−18|F|0}} on February 9, 1934, up to {{convert|104|F|0}} on July 4, 1911. The record cold daily maximum is {{convert|2|F|0}} on December 30, 1917 while, conversely, the record warm daily minimum is {{convert|83|F|0}} on August 2, 1975.<ref>{{cite web
+| url = http://threadex.rcc-acis.org/
+| title = Threaded Extremes
+| accessdate = June 28, 2010
+| publisher = National Weather Service }}</ref>
+
+[[File:Snowfall-Boston-NWS.jpg|{{largethumb}}|left|A graph of cumulative winter snowfall at [[Logan International Airport]] from 1938–2015. The four winters with the greatest amount of snowfall are highlighted. The snowfall data, which was collected by [[National Oceanic and Atmospheric Administration|NOAA]], is from the weather station at the airport.]]
+
+Boston's coastal location on the North Atlantic moderates its temperature but makes the city very prone to [[Nor'easter]] weather systems that can produce much snow and rain.<ref name="BostonWeather">{{cite web
+|url=http://www.cityofboston.gov/arts/film/weather.asp
+|archiveurl=https://web.archive.org/web/20130201010317/http://www.cityofboston.gov/arts/film/weather.asp
+|archivedate=February 1, 2013
+|title=Weather
+|year=2007
+|publisher=City of Boston Film Bureau
+|accessdate=April 29, 2007
+}}</ref> The city averages {{convert|43.8|in|sigfig=3}} of [[Precipitation (meteorology)|precipitation]] a year, with {{convert|43.8|in|cm|0}} of snowfall per season.<ref name= "NWS Boston, MA (BOX)"/> Snowfall increases dramatically as one goes inland away from the city (especially north and west of the city)—away from the moderating influence of the ocean.<ref>
+
+{{cite web
+|url=http://www.city-data.com/states/Massachusetts-Climate.html
+|title=Massachusetts – Climate
+|year=2005
+|work=City-Data.com
+|publisher=Advameg Inc.
+|accessdate=April 29, 2007
+}}</ref> Most snowfall occurs from mid-November through early April, and snow is rare in May and October.<ref>
+{{cite web
+|url=http://www.intellicast.com/Almanac/Northeast/May/
+|archiveurl=https://web.archive.org/web/20070429165729/http://www.intellicast.com/Almanac/Northeast/May/
+|archivedate=April 29, 2007
+|title=May in the Northeast
+|year=2003
+|publisher=Intellicast.com
+|accessdate=April 29, 2007
+}}</ref><ref>
+{{cite news
+|url=http://www.boston.com/news/weather/articles/2005/10/30/snowstorm_packs_october_surprise/
+|author=Wangsness, Lisa
+|title=Snowstorm packs October surprise
+|date=October 30, 2005
+|work=The Boston Globe
+|accessdate=April 29, 2007
+}}</ref> There is also high year-to-year variability in snowfall; for instance, the winter of 2011–12 saw only {{convert|9.3|in|cm|1|abbr=on}} of accumulating snow, but the previous winter, the corresponding figure was {{convert|81.0|in|m|abbr=on}}.<ref name="NWS Boston, MA (BOX)" />{{efn|Seasonal snowfall accumulation has ranged from {{convert|9.0|in|cm|1|abbr=on}} in 1936–37 to {{convert|110.6|in|m|abbr=on}} in 2014–15.}}
+
+Fog is fairly common, particularly in spring and early summer. Due to its location along the North Atlantic, the city often receives sea breezes, especially in the late spring, when water temperatures are still quite cold and temperatures at the coast can be more than {{convert|20|F-change|0|abbr=on}} colder than a few miles inland, sometimes dropping by that amount near midday.<ref>
+{{cite news
+|url=http://www.boston.com/news/globe/city_region/breaking_news/2007/07/sea_breeze_keep.html
+|author=Ryan, Andrew
+|title=Sea breeze keeps Boston 25 degrees cooler while others swelter
+|date=July 11, 2007
+|work=The Boston Globe
+|accessdate=March 31, 2009
+|archiveurl=https://web.archive.org/web/20131107051159/http://www.boston.com/news/globe/city_region/breaking_news/2007/07/sea_breeze_keep.html
+|archivedate=November 7, 2013
+}}</ref><ref>
+{{cite news
+|url=http://www.boston.com/news/local/breaking_news/2008/06/boston_sea_bree.html
+|author=Ryan, Andrew
+|title=Boston sea breeze drops temperature 20 degrees in 20 minutes
+|date=June 9, 2008
+|work=The Boston Globe
+|accessdate=March 31, 2009
+|archiveurl=https://web.archive.org/web/20140413184438/http://www.boston.com/news/local/breaking_news/2008/06/boston_sea_bree.html
+|archivedate=April 13, 2014
+}}</ref>
+Thunderstorms occur from May to September, that are occasionally severe with large [[hail]], damaging winds and heavy downpours.<ref name="BostonWeather"/> Although downtown Boston has never been struck by a violent [[tornado]], the city itself has experienced many [[tornado warning]]s. Damaging storms are more common to areas north, west, and northwest of the city.<ref>{{cite web | url=http://www.tornadohistoryproject.com/tornado/Massachusetts | title=Tornadoes in Massachusetts | publisher=Tornado History Project | year=2013 | accessdate=February 24, 2013}}</ref> Boston has a relatively sunny climate for a coastal city at its latitude, averaging over 2,600 hours of sunshine per annum.
+{{Clear}}
+
+{{Boston, MA weatherbox
+|collapsed=true}}
+
+==Demographics==
+{{Prose|section|date=November 2018}}
+
+{{see also|Chinese Americans in Boston|History of the Irish in Boston|Vietnamese in Boston|LGBT culture in Boston|Dominican-Americans in Boston}}
+
+{{Historical populations
+|type= USA
+|1722|10567
+|1765|15520
+|1790|18320
+|1800|24937
+|1810|33787
+|1820|43298
+|1830|61392
+|1840|93383
+|1850|136881
+|1860|177840
+|1870|250526
+|1880|362839
+|1890|448477
+|1900|560892
+|1910|670585
+|1920|748060
+|1930|781188
+|1940|770816
+|1950|801444
+|1960|697197
+|1970|641071
+|1980|562994
+|1990|574283
+|2000|589141
+|2010|617594
+|NaN= 667
+|2017|685094
+|source=<center>U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015|deadurl=yes|archiveurl=https://www.webcitation.org/6YSasqtfX?url=http://www.census.gov/prod/www/decennial.html|archivedate=May 12, 2015 }}</ref></center>
+|footnote=* = population estimate. {{Historical populations/Massachusetts municipalities references}}<ref name="1950_Census_Urban_populations_since_1790">{{cite journal |title=1950 Census of Population|volume=1: Number of Inhabitants|at=Section 6, Pages&nbsp;21–07 through 21-09, Massachusetts Table 4. Population of Urban Places of 10,000 or more from Earliest Census to 1920|publisher=Bureau of the Census|accessdate=July 12, 2011|year=1952|url=http://www2.census.gov/prod2/decennial/documents/23761117v1ch06.pdf}}</ref><ref>{{cite web|url=https://www.census.gov/popest/data/cities/totals/2011/tables/SUB-EST2011-03-25.csv|title=Table 3. Annual Estimates of the Resident Population for Incorporated Places in Massachusetts: April 1, 2010 to July 1, 2011 (SUB-EST2011-03-25)|author=[[United States Census Bureau]]|accessdate=January 18, 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130309152534/http://www.census.gov/popest/data/cities/totals/2011/tables/SUB-EST2011-03-25.csv|archivedate=March 9, 2013|df= }}</ref>
+}}
+
+[[File:Boston income donut.png|thumb|right|alt=Map of Boston and the surrounding area displaying per capita income distribution|[[Per capita income]] in the Greater Boston area, by US Census block group, 2000. The dashed line shows the boundary of the City of Boston.]]
+[[File:Race and ethnicity 2010- Boston (5559894531).png|thumb|Map of racial distribution in Boston, 2010 U.S. Census. Each dot is 25 people: <span style="color:#ff0000">'''White'''</span>, <span style="color:#0000ff">'''Black'''</span>, <span style="color:#00ff80">'''Asian'''</span>, <span style="color:#ff8000">'''Hispanic'''</span>, or '''Other''' (yellow)]]
+
+In 2016, Boston was estimated to have 673,184 residents (a density of 13,841 persons/sq mi, or 5,344/km<sup>2</sup>) living in 272,481 housing units<ref name="2010census"/>—a 9% population increase over 2010. The city is the [[List of United States cities by population density|third-most densely populated large U.S. city]] of over half a million residents. Some 1.2&nbsp;million persons may be within Boston's boundaries during work hours, and as many as 2&nbsp;million during special events. This fluctuation of people is caused by hundreds of thousands of suburban residents who travel to the city for work, education, health care, and special events.<ref>{{cite web |url=http://www.bostonredevelopmentauthority.org/PDF/ResearchPublications//pdr96-1.pdf |format=PDF |title=Boston's Population Doubles – Every Day |publisher=Boston Redevelopment Authority – Insight Reports |date=December 1996 |accessdate=May 6, 2012|archiveurl=https://web.archive.org/web/20130723053618/http://www.bostonredevelopmentauthority.org/PDF/ResearchPublications//pdr96-1.pdf |archivedate=July 23, 2013}}</ref>
+
+In the city, the population was spread out with 21.9% at age 19 and under, 14.3% from 20 to 24, 33.2% from 25 to 44, 20.4% from 45 to 64, and 10.1% who were 65&nbsp;years of age or older. The median age was 30.8&nbsp;years. For every 100 females, there were 92.0 males. For every 100 females age 18 and over, there were 89.9 males.<ref name="census1"/> There were 252,699 households, of which 20.4% had children under the age of 18 living in them, 25.5% were married couples living together, 16.3% had a female householder with no husband present, and 54.0% were non-families. 37.1% of all households were made up of individuals and 9.0% had someone living alone who was 65 years of age or older. The average household size was 2.26 and the average family size was 3.08.<ref name="census1">{{cite web|url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml |title=Boston city, Massachusetts—DP02, Selected Social Characteristics in the United States 2007–2011 American Community Surver 5-Year Estimates |year=2011 |publisher=United States Census Bureau |accessdate=February 13, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20140815134909/http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml |archivedate=August 15, 2014  }}</ref> Boston has one of the [[LGBT demographics of the United States#By city|largest LGBT populations in the United States]].
+
+The [[Median income|median household income]] in Boston was $51,739, while the median income for a family was $61,035. Full-time year-round male workers had a median income of $52,544 versus $46,540 for full-time year-round female workers. The per capita income for the city was $33,158. 21.4% of the population and 16.0% of families are below the poverty line. Of the total population, 28.8% of those under the age of 18 and 20.4% of those 65 and older were living below the poverty line.<ref name="census3">{{cite web|url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_11_5YR_DP03 |title=Boston city, Massachusetts—DP03. Selected Economic Characteristics 2007–2011 American Community Survey 5-Year Estimates |year=2011 |publisher=United States Census Bureau |accessdate=February 13, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130916224703/http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_11_5YR_DP03 |archivedate=September 16, 2013  }}</ref>
+
+In 1950, [[Race (United States Census)|Whites]] represented 94.7% of Boston's population.<ref name="census4">{{cite web|title=Massachusetts – Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |accessdate=April 20, 2012 |deadurl=yes |archiveurl=https://www.webcitation.org/69hd5KAIE?url=http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archivedate=August 6, 2012 |df= }}</ref> From the 1950s to the end of the 20th century, the proportion of [[non-Hispanic whites]] in the city declined. In 2000, non-Hispanic whites made up 49.5% of the city's population, making the city [[majority minority]] for the first time. However, in the [[21st century]], the city has experienced significant [[gentrification]], in which affluent whites have moved into formerly non-white areas. In 2006, the US Census Bureau estimated non-Hispanic whites again formed a slight majority but {{As of|2010|lc=y}}, in part due to the housing crash, as well as increased efforts to make more affordable housing more available, the non-white population has rebounded. This may also have to do with increased [[Latin America]]n and [[Asian Americans|Asian]] populations and more clarity surrounding US Census statistics, which indicate a non-Hispanic white population of 47 percent (some reports give slightly lower figures).<ref>{{cite web |url=http://www.bestplaces.net/city/Boston_MA-PEOPLE-52507000010.aspx |archiveurl=https://web.archive.org/web/20080318095419/http://www.bestplaces.net/city/Boston_MA-PEOPLE-52507000010.aspx |archivedate=March 18, 2008 |title=Boston, Massachusetts |publisher=Sperling's BestPlaces |year=2008 |accessdate=April 6, 2008}}</ref><ref>{{cite news|url=http://www.boston.com/news/local/articles/2008/08/03/majority_minority_no_more/|work=The Boston Globe |title=Majority-minority no more?|accessdate=November 30, 2009 |first=Michael |last=Jonas |date=August 3, 2008}}</ref><ref>{{cite web |url=http://www.bostonredevelopmentauthoritynews.org/2011/03/23/boston-census-facts-figures/ |title=Boston 2010 Census: Facts & Figures |publisher=Boston Redevelopment Authority News |date=March 23, 2011 |accessdate=February 13, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120118161450/http://www.bostonredevelopmentauthoritynews.org/2011/03/23/boston-census-facts-figures/ |archivedate=January 18, 2012  }}</ref>
+
+{|class="wikitable"
+|+ Historical racial/ethnic composition
+! Race/ethnicity !! 2015<ref>{{cite web|url=https://www.census.gov/quickfacts/table/PST120215/00,25025,51760,11,42101|title=QuickFacts|publisher=United States Census Bureau}}</ref>!! 1990<ref name="census4"/> !! 1970<ref name="census4"/> !! 1940<ref name="census4"/>
+|-
+| [[White Americans|White]] (includes [[White Latin Americans|White Hispanics]])|| 62.1% || 62.8% || 81.8% || 96.7%
+|-
+| [[African Americans|Black]] || 24.7% || 25.6% || 16.3% || 3.1%
+|-
+| [[Asian Americans|Asian]] || 9.1% || 5.3% || 1.3% || 0.2%
+|-
+| [[Native Americans in the United States|Native American]] || 0.8% || 0.3% || 0.2% || –
+|-
+| [[Multiracial Americans|Two or more races]] || 3.1% || – || – || –
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) || 22.1% || 10.8% || 2.8% <ref name="fifteen">From 15% sample</ref> || 0.1%
+|-
+| [[Non-Hispanic whites]] || 46.2% || 59.0% || 79.5% <ref name="fifteen"/>|| 96.6%
+|}
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|+ '''Boston Racial Breakdown of Population (2017)'''<ref>{{cite web|url=https://www.census.gov/quickfacts/fact/table/bostoncitymassachusetts,US/PST045217|title=Boston city, Massachusetts QuickFacts from the US Census Bureau|work=census.gov}}</ref><ref>{{cite web|url=https://www.census.gov/quickfacts/fact/table/ma,US/PST045217|title=Massachusetts QuickFacts from the US Census Bureau|work=census.gov}}</ref>
+|-
+! Race
+! Percentage of <br>Boston<br>population
+! Percentage of<br>Massachusetts<br>population
+! Percentage of<br>United States<br>population
+! City-to-State<br>Difference
+! City-to-USA<br>Difference
+|-
+| [[White Americans|White]] || 53.0% || 81.3% || 76.6% || −28.3% || −23.6%
+|-
+| [[Non-Hispanic whites|White (Non-Hispanic)]] || 45.3% || 72.1% || 60.7% || −26.8% || −15.4%
+|-
+| [[African Americans|Black]] || 25.4% || 8.8% || 13.4% || +16.6% || +12.0%
+|-
+| [[Hispanic and Latino Americans|Hispanic]] || 19.0% || 11.9% || 18.1% || +7.1% || +0.9%
+|-
+| [[Asian Americans|Asian]] || 9.3% || 6.9% || 5.8% || +2.4% || +3.5%
+|-
+| [[Native Americans in the United States|Native Americans]]/[[Native Hawaiians|Hawaiians]] || 0.4% || 0.6% || 1.5% || −0.2% || −1.1%
+|-
+| [[Multiracial Americans|Two or more races]] || 4.9% || 2.4% || 2.7% || +2.5% || +2.2%
+|}
+
+[[File:Boston Chinatown Paifang.jpg|thumb|right|[[Chinatown, Boston|Chinatown]], with its [[paifang]] gate, is home to many [[Chinese Americans in Boston|Chinese]] and also [[Vietnamese Americans in Boston|Vietnamese]] restaurants.]]
+[[File:US Navy 090315-N-8110K-011 A crowd along a parade route in South Boston cheers Sailors from the guided-missile frigate USS Taylor (FFG 50) as they march in the 108th Annual St. Patrick's Day Parade.jpg|thumb|right|[[U.S. Navy]] sailors march in Boston's annual [[St. Patrick's Day Parade]]. [[History of Irish Americans in Boston|Irish Americans]] constitute the largest ethnicity in Boston.]]
+[[File:Were_a_gay_and_happy_family_wagon.jpg|thumb|right|Boston [[gay pride]] march, held annually in June]]
+
+People of [[History of Irish Americans in Boston|Irish]] descent form the largest single [[American ancestry|ethnic group]] in the city, making up 15.8% of the population, followed by [[Italian Americans|Italians]], accounting for 8.3% of the population. People of [[West Indies|West Indian]] and [[Caribbean]] ancestry are another sizable group, at 6.0%,<ref name="census2">{{cite web |url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml |title=Boston city, Massachusetts—DP02, Selected Social Characteristics in the United States 2007–2011 American Community Survey 5-Year Estimates |year=2011 |publisher=United States Census Bureau |accessdate=February 13, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20140815134909/http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml |archivedate=August 15, 2014 |df=mdy-all }}</ref> about half of whom are of [[Haitian Americans|Haitian]] ancestry. Over 27,000 [[Chinese Americans in Boston|Chinese Americans]] made their home in Boston city proper in 2013,<ref>{{cite web|url=http://factfinder.census.gov/bkmk/table/1.0/en/ACS/13_3YR/S0201/1600000US2507000/popgroup~016|title=SELECTED POPULATION PROFILE IN THE UNITED STATES 2011–2013 American Community Survey 3-Year Estimates – Chinese alone, Boston city, Massachusetts|publisher=United States Census Bureau|accessdate=January 15, 2016}}</ref> and the city hosts a growing [[Chinatown, Boston|Chinatown]] accommodating heavily traveled [[Chinatown bus lines|Chinese-owned bus lines]] to and from [[Chinatown, Manhattan]] in [[Chinese in New York City|New York City]]. Some neighborhoods, such as Dorchester, have received an influx of people of [[Vietnamese Americans in Boston|Vietnamese]] ancestry in recent decades. Neighborhoods such as Jamaica Plain and Roslindale have experienced a growing number of [[Dominican-Americans in Boston|Dominican Americans]].<ref>{{cite web |url=http://www.pluralism.org/files/wrgb/civic/New_Bostonians_2009.pdf |title=New Bostonians 2009 |date=October 2009 |publisher=Boston Redevelopment Authority/Research Division |accessdate=February 13, 2013}}</ref> The city and greater area also has a growing immigrant population of [[South Asian ethnic groups|South Asians]], including the [[Indian Americans#US Metropolitan areas with the largest population of Indian Americans|tenth-largest Indian population in the country]].
+
+The city, especially the [[East Boston]] neighborhood, has a significant Hispanic population. In 2010, Hispanics in Boston were mostly of [[Puerto Ricans in the United States|Puerto Rican]] (30,506 or 4.9% of total city population), [[Dominican American|Dominican]] (25,648 or 4.2% of total city population), [[Salvadoran Americans|Salvadoran]] (10,850 or 1.8% of city population), [[Colombian Americans|Colombian]] (6,649 or 1.1% of total city population), [[Mexican Americans|Mexican]] (5,961 or 1.0% of total city population), and [[Guatemalan Americans|Guatemalan]] (4,451 or 0.7% of total city population) ethnic origin. Hispanics of all national origins totaled 107,917 in 2010. In Greater Boston, these numbers grew significantly, with Puerto Ricans numbering 175,000+, Dominicans 95,000+, Salvadorans 40,000+, Guatemalans 31,000+, Mexicans 25,000+, and Colombians numbering 22,000+.<ref name="census">{{cite web|url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_SF1_QTP10&prodType=table |title=American FactFinder – Results |author=Data Access and Dissemination Systems (DADS) |publisher=census.gov |deadurl=yes |archiveurl=https://web.archive.org/web/20141218203429/http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_SF1_QTP10&prodType=table |archivedate=December 18, 2014  }}</ref>
+
+===Ancestry===
+According to the 2012–2016 American Community Survey 5-Year Estimates, the largest ancestry groups in Boston, Massachusetts are:<ref>{{cite web|url=https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t|title=PEOPLE REPORTING ANCESTRY 2012–2016 American Community Survey 5-Year Estimates|publisher=U.S. Census Bureau|accessdate=August 25, 2018}}</ref><ref>{{cite web |url=https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t|title=ACS DEMOGRAPHIC AND HOUSING ESTIMATES 2012–2016 American Community Survey 5-Year Estimates|publisher=[[United States Census Bureau|U.S. Census Bureau]] |accessdate=August 25, 2018}}</ref>
+
+{| class="wikitable sortable"
+|- valign=bottom
+! Ancestry
+! Percentage of<br>Boston<br>population
+! Percentage of<br>Massachusetts<br>population
+! Percentage of<br>United States<br>population
+! City-to-State<br>Difference
+! City-to-USA<br>Difference
+|-
+| [[Irish Americans|Irish]]
+| 14.06%
+| 21.16%
+| 10.39%
+| −7.10%
+| +3.67%
+|-
+| [[Italian Americans|Italian]]
+| 8.13%
+| 13.19%
+| 5.39%
+| −5.05%
+| +2.74%
+|-
+| [[West Indian Americans|West Indian]]
+| 6.92%
+| 1.96%
+| 0.90%
+| +4.97%
+| +6.02%
+|-
+| [[Puerto Ricans in the United States|Puerto Rican]]
+| 5.27%
+| 4.52%
+| 1.66%
+| +0.75%
+| +3.61%
+|-
+| [[Chinese Americans|Chinese]]
+| 4.57%
+| 2.28%
+| 1.24%
+| +2.29%
+| +3.33%
+|-
+| [[German Americans|German]]
+| 4.57%
+| 6.00%
+| 14.40%
+| −1.43%
+| −9.83%
+|-
+| [[English Americans|English]]
+| 4.54%
+| 9.77%
+| 7.67%
+| −5.23%
+| −3.13%
+|-
+| [[American ancestry|American]]
+| 4.13%
+| 4.26%
+| 6.89%
+| −0.13%
+| −2.76%
+|-
+| [[African immigration to the United States|Sub-Saharan African]]
+| 4.09%
+| 2.00%
+| 1.01%
+| +2.09%
+| +3.08%
+|-
+| [[Haitian Americans|Haitian]]
+| 3.58%
+| 1.15%
+| 0.31%
+| +2.43%
+| +3.27%
+|-
+| [[Polish Americans|Polish]]
+| 2.48%
+| 4.67%
+| 2.93%
+| −2.19%
+| −0.45%
+|-
+| [[Cape Verdean Americans|Cape Verdean]]
+| 2.21%
+| 0.97%
+| 0.03%
+| +1.24%
+| +2.18%
+|-
+| [[French Americans|French]]
+| 1.93%
+| 6.82%
+| 2.56%
+| −4.89%
+| −0.63%
+|-
+| [[Vietnamese Americans|Vietnamese]]
+| 1.76%
+| 0.69%
+| 0.54%
+| +1.07%
+| +1.22%
+|-
+| [[Jamaican Americans|Jamaican]]
+| 1.70%
+| 0.44%
+| 0.34%
+| +1.26%
+| +1.36%
+|-
+| [[Russian Americans|Russian]]
+| 1.62%
+| 1.65%
+| 0.88%
+| −0.03%
+| +0.74%
+|-
+| [[Indian Americans|Asian Indian]]
+| 1.31%
+| 1.39%
+| 1.09%
+| −0.08%
+| +0.22%
+|-
+| [[Scottish Americans|Scottish]]
+| 1.30%
+| 2.28%
+| 1.71%
+| −0.98%
+| −0.41%
+|-
+| [[French Canadian Americans|French Canadian]]
+| 1.19%
+| 3.91%
+| 0.65%
+| −2.71%
+| +0.54%
+|-
+| [[Mexican Americans|Mexican]]
+| 1.12%
+| 0.67%
+| 11.96%
+| +0.45%
+| −10.84%
+|-
+| [[Arab Americans|Arab]]
+| 1.10%
+| 1.10%
+| 0.59%
+| +0.00%
+| +0.50%
+|-
+|}
+
+===Demographic breakdown by ZIP Code===
+
+====Income====
+{{See also|List of Massachusetts locations by per capita income}}
+Data is from the 2008–2012 American Community Survey 5-Year Estimates.<ref>{{cite web |url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_12_5YR_DP03&prodType=table|title=SELECTED ECONOMIC CHARACTERISTICS 2008–2012 American Community Survey 5-Year Estimates|publisher=U.S. Census Bureau|accessdate=March 19, 2014}}</ref><ref>{{cite web |url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_12_5YR_DP05&prodType=table|title=ACS DEMOGRAPHIC AND HOUSING ESTIMATES 2008–2012 American Community Survey 5-Year Estimates|publisher=U.S. Census Bureau |accessdate=March 19, 2014}}</ref><ref>{{cite web |url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_12_5YR_S1101&prodType=table|title=HOUSEHOLDS AND FAMILIES 2008–2012 American Community Survey 5-Year Estimates|publisher=U.S. Census Bureau |accessdate=March 19, 2014}}</ref>
+{| class="wikitable sortable"
+|- valign=bottom
+! Rank
+! ZIP code (ZCTA)
+! Per capita<br />income
+! Median<br />household<br />income
+! Median<br />family<br />income
+! Population
+! Number of<br />households
+|-
+| 1
+| 02110 ([[Financial District, Boston|Financial District]])
+| $152,007
+| $123,795
+| $196,518
+| 1,486
+| 981
+|-
+| 2
+| 02199 ([[Prudential Tower|Prudential Center]])
+| $151,060
+| $107,159
+| $146,786
+| 1,290
+| 823
+|-
+| 3
+| 02210 ([[Fort Point, Boston|Fort Point]])
+| $93,078
+| $111,061
+| $223,411
+| 1,905
+| 1,088
+|-
+| 4
+| 02109 ([[North End, Boston|North End]])
+| $88,921
+| $128,022
+| $162,045
+| 4,277
+| 2,190
+|-
+| 5
+| 02116 ([[Back Bay, Boston|Back Bay]]/[[Bay Village, Boston|Bay Village]])
+| $81,458
+| $87,630
+| $134,875
+| 21,318
+| 10,938
+|-
+| 6
+| 02108 ([[Beacon Hill, Boston|Beacon Hill]]/Financial District)
+| $78,569
+| $95,753
+| $153,618
+| 4,155
+| 2,337
+|-
+| 7
+| 02114 (Beacon Hill/[[West End, Boston|West End]])
+| $65,865
+| $79,734
+| $169,107
+| 11,933
+| 6,752
+|-
+| 8
+| 02111 ([[Chinatown, Boston|Chinatown]]/Financial District/[[Leather District]])
+| $56,716
+| $44,758
+| $88,333
+| 7,616
+| 3,390
+|-
+| 9
+| 02129 ([[Charlestown, Boston|Charlestown]])
+| $56,267
+| $89,105
+| $98,445
+| 17,052
+| 8,083
+|-
+| 10
+| 02467 ([[Chestnut Hill, Massachusetts|Chestnut Hill]])
+| $53,382
+| $113,952
+| $148,396
+| 22,796
+| 6,351
+|-
+| 11
+| 02113 (North End)
+| $52,905
+| $64,413
+| $112,589
+| 7,276
+| 4,329
+|-
+| 12
+| 02132 ([[West Roxbury]])
+| $44,306
+| $82,421
+| $110,219
+| 27,163
+| 11,013
+|-
+| 13
+| 02118 ([[South End, Boston|South End]])
+| $43,887
+| $50,000
+| $49,090
+| 26,779
+| 12,512
+|-
+| 14
+| 02130 ([[Jamaica Plain]])
+| $42,916
+| $74,198
+| $95,426
+| 36,866
+| 15,306
+|-
+| 15
+| 02127 ([[South Boston]])
+| $42,854
+| $67,012
+| $68,110
+| 32,547
+| 14,994
+|-
+|
+| ''[[Massachusetts]]''
+| $35,485
+| $66,658
+| $84,380
+| 6,560,595
+| 2,525,694
+|-
+|
+| ''Boston''
+| $33,589
+| $53,136
+| $63,230
+| 619,662
+| 248,704
+|-
+|
+| ''[[Suffolk County, Massachusetts|Suffolk County]]''
+| $32,429
+| $52,700
+| $61,796
+| 724,502
+| 287,442
+|-
+| 16
+| 02135 ([[Brighton, Boston|Brighton]])
+| $31,773
+| $50,291
+| $62,602
+| 38,839
+| 18,336
+|-
+| 17
+| 02131 ([[Roslindale]])
+| $29,486
+| $61,099
+| $70,598
+| 30,370
+| 11,282
+|-
+|
+| ''[[United States]]''
+| $28,051
+| $53,046
+| $64,585
+| 309,138,711
+| 115,226,802
+|-
+| 18
+| 02136 ([[Hyde Park, Boston|Hyde Park]])
+| $28,009
+| $57,080
+| $74,734
+| 29,219
+| 10,650
+|-
+| 19
+| 02134 ([[Allston]])
+| $25,319
+| $37,638
+| $49,355
+| 20,478
+| 8,916
+|-
+| 20
+| 02128 ([[East Boston]])
+| $23,450
+| $49,549
+| $49,470
+| 41,680
+| 14,965
+|-
+| 21
+| 02122 ([[Dorchester, Boston|Dorchester]]-[[Fields Corner]])
+| $23,432
+| $51,798
+| $50,246
+| 25,437
+| 8,216
+|-
+| 22
+| 02124 (Dorchester-[[Codman Square District|Codman Square]]-[[Ashmont, Boston|Ashmont]])
+| $23,115
+| $48,329
+| $55,031
+| 49,867
+| 17,275
+|-
+| 23
+| 02125 (Dorchester-[[Uphams Corner]]-[[Savin Hill]])
+| $22,158
+| $42,298
+| $44,397
+| 31,996
+| 11,481
+|-
+| 24
+| 02163 (Allston-[[Harvard Business School]])
+| $21,915
+| $43,889
+| $91,190
+| 1,842
+| 562
+|-
+| 25
+| 02115 (Back Bay/[[Fenway–Kenmore]])
+| $21,654
+| $23,677
+| $50,303
+| 29,178
+| 9,958
+|-
+| 26
+| 02126 ([[Mattapan]])
+| $20,649
+| $43,532
+| $52,774
+| 27,335
+| 9,510
+|-
+| 27
+| 02215 (Fenway-Kenmore)
+| $19,082
+| $30,823
+| $72,583
+| 23,719
+| 7,995
+|-
+| 28
+| 02119 ([[Roxbury, Boston|Roxbury]])
+| $18,998
+| $27,051
+| $35,311
+| 24,237
+| 9,769
+|-
+| 29
+| 02121 (Dorchester-Mount Bowdoin)
+| $18,226
+| $30,419
+| $35,439
+| 26,801
+| 9,739
+|-
+| 30
+| 02120 ([[Mission Hill, Boston|Mission Hill]])
+| $17,390
+| $32,367
+| $29,583
+| 13,217
+| 4,509
+|}
+
+===Religion===
+
+[[File:OldSouthChurchBoston.JPG|thumbnail|200px|[[Old South Church]], a [[United Church of Christ]] congregation first organized in 1669]]
+
+According to a 2014 study by the [[Pew Research Center]], 57% of the population of the city identified themselves as [[Christians]], with 25% attending a variety [[Protestantism|Protestant]] churches and 29% professing [[Catholic Church|Roman Catholic]] beliefs;<ref>[http://www.pewresearch.org/fact-tank/2015/07/29/major-u-s-metropolitan-areas-differ-in-their-religious-profiles/ Major U.S. metropolitan areas differ in their religious profiles], Pew Research Center</ref><ref>{{cite web |url=http://www.pewforum.org/2015/05/12/americas-changing-religious-landscape/ |title=America's Changing Religious Landscape |publisher=[[Pew Research Center]]: Religion & Public Life |date=May 12, 2015}}</ref> 33% claim [[Irreligion|no religious affiliation]], while the remaining 10% are made up of adherents of [[Judaism]], [[Buddhism]], [[Islam]], [[Hinduism]] and other faiths.
+
+{{As of|2010}} the Catholic Church had the highest number of adherents as a single denomination in the Boston-Cambridge-Newton Metro area, with more than two million members and 339 churches, followed by the Episcopal Church with 58,000 adherents in 160 churches. The [[United Church of Christ]] had 55,000 members and 213 churches.<ref>{{cite web|url=http://www.thearda.com/rcms2010/r/m/14460/rcms2010_14460_metro_name_2010.asp|title=The Association of Religion Data Archives – Maps & Reports|publisher=}}</ref> The UCC is the successor of the city's Puritan religious traditions. [[Old South Church]] in Boston is one of the oldest congregations in the United States. It was organized in 1669 by dissenters from the First Church in Boston (1630). Past members include Samuel Adams, William Dawes, Benjamin Franklin, Samuel Sewall, and Phillis Wheatley. In 1773, Adams gave the signals from the [[Old South Meeting House]] that started the Boston Tea Party.
+
+The city has a [[American Jews|Jewish population]] with an estimated 248,000 Jews within the Boston metro area.<ref name=2015bjcs>{{cite web|url=http://www.brandeis.edu/ssri/pdfs/communitystudies/GreaterBostonJewishCommStudy2015.pdf |title=2015 Greater Boston Jewish Community Study |publisher=Maurice and Marilyn Cohen Center for Modern Jewish Studies, Brandeis University |accessdate=November 24, 2016 }}</ref> More than half of Jewish households in the Greater Boston area reside in the city itself, Brookline, Newton, Cambridge, Somerville, or adjacent towns.<ref name=2015bjcs/>
+
+==Economy==
+{{See also|Greater Boston#Major companies|l1=Major companies in Greater Boston}}
+
+{|class="toc" style="float:left; font-size:90%; text-align:center; margin:1em;"
+|-
+| colspan="7" style="background:tan;"|'''Top publicly traded Boston companies for 2018'''<br />(ranked by revenues)<br />''with City and U.S. ranks''<br><small>Source: ''Fortune 500''<ref name="Fortune_500">{{cite web|url=http://fortune.com/fortune500/list/filtered?hqcity=Springfield|title=Fortune 500 Companies 2018: Who Made The List|website=Fortune|publisher=[[Meredith Corporation]]|access-date=October 1, 2018}}</ref></small>
+|- style="background:#ccc;"
+|| '''Bos.'''|||| style="background:#ccc;"|'''Corporation'''|||| style="background:#ccc;"|'''US'''|||| style="background:#ccc;"|'''Revenue'''<br>(in millions)
+|-
+| 1||||[[General Electric]]||||18||||$122,274
+|-
+| 2||||[[Liberty Mutual]]||||68||||$42,687
+|-
+| 3||||[[State Street Corporation|State Street]]||||259||||$11,774
+|-
+| 4||||[[American Tower]]||||419||||$6,663.9
+|-
+| colspan="7" style="background:tan;"|'''Top City Employers'''<br><small>Source: ''MA Executive Office of Labor<br> and Workforce Development''</small><ref name="cmwlthemploy">''MA Executive Office of Labor and Workforce Development'': [http://lmi2.detma.org/lmi/Top_employer_list.asp?gstfips=25&areatype=04&gCountyCode=000025 Largest 200 Employers in Suffolk County] (2017). Retrieved on May 10, 2017.</ref>
+|-
+| style="background:#ccc;"|'''Rank'''|||| colspan="5" style="background:#ccc;"|'''Company/Organization'''||
+|-
+| 1
+|
+|colspan="5"|[[Brigham and Women's Hospital]]
+|-
+| 2
+|
+|colspan="5"|[[Massachusetts General Hospital]]
+|-
+| 3
+|
+|colspan="5"|[[Beth Israel Deaconess Medical Center]]
+|-
+| 4
+|
+|colspan="5"|[[Boston Children's Hospital]]
+|-
+| 5
+|
+|colspan="5"|[[Boston Medical Center]]
+|-
+| 6
+|
+|colspan="5"|[[Boston University School of Medicine|BU School of Medicine]]
+|-
+| 7
+|
+|colspan="5"|[[Boston University]]
+|-
+| 8
+|
+|colspan="5"|[[Floating Hospital for Children]]
+|-
+| 9
+|
+|colspan="5"|[[John Hancock Financial]]
+|-
+| 10
+|
+|colspan="5"|[[Liberty Mutual]]
+|}
+{{Pie chart
+| thumb = right
+| caption = '''Distribution of Greater Boston [[New England city and town area|NECTA]] Labor Force''' (2016)<ref>{{cite web|url=https://factfinder.census.gov/bkmk/table/1.0/en/ACS/16_5YR/C24050/360M300US2571650|title=Industry by Occupation for the Civilian Employed Population 16 Years and Over [Boston-Cambridge-Nashua, MA-NH Metropolitan NECTA]|publisher=US Census Bureau|year=2016}}</ref>
+| other = 
+| label1 =Nat'l resources & mining
+| value1 =0
+| color1 =#fdfff7
+| label2 =Construction
+| value2 =5
+| color2 =#008d8c 
+| label3 =Manufacturing
+| value3 =8
+| color3 =#42327c
+| label4 =Trade, transportation & utilities
+| value4 =15
+| color4 =#ff6600 
+| label5 =Information
+| value5 =3
+| color5 =#282f27
+| label6 =Finance & real estate
+| value6 =8
+| color6 =#981800
+| label7 =Professional & business services 
+| value7 =15
+| color7 =#4d2906
+| label8 =Educational & health services
+| value8 =28
+| color8 =#006f47
+| label9 =Leisure & hospitality
+| value9 =9
+| color9 =#f3d827
+| label10 =Other services
+| value10 =4
+| color10 =#a3c409
+| label11 =Government
+| value11 =4
+| color11 =#c31074
+}}
+A [[global city]], Boston is placed among the top 30 most economically powerful cities in the world.<ref>{{cite web|url=https://www.theatlantic.com/business/archive/2012/05/what-is-the-worlds-most-economically-powerful-city/256841/|title=What Is the World's Most Economically Powerful City?|author=Florida, Richard|publisher=The Atlantic Monthly Group|date=May 8, 2012|accessdate=February 21, 2013}}</ref> Encompassing $363&nbsp;billion, the [[Greater Boston]] metropolitan area has the [[List of cities by GDP|sixth-largest economy in the country and 12th-largest in the world]].<ref name="pricewater">{{cite web|url=https://www.ukmediacentre.pwc.com/Content/Detail.asp?ReleaseID=3421&NewsAreaID=2 |title=Global city GDP rankings 2008–2025 |publisher=Pricewaterhouse Coopers |accessdate=November 20, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20110513194342/https://www.ukmediacentre.pwc.com/Content/Detail.asp?ReleaseID=3421&NewsAreaID=2 |archivedate=May 13, 2011  }}</ref>
+
+Boston's colleges and universities exert a significant impact on the regional economy. Boston attracts more than 350,000 college students from around the world, who contribute more than US$4.8&nbsp;billion annually to the city's economy.<ref>{{cite web |url=http://www.bls.gov/opub/mlr/2009/06/regrep.pdf |title=The prominence of Boston area colleges and universities |author=McSweeney, Denis M. |accessdate=April 25, 2014}}</ref><ref>{{cite web |url=http://www.bostonredevelopmentauthority.org/PDF/ResearchPublications//pdr_563.pdf |format=PDF |title=Leadership Through Innovation: The History of Boston's Economy |year=2003 |publisher=Boston Redevelopment Authority |accessdate=May 6, 2012 |archiveurl=https://web.archive.org/web/20101006105936/http://bostonredevelopmentauthority.org/pdf/ResearchPublications//pdr_563.pdf |archivedate=October 6, 2010}}</ref> The area's schools are major employers and attract industries to the city and surrounding region. The city is home to a number of technology companies and is a hub for [[biotechnology]], with the [[Milken Institute]] rating Boston as the top [[List of life sciences|life sciences]] cluster in the country.<ref>{{cite news|url=http://www.boston.com/business/ticker/2009/05/milken_report_h.html|title=Milken report: The Hub is still tops in life sciences|accessdate=August 25, 2009|work=The Boston Globe |date=May 19, 2009 |archiveurl=https://web.archive.org/web/20090523105412/http://www.boston.com/business/ticker/2009/05/milken_report_h.html |archivedate=May 23, 2009}}</ref> Boston receives the highest absolute amount of annual funding from the [[National Institutes of Health]] of all cities in the United States.<ref>{{cite web |url=http://www.ssti.org/Digest/Tables/022006t.htm |title=Top 100 NIH Cities |year=2004 |publisher=SSTI.org |accessdate=February 19, 2007}}</ref>
+
+The city is considered highly innovative for a variety of reasons, including the presence of [[academia]], access to [[venture capital]], and the presence of many [[high-tech]] companies.<ref name="Kirsner"/><ref>{{cite web|url=http://www.talentculture.com/feature/boston-the-city-of-innovation/ |title=Boston: The City of Innovation |publisher=TalentCulture |date=August 2, 2010|accessdate=August 30, 2010}}</ref> The [[Massachusetts Route 128|Route 128 corridor]] and Greater Boston continue to be a major center for venture capital investment,<ref>{{cite web|url=http://nvca.org/research/venture-investment/|title=Venture Investment – Regional Aggregate Data|publisher=National Venture Capital Association|accessdate=January 17, 2016}}</ref> and high technology remains an important sector.
+
+[[Tourism]] also composes a large part of Boston's economy, with 21.2 million domestic and international visitors spending $8.3&nbsp;billion in 2011.<ref>{{cite web |url=http://www.bostonusa.com/partner/press/pr/statistics |title=Tourism Statistics & Reports |year=2009–2011 |publisher=Greater Boston Convention and Visitors Bureau |accessdate=February 20, 2013}}</ref> Excluding visitors from [[Canada]] and [[Mexico]], over 1.4 million international tourists visited Boston in 2014, with those from [[China]] and the [[United Kingdom]] leading the list.<ref>{{cite web |url=http://www.bostonusa.com/partner/press/press-releases/view/GBCVB-Massport-Celebrate-Record-Number-of-International-Visitors-in-2014-/113/ |title=GBCVB, Massport Celebrate Record Number of International Visitors in 2014 |publisher=Greater Boston Convention and Visitors Bureau|date=August 21, 2015|accessdate=January 17, 2016}}</ref> Boston's status as a state capital as well as the regional home of federal agencies has rendered law and government to be another major component of the city's economy.<ref name="economy"/><ref>CASE STUDY: City of Boston, Massachusetts;[https://www.costtree.net/case-study-city-boston-massachusetts Cost Plans for Governments]</ref> The city is a major [[Port of Boston|seaport]] along the East Coast of the United States and the oldest continuously operated industrial and fishing port in the [[Western Hemisphere]].<ref>{{cite web |url=http://www.massport.com/ports/about_histo.html |title=About the Port – History |year=2007 |publisher=Massport |accessdate=April 28, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070702080554/http://www.massport.com/ports/about_histo.html |archivedate=July 2, 2007  }}</ref>
+
+The [[financial services]] industry is important to Boston, especially involving [[mutual fund]]s and insurance.<ref name="economy"/> In the 2018 [[Global Financial Centres Index]], Boston was ranked as having the thirteenth most competitive financial center in the world and the second most competitive in the United States.<ref>{{cite web|url=https://www.zyen.com/media/documents/GFCI_24_final_Report_7kGxEKS.pdf|title=The Global Financial Centres Index 24|date=September 2018|publisher=Zyen}}</ref> Boston-based [[Fidelity Investments]] helped popularize the mutual fund in the 1980s and has made Boston one of the top financial centers in the United States.<ref>{{cite web |author=Yeandle, Mark |url=http://www.zyen.com/GFCI/GFCI%209.pdf |format=PDF |title=The Global Financial Centres Index 9 |date=March 2011 |publisher=[[Z/Yen|The Z/Yen Group]] |page=4 |accessdate=January 31, 2013 |archive-url=https://www.webcitation.org/6BOkds0zV?url=http://www.zyen.com/GFCI/GFCI%209.pdf |archive-date=October 14, 2012 |dead-url=yes |df=mdy-all }}</ref><ref>{{cite web|url=http://www.investopedia.com/articles/financialcareers/top-10-financial-career-cities.asp|title=Top 10 Cities For A Career In Finance |publisher=Investopedia.com |accessdate=May 13, 2010}}</ref> The city is home to the headquarters of [[Santander Bank]], and Boston is a center for [[venture capital]] firms. [[State Street Corporation]], which specializes in asset management and custody services, is based in the city. Boston is a printing and [[publishing]] center<ref>{{cite web |url=http://www.bostonredevelopmentauthority.org/PDF/ResearchPublications/pdr529.pdf |title=History of Boston's Economy – Growth and Transition 1970–1998 |publisher=Boston Redevelopment Authority |date=November 1999 |page=9 |accessdate=March 12, 2013 |archiveurl=https://web.archive.org/web/20130723053431/http://www.bostonredevelopmentauthority.org/PDF/ResearchPublications/pdr529.pdf |archivedate=July 23, 2013}}</ref>—[[Houghton Mifflin Harcourt]] is headquartered within the city, along with [[Bedford-St. Martin's|Bedford-St. Martin's Press]] and [[Beacon Press]]. [[Pearson PLC]] publishing units also employ several hundred people in Boston. The city is home to three major [[convention center]]s—the [[Hynes Convention Center]] in the Back Bay, and the [[Seaport Hotel and Seaport World Trade Center|Seaport World Trade Center]] and [[Boston Convention and Exhibition Center]] on the [[South Boston waterfront]].<ref>{{cite book |title=Frommer's Boston 2007 |last=Morris |first=Marie |edition=2 |publisher=John Wiley & Sons |year=2006 |page=59 |isbn=978-0-470-08401-4}}</ref> The [[General Electric Corporation]] announced in January 2016 its decision to move the company's global headquarters to the [[Seaport District]] in Boston, from [[Fairfield, Connecticut]], citing factors including Boston's preeminence in the realm of [[higher education]].<ref>{{cite web |url=http://boston.cbslocal.com/2016/01/13/general-electric-corporate-headquarters-boston-ge/|title=General Electric To Move Corporate Headquarters To Boston|publisher=CBS Local Media|date=January 13, 2016|accessdate=January 15, 2016}}</ref> Boston is home to the headquarters of several major athletic and footwear companies including [[Converse (shoe company)|Converse]], [[New Balance]], and [[Reebok]]. [[Rockport (company)|Rockport]], [[Puma (brand)|Puma]] and [[Wolverine World Wide|Wolverine World Wide, Inc.]] headquarters or regional offices<ref>{{Cite news|url=http://www.omaha.com/money/top-shoe-brands-like-reebok-and-converse-move-headquarters-to/article_d5a19ef4-33bc-5ae7-8fa6-17cb513598df.html|title=Top shoe brands, like Reebok and Converse, move headquarters to Boston|newspaper=Omaha.com|language=en|access-date=January 19, 2017}}</ref> are just outside the city.<ref>{{Cite news|url=http://www.bostonmagazine.com/news/blog/2016/11/03/reebok-boston/|title=Reebok Is Moving to Boston|last=|first=|date=|work=|newspaper=Boston Magazine|language=en-US|access-date=January 19, 2017|via=}}</ref>
+
+==Education==
+
+===Primary and secondary education===
+[[File:Boston Latin School -.jpg|thumb|alt=Three-story brick building façade with three white columns surrounding a brown wooden door located on the ground floor|[[Boston Latin School]] was established in 1635 and is the oldest public high school in the US.]]
+
+The [[Boston Public Schools]] enroll 57,000 students attending 145 schools, including the renowned [[Boston Latin Academy]], [[John D. O'Bryant School of Mathematics & Science|John D. O'Bryant School of Math & Science]], and [[Boston Latin School]]. The Boston Latin School was established in 1635 and is the oldest public high school in the US. Boston also operates the United States' second-oldest public high school and its oldest public elementary school.<ref name="BPS"/> The system's students are 40% Hispanic or Latino, 35% Black or African American, 13% White, and 9% Asian.<ref>{{cite web |url=http://www.bostonpublicschools.org/cms/lib07/MA01906464/Centricity/Domain/238/BPS%20at%20a%20Glance%2014-0502.pdf |title=BPS at a glance |publisher=bostonpublicschools.org}}</ref> There are private, parochial, and [[charter school]]s as well, and approximately 3,300 minority students attend participating suburban schools through the [[METCO|Metropolitan Educational Opportunity Council]].<ref>{{cite web | url=http://www.doe.mass.edu/metco/ | title=Metco Program | publisher=Massachusetts Department of Elementary & Secondary Education | date=June 16, 2011| accessdate=February 20, 2013}}</ref>
+
+===Higher education===
+{{See also|List of colleges and universities in metropolitan Boston}}
+
+[[File:Boston college town map.png|thumbnail|left|Map of Boston-area universities]]
+[[File:MIT Building 10 and the Great Dome, Cambridge MA.jpg|thumb|alt=MIT Building 10 and the Great Dome, Cambridge Massachusetts|[[Massachusetts Institute of Technology]] (MIT) is often cited as among the world's top universities.]]
+[[File:Harvard business school baker library 2009a.JPG|thumb|upright|[[Harvard Business School]], one of the country's top [[business school]]s]]
+
+Some of the most renowned and highly ranked universities in the world are near Boston.<ref>{{cite web |url=http://www.shanghairanking.com/ARWU2015.html |title=Academic Ranking of World Universities 2015 |publisher=ShanghaiRanking Consultancy |accessdate=January 16, 2016}}</ref><ref>{{cite web |url=http://cwur.org/2015/ |title=CWUR 2015 – World University Rankings |publisher=Center for World University Rankings |accessdate=January 16, 2016}}</ref> Three universities with a major presence in the city, [[Harvard University|Harvard]], [[Massachusetts Institute of Technology|MIT]], and [[Tufts University|Tufts]], are just outside of Boston in the cities of [[Cambridge, Massachusetts|Cambridge]] and [[Somerville, Massachusetts|Somerville]], known as the ''Brainpower Triangle''.<ref>{{cite news|url=http://www.thenew-media.info/cambridge-usa.htm|title=Brainpower Triangle Cambridge Massachusetts – New Media Technology and Tech Clusters|work=the New Media|accessdate=May 8, 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160714170557/http://www.thenew-media.info/cambridge-usa.htm|archivedate=July 14, 2016}}</ref> Harvard is the nation's oldest institute of higher education and is centered across the Charles River in Cambridge, though the majority of its land holdings and a substantial amount of its educational activities are in Boston. Its [[Harvard Business School|business]], [[Harvard Medical School|medical]], [[Harvard School of Dental Medicine|dental]], and [[Harvard School of Public Health|public health]] schools are in Boston's [[Allston]] and [[Longwood Medical and Academic Area|Longwood]] neighborhoods, and Harvard plans to expand into Allston.<ref>{{cite news |author=Kladko, Brian |url=http://boston.bizjournals.com/boston/stories/2007/04/23/story2.html?i=79430&b=1177300800%5E1449823 |title=Crimson Tide |date=April 20, 2007|work=Boston Business Journal |accessdate=April 28, 2007}}</ref>
+
+The [[Massachusetts Institute of Technology]] (MIT) originated in Boston and was long known as "[[History of the Massachusetts Institute of Technology#Boston Tech (1865–1916)|Boston Tech]]"; it moved across the river to Cambridge in 1916.<ref>{{cite web |url=https://mitpress.mit.edu/books/when-mit-was-boston-tech |title=The MIT Press: When MIT Was "Boston Tech" |publisher=The MIT Press |year=2013 |accessdate=March 5, 2013}}</ref> [[Tufts University]]'s main campus is north of the city in [[Somerville, Massachusetts|Somerville]] and [[Medford, Massachusetts|Medford]], though it locates its medical and dental schools in Boston's Chinatown at [[Tufts Medical Center]], a 451-bed academic medical institution that is home to a full-service hospital for adults and the Floating Hospital for Children.<ref>{{cite web |url=http://campusmaps.tufts.edu/boston/ |title=Boston Campus Map |publisher=Tufts University |year=2013 |accessdate=February 13, 2013}}</ref>
+
+Four members of the [[Association of American Universities]] are in Greater Boston (more than any other metropolitan area): [[Harvard University]], the [[Massachusetts Institute of Technology]], [[Boston University]], and [[Brandeis University]].<ref>{{cite web|title=MEMBER INSTITUTIONS AND YEARS OF ADMISSION|url=http://www.aau.edu/about/article.aspx?id=5476|website=Association of American Universities|accessdate=July 17, 2014}}</ref> Furthermore, Greater Boston contains seven [[List of research universities in the United States#Universities classified as "R1: Doctoral Universities – Highest Research Activity"|Highest Research Activity (R1) Universities]] as per the [[Carnegie Classification of Institutions of Higher Education|Carnegie Classification]]. This includes, in addition to the aforementioned four, [[Boston College]], [[Northeastern University]], and [[Tufts University]]. This is, by a large margin, the highest concentration of such institutions in a single metropolitan area.
+Hospitals, universities, and research institutions in Greater Boston received more than $1.77 billion in [[National Institutes of Health]] grants in 2013, more money than any other American metropolitan area.<ref>{{cite news|last1=Jan|first1=Tracy|title=Rural states seek to sap research funds from Boston|publisher=The Boston Globe|date=April 2, 2014}}</ref>
+
+Greater Boston has more than 100 colleges and universities, with 250,000 students enrolled in Boston and Cambridge alone.<ref>{{cite web |url=http://www.bu.edu/metinternational/discover/city-of-boston/ |archiveurl=https://web.archive.org/web/20140222040537/http://www.bu.edu/metinternational/discover/city-of-boston/ |archivedate=February 22, 2014 |title=City of Boston |year=2014 |publisher=Boston University |accessdate=February 9, 2014}}</ref> The city's largest private universities include [[Boston University]] (also the city's fourth-largest employer),<ref>{{cite web|url=http://www.bostonredevelopmentauthority.org/PDF/ResearchPublications//pdr509.pdf |format=PDF|title=The Largest Employers in the City of Boston |publisher=Boston Redevelopment Authority |year=1996–1997 |accessdate=May 6, 2012 |archiveurl=https://web.archive.org/web/20130723052530/http://www.bostonredevelopmentauthority.org/PDF/ResearchPublications//pdr509.pdf |archivedate=July 23, 2013}}</ref> with its main campus along [[Commonwealth Avenue (Boston)|Commonwealth Avenue]] and a medical campus in the [[South End, Boston|South End]], [[Northeastern University]] in the [[Fenway–Kenmore|Fenway]] area,<ref>{{cite news |url=http://colleges.usnews.rankingsandreviews.com/best-colleges/northeastern-university-2199|title=Northeastern University |work=U.S. News and World Reports |year=2013 |accessdate=February 5, 2013}}</ref> [[Suffolk University]] near [[Beacon Hill, Boston|Beacon Hill]], which includes [[Suffolk University Law School|law school]] and [[Sawyer Business School|business school]],<ref>{{cite news |url=http://colleges.usnews.rankingsandreviews.com/best-colleges/suffolk-university-2218 |title=Suffolk University |work=U.S. News and World Reports |year=2013 |accessdate=February 13, 2013}}</ref> and [[Boston College]], which straddles the Boston (Brighton)–Newton border.<ref>{{cite news |author=Laczkoski, Michelle |url=http://dailyfreepress.com/2006/02/27/bc-outlines-move-into-allston-brighton/ |title=BC outlines move into Allston-Brighton |date=February 27, 2006|work=The Daily Free Press |publisher=Boston University |accessdate=May 6, 2012}}</ref> Boston's only public university is the [[University of Massachusetts Boston]] on Columbia Point in [[Dorchester, Massachusetts|Dorchester]]. [[Roxbury Community College]] and [[Bunker Hill Community College]] are the city's two public community colleges. Altogether, Boston's colleges and universities employ more than 42,600 people, accounting for nearly seven percent of the city's workforce.<ref>{{cite web |url=http://www.bostonredevelopmentauthority.org/getattachment/3488e768-1dd4-4446-a557-3892bb0445c6/ |title=Boston By The Numbers |publisher=City of Boston |accessdate=June 9, 2014}}</ref>
+
+Smaller private colleges include [[Babson College]], [[Bentley University]], [[Boston Architectural College]], [[Emmanuel College (Massachusetts)|Emmanuel College]], [[Fisher College]], [[MGH Institute of Health Professions]], [[MCPHS University|Massachusetts College of Pharmacy and Health Sciences]], [[Simmons College]], [[Wellesley College]], [[Wheelock College]], [[Wentworth Institute of Technology]], [[New England School of Law]] (originally established as America's first all female law school),<ref>{{cite web |url=http://www.nesl.edu/engaged/history.cfm |title=History of NESL |publisher=New England School of Law |year=2010|accessdate=October 17, 2010}}</ref> and [[Emerson College]].<ref>{{cite news|url=http://colleges.usnews.rankingsandreviews.com/best-colleges/emerson-college-2146 |title=Emerson College |work=U.S. News and World Reports |year=2013 |accessdate=February 6, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130130033857/http://colleges.usnews.rankingsandreviews.com/best-colleges/emerson-college-2146 |archivedate=January 30, 2013 |df= }}</ref>
+
+Metropolitan Boston is home to several [[music school|conservatories]] and art schools, including [[Lesley University|Lesley University College of Art and Design]], [[Massachusetts College of Art and Design|Massachusetts College of Art]], the [[School of the Museum of Fine Arts at Tufts|School of the Museum of Fine Arts]], [[New England Institute of Art]], [[New England School of Art and Design]] (Suffolk University), [[Longy School of Music of Bard College]], and the [[New England Conservatory of Music|New England Conservatory]] (the oldest independent conservatory in the United States).<ref>{{cite web |url=http://www.newenglandconservatory.edu/reports_factsheets/briefhistory.html |title=A Brief History of New England Conservatory |year=2007 |publisher=New England Conservatory of Music |accessdate=April 28, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20081120101156/http://www.newenglandconservatory.edu//reports_factsheets/briefhistory.html |archivedate=November 20, 2008  }}</ref> Other conservatories include the [[Boston Conservatory]] and [[Berklee College of Music]], which has made Boston an important city for jazz music.<ref>{{cite book |title=College Guide for Performing Arts Majors: The Real-World Admission Guide for Dance, Music, and Theater Majors |last=Everett |first=Carole J. |publisher=Peterson's |year=2009 |pages=199–200 |isbn=978-0-7689-2698-9}}</ref>
+
+== Public safety ==
+
+[[File:Boston Police cruiser on Beacon Street.jpg|thumb|left|alt=White Boston Police car with blue and gray stripes down the middle|A Boston Police cruiser on Beacon Street]]
+
+Like many major American cities, Boston has seen a great reduction in violent crime since the early 1990s. Boston's low crime rate since the 1990s has been credited to the [[Boston Police Department]]'s collaboration with neighborhood groups and church parishes to prevent youths from joining gangs, as well as involvement from the [[United States Attorney|United States Attorney and District Attorney]]'s offices. This helped lead in part to what has been touted as the "Boston Miracle". Murders in the city dropped from 152 in 1990 (for a murder rate of 26.5 per 100,000 people) to just 31—not one of them a juvenile—in 1999 (for a murder rate of 5.26 per 100,000).<ref name="End of a Miracle">{{cite web |author=Winship, Christopher |date=March 2002 |url=http://www.wjh.harvard.edu/soc/faculty/winship/End_of_a_Miracle.pdf |format=PDF |title=End of a Miracle? |publisher=Harvard University |accessdate=February 19, 2007 |archiveurl=https://web.archive.org/web/20120522063733/http://www.wjh.harvard.edu/soc/faculty/winship/End_of_a_Miracle.pdf |archivedate=May 22, 2012}}</ref>
+
+In 2008, there were 62 reported homicides.<ref name="BostonCrimeStats">{{cite web | url=http://www.cityofboston.gov/Images_Documents/2008Crime%20Summary_tcm3-8952.pdf | title=2008 Crime Summary Report | publisher=The Boston Police Department Office Research and Development | year=2008| page=5 | accessdate=February 20, 2013}}</ref> Through December 30, 2016, major crime was down seven percent and there were 46 homicides compared to 40 in 2015.<ref>{{cite news |last=Ransom |first= Jan |url=https://www.bostonglobe.com/metro/2016/12/30/city-homicides-slightly-shootings-down/KtxyWCepCyDsskgbUMZulL/story.html |title=Boston's homicides up slightly, shootings down |work=[[Boston Globe]] |date=December 31, 2016 |accessdate=December 31, 2016 }}</ref>
+
+== Culture ==
+{{Main|Culture in Boston}}
+{{See also|List of annual events in Boston|List of arts organizations in Boston|Sites of interest in Boston}}
+
+[[File:Old State House Boston Massachusetts2.jpg|thumb|left|upright|220px|right|alt=Colonial style red brick building with a white cupola in an urban setting|The [[Old State House (Boston)|Old State House]], a museum on the [[Freedom Trail]] and the site of the [[Boston Massacre]]]]
+[[File:OldCornerBookstore08.JPG|thumbnail|left|In the nineteenth century, the [[Old Corner Bookstore]] became a gathering place for writers, including [[Ralph Waldo Emerson|Emerson]], [[Henry David Thoreau|Thoreau]], and [[Margaret Fuller]]. Here [[James Russell Lowell]] printed the first editions of ''[[The Atlantic Monthly]]''.]]
+
+Boston shares many cultural roots with greater New England, including a dialect of the non-[[Rhoticity in English|rhotic]] Eastern [[New England English|New England accent]] known as the [[Boston accent]]{{sfn|Vorhees|2009|p=52}} and a [[New England cuisine|regional cuisine]] with a large emphasis on seafood, salt, and dairy products.{{sfn|Vorhees|2009|pp=148–151}} Boston also has its own collection of [[neologism]]s known as ''Boston slang''.<ref>{{cite news |url=http://www.boston.com/news/local/massachusetts/articles/2008/05/25/my_word/ |title=Wicked good Bostonisms come, and mostly go |accessdate=May 2, 2009 |last=Baker |first=Billy |date=May 25, 2008 |work=The Boston Globe }}</ref>
+
+In the early 1800s, [[William Tudor (1779–1830)|William Tudor]] wrote that Boston was "'perhaps the most perfect and certainly the best-regulated democracy that ever existed. There is something so impossible in the immortal fame of Athens, that the very name makes everything modern shrink from comparison; but since the days of that glorious city I know of none that has approached so near in some points, distant as it may still be from that illustrious model.'<ref name=Vennochi>{{cite news | first = Joan | last = Vennochi | title = NAACP report shows a side of Boston that Amazon isn't seeing | date = October 24, 2017 | accessdate = October 24, 2017| publisher = The Boston Globe | url = https://www.bostonglobe.com/opinion/2017/10/23/naacp-report-shows-side-boston-that-amazon-isn-seeing/eDmdfERav70OLfWige6cxO/story.html }}</ref> From this, Boston has been called the "[[Athens]] of America" (also a nickname of [[Philadelphia]]<ref>{{cite web|url=http://www.librarycompany.org/artifacts/athens.htm |title=LCP Art & Artifacts|date=2007|publisher=Library Company of Philadelphia}}</ref>) for its [[literary genre|literary culture]], earning a reputation as "the intellectual capital of the United States."<ref name="auto">{{cite book|last1=Bross|first1=Tom|last2=Harris|first2=Patricia|last3=Lyon|first3=David|title=Boston|date=2008|publisher=Dorling Kindersley|location=London|page=22}}</ref>
+
+In the nineteenth century, [[Ralph Waldo Emerson]], [[Henry David Thoreau]], [[Nathaniel Hawthorne]], [[Margaret Fuller]], [[James Russell Lowell]], and [[Henry Wadsworth Longfellow]] wrote in Boston. Some consider the [[Old Corner Bookstore]] to be the "cradle of American literature," the place where these writers met and where ''[[The Atlantic Monthly]]'' was first published.<ref>{{cite book|last1=Bross|first1=Tom|last2=Harris|first2=Patricia|last3=Lyon|first3=David|title=Boston|date=2008|publisher=Dorling Kindersley|location=London|page=59}}</ref> In 1852, the [[Boston Public Library]] was founded as the first free library in the United States.<ref name="auto"/> Boston's literary culture continues today thanks to the city's many universities and the [[Boston Book Festival]].
+
+Music is afforded a high degree of [[civic engagement|civic support]] in Boston. The [[Boston Symphony Orchestra]] is one of the "[[Big Five (orchestras)|Big Five]]," a group of the greatest American orchestras, and the classical music magazine ''[[Gramophone (magazine)|Gramophone]]'' called it one of the "world's best" orchestras.<ref>{{cite web|title=The world's greatest orchestras|url=http://www.gramophone.co.uk/editorial/the-world%E2%80%99s-greatest-orchestras|website=Gramophone}}</ref> [[Symphony Hall, Boston|Symphony Hall]] (west of Back Bay) is home to the [[Boston Symphony Orchestra]] and the related [[Boston Youth Symphony Orchestras|Boston Youth Symphony Orchestra]], which is the largest youth orchestra in the nation, and to the [[Boston Pops Orchestra]]. The British newspaper ''[[The Guardian]]'' called Boston Symphony Hall "one of the top venues for classical music in the world," adding "Symphony Hall in Boston was where science became an essential part of concert hall design."<ref>{{cite news|last1=Cox|first1=Trevor|title=10 of the world's best concert halls|url=https://www.theguardian.com/travel/2015/mar/05/10-worlds-best-concert-halls-berlin-boston-tokyo|work=The Guardian|date=March 5, 2015}}</ref> Other concerts are held at the [[New England Conservatory of Music|New England Conservatory]]'s [[Jordan Hall]]. The [[Boston Ballet]] performs at the [[Boston Opera House (1980)|Boston Opera House]]. Other performing-arts organizations in the city include the [[Boston Lyric Opera|Boston Lyric Opera Company]], [[Opera Boston]], [[Boston Baroque]] (the first permanent Baroque orchestra in the US),{{sfn|Hull|2011|p=175}} and the [[Handel and Haydn Society]] (one of the oldest choral companies in the United States).<ref>{{cite web |url=http://www.handelandhaydn.org/learn/whoweare/whoweare_home.htm |archiveurl=https://web.archive.org/web/20070427052402/http://www.handelandhaydn.org/learn/whoweare/whoweare_home.htm |archivedate=April 27, 2007 |title=Who We Are |year=2007 |publisher=Handel and Haydn Society |accessdate=April 28, 2007}}</ref> The city is a center for contemporary classical music with a number of performing groups, several of which are associated with the city's conservatories and universities. These include the [[Boston Modern Orchestra Project]] and [[Boston Musica Viva]].{{sfn|Hull|2011|p=175}} Several theaters are in or near the [[Washington Street Theatre District|Theater District]] south of Boston Common, including the [[Cutler Majestic Theatre]], [[Citi Performing Arts Center]], the [[Colonial Theatre (Boston)|Colonial Theater]], and the [[Orpheum Theatre (Boston)|Orpheum Theatre]].{{sfn|Hull|2011|pp=53–55}}
+
+[[File:Boston Symphony Hall from the south.jpg|thumb|[[Symphony Hall, Boston|Symphony Hall]], home of the [[Boston Symphony Orchestra]]]]
+[[File:Mfa boston af.jpg|thumb|alt=Gray stone classical building with columns and art banners on the central façade|[[Museum of Fine Arts, Boston|Museum of Fine Arts]]]]
+
+There are several major annual events, such as [[First Night]] which occurs on New Year's Eve, the [[Boston Early Music Festival]], the annual [[Boston Arts Festival]] at Christopher Columbus Waterfront Park, the annual Boston [[gay pride]] parade and festival held in June, and Italian summer feasts in the North End honoring Catholic saints.{{sfn|Hull|2011|p=207}} The city is the site of several events during the [[Independence Day (United States)|Fourth of July]] period. They include the week-long Harborfest festivities<ref>{{cite web |url=http://www.bostonharborfest.com/about.html |title=Boston Harborfest – About |publisher=Boston Harborfest Inc. |year=2013 |accessdate=March 5, 2013 |archiveurl=https://web.archive.org/web/20130506053501/http://www.bostonharborfest.com/about.html |archivedate=May 6, 2013}}</ref> and a Boston Pops concert accompanied by fireworks on the banks of the [[Charles River]].<ref>{{cite web |url=http://www.july4th.org/Our_Story/About_Us/ |title=Our Story: About Us |publisher=Boston 4 Celebrations Foundation |year=2010 |accessdate=March 5, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130223235809/http://www.july4th.org/Our_Story/About_Us/ |archivedate=February 23, 2013  }}</ref>
+
+Several historic sites relating to the [[American Revolution]] period are preserved as part of the [[Boston National Historical Park]] because of the city's prominent role. Many are found along the [[Freedom Trail]], which is marked by a red line of bricks embedded in the ground.
+
+The city is also home to several art museums and galleries, including the [[Museum of Fine Arts, Boston|Museum of Fine Arts]] and the [[Isabella Stewart Gardner Museum]].{{sfn|Hull|2011|pp=104–108}} The [[Institute of Contemporary Art, Boston|Institute of Contemporary Art]] is housed in a contemporary building designed by [[Diller Scofidio + Renfro]] in the [[Seaport District]].<ref>{{cite news | last=Ouroussoff | first=Nicolai | date=December 8, 2006 | url=https://www.nytimes.com/2006/12/08/arts/design/08ica.html | title=Expansive Vistas Both Inside and Out | work=The New York Times | accessdate=March 5, 2013}}</ref> Boston's South End Art and Design District ([[SoWa]]) and Newbury St. are both art gallery destinations.<ref>{{cite web|url=http://www.sowaboston.com/galleries|title=Art Galleries|publisher=}}</ref><ref>{{cite web|url=http://www.newbury-st.com/Boston/20/Art_Galleries|title=Art Galleries on Newbury Street, Boston|publisher=}}</ref> Columbia Point is the location of the [[University of Massachusetts Boston]], the [[Edward M. Kennedy Institute for the United States Senate]], the [[John F. Kennedy Presidential Library and Museum]], and the [[Massachusetts Archives|Massachusetts Archives and Commonwealth Museum]]. The [[Boston Athenæum]] (one of the oldest independent libraries in the United States),<ref>{{cite web |url=http://www.bostonathenaeum.org/node/38 |title=History of The Boston Athenaeum |publisher=Boston Athenæum |year=2012 |accessdate=March 5, 2013}}</ref> [[Boston Children's Museum]], [[Bull & Finch Pub]] (whose building is known from the television show ''[[Cheers]]''),{{sfn|Hull|2011|p=164}} [[Museum of Science (Boston)|Museum of Science]], and the [[New England Aquarium]] are within the city.
+
+Boston has been a noted religious center from its earliest days. The [[Roman Catholic Archdiocese of Boston]] serves nearly 300 parishes and is based in the [[Cathedral of the Holy Cross (Boston)|Cathedral of the Holy Cross]] (1875) in the South End, while the [[Episcopal Diocese of Massachusetts]] serves just under 200 congregations, with the [[Cathedral Church of St. Paul, Boston|Cathedral Church of St. Paul]] (1819) as its episcopal seat. [[Unitarian Universalist Association|Unitarian Universalism]] has its headquarters on Beacon Hill. The [[Church of Christ, Scientist|Christian Scientists]] are headquartered in Back Bay at the [[The First Church of Christ, Scientist|Mother Church]] (1894). The oldest church in Boston is [[First Church in Boston]], founded in 1630.<ref>{{cite web|url=http://www.firstchurchboston.org/about/history|title=First Church in Boston History|publisher=First Church in Boston|accessdate=November 12, 2013}}</ref> [[King's Chapel]] was the city's first Anglican church, founded in 1686 and converted to Unitarianism in 1785. Other churches include Christ Church (better known as [[Old North Church]], 1723), the oldest church building in the city, [[Trinity Church, Boston|Trinity Church]] (1733), [[Park Street Church]] (1809), [[Old South Church]] (1874), [[Jubilee Christian Church]], and [[Basilica and Shrine of Our Lady of Perpetual Help]] on [[Mission Hill, Boston|Mission Hill]] (1878).<ref>{{cite book | title=The Spiritual Traveler: Boston and New England: A Guide to Sacred Sites and Peaceful Places | author=Riess, Jana | publisher=Hidden Spring | year=2002 | isbn=978-1-58768-008-3 | pages=64–125}}</ref>
+
+==Environment==
+
+===Pollution control===
+[[Air quality]] in Boston is generally very good. Between 2004–2013, there were only four days in which the air was unhealthy for the general public, according to the [[United States Environmental Protection Agency|EPA]].<ref name="EPA AirCompare">{{cite web|title=EPA AirCompare Historical Profile|url=http://www.epa.gov/cgi-bin/broker?_service=aircomp&_debug=0&_program=dataprog.wcj_byyearhealth.sas&geocode=25025&condition=none&citycounty=county|publisher=Environmental Protection Agency|accessdate=December 26, 2014}}</ref>
+
+Some of the cleaner energy facilities in Boston include the Allston green district, with three ecologically compatible housing facilities.<ref>{{cite web|url=http://www.allaccessboston.com/Green-District-Allston|title=The Green District Allston|work=Encore Realty}}</ref> Boston is also breaking ground on multiple [[green affordable housing]] facilities to help reduce the carbon impact of the city while simultaneously making these initiatives financially available to a greater population. Boston's climate plan is updated every three years and was most recently modified in 2013. This legislature includes the Building Energy Reporting and Disclosure Ordinance, which requires the city's larger buildings to disclose their yearly energy and water use statistics and to partake in an energy assessment every five years. These statistics are made public by the city, thereby increasing incentives for buildings to be more environmentally conscious.<ref name="scorecard.goodguide.com">{{cite web|url=http://scorecard.goodguide.com/community/index.tcl?zip_code=02108&set_community_zipcode_cookie_p=t&x=16&y=7|title=About Your Community|work=goodguide.com}}</ref>
+
+Mayor Thomas Menino introduced the Renew Boston Whole Building Incentive which reduces the cost of living in buildings that are deemed energy efficient. This gives people an opportunity to find housing in neighborhoods that support the environment. The ultimate goal of this initiative is to enlist 500 Bostonians to participate in a free, in-home energy assessment.<ref name="scorecard.goodguide.com"/>
+
+===Water purity and availability===
+Many older buildings in certain areas of Boston are supported by wooden piles driven into the area's fill; these piles remain sound if submerged in water, but are subject to [[dry rot]] if exposed to air for long periods.<ref>{{cite web|url=http://www.bsces.org/index.cfm/page/Where-Has-All-the-Water-Gone-Left-Piles-Rotting.../cdid/10778/pid/10371|title=Where Has All the Water Gone? Left Piles Rotting&nbsp;...|work=bsces.org|deadurl=yes|archiveurl=https://web.archive.org/web/20141128044635/http://www.bsces.org/index.cfm/page/Where-Has-All-the-Water-Gone-Left-Piles-Rotting.../cdid/10778/pid/10371|archivedate=November 28, 2014}}</ref>
+Ground water levels have been dropping in many areas of the city, due in part to an increase in the amount of rainwater discharged directly into sewers rather than absorbed by the ground. The Boston Groundwater Trust coordinates monitoring ground water levels throughout the city via a network of public and private monitoring wells.<ref>[http://www.cityofboston.gov/eeos/groundwater.asp Groundwater], CityofBoston.gov</ref> However, Boston's drinking water supply from the [[Quabbin Reservoir|Quabbin]] and [[Wachusett Reservoir]]s<ref>{{cite press release |title=Your Drinking Water: Massachusetts Water Resources Authority, 2006 Drinking Water Report |publisher=Massachusetts Water Resources Authority |date=June 19, 2007}}</ref> is one of the very few in the country so pure as to satisfy the Federal [[Clean Water Act]] without filtration.<ref>{{cite news|url=http://www.boston.com/news/local/articles/2007/07/22/pure_water_right_on_tap/|title=Pure water, right on Tap|author=Abraham, Yvonne | work=The Boston Globe | date=July 22, 2007 | accessdate=June 7, 2011}}</ref>
+
+==Sports==
+{{Main|Sports in Boston}}
+[[File:Fenway from Legend's Box.jpg|thumb|[[Fenway Park]] is the [[List of Major League Baseball stadiums|oldest]] professional baseball stadium still in use.]]
+Boston has teams in [[Major professional sports leagues in the United States and Canada|the four major North American professional sports leagues]] plus [[Major League Soccer]], and has won 38 championships in these leagues, {{as of|2017}}. It is one of five cities (along with Chicago, Los Angeles, New York and Philadelphia) to have won championships in all four major sports. It has been suggested<ref>{{cite news|url=https://www.nytimes.com/2011/06/17/sports/boston-fans-savor-a-decade-of-sports-success.html |title=Long Memory or Short, Boston Fans Savor Success | author=Zezima, Katie | date=June 16, 2011 | accessdate=June 16, 2011 |work=The New York Times}}</ref><ref>{{cite web |url=http://sportsillustrated.cnn.com/video/nfl/2012/02/04/020412.boston_sports_sml.SportsIllustrated/index.html |archiveurl=https://web.archive.org/web/20120205013119/http://sportsillustrated.cnn.com/video/nfl/2012/02/04/020412.boston_sports_sml.SportsIllustrated/index.html |archivedate=February 5, 2012 |title= The New Title Town USA - Video - SI.com |date=February 4, 2012 | accessdate=February 4, 2012 |publisher=Sports Illustrated }}</ref><ref>{{cite news|url=http://www.businessinsider.com/sports-chart-of-the-day-boston-is-the-new-title-town-2011-6 |title= SPORTS CHART OF THE DAY: Boston Is The New "Title Town"|date=June 16, 2011 |work=Business Insider |accessdate=January 22, 2013}}</ref> that Boston is the new "TitleTown, USA", as the city's professional sports teams have won eleven championships since 2001: Patriots (2001, 2003, 2004, 2014, and 2016), Red Sox (2004, 2007, 2013, and 2018), Celtics (2008), and Bruins (2011). This love of sports made Boston the [[United States Olympic Committee]]'s choice to [[Bids for Olympic Games|bid]] to hold the [[2024 Summer Olympic Games]], but the city cited financial concerns when it withdrew its bid on July 27, 2015.<ref>{{cite web|last1=Arsenault|first1=Mark|title=Boston bidders hope time is right for frugal Games|url=https://www.bostonglobe.com/metro/2014/11/22/boston-bidders-hope-time-right-for-frugal-games/Gg72bgH4vHrvQ7dj4G6COO/story.html|website=[[The Boston Globe]]|date=November 23, 2014}}</ref>
+
+The [[Boston Red Sox]], a founding member of the [[American League]] of [[Major League Baseball]] in 1901, play their home games at [[Fenway Park]], near [[Kenmore Square]] in the city's [[Fenway-Kenmore|Fenway]] section. Built in 1912, it is the oldest sports arena or stadium in active use in the United States among the four major professional American sports leagues, [[Major League Baseball]], the [[National Football League]], [[National Basketball Association]], and the [[National Hockey League]].<ref>{{cite web |url=http://espn.go.com/travel/stadium/_/s/mlb/id/2/fenway-park |title=Fenway Park |accessdate=February 5, 2013 |publisher=ESPN | year=2013}}</ref> Boston was the site of the first game of the first modern [[World Series]], in 1903. The series was played between the AL Champion [[Boston Americans]]<!-- This is historically and internally accurate. Please go to the discussion. --> and the NL champion [[Pittsburgh Pirates]].<ref>{{cite web |url=http://www.baseballhalloffame.org/news/article.jsp?ymd=20070219&content_id=780&vkey=hof_news |title=Hall of Fame third baseman led Boston to first AL pennant |accessdate=April 1, 2009 |last=Abrams |first=Roger I. |date=February 19, 2007 |publisher=National Baseball Hall of Fame and Museum| archiveurl = https://web.archive.org/web/20070902113322/http://www.baseballhalloffame.org/news/article.jsp?ymd=20070219&content_id=780&vkey=hof_news| archivedate = September 2, 2007}}</ref><ref>{{cite web |url=http://mlb.mlb.com/NASApp/mlb/mlb/history/postseason/mlb_ws_recaps.jsp?feature=1903 |title=1903 World Series – Major League Baseball: World Series History |publisher=Major League Baseball at MLB.com |year=2007 |accessdate=February 18, 2007}} Please note: This source, like many others, uses the erroneous "Pilgrims" name that is debunked by the Nowlin reference following.</ref> Persistent reports the team was known in 1903 as the "Boston Pilgrims" appear to be unfounded.<ref>{{cite web |url=http://www.baseball-almanac.com/articles/boston_pilgrims_story.shtml |title=The Boston Pilgrims Never Existed |author=Bill Nowlin |publisher=Baseball Almanac |year=2008 |accessdate=April 3, 2008}}</ref> Boston's first professional baseball team was the Red Stockings, one of the charter members of the [[National Association of Professional Base Ball Players|National Association]] in 1871, and of the [[National League]] in 1876. The team played under that name until 1883, under the name Beaneaters until 1911, and under the name Braves from 1912 until they moved to [[Milwaukee]] after the 1952 season. Since 1966 they have played in [[Atlanta]] as the [[Atlanta Braves]].<ref>{{cite web |url=http://atlanta.braves.mlb.com/atl/history/ |title=Braves History |accessdate=February 5, 2013| publisher=Atlanta Brave (MLB) | year=2013}}</ref>
+
+[[File:Celtics game versus the Timberwolves, February, 1 2009.jpg|thumb|left|alt=Professional basketball game between the Celtics and Timberwolves in a crowded arena|The [[Boston Celtics|Celtics]] play at the [[TD Garden]].]]
+The [[TD Garden]], formerly called the FleetCenter and built to replace the old, since-demolished [[Boston Garden]], is adjoined to [[North Station]] and is the home of two major league teams: the [[Boston Bruins]] of the [[National Hockey League]] and the [[Boston Celtics]] of the [[National Basketball Association]]. The arena seats 18,624 for basketball games and 17,565 for ice hockey games. The Bruins were the first American member of the [[National Hockey League]] and an [[Original Six]] franchise.<ref>{{cite web |url=http://www.rauzulusstreet.com/hockey/nhlhistory/nhlhistory.html |title=National Hockey League (NHL) Expansion History |year=2004|accessdate=April 1, 2009|publisher=Rauzulu's Street}}</ref> The Boston Celtics were founding members of the [[Basketball Association of America]], one of the two leagues that merged to form the NBA.<ref>{{cite web |url=http://www.basketball.com/nba/history.shtml |title=NBA History – NBA Growth Timetable |accessdate=April 1, 2009 |publisher=Basketball.com |deadurl=yes |archiveurl=https://web.archive.org/web/20090331225200/http://www.basketball.com/nba/history.shtml |archivedate=March 31, 2009  }}</ref> The Celtics have the distinction of having won more championships than any other NBA team, with seventeen.<ref>{{cite web |url=http://www.nba.com/history/finals/champions.html |title=NBA Finals: All-Time Champions |publisher=NBA |year=2007 |accessdate=February 20, 2007}}</ref>
+
+While they have played in suburban [[Foxborough, Massachusetts|Foxborough]] since 1971, the [[New England Patriots]] of the [[National Football League]] were founded in 1960 as the Boston Patriots, changing their name after relocating. The team won the [[Super Bowl]] after the 2001, 2003, 2004, 2014, and 2016 seasons.<ref>{{cite web |url=http://www.patriots.com/history/index.cfm?ac=History |title=The History of the New England Patriots |publisher=New England Patriots |year=2007 |accessdate=April 29, 2007 |archiveurl=https://web.archive.org/web/20110519121830/http://www.patriots.com/history/index.cfm?ac=History |archivedate=May 19, 2011}}</ref> They share [[Gillette Stadium]] with the [[New England Revolution]] of [[Major League Soccer]]. The [[Boston Breakers (WPS)|Boston Breakers]] of [[Women's Professional Soccer]], which formed in 2009, play their home games at Dilboy Stadium in [[Somerville, Massachusetts|Somerville]].<ref name="breakers-wps">{{cite news|url=http://www.boston.com/sports/soccer/articles/2009/04/11/breakers_shoot_for_foothold_in_local_market/|title=Breakers shoot for foothold in local market|last=Springer|first=Shira|date=April 11, 2009|work=The Boston Globe|accessdate=June 27, 2009}}</ref> The [[Boston Storm (UWLX)|Boston Storm]] of the [[United Women's Lacrosse League]] was formed in 2015.<ref name="storm-uwlx">{{cite press release | title=Play It Forward Sport and STX Announce Semi-Professional Women's Lacrosse League | publisher=www.playitforwardsport.org | date=May 21, 2015 | url=http://www.playitforwardsport.org/2015/05/play-it-forward-sport-and-stx-announce.html | access-date=June 1, 2016 | deadurl=yes | archiveurl=https://web.archive.org/web/20160625093146/http://www.playitforwardsport.org/2015/05/play-it-forward-sport-and-stx-announce.html | archivedate=June 25, 2016 | df=mdy-all }}</ref>
+
+[[File:Harvard stadium 2009h.JPG|thumb|[[Harvard Stadium]], the first collegiate athletic stadium built in the U.S.]]
+The area's many colleges and universities are active in college athletics. Four [[National Collegiate Athletic Association|NCAA]] Division I members play in the area—[[Boston College]], [[Boston University]], [[Harvard University]], and [[Northeastern University]]. Of the four, only Boston College participates in college football at the highest level, the [[NCAA Division I Football Bowl Subdivision|Football Bowl Subdivision]]. Harvard participates in the second-highest level, the [[Football Championship Subdivision]]. The [[Boston Cannons]] of the [[Major League Lacrosse|MLL]] play at Harvard Stadium.
+
+One of the best known sporting events in the city is the [[Boston Marathon]], the {{convert|26.2|mi|adj=on}} race which is the world's oldest annual marathon,<ref>{{cite web |url=http://www.bostonmarathon.org/BostonMarathon/RaceFacts.asp |title=B.A.A. Boston Marathon Race Facts |year=2007 |publisher=Boston Athletic Association |accessdate=April 29, 2007 |archive-url=https://web.archive.org/web/20070418015010/http://www.bostonmarathon.org/BostonMarathon/RaceFacts.asp |archive-date=April 18, 2007 |dead-url=yes |df=mdy-all }}</ref> run on [[Patriots' Day]] in April. On April 15, 2013, [[Boston Marathon bombing|two explosions]] killed three people and injured hundreds at the marathon.<ref name=260herald>{{cite news|url=http://bostonherald.com/news_opinion/local_coverage/2013/04/marathon_injury_toll_jumps_to_260|title=Marathon injury toll jumps to 260|last=McConville|first=Christine|date=April 23, 2013|work=Boston Herald|accessdate=April 24, 2013}}</ref>
+Another major annual event is the [[Head of the Charles Regatta]], held in October.<ref name="hocr-harvard">{{cite web|url=http://www.gocrimson.com/sports/mcrew-lw/2011-12/releases/20111024aapf79|title=Crimson Rules College Lightweights at Head of the Charles|date=October 23, 2011|publisher=Harvard Athletic Communications|accessdate=May 6, 2012}}</ref>
+
+== Parks and recreation ==
+[[File:Boston common 20060619.jpg|thumb|left|alt=City skyline with a body of water in the background and a green park in the foreground|Boston Common seen from the [[Prudential Tower]]]]
+
+[[Boston Common]], near the Financial District and Beacon Hill, is the oldest public park in the United States.{{sfn|Morris|2005|p=61}} Along with the adjacent [[Public Garden (Boston)|Boston Public Garden]], it is part of the [[Emerald Necklace]], a string of parks designed by [[Frederick Law Olmsted]] to encircle the city. The Emerald Necklace includes [[Jamaica Pond]], Boston's largest body of freshwater, and [[Franklin Park (Boston)|Franklin Park]], the city's largest park and home of the [[Franklin Park Zoo]].<ref>{{cite web
+|url=http://www.cityofboston.gov/parks/emerald/Franklin_Park.asp
+|title=Franklin Park
+|year=2007
+|publisher=City of Boston
+|accessdate=April 28, 2007}}</ref> Another major park is the Esplanade, along the banks of the Charles River. The [[Hatch Shell]], an outdoor concert venue, is adjacent to the Charles River Esplanade. Other parks are scattered throughout the city, with major parks and beaches near [[Castle Island (Massachusetts)|Castle Island]], in Charlestown and along the Dorchester, South Boston, and East Boston shorelines.<ref>{{cite web | url=http://www.cityofboston.gov/parks/pdfs/OSP2010/OSP0814_3_CommunitySetting.pdf | title=Open Space Plan 2008–2014: Section 3 Community Setting | publisher=City of Boston Parks & Recreation | date=January 2008 | accessdate=February 21, 2013}}</ref>
+
+Boston's park system is well-reputed nationally. In its 2013 ParkScore ranking, [[Trust for Public Land|The Trust for Public Land]] reported Boston was tied with [[Sacramento, California|Sacramento]] and [[San Francisco]] for having the third-best park system among the 50 most populous US cities.<ref>Randall, Eric. [http://www.bostonmagazine.com/news/blog/2013/06/05/boston-has-one-of-the-best-parks-systems-in-the-country/ "Boston has one of the best park systems in the country"]. June 5, 2013. ''Boston Magazine''. Retrieved on July 15, 2013.</ref> ParkScore ranks city park systems by a formula that analyzes the city's median park size, park acres as percent of city area, the percent of residents within a half-mile of a park, spending of park services per resident, and the number of playgrounds per 10,000 residents.
+
+==Government and politics==
+{{See also|Boston City Hall|Boston Emergency Medical Services|Boston Finance Commission|Boston Fire Department|Boston Police Department|List of mayors of Boston|List of members of Boston City Council}}
+[[File:MA State House 11-13-2015.jpg|thumb|alt=Red brick building with white columns on the façade and a gold dome on the top|The [[Massachusetts State House]], seat of the [[Government of Massachusetts]], on [[Beacon Hill, Boston|Beacon Hill]]]]
+
+Boston has a [[Mayor–council government|strong mayor – council government]] system in which the mayor (elected every fourth year) has extensive executive power. [[Marty Walsh (politician)|Marty Walsh]] became Mayor in January 2014, his predecessor [[Thomas Menino]]'s twenty-year tenure having been the longest in the city's history.<ref>{{cite news | url=http://www.governing.com/topics/politics/gov-boss-of-boston-mayor-thomas-menino.html | title=The Boss of Boston: Mayor Thomas Menino | author=Patton, Zach | work=Governing | date=January 2012 | accessdate=February 5, 2013}}</ref>
+The [[Boston City Council]] is elected every two years; there are nine district seats, and four citywide "at-large" seats.<ref>{{cite web | url=http://www.cityofboston.gov/Images_Documents/2007%20the%20charter%20draft20%20%28final%20draft1%20with%20jumps%29_tcm3-16428.pdf | title=Boston City Charter | publisher=City of Boston | date=July 2007 | page=59|accessdate=February 5, 2013}}</ref> The School Committee, which oversees the [[Boston Public Schools]], is appointed by the mayor.<ref>{{cite web |url=http://boston.k12.ma.us/bps/bpsglance.asp#leadership |title=The Boston Public Schools at a Glance: School Committee |publisher=Boston Public Schools |date=March 14, 2007|accessdate=April 28, 2007| archiveurl = https://web.archive.org/web/20070403011648/http://boston.k12.ma.us/bps/bpsglance.asp| archivedate = April 3, 2007}}</ref>
+
+In addition to city government, numerous commissions and state authorities—including the Massachusetts [[Department of Conservation and Recreation]], the [[Boston Public Health Commission]], the [[Massachusetts Water Resources Authority|Massachusetts Water Resources Authority (MWRA)]], and the [[Massachusetts Port Authority|Massachusetts Port Authority (Massport)]]—play a role in the life of Bostonians. As the capital of Massachusetts, Boston plays a major role in [[Massachusetts#Politics|state politics]].
+
+The city has several federal facilities, including the [[John F. Kennedy Federal Office Building]], the [[Thomas P. O'Neill Jr. Federal Building (Boston)|Thomas P. O'Neill Jr. Federal Building]],<ref>{{cite web |url=http://www.gsa.gov/portal/content/104959 |title=Massachusetts Real Estate Portfolio |publisher=United States General Services Administration |accessdate=March 11, 2014 }}</ref> the [[John W. McCormack Post Office and Courthouse]], the [[Federal Reserve Bank of Boston]], the [[United States Court of Appeals for the First Circuit]], and the [[United States District Court for the District of Massachusetts]]. Both courts are housed in the [[John Joseph Moakley United States Courthouse]].
+
+Federally, Boston is split between two congressional districts. The northern three-fourths of the city is in the [[Massachusetts's 7th congressional district|7th district]], represented by [[Ayanna Pressley]]. The southern fourth is in the [[Massachusetts's 8th congressional district|8th district]], represented by [[Stephen Lynch (politician)|Stephen Lynch]].<ref>{{cite web |url=http://www.govtrack.us/congress/findyourreps.xpd?state=MA |title=Massachusetts's Representatives – Congressional District Maps |year=2007 |publisher=GovTrack.us |accessdate=April 28, 2007}}</ref> Both are Democrats; a Republican has not represented a significant portion of Boston in over a century. The state's senior member of the [[United States Senate]] is Democrat [[Elizabeth Warren]], first elected in 2012. The state's junior member of the United States Senate is Democrat [[Ed Markey]], who was elected in 2013 to succeed [[John Kerry]] after Kerry's appointment and confirmation as the [[United States Secretary of State]].
+
+The city uses an algorithm created by the Walsh administration, called CityScore, to measure the effectiveness of various city services. This score is available on a public online dashboard and allows city managers in police, fire, schools, emergency management services, and [[3-1-1]] to take action and make adjustments in areas of concern.<ref>{{cite news |last=Irons |first=Meghan E. |url=https://www.bostonglobe.com/metro/2016/08/17/city-hall-always-above-average-you-ask-city-hall/GUvNcsQlIhJYt8SPgjLzCN/story.html |title=City Hall is always above average – if you ask City Hall |work=[[The Boston Globe]] |date=August 17, 2016 |accessdate=August 18, 2016 }}</ref>
+
+{| class="wikitable"  margin:0 0 1em 1em; font-size:95%;"
+|+ Presidential election results<ref>{{cite web|title = Massachusetts Election Statistics | accessdate = September 26, 2018 | url = http://electionstats.state.ma.us/}}</ref>
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (United States)|Democratic]]
+! [[Republican Party (United States)|Republican]]
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 2016|2016]]
+| style="background:#f0f0ff;"|'''80.6%''' ''221,093''
+| style="background:#fff3f3;"|13.9% ''38,087''
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 2012|2012]]
+| style="background:#f0f0ff;"|'''78.8%''' ''200,190''
+| style="background:#fff3f3;"|19.3% ''48,985''
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 2008|2008]]
+| style="background:#f0f0ff;"|'''79.0%''' ''185,976''
+| style="background:#fff3f3;"|19.4% ''45,548''
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 2004|2004]]
+| style="background:#f0f0ff;"|'''77.3%''' ''160,884''
+| style="background:#fff3f3;"|21.4% ''44,518''
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 2000|2000]]
+| style="background:#f0f0ff;"|'''71.7%''' ''132,393''
+| style="background:#fff3f3;"|19.7% ''36,389''
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 1996|1996]]
+| style="background:#f0f0ff;"|'''73.8%''' ''125,529''
+| style="background:#fff3f3;"|19.6% ''33,366''
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 1992|1992]]
+| style="background:#f0f0ff;"|'''62.4%''' ''114,260''
+| style="background:#fff3f3;"|22.9% ''41,868''
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 1988|1988]]
+| style="background:#f0f0ff;"|'''65.2%''' ''122,349''
+| style="background:#fff3f3;"|33.2% ''62,202''
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 1984|1984]]
+| style="background:#f0f0ff;"|'''63.4%''' ''131,745''
+| style="background:#fff3f3;"|36.2% ''75,311''
+|- style="text-align:center;"
+| style="background:#f0f0ff;"|[[U.S. presidential election, 1980|1980]]
+| style="background:#f0f0ff;"|'''53.3%''' ''95,133''
+| style="background:#fff3f3;"|32.9% ''58,656''
+|- style="text-align:center;"
+|}
+
+{| class=wikitable
+! colspan = 6 | Voter registration and party enrollment {{as of|2018|10|17|df=US}}<ref>{{cite web|title =The Commonwealth of Massachusetts: Enrollment Breakdown as of 10/17/2018 | publisher=Massachusetts Elections Division | format = PDF | date=October 17, 2018 | accessdate=January 23, 2019| page=16 | url = http://www.sec.state.ma.us/ele/elepdf/enrollment_count_20181017.pdf}}</ref>
+|-
+! colspan = 2 | Party
+! Number of voters
+! Percentage
+|-
+{{party color|Democratic Party (United States)}}
+| [[Democratic Party (United States)|Democratic]]
+| style="text-align:center;"| 210,730
+| style="text-align:center;"| 50.94%
+|-
+{{party color|Republican Party (United States)}}
+| [[Republican Party (United States)|Republican]]
+| style="text-align:center;"| 24,042
+| style="text-align:center;"| 5.81%
+|-
+{{party color|Libertarian Party (United States)}}
+| [[Libertarian Party (United States)|Libertarian]]
+| style="text-align:center;"| 1,309
+| style="text-align:center;"| 0.32%
+|-
+{{party color|Green Party (United States)}}
+| [[Green Party (United States)|Green]]
+| style="text-align:center;"| 3,849
+| style="text-align:center;"| 0.93%
+|-
+{{party color|Independent Party (United States)}}
+| Unaffiliated
+| style="text-align:center;"| 173,719
+| style="text-align:center;"| 42.00%
+
+|-
+! colspan = 2 | Total
+! style="text-align:center;"| 413,649
+! style="text-align:center;"| 100%
+|}
+
+==Media==
+{{Main|Media in Boston}}
+
+===Newspapers===
+''[[The Boston Globe]]'' and the ''[[Boston Herald]]'' are two of the city's major daily newspapers. The city is also served by other publications such as ''[[Boston (magazine)|Boston]] magazine'', ''[[The Improper Bostonian]]'', ''[[DigBoston]]'', and the Boston edition of ''[[Metro International|Metro]]''. ''[[The Christian Science Monitor]]'', headquartered in Boston, was formerly a worldwide daily newspaper but ended publication of daily print editions in 2009, switching to continuous online and weekly magazine format publications.<ref name="csm-media">{{cite web|url=http://www.csmonitor.com/2009/0327/p09s01-coop.html|title=Editor's message about changes at the Monitor|date=March 27, 2009|work=[[The Christian Science Monitor]]|accessdate=July 13, 2009}}</ref> ''The Boston Globe'' also releases a teen publication to the city's public high schools, called ''Teens in Print'' or ''T.i.P.'', which is written by the city's teens and delivered quarterly within the school year.<ref>{{cite web |url=http://www.cityofboston.gov/bra/writeboston/TIP.asp |title=WriteBoston – T.i.P |publisher=City of Boston |year=2007 |accessdate=April 28, 2007| archiveurl = https://web.archive.org/web/20070207050847/http://www.cityofboston.gov/bra/writeboston/TIP.asp| archivedate=February 7, 2007}}</ref>
+
+The city's growing [[Latino]] population has given rise to a number of local and regional [[Spanish language|Spanish-language]] newspapers. These include ''[[El Planeta]]'' (owned by the former publisher of ''[[The Phoenix (newspaper)|The Boston Phoenix]]''), ''El Mundo'', and ''La Semana''. ''Siglo21'', with its main offices in nearby [[Lawrence, Massachusetts|Lawrence]], is also widely distributed.<ref>{{cite news|url=http://www.boston.com/lifestyle/articles/2008/09/06/a_new_day_dawns_for_a_spanish_language_publication/ | title=A new day dawns for a Spanish-language publication | work=The Boston Globe | date=September 6, 2008 | author=Diaz, Johnny | accessdate=February 4, 2013}}</ref>
+
+There are a number of weekly newspapers dedicated to Boston neighborhoods. Among them is South Boston Online, (founded in 1999) which appears in print and online, and covers events in South Boston and the Seaport District.
+
+Various LGBT publications serve the city's large LGBT (lesbian, gay, bisexual, and transgender) population such as ''The Rainbow Times'', the only minority and lesbian-owned LGBT news magazine. Founded in 2006, ''The Rainbow Times'' is now based out of Boston, but serves all of New England.<ref>{{cite news | url=http://www.boston.com/business/articles/2011/01/26/bay_windows_acquires_monthly_paper/ | title=Bay Windows acquires monthly paper | author=Diaz, Johnny | date=January 26, 2011 | work=The Boston Globe | accessdate=February 4, 2013}}</ref>
+
+===Radio and television===
+Boston is the largest broadcasting market in New England, with the radio market being the 9th largest in the United States.<ref>{{cite web |url=http://www.arbitron.com/radio_stations/mm001050.asp |title=Arbitron – Market Ranks and Schedule, 1–50 |publisher=Arbitron |date=Fall 2005 |accessdate=February 18, 2007}}</ref> Several major [[AM broadcasting|AM]] stations include [[talk radio]] [[WRKO]], [[sports radio|sports]]/talk station [[WEEI (AM)|WEEI]], and [[CBS Radio]] [[WBZ (AM)|WBZ]].<ref>{{cite web | url=http://www.fcc.gov/encyclopedia/am-broadcast-station-classes-clear-regional-and-local-channels | archiveurl=https://web.archive.org/web/20120430090244/http://www.fcc.gov/encyclopedia/am-broadcast-station-classes-clear-regional-and-local-channels | archivedate=April 30, 2012 | title=AM Broadcast Classes; Clear, Regional, and Local Channels | date=January 20, 2012 | publisher=Federal Communications Commission | accessdate=February 20, 2013}}</ref> WBZ (AM) broadcasts a [[all-news radio|news radio]] format and is a 50,000 watt "clear channel" station, whose nighttime broadcasts are heard hundreds of miles from Boston.  A variety of commercial [[FM broadcasting|FM]] [[radio format]]s serve the area, as do [[National Public Radio|NPR]] stations [[WBUR]] and [[WGBH (FM)|WGBH]]. College and university radio stations include [[WERS]] (Emerson), [[WHRB]] (Harvard), [[WUMB]] (UMass Boston), [[WMBR]] (MIT), [[WZBC]] (Boston College), [[WMFO]] (Tufts University), [[WBRS]] (Brandeis University), [[WTBU (college radio)|WTBU]] (Boston University, campus and web only), [[WRBB]] (Northeastern University) and [[WMLN-FM]] (Curry College).
+
+The Boston television [[Designated market area|DMA]], which also includes [[Manchester, New Hampshire]], is the 8th largest in the United States.<ref>{{cite web |url=http://www.nielsen.com/content/dam/corporate/us/en/docs/nielsen-audio/populations-rankings-fall-2015.pdf |title=Nielsen Survey|website=nielsen.com}}</ref> The city is served by stations representing every major [[List of United States broadcast television networks|American network]], including [[WBZ-TV]] 4 and its sister station [[WSBK-TV]] 38 (the former a [[CBS]] [[Owned-and-operated station|O&O]], the latter a [[MyNetwork TV]] affiliate), [[WCVB-TV]] 5 and its sister station [[WMUR-TV]] 9 (both [[American Broadcasting Company|ABC]]), [[WHDH (TV)|WHDH]] 7 and its sister station [[WLVI]] 56 (the former an [[Independent station (North America)|independent station]], the latter a [[The CW|CW]] affiliate), [[WBTS-LD]] 8 (a [[NBC]] O&O), and [[WFXT-TV|WFXT]] 25 ([[Fox Broadcasting Company|Fox]]). The city is also home to [[PBS]] member station [[WGBH-TV]] 2, a major producer of PBS programs,<ref>{{cite web | url=http://www.wgbh.org/about/index.cfm | title=About Us: From our President | publisher=WGBH | year=2013 | accessdate=March 5, 2013 | deadurl=yes | archiveurl=https://web.archive.org/web/20130305145846/http://www.wgbh.org/about/index.cfm | archivedate=March 5, 2013 | df=mdy-all }}</ref> which also operates [[WGBX]] 44. Spanish-language television networks, including [[Azteca (TV network)|Azteca]] ([[WFXZ-CD]] 24), [[Univisión]] ([[WUNI]] 27), [[Telemundo]] ([[WNEU]] 60, a sister station to WBTS-LD), and [[UniMás]] ([[WUTF-DT]] 66), have a presence in the region, with [[WNEU]] and [[WUTF]] serving as network [[owned-and-operated station]]s. Most of the area's television stations have their transmitters in nearby [[Needham, Massachusetts|Needham]] and [[Newton, Massachusetts|Newton]] along the [[Massachusetts Route 128|Route 128 corridor]].<ref>{{cite web |url=http://www.bostonradio.org/route-128.html |title=The Route 128 tower complex |year=2007 |publisher=The Boston Radio Archives |accessdate=April 28, 2007}}</ref> Six Boston television stations are carried by Canadian satellite television provider Bell TV and by cable television providers in Canada.
+
+=== Film ===
+{{See also|Boston in fiction#Film|l1=List of movies filmed in Boston}}
+Films have been made in Boston since as early as 1903, and it continues to be both a popular setting and a popular site for filming location.<ref>{{cite web|title=Made In Mass|url=http://www.mafilm.org/made-in-mass/|website=MAFilm.org|publisher=MA Film Office|accessdate=February 2, 2015}}</ref><ref>{{cite web|title=New England Film|url=http://www.NewEnglandFilm.com|website=NewEnglandFilm.com|publisher=NewEnglandFilm|accessdate=February 8, 2015}}</ref>
+
+== Healthcare ==
+{{See also|List of hospitals in Massachusetts#Boston|l1=List of hospitals in Boston}}
+[[File:HarvardMed2.JPG|thumb|upright|[[Harvard Medical School]], one of the most prestigious medical schools in the world]]
+
+The [[Longwood Medical and Academic Area]], adjacent to the Fenway district, is home to a large number of medical and research facilities, including [[Beth Israel Deaconess Medical Center]], [[Brigham and Women's Hospital]], [[Boston Children's Hospital]], [[Dana–Farber Cancer Institute]], [[Harvard Medical School]], [[Joslin Diabetes Center]], and the [[MCPHS University|Massachusetts College of Pharmacy and Health Sciences]].<ref>{{cite web |url=http://www.masco.org/masco/about-masco |title=About MASCO |publisher=MASCO – Medical Academic and Scientific Community Organization |year=2007 |accessdate=May 6, 2012}}</ref>
+Prominent medical facilities, including [[Massachusetts General Hospital]], [[Massachusetts Eye and Ear Infirmary]] and [[Spaulding Rehabilitation Hospital]] are in the Beacon Hill area. [[St. Elizabeth's Medical Center (Boston)|St. Elizabeth's Medical Center]] is in Brighton Center of the city's Brighton neighborhood. [[New England Baptist Hospital]] is in Mission Hill. [[VA Boston Healthcare System|The city has Veterans Affairs medical centers]] in the Jamaica Plain and West Roxbury neighborhoods.<ref>{{cite web |url=http://www1.va.gov/directory/guide/rpt_fac_list.cfm?isflash=0 |title=Facility Listing Report |year=2007 |publisher=United States Department of Veterans Affairs |accessdate=April 28, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070324083934/http://www1.va.gov/directory/guide/rpt_fac_list.cfm?isflash=0 |archivedate=March 24, 2007  }}</ref> The [[Boston Public Health Commission]], an agency of the Massachusetts government, oversees health concerns for city residents.<ref>{{cite web |url=http://www.bphc.org/about/Pages/Home.aspx |title=About BPHC – The Nation's First Health Department | publisher=Boston Public Health Commission|year=2013|accessdate=February 5, 2013|archiveurl=https://web.archive.org/web/20090417030443/http://www.bphc.org/about/Pages/Home.aspx |archivedate=April 17, 2009}}</ref> [[Boston EMS]] provides pre-hospital emergency medical services to residents and visitors.
+
+Many of Boston's medical facilities are associated with universities. The facilities in the Longwood Medical and Academic Area and in Massachusetts General Hospital are affiliated with [[Harvard Medical School]].<ref>{{cite web |url=http://www.massgeneral.org/about/overview.aspx |title=Hospital Overview | publisher=Massachusetts General Hospital | year=2013|accessdate=February 5, 2013}}</ref> [[Tufts Medical Center]] (formerly Tufts-New England Medical Center), in the southern portion of the Chinatown neighborhood, is affiliated with [[Tufts University School of Medicine]]. [[Boston Medical Center]], in the South End neighborhood, is the primary teaching facility for the [[Boston University School of Medicine]] as well as the largest trauma center in the Boston area;<ref>{{cite web |url=http://www.bmc.org/about/facts06.pdf |format=PDF |title=Boston Medical Center – Facts |publisher=Boston Medical Center |date=November 2006 |accessdate=February 21, 2007| archiveurl = https://web.archive.org/web/20070203221200/http://www.bmc.org/about/facts06.pdf| archivedate=February 3, 2007}}</ref> it was formed by the merger of Boston University Hospital and Boston City Hospital, which was the first municipal hospital in the United States.<ref>{{cite web |url=http://www.childrenshospital.org/bcrp/Site2213/mainpageS2213P2.html |title=Boston Medical Center |publisher=Children's Hospital Boston |year=2007 |accessdate=November 14, 2007 |archiveurl=https://web.archive.org/web/20070815192727/http://www.childrenshospital.org/bcrp/Site2213/mainpageS2213P2.html |archivedate=August 15, 2007}}</ref>
+
+== Infrastructure ==
+{{Main|Infrastructure in Boston}}
+
+===Transportation===
+{{Main|Transportation in Boston}}
+
+[[File:RedLineCharlesMGH.jpg|thumb|left|alt=A silver and red rapid transit train departing an above-ground station|An [[Red Line (MBTA)|MBTA Red Line]] train departing Boston for Cambridge. Bostonians depend heavily on public transit, with over 1.3 million Bostonians riding the city's buses and trains daily (2013).<ref>{{cite web |url=http://www.apta.com/resources/statistics/Documents/Ridership/2013-q4-ridership-APTA.pdf |title=Statistics |website=apta.com}}</ref>]]
+[[File:Leonard P. Zakim Bunker Hill Bridge - Boston, MA crop.jpg|thumb|left|[[Leonard P. Zakim Bunker Hill Memorial Bridge]] crosses the [[Charles River]] from [[Downtown Boston]].]]
+
+[[Logan International Airport|Logan Airport]], in [[East Boston]] and operated by the [[Massachusetts Port Authority|Massachusetts Port Authority (Massport)]], is Boston's principal airport.<ref>{{cite web |url=http://www.massport.com/logan/about.asp |title=About Logan |year=2007 |publisher=Massport |accessdate=May 9, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070521101738/http://www.massport.com/logan/about.asp |archivedate=May 21, 2007  }}</ref> Nearby [[general aviation]] airports are [[Beverly Municipal Airport]] to the north, [[Hanscom Field]] to the west, and [[Norwood Memorial Airport]] to the south. Massport also operates several major facilities within the [[Port of Boston]], including a cruise ship terminal and facilities to handle bulk and container cargo in [[South Boston]], and other facilities in [[Charlestown, Boston|Charlestown]] and [[East Boston]].<ref>{{cite web | url=http://www.massport.com/port-of-boston/About%20Port%20of%20Boston/AboutPortofBoston.aspx | title=About Port of Boston | publisher=Massport | year=2013 | accessdate=March 3, 2013 | deadurl=yes | archiveurl=https://web.archive.org/web/20130225202220/http://www.massport.com/port-of-boston/About%20Port%20of%20Boston/AboutPortofBoston.aspx | archivedate=February 25, 2013 | df=mdy-all }}</ref>
+
+Downtown Boston's streets grew organically, so they do not form a [[Grid plan|planned grid]],<ref>{{cite journal |author=Shurtleff, Arthur A. |title=The Street Plan of the Metropolitan District of Boston |journal=Landscape Architecture 1 |date=January 1911 |pages=71–83 |url=http://www.library.cornell.edu/Reps/DOCS/shurbos.htm |deadurl=yes |archiveurl=https://web.archive.org/web/20101029071305/http://www.library.cornell.edu/Reps/DOCS/shurbos.htm |archivedate=October 29, 2010  }}</ref> unlike those in later-developed [[Back Bay, Boston|Back Bay]], [[East Boston]], the [[South End, Boston|South End]], and [[South Boston, Boston|South Boston]]. Boston is the eastern terminus of [[Interstate 90|I-90]], which in Massachusetts runs along the [[Massachusetts Turnpike]]. The elevated portion of the [[Central Artery]], which carried most of the through traffic in downtown Boston, was replaced with the [[Thomas P. O'Neill Jr. Tunnel|O'Neill Tunnel]] during the [[Big Dig]], [[Construction management#Post-Construction|substantially completed]] in early 2006.
+
+With nearly a third of Bostonians using public transit for their commute to work, Boston has the [[List of U.S. cities with high transit ridership|fifth-highest rate of public transit usage in the country]].<ref>{{cite web |url=https://www.census.gov/prod/1/gen/pio/cay961a2.pdf |format=PDF |title=Census and You |publisher=US Census Bureau |page=12|date=January 1996 |accessdate=February 19, 2007}}</ref> The city of Boston has a higher than average percentage of households without a car. In 2015, 35.4 percent of Boston households lacked a car, which decreased slightly to 33.8 percent in 2016. The national average was 8.7 percent in 2016. Boston averaged 0.94 cars per household in 2016, compared to a national average of 1.8.<ref>{{cite web|title=Car Ownership in U.S. Cities Data and Map|journal=Governing|url=http://www.governing.com/gov-data/car-ownership-numbers-of-vehicles-by-city-map.html|accessdate=May 3, 2018}}</ref> Boston's public transportation agency, the [[Massachusetts Bay Transportation Authority]] (MBTA) operates the oldest underground rapid transit system in the [[Americas]], and is the [[List of United States rapid transit systems by ridership|fourth-busiest rapid transit system in the country]],{{sfn|Hull|2011|p=42}} with {{convert|65.5|mi|0}} of track on four lines.<ref name="light rail">{{cite web |url=http://www.lightrailnow.org/facts/fa_bos001.htm |title=Boston: Light Rail Transit Overview |publisher=Light Rail Progress |date=May 2003 |accessdate=February 19, 2007}}</ref> The MBTA also operates busy bus and commuter rail networks, and water shuttles.<ref name="light rail"/>
+
+[[File:SouthStation.agr.JPG|thumb|right|[[South Station]], the busiest rail hub in [[New England]], is a terminus of [[Amtrak]] and numerous [[Massachusetts Bay Transportation Authority|MBTA]] rail lines.]]
+[[File:Hubway bikes at rack.jpg|thumb|right|[[Blue Bikes|Hubway]] bikes in Boston]]
+
+[[Amtrak]] intercity rail to Boston is provided through four stations: [[South Station]], [[North Station]], [[Back Bay station|Back Bay]], and [[Route 128 station|Route 128]]. South Station is a major [[Intermodal passenger transport|intermodal transportation]] hub and is the terminus of Amtrak's ''[[Northeast Regional]]'', ''[[Acela Express]]'', and ''[[Lake Shore Limited]]'' routes, in addition to multiple MBTA services. Back Bay is also served by MBTA and those three Amtrak routes, while Route 128, in the southwestern suburbs of Boston, is only served by the ''Acela Express'' and ''Northeast Regional''.<ref>{{cite web |url=http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Station/Station_Page&c=am2Station&cid=1080080550818&ssid=93 |title=Westwood—Route 128 Station, MA (RTE) |publisher=Amtrak |year=2007 |accessdate=May 9, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20080822004651/http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak%2Fam2Station%2FStation_Page&c=am2Station&cid=1080080550818&ssid=93 |archivedate=August 22, 2008  }}</ref> Meanwhile, Amtrak's ''[[Downeaster (train)|Downeaster]]'' to [[Maine|Brunswick]] terminates in North Station, and is the only Amtrak route to do so.<ref>{{cite web |url=http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Station/Station_Page&c=am2Station&cid=1080080550772&ssid=93 |title=Boston—South Station, MA (BOS) |publisher=Amtrak |year=2007 |accessdate=May 9, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20080418170534/http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak%2Fam2Station%2FStation_Page&c=am2Station&cid=1080080550772&ssid=93 |archivedate=April 18, 2008  }}</ref>
+
+Nicknamed "The Walking City", Boston hosts more pedestrian commuters than do other comparably populated cities. Owing to factors such as necessity, the compactness of the city and large student population, 13 percent of the population commutes by foot, making it the [[List of U.S. cities with most pedestrian commuters|highest percentage of pedestrian commuters in the country]] out of the major American cities.<ref>Of cities over 250,000 {{cite web |url=http://www.bikesatwork.com/carfree/census-lookup.php?state_select=*&lower_pop=250000&upper_pop=999999999&sort_num=2&show_rows=25&first_row=0. |title=Carfree Database Results – Highest percentage (Cities over 250,000) |publisher=Bikes at Work Inc. |year=2007 |accessdate=February 26, 2007}}</ref> In 2011, [[Walk Score]] ranked Boston the third most walkable city in the United States.<ref>{{cite news |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/07/20/BUUK1KCC67.DTL&tsp=1 |title=S.F., Oakland in top 10 most walkable U.S. cities |work=San Francisco Chronicle |accessdate=July 20, 2011|first=Carolyn |last=Said |date=July 20, 2011}}</ref><ref>{{cite web |url=http://www.marketwatch.com/story/the-10-most-walkable-us-cities-2011-07-20?link=MW_popular |title=The 10 most walkable U.S. cities |publisher=MarketWatch |year=2011 |accessdate=July 20, 2011}}</ref> {{As of|2015}}, Walk Score still ranks Boston as the third most walkable US city, with a Walk Score of 80, a Transit Score of 75, and a Bike Score of 70.<ref name=WalkScore>{{cite web|title=Boston|url=http://www.walkscore.com/MA/Boston|work=Walk Score|publisher=Walk Score|accessdate=June 3, 2015}}</ref>
+
+Between 1999 and 2006, ''[[Bicycling (magazine)|Bicycling]]'' magazine named Boston three times as one of the worst cities in the US for cycling;<ref>{{cite news | url=https://www.nytimes.com/2009/08/09/us/09bike.html | title=Boston Tries to Shed Longtime Reputation as Cyclists' Minefield | work=The New York Times | date=August 8, 2009 | accessdate=May 24, 2015 | author=Zezima, Katie}}</ref> regardless, it has one of the highest rates of bicycle commuting.<ref>{{cite web |url=http://www.des.ucdavis.edu/faculty/handy/ESP178/Dill_bike_facilities.pdf |format=PDF |publisher=Dill bike facilities |title=Bicycle Commuting and Facilities in Major U.S. Cities: If You Build Them, Commuters Will Use Them – Another Look |page=5 |year=2003 |accessdate=April 4, 2007}}</ref> In 2008, as a consequence of improvements made to bicycling conditions within the city, the same magazine put Boston on its "Five for the Future" list as a "Future Best City" for biking,<ref>{{cite news|url=https://www.nytimes.com/2009/08/09/us/09bike.html |title=Boston Tries to Shed Longtime Reputation as Cyclists' Minefield |accessdate=August 16, 2009|author=Katie Zezima|work=The New York Times | date=August 9, 2009}}</ref><ref>{{cite web|url=http://www.bicycling.com/article/0,6610,s1-2-13-17078-1,00.html |title=A Future Best City: Boston |accessdate=August 16, 2009 |publisher=Rodale Inc |archiveurl=https://web.archive.org/web/20100211195827/http://www.bicycling.com/article/0%2C6610%2Cs1-2-13-17078-1%2C00.html |archivedate=February 11, 2010 |deadurl=yes |df= }}</ref> and Boston's bicycle commuting percentage increased from 1% in 2000 to 2.1% in 2009.<ref>{{cite web|url=http://www.theatlanticcities.com/commute/2011/09/substantial-increases-bike-ridership-across-nation/161/|title=Is Bicycle Commuting Really Catching On? And if So, Where?|accessdate=December 28, 2011|publisher=The Atlantic Media Company}}</ref> The bikeshare program called [[Hubway]] launched in late July 2011,<ref>{{cite news|url=http://www.boston.com/news/local/massachusetts/articles/2011/04/21/boston_set_to_launch_bike_share_program/|title=Hub set to launch bike-share program|work=The Boston Globe|author=Moskowitz, Eric|date=April 21, 2011|accessdate=February 5, 2013}}</ref> logging more than 140,000 rides before the close of its first season.<ref>{{cite web|url=http://articles.boston.com/2012-03-29/yourtown/31255679_1_bike-stations-miles-of-bike-lane-new-bike-lines|title=Hubway bike system to be fully launched by April 1|author=Fox, Jeremy C.|publisher=''The Boston Globe''|date=March 29, 2012|accessdate=April 20, 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120514180018/http://articles.boston.com/2012-03-29/yourtown/31255679_1_bike-stations-miles-of-bike-lane-new-bike-lines|archivedate=May 14, 2012}}</ref> The neighboring municipalities of [[Cambridge, Massachusetts|Cambridge]], [[Somerville, Massachusetts|Somerville]], and [[Brookline, Massachusetts|Brookline]] joined the Hubway program in the summer of 2012.<ref>{{cite web|url=http://www.boston.com/yourtown/news/cambridge/2012/08/hubway_expands_to_brookline_so.html|title=Hubway expands to Brookline, Somerville, Cambridge|author=Franzini, Laura E.|publisher=''The Boston Globe''|date=August 8, 2012|accessdate=March 15, 2013}}</ref> In 2016, there are 1,461 bikes and 158 docking stations across the city.<ref>{{Cite web|url=https://www.pbsc.com/city/boston/|title=Hubway Bikes Boston {{!}} PBSC|language=en-US|access-date=August 3, 2016}}</ref> [[PBSC Urban Solutions]] provides bicycles and technology for this [[Bicycle-sharing system|bike-sharing system]].<ref>{{Cite web|url=http://www.redeyechicago.com/news/redeye-divvy-bikes-helmets-vending-machine-20150507-story.html|title=Divvy may test-drive helmet vending machines at stations|last=RedEye|access-date=August 3, 2016}}</ref>
+
+In 2013, the Boston-Cambridge-Newton metropolitan statistical area (Boston MSA) had the seventh-lowest percentage of workers who commuted by private automobile (75.6 percent), with 6.2 percent of area workers traveling via rail transit. During the period starting in 2006 and ending in 2013, the Boston MSA had the greatest percentage decline of workers commuting by automobile (3.3 percent) among MSAs with more than a half-million residents.<ref>{{cite web |url= https://www.census.gov/content/dam/Census/library/publications/2015/acs/acs-32.pdf |title= Who Drives to Work? Commuting by Automobile in the United States: 2013 |series= American Survey Reports |access-date= December 26, 2017 |date= August 2015 |author= McKenzie, Brian}}</ref>
+
+==Twin towns and sister cities==
+{{Main|Sister cities of Boston}}
+The City of Boston has eleven official [[Twin towns and sister cities|sister cities]]:<ref>{{cite web |url=https://www.boston.gov/economic-development/sister-cities |title=Sister Cities |accessdate=July 20, 2018 |date=July 18, 2017|publisher=City of Boston|language=English}}</ref>
+
+*{{flagdeco|JPN}} [[Kyoto]], Japan (1959)
+*{{flagdeco|FRA}} [[Strasbourg]], France (1960)
+*{{flagdeco|ESP}} [[Barcelona]], Spain (1980)
+*{{flagdeco|PRC}} [[Hangzhou]], People's Republic of China (1982)
+*{{flagdeco|ITA}} [[Padua]], Italy (1983)
+*{{flagdeco|AUS}} [[Melbourne]], Australia (1985)
+*{{flagdeco|MOZ}} [[Beira, Mozambique|Beira]], Mozambique (1990)
+*{{flagdeco|ROC}} [[Taipei]], Taiwan (1996)
+*{{flagdeco|GHA}} [[Sekondi-Takoradi]], Ghana (2001)
+*{{flagdeco|UK}} [[Belfast]], Northern Ireland, United Kingdom (2014)
+*{{flagdeco|CPV}} [[Praia]], Cape Verde (2015)
+
+The City of Boston has formal partnership relationships through a Memorandum Of Understanding (MOU) with four additional cities or regions:
+
+*{{flagdeco|PRC}} [[Guangzhou]], People's Republic of China (2014)<ref>{{cite web |url=http://www.eguangzhou.gov.cn/2018-06/05/c_231707.htm |title=Friendly Cities |accessdate=July 20, 2018 |publisher=Guangzhou People's Government |language=English}}</ref>
+*{{flagdeco|FRA}} [[Lyon]], France (2016)<ref>{{cite web |url=https://www.boston.gov/news/mayor-walsh-signs-memorandum-understanding-lyon-france-vice-mayor-karin-dognin-sauze |title=MAYOR WALSH SIGNS MEMORANDUM OF UNDERSTANDING WITH LYON, FRANCE VICE-MAYOR KARIN DOGNIN-SAUZE |accessdate=July 20, 2018 |date=February 10, 2016 |author=City of Boston |publisher=City of Boston|language=English}}</ref>
+*{{flagdeco|DEN}} [[Copenhagen]], Denmark (2017)<ref>{{cite web |url=https://www.cambridgema.gov/news/detail.aspx?path=%2Fsitecore%2Fcontent%2Fhome%2FCDD%2FNews%2F2017%2F9%2Fclimatememorandumofcollaboration|title=CITY OF CAMBRIDGE JOINS BOSTON, COPENHAGEN IN CLIMATE MEMORANDUM OF COLLABORATION|publisher=City of Cambridge|accessdate=July 20, 2017|language=English}}</ref>
+*{{flagdeco|MEX}} [[Mexico City]], Mexico (2017)<ref>{{cite web |url=https://www.youtube.com/watch?v=F8ug7joD9aw |title=Memorandum of Understanding with Mexico City's Mayor Mancera – Promo |accessdate=July 20, 2018 |date=April 4, 2017 |author=Boston City TV |publisher=City of Boston|language=English}}</ref>
+*[[North West of Ireland]], Ireland and United Kingdom (2017)<ref>{{cite web |url=http://www.derrystrabane.com/Your-Council/News/Ireland-North-West-In-Boston |title=Ireland North West and City of Boston sign MOU |accessdate=July 20, 2018 |date=November 17, 2017 |author=Derry City & Strabane District Council |publisher=Derry City & Strabane District Council|language=English}}</ref>
+
+In 1900, Americans from Boston bought a piece of land in [[Bellville, Western Cape]], [[South Africa]] and developed it for residential purposes. In memory of their hometown, they called it [[Boston, Bellville|Boston]].
+
+==See also==
+{{Portal|size=tiny|Boston}}
+* [[Boston City League]] (high school athletic conference)
+* [[Boston nicknames]]
+* [[Boston–Halifax relations]]
+* [[List of diplomatic missions in Boston]]
+* [[List of people from Boston]]
+* [[List of tallest buildings in Boston]]
+* [[National Register of Historic Places listings in Boston]]
+* [[Boston bid for the 2024 Summer Olympics]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+===Sources===
+* {{Cite book | last1=Bluestone | first1=Barry | last2=Stevenson | first2=Mary Huff | title=The Boston Renaissance: Race, Space, and Economic Change in an American Metropolis | publisher=Russell Sage Foundation | year=2002 | isbn=978-1-61044-072-1 |ref=harv }}
+* {{Cite book | last=Bolino | first=August C. | title=Men of Massachusetts: Bay State Contributors to American Society | publisher=iUniverse | year=2012 | isbn=978-1-4759-3376-5 |ref=harv }}
+* {{Cite book | last=Christopher | first=Paul J.| title=50 Plus One Greatest Cities in the World You Should Visit | publisher=Encouragement Press, LLC. | year=2006 | isbn=978-1-933766-01-0 |ref=harv }}
+* {{Cite book| last=Hull | first=Sarah | title=The Rough Guide to Boston | publisher=Penguin | edition=6 | year=2011 | isbn=978-1-4053-8247-2 |ref=harv }}
+* {{Cite book | last=Kennedy | first=Lawrence W. | title=Planning the City Upon a Hill: Boston Since 1630 | publisher=University of Massachusetts Press | year=1994 | isbn=978-0-87023-923-6 |ref=harv }}
+* {{Cite book| last=Morris | first=Jerry | title=The Boston Globe Guide to Boston | publisher=Globe Pequot | year=2005 | isbn=978-0-7627-3430-6 |ref=harv }}
+* {{Cite book | last=Vorhees | first=Mara | title=Lonely Planet Boston City Guide | publisher=Lonely Planet | edition=4 | year=2009 | isbn=978-1-74179-178-5 |ref=harv }}
+* {{Cite book|last=Wechter|first=Eric B. |title=Fodor's Boston 2009 |publisher=Random House Digital, Inc. |year=2009 |isbn=978-1-4000-0699-1 |ref=harv |display-authors=etal}}
+
+==Further reading==
+{{main|Bibliography of Boston}}
+* {{cite book | last1=Beagle | first=Jonathan M. | last2=Penn | first2=Elan | title=Boston: A Pictorial Celebration | year=2006 | publisher=Sterling Publishing Company, Inc. | isbn=978-1-4027-1977-6}}
+* {{cite book | last=Brown | first=Robin |author2=''The Boston Globe'' | title=Boston's Secret Spaces: 50 Hidden Corners In and Around the Hub | year=2009 | publisher=Globe Pequot | edition=1 | isbn=978-0-7627-5062-7}}
+* {{cite book | last1=Hantover | first1=Jeffrey | last2=King | first2=Gilbert | title=City in Time: Boston | year=2008 | publisher=Sterling Publishing Company, Inc. | isbn=978-1-4027-3300-0}}
+* {{cite book | last=O'Connell | first=James C. | title=The Hub's Metropolis: Greater Boston's Development from Railroad Suburbs to Smart Growth | publisher=MIT Press | year=2013 | isbn=978-0-262-01875-3 | url=https://books.google.com/books?id=UY5SjKPbaGoC}}
+* {{cite book | last=O'Connor | first=Thomas H. | title=Boston: A to Z | year=2000 | publisher=Harvard University Press | isbn=978-0-674-00310-1}}
+* {{cite book | url=https://books.google.com/books?id=RbMBOZux_JsC | title=Boston's immigrants, 1840–1925 | year=2000 | last1=Price | first1=Michael | last2=Sammarco | first2=Anthony Mitchell | publisher=Arcadia Publishing | isbn=978-0-7524-0921-4}}
+* {{cite book | editor1-last=Krieger | editor1-first=Alex | editor2-last=Cobb | editor2-first=David | editor3-last=Turner | editor3-first=Amy | title=Mapping Boston | year=2001 | publisher=MIT Press | isbn=978-0-262-61173-2}}
+* {{cite book | last=Seasholes | first=Nancy S. |title=Gaining Ground: A History of Landmaking in Boston|location=Cambridge, Massachusetts |publisher=[[MIT Press]] |year=2003|isbn=978-0-262-19494-5}}
+* {{cite book| last=Shand-Tucci | first=Douglass | title=Built in Boston: City & Suburb, 1800–2000 | edition=2 |publisher=University of Massachusetts Press | year=1999| isbn=978-1-55849-201-1}}
+* {{cite book | last1=Southworth | first1=Michael | last2=Southworth | first2=Susan | title=AIA Guide to Boston, 3rd Edition: Contemporary Landmarks, Urban Design, Parks, Historic Buildings and Neighborhoods | year=2008 | edition=3 | publisher=Globe Pequot | isbn=978-0-7627-4337-7}}
+* {{cite book | last=Vrabel | first=Jim |author2=Bostonian Society | title=When in Boston: A Time Line & Almanac | year=2004 | publisher=Northeastern University Press | isbn=978-1-55553-620-6}}
+* {{cite book | last1=Whitehill | first1=Walter Muir | last2=Kennedy | first2= Lawrence W. | title=Boston: A Topographical History | edition=3 | year=2000 | publisher=Belknap Press of Harvard University Press | isbn=978-0-674-00268-5}}
+
+==External links==
+{{Wikiquote}}
+{{Sister project links |collapsible=collapsed |voy=Boston}}
+* {{Official website|www.cityofboston.gov}}
+* {{Cite NSRW|wstitle=Boston|short=x}}
+* [https://collections.leventhalmap.org/search?utf8=%E2%9C%93&q=%22Boston+%28Mass.%29--Maps%22&search_field=subject Historical Maps of Boston] from the [[Norman B. Leventhal Map Center]] at the [[Boston Public Library]]
+* {{dmoz|Regional/North_America/United_States/Massachusetts/Localities/B/Boston}}
+
+{{BostonMA}}
+{{Boston landmarks}}
+{{Navboxes
+| title = Other articles relating to Boston
+| list =
+{{Suffolk County, Massachusetts}}
+{{Greater_Boston}}
+{{Massachusetts}}
+{{Northeast Megalopolis}}
+{{New England}}
+{{Northeast US}}
+{{US state capitals}}
+{{All-American City Award Hall of Fame}}
+{{Massachusetts cities and mayors of 100,000 population}}
+}}
+{{Authority control}}
+{{Featured article}}
+
+[[Category:Boston]]
+[[Category:Cities in Massachusetts]]
+[[Category:Cities in Suffolk County, Massachusetts]]
+[[Category:1630 establishments in Massachusetts]]
+[[Category:County seats in Massachusetts]]
+[[Category:Greater Boston]]
+[[Category:Irish-American culture in Boston]]
+[[Category:Irish-American culture]]
+[[Category:Populated coastal places in Massachusetts]]
+[[Category:Populated places established in 1630]]
+[[Category:Port cities and towns in Massachusetts]]
+[[Category:University towns in the United States]]

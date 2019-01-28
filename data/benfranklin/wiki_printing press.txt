@@ -1,0 +1,583 @@
+{{About|the historical device created by Johannes Gutenberg|the modern technology of printing|printing}}
+{{pp|small=yes}}
+{{Use dmy dates|date=August 2017}}
+
+[[File:PrintMus 038.jpg|thumb|Recreated [[Johannes Gutenberg|Gutenberg]] press at the [[International Printing Museum]], Carson, California]]
+{{History of printing}}
+
+A '''printing press''' is a device for applying pressure to an [[ink]]ed surface resting upon a [[printing|print]] medium (such as paper or cloth), thereby transferring the ink. It marked a dramatic improvement on earlier printing methods in which the cloth, paper or other medium was brushed or rubbed repeatedly to achieve the transfer of ink, and accelerated the process. Typically used for texts, the invention and [[global spread of the printing press]] was one of the most influential events in the second millennium.<ref>For example, in 1999, the [[A&E Network]] ranked [http://www.wmich.edu/mus-gened/mus170/biography100 Gutenberg no. 1 on their "People of the Millennium" countdown]. In 1997, [[Time–Life]] magazine picked [http://www.mainz.de/gutenberg/g2000.htm Gutenberg's invention as the most important of the second millennium] {{webarchive|url=https://web.archive.org/web/20100310192514/http://www.mainz.de/gutenberg/g2000.htm |date=10 March 2010 }}; the same did four prominent US journalists in their 1998 resume [http://rhsweb.org/library/1000PeopleMillennium.htm 1,000 Years, 1,000 People: Ranking The Men and Women Who Shaped The Millennium]. The [http://www.newadvent.org/cathen/07090a.htm Johann Gutenberg] entry of the [[Catholic Encyclopedia]] describes his invention as having made a practically unparalleled cultural impact in the [[Christian era]].</ref><ref>{{harvnb|McLuhan|1962}}; {{harvnb|Eisenstein|1980}}; {{harvnb|Febvre|Martin|1997}}; {{harvnb|Man|2002}}</ref>
+
+[[Johannes Gutenberg]], a [[goldsmith]] by profession, developed, circa 1439, a printing system by adapting existing technologies to printing purposes, as well as making inventions of his own. [[History of printing in East Asia|Printing in East Asia]] had been prevalent since the [[Tang dynasty]],<ref name=Needham /><ref name=Briggs /> and in Europe, [[woodblock printing]] based on existing [[screw press]]es was common by the 14th century. Gutenberg's most important innovation was the development of hand-molded metal printing matrices, thus producing a [[movable type]]-based printing press system. His newly devised [[matrix (printing)|hand mould]] made possible the precise and rapid creation of metal [[movable type]] in large quantities. Movable type had been hitherto unknown in Europe. In Europe, the two inventions, the hand mould and the printing press, together drastically reduced the cost of printing books and other documents, particularly in short print runs.
+
+The printing press spread within several decades to over two hundred cities in a dozen European countries.<ref name="Febvre, Lucien; Martin, Henri-Jean 1976 by Anderson, Benedict 1993, 58f.">Febvre, Lucien; Martin, Henri-Jean (1976): "The Coming of the Book: The Impact of Printing 1450–1800", London: New Left Books, quoted in: Anderson, Benedict: "Comunidades Imaginadas. Reflexiones sobre el origen y la difusión del nacionalismo", Fondo de cultura económica, Mexico 1993, {{ISBN|978-968-16-3867-2}}, pp. 58f.</ref> By 1500, printing presses in operation throughout [[Western Europe]] had already produced more than twenty million volumes.<ref name="Febvre, Lucien; Martin, Henri-Jean 1976 by Anderson, Benedict 1993, 58f."/> In the 16th century, with presses spreading further afield, their output rose tenfold to an estimated 150 to 200 million copies.<ref name="Febvre, Lucien; Martin, Henri-Jean 1976 by Anderson, Benedict 1993, 58f."/> The operation of a press became synonymous with the enterprise of printing, and lent its name to a new medium of expression and communication, "[[Newspaper|the press]]".<ref>{{harvnb|Weber|2006|p=387}}: {{quote|At the same time, then, as the printing press in the physical, technological sense was invented, 'the press' in the extended sense of the word also entered the historical stage. The phenomenon of publishing was born.}}</ref>
+
+In Renaissance Europe, the arrival of mechanical movable type printing introduced the era of [[mass communication]], which permanently altered the structure of society. The relatively unrestricted circulation of information and (revolutionary) ideas transcended borders, captured the masses in the [[Protestant Reformation|Reformation]] and threatened the power of political and religious authorities. The sharp increase in [[literacy]] broke the monopoly of the literate elite on education and learning and bolstered the emerging [[middle class]]. Across Europe, the increasing cultural self-awareness of its peoples led to the rise of proto-[[nationalism]], and accelerated by the development of European [[vernacular language]]s, to the detriment of [[Latin]]'s status as [[lingua franca]].<ref>Anderson, Benedict: "Comunidades Imaginadas. Reflexiones sobre el origen y la difusión del nacionalismo", Fondo de cultura económica, Mexico 1993, {{ISBN|978-968-16-3867-2}}, pp.63–76</ref> In the 19th century, the replacement of the hand-operated Gutenberg-style press by [[steam-powered]] [[rotary press]]es allowed printing on an [[industrial age|industrial]] scale.<ref>{{harvnb|Gerhardt|1978|p=217}}</ref>
+
+== History ==
+{{Main|History of printing}}
+
+=== Economic conditions and intellectual climate ===
+{{See also|History of capitalism|Medieval university}} 
+[[File:Laurentius de Voltolina 001.jpg|thumb|[[Medieval university]] class (1350s)]]
+
+The rapid economic and socio-cultural development of [[Late Middle Ages|late medieval society]] in Europe created favorable intellectual and technological conditions for Gutenberg's improved version of the printing press: the entrepreneurial spirit of [[history of capitalism|emerging capitalism]] increasingly made its impact on medieval modes of production, fostering economic thinking and improving the efficiency of traditional work-processes. The sharp rise of [[Medieval university|medieval learning]] and literacy amongst the [[middle class]] led to an increased demand for books which the time-consuming hand-copying method fell far short of accommodating.<ref>{{harvnb|Eisenstein|1980}}; {{harvnb|Febvre|Martin|1997}}; {{harvnb|Man|2002}}</ref>
+
+=== Technological factors ===
+{{See also|History of Western typography|Medieval technology}}
+
+Technologies preceding the press that led to the press's invention included: manufacturing of paper, development of ink, woodblock printing, and distribution of eyeglasses.<ref>{{cite book|last1=Jones|first1=Colin|title=The Cambridge Illustrated History of France|publisher=Cambridge University Press|isbn=978-0-521-43294-8|page=133|edition=1st|date=1994-10-20}}</ref> At the same time, a number of medieval products and technological processes had reached a level of maturity which allowed their potential use for printing purposes. Gutenberg took up these far-flung strands, combined them into one complete and functioning system, and perfected the printing process through all its stages by adding a number of inventions and innovations of his own:
+
+[[File:Holzspindelkelter von 1702.jpg|thumb|left|Early modern [[wine press]]. Such [[screw press]]es were applied in Europe to a wide range of uses and provided Gutenberg with the model for his printing press.]]
+
+The [[screw press]] which allowed direct pressure to be applied on flat-plane was already of great antiquity in Gutenberg's time and was used for a wide range of tasks.<ref>{{harvnb|Wolf|1974|pp=21–35}}</ref> Introduced in the 1st century AD by the [[Roman agriculture|Romans]], it was commonly employed in agricultural production for [[Pressing (wine)|pressing]] [[vitis vinifera|wine grapes]] and ([[olive]]) oil fruit, both of which formed an integral part of the mediterranean and medieval diet.<ref>{{harvnb|Onken|2009}}; {{harvnb|White|1984|pp=31f.}}; {{harvnb|Schneider|2007|pp=156–159}}</ref> The device was also used from very early on in urban contexts as a [[cloth]] press for printing patterns.<ref>{{harvnb|Schneider|2007|p=158}}</ref> Gutenberg may have also been inspired by the [[paper]] presses which had spread through the [[Holy Roman Empire|German lands]] since the late 14th century and which worked on the same mechanical principles.<ref>{{harvnb|Schulte|1939|p=56}}</ref>
+
+Gutenberg adopted the basic design, thereby mechanizing the printing process.<ref>{{harvnb|Wolf|1974|pp=39f.}}</ref> Printing, however, put a demand on the machine quite different from pressing. Gutenberg adapted the construction so that the pressing power exerted by the [[platen]] on the paper was now applied both evenly and with the required sudden elasticity. To speed up the printing process, he introduced a movable undertable with a plane surface on which the sheets could be swiftly changed.<ref>{{harvnb|Wolf|1974|pp=39–46}}</ref>
+
+[[File:metal movable type.jpg|thumb|[[Movable type]] sorted in a [[letter case]] and loaded in a [[composing stick]] on top]]
+
+The concept of movable type was not new in the 15th century; movable type printing had been [[History of science and technology in China|invented in China]] during the [[Song dynasty]], and was later used in [[Korea]] during the [[Goryeo Dynasty]], where [[metal]] movable-type printing technology was developed in 1234.<ref name=Needham>{{cite book |title=Paper and Printing |author=[[Tsien Tsuen-Hsuin]] |author2=[[Joseph Needham]] |series=Science and Civilisation in China|volume=5 part 1|publisher=Cambridge University Press|page=158,201|year=1985}}</ref><ref name=Briggs>Briggs, Asa and Burke, Peter (2002) A Social History of the Media: from Gutenberg to the Internet, Polity, Cambridge, pp.15–23, 61–73.</ref> In Europe, sporadic evidence that the [[typographical principle]], the idea of creating a text by reusing individual characters, was well understood and employed in pre-Gutenberg Europe had been cropping up since the 12th century and possibly before. The known examples range from Germany ([[Prüfening dedicatory inscription|Prüfening inscription]]) to England ([[letter tiles]]) to Italy.<ref>Germany: {{harvnb|Brekle|1995|pp=23–26}}; {{harvnb|Brekle|1997|p=62}}; {{harvnb|Brekle|2005|p=25}}; England: {{harvnb|Lehmann-Haupt|1940|pp=93–97}}; {{harvnb|Brekle|1997|p=62}}; Italy: {{harvnb|Lipinsky|1986|pp=75–80}}; {{harvnb|Koch|1994|p=213}}. Lipinsky surmises that this typographical technique was known in [[Constantinople]] from the 10th to 12th century and that the [[Venice|Venetians]] received it from there (p. 78).</ref> However, the various techniques employed (imprinting, punching and assembling individual letters) did not have the refinement and efficiency needed to become widely accepted.
+
+Gutenberg greatly improved the process by treating [[typesetting]] and [[printing]] as two separate work steps. A goldsmith by profession, he created his type pieces from a [[lead]]-based [[alloy]] which suited printing purposes so well that it is still used today.<ref name="EB: Printing">[[Encyclopædia Britannica]] 2006: "Printing", retrieved 27 November 2006</ref> The mass production of metal letters was achieved by his key invention of a special [[hand mould]], the [[Matrix (printing)|matrix]].<ref name="Childress 2008, 51–55">{{harvnb|Childress|2008|pp=51–55}}</ref> The [[Latin alphabet]] proved to be an enormous advantage in the process because, in contrast to [[Logogram|logographic writing systems]], it allowed the type-setter to represent any text with a theoretical minimum of only around two dozen different [[letter (alphabet)|letters]].<ref>{{harvnb|Childress|2008|pp=51–55}}; {{harvnb|Hellinga|2007|p=208}}: {{quote|Gutenberg's invention took full advantage of the degree of abstraction in representing language forms that was offered by the alphabet and by the Western forms of script that were current in the fifteenth century.}}</ref>
+
+Another factor conducive to printing arose from the book existing in the format of the [[codex]], which had originated in the [[Roman Empire|Roman period]].<ref>{{harvnb|Roberts|Skeat|1983|pp=24–30}}</ref> Considered the most important advance in the history of the book prior to printing itself, the codex had completely replaced the [[Classical Antiquity|ancient]] [[scroll]] at the onset of the Middle Ages (500 AD).<ref>{{harvnb|Roberts|Skeat|1983|pp=1, 38–67, 75}}: {{quote|The most momentous development in the history of the book until the invention of printing was the replacement of the roll by the codex; this we may define as a collection of sheets of any material, folded double and fastened together at the back or spine, and usually protected by covers. (p. 1)}}</ref> The codex holds considerable practical advantages over the scroll format; it is more convenient to read (by turning pages), is more compact, less costly, and, in particular, unlike the scroll, both [[recto and verso]] could be used for writing − and printing.<ref>{{harvnb|Roberts|Skeat|1983|pp=45–53}}. Technically speaking, a scroll could be written on its back side, too, but the very few ancient specimen found indicate that this was never considered a viable option. (p. 46)</ref>
+
+[[File:Gutenberg Bible, Lenox Copy, New York Public Library, 2009. Pic 01.jpg|thumb|upright=0.9|left|A paper [[codex]] of the acclaimed [[42-line Bible]], Gutenberg's major work]]
+
+A fourth development was the early success of medieval papermakers at mechanizing [[paper]] manufacture. The introduction of water-powered [[paper mill]]s, the first certain evidence of which dates to 1282,<ref>{{harvnb|Burns|1996|p=418}}</ref> allowed for a massive expansion of production and replaced the laborious handcraft characteristic of both Chinese<ref>{{harvnb|Thompson|1978|p=169}}; {{harvnb|Tsien|1985|p=68−73}}; {{harvnb|Lucas|2005|p=28, fn. 70}}</ref> and Muslim papermaking.<ref>{{harvnb|Thompson|1978|p=169}}; {{harvnb|Burns|1996|pp=414–417}}</ref> Papermaking centres began to multiply in the late 13th century in Italy, reducing the price of paper to one sixth of [[parchment]] and then falling further; papermaking centers reached Germany a century later.<ref>{{harvnb|Burns|1996|p=417}}</ref>
+
+Despite this it appears that the final breakthrough of paper depended just as much on the rapid spread of movable-type printing.<ref>{{harvnb|Febvre|Martin|1997|pp=41–44}}; {{harvnb|Burns|1996|p=419}}: {{quote|In the West, the only inhibiting expense in the production of writings for an increasingly literate market was the manual labor of the scribe himself. With his mechanization by movable-type printing in the 1440s, the manufacture of paper, until then relatively confined, began to spread very widely. The Paper Revolution of the thirteenth century thus entered a new era.}}</ref> It is notable that codices of parchment, which in terms of quality is superior to any other writing material,<ref>{{harvnb|Roberts|Skeat|1983|pp=7f.}}: {{quote|Despite all that has been said above, even the strongest supporters of papyrus would not deny that parchment of good quality is the finest writing material ever devised by man. It is immensely strong, remains flexible indefinitely under normal conditions, does not deteriorate with age, and possesses a smooth, even surface which is both pleasant to the eye and provides unlimited scope for the finest writing and illumination.}}</ref> still had a substantial share in Gutenberg's edition of the [[42-line Bible]].<ref>The ratio between paper and parchment copies is estimated at around 150 to 30 ({{harvnb|Hanebutt-Benz|2000|pp=158–189}}).</ref> After much experimentation, Gutenberg managed to overcome the difficulties which traditional water-based inks caused by soaking the paper, and found the formula for an oil-based ink suitable for high-quality printing with metal type.<ref>{{harvnb|Childress|2008|p=60}}</ref>
+
+== Function and approach ==
+{{Unreferenced section|date=April 2015}}
+
+[[File:Press skeen 1872 with description.png|thumb|left|Early Press, etching from Early Typography by William Skeen]] [[File:Printer in 1568-ce.png|thumb|upright|This [[woodcut]] from 1568 shows the left printer removing a page from the press while the one at right inks the text-blocks. Such a duo could reach 14,000 hand movements per working day, printing around 3,600 pages in the process.<ref name="Wolf 1974, 67f.">{{harvnb|Wolf|1974|pp=67f.}}: {{quote|From old price tables it can be deduced that the capacity of a printing press around 1600, assuming a fifteen-hour workday, was between 3,200 and 3,600 impressions per day.}}</ref>]]A printing press, in its classical form, is a standing mechanism, ranging from {{convert|5|to|7|ft}} long, {{convert|3|ft}} wide, and {{convert|7|ft}} tall. The small individual metal letters known as type would be set up by a compositor into the desired lines of text. Several lines of text would be arranged at once and were placed in a wooden frame known as a galley. Once the correct number of pages were composed, the galleys would be laid face up in a frame, also known as a forme.<ref> Lyons 2011, p. 59 </ref>, which itself is placed onto a flat stone, 'bed,' or 'coffin.' The text is inked using two balls, pads mounted on handles. The balls were made of dog skin leather, because it has no pores,<ref>[http://www.pressinstitute.in/file-folder/rindsurvey/Rind%20June%202015%20SN.pdf] RIND Survey (The Press Institute of India- Research Institute for Newspaper Development) June 2015, p14</ref> and stuffed with sheep's wool and were inked. This ink was then applied to the text evenly. One damp piece of paper was then taken from a heap of paper and placed on the tympan. The paper was damp as this lets the type 'bite' into the paper better. Small pins hold the paper in place. The paper is now held between a [[frisket]] and [[tympan]] (two frames covered with paper or parchment).
+
+These are folded down, so that the paper lies on the surface of the inked type. The bed is rolled under the [[platen]], using a windlass mechanism. A small rotating handle is used called the 'rounce' to do this, and the impression is made with a screw that transmits pressure through the platen. To turn the screw the long handle attached to it is turned. This is known as the bar or 'Devil's Tail.' In a well-set-up press, the springiness of the paper, frisket, and tympan caused the bar to spring back and raise the platen, the windlass turned again to move the bed back to its original position, the tympan and frisket raised and opened, and the printed sheet removed. Such presses were always worked by hand. After around 1800, iron presses were developed, some of which could be operated by steam power. 
+
+The function of the press in the image on the left was described by William Skeen in 1872,
+{{quotation | this sketch represents a press in its completed form, with tympans attached to the end of the carriage, and with the frisket above the tympans. The tympans, inner and outer, are thin iron frames, one fitting into the other, on each of which is stretched a skin of parchment or a breadth of fine cloth. A woollen blanket or two with a few sheets of paper are placed between these, the whole thus forming a thin elastic pad, on which the sheet to be printed is laid. The frisket is a slender frame-work, covered with coarse paper, on which an impression is first taken; the whole of the printed part is then cut out, leaving apertures exactly corresponding with the pages of type on the carriage of the press. The frisket when folded on to the tympans, and both turned down over the forme of types and run in under the platten, preserves the sheet from contact with any thing but the inked surface of the types, when the pull, which brings down the screw and forces the platten to produce the impression, is made by the pressman who works the lever,—to whom is facetiously given the title of “the practitioner at the bar.”.<ref>{{cite book|title = Early Typography|last = Skeen|first =William|publisher =Government Printer, Colombo |year =1872|isbn = |location =Ceylon|pages = 122}}</ref>}}
+
+== Gutenberg's press ==
+{{See also|Letterpress printing}}
+
+[[Johannes Gutenberg]]'s work on the printing press began in approximately 1436 when he partnered with Andreas Dritzehn—a man who had previously instructed in gem-cutting—and Andreas Heilmann, owner of a paper mill.<ref name="meggs58-69"/> However, it was not until a 1439 [[lawsuit]] against Gutenberg that an official record existed; witnesses' testimony discussed Gutenberg's types, an inventory of metals (including lead), and his type molds.<ref name="meggs58-69"/>
+
+Having previously worked as a professional goldsmith, Gutenberg made skillful use of the knowledge of metals he had learned as a craftsman. He was the first to make type from an [[alloy]] of [[lead]], [[tin]], and [[antimony]], which was critical for producing durable type that produced high-quality printed books and proved to be much better suited for printing than all other known materials. To create these lead types, Gutenberg used what is considered one of his most ingenious inventions,<ref name="meggs58-69">Meggs, Philip B. A History of Graphic Design. John Wiley & Sons, Inc. 1998. (pp 58–69) {{ISBN|0-471-29198-6}}</ref> a special [[Matrix (printing)|matrix]] enabling the quick and precise molding of new type blocks from a uniform template. His [[type case]] is estimated to have contained around 290 separate letter boxes, most of which were required for special characters, [[typographic ligature|ligatures]], punctuation marks, and so forth.<ref>{{harvnb|Mahnke|2009|p=290}}</ref>
+
+Gutenberg is also credited with the introduction of an oil-based [[ink]] which was more durable than the previously used water-based inks. As printing material he used both paper and [[vellum]] (high-quality parchment). In the [[Gutenberg Bible]], Gutenberg made a trial of coloured printing for a few of the page headings, present only in some copies.<ref>{{harvnb|Kapr|1996|p=172}}</ref> A later work, the [[Mainz Psalter]] of 1453, presumably designed by Gutenberg but published under the imprint of his successors [[Johann Fust]] and [[Peter Schöffer]], had elaborate red and blue printed initials.<ref>{{harvnb|Kapr|1996|p=203}}</ref>
+
+== The Printing Revolution ==
+
+The Printing Revolution occurred when the spread of the printing press facilitated the wide circulation of information and ideas, acting as an "agent of change" through the societies that it reached. ([[Elizabeth L. Eisenstein|Eisenstein (1980)]])
+
+=== Mass production and spread of printed books ===
+{{See also|Global spread of the printing press|List of early modern newspapers}}
+[[File:Printing towns incunabula.svg|thumb|left|Spread of printing in the 15th century from [[Mainz]], Germany]]
+[[File:European Output of Printed Books ca. 1450–1800.png|thumb|The European book output rose from a few million to around one billion copies within a span of less than four centuries.<ref>{{harvnb|Buringh|van Zanden|2009|p=417, table 2}}</ref>]]
+
+The invention of mechanical movable type printing led to a huge increase of printing activities across Europe within only a few decades. From a single print shop in [[Mainz]], Germany, printing had spread to no less than around 270 cities in Central, Western and Eastern Europe by the end of the 15th century.<ref name="ISTC">{{cite web |url=http://www.bl.uk/catalogues/istc/index.html |title=Incunabula Short Title Catalogue |author= |date= |website= |publisher=[[British Library]] |accessdate=2 March 2011}}</ref> As early as 1480, there were printers active in 110 different places in Germany, Italy, France, Spain, the Netherlands, Belgium, Switzerland, England, [[Bohemia]] and Poland.<ref name="Febvre, Lucien; Martin, Henri-Jean 1976 by Anderson, Benedict 1993, 58f."/> From that time on, it is assumed that "the printed book was in universal use in Europe".<ref name="Febvre, Lucien; Martin, Henri-Jean 1976 by Anderson, Benedict 1993, 58f."/>
+
+In Italy, a center of early printing, print shops had been established in 77 cities and towns by 1500. At the end of the following century, 151 locations in Italy had seen at one time printing activities, with a total of nearly three thousand printers known to be active. Despite this proliferation, printing centres soon emerged; thus, one third of the Italian printers published in [[Venice]].<ref>{{harvnb|Borsa|1976|p=314}}; {{harvnb|Borsa|1977|p=166−169}}</ref>
+
+By 1500, the printing presses in operation throughout Western Europe had already produced more than twenty million copies.<ref name="Febvre, Lucien; Martin, Henri-Jean 1976 by Anderson, Benedict 1993, 58f."/> In the following century, their output rose tenfold to an estimated 150 to 200 million copies.<ref name="Febvre, Lucien; Martin, Henri-Jean 1976 by Anderson, Benedict 1993, 58f."/>
+
+European printing presses of around 1600 were capable of producing about 1,500 impressions per workday.<ref>{{cite journal|last1=Pollak |first1=Michael|title=The performance of the wooden printing press|journal=The Library Quarterly|date=1972|volume=42|issue=2|pages=218–264|jstor=4306163}}</ref> By comparison, [[History of printing in East Asia|book printing in East Asia]] did not use presses and was solely done by [[block printing]].<ref>Needham 1965, p. 211: {{quote|The outstanding difference between the two ends of the Old World was the absence of screw-presses from China, but this is only another manifestation of the fact that this basic mechanism was foreign to that culture.}} {{harvnb|Widmann|1974|p=34, fn. 14}}: {{quote|In East Asia, both woodblock and movable type printing were manual reproduction techniques, that is hand printing.}}  {{harvnb|Duchesne|2006|p=83}}; {{harvnb|Man|2002|pp=112–115}}: {{quote|Chinese paper was suitable only for calligraphy or block-printing; there were no screw-based presses in the east, because they were not wine-drinkers, didn’t have olives, and used other means to dry their paper.}}</ref>
+
+Of [[Erasmus]]'s work, at least 750,000 copies were sold during his lifetime alone (1469–1536).<ref>{{harvnb|Issawi|1980|pp=492}}</ref> In the early days of the Reformation, the revolutionary potential of bulk printing took princes and [[papacy]] alike by surprise. In the period from 1518 to 1524, the publication of books in Germany alone skyrocketed sevenfold; between 1518 and 1520, [[Martin Luther|Luther]]'s tracts were distributed in 300,000 printed copies.<ref>{{harvnb|Duchesne|2006|p=83}}</ref>
+
+The rapidity of typographical text production, as well as the sharp fall in unit costs, led to the issuing of the first [[newspaper]]s (see ''[[Relation (journal)|Relation]]'') which opened up an entirely new field for conveying up-to-date information to the public.<ref>{{harvnb|Weber|2006|pp=387f.}}</ref>
+
+[[Incunable]] are surviving pre-16th century print works which are collected by many of the libraries in Europe and North America.<ref>The British Library [http://www.bl.uk/catalogues/istc/index.html Incunabula Short Title Catalogue] gives 29,777 separate ''editions'' (not copies) as of 8 January 2008, which however includes some print items from the 16th century (retrieved 11 March 2010). According to Bettina Wagner: "Das Second-Life der Wiegendrucke. Die Inkunabelsammlung der Bayerischen Staatsbibliothek", in: Griebel, Rolf; Ceynowa, Klaus (eds.): "Information, Innovation, Inspiration. 450 Jahre Bayerische Staatsbibliothek", K G Saur, München 2008, {{ISBN|978-3-598-11772-5}}, pp. 207–224 (207f.), the [[Incunabula Short Title Catalogue]] lists 28,107 editions published before 1501.</ref>
+
+=== Circulation of information and ideas ===
+{{See also|The Gutenberg Galaxy}}
+[[File:Printing3 Walk of Ideas Berlin.JPG|thumb|upright|[[Walk of Ideas|"Modern Book Printing" sculpture]], commemorating Gutenberg's invention on the occasion of the [[2006 World Cup]] in Germany]]
+
+The printing press was also a factor in the establishment of a community of [[scientists]] who could easily communicate their discoveries through the establishment of widely disseminated scholarly journals, helping to bring on the [[scientific revolution]].{{Citation needed|date=November 2009}} Because of the printing press, [[author]]ship became more meaningful and profitable. It was suddenly important who had said or written what, and what the precise formulation and time of composition was. This allowed the exact citing of references, producing the rule, "One Author, one work (title), one piece of information" (Giesecke, 1989; 325). Before, the author was less important, since a copy of [[Aristotle]] made in Paris would not be exactly identical to one made in Bologna. For many works prior to the printing press, the name of the author has been entirely lost.{{Citation needed|date=November 2009}}
+
+Because the printing process ensured that the same information fell on the same pages, page numbering, tables of contents, and indices became common, though they previously had not been unknown.{{Citation needed|date=November 2009}} The process of reading also changed, gradually moving over several centuries from oral readings to silent, private reading.{{Citation needed|date=November 2009}} Over the next 200 years, the wider availability of printed materials led to a dramatic rise in the adult literacy rate throughout Europe.<ref>Peck, Josh. “The State of Publishing: Literacy Rates.” ''McSweeney’s Internet Tendency''. McSweeney, 5 July 2011. Web. 28 August 2014.</ref>
+
+The printing press was an important step towards the [[democratization of knowledge]].<ref>[http://www.spiegel.de/international/business/0,1518,473529-2,00.html Malte Herwig, "Google's Total Library", ''Spiegel Online International'', Mar. 28, 2007.]</ref><ref>[http://www.ojr.org/ojr/technology/1057780670.php Howard Rheingold, "Moblogs Seen as a Crystal Ball for a New Era in Online Journalism", ''Online Journalism Review'', Jul. 9, 2009.]</ref> Within 50 or 60 years of the invention of the printing press, the entire classical canon had been reprinted and widely promulgated throughout Europe (Eisenstein, 1969; 52). More people had access to knowledge both new and old, more people could discuss these works. Book production became more commercialised, and the first [[copyright]] laws were passed.<ref>{{Cite web|url=http://www.arl.org/focus-areas/copyright-ip/2486-copyright-timeline#.Wl1E7ainHIU|title=Copyright Timeline: A History of Copyright in the United States {{!}} Association of Research Libraries® {{!}} ARL®|last=Eshgh|first=Amy|website=www.arl.org|language=en-gb|access-date=2018-01-16}}</ref> On the other hand, the printing press was criticized for allowing the dissemination of information which may have been incorrect.<ref name="CrickWalsham2004">{{cite book|author1=Julia C. Crick|author2=Alexandra Walsham|title=The uses of script and print, 1300–1700|url=https://books.google.com/books?id=m8005wHw-KsC|accessdate=25 March 2011|year=2004|publisher=Cambridge University Press|isbn=978-0-521-81063-0|page=20}}</ref><ref name="Bilton2010">{{cite book|author=Nick Bilton|title=I Live in the Future & Here's How It Works: Why Your World, Work, and Brain Are Being Creatively Disrupted|url=https://books.google.com/books?id=9VXRLlTDNrUC&pg=PA53|accessdate=25 March 2011|date=14 September 2010|publisher=Random House Digital, Inc.|isbn=978-0-307-59111-1|page=53}}</ref>
+
+A second outgrowth of this popularization of knowledge was the decline of Latin as the language of most published works, to be replaced by the vernacular language of each area, increasing the variety of published works. The printed word also helped to unify and standardize the spelling and syntax of these vernaculars, in effect 'decreasing' their variability. This rise in importance of national languages as opposed to pan-European Latin is cited{{Who|date=March 2015}} as one of the causes of the rise of [[nationalism]] in Europe.
+
+A third consequence of popularization of printing was on the economy. The printing press was associated with higher levels of city growth.<ref name="Dittmar2011">{{cite article|author1=Jeremiah Dittmar|title=Information technology and economic change: The impact of the printing press|url=http://voxeu.org/article/information-technology-and-economic-change-impact-printing-press|accessdate=3 August 2017|publisher=VoxEU}}</ref> The publication of trade related manuals and books teaching techniques like [[double-entry bookkeeping]] increased the reliability of trade and led to the decline of merchant guilds and the rise of individual traders.<ref name="Raj2017">{{cite article|author1=Prateek Raj|title=How the Postal System and the Printing Press Transformed European Markets|url=http://evonomics.com/europe-markets-guilds-merchants-declined/|accessdate=3 August 2017|publisher=Evonomics}}</ref>
+
+== Industrial printing presses ==
+{{See also|History of printing}}
+At the dawn of the [[Industrial Revolution]], the mechanics of the hand-operated Gutenberg-style press were still essentially unchanged, although new materials in its construction, amongst other innovations, had gradually improved its printing efficiency. By 1800, [[Charles Stanhope, 3rd Earl Stanhope|Lord Stanhope]] had built a press completely from cast iron which reduced the force required by 90%, while doubling the size of the printed area.<ref name="meggs130-133">Meggs, Philip B. ''A History of Graphic Design''. John Wiley & Sons, Inc. 1998. (pp 130–133) {{ISBN|0-471-29198-6}}</ref> With a capacity of 480 pages per hour, the Stanhope press doubled the output of the old style press.<ref name="Bolza 1967, 80">{{harvnb|Bolza|1967|p=80}}</ref> Nonetheless, the limitations inherent to the traditional method of printing became obvious.
+
+[[File:Koenig's steam press - 1814.png|thumb|left|[[Friedrich Koenig|Koenig]]'s 1814 steam-powered printing press]]
+
+Two ideas altered the design of the printing press radically: First, the use of steam power for running the machinery, and second the replacement of the printing flatbed with the rotary motion of cylinders. Both elements were for the first time successfully implemented by the German printer [[Friedrich Koenig]] in a series of press designs devised between 1802 and 1818.<ref name="Bolza 1967, 88">{{harvnb|Bolza|1967|p=88}}</ref> Having moved to London in 1804, Koenig soon met [[Thomas Bensley]] and secured financial support for his project in 1807.<ref name="meggs130-133"/> Patented in 1810, Koenig had designed a steam press "much like a hand press connected to a steam engine."<ref name="meggs130-133"/> The first production trial of this model occurred in April 1811. He produced his machine with assistance from German engineer [[Andreas Friedrich Bauer]].
+
+Koenig and Bauer sold two of their first models to ''[[The Times]]'' in [[London]] in 1814, capable of 1,100 impressions per hour. The first edition so printed was on 28 November 1814. They went on to perfect the early model so that it could print on both sides of a sheet at once. This began the long process of making [[newspaper]]s available to a mass audience (which in turn helped spread literacy), and from the 1820s changed the nature of [[book]] production, forcing a greater standardization in titles and other [[metadata (computing)|metadata]]. Their company [[Koenig & Bauer AG]] is still one of the world's largest manufacturers of printing presses today.
+
+===Rotary press===
+The steam powered [[rotary printing press]], invented in 1843 in the [[United States]] by [[Richard M. Hoe]],<ref name="meggs147">{{Cite book|last=Meggs|first=Philip B.|authorlink=Philip B. Meggs|title=A History of Graphic Design|publisher=John Wiley & Sons, Inc.|year=1998|location=|edition=Third|page=147|isbn=978-0-471-29198-5}}</ref> allowed millions of copies of a page in a single day. Mass production of printed works flourished after the transition to rolled paper, as continuous feed allowed the presses to run at a much faster pace.
+
+By the late 1930s or early 1940s, rotary presses had increased substantially in efficiency: a model by Platen Printing Press was capable of performing 2,500 to 3,000 impressions per hour.{{Citation needed|date=November 2009}}
+
+Also, in the middle of the 19th century, there was a separate development of [[jobbing presses]], small presses capable of printing small-format pieces such as [[billhead]]s, letterheads, business cards, and envelopes. Jobbing presses were capable of quick set-up (average setup time for a small job was under 15 minutes) and quick production (even on treadle-powered jobbing presses it was considered normal to get 1,000 impressions per hour [iph] with one pressman, with speeds of 1,500 iph often attained on simple envelope work).{{Citation needed|date=November 2009}} Job printing emerged as a reasonably cost-effective duplicating solution for commerce at this time.
+
+== Gallery ==
+<gallery mode=packed heights=150px style="text-align:left">
+File:Model of The Printing Press..png|Model of the Common Press, used from 1650 to 1850
+File:Handtiegelpresse von 1811.jpg|Printing press from 1811
+File:Iserlohn-Druckpresse1-Bubo.JPG|[[Charles Stanhope, 3rd Earl Stanhope|Stanhope]] press from 1842
+File:Cccasarealjf.JPG|Imprenta Press V John Sherwin from 1860
+</gallery>
+
+== See also ==
+; General
+*[[Imprimatur]]
+* [[Printing]]
+* [[Typography]]
+; Printing presses
+* [[Adana Printing Machines|Adana Printing Presses]]
+* [[Albion press]]
+* [[Columbian Printing Press]]
+* [[Flexography]]
+* [[Augustus Applegath|Vertical print press]]
+; Other inventions
+* [[Color printing]]
+* [[Lithography]]
+* [[Offset printing]]
+* [[Desktop publishing]]
+* [[Electronic publishing]]
+* [[Computer printer]]
+* [[Composing stick]]
+
+== Notes ==
+{{Reflist|30em}}
+
+== References ==
+'''On the effects of the printing press'''
+* {{Citation
+|last1=Boruchoff
+|first=David A.
+|contribution=The Three Greatest Inventions of Modern Times: An Idea and Its Public
+|title=Entangled Knowledge: Scientific Discourses and Cultural Difference
+|editor=Klaus Hock |editor2=Gesa Mackenthun
+|publisher=Waxmann
+|year=2012
+|location=Münster
+|pages=133–163
+|isbn=978-3-8309-2729-7
+}}
+* {{Citation
+|last1=Buringh
+|first1=Eltjo
+|last2=van Zanden
+|first2=Jan Luiten
+|title=Charting the "Rise of the West": Manuscripts and Printed Books in Europe, A Long-Term Perspective from the Sixth through Eighteenth Centuries
+|journal=[[The Journal of Economic History]]
+|volume=69
+|issue=2
+|pages=409–445
+|year=2009
+|doi=10.1017/s0022050709000837
+}}
+* {{Citation
+|last=Eisenstein
+|first=Elizabeth L.
+|authorlink=Elizabeth L. Eisenstein
+|title=The Printing Press as an Agent of Change
+|publisher=Cambridge University Press
+|year=1980
+|isbn=978-0-521-29955-8
+}}
+* {{Citation
+|last=Eisenstein
+|first=Elizabeth L.
+|title=The Printing Revolution in Early Modern Europe
+|publisher=Cambridge University Press
+|edition=2nd, rev.
+|year=2005
+|isbn=978-0-521-60774-2
+}} [More recent, abridged version]
+* {{Citation
+|last1=Febvre
+|first1=Lucien
+|authorlink1=Lucien Febvre
+|last2=Martin
+|first2=Henri-Jean
+|authorlink2=Henri-Jean Martin
+|title=The Coming of the Book: The Impact of Printing 1450–1800
+|publisher=Verso
+|place=London
+|year=1997
+|isbn=978-1-85984-108-2
+}}
+* {{Citation
+|last=Man
+|first=John
+|authorlink=John Man (author)
+|title=The Gutenberg Revolution: The Story of a Genius and an Invention that Changed the World
+|publisher=Headline Review
+|place=London
+|year=2002
+|isbn=978-0-7472-4504-9
+}}
+* {{Citation
+|last=McLuhan
+|first=Marshall
+|authorlink=Marshall McLuhan
+|title=The Gutenberg Galaxy: The Making of Typographic Man
+|publisher=University of Toronto Press
+|edition=1st
+|year=1962
+|isbn=978-0-8020-6041-9
+}}
+'''Technology of printing'''
+* {{Citation
+|last=Bechtel
+|first=G.
+|title=Gutenberg et l'invention de l'imprimerie
+|publisher=Fayard
+|place=Paris
+|year=1992
+|isbn=978-2-213-02865-1
+}}
+* {{Citation
+|last=Bolza
+|first=Hans
+|title=Friedrich Koenig und die Erfindung der Druckmaschine
+|journal=Technikgeschichte
+|volume=34
+|issue=1
+|pages=79–89
+|year=1967
+}}
+* {{Citation
+|last=Borsa
+|first=Gedeon
+|title=Druckorte in Italien vor 1601
+|journal=[[Gutenberg-Jahrbuch]]
+|pages=311–314
+|year=1976
+}}
+* {{Citation
+|last=Borsa
+|first=Gedeon
+|title=Drucker in Italien vor 1601
+|journal=[[Gutenberg-Jahrbuch]]
+|pages=166–169
+|year=1977
+}}
+* {{Citation
+|last=Brekle
+|first=Herbert E.
+|authorlink=Herbert E. Brekle
+|title=Eine weitere Spur einer typographischen Werkstatt beim Kloster Prüfening im 12. Jahrhundert
+|journal=[[Gutenberg-Jahrbuch]]
+|volume=70
+|pages=23–26
+|year=1995
+}}
+* {{Citation
+|last=Brekle
+|first=Herbert E.
+|title=Das typographische Prinzip. Versuch einer Begriffsklärung
+|url=http://www.typeforum.de/news_332.htm
+|journal=[[Gutenberg-Jahrbuch]]
+|volume=72
+|pages=58–63
+|year=1997
+}}
+* {{Citation
+|last=Brekle
+|first=Herbert E.
+|title=Die Prüfeninger Weihinschrift von 1119. Eine paläographisch-typographische Untersuchung (brief summary)
+|url=http://www.typeforum.de/news_308.htm
+|publisher=Scriptorium Verlag für Kultur und Wissenschaft
+|place=Regensburg
+|year=2005
+|isbn=978-3-937527-06-2
+}}
+* {{Citation
+|last=Burns
+|first=Robert I.
+|editor-last=Lindgren
+|editor-first=Uta
+|contribution=Paper comes to the West, 800–1400
+|title=Europäische Technik im Mittelalter. 800 bis 1400. Tradition und Innovation
+|edition=4th
+|year=1996
+|publisher=Gebr. Mann Verlag
+|location=Berlin
+|isbn=978-3-7861-1748-3
+|pages=413–422
+}}
+* {{Citation
+|last=Childress
+|first=Diana
+|title=Johannes Gutenberg and the Printing Press
+|publisher=Twenty-First Century Books
+|place=Minneapolis
+|year=2008
+|isbn=978-0-7613-4024-9
+}}
+* Ch'on Hye-bong: "Typography in Korea", ''Koreana'', Vol. 7, No. 2 (1993), pp.&nbsp;10–19
+* {{worldhistory}}
+* {{Citation
+|last=Crompton
+|first=Samuel Willard
+|title=The Printing Press. Transforming Power of Technology
+|publisher=Chelsea House Publishers
+|place=Philadelphia
+|year=2004
+|isbn=978-0-7910-7451-0
+}}
+* {{Citation
+|last=Duchesne
+|first=Ricardo
+|title=Asia First?
+|journal=The Journal of the Historical Society
+|volume=6
+|issue=1
+|pages=69–91
+|year=2006
+|doi=10.1111/j.1540-5923.2006.00168.x
+}}
+* {{Citation
+|last=Fontaine
+|first=Jean-Paul
+|title=L'aventure du livre: Du manuscrit medieval a nos jours
+|publisher=Bibliothèque de l'image
+|place=Paris
+|year=1999
+|isbn =
+}}
+* {{Citation
+|last=Gerhardt
+|first=Claus W.
+|title=Warum wurde die Gutenberg-Presse erst nach über 350 Jahren durch ein besseres System abgelöst?
+|journal=[[Gutenberg-Jahrbuch]]
+|pages=43–57
+|year=1971
+}}
+* {{Citation
+|last=Gerhardt
+|first=Claus W.
+|title=Besitzt Gutenbergs Erfindung heute noch einen Wert?
+|journal=[[Gutenberg-Jahrbuch]]
+|pages=212–217
+|year=1978
+}}
+* {{Citation
+|last=Hanebutt-Benz
+|first=Eva-Maria
+|contribution=Gutenbergs Erfindungen
+|title=Gutenberg. Aventur und Kunst: Vom Geheimunternehmen zur ersten Medienrevolution
+|publisher=Stadt Mainz
+|year=2000
+|location=Mainz
+|pages=158–189
+}}
+* {{Citation
+|last=Hellinga
+|first=Lotte
+|contribution=The Gutenberg Revolutions
+|title=A Companion to the History of the Book
+|editor-last=Eliot
+|editor-first=Simon
+|editor2-last=Rose
+|editor2-first=Jonathan
+|publisher=Blackwell Publishing
+|pages=207–220
+|year=2007
+|isbn=978-1-4051-2765-3
+}}
+* Hind, Arthur M., ''An Introduction to a History of Woodcut'', Houghton Mifflin Co. 1935 (in USA), reprinted Dover Publications, 1963 {{ISBN|0-486-20952-0}}
+* {{Citation
+|last=Issawi
+|first=Charles
+|authorlink=Charles Issawi
+|title=Europe, the Middle East and the Shift in Power: Reflections on a Theme by Marshall Hodgson
+|journal=Comparative Studies in Society and History
+|volume=22
+|issue=4
+|pages=487–504
+|year=1980
+|doi=10.1017/s001041750000949x
+}}
+* {{Citation
+|last=Kapr
+|first=Albert
+|title=Johannes Gutenberg. The Man and his Invention
+|publisher=Scolar
+|place=Aldershot
+|year=1996
+|isbn=978-1-85928-114-7
+}}
+* {{Citation
+|last=Koch
+|first=Walter
+|title=Literaturbericht zur mittelalterlichen und neuzeitlichen Epigraphik (1985–1991)
+|series=[[Monumenta Germaniae Historica]]: Hilfsmittel
+|volume=14
+|year=1994
+|location=München
+|isbn=978-3-88612-114-4
+|page=213
+}}
+* {{Citation
+|last=Lehmann-Haupt
+|first=Hellmut
+|title=Englische Holzstempelalphabete des XIII. Jahrhunderts
+|journal=[[Gutenberg-Jahrbuch]]
+|pages=93–97
+|year=1940
+}}
+* {{Citation
+|last=Lipinsky
+|first=Angelo
+|title=La pala argentea del Patriarca Pellegrino nella Collegiata di Cividale e le sue iscrizioni con caratteri mobili
+|journal=Ateneo Veneto
+|volume=24
+|pages=75–80
+|year=1986
+}}
+* {{Citation
+|last=Lucas
+|first=Adam Robert
+|title=Industrial Milling in the Ancient and Medieval Worlds. A Survey of the Evidence for an Industrial Revolution in Medieval Europe
+|journal=Technology and Culture
+|volume=46
+|issue=1
+|pages=1–30
+|year=2005
+|doi=10.1353/tech.2005.0026
+}}
+* {{Citation
+|last1=Lyons
+|first1=Martyn
+|title=Books: A Living History
+|publisher=Getty Publications
+|place=Los Angeles
+|year=2011
+|isbn=978-1-60606-083-4
+}}
+* {{Citation
+|last=Mahnke
+|first=Helmut
+|title=Der kunstreiche Johannes Gutenberg und die Frühzeit der Druckkunst
+|publisher=Books on Demand
+|location=Norderstedt
+|year=2009
+|isbn=978-3-8370-5041-7
+}}
+* Needham, Joseph: "Science and Civilisation in China", Physics and Physical Technology (Vol. 4), Mechanical Engineering (Part 2), Cambridge University Press, 1965
+* {{Citation
+|last=Onken
+|first=Björn
+|year=2009
+|contribution=Presses
+|editor-last=Cancik
+|editor-first=Hubert
+|editor2-last=Schneider
+|editor2-first=Helmuth
+|title=Brill's New Pauly
+|title-link=Brill's New Pauly
+}}
+* Encyclopædia Britannica 2006: "Printing". Retrieved 27 November 2006
+* {{Citation
+|last1=Roberts
+|first1=Colin H.
+|last2=Skeat
+|first2=T. C.
+|title=The Birth of the Codex
+|publisher=Oxford University Press
+|location=London
+|year=1983
+|isbn=978-0-19-726024-1
+}}
+* {{Citation
+|last=Schneider
+|first=Helmuth
+|editor1-last=Scheidel
+|editor1-first=Walter
+|editor2-last=Morris
+|editor2-first=Ian
+|editor3-last=Saller
+|editor3-first=Richard
+|editor1-link=Walter Scheidel
+|editor2-link=Ian Morris (historian)
+|contribution=Technology
+|title=The Cambridge Economic History of the Greco-Roman World
+|year=2007
+|publisher=Cambridge University Press
+|isbn=978-0-521-78053-7
+|pages=144–171
+}}
+* {{Citation
+|last=Schulte
+|first=Alfred
+|title=Papierpresse, Druckerpresse und Kelter
+|journal=[[Gutenberg-Jahrbuch]]
+|pages=52–56
+|year=1939
+}}
+* {{Citation
+|last=Thompson
+|first=Susan
+|title=Paper Manufacturing and Early Books
+|journal=Annals of the New York Academy of Sciences
+|volume=314
+|pages=167–176
+|year=1978
+|doi=10.1111/j.1749-6632.1978.tb47791.x
+}}
+* {{Citation|last=Tsien|first=Tsuen-Hsuin|series=Science and Civilisation in China, Chemistry and Chemical Technology (Vol. 5, Part 1)|title=Paper and Printing|publisher=Cambridge University Press|year=1985|ref=harv}}
+* {{Citation
+|last=Weber
+|first=Johannes
+|title=Strassburg, 1605: The Origins of the Newspaper in Europe
+|journal=German History
+|volume=24
+|issue=3
+|pages=387–412
+|year=2006
+|doi=10.1191/0266355406gh380oa
+}}
+* {{Citation
+|last=White
+|first=K. D.
+|title=Greek and Roman Technology
+|publisher=Thames and Hudson
+|place=London
+|year=1984
+}}
+* {{Citation
+|last=Widmann
+|first=Hans
+|title=Der koreanische Buchdruck und Gutenbergs Erfindung
+|journal=[[Gutenberg-Jahrbuch]]
+|pages=32–34
+|year=1974
+}}
+* {{Citation
+|last=Wolf
+|first=Hans-Jürgen
+|title=Geschichte der Druckpressen
+|place=Frankfurt/Main
+|publisher=Interprint
+|edition=1st
+|year=1974
+}}
+
+== External links ==
+{{Commons}}
+* [http://www.chb.hss.ed.ac.uk/ Centre for the History of the Book]
+* [http://www.citrinitas.com/history_of_viscom/press.html Gutenberg printing] − Photos of ''Incunabula'' and the Gutenberg Bible (1455)
+* [https://archive.org/details/Printing1947 Internet Archive: Printing (1947)] − a film from the Prelinger Archives explaining the printing industry
+
+{{Letterpress}}
+
+{{Authority control}}
+
+[[Category:Printing]]
+[[Category:Johannes Gutenberg]]
+[[Category:1445 introductions]]
+[[Category:Textual scholarship]]

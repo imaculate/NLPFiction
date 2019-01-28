@@ -1,0 +1,240 @@
+{{distinguish|Boston Latin Academy}}
+{{more citations needed|date=April 2017}}
+{{Infobox school
+| name = Boston Latin School
+| logo = Boston Latin School logo.png
+| motto = ''Sumus Primi'' ([[Latin]])
+| motto_translation = "We are first"
+| city = [[Boston]]
+| state = [[Massachusetts]], 02115
+| country = United States
+| coordinates = {{Coord|42.338|-71.102|type:edu_region:US-MA|display=title}}
+| pushpin_map = United States Boston#Boston Metro#USA Massachusetts#USA
+| type = [[Public school (government funded)|Public]] [[exam school]]
+| established = {{Start date and age|1635|4|23}}
+| district = [[Boston Public Schools]]
+| category = 
+| oversight = 
+| oversight_label = 
+| headmaster = Rachel Skerritt
+| faculty = 134
+| teaching_staff = 
+| grades = 7–12 
+| gender = [[Coeducational]]
+| athletics = 
+| conference = [[Massachusetts Interscholastic Athletic Association|Massachusetts Interscholastic Athletic Association (MIAA)]] District A – [[Dual County League]]
+| mascot = "Wolfie"<ref>{{cite news |first=Dave |last=Caldwell |title=Thanksgiving Day Games: Old Rivalries, Then the Turkey |url=http://travel.nytimes.com/2006/11/10/travel/escapes/10ahead.html |work=[[The New York Times]] |date=2006-11-10 |accessdate=2008-01-12 }}</ref>
+| nickname = "The Wolfpack", "BLS"
+| rival = [[English High School of Boston|English High School of Boston (Boston English)]]
+| accreditation = [[New England Association of Schools and Colleges|New England Association of Schools and Colleges (NEASC)]]
+| national_ranking = 
+| newspaper = ''The Argo''
+| yearbook = ''Liber Actorum''
+| website = {{URL|www.bls.org|bls.org}}
+| footnotes = 
+| category_label = 
+| gender_label = 
+| students = 2,439 (2015-16)<ref>{{cite web|url=https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?Search=1&DistrictID=2502790&ID=250279000203|title=Boston Latin|publisher=National Center for Education Statistics|accessdate=December 12, 2018}}</ref>
+| grades_label = Grades
+| address = 78 Avenue Louis Pasteur
+| campus = [[Urban area|Urban]]
+| colors = Purple and White,  {{color box|purple}} {{color box|white}}
+}}
+
+The '''Boston Latin School''' is a [[public education|public]] [[Magnet school|exam school]] in [[Boston]], [[Massachusetts]]. Established on April 23, 1635, it is the oldest and [[List of the oldest public high schools in the United States|first public school]] in the United States.<ref>{{cite web|url=http://www.bls.org/cfml/l3tmpl_history.cfm|title=History of Boston Latin School—oldest public school in America|publisher=Boston Latin School|accessdate=2007-06-01|archiveurl=https://archive.is/20070502223937/http://www.bls.org/cfml/l3tmpl_history.cfm <!-- Bot retrieved archive --> |archivedate=2007-05-02}}</ref><ref>{{cite web |url=http://www.britannica.com/eb/article-9015836/Boston-Latin-School|title=Boston Latin School|work=Encyclopædia Britannica Online
+}}</ref><ref>{{cite web|url=http://www.cityofboston.gov/freedomtrail/firstpublic.asp|title=First Public School Site and Ben Franklin Statue|publisher=City of Boston}}</ref><ref>{{cite web|title=Boston Latin School|url=http://www.nndb.com/edu/712/000068508/
+|publisher=NNDB}}</ref> The Public Latin School was a bastion for educating the sons of the [[Boston Brahmin|Boston "Brahmin" elite]], resulting in the school claiming many prominent Bostonians, Massachusetts citizens and New Englanders as alumni. Its curriculum follows that of the 18th century [[Latin school|Latin-school]] movement, which holds the "[[classics]]" to be the basis of an educated mind. Four years of [[Latin]] are mandatory for all pupils who enter the School in the 7th grade, three years for those who enter in the 9th. In 2007, the school was named one of the top twenty high schools in the United States by ''[[U.S. News & World Report]]'' magazine.<ref>{{cite web |url=https://www.usnews.com/sections/education/high-schools |title=Best High Schools 2008 |work=[[U.S. News & World Report]] |date=November 29, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20081218035351/http://www.usnews.com/sections/education/high-schools/ |archivedate=December 18, 2008 |df= }}</ref><ref>{{cite web|url=https://www.usnews.com/articles/education/high-schools/2007/11/29/the-first-class-state.html|title=The First-Class State—Two examples of how Massachusetts gets it right|work=[[U.S. News & World Report]]|date=November 29, 2007|deadurl=yes|archiveurl=https://web.archive.org/web/20081219191828/http://www.usnews.com/articles/education/high-schools/2007/11/29/the-first-class-state.html|archivedate=December 19, 2008|df=}}</ref> It is a part of [[Boston Public Schools]] (BPS).
+
+The school was named a 2011 "[[Blue Ribbon Schools Program|Blue Ribbon School of Excellence]]", the [[United States Department of Education|U.S. Department of Education's]] highest award.<ref>[http://www2.ed.gov/programs/nclbbrs/2011/national.pdf 2011 National Blue Ribbon Schools], accessed April 3, 2012</ref>
+
+As of 2018, the school is listed under the "gold medal" list, ranking 48 out of the top 100 high schools in the United States (more than 20,500 public high schools from 50 states and the District of Columbia were analyzed) by ''[[U.S. News & World Report]]'' magazine.<ref>{{cite web |url=https://www.usnews.com/education/best-high-schools/national-rankings?page=3 |title=National Rankings Best High Schools |publisher=U.S. News & World Report LP. |date=2016-04-19 |accessdate=2016-04-20 |deadurl=yes |archiveurl=https://web.archive.org/web/20160420015353/http://www.usnews.com/education/best-high-schools/national-rankings?page=3 |archivedate=2016-04-20 |df= }}</ref>
+
+==History==
+[[File:Boston Latin Plaque.jpg|Plaque on School Street commemorating the site of the first Boston Latin School building.|thumb]]
+
+[[File:BLS HALL OF THE BEDFORD STREET SCHOOL HOUSE.jpg|Hall of the
+BLS School House on Bedford Street, 1844–1881.|thumb]]
+
+[[Puritans]]  placed a strong emphasis on education at every age level for their offspring, beginning at home, with a primary reason for this being in order to read the Bible, which was used for spiritual and moral instruction. Puritan leaders themselves were accustomed to the highest educational standards, with most of their ministers having graduated from [[Oxford]] or [[Cambridge University]] in [[England]].
+
+They soon established Boston Latin School as the first school in the colony, and modeled it after the European Latin School Model, which emphasized the learning of religion, Latin, and classical literature.<ref>{{cite book|last1=Jeynes|first1=William H.|title=American educational history : school, society, and the common good|date=2007|publisher=SAGE Publications|location=Thousand Oaks, Calif. [u.a.]|isbn=978-1412914215|pages=4, 6, 12|url=https://books.google.com/books?id=j7hK-7CC7fMC&dq=boston+latin+was+founded+in+order+for&source=gbs_navlinks_s|accessdate=6 March 2016}}</ref><ref>{{cite book|last1=Simon|first1=Christopher A.|title=To run a school : administrative organization and learning|date=2001|publisher=Praeger|location=Westport, Conn.|isbn=978-0275968342|page=8}}<!--|accessdate=6 March 2016--></ref> In early years they were not funded by tax dollars, but rather by donations and land rentals.<ref name=vie>{{cite news | url = http://archive.boston.com/news/local/articles/2005/11/27/schools_vie_for_honor_of_being_the_oldest/ | title = Schools vie for honor of being the oldest | first = Maria | last = Sacchetti | newspaper = The Boston Globe | date = November 27, 2005 | accessdate = June 14, 2016 | quote = "In Boston everybody may have agreed that education was important, but nobody put his wallet on the table," said Robert Hanson, Dedham's former executive secretary and the unofficial historian.}}</ref>  A [[Dedham Public Schools|school]] established in nearby [[Dedham, Massachusetts|Dedham]] thus became the first tax supported public school several years later.<ref name=vie/>
+
+English was not the dominant language of the world at that time, and the ability to read and speak more than one language was considered important for those who would excel. Therefore, the learning of Latin (considered to be the mother of [[Romance languages]]) was also a priority, as it was with grammar schools in England.  Seventeenth-century schoolboys throughout Europe, Catholic or Protestant, learned Latin, which explains the "Latin" in "Boston Latin".<ref>{{cite book|last1=Howe|first1=Françoise Waquet. Translated by John|title=Latin or the empire of a sign : from the sixteenth to the twentieth centuries|date=2002|publisher=Verso|location=London|isbn=978-1859844021|page=22|edition=Paperback ed. 1. publ. by Verso.|url=https://books.google.com/books?id=jgeV5UEKWggC&dq=boston+latin++was+called+latin+because+the+need+to+learn+latin+++language&source=gbs_navlinks_s|accessdate=6 March 2016}}</ref>  The ability to read at least [[Cicero]] and [[Virgil]] was a requirement of all colonial colleges, and to write and speak such Latin in verse and prose was the first of the Harvard laws of 1642 (followed by Christian conversion).<ref>{{cite web|title=History of Harvard |url=http://www.allabouthistory.org/history-of-harvard.htm |website=AllAboutHistory.org |accessdate=6 March 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160316155425/http://www.allabouthistory.org/history-of-harvard.htm |archivedate=16 March 2016 |df= }}</ref><ref>{{cite book|last1=Morison|first1=Samuel Eliot|title=The founding of the Harvard College|date=1968|publisher=Harvard University Press|location=Cambridge, Mass.|isbn=978-0674314504|page=333|url=https://books.google.com/books?id=zkQWZaZqZfUC&dq=harvard+laws+1642+Laws+and+Statutes+for+Students+of+Harvard+College&q=make+and+speake+true+Latin+in+verse+and+prose#v=snippet&q=make%20and%20speake%20true%20Latin%20in%20verse%20and%20prose&f=false|accessdate=6 March 2016}}</ref>  Boston Latin prepared many students for admission to Harvard, founded the year after BLS,<ref>{{cite book|last1=Meckler|first1=ed. by Michael|title=Classical antiquity and the politics of America : from George Washington to George W. Bush|date=2006|publisher=Baylor Univ. Press|location=Waco, Tex.|isbn=978-1932792324|page=18|edition=|url=https://books.google.com/books?id=5yRGz_EeslQC&pg=PA18&dq=the+need+to+learn+latin+in+colonial+america+boston+latin&hl=en&sa=X&ved=0ahUKEwi79KCHqqzLAhUrkYMKHZUqAYwQ6AEISjAF#v=onepage&q=the%20need%20to%20learn%20latin%20in%20colonial%20america%20boston%20latin&f=false|accessdate=6 March 2016}}</ref> with a total of seven years (on long wooden benches) being devoted to the classics, and providing almost one seventh (29) of Harvard members during just one period (1771 through 1774).<ref>{{cite book|last1=Wright|first1=Conrad Edick|title=Revolutionary generation : Harvard men and the consequences of independence|date=2005|publisher=Univ. of Massachusetts Press|location=Amherst [u.a.]|isbn=978-1558494848|page=26|url=https://books.google.com/books?id=zltYMYvMvS0C&pg=PA26&dq=boston+latin+was+founded+in+order+for&hl=en&sa=X&ved=0ahUKEwjsuvOs5KzLAhUEr4MKHUX1AHQQ6AEIeDAO|accessdate=7 March 2016}}</ref>  However,  most graduates of Boston Latin did not go on to college since business and professions did not require collegiate training, which more basic learning provided for.<ref>{{cite book|last1=Reese|first1=William J.|title=The origins of the American high school.|date=1999|publisher=Yale University Press|location=New Haven|isbn=978-0300079432|page=3}}<!--|accessdate=6 March 2016--></ref>
+
+The [[alma mater]] is "Ad Scholam Matrem".
+
+The School's first class was in single figures. In 2015, it had 2,400 pupils drawn from all parts of the City of Boston. It has produced four [[Harvard University|Harvard]] presidents, four Massachusetts governors, and five signers of the [[United States Declaration of Independence]]. [[Benjamin Franklin]]<ref>{{cite web |title=Benjamin Franklin |url=http://www.exodusbooks.com/Author.asp?aut=F&author=Franklin%2C+Benjamin&authorID=781&count=0&list=6 |work=Exodus Provisions }}</ref> and [[Louis Farrakhan]]<ref>{{cite web |author=John B. Judis |url=https://www.nytimes.com/1996/08/18/books/maximum-leader.html |title=Maximum Leader |work=[[The New York Times]] |date=August 18, 1996 |accessdate=2006-05-19}}</ref> are among its well-known [[High school dropouts|dropouts]].
+
+The School originally began as the South Grammar School,<ref>{{cite book|title=Publications of the Colonial Society of Massachusetts, Volume 27|date=1932|publisher=Colonial Society of Massachusetts|isbn=|page=135|url=https://books.google.com/books?id=iL0MAAAAYAAJ&q=The+North+Grammar+School+was+discontinued,+and+the+South+Grammar+School+became+known+as+the+%22Boston+Latin%22&dq=The+North+Grammar+School+was+discontinued,+and+the+South+Grammar+School+became+known+as+the+%22Boston+Latin%22&hl=en&sa=X&ved=0ahUKEwiE6Pzes7fLAhUil4MKHUC9BggQ6AEIITAB|accessdate=11 March 2016}}</ref> and was specifically modeled after the [[Boston Grammar School]] in [[Lincolnshire]], [[England]], from where many of Boston's original settlers derived. Current students assert with pride that [[Harvard College]], founded a year later in 1636, was created for Boston Latin's first graduates to attend and continue their education. Whether or not that is true, Boston Latin has been a top feeder school for Harvard, and has consistently sent large numbers of its graduates to Harvard, recently averaging about twenty-five students per year. More than 99% of Boston Latin's approximately 400 annual graduates are accepted by at least one four-year college.
+
+The Latin School admitted only male students and hired only male teachers from its founding in 1635. The School's first female student was admitted in the 19th century. [[Helen Magill White]]  was the school's first female graduate and first American woman to earn a [[doctorate]]. However, soon after White's graduation in 1877, the [[Boston Latin Academy|Girls' Latin School]] (later the co-ed Boston Latin Academy), was founded. For nearly a century, all qualified female students would attend that all-girls institution. It was not until 1972 that Boston Latin would admit its first [[co-educational]] class, 104 girls into a school with more than 2000 teenaged boys. It was a change vociferously objected to by the school's headmaster, Wilfred L. O'Leary and many of the schools alumni. It only happened due to the Massachusetts Legislature passed a bill forbidding sex discrimination in public education.<ref>https://www.nytimes.com/1972/09/10/archives/girls-admitted-by-boston-latin-allboys-school-drops-its-bar-after.html</ref>
+
+During the [[American Civil War|Civil War]] a cadet corps was founded. It was disbanded in the early 1960s.<ref>{{Cite web |url=http://libertyyes.homestead.com/hankbrandli-14.html |title=Boston School Cadets |author1=Hank Brandli |date=September 30, 2004 |work=The Bulletin | accessdate=January 8, 2018}}</ref>
+
+In 1967 the school appointed Marie Frisardi Cleary<ref>{{cite web
+| url=https://www.nytimes.com/1985/05/19/magazine/l-the-halls-of-boston-latin-school-244828.html
+|author= Marie Frisardi Cleary
+|title=The Halls of Boston Latin School
+
+|date= May 19, 1985
+|work=[[The New York Times]]}} Letter to the editor.</ref>
+and Juanita Ponte<ref>{{cite news
+|first=Amanda
+|last=Bergeron
+|title=Juanita Ponte, 62; taught at Boston Latin
+|url=http://www.boston.com/news/globe/obituaries/articles/2007/07/21/juanita_ponte_62_taught_at_boston_latin/
+|work=[[The Boston Globe|Boston Globe]]
+|date=July 21, 2007
+|accessdate=2007-07-21 }}</ref>
+as the first two women in its academic faculty.
+
+Cornelia Kelley, the school's first female headmaster, served from 1998 until her retirement in 2007,<ref>{{cite news |first=Tracy |last=Jan |title=Boston Latin headmaster to retire |url=http://www.boston.com/news/globe/city_region/breaking_news/2007/02/boston_latin_he.html |work=[[Boston Globe]] |date=2007-02-14 |accessdate=2007-12-31 }}</ref> after which Lynne Mooney Teta was selected to become the school's 28th headmaster. Mooney Teta is a 1986 graduate of Boston Latin and was formerly an assistant headmaster at the school.<ref>{{cite web
+|url=http://www.boston.com/news/weather/articles/2007/06/26/mayor_issues_heat_alert_for_residents/
+|title=Assistant head is named to Latin's top job
+|work=[[The Boston Globe|Boston Globe]]
+|date=June 26, 2007
+|accessdate=2007-07-04}}</ref> Under Teta, Boston Latin School removed all honor classes within its curriculum. However, there is an option to take accelerated courses of Advanced Algebra 2, Geometry, and Pre-Calculus and Latin Prose (over Latin 4) that do not give the 1.0 GPA boost.
+
+In January 2016, the school became the center of a race-related controversy started by the student group BLS B.L.A.C.K. (Black Leaders Aspiring for Change and Knowledge) using the hashtag "BlackAtBLS" on Twitter. The hashtag encouraged students of color to share their personal experiences of racism at the school. Several local and national media outlets picked up on the hashtag and acute attention was drawn to the issues of racial inequities, racism, and faculty negligence over race-related disciplinary issues at the school. BLS B.L.A.C.K.'s list of demands included faculty diversity trainings, workshops, and meetings with the Headmaster on a regular basis to discuss racialized issues in the school; demands which were accepted by the headmaster.
+
+===Location history===
+{{GeoGroupTemplate|section=Location History}}
+{| class="wikitable" border="1"
+|-
+! Photo
+! Point
+! [[Geographic coordinate system|Coordinates]]<br />(links to map & photo sources)
+! Notes
+|-
+| [[File:Boston Latin School original.jpg|100px]]
+| First Boston Latin School House. Circa 1635.  [[Ezekiel Cheever]] was an early head master of the Boston Latin School. He taught for seventy years, the last thirty-eight as master of the Boston Latin School.
+| {{coord|42.367800|-71.059877|name=First Boston Latin School House. circa 1635.}}
+|<ref>{{coord|42.357909|-71.059798}}</ref><ref>(Estimated from: Plan of Boston showing existing ways and owners on December 25, 1635. Author: Lamb, George. 1635 Location: Boston (Mass.)) [http://maps.bpl.org/details_10923/] [http://maps.bpl.org/details_12280/]</ref>
+|-
+|
+|
+|-
+| [[File:BLS SECOND SCHOOL HOUSE ON SOUTH SIDE OF SCHOOL STREET.jpg|100px]]
+| Second BLS school house on south side of School Street. 1812–1844.
+| {{coord|42.357640|-71.059679|name=Second School House on South Side of School Street. 1812-1844.}}
+|<ref>Boston 1842 "Boston" from Tanner, H.S. The American Traveller; or Guide Through the United States. Eighth Edition. New York, 1842 [http://lib.utexas.edu/maps/histus.html]</ref><ref>{{coord|42.357640|-71.059679}} (Estimated from Tanner map)</ref>
+|-
+| [[File:BLS Bedford Street School House.jpg|100px]]
+| Third BLS school house on Bedford Street,  1844–1881.
+| {{coord|42.353840|-71.061060|name=Bedford Street School House. 1844–1881.}}
+|<ref>Catalogue of the Boston Public Latin School, Established in 1635: With an Historical Sketch, Henry Fitch Jenks. Boston Latin School Association. 1886. Pages 94–95.</ref><ref>Map title: Map of Boston, 1865 Photographically Reduced From City Engineer Plans With All The Latest Improvements. A Complete Guide To Strangers. Publisher: L. Prang & Co. Date: 1865 [http://maps.bpl.org/details_11003/]</ref><ref>{{coord|42.353840|-71.061060}} (Estimated from Prang & Co. map)</ref>
+|-
+| [[File:1920 English High School Boston 2589540239.jpg|100px]]
+| Fourth location of BLS school house in Warren Avenue, (shared with the [[English High School of Boston]]), 1881–1922.
+| {{coord|42.344178|-71.073380|name=School House in Warren Avenue. 1881–1922.}}
+|<ref>Catalogue of the Boston Public Latin School, Established in 1635: With an Historical Sketch, Henry Fitch Jenks. Boston Latin School Association. 1886. Page 303.</ref><ref>{{coord|42.344178|-71.073380}} (Estimated from description in Jenks, page 75)</ref>
+|-
+| [[File:Boston latin school exterior front wide.jpg|100px]]
+| Fifth site of BLS school house on Avenue Louis Pasteur. 1922–present.
+| {{coord|42.338017|-71.102016|name=School House on Avenue Louis Pasteur. 1922–present.}}
+|<ref>SCHOLA LATINA BOSTONIENSIS CCCL ANNOS NATA.  (BOSTON LATIN AT 350). April 21, 1985. Boston Globe. By John Powers</ref>
+|}
+
+==Academics==
+Boston Latin's motto is ''Sumus Primi'', Latin for ''we are first''. This is a [[double entendre]], referring both to the school's date of founding and its academic stature. Boston Latin has a history of pursuing the same standards as elite [[New England]] [[University-preparatory school|prep schools]] while adopting the egalitarian attitude of a [[Public school (government funded)|public school]]. Academically, the school regularly outperforms public schools in affluent Boston suburbs, particularly as measured by the yearly [[Massachusetts Comprehensive Assessment System|MCAS]] assessment required of all [[Massachusetts]] [[Public school (government funded)|public schools]]. In 2006, [[Brooklyn Latin School]] was founded in New York City, explicitly modeled on Boston Latin, borrowing much from its traditions and curriculum.<ref>{{cite news|first=Tracy|last=Jan|title=Growing a Boston Latin in Brooklyn|url=http://www.boston.com/news/local/articles/2006/03/04/growing_a_boston_latin_in_brooklyn/|work=Boston Globe|date=March 4, 2006|accessdate=2007-08-31}}</ref>
+
+===Admissions===
+Admission is determined by a combination of a student's score on the [[Independent School Entrance Examination]] (ISEE) and recent grades, and is limited to residents of the city of Boston.<ref>{{cite web |url=http://www.bls.org/doc_content/ISEE%20QUESTIONS.pdf |title=Answers to Frequently Asked Questions about Entrance to Boston Latin School |accessdate=2007-12-31 |format=PDF |archiveurl=https://web.archive.org/web/20080229063010/http://www.bls.org/doc_content/ISEE%20QUESTIONS.pdf |archivedate=2008-02-29 |deadurl=yes |df= }}</ref> Although Boston Latin runs from the 7th through the 12th grade, it admits students only into the 7th and 9th grades. Consequently, the higher grades have fewer students than the lower grades, as a relatively large number of students transfer out. The school has historically been described as having a sink-or-swim environment, but in recent years there have been notable efforts to create a more supportive atmosphere.
+
+Because it is a high-performing and well-regarded school, Boston Latin has been at the center of controversy concerning its admissions process. Admissions are very competitive, and it is not uncommon for fewer than 20% of applicants to be admitted. Before the 1997 school year, Boston Latin set aside a 35% [[Racial quota|quota]] of places in its incoming class for under-represented minorities. The school was forced to drop this policy after a series of lawsuits involving non-minority girls who were not admitted despite ranking higher than admitted minorities.<ref>See: Wessmann v. Gittens, 160 F. 3d 790 – Court of Appeals, 1st Circuit 1998 [[s:SARAH P. WESSMANN, p.p.a. HENRY ROBERT WESSMANN, v. ROBERT P. GITTENS, CHAIRPERSON OF THE BOSTON SCHOOL COMMITTEE, ET AL.]], and McLAUGHLIN BY McLAUGHLIN v. Boston School Committee, 938 F. Supp. 938 F.Supp. 1001 (1996) Civil Action No. 95-11803-WAG. United States District Court, D. Massachusetts. [[s:938 F.Supp. 1001 (1996) Julia A. McLAUGHLIN, by Catherine McLAUGHLIN, Plaintiff, v. BOSTON SCHOOL COMMITTEE, et al., Defendants.]]</ref><ref>{{cite web
+ |url=http://www.bc.edu/research/csteep/CTESTWEB/blatin/latin.html
+ |title=The Boston Latin Case
+ |work=Center for the Study of Testing, Evaluation, and Educational Policy
+ |accessdate=2008-01-29
+ |deadurl=yes
+ |archiveurl=https://web.archive.org/web/20070808133732/http://www.bc.edu/research/csteep/CTESTWEB/blatin/latin.html
+ |archivedate=2007-08-08
+ |df=
+ }}</ref>
+Boston Latin subsequently defeated a legal effort to do away with its admissions process entirely and conduct admissions by blind lottery. Since 1997, the percentage of under-represented minorities at Boston Latin has fallen from 35% to under 19% in 2005, despite efforts by Boston Latin, the [[Boston Public Schools]], and the Boston Latin School Association to recruit more minority applicants and retain more minority students. Some advocate instituting a quota for the number of students that must be admitted from Boston's public middle schools.
+
+===Curriculum===
+[[Declamation]] is the most time-honored of the school's traditions. Pupils in the 7th to 10th grade are required to give an oration, known as 'Declamation', in their English class three times during the year. There is also Public Declamation, where pupils from all grades, or classes, are welcomed to try out for the chance to declaim a memorized piece in front of an assembly. During Public Declamation, declaimers are scored on aspects such as "Memorization" "Presentation", and "Voice and Delivery", and those who score well in three of the first four public declamations are given the chance to declaim in front of alumni judges for awards in "Prize Declamation".
+[[File:Latin Public School.jpg|thumb|Front entrance of the school house on Avenue Louis Pasteur. 2007]]
+In addition to the well-known and time-honored tradition of declamation in English classes, recently the Modern Languages department instituted an annual "World Language Declamation" competition. Once a year, during National Foreign Language Week (usually the first week of March),<ref>Kate Stevenson (2008). [https://web.archive.org/web/20060903084941/http://www.jc.edu/users/stevenso/FLAND/flwk.html National Foreign Language Week]</ref> students from grades 8 through 12 perform orations in languages other than English. Most students choose to declaim in the modern language they are studying, though some choose Latin, Greek, or their native tongue. Judges are brought in from various institutions around the city, and mark the students in similar categories to those used in Public Declamation. Entrants are categorized by level, rather than language, such that all students declaiming at the first-year level of various languages are competing against each other, all students at the second-year level compete against each other, and so on. Students who regularly perform exceptionally well at World Language Declamation are honored at Prize Night with the Celia Gordon Malkiel Prize.<ref>[https://wayback.archive-it.org/all/20080414065452/http://www.bls.org/doc_content/PrizeSchol.pdf Prizes and Scholarships], ''BLS Web Site''</ref>
+
+In a move that was controversial among some alumni, the school decided in 2001 to decrease the requirement for students' Latin instruction by one year, starting with the class of 2006.<ref>{{cite news |first=Anand |last=Vaishnav |title=Boston Latin Eases Language Requirement |url=http://www.boston.com/dailyglobe2/103/metro/Boston_Latin_eases_language_requirement+.shtml |work=[[Boston Globe]] |date=2001-04-13 |archiveurl=https://web.archive.org/web/20010416232616/http://www.boston.com/dailyglobe2/103/metro/Boston_Latin_eases_language_requirement%2B.shtml |archivedate=April 16, 2001 |accessdate=2007-12-31 |deadurl=yes |df= }}</ref> The mandatory minimum period of Latin instruction was decreased for students admitted for 7th grade from five years to four years, and for students admitted for 9th grade from four years to three years. This decision was made by the head of the school's Latin department, in recognition of the fact that the requirement was hampering students' ability to take enough courses in important modern subjects such as Physics, Chemistry, Computer Science and modern languages. However, students can still take Latin courses after their fourth year, in [[AP Latin]] and Latin 5, the latter if there is demand. Greek is additionally an option.
+
+In a 1789 [[Codicil (will)|codicil]] to his will, Benjamin Franklin established a legacy to fund the Franklin Medals, which are awarded to the school's top-ranking pupils at graduation. The second most prestigious awards, the Dixwell Prizes, are given to pupils excelling in Latin or Greek.
+
+==Publications==
+There are currently three main publications of the Boston Latin School: ''The Register'' is the school's literary magazine, ''The Argo'' the school newspaper, and ''Catapulta'' is the school science magazine. [[George Santayana]] founded ''The Register'' in 1881 to serve as the school newspaper. Over the years, however, it evolved into a purely literary magazine, publishing prose and poetry written by members of the student body, as well as artwork. There are generally three editors-in-chief, and it is published twice per year. ''The Argo'', the school's newspaper, is far younger, having been founded in 1970 after it was clear that the ''Register'' had become a purely literary magazine. As of the 2006–2007 school year, it is published seven times a year. ''Catapulta'', the science magazine, highlights popular and recent science and technology and is generally published four times a year. The ''Register'', the ''Argo'', and ''Catapulta'' are entirely student-produced, and the "Argo" and the "Register" have won awards from the New England Scholastic Press Association, while ''Catapulta'' has won awards from the American Scholastic Press Association.<ref>{{cite web
+|title=Publications—Argo
+|url=http://bls.org/library/cfml/l3tmpl_archive.cfm?ArchiveID=36
+|work=BLS Web Site
+|accessdate=2007-06-01
+|archiveurl = https://archive.is/20070927034400/http://bls.org/library/cfml/l3tmpl_archive.cfm?ArchiveID=36 <!-- Bot retrieved archive --> |archivedate = 2007-09-27}} Includes scans of first ''Argo'' edition, 1969.
+</ref>
+
+Another Boston Latin publication is "BLSA Bulletin," published by the Boston Latin School Association, whose president is Peter G. Kelly, '83.<ref name="blsabulletin">{{cite news|date=Fall 2008 |title=BLSA Bulletin| publisher=Boston Latin School Association}}</ref>
+
+==Athletics==
+[[File:BLS Wolfpack.png|thumb|A [[wolf]]'s paw is the logo for Boston Latin's athletic teams]]
+
+Boston Latin's teams are known as the Boston Latin Wolfpack; their colors are purple and white. Boston Latin has played rival [[English High School of Boston|Boston English]] in [[high school football|football]] every [[Thanksgiving]] since 1887,<ref>{{cite news |first=Emily |last= Werchadlo |title=It's still defined by Latin and English |url=http://www.boston.com/sports/schools/football/articles/2005/11/24/its_still_defined_by_latin_and_english/?page=full |work=[[Boston Globe]] |date=2005-11-24 |accessdate=2008-01-29 }}</ref> the [[English–Latin rivalry|oldest continuous high school rivalry]] in the United States.<ref>{{cite news |first=Dwayne |last= Dahlbeck |title=Latin's first conquest comes at last |url=http://www.boston.com/sports/schools/football/articles/2007/11/23/latins_first_conquest_comes_at_last/ |work=[[Boston Globe]] |date=2007-11-27 |accessdate=2008-01-29 }}</ref>
+
+The school has fielded several successful sports teams, including the fencing team, sailing team, cross country team, indoor and outdoor track teams, girls volleyball team, the boys and girls crew teams, the boys and girls swimming and diving teams, baseball, softball, wrestling, boys and girls soccer, boys and girls hockey, and cheerleading.
+
+However, the football team has not won its league or made the playoffs since 1987.
+
+In the spring of 2014, Boston Latin launched its varsity boys lacrosse as well as varsity girls lacrosse, the only public school in Boston with lacrosse. In the spring of 2017, in just its third season as a varsity sport, the girl's lacrosse team made the state tournament for the first time.
+
+In the Winter of 2015, Boston Latin launched its varsity boys fencing as well as varsity girls fencing, the only public school in Boston with fencing.
+
+In the winter of the academic year 2015-2016, the school's Varsity Fencing team took home the State Championship title for the first time ever, with the men's team placing second overall and women's fourth overall.{{citation needed|date=January 2018}}
+
+==In popular culture==
+* In "[[Six Meetings Before Lunch]]", a first-season episode of ''[[The West Wing (TV series)|The West Wing]]'', [[Rob Lowe]]'s character [[Sam Seaborn]] mentioned Boston Latin School in a discussion of public school reform and [[school voucher]]s in American public education. He said, “Boston Latin, the oldest public school in America, is still the best secondary school in New England.” [[Mallory O'Brien]] replies "They all can't be Boston Latin and [[Bronx High School of Science|Bronx Science]]."
+* On January 8, 2002, President [[George W. Bush]] visited the Boston Latin School after signing the [[No Child Left Behind Act]] earlier that day.<ref>{{cite web
+|title=President Bush Speaks in Boston
+|date=2002-01-08
+|url=http://transcripts.cnn.com/TRANSCRIPTS/0201/08/se.05.html
+|work=CNN.com
+}}</ref>
+* In Season 1, Episode 12 of ''[[Studio 60 on the Sunset Strip]]'', [[Matthew Perry]]'s character [[Matt Albie]] mentioned that his nephew had a 3.8 GPA at Boston Latin.
+* In the 2008–2009 school year, former vice president [[Al Gore]] visited Boston Latin School and commended the students for their hard work educating the community about making environmentally respectable decisions.
+
+==Alumni==
+{{main|List of Boston Latin School alumni}}
+Boston Latin has graduated notable Americans in the fields of politics (both local and national), religion, science, journalism, philosophy, and music. Of the 56 men who signed the [[United States Declaration of Independence|Declaration of Independence]], five were educated at Latin: Adams, Franklin, Hancock, Hooper, and Paine.<ref>{{cite news |first=Ronaldo |last=Rauseo-Ricupero |title=Bush Comes To Boston After Education Victory |url=http://www.thecrimson.com/article.aspx?ref=161263 |work=[[Harvard Crimson]] |date=2002-01-09 |accessdate=2007-12-31 }}</ref> Graduates and students fought in the [[American Revolutionary War|Revolutionary War]], [[American Civil War]], [[World War I]], [[World War II]], [[Korean War]], and the [[Vietnam War]], and plaques and statues in the school building honor those who died.
+
+===Hall of Fame===
+The Hall of Fame, known casually as "The Wall," refers to the upper [[frieze]] in the school's auditorium, where the last names of famous alumni are painted. These names include [[Samuel Adams|Adams]], [[John "Honey Fitz" Fitzgerald|Fitzgerald]], [[Benjamin Franklin|Franklin]], [[John Hancock|Hancock]], [[William Hooper|Hooper]], [[Joseph Kennedy|Kennedy]], [[Cotton Mather|Mather]], [[Robert Treat Paine|Paine]], [[Josiah Quincy II|Quincy]], [[George Santayana|Santayana]], [[John Winthrop (1714–1779)|Winthrop]], and many others. The most recent name, [[Wade McCree Jr.]], was added to the frieze in 1999, and the selection of the name involved a conscious effort to choose a graduate of color.<ref>{{cite news |first=Tony |last=Hill |title=To Place a Black Man in Latin's Pantheon: An Alumnus Quietly Raised to the Star-Studded Frieze |work=[[Boston Globe]] |date=2000-11-12 }}</ref> There are no names of female graduates, mostly because females have attended the school for just 46 years and the honor is only bestowed [[Posthumous recognition|posthumously]]. There is also a lower frieze with the names of many other distinguished graduates, and a place on the lower frieze can be awarded while the person is still alive.
+
+==See also==
+{{Portal|Boston|Schools}}
+* [[John D. O'Bryant School of Mathematics & Science]]
+* [[Roxbury Latin School]]
+* [[Brooklyn Latin School]]
+* [[List of oldest schools]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|Boston Latin School (Boston, Massachusetts)}}
+* {{Official website|http://bls.org/ }}
+* [https://books.google.com/books?vid=OCLC03429528 Catalogue of the Boston Public Latin School, Established in 1635: With an Historical Sketch], Henry Fitch Jenks (1886)
+
+{{s-start}}
+{{succession box
+| before=[[King's Chapel Burying Ground]]
+| title=Locations along Boston's [[Freedom Trail]]
+| years= '''Boston Latin School'''
+| after= [[Old Corner Bookstore]]
+}}
+{{s-end}}
+{{Massachusetts Public High Schools}}
+{{Authority control}}
+
+[[Category:1635 establishments in Massachusetts]]
+[[Category:Educational institutions established in the 1630s]]
+[[Category:High schools in Boston]]
+[[Category:Middle schools in Boston]]
+[[Category:Public high schools in Massachusetts]]
+[[Category:Boston Latin School alumni|*]]

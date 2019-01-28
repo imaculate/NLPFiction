@@ -1,0 +1,40 @@
+'''Union Fire Company''', sometimes called '''Benjamin Franklin's Bucket Brigade''', was a [[volunteer fire department]] formed in [[Philadelphia]] in 1736 with the assistance of [[Benjamin Franklin]].<ref>{{cite book | last = Chaplin | first = Joyce | title = The First Scientific American: Benjamin Franklin and the Pursuit of Genius | publisher = Basic Books | year = 2007 | isbn = 0-465-00956-5 | page = 81| url = https://books.google.com/books?id=r_uCu_A-wA4C&pg=PA81&dq=%22Union+Fire+Company%22&client=firefox-a}}</ref> It was the first firefighting organization in Philadelphia,<ref>{{cite book | last = Burt | first = Nathaniel | title = The Perennial Philadelphians: The Anatomy of an American Aristocracy | publisher= University of Pennsylvania Press | year = 1999 | isbn = 0-8122-1693-8 | url = https://books.google.com/books?id=L9ueb6r1uXgC&pg=PA142&dq=%22Union+Fire+Company%22&client=firefox-a | page = 142}}</ref> although it was followed within the year by establishment of the Fellowship Fire Company.<ref name=Scharf/> The fire company was formed on 7 December 1736 after a series of publications in the ''[[Pennsylvania Gazette]]'' by Franklin and others pointing out the need for more effective handling of fires in Philadelphia and remained active until approximately 1820.<ref name=Scharf>Scharf and Westcott, 1889.</ref>
+
+[[File:Benjamin Franklin, The Fireman.jpg|thumb|''Benjamin Franklin, the Fireman'', ca 1850. Charles Washington Wright. Franklin is depicted in the [[Leatherhead (helmet)|fire helmet]] worn by the Union Fire Company.<ref>{{cite web | url = https://www.pbs.org/benfranklin/l3_citizen_firefighter.html | work = PBS | title = Citizen Ben | accessdate = 2008-11-18}}</ref>]]
+
+==Organization==
+In the 1884 book ''History of Philadelphia, 1609-1884'', [[John Thomas Scharf]] and Thompson Westcott described the organization of the company:<ref name=Scharf/>
+<blockquote>The Union Fire Company was an association for mutual assistance. Each member agreed to furnish, at his own expense, six leather buckets and two stout linen bags, each marked with his name and the name of the company, which he was to bring to every fire. The buckets were for carrying water to extinguish the flames, and the bags were to receive and hold property which was in danger, to save it from risk of theft. The members pledged themselves to repair to any place in danger upon an alarm of fire with their apparatus. Some were to superintend the use of the water, others were to stand at the doors of houses in danger, and to protect the property from theft. On an alarm of fire at night it was agreed that lights should be placed in the windows of houses of members near the fire "in order to prevent confusion, and to enable their friends to give them more speedy and effectual assistance.'
+</blockquote>
+
+According to Scharf and Westcott, the company was limited to 30 members who met eight times a year and agreed to pay a small fee, used for purchasing fire-fighting equipment, if they were late to or missed a meeting. The company had no president, but a treasurer and a clerk, take in turns from the general membership, who not only managed communications with other members but also inspected the gear. Scharf and Westcott note that this structure was the basis for all fire companies in Philadelphia until the [[American Revolutionary War|Revolutionary War]]. The early members of the Company included Isaac Paschal, [[Samuel Powell]], [[William Rawle]] and Samuel Syme.<ref name=Scharf/>
+
+==Equipment==
+With respect to the equipment, Scharf and Westcott note the following:<ref name=Scharf/>
+<blockquote>At this time engines and buckets were the only available apparatus, as pumps were few, and the supply of water scant. The engine of the Union Company, it is believed, was imported from England, as were also those of the other companies formed down to 1768.<ref>Footnote from original source, including an advertisement from 1768, omitted. Of note therein, Scharf and Westcott report that "The Northern Liberty Fire Company, founded May 1, 1756, was probably the first to encourage domestic manufacture." p. 1884</ref>
+
+The engine of the Union Company was probably kept in a house in Grindstone Alley, which runs north from Market Street to Church Alley, west of Second Street.</blockquote>
+
+In 1752, the Union Fire Company went in with the [[Hand in Hand Fire & Life Insurance Society|Hand-in-Hand Fire Company]] to purchase a fire bell which was placed on Fourth Street where it could be heard throughout the city.<ref>{{cite book | last = Weigley | first = Russell Frank |author2=Nicholas B. Wainwright |author3=Edwin Wolf  | title = Philadelphia: A 300 Year History | publisher = W. W. Norton & Company | year = 1982 | isbn = 0-393-01610-2 | url = https://books.google.com/books?id=8OAUwyeYjM8C&pg=PA78&dq=%22Union+Fire+Company%22&client=firefox-a#PPA78,M1 | page = 78}}</ref> By 1791, the Company was in possession of an {{convert|80|ft|m}} [[fire hose]], considerably shorter than the {{convert|120|ft|m}} hose owned by the Fellowship Fire Company.<ref name=Scharf/> In addition, in that year, according to [[The Autobiography of Benjamin Franklin|Franklin autobiography]] editor John Bigelow, the Company possessed 250 buckets, 13 ladders, two hooks and "no bags."<ref>{{cite book | last = Bigelow | first = John | title = Autobiography of Benjamin Franklin| editor = Benjamin Franklin | publisher = J. B. Lippincott & co. | year = 1869 | url = https://books.google.com/books?id=NFhHAAAAIAAJ&pg=PA250&dq=%22Union+Fire+Company%22&lr=&client=firefox-a#PPA250,M1 | page = 250}}</ref>
+
+==See also==
+{{Portal|Philadelphia|Fire}}
+* [[List of Pennsylvania fire departments]]
+
+==References==
+{{Reflist}}
+
+==External sources==
+*{{cite book | last = Scharf | first = John Thomas |author2=Thompson Westcott  | title = History of Philadelphia, 1609-1884 | publisher = L. H. Everts & co. | year = 1884 | url = https://books.google.com/books?id=w0sOAAAAIAAJ&pg=RA1-PA1884&dq=%22Union+Fire+Company%22&client=firefox-a}} <small>public domain</small>
+
+{{Fire Departments in Pennsylvania}}
+{{Benjamin Franklin}}
+
+<!-- exact coords unknown, but close -->
+{{coord|39.9503|-75.1444|type:landmark_globe:earth_region:US-PA|display=title}}
+
+[[Category:Benjamin Franklin]]
+[[Category:History of Philadelphia]]
+[[Category:Fire departments in Pennsylvania]]
+[[Category:1736 establishments in Pennsylvania]]
+[[Category:1843 disestablishments in Pennsylvania]]

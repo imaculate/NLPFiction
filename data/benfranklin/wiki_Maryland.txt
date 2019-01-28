@@ -1,0 +1,1177 @@
+{{About|the U.S. state of Maryland}}
+{{pp-move-indef}}
+{{Use mdy dates|date=September 2017}}
+{{short description|State of the United States of America}}
+{{Infobox U.S. state
+| Name = Maryland
+| Fullname = State of Maryland
+| Flag = Flag of Maryland.svg
+| Flaglink = [[Flag of Maryland|Flag]]
+| Seal = Seal of Maryland (reverse).svg
+| Map = Maryland in United States (zoom).svg
+| Nickname = "[[Maryland 400|Old Line State]]", "Free State", "Little America",<ref>{{cite news|title=Maryland's quality of life ranks high compared to other states |url=http://findarticles.com/p/articles/mi_qn4183/is_20041211/ai_n10064724/ |work=FindArticles.com |publisher=The Daily Record (Baltimore) |date=December 11, 2004 |accessdate=June 4, 2009 }}{{dead link |date=May 2017 |fix-attempted=yes}}{{cbignore}}</ref> "America in Miniature"<ref>{{cite web|url=http://www.visitmaryland.org/Students/Pages/MarylandFacts.aspx|title=Maryland Facts|publisher=Maryland Office of Tourism|accessdate=June 2, 2009}}</ref>
+| Demonym = Marylander
+| Motto = {{lang|it|[[Seal of Maryland|"Fatti maschii, parole femine"]]}}<br />(English: "Strong Deeds, Gentle Words")<ref>{{cite web|url=http://mgaleg.maryland.gov/2017RS/bills/sb/sb0088T.pdf|title=Wayback Machine|deadurl=bot: unknown|archiveurl=https://web.archive.org/web/20170929054058/http://mgaleg.maryland.gov/2017RS/bills/sb/sb0088T.pdf|archivedate=September 29, 2017|df=mdy-all}}</ref>
+The Latin text encircling the seal: <br />{{lang|la|Scuto bonæ voluntatis tuæ coronasti nos}} ("With Favor Wilt Thou Compass Us as with a Shield") Psalm 5:12<ref>{{cite web |url=http://msa.maryland.gov/msa/mdmanual/01glance/html/symbols/reverse.html |title=Great Seal of Maryland (reverse) |publisher=Maryland State Archives |accessdate=March 4, 2014}}</ref>
+| StateAnthem = "[[Maryland, My Maryland]]" (1861, adopted 1939)
+| Former = Province of Maryland
+| Capital = [[Annapolis, Maryland|Annapolis]]
+| LargestCity = [[Baltimore]]
+| LargestMetro = [[Baltimore-Washington metropolitan area|Baltimore-Washington Metro Area]]
+| Governor = [[Larry Hogan]] ([[Republican Party (United States)|R]])
+| Lieutenant Governor = [[Boyd Rutherford]] (R)
+| Legislature = [[Maryland General Assembly|General Assembly of Maryland]]
+| Upperhouse = [[Maryland Senate|Senate of Maryland]]
+| Lowerhouse = [[Maryland House of Delegates|House of Delegates of Maryland]]
+| Senators = [[Ben Cardin]] ([[Democratic Party (United States)|D]]) <br /> [[Chris Van Hollen]] (D)
+| Representative = 7 Democrats <br /> 1 Republican
+| PostalAbbreviation = MD
+| TradAbbreviation = Md.
+| OfficialLang = None (English, ''de facto'')
+| AreaRank = 42nd
+| TotalAreaUS = 12,407
+| TotalArea = 32,133
+| LandAreaUS = 9,776
+| LandArea = 25,314
+| WaterAreaUS = 2,633
+| WaterArea = 6,819
+| PCWater = 21
+| PopRank = 19th
+| 2010Pop = 6,052,177 (2017 est.)<ref name=PopHousingEst>{{cite web|url=https://www.census.gov/programs-surveys/popest.html|title=Population and Housing Unit Estimates |date=June 22, 2017 |accessdate=June 22, 2017|publisher=[[U.S. Census Bureau]]}}</ref>
+| DensityRank = 5th
+| 2000DensityUS = 619
+| 2000Density = 238
+| MedianHouseholdIncome = $73,594<ref>{{cite web|url=http://kff.org/other/state-indicator/median-annual-income/?currentTimeframe=0|website=The Henry J. Kaiser Family Foundation|title=Median Annual Household Income|accessdate=December 9, 2016}}</ref>
+| IncomeRank = 1st
+| AdmittanceOrder = 7th
+| AdmittanceDate = April 28, 1788
+| TimeZone = [[Eastern Time Zone|Eastern]]: [[Coordinated Universal Time|UTC]] [[UTC−05:00|−5]]/[[UTC−04:00|−4]]
+| Latitude = 37° 53′ N to 39° 43′ N
+| Longitude = 75° 03′ W to 79° 29′ W
+| WidthUS = 196
+| Width = {{convert|196|mi|km|disp=number}}
+| LengthUS = 119
+| Length = {{convert|119|mi|km|disp=number}}
+| HighestPoint = [[Hoye-Crest]]<ref name=USGS>{{cite web|url=http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |title=Elevations and Distances in the United States |publisher=[[United States Geological Survey]] |year=2001 |accessdate=October 21, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20111015012701/http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |archivedate=October 15, 2011 |df=mdy }}</ref><ref name=NAVD88>Elevation adjusted to [[North American Vertical Datum of 1988]].</ref>
+| HighestElevUS = 3,360
+| HighestElev = 1024
+| MeanElevUS = 350
+| MeanElev = 110
+| LowestPoint = [[Atlantic Ocean]]<ref name=USGS/>
+| LowestElevUS = 0
+| LowestElev = 0
+| ISOCode = US-MD
+| Website = www.maryland.gov
+| ElectoralVotes = 10
+| State Animal = [[Horseshoe crab]]
+}}
+{{Infobox U.S. state symbols
+<!-- Sources: http://msa.maryland.gov/msa/mdmanual/01glance/html/symbols/00list.html, http://www.netstate.com/states/symb/md_symb.htm -->
+|Name       = Maryland
+|Flag       = Flag of Maryland.svg
+|Flagsize   = 175px
+|Seal       = Seal_of_Maryland_(reverse).svg
+|Bird       = [[Baltimore oriole]]
+|Butterfly  = [[Baltimore checkerspot butterfly]]
+|Crustacean = [[Callinectes sapidus|Blue crab]]
+|Fish       = [[Striped bass|Rock fish]]
+|Flower     = [[Rudbeckia hirta|Black-eyed Susan]]
+|Insect     = [[Baltimore checkerspot]]
+|Sport      = [[Jousting]]
+|Mammal     = [[Calico cat]] <br /> [[Chesapeake Bay Retriever]] <br /> [[Thoroughbred horse]]
+|Reptile    = [[Diamondback terrapin]]
+|Tree       = [[Quercus alba|White oak]]
+|Beverage   = [[Milk]]
+|Dance      = [[Square dance]]
+|Dinosaur   = ''[[Astrodon johnstoni]]''
+|Food       = [[Callinectes sapidus|Blue crab]] <br /> [[Smith Island cake|Smith Island Cake]]
+|Fossil     = ''[[Ecphora gardnerae gardnerae]]''
+|Gemstone   = [[Patuxent River stone]]
+|Mineral    = [[Agate]]
+|Poem       = "Maryland, My Maryland" by [[James Ryder Randall]] (1861, adopted 1939)
+|Slogan     = Maryland of Opportunity
+|Route Marker = MD Route 2.svg
+|Quarter    = 2000 MD Proof.png
+|QuarterReleaseDate = 2000
+}}
+<!-- ** ATTENTION Do not modify text relating to the classification of Maryland as a Northern, Mid-Atlantic, South-Atlantic, and/or Southern state without providing appropriate references. Discussion regarding this issue has been opened on a subpage accessible through the Talk tab. **DO ''not'' VIOLATE THE AUTHORSHIP OF THE INTENT OF THE STATE'S NAME OR DELETE THE POSSIBLE ORIGINS OF THE STATE'S NAME. Disregard for this warning may result in reversion of your edit(s) with possible warning  – ATTENTION -->
+
+'''Maryland''' ({{IPAc-en|US|audio=en-us-Maryland.ogg|ˈ|m|ɛr|əl|ə|n|d}} {{respell|MERR|əl|ənd}})<ref>{{cite book|last=Wells|first=John C.|year=2008|title=Longman Pronunciation Dictionary|edition=3rd|publisher=Longman|isbn=9781405881180}}</ref> is a [[U.S. state|state]] in the [[Mid-Atlantic states|Mid-Atlantic]] region of the [[United States]], bordering [[Virginia]], [[West Virginia]], and the [[District of Columbia]] to its south and west; [[Pennsylvania]] to its north; and [[Delaware]] to its east. The state's largest city is [[Baltimore]], and its capital is [[Annapolis, Maryland|Annapolis]]. Among its occasional nicknames are ''[[Maryland 400|Old Line State]]'', the ''Free State'', and the ''[[Chesapeake Bay]] State''. It is named after the English queen [[Henrietta Maria of France|Henrietta Maria]], known in England as Queen Mary.<ref>{{cite web|url=http://www.mdarchives.state.md.us/msa/mdmanual/01glance/html/name.html |title=Maryland's Name |accessdate=July 20, 2012 |website=Catholic History of Maryland|publisher=Simon & Schuster}}</ref><ref>{{Cite web|url=https://ghostsofbaltimore.org/2015/05/19/why-is-it-named-maryland/|title=Why Is It Named Maryland? - Ghosts of Baltimore|website=ghostsofbaltimore.org|language=en-US|access-date=2018-02-19|date=2015-05-19}}</ref>
+
+Sixteen of Maryland's twenty-three counties border the tidal waters of the [[Chesapeake Bay|Chesapeake Bay estuary]] and its many tributaries, which combined total more than 4,000 miles of shoreline. Although one of the smallest states in the U.S., it features a variety of climates and topographical features that have earned it the moniker of ''America in Miniature''. In a similar vein, Maryland's geography, culture, and history combines elements of the [[Mid-Atlantic (United States)|Mid-Atlantic]], [[Northeastern United States|Northeastern]], and [[South Atlantic United States|South Atlantic]] regions of the country.
+
+One of the original [[Thirteen Colonies]] of Great Britain, Maryland was founded by [[George Calvert]], a Catholic convert<ref name="Cecilius Calvert 2010">"George Calvert and Cecilius Calvert, Barons Baltimore" William Hand Browne, Nabu Press (August 1, 2010), {{ISBN|117662539X}} {{ISBN|978-1176625396}}</ref><ref>{{Cite book|title=English and Catholic : the Lords Baltimore in the seventeenth century|last=1940-|first=Krugler, John D.|date=2004|publisher=Johns Hopkins University Press|isbn=978-0801879630|location=Baltimore|oclc=53967315}}</ref> who sought to provide a religious haven for Catholics persecuted in England.<ref name=":1">{{Cite book|title=History of Maryland: Province and State|last=Andrews|first=Matthew Page|publisher=Doubleday, Doran & Company, Inc|year=1929|isbn=|location=Garden City, New York|pages=3–5}}</ref> In 1632, [[Charles I of England]] granted Calvert a [[colonial charter]], naming the colony after his wife, Queen Mary.<ref name=":2">{{Cite web|url=http://avalon.law.yale.edu/17th_century/ma01.asp|title=The Charter of Maryland : 1632|date=1998-12-18|website=avalon.law.yale.edu|access-date=2018-05-02}}</ref> Unlike the Pilgrims and Puritans, who enforced religious conformity in their settlements, Calvert envisioned a colony where people of different religious sects would coexist under the principle of [[toleration]].<ref name=":1" /> Accordingly, in 1649 the Maryland General Assembly passed an [[Maryland Toleration Act|Act Concerning Religion]], which enshrined this principle by penalizing anyone who "reproached" a fellow Marylander based on religious affiliation.<ref>{{Cite web|url=http://avalon.law.yale.edu/18th_century/maryland_toleration.asp|title=Avalon Project - Maryland Toleration Act; September 21, 1649|website=avalon.law.yale.edu|access-date=2018-05-03}}</ref> Nevertheless, religious strife was common in the early years, and Catholics remained a minority, albeit in greater numbers than in any other English colony.
+
+Maryland's early settlements and population centers clustered around rivers and other waterways that empty into the Chesapeake Bay. Its economy was heavily [[Plantation economy|plantation-based]], centered mostly on the cultivation of tobacco. The need for cheap labor led to a rapid expansion of indentured servants, penal labor, and African slaves. In 1760, Maryland's current boundaries took form following the [[Mason-Dixon Line|settlement]] of a long-running border dispute with Pennsylvania. Maryland was an active participant in the events leading up to the [[American Revolution]], and by 1776 its delegates signed the [[Declaration of Independence (U.S.)|Declaration of Independence]]. Many of its citizens subsequently played [[Maryland in the American Revolution|key political and military roles in the war]]. In 1790, the state ceded land for the establishment of the U.S. capital of [[Washington, D.C.]]
+
+Although a [[Slave states and free states|slave state]], Maryland [[Border states (American Civil War)|remained in the Union]] during the [[U.S. Civil War]], its strategic location giving it [[Maryland in the American Civil War|a significant role in the conflict]]. After the war, Maryland took part in the [[Industrial Revolution]], driven by its seaports, railroad networks, and mass immigration from Europe. Since the Second World War, the state's population has grown rapidly, to approximately six million residents, and it is among the most densely populated states in the nation. {{as of|2015}}, Maryland had the [[List of U.S. states by income|highest median household income]] of any state, owing in large part to its close proximity to [[Washington, D.C.]] and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology.<ref>{{cite web
+ |url=http://proximityone.com/stmhi0910.htm
+ |title=State Median Household Income Patterns: 1990–2010
+ |publisher=U.S. Census Bureau
+ |accessdate=August 6, 2012}}</ref> Maryland has been ranked as one of the best governed states in the country.<ref>{{cite web |last1=Somashekhar |first1=Sandhya |title=Government Takes Top Honors in Efficiency |url=http://www.washingtonpost.com/wp-dyn/content/story/2008/03/03/ST2008030303550.html?noredirect=on |website=The Washington Post |publisher=The Washington Post |accessdate=3 October 2018}}</ref> The state's central role in American history is reflected by its hosting of some of the [[List of U.S. National Historic Landmarks by state|highest numbers of historic landmarks]] per capita.
+
+==Geography==
+[[File:MDGeoReg.PNG|thumb|upright=2.05|text-top|Physical regions of Maryland]]
+{{See also|List of islands of Maryland|List of rivers of Maryland}}
+
+Maryland has an area of {{convert|12,406.68|sqmi|km2}} and is comparable in overall area with [[Belgium]] ({{convert|11787|mi2}}).<ref>{{cite web
+ |url=https://www.cia.gov/library/publications/the-world-factbook/geos/be.html
+ |title=Belgium
+ |accessdate=May 15, 2008
+ |date=May 15, 2008
+ |website=CIA World Factbook
+ |publisher=Central Intelligence Agency
+ |quote=Area – comparative: about the size of Maryland
+ |deadurl=yes
+ |archiveurl=https://web.archive.org/web/20160710084134/https://www.cia.gov/library/publications/the-world-factbook/geos/be.html
+ |archivedate=July 10, 2016
+ |df=mdy
+}}</ref> It is the 42nd largest and 9th smallest state and is closest in size to the state of [[Hawaii]] ({{convert|10930.98|mi2}}), the next smaller state. The next larger state, its neighbor [[West Virginia]], is almost twice the size of Maryland ({{convert|24229.76|mi2}}).
+{{clear}}
+
+===Description===
+{{Refimprove section|date=July 2018}}
+Maryland possesses a variety of [[topography]] within its borders, contributing to its nickname ''America in Miniature''. It ranges from sandy [[dunes]] dotted with seagrass in the east, to low marshlands teeming with wildlife and large [[Taxodium|bald cypress]] near the Chesapeake Bay, to gently rolling hills of oak forests in the [[Piedmont (United States)|Piedmont Region]], and [[pine]] groves in the [[List of mountains in Maryland|Maryland mountains]] to the west.
+
+[[File:Deep Creek Lake Maryland Panoramic View.jpg|upright=1.15|thumb|right|Western Maryland: known for its heavily forested mountains. A panoramic view of [[Deep Creek Lake]] and the surrounding [[Appalachian Mountains]] in [[Garrett County, Maryland|Garrett County]].]]
+[[File:Great Falls, Maryland, cliffs.jpg|thumb|upright=1.15|[[Great Falls (Potomac River)|Great Falls]] on the [[Potomac River]].]]
+
+Maryland is bounded on its north by [[Pennsylvania]], on its west by [[West Virginia]], on its east by [[Delaware]] and the [[Atlantic Ocean]], and on its south, across the [[Potomac River]], by West Virginia and [[Virginia]]. The mid-portion of this border is interrupted by [[District of Columbia]], which sits on land that was originally part of [[Montgomery County, Maryland|Montgomery]] and [[Prince George's County, Maryland|Prince George's]] counties and including the town of [[Georgetown, D.C.|Georgetown, Maryland]]. This land was ceded to the United States Federal Government in 1790 to form the [[Washington, D.C.|District of Columbia]]. (The [[Virginia|Commonwealth of Virginia]] gave land south of the Potomac, including the town of [[Alexandria, Virginia]], however Virginia retroceded its portion in 1846). The [[Chesapeake Bay]] nearly bisects the state and the counties east of the bay are known collectively as the ''[[Eastern Shore of Maryland|Eastern Shore]]''.
+[[File:Patapsco fg01.jpg|thumb|upright=1.15|Typical freshwater river above the tidal zone. The [[Patapsco River]] includes the famous [[Thomas Viaduct]] and is part of the [[Patapsco Valley State Park]]. Later, the river forms the [[Inner Harbor]] as it empties into the [[Chesapeake Bay]].]]
+[[File:Sunset over the marsh at Cardinal Cove - NOAA.jpg|thumb|upright=1.15|Typical brackish tidal river. Sunset over a marsh at Cardinal Cove on the [[Patuxent River]]]]
+[[File:ChesapeakeTidalWetlands.jpg|thumb|upright=1.15|Tidal wetlands of the [[Chesapeake Bay]], the largest [[estuary]] in the United States and the largest water feature in Maryland.]]
+Most of the state's waterways are part of the Chesapeake Bay watershed, with the exceptions of a tiny portion of extreme western [[Garrett County, Maryland|Garrett County]] (drained by the [[Youghiogheny River]] as part of the watershed of the [[Mississippi River]]), the eastern half of Worcester County (which drains into Maryland's Atlantic coastal bays), and a small portion of the state's northeast corner (which drains into the [[Delaware River]] watershed). So prominent is the Chesapeake in Maryland's geography and economic life that there has been periodic agitation to change the state's official nickname to the "Bay State", a nickname that has been used by [[Massachusetts]] for decades.
+
+The highest point in Maryland, with an elevation of {{convert|3360|ft|m}}, is [[Backbone Mountain|Hoye Crest on Backbone Mountain]], in the southwest corner of [[Garrett County, Maryland|Garrett County]], near the border with West Virginia, and near the headwaters of the North Branch of the Potomac River. Close to the small town of [[Hancock, Maryland|Hancock]], in western Maryland, about two-thirds of the way across the state, there are {{convert|1.83|mi|km|2}} between its borders. This geographical curiosity makes Maryland the narrowest state,{{citation needed|date=November 2012}} bordered by the [[Mason–Dixon line]] to the north, and the northwards-arching [[Potomac River]] to the south.
+
+Portions of Maryland are included in various official and unofficial geographic regions. For example, the [[Delmarva Peninsula]] is composed of the Eastern Shore counties of Maryland, the entire [[state of Delaware]], and the two counties that make up the [[Eastern Shore of Virginia]], whereas the westernmost counties of Maryland are considered part of [[Appalachia]]. Much of the Baltimore–Washington corridor lies just south of the Piedmont in the Coastal Plain,<ref>{{cite web |url=http://dnr.maryland.gov/waters/cbnerr/Documents/publications/CBNERRMD_SiteProfile_Dec2011.pdf |title=Chesapeake Bay National Estuarine Research Reserve in Maryland Site Profile |publisher=Maryland Department of Natural Resources |page=54 |first=Patricia |last=Delgado |access-date=May 21, 2017 |date=December 2011 |quote=Map showing ... Maryland physiographic provinces }}</ref> though it straddles the border between the two regions.
+
+===Geology===
+Earthquakes in Maryland are infrequent and small due to the state's distance from seismic/earthquake zones.<ref>{{cite web|title=M2.0 – Maryland |url=https://earthquake.usgs.gov/earthquakes/dyfi/events/ld/01015030/us/index.html |accessdate=November 25, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130117073422/https://earthquake.usgs.gov/earthquakes/dyfi/events/ld/01015030/us/index.html |archivedate=January 17, 2013 |df=mdy }}</ref><ref>{{cite web|title=M3.4 – Maryland Potomac-Shenandoah Region |url=https://earthquake.usgs.gov/earthquakes/dyfi/events/us/2010yua6/us/index.html |accessdate=November 25, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121102234322/https://earthquake.usgs.gov/earthquakes/dyfi/events/us/2010yua6/us/index.html |archivedate=November 2, 2012 |df=mdy }}</ref> The [[Moment magnitude scale|M]]5.8 [[2011 Virginia earthquake|Virginia earthquake in 2011]] was felt moderately throughout Maryland. Buildings in the state are not well-designed for earthquakes and can suffer damage easily.<ref>{{Cite web|url=http://www.mgs.md.gov/geology/geohazards/earthquakes_and_maryland.html|title=Earthquakes and Maryland|website=Maryland Geological Survey|access-date=December 25, 2018|first=James P.|last=Reger}}</ref>
+
+Maryland has no natural lakes, mostly due to the lack of glacial history in the area.<ref>{{cite web
+ |url=http://www.mgs.md.gov/esic/fs/fs15.html
+ |title=Maryland's Lakes and Reservoirs: FAQ
+ |publisher=Maryland Geological Survey
+ |date=January 24, 2007
+ |accessdate=February 3, 2008
+}}</ref> All lakes in the state today were constructed, mostly via dams.<ref>Maryland.gov, "[https://msa.maryland.gov/msa/mdmanual/01glance/html/lakes.html Maryland at a glance]." Accessed December 3, 2018.</ref> [[Buckel's Bog]] is believed by geologists to have been a remnant of a former natural lake.<ref>{{cite news|last1=Rosenwald|first1=Michael S.|title=Fact: Maryland has no natural lakes|url=https://www.washingtonpost.com/blogs/rosenwald-md/post/fact-maryland-has-no-natural-lakes/2012/07/30/gJQAbtgdKX_blog.html|accessdate=10 June 2015|newspaper=The Washington Post|date=July 30, 2012}}</ref>
+
+Maryland has shale formations containing natural gas, where fracking is theoretically possible.<ref name="natgas">{{Cite news |url=http://www.baltimoresun.com/news/maryland/politics/bs-md-fracking-ban-passes-20170327-story.html |title=Maryland General Assembly approves fracking ban |last=Pamela Wood |date=March 27, 2017 |work=The Baltimore Sun}}</ref>
+
+===Flora===
+[[File:BESusan.JPG|thumb|upright=1.15|right|[[Rudbeckia hirta|Black-eyed susan]]s, the state flower, grow throughout much of the state.<ref name=maag-flower>{{cite web |title=MARYLAND AT A GLANCE: STATE SYMBOLS, Maryland State Flower – Black-Eyed Susan |publisher=Maryland State Archives |website=Maryland Manual Online |url=http://msa.maryland.gov/msa/mdmanual/01glance/html/symbols/flower.html |accessdate=May 20, 2014 }}</ref>]]
+As is typical of states on the [[East Coast of the United States|East Coast]], Maryland's plant life is abundant and healthy. A good dose of annual precipitation helps to support many types of plants, including [[seagrass]] and various [[Phragmites|reeds]] at the smaller end of the spectrum to the gigantic [[Wye Oak]], a huge example of [[white oak]], the state tree, which can grow in excess of {{convert|70|ft|m}} tall.
+
+[[Middle Atlantic coastal forests]], typical of the southeastern [[Atlantic coastal plain]], grow around Chesapeake Bay and on the [[Delmarva Peninsula]]. Moving west, a mixture of [[Northeastern coastal forests]] and [[Southeastern mixed forests]] cover the central part of the state. The [[Appalachian Mountains]] of western Maryland are home to [[Appalachian-Blue Ridge forests]]. These give way to [[Appalachian mixed mesophytic forests]] near the West Virginia border.<ref name="ecoregions">{{cite journal|author=Olson, D. M, E. Dinerstein |title=Terrestrial Ecoregions of the World: A New Map of Life on Earth |journal=[[BioScience]] |year=2001 |volume=51 |issue=11 |pages=933–938 |url=http://gis.wwfus.org/wildfinder/ |doi=10.1641/0006-3568(2001)051[0933:TEOTWA]2.0.CO;2 |display-authors=etal |deadurl=yes |archiveurl=https://web.archive.org/web/20110907195748/http://gis.wwfus.org/wildfinder/ |archivedate=September 7, 2011 |df=mdy }}</ref>
+
+[[File:Palmtree solomons.jpg|thumb|Mature ''Trachycarpus fortunei'' in [[Solomons, Maryland]]]]Many foreign species are cultivated in the state, some as ornamentals, others as novelty species. Included among these are the [[Lagerstroemia|crape myrtle]], [[Italian cypress]], [[Magnolia grandiflora|southern magnolia]], [[live oak]] in the warmer parts of the state,<ref>{{cite web|url=http://www.prairiefrontier.com/pages/hardiness/zone.html |title=Zone Hardiness Map through Prairie Frontier |publisher=Prairiefrontier.com |accessdate=October 24, 2010}}</ref> and even [[hardy palms|hardy palm trees]] in the warmer central and eastern parts of the state.<ref>{{cite book|author=John Leeds Bozman|title=The history of Maryland: from its first settlement, in 1633, to the restoration, in 1660; with a copious introduction, and notes and illustrations|url=https://books.google.com/books?id=tkwOAAAAIAAJ&pg=PA24|year=1837|publisher=J. Lucas & E.K. Deaver|page=24}}</ref> USDA plant [[hardiness zone]]s in the state range from Zones 5 and 6 in the extreme western part of the state to Zone 7 in the central part, and Zone 8 around the southern part of the coast, the bay area, and parts of [[Baltimore Metropolitan Area|metropolitan Baltimore]].<ref name = "Arbor Day Foundation"/> Invasive plant species, such as [[kudzu]], [[tree of heaven]], [[multiflora rose]], and [[Microstegium vimineum|Japanese stiltgrass]], stifle growth of endemic plant life.<ref>{{cite web|url=http://www.mdinvasivesp.org/list_terrestrial_plants.html |title=Invasive Species of concern in Maryland |publisher=Mdinvasivesp.org |accessdate=October 24, 2010}}</ref> Maryland's state flower, the [[Rudbeckia hirta|black-eyed susan]], grows in abundance in wild flower groups throughout the state.
+
+===Fauna===
+The state harbors a great number of [[white-tailed deer]], especially in the woody and mountainous west of the state, and overpopulation can become a problem. Mammals can be found ranging from the mountains in the west to the central areas and include [[American black bear|black bears]],<ref name="Maryland Wildlife">{{cite web|url=http://www.sailor.lib.md.us/MD_topics/res/env_ani.html |title=Maryland Animals |accessdate=August 30, 2007 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20070830021023/http://www.sailor.lib.md.us/MD_topics/res/env_ani.html |archivedate=August 30, 2007 |df=mdy }}</ref> [[bobcat]]s,<ref>
+{{cite web
+ |title=Lions in our mountains? The mystery of cougars in Maryland
+ |url=http://www.dnr.state.md.us/naturalresource/fall2007/lions.pdf
+ |first=Glenn
+ |last=Therres
+ |date=Fall 2007
+ |format=PDF
+ |website=Wildlife and Heritage
+ |publisher=Maryland Department of Natural Resources
+ |accessdate=July 6, 2009
+ |quote=Historically bobcats were distributed statewide but during the post colonization period densities began to plummet. By the mid-1900s, populations had probably reached all-time lows, with remnant populations existing only in western Maryland. This prompted the Department of Natural Resources (DNR) to classify them as a state-listed "Species of Special Concern." During the past quarter century, occupied range and densities have increased markedly. Results from the annual Bowhunter Survey and the Hunter Mail survey have identified bobcat sightings in 14 of Maryland's 23 counties. Currently, bobcats have dual legal classification in Maryland. In addition to the Species of Special Concern designation, they are also defined as a Game Animal / Furbearer with a closed harvest season.
+ |deadurl=yes
+ |archiveurl=https://web.archive.org/web/20110419203123/http://www.dnr.state.md.us/naturalresource/fall2007/lions.pdf
+ |archivedate=April 19, 2011
+ |df= 
+}}</ref> foxes, [[coyote]]s,<ref>
+{{cite web
+ |title=Coyotes in Maryland
+ |url=http://www.dnr.state.md.us/wildlife/Hunt_Trap/furbearers/coyote.asp
+ |publisher=Maryland Department of Natural Resources
+ |accessdate=September 16, 2011
+ |quote=Coyotes were historically a western species with core populations found west of the Mississippi River. Alterations and/or elimination of competing predators during the post-European colonization period facilitated rapid range expansion into eastern North America during the 20th Century. Established populations now occur in every state and province in North America. Coyotes are a relatively new addition to local ecosystems, and were first documented in Maryland during 1972. Initial substantiated sightings occurred in Cecil, Frederick and Washington counties. Since that time population densities and occupied range have expanded incrementally and coyotes now occur statewide.
+ |deadurl=yes
+ |archiveurl=https://web.archive.org/web/20110815030808/http://www.dnr.state.md.us/wildlife/Hunt_Trap/furbearers/coyote.asp
+ |archivedate=August 15, 2011
+ |df= 
+}}</ref> raccoons, and otters.<ref name="Maryland Wildlife" />
+
+[[File:Assateague Island horses August 2009 4.jpg|thumb|upright=1.15|right|On Maryland's Atlantic coastal islands: A feral [[Chincoteague Pony]] on [[Assateague Island|Assateague]]]]
+
+There is a population of rare wild (feral) horses found on [[Assateague Island]].<ref name="horse">{{Cite web |url=http://www.assateagueisland.com/wildlife/pony.htm |title=Assateague Island National Seashore wild Ponies |publisher=Assateagueisland.com |access-date=October 24, 2010}}</ref> They are believed to be descended from horses who escaped from shipwrecks.<ref name="horse" /> Every year during the last week of July, they are captured and waded across a shallow bay for sale at [[Chincoteague, Virginia]], a conservation technique which ensures the tiny island is not overrun by the horses.<ref name="horse" /> The ponies and their sale were popularized by the children's book, ''[[Misty of Chincoteague]].''
+
+The purebred [[Chesapeake Bay Retriever]] dog was bred specifically for water sports, hunting and search and rescue in the Chesapeake area.<ref name="Maryland1">{{cite web |url=http://www.k9web.com/dog-faqs/breeds/chessies.html |title=Chesapeake Bay Retriever History |publisher=K9web.com |accessdate=October 24, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101024192224/http://www.k9web.com/dog-faqs/breeds/chessies.html |archivedate=October 24, 2010 |df=mdy-all }}</ref> In 1878 the Chesapeake Bay Retriever was the first individual retriever breed recognized by the [[American Kennel Club]].<ref name="Maryland1"/> and was later adopted by the [[University of Maryland, Baltimore County]] as their mascot.
+
+Maryland's reptile and amphibian population includes the [[diamondback terrapin]] turtle, which was adopted as the mascot of [[University of Maryland, College Park]], as well as the threatened [[Eastern box turtle]] <ref>
+{{cite web
+ |title=Eastern Box Turtle
+ |url=https://www.marylandbiodiversity.com/viewSpecies.php?species=865
+ |publisher=Maryland Biodiversity Project
+ |accessdate=July 8, 2018
+}}</ref>
+. The state is part of the territory of the [[Baltimore oriole]], which is the official state bird and mascot of the MLB team the [[Baltimore Orioles]].<ref>{{cite web|url=http://www.msa.md.gov/msa/mdmanual/01glance/html/symbols/bird.html |title=Maryland Government Website – Maryland State Bird |publisher=Msa.md.gov |date=June 7, 2010 |accessdate=October 24, 2010}}</ref> Aside from the oriole, [[List of Maryland birds|435 other species of birds]] have been reported from Maryland.<ref name="MRC2">{{cite web|url=http://www.mdbirds.org/mddcrc/pdf/mdlist.pdf|title=Official list of the birds of Maryland|website=Maryland/District of Columbia Records Committee|accessdate=May 4, 2009|archive-url=https://web.archive.org/web/20180709010629/http://www.mdbirds.org/mddcrc/pdf/mdlist.pdf|archive-date=July 9, 2018|dead-url=yes|df=mdy-all}}</ref>
+
+The state insect is the [[Baltimore checkerspot|Baltimore checkerspot butterfly]], although it is not as common in Maryland as it is in the southern edge of its range.<ref>[http://www.butterfliesandmoths.org/species?l=1753 Euphydryas phaeton (Drury, 1773)] {{webarchive|url=https://web.archive.org/web/20100906132330/http://www.butterfliesandmoths.org/species?l=1753|date=September 6, 2010}}, ''Butterflies and Moths of North America''</ref>
+
+===Environment===
+Maryland joined with neighboring states during the end of the 20th century to improve the health of the [[Chesapeake Bay]]. The bay's aquatic life and seafood industry have been threatened by development and by fertilizer and livestock waste entering the bay.<ref>{{cite news |title=An Unsavory Byproduct: Runoff and Pollution |first=Peter S. |last=Goodman |url=https://www.washingtonpost.com/wp-srv/local/daily/aug99/chicken1.htm |newspaper=Washington Post |date=August 1, 1999 |page=A1}}</ref><ref name="hog">{{Cite news |url=http://articles.baltimoresun.com/1999-01-01/news/9904280856_1_hog-farm-cafos-factory-hog |title=Hog farms' waste poses a threat |last=Horton |first=Tom |date=January 1, 1999 |work=Baltimore Sun}}</ref>
+
+In 2007, Forbes.com rated Maryland as the fifth "Greenest" state in the country behind three of the [[Pacific States]] and Vermont. Maryland ranks 40th in total energy consumption nationwide, and it managed less toxic waste per capita than all but six states in 2005.<ref>{{cite news|url=https://www.forbes.com/2007/10/16/environment-energy-vermont-biz-beltway-cx_bw_mm_1017greenstates_2.html |title=– America's Greenest States |publisher=Forbes.com |date=October 16, 2007 |accessdate=October 24, 2010 |first1=Brian |last1=Wingfield |first2=Miriam |last2=Marcus}}</ref> In April 2007 Maryland joined the [[Regional Greenhouse Gas Initiative]] (RGGI)—a regional initiative formed by all of the Northeastern states, Washington D.C., and three Canadian provinces to reduce greenhouse gas emissions.<ref>{{Cite web|url=https://www.rggi.org/program-overview-and-design/design-archive|title=Program Design Archive {{!}} RGGI, Inc|website=www.rggi.org|language=en|access-date=2018-04-20}}</ref> In March 2017, Maryland became the first state with proven gas reserves to ban fracking by passing a law against it. Vermont has such a law, but no shale gas, and New York has such a ban, though it was made by executive order.<ref name="natgas" />
+
+===Climate===
+[[File:Maryland Köppen.svg|thumb|A map of Köppen climate types in Maryland]]
+[[File:Baltimore_Snowpocalypse.jpg|thumb|Winter in Baltimore, Lancaster Street, Fells Point]]
+Maryland has a wide array of climates, due to local variances in elevation, proximity to water, and protection from colder weather due to [[Katabatic wind|downslope wind]]s.
+
+The eastern half of Maryland—which includes the cities of [[Ocean City, Maryland|Ocean City]], [[Salisbury, Maryland|Salisbury]], [[Annapolis]], and the southern and eastern suburbs of Washington, D.C. and [[Baltimore]]—lies on the [[Atlantic Coastal Plain]], with flat topography and sandy or muddy soil. This region has a [[humid subtropical climate]] ([[Köppen climate classification|Köppen]] ''Cfa''), with hot, humid summers and a short, mild to cool winter; it falls under USDA [[Hardiness zone]] 8a.<ref name = "Arbor Day Foundation">{{cite web|url=http://www.arborday.org/media/zones.cfm |title=Hardiness Zones |publisher=Arbor Day Foundation |accessdate=March 5, 2013}}</ref>
+
+The [[Piedmont (United States)|Piedmont]] region—which includes northern and western greater Baltimore, [[Westminster, Maryland|Westminster]], [[Gaithersburg, Maryland|Gaithersburg]], [[Frederick, Maryland|Frederick]], and [[Hagerstown, Maryland|Hagerstown]]—has average seasonal snowfall totals generally exceeding {{convert|20|in|cm}} and, as part of USDA Hardiness zones 7b and 7a,<ref name = "Arbor Day Foundation"/> temperatures below {{convert|10|°F|0}} are less rare. From the [[Cumberland Valley]] on westward, the climate begins to transition to a [[humid continental climate]] (Köppen ''Dfa'').
+
+In western Maryland, the higher elevations of [[Allegany County, Maryland|Allegany]] and [[Garrett County, Maryland|Garrett]] counties—including the cities of [[Cumberland, Maryland|Cumberland]], [[Frostburg, Maryland|Frostburg]], and [[Oakland, Maryland|Oakland]]—display more characteristics of the humid continental zone, due in part to elevation. They fall under USDA Hardiness zones 6b and below.<ref name = "Arbor Day Foundation"/>
+
+Precipitation in the state is characteristic of the East Coast. Annual rainfall ranges from {{convert|35|to|45|in|mm}} with more in higher elevations. Nearly every part of Maryland receives {{convert|3.5|–|4.5|in|mm}} per month of rain. Average annual snowfall varies from {{convert|9|in|cm}} in the coastal areas to over {{convert|100|in|cm}} in the western mountains of the state.<ref>{{cite web|url=http://www.erh.noaa.gov/er/lwx/Historic_Events/md-snow-avg.gif |title=Snowfall Map |accessdate=October 24, 2010}}</ref>
+
+Because of its location near the [[East Coast of the United States|Atlantic Coast]], Maryland is somewhat vulnerable to [[tropical cyclones]], although the [[Delmarva Peninsula]] and the outer banks of [[North Carolina]] provide a large buffer, such that strikes from major hurricanes (category 3 or above) occur infrequently. More often, Maryland gets the remnants of a tropical system which has already come ashore and released most of its energy. Maryland averages around 30–40 days of thunderstorms a year, and averages around six tornado strikes annually.<ref name="Annual average number of tornadoes">[http://www.ncdc.noaa.gov/img/climate/research/tornado/small/avgt5304.gif] NOAA National Climatic Data Center. Retrieved on October 24, 2006.</ref>
+
+{| class="wikitable"
+|+  style="vertical-align:top; background:silver;"|Monthly average high and low temperatures for various Maryland cities and landmarks <small>(covering breadth and width of the state)</small>
+|-
+!| City
+!| Jan
+!| Feb
+!| Mar
+!| Apr
+!| May
+!| Jun
+!| Jul
+!| Aug
+!| Sep
+!| Oct
+!| Nov
+!| Dec
+|-
+! | <small>[[Oakland, Maryland|Oakland]]</small>
+| | <small>{{convert|34|°F}}<br />{{convert|16|°F}}</small>
+| | <small>{{convert|38|°F}}<br />{{convert|17|°F}}</small>
+| | <small>{{convert|48|°F}}<br />{{convert|25|°F}}</small>
+| | <small>{{convert|59|°F}}<br />{{convert|34|°F}}</small>
+| | <small>{{convert|68|°F}}<br />{{convert|45|°F}}</small>
+| | <small>{{convert|75|°F}}<br />{{convert|53|°F}}</small>
+| | <small>{{convert|79|°F}}<br />{{convert|58|°F}}</small>
+| | <small>{{convert|78|°F}}<br />{{convert|56|°F}}</small>
+| | <small>{{convert|71|°F}}<br />{{convert|49|°F}}</small>
+| | <small>{{convert|62|°F}}<br />{{convert|37|°F}}</small>
+| | <small>{{convert|50|°F}}<br />{{convert|28|°F}}</small>
+| | <small>{{convert|39|°F}}<br />{{convert|21|°F}}</small>
+|-
+! | <small>[[Cumberland, Maryland|Cumberland]]</small>
+| | <small>{{convert|41|°F}}<br />{{convert|22|°F}}</small>
+| | <small>{{convert|46|°F}}<br />{{convert|24|°F}}</small>
+| | <small>{{convert|56|°F}}<br />{{convert|32|°F}}</small>
+| | <small>{{convert|68|°F}}<br />{{convert|41|°F}}</small>
+| | <small>{{convert|77|°F}}<br />{{convert|51|°F}}</small>
+| | <small>{{convert|85|°F}}<br />{{convert|60|°F}}</small>
+| | <small>{{convert|89|°F}}<br />{{convert|65|°F}}</small>
+| | <small>{{convert|87|°F}}<br />{{convert|63|°F}}</small>
+| | <small>{{convert|80|°F}}<br />{{convert|55|°F}}</small>
+| | <small>{{convert|69|°F}}<br />{{convert|43|°F}}</small>
+| | <small>{{convert|57|°F}}<br />{{convert|34|°F}}</small>
+| | <small>{{convert|45|°F}}<br />{{convert|26|°F}}</small>
+|-
+! | <small>[[Hagerstown, Maryland|Hagerstown]]</small>
+| | <small>{{convert|39|°F}}<br />{{convert|22|°F}}</small>
+| | <small>{{convert|42|°F}}<br />{{convert|23|°F}}</small>
+| | <small>{{convert|52|°F}}<br />{{convert|30|°F}}</small>
+| | <small>{{convert|63|°F}}<br />{{convert|39|°F}}</small>
+| | <small>{{convert|72|°F}}<br />{{convert|50|°F}}</small>
+| | <small>{{convert|81|°F}}<br />{{convert|59|°F}}</small>
+| | <small>{{convert|85|°F}}<br />{{convert|64|°F}}</small>
+| | <small>{{convert|83|°F}}<br />{{convert|62|°F}}</small>
+| | <small>{{convert|76|°F}}<br />{{convert|54|°F}}</small>
+| | <small>{{convert|65|°F}}<br />{{convert|43|°F}}</small>
+| | <small>{{convert|54|°F}}<br />{{convert|34|°F}}</small>
+| | <small>{{convert|43|°F}}<br />{{convert|26|°F}}</small>
+|-
+! | <small>[[Frederick, Maryland|Frederick]]</small>
+| | <small>{{convert|42|°F}}<br />{{convert|26|°F}}</small>
+| | <small>{{convert|47|°F}}<br />{{convert|28|°F}}</small>
+| | <small>{{convert|56|°F}}<br />{{convert|35|°F}}</small>
+| | <small>{{convert|68|°F}}<br />{{convert|45|°F}}</small>
+| | <small>{{convert|77|°F}}<br />{{convert|54|°F}}</small>
+| | <small>{{convert|85|°F}}<br />{{convert|63|°F}}</small>
+| | <small>{{convert|89|°F}}<br />{{convert|68|°F}}</small>
+| | <small>{{convert|87|°F}}<br />{{convert|66|°F}}</small>
+| | <small>{{convert|80|°F}}<br />{{convert|59|°F}}</small>
+| | <small>{{convert|68|°F}}<br />{{convert|47|°F}}</small>
+| | <small>{{convert|56|°F}}<br />{{convert|38|°F}}</small>
+| | <small>{{convert|45|°F}}<br />{{convert|30|°F}}</small>
+|-
+! | <small>[[Baltimore, Maryland|Baltimore]]</small>
+| | <small>{{convert|42|°F}}<br />{{convert|29|°F}}</small>
+| | <small>{{convert|46|°F}}<br />{{convert|31|°F}}</small>
+| | <small>{{convert|54|°F}}<br />{{convert|39|°F}}</small>
+| | <small>{{convert|65|°F}}<br />{{convert|48|°F}}</small>
+| | <small>{{convert|75|°F}}<br />{{convert|57|°F}}</small>
+| | <small>{{convert|85|°F}}<br />{{convert|67|°F}}</small>
+| | <small>{{convert|90|°F}}<br />{{convert|72|°F}}</small>
+| | <small>{{convert|87|°F}}<br />{{convert|71|°F}}</small>
+| | <small>{{convert|80|°F}}<br />{{convert|64|°F}}</small>
+| | <small>{{convert|68|°F}}<br />{{convert|52|°F}}</small>
+| | <small>{{convert|58|°F}}<br />{{convert|43|°F}}</small>
+| | <small>{{convert|46|°F}}<br />{{convert|33|°F}}</small>
+|-
+! | <small>[[Elkton, Maryland|Elkton]]</small>
+| | <small>{{convert|42|°F}}<br />{{convert|24|°F}}</small>
+| | <small>{{convert|46|°F}}<br />{{convert|26|°F}}</small>
+| | <small>{{convert|55|°F}}<br />{{convert|32|°F}}</small>
+| | <small>{{convert|67|°F}}<br />{{convert|42|°F}}</small>
+| | <small>{{convert|76|°F}}<br />{{convert|51|°F}}</small>
+| | <small>{{convert|85|°F}}<br />{{convert|61|°F}}</small>
+| | <small>{{convert|88|°F}}<br />{{convert|66|°F}}</small>
+| | <small>{{convert|87|°F}}<br />{{convert|65|°F}}</small>
+| | <small>{{convert|80|°F}}<br />{{convert|57|°F}}</small>
+| | <small>{{convert|69|°F}}<br />{{convert|45|°F}}</small>
+| | <small>{{convert|58|°F}}<br />{{convert|36|°F}}</small>
+| | <small>{{convert|46|°F}}<br />{{convert|28|°F}}</small>
+|-
+! | <small>[[Ocean City, Maryland|Ocean City]]</small>
+| | <small>{{convert|45|°F}}<br />{{convert|28|°F}}</small>
+| | <small>{{convert|46|°F}}<br />{{convert|29|°F}}</small>
+| | <small>{{convert|53|°F}}<br />{{convert|35|°F}}</small>
+| | <small>{{convert|61|°F}}<br />{{convert|44|°F}}</small>
+| | <small>{{convert|70|°F}}<br />{{convert|53|°F}}</small>
+| | <small>{{convert|79|°F}}<br />{{convert|63|°F}}</small>
+| | <small>{{convert|84|°F}}<br />{{convert|68|°F}}</small>
+| | <small>{{convert|82|°F}}<br />{{convert|67|°F}}</small>
+| | <small>{{convert|77|°F}}<br />{{convert|60|°F}}</small>
+| | <small>{{convert|68|°F}}<br />{{convert|51|°F}}</small>
+| | <small>{{convert|58|°F}}<br />{{convert|39|°F}}</small>
+| | <small>{{convert|49|°F}}<br />{{convert|32|°F}}</small>
+|-
+! | <small>[[Waldorf, Maryland|Waldorf]]</small>
+| | <small>{{convert|44|°F}}<br />{{convert|26|°F}}</small>
+| | <small>{{convert|49|°F}}<br />{{convert|28|°F}}</small>
+| | <small>{{convert|58|°F}}<br />{{convert|35|°F}}</small>
+| | <small>{{convert|68|°F}}<br />{{convert|43|°F}}</small>
+| | <small>{{convert|75|°F}}<br />{{convert|53|°F}}</small>
+| | <small>{{convert|81|°F}}<br />{{convert|62|°F}}</small>
+| | <small>{{convert|85|°F}}<br />{{convert|67|°F}}</small>
+| | <small>{{convert|83|°F}}<br />{{convert|65|°F}}</small>
+| | <small>{{convert|78|°F}}<br />{{convert|59|°F}}</small>
+| | <small>{{convert|68|°F}}<br />{{convert|47|°F}}</small>
+| | <small>{{convert|59|°F}}<br />{{convert|38|°F}}</small>
+| | <small>{{convert|48|°F}}<br />{{convert|30|°F}}</small>
+|-
+! | <small>[[Point Lookout State Park]]</small>
+| | <small>{{convert|47|°F}}<br />{{convert|29|°F}}</small>
+| | <small>{{convert|51|°F}}<br />{{convert|31|°F}}</small>
+| | <small>{{convert|60|°F}}<br />{{convert|38|°F}}</small>
+| | <small>{{convert|70|°F}}<br />{{convert|46|°F}}</small>
+| | <small>{{convert|78|°F}}<br />{{convert|55|°F}}</small>
+| | <small>{{convert|86|°F}}<br />{{convert|64|°F}}</small>
+| | <small>{{convert|89|°F}}<br />{{convert|69|°F}}</small>
+| | <small>{{convert|87|°F}}<br />{{convert|67|°F}}</small>
+| | <small>{{convert|81|°F}}<br />{{convert|60|°F}}</small>
+| | <small>{{convert|71|°F}}<br />{{convert|49|°F}}</small>
+| | <small>{{convert|61|°F}}<br />{{convert|41|°F}}</small>
+| | <small>{{convert|50|°F}}<br />{{convert|32|°F}}</small>
+|-
+| colspan="13" style="text-align:center"|''<ref name= NOAA>
+  {{cite web
+  |url = http://www.nws.noaa.gov/climate/xmacis.php?wfo=lwx
+  |title = NowData – NOAA Online Weather Data
+  |publisher = [[National Oceanic and Atmospheric Administration]]
+  |accessdate = December 17, 2012}}</ref><ref>{{cite web|url=http://www.weather.com/weather/wxclimatology/monthly/USMD0294 |title=Monthly Averages for Oakland, MD |publisher=weather.com |accessdate=September 28, 2013}}</ref><ref name="NOAA Cumberland">{{cite web |url=ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USC00182282.normals.txt |publisher=National Oceanic and Atmospheric Administration |title=Station Name: MD CUMBERLAND 2  |accessdate=March 5, 2013}}</ref><ref>{{cite web|url=http://www.weather.com/weather/wxclimatology/monthly/USMD0195 |title=Monthly Averages for Hagerstown, MD |publisher=weather.com |accessdate=September 28, 2013}}</ref><ref name="NOAA Frederick">{{cite web |url=ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USC00183348.normals.txt |publisher=National Oceanic and Atmospheric Administration |title=Station Name: MD FREDERICK POLICE BRKS |accessdate=March 5, 2013}}</ref><ref name="NOAA Baltimore downtown">{{cite web |url=ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USW00093784.normals.txt |publisher=National Oceanic and Atmospheric Administration |title=Station Name: MD MD SCI CTR BALTIMORE |accessdate=February 27, 2013}}</ref><ref>{{cite web |title=Monthly Averages for Elkton, MD (21921) |publisher=The Weather Channel |url=http://www.weather.com/weather/wxclimatology/monthly/21921 |access-date=May 21, 2017 }}</ref><ref name="NOAA Ocean City">{{cite web |url=ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USW00093786.normals.txt |publisher=National Oceanic and Atmospheric Administration |title=Station Name: MD OCEAN CITY MUNI AP |accessdate=March 5, 2013}}</ref><ref>{{cite web |title=Monthly Averages for Waldorf, MD |publisher=The Weather Channel |url=http://www.weather.com/weather/wxclimatology/monthly/graph/USMD0414 |access-date=May 21, 2017 }}</ref><ref>{{cite web |title=Monthly Averages for Point Lookout State Park [Scotland, MD] |publisher=The Weather Channel |url=https://weather.com/weather/monthly/l/20687 |access-date=May 21, 2017 }}</ref>''
+|}
+
+==History==
+{{Main|History of Maryland}}
+
+===17th century===
+[[File:Calvertcecil.jpg|thumb|upright=0.8|[[Cecil Calvert, 2nd Baron Baltimore]], 1st Proprietor of the Maryland colony.]]
+
+====Maryland's first colonial settlement====
+{{Main|Province of Maryland}}
+
+[[George Calvert, 1st Lord Baltimore]] (1579–1632), sought a charter from King [[Charles I of England|Charles I]] for the territory between [[Massachusetts]] to the north and [[Virginia]] to the immediate south.<ref name="Stewart 1967 42–43">{{Cite book|last=Stewart
+|first= George R.|authorlink= George R. Stewart|title= Names on the Land: A Historical Account of Place-Naming in the United States|origyear= 1945 |edition= Sentry edition (3rd)|year= 1967 |publisher= [[Houghton Mifflin]]|pages= 42–43}}</ref>
+After the first Lord Baltimore died in April 1632, the charter was granted to his son, [[Cecilius Calvert, 2nd Baron Baltimore]] (1605–1675), on June 20, 1632. Officially, the new "Maryland Colony" was named in honor of [[Henrietta Maria of France]], wife of Charles I of England.  George Calvert initially proposed the name “Crescentia,” the land of growth or increase, but “the King proposed Terra Mariae [Mary Land], which was concluded on and Inserted in the bill.”<ref name=":1" />
+
+The original capital of Maryland was [[St. Mary's City, Maryland|St. Mary's City]], on the north shore of the [[Potomac River]], and the county surrounding it, the first erected/created in the province,<ref>{{cite web|url=http://msa.maryland.gov/msa/speccol/photos/lowe/html/sm_2.html|title=Maryland In Focus -- St. Mary's County|first=Kristin P.|last=Masser|website=msa.maryland.gov}}</ref> was first called Augusta Carolina, after the King, and later named St. Mary's County.<ref>{{Cite book|title=History of Maryland at 32|last=|first=|publisher=|year=|isbn=|location=|pages=}}</ref>
+
+Lord Baltimore's first settlers arrived in the new colony in March 1634, with his younger brother [[Leonard Calvert]] (1606–1647), as first provincial [[Governor of Maryland]]. They made their first permanent settlement at [[St. Mary's City, Maryland|St. Mary's City]] in what is now [[St. Mary's County]]. They purchased the site from the [[paramount chief]] of the region, who was eager to establish trade. St. Mary's became the first [[state capital|capital]] of Maryland, and remained so for 60 years until 1695. More settlers soon followed. Their tobacco crops were successful and quickly made the new colony profitable. However, given the incidence of [[malaria]], [[yellow fever]] and [[typhoid]], life expectancy in Maryland was about 10 years less than in [[New England]].<ref name=iha>[http://www.ushistory.org/us/5a.asp "The Southern Colonies", U.S. History, The Independence Hall Association] {{webarchive |url=https://web.archive.org/web/20160322155310/http://www.ushistory.org/us/5a.asp |date=March 22, 2016 }}</ref>
+
+====Persecution of Catholics====
+{{See also|Plundering Time}}
+
+Maryland was founded for the purpose of providing religious toleration of England's [[Roman Catholic Church|Roman Catholic]] minority.<ref name="washingtonpost.com">[https://www.washingtonpost.com/wp-dyn/content/article/2008/08/15/AR2008081504104.html Greenwell, Megan. "Religious Freedom Byway Would Recognize Maryland's Historic Role", ''Washington Post'', August 21, 2008]</ref>
+Although Maryland was the most heavily Catholic of the England mainland colonies, this religious group was still in the minority, consisting of less than 10% of the total population.<ref name=":0">{{Cite book|title=Slavery's Capitalism: A New History of American Economic Development|last=Wilder|first=Craig Steven|publisher=University of Pennsylvania|year=2016|isbn=978-0-8122-4841-8|editor-last=Beckert|editor-first=Seth|location=Philadelphia, PA|page=233|chapter=War and Priests: Catholic Colleges and Slavery in the Age of Revolution|editor-last2=Rockman|editor-first2=Seth}}</ref>
+
+In 1642 a number of [[Puritan]]s left Virginia for Maryland and founded Providence (now called [[Annapolis, Maryland|Annapolis]]) on the [[Western Shore of Maryland|western shore]] of the upper [[Chesapeake Bay]].<ref>Taylor, Owen M.,''History of Annapolis'' (1872) [https://books.google.com/books?id=Vr9ib-I1WlIC p 5 online]</ref> A dispute with traders from Virginia over [[Kent Island]] in the Chesapeake led to armed conflict. In 1644 [[William Claiborne]], a Puritan, seized Kent Island while his associate, the pro-Parliament Puritan [[Richard Ingle]], took over St. Mary's.<ref>Brenner, Robert. ''Merchants and Revolution'' London:Verso. 2003, {{ISBN|1-85984-333-6}}</ref> Both used religion as a tool to gain popular support. The two years from 1644–1646 that Claiborne and his Puritan associates held sway were known as "The Plundering Time". They captured Jesuit priests, imprisoned them, then sent them back to England.
+
+In 1646 [[Leonard Calvert]] returned with troops, recaptured St. Mary's City, and restored order. The House of Delegates passed the "Act concerning Religion" in 1649 granting religious liberty to all Trinitarian Christians.<ref name=iha/>
+
+In 1650 the Puritans revolted against the proprietary government. "Protestants swept the Catholics out of the legislature ...and religious strife returned".<ref name=iha/>
+The Puritans set up a new government prohibiting both [[Roman Catholic Church|Roman Catholicism]] and [[Church of England|Anglicanism]]. The Puritan revolutionary government persecuted Maryland Catholics during its reign, known as the "plundering time". Mobs burned down all the original Catholic churches of southern Maryland. The Puritan rule lasted until 1658 when the Calvert family and Lord Baltimore regained proprietary control and re-enacted the Toleration Act.
+
+After England's "[[Glorious Revolution]]" of 1688, Maryland outlawed Catholicism. In 1704, the Maryland General Assembly prohibited Catholics from operating schools, limited the corporate ownership of property to hamper religious orders from expanding or supporting themselves, and encouraged the conversion of Catholic children.<ref name=":0" /> The celebration of the Catholic sacraments was also officially restricted. This state of affairs lasted until after the [[American Revolutionary War]] (1775–1783). Wealthy Catholic planters built chapels on their land to practice their religion in relative secrecy.
+
+Into the 18th century, individual priests and lay leaders claimed Maryland farms belonging to the Jesuits as personal property and bequeathed these and other properties to other religious or lay people in order to evade the legal restrictions on religious organizations&nbsp;– such as the Society of Jesus&nbsp;– owning property.<ref name=":0" />
+
+===Border disputes (1681–1760)===
+{{main|Penn–Calvert Boundary Dispute|Cresap's War}}
+
+The royal charter granted Maryland the land north of the [[Potomac River]] up to the [[40th parallel north|40th parallel]]. A problem arose when [[Charles II of England|Charles II]] granted a charter for [[Pennsylvania]]. The grant defined Pennsylvania's southern border as identical to Maryland's northern border, the 40th parallel. But the grant indicated that Charles II and [[William Penn]] assumed the 40th parallel would pass close to [[New Castle, Delaware]] when it falls north of [[Philadelphia]], the site of which Penn had already selected for his colony's capital city. Negotiations ensued after the problem was discovered in 1681.
+
+A compromise proposed by Charles II in 1682 was undermined by Penn's receiving the additional grant of what is now Delaware.<ref name=hubbard>{{Cite book|last= Hubbard |first= Bill, Jr. |title= American Boundaries: the Nation, the States, the Rectangular Survey |year= 2009 |publisher= University of Chicago Press |isbn= 978-0-226-35591-7 |pages= 21–23}}</ref> Penn successfully argued that the Maryland charter entitled Lord Baltimore only to unsettled lands, and Dutch settlement in Delaware predated his charter. The dispute remained unresolved for nearly a century, carried on by the descendants of William Penn and Lord Baltimore&nbsp;— the [[Baron Baltimore|Calvert family]], which controlled Maryland, and the [[William Penn|Penn family]], which controlled Pennsylvania.<ref name=hubbard/>
+
+The border dispute with Pennsylvania led to Cresap's War in the 1730s. Hostilities erupted in 1730 and escalated through the first half of the decade, culminating in the deployment of military forces by Maryland in 1736 and by Pennsylvania in 1737. The armed phase of the conflict ended in May 1738 with the intervention of King George II, who compelled the negotiation of a cease-fire. A provisional agreement had been established in 1732.<ref name=hubbard/>
+
+Negotiations continued until a final agreement was signed in 1760. The agreement defined the border between Maryland and Pennsylvania as the line of latitude now known as the [[Mason–Dixon line]]. Maryland's border with Delaware was based on a [[Transpeninsular Line]] and the [[Twelve-Mile Circle]] around New Castle.<ref name=hubbard/>
+
+===18th century===
+{{Main|American Revolutionary War|Maryland in the American Revolution|Lee Resolution|United States Declaration of Independence|Philadelphia campaign|Articles of Confederation#Ratification|Treaty of Paris (1783)|Mount Vernon Conference|Annapolis Convention (1786)|Constitutional Convention (United States)|Admission to the Union|List of U.S. states by date of admission to the Union}}
+
+Most of the English colonists arrived in Maryland as [[indentured servant]]s, and had to serve a several years' term as laborers to pay for their passage.<ref>"[http://www.folger.edu/html/folger_institute/jamestown/c_shifflet.htm Indentured Servants and the Pursuits of Happiness] {{webarchive|url=https://web.archive.org/web/20100104180311/http://www.folger.edu/html/folger_institute/jamestown/c_shifflet.htm |date=January 4, 2010 }}". Crandall Shifflett, ''Virginia Tech''.</ref> In the early years, the line between indentured servants and African slaves or laborers was fluid, and white and black laborers commonly lived and worked together, and formed unions. [[Mixed-race]] children born to white mothers were considered free by the principle of ''[[partus sequitur ventrem]]'', by which children took the social status of their mothers, a principle of slave law that was adopted throughout the colonies, following Virginia in 1662. During the colonial era, families of [[free people of color]] were formed most often by unions of white women and African men.<ref name="Heinegg"/>
+[[File:Maxime de Cromot.jpg|thumb|[[Franco-American alliance|Comte du Bourg]] (left) and Baron von Closen on their way to Yorktown, September 1781]]
+
+Many of the free black families migrated to Delaware, where land was cheaper.<ref name="Heinegg">[http://www.freeafricanamericans.com/ Paul Heinegg. ''Free African Americans in Virginia, North Carolina, South Carolina, Maryland and Delaware'']. Retrieved February 15, 2008.</ref> As the flow of indentured laborers to the colony decreased with improving economic conditions in England, planters in Maryland imported thousands more slaves and racial caste lines hardened. The economy's growth and prosperity was based on slave labor, devoted first to the production of [[tobacco]] as the commodity crop.
+
+Maryland was one of the [[13 colonies|thirteen colonies]] that revolted against British rule in the [[American Revolution]]. Near the end of the [[American Revolutionary War]] (1775–1783), on February 2, 1781, Maryland became the last and 13th state to approve the ratification of the [[Articles of Confederation|Articles of Confederation and Perpetual Union]], first proposed in 1776 and adopted by the [[Second Continental Congress]] in 1778, which brought into being the United States as a united, [[sovereignty|sovereign]] and [[nation state|national state]]. It also became the seventh state admitted to the Union after ratifying the new federal Constitution in 1788. In December 1790, Maryland donated land selected by first President [[George Washington]] to the federal government for the creation of the new national capital of [[Washington, D.C.]] The land was provided along the north shore of the [[Potomac River]] from [[Montgomery County, Maryland|Montgomery]] and [[Prince George's County, Maryland|Prince George's]] counties, as well as from [[Fairfax County, Virginia|Fairfax County]] and [[Alexandria, Virginia|Alexandria]] on the south shore of the Potomac in [[Virginia]]; however, the land donated by the Commonwealth of Virginia was later returned to that state by the [[District of Columbia retrocession]] in 1846.
+
+===19th century===
+{{original research|section|date=May 2014}}
+[[File:Ft. Henry bombardement 1814.jpg|thumb|The bombardment of [[Fort McHenry]] in Baltimore inspired the song, "[[Star Spangled Banner]]".]]
+Influenced by a changing economy, revolutionary ideals, and preaching by ministers, numerous planters in Maryland freed their slaves in the 20 years after the [[American Revolution|Revolutionary War]]. Across the Upper South the free black population increased from less than 1% before the war to 14% by 1810.<ref name="Kolchin"/> Abolitionist [[Harriet Tubman]] was born a slave during this time in [[Dorchester County, Maryland]].<ref>{{Cite web|url=https://www.history.com/topics/black-history/harriet-tubman|title=Harriet Tubman|last=Editors|first=History com|website=HISTORY|language=en|access-date=2019-01-18}}</ref>
+
+During the [[War of 1812]], the British military attempted to capture Baltimore, which was protected by [[Fort McHenry]]. During this bombardment the song "[[Star Spangled Banner]]" was written by [[Francis Scott Key]]; it was later adopted as the national anthem.
+
+The National Road (U.S. Hwy 40 today) was authorized in 1817 and ran from Baltimore to St. Louis&nbsp;– the first federal highway.
+The [[Baltimore and Ohio Railroad]] (B&O) was the first chartered railroad in the United States. It opened its first section of track for regular operation in 1830 between Baltimore and Ellicott City,<ref name="Dilts">{{cite book |title=The Great Road: The Building of the Baltimore and Ohio, the Nation's First Railroad, 1828–1853 |last=Dilts |first=James D. |year=1993 |publisher=Stanford University Press |location=Palo Alto, CA |isbn=978-0-8047-2235-3 |page=80}}</ref> and in 1852 it became the first rail line to reach the [[Ohio River]] from the eastern seaboard.<ref name="Stover">{{cite book | last = Stover | first = John F. | title = History of the Baltimore and Ohio Railroad | publisher = Purdue University Press | year = 1987 | location = West Lafayette, IN | isbn = 978-0-911198-81-2 |page=18}}</ref>
+
+====Civil War====
+{{main|Maryland in the American Civil War}}
+The state remained with the Union during the Civil War,<ref>{{cite web |url=https://civilwarmonths.com/2016/04/29/maryland-remains-in-the-union/ |title=Maryland Remains in the Union |access-date=July 7, 2016 |date=April 29, 2016 |publisher=Walter Coffey |author=Walter Coffey |website=The Civil War Months }}</ref> due in significant part to demographics and Federal intervention. The 1860 census, held shortly before the outbreak of the civil war, showed that 49% of Maryland's African Americans were [[free black]]s.<ref name="Kolchin">Peter Kolchin, ''American Slavery: 1619–1877'', New York: Hill and Wang, 1993, pp. 81–82</ref>
+[[File:Battle of Antietam.png|thumb|The [[Battle of Antietam]] was the single bloodiest day of the [[American Civil War|Civil War]] with nearly 23,000 casualties.]]
+Governor [[Thomas Holliday Hicks]] suspended the state legislature, and to help ensure the election of a new pro-union governor and legislature, President [[Abraham Lincoln]] had a number of its pro-slavery politicians arrested, including the Mayor of Baltimore, [[George William Brown]]; suspended several civil liberties, including  ''habeas corpus''; and ordered artillery placed on [[Federal Hill, Baltimore, Maryland|Federal Hill]] overlooking Baltimore. Historians debate the constitutionality of these wartime actions, and the suspension of civil liberties was later deemed illegal by  the [[United States Supreme Court|U.S. Supreme Court]].{{citation needed|date=March 2016}}
+
+In April 1861 Federal units and state regiments were attacked as they marched through Baltimore, sparking the [[Baltimore riot of 1861]], the first bloodshed in the Civil War.<ref>{{cite web | last=Vogler | first=Mark E. | title=Civil War Guard on duty in Baltimore to save President Street Station | url=http://www.eagletribune.com/punews/local_story_107204538.html | date=April 18, 2009 | archiveurl=https://archive.is/20090419134532/http://www.eagletribune.com/punews/local_story_107204538.html | archivedate=April 19, 2009 |deadurl=yes | website=eagletribune.com | publisher=Eagle Tribune | accessdate=April 28, 2015 }}</ref> Of the 115,000 men from Maryland who joined the military during the Civil War, 85,000, or 77%, joined the [[Union army]], while the remainder joined the [[Confederate Army]].{{citation needed|date=March 2016}} The largest and most significant battle in the state was the [[Battle of Antietam]] on September 17, 1862, near [[Sharpsburg, Maryland|Sharpsburg]]. Although a tactical draw, the battle was considered a strategic Union victory and a [[turning point of the American Civil War|turning point]] of the war.
+
+====After the war====
+A new state constitution in 1864 [[Abolitionism in the United States|abolished]] slavery and Maryland was first recognized as a "Free State" in that context.<ref name=freestate>{{cite web |url=http://msa.maryland.gov/msa/mdmanual/01glance/html/nickname.html |title=Maryland at a Glance: Nicknames |publisher=Maryland State Archives |date=September 29, 2015 |access-date=February 8, 2018 }}</ref> Following passage of constitutional amendments that granted voting rights to [[freedmen]], in 1867 the state extended suffrage to non-white males.
+
+The [[History of the United States Democratic Party|Democratic Party]] rapidly regained power in the state from [[History of the United States Republican Party|Republicans]]. Democrats replaced the Constitution of 1864 with the [[Maryland Constitution of 1867|Constitution of 1867]]. Following the end of Reconstruction in 1877, Democrats devised means of [[Disfranchisement after Reconstruction era|disfranchising]] blacks, initially by physical intimidation and voter fraud, later by constitutional amendments and laws.
+Blacks and immigrants, however, resisted Democratic Party disfranchisement efforts in the state. Maryland blacks were part of a biracial Republican coalition elected to state government in 1896–1904 and comprised 20% of the electorate.<ref name="tuck">[http://www.brandonkendhammer.com/democratization_Spring2013/wp-content/uploads/2012/11/Tuck-2007.pdf STEPHEN TUCK, "Democratization and the Disfranchisement of African Americans in the US South during the Late 19th Century" (pdf)], Spring 2013, reading for "Challenges of Democratization", by Brandon Kendhammer, Ohio University</ref>
+
+Compared to some other states, blacks were better established both before and after the civil war. Nearly half the black population was free before the war, and some had accumulated property. Half the population lived in cities. Literacy was high among blacks and, as Democrats crafted means to exclude them, suffrage campaigns helped reach blacks and teach them how to resist.<ref name="tuck"/> Whites did impose [[racial segregation]] in public facilities and [[Jim Crow]] laws, which effectively lasted until passage of federal civil rights legislation in the mid-1960s.
+
+Baltimore grew significantly during the [[Industrial Revolution]], due in large part to its seaport and good railroad connections, attracting European immigrant labor. Many manufacturing businesses were established in the Baltimore area after the Civil War. Baltimore businessmen, including [[Johns Hopkins]], [[Enoch Pratt]], [[George Peabody]], and [[Henry Walters]], founded notable city  institutions that bear their names, including a university, library, music school and art museum.
+
+Cumberland was Maryland's second-largest city in the 19th century. Nearby supplies of natural resources along with railroads fostered its growth into a major manufacturing center.<ref name="WDL">{{cite web |url = http://www.wdl.org/en/item/11374/ |title = Bird's Eye View of Cumberland, Maryland 1906 |website = [[World Digital Library]] |year = 1906 |access-date = July 22, 2013 }}</ref>
+
+===20th and 21st centuries===
+{{original research|section|date=May 2014}}
+
+====Early 20th century====
+The [[Progressive Era]] of the late 19th and early 20th centuries brought political reforms. In a series of laws passed between 1892 and 1908, reformers worked for standard state-issued ballots (rather than those distributed and marked by the parties); obtained closed voting booths to prevent party workers from "assisting" voters; initiated [[primary election]]s to keep party bosses from selecting candidates; and had candidates listed without party symbols, which discouraged the [[illiterate]] from participating. These measures worked against ill-educated whites and blacks. Blacks resisted such efforts, with suffrage groups conducting voter education.
+Blacks defeated three efforts to disfranchise them, making alliances with immigrants to resist various Democratic campaigns.<ref name="tuck"/> Disfranchising bills in 1905, 1907, and 1911 were rebuffed, in large part because of black opposition. Blacks comprised 20% of the electorate and immigrants comprised 15%, and the legislature had difficulty devising requirements against blacks that did not also disadvantage immigrants.<ref name="tuck"/>
+
+The Progressive Era also brought reforms in working conditions for Maryland's labor force. In 1902 the state regulated conditions in [[Mining|mines]]; outlawed [[child labor]]ers under the age of 12; mandated compulsory school attendance; and enacted the nation's first [[workers' compensation]] law. The workers' compensation law was overturned in the courts, but was redrafted and finally enacted in 1910.
+
+The [[Great Baltimore Fire]] of 1904 burned for more than 30 hours, destroying 1,526 buildings and spanning 70 city blocks. More than 1,231 [[firefighter]]s worked to bring the blaze under control.
+
+With the nation's [[World War I#Entry of the United States|entry into World War I]] in 1917, new military bases such as [[Fort George G. Meade|Camp Meade]],  the [[Aberdeen Proving Ground]], and the [[Edgewood Arsenal]] were established. Existing facilities, including [[Fort McHenry]], were greatly expanded.
+
+After Georgia congressman [[William D. Upshaw]] criticized Maryland openly in 1923 for not passing [[Prohibition in the United States|Prohibition]] laws, ''Baltimore Sun'' editor Hamilton Owens coined the "Free State" nickname for Maryland in that context, which was popularized by [[H. L. Mencken]] in a series of newspaper editorials.<ref name=freestate /><ref>{{cite news |url=http://www.baltimoresun.com/ph-ce-eagle-archive-1008-20121003-story.html |newspaper=The Baltimore Sun |date=October 7, 2012 |first=Kevin |last=Dayhoff |title=Eagle Archive: Here's a toast to Maryland's origins as 'The Free State' |access-date=February 8, 2018 }}</ref>
+
+Maryland's urban and rural communities had different experiences during the [[Great Depression]]. The "[[Bonus Army]]" marched through the state in 1932 on its way to Washington, D.C. Maryland instituted its first ever [[income tax]] in 1937 to generate revenue for schools and welfare.<ref>
+{{cite web
+| url            = http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=1093&context=mlr
+| title          = History and Constitutionality of the Maryland Income Tax Law
+| last1          = Cairns
+| first1         = Huntington
+| date           = December 1937
+| editor1-link   = smccarty@law.umaryland.edu
+| website        = Maryland Law Review
+| series         = Legal History, Theory and Process Commons
+| publisher      = UM Carey Law
+| at             = pp. 1, 6
+| access-date    = August 19, 2015
+| quote          = "...1937 Special Session of the Maryland Legislature imposed an income tax...expenditure of public funds for the benefit of able-bodied persons whose inability to support themselves arises from the prevalence of wide-spread unemployment."
+}}</ref>
+
+Passenger and freight steamboat service, once important throughout Chesapeake Bay and its many tributary rivers, ended in 1938.{{citation needed|date=November 2018}}
+   
+Baltimore was a major war production center during [[World War II]]. The biggest operations were [[Bethlehem Steel]]'s Fairfield Yard, which built [[Liberty ship]]s; and [[Glenn L. Martin Company|Glenn Martin]], an aircraft manufacturer.
+
+====1950–present====
+Maryland experienced population growth following World War II, particularly in the Baltimore and Washington, D.C. suburbs. Agricultural tracts gave way to residential communities, some of them carefully planned such as [[Columbia, Maryland|Columbia]], [[St. Charles, Maryland|St. Charles]], and [[Montgomery Village, Maryland|Montgomery Village]]. Concurrently the [[Interstate Highway System]] was built throughout the state, most notably [[Interstate 95 in Maryland|I-95]], [[Interstate 695 (Maryland)|I-695]], and the [[Interstate 495 (Capital Beltway)|Capital Beltway]], altering travel patterns. In 1952 the eastern and western halves of Maryland were linked for the first time by the [[Chesapeake Bay Bridge]], which replaced a nearby [[ferry]] service.<ref name="baybridge.com-history">{{cite web|url=http://www.baybridge.com/cms/index.php?option=com_content&task=view&id=16&Itemid=|title=William Preston Lane Jr. Memorial Bay Bridge – History|publisher=baybridge.com|accessdate=February 5, 2008|archive-url=https://web.archive.org/web/20080701104741/http://www.baybridge.com/cms/index.php?option=com_content&task=view&id=16&Itemid=|archive-date=July 1, 2008|dead-url=yes|df=mdy-all}}</ref>
+
+Maryland's regions experienced economic changes following WWII. Heavy manufacturing declined in Baltimore. In Maryland's four westernmost counties, industrial, railroad, and coal mining jobs declined. On the lower [[Eastern Shore of Maryland|Eastern Shore]], family farms were bought up by major concerns and large-scale poultry farms and vegetable farming became prevalent. In Southern Maryland, tobacco farming nearly vanished due to suburban development and a state tobacco buy-out program.
+
+In an effort to reverse depopulation due to the loss of working-class industries, Baltimore initiated [[urban renewal]] projects in the 1960s with [[Charles Center]] and the [[Baltimore World Trade Center]]. Some resulted in the break-up of intact residential neighborhoods, producing social volatility, and some older residential areas around the harbor have had units renovated and have become popular with new populations.
+
+==Demographics==
+{{See also|List of counties in Maryland|List of incorporated places in Maryland|List of census-designated places in Maryland}}
+
+[[File:Map of maryland counties.jpg|thumb|upright=1.35|[[List of counties in Maryland|Maryland's counties]]]]
+[[File:Regions of Maryland USA.gif|thumb|upright=1.35|right|Geographic regions of Maryland]]
+The [[United States Census Bureau]] estimates that the population of Maryland was 6,006,401 on July 1, 2015, a 4.03% increase since the [[2010 United States Census]] and an increase of 29,994, from the prior year.<ref name="PopEstUS">{{cite web|url=https://www.census.gov/popest/data/state/totals/2015/tables/NST-EST2015-01.csv |format=CSV |title=Table 1. Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2015 |date=December 24, 2015 |publisher=[[U.S. Census Bureau]] |accessdate=December 24, 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20151223235718/http://www.census.gov/popest/data/state/totals/2015/tables/NST-EST2015-01.csv |archivedate=December 23, 2015 |df=mdy }}</ref> This includes a natural increase since the last census of 189,158 people (that is 464,251 births minus 275,093 deaths) and an increase due to net migration of 116,713 people into the state. [[Immigration to the United States|Immigration]] from outside the United States resulted in a net increase of 129,730 people, and migration within the country produced a net loss of 13,017 people.
+
+The [[center of population]] of Maryland is located on the county line between [[Anne Arundel County, Maryland|Anne Arundel County]] and [[Howard County, Maryland|Howard County]], in the [[Unincorporated area|unincorporated community]] of [[Jessup, Maryland|Jessup]].<ref>{{cite web|title=Population and Population Centers by State&nbsp;– 2000 |publisher=United States Census Bureau |accessdate=December 5, 2008 |url=https://www.census.gov/geo/www/cenpop/statecenters.txt |archive-url=https://web.archive.org/web/20011212170351/http://www.census.gov/geo/www/cenpop/statecenters.txt |dead-url=yes |archive-date=December 12, 2001 }}</ref>
+
+Maryland's history as a [[border states (Civil War)|border state]] has led it to exhibit characteristics of both the [[Northern United States|Northern]] and [[Southern United States|Southern]] regions of the United States. Generally, rural [[Western Maryland]] between the [[Eastern Panhandle of West Virginia|West Virginian Panhandle]] and [[Pennsylvania]] has an [[Appalachia]]n culture; the [[Southern Maryland|Southern]] and Eastern Shore regions of Maryland embody a [[Culture of the Southern United States|Southern culture]],<ref>{{cite web
+ |title       = The South As It's{{Sic|nolink=y}} Own Nation
+ |publisher   = League of the South
+ |year        = 2004
+ |url         = http://dixienet.org/New%20Site/thesouthasitsownnation.shtml
+ |accessdate  = May 23, 2008
+ |quote       = On the other hand, areas beyond these thirteen States maintain their Southern culture to varying degrees. Much of Missouri remains basically Southern, as do parts of southern Maryland and Maryland's eastern shore.
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20080605104450/http://dixienet.org/New%20Site/thesouthasitsownnation.shtml
+ |archivedate = June 5, 2008
+ |df          = mdy-all
+}}</ref>
+while densely populated Central Maryland—radiating outward from [[Baltimore]] and [[Washington, D.C.]]—has more in common with that of the [[Northeastern United States|Northeast]].<ref>{{cite web
+ |author1=Beck, John |author2=Randall, Aaron |author3=Frandsen, Wendy |last-author-amp=yes | title = Southern Culture: An Introduction
+ | date = June 27, 2007
+ | location = Durham, North Carolina
+ | format = PDF
+ | publisher = Carolina Academic Press
+ | pages = 14–15
+ | url = http://www.cap-press.com/pdf/1517.pdf
+ | accessdate = May 23, 2008
+ | quote = Kentucky, Missouri, West Virginia [...] and Maryland&nbsp;—slaveholding states and regions before the Civil War that did not secede from the Union&nbsp;– are also often included as part of the South. As border states, these states always were crossroads of values and customs, and today [...] parts of Maryland seem to have become part of the "Northeast."
+}}</ref>
+The U.S. Census Bureau designates Maryland as one of the [[South Atlantic States]], but it is commonly associated with the [[Mid-Atlantic States]] and/or [[Northeastern United States]] by other federal agencies, the media, and some residents.<ref name="LOC">{{cite web|url=http://memory.loc.gov/ammem/gmdhtml/rrhtml/regdef.html|title=Regions of the United States|website=American Memory|publisher=The Library of Congress|accessdate=August 11, 2009}}</ref><ref name="EPA">{{cite web|url=http://www.epa.gov/region03/index.htm|title=Region 3: The Mid-Atlantic States|website=www.epa.gov|publisher=U.S. Environmental Protection Agency|accessdate=August 11, 2009}}</ref><ref name="FBI">{{cite web|url=https://www.fbi.gov/contact/fo/fo.htm |title=Your Local FBI Office |website=www.fbi.gov |publisher=Federal Bureau of Investigation |accessdate=August 11, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090815093807/http://www.fbi.gov/contact/fo/fo.htm |archivedate=August 15, 2009 |df=mdy }}</ref><ref name="amtrak">{{cite web|url=http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Browse_Routes_Page&c=Page&cid=1081256321410&ssid=134|title=Routes Serving the Northeast|publisher=National Railroad Passenger Corporation|accessdate=August 11, 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20090815025107/http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak%2FPage%2FBrowse_Routes_Page&c=Page&cid=1081256321410&ssid=134|archivedate=August 15, 2009|df=mdy-all}}</ref><ref name="princeton">{{cite web|url=http://www.princetonreview.com/best-regional-colleges.aspx|title=Best Regional Colleges|website=www.princetonreview.com|publisher=The Princeton Review|accessdate=August 11, 2009}}</ref>
+
+===Birth data===
+
+As of 2011, 58.0 percent of Maryland's population younger than age 1 were non-white.<ref>"[http://www.cleveland.com/datacentral/index.ssf/2012/06/americas_under_age_1_populatio.html Americans under age 1 now mostly minorities, but not in Ohio: Statistical Snapshot]". ''[[The Plain Dealer]]''. June 3, 2012.</ref>
+
+''Note: Births in table don't add up, because Hispanics are counted both by their ethnicity and by their race, giving a higher overall number.''
+{| class="wikitable"
+|+ Live Births by Single Race/Ethnicity of Mother
+|-
+! [[Race and ethnicity in the United States Census|Race]]
+! 2013<ref>https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf</ref>
+! 2014<ref>https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_12.pdf</ref>
+! 2015<ref>https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf</ref>
+! 2016<ref>https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_01.pdf</ref>
+|-
+| [[White Americans|White]]:
+| 41,474 (57.6%)
+| 42,525 (57.5%)
+| 42,471 (57.7%)
+| ...
+|-
+| > [[Non-Hispanic whites|Non-Hispanic White]]
+| 32,568 (45.2%)
+| 33,178 (44.9%)
+| 32,412 (44.0%)
+| 31,278 (42.8%)
+|-
+| [[African Americans|Black]]
+| 24,764 (34.4%)
+| 25,339 (34.3%)
+| 25,017 (34.0%)
+| 22,829 (31.2%)
+|-
+| [[Asian Americans|Asian]]
+| 5,415 (7.5%)
+| 5,797 (7.8%)
+| 5,849 (7.9%)
+| 5,282 (7.2%)
+|-
+| [[Native Americans in the United States|American Indian]]
+| 300 (0.4%)
+| 260 (0.3%)
+| 279 (0.4%)
+| 104 (0.1%)
+|-
+| ''[[Hispanic and Latino Americans|Hispanic]]'' (of any race)
+| ''10,515 (14.6%)''
+| ''10,974 (14.8%)''
+| ''11,750 (16.0%)''
+| ''11,872 (16.2%)''
+|-
+| '''Total Maryland'''
+| '''71,953''' (100%)
+| '''73,921''' (100%)
+| '''73,616''' (100%)
+| '''73,136''' (100%)
+|}
+
+*Since 2016, data for births of [[White Hispanic and Latino Americans|White Hispanic]] origin are not collected, but included in one ''Hispanic'' group; persons of Hispanic origin may be of any race.
+
+===Language===
+
+[[Spanish language in the United States|Spanish]] (including [[Spanish-based creole languages|Spanish Creole]]) is the second-most-spoken language in Maryland, after [[American English|English]]. The third- and fourth-most-spoken languages are [[French language|French]] (including [[Patois]] and [[Cajun French|Cajun]]) and [[Chinese language|Chinese]]. Other commonly spoken languages include various [[Languages of Africa|African languages]], [[Korean language|Korean]], [[German language|German]], [[Tagalog language|Tagalog]], [[Russian language|Russian]], [[Vietnamese language|Vietnamese]], [[Italian language|Italian]], various [[Languages of Asia|Asian languages]], [[Persian language|Persian]], [[Hindi]] and other [[Indo-Aryan languages|Indic languages]], [[Greek language|Greek]] and [[Arabic]].<ref>{{cite web |url=http://www.city-data.com/states/Maryland-Languages.html |title=Maryland Languages |publisher=City-Data |access-date=September 14, 2016 }}</ref>
+
+===Settlements===
+{{See also|Maryland statistical areas}}
+[[File:Maryland population map.png|thumb|upright=1.6|Maryland's population is concentrated mostly in the Baltimore and Washington metropolitan areas.]]
+Most of the population of Maryland lives in the central region of the state, in the [[Baltimore Metropolitan Area]] and [[Washington Metropolitan Area]], both of which are part of the [[Baltimore-Washington Metropolitan Area]].
+The majority of Maryland's population is concentrated in the cities and suburbs surrounding [[Washington, D.C.]], as well as in and around Maryland's most populous city, [[Baltimore]]. Historically, these and many other Maryland cities developed along the [[Atlantic Seaboard fall line|Fall Line]], the line along which rivers, brooks, and streams are interrupted by rapids and/or waterfalls. Maryland's capital city, [[Annapolis, Maryland|Annapolis]], is one exception to this pattern, since it lies along the banks of the [[Severn River (Maryland)|Severn River]], close to where it empties into the [[Chesapeake Bay]].
+
+The Eastern Shore is less populous and more rural, as are the counties of western Maryland. The two [[Western Maryland|westernmost]] counties of Maryland, [[Allegany County, Maryland|Allegany]] and [[Garrett County, Maryland|Garrett]], are mountainous and sparsely populated, resembling West Virginia and [[Appalachia]] more than they do the rest of Maryland. Both eastern and western Maryland are, however, dotted with cities of regional importance, such as [[Ocean City, Maryland|Ocean City]], [[Princess Anne, Maryland|Princess Anne]], and [[Salisbury, Maryland|Salisbury]] on the [[Eastern Shore of Maryland|Eastern Shore]] and [[Cumberland, Maryland|Cumberland]], [[Frostburg, Maryland|Frostburg]], and [[Hancock, Maryland|Hancock]] in [[Western Maryland]].
+Southern Maryland is still somewhat rural, but suburbanization from Washington, D.C. has encroached significantly since the 1960s; important local population centers include  [[Lexington Park, Maryland|Lexington Park]], [[Prince Frederick, Maryland|Prince Frederick]], and [[Waldorf, Maryland|Waldorf]].<ref>{{cite web | url=https://nepis.epa.gov/Exe/ZyNET.exe/P1000II5.TXT?ZyActionD=ZyDocument&Client=EPA&Index=2000+Thru+2005&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C00thru05%5CTxt%5C00000014%5CP1000II5.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL | title=Calvert County, Maryland's Success in Controlling Sprawl | publisher=Environmental Protection Agency | accessdate=September 3, 2016}}</ref><ref>{{cite news | url=https://www.washingtonpost.com/wp-srv/local/longterm/library/growth/part1/southmd.htm | title=On Edge | work=The Washington Post | date=February 16, 1997 | accessdate=September 3, 2016 | author=Shields, Todd}}</ref>
+
+{{Largest cities of Maryland}}
+
+===Ancestry===
+{{US Census population
+|1790= 319728
+|1800= 341548
+|1810= 380546
+|1820= 407350
+|1830= 447040
+|1840= 470019
+|1850= 583034
+|1860= 687049
+|1870= 780894
+|1880= 934943
+|1890= 1042390
+|1900= 1188044
+|1910= 1295346
+|1920= 1449661
+|1930= 1631526
+|1940= 1821244
+|1950= 2343001
+|1960= 3100689
+|1970= 3922399
+|1980= 4216975
+|1990= 4781468
+|2000= 5296486
+|2010= 5773552
+|estimate= 6042718
+|estyear= 2018
+|align-fn=center
+|footnote=Source: 1910–2010<ref>{{cite web|author=Resident Population Data |url=http://2010.census.gov/2010census/data/apportionment-pop-text.php |title=Resident Population Data&nbsp;– 2010 Census |publisher=2010.census.gov |accessdate=December 24, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20111118011236/http://2010.census.gov/2010census/data/apportionment-pop-text.php |archivedate=November 18, 2011 |df=mdy }}</ref>
+}}
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|+ '''Maryland Racial Breakdown of Population'''
+|-
+! Racial composition !! 1970<ref name="census"/> !! 1990<ref name="census">{{cite web |url=https://www.census.gov/population/www/documentation/twps0056/twps0056.html |archive-url=https://web.archive.org/web/20080725044857/http://www.census.gov/population/www/documentation/twps0056/twps0056.html |dead-url=yes |archive-date=July 25, 2008 |title=Historical Census Statistics on Population Totals By Race, 1790 to 1990, and By Hispanic Origin, 1970 to 1990, For The United States, Regions, Divisions, and States |author=Population Division, Laura K. Yax|publisher=}}</ref> !! 2000<ref>[http://censusviewer.com/city/MD Population of Maryland: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Quick Facts]{{dead link|date=May 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>!! 2010<ref>{{cite web|url=http://quickfacts.census.gov/qfd/states/24000.html |title=Maryland QuickFacts from the US Census Bureau |publisher= |accessdate=January 14, 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150207070852/http://quickfacts.census.gov/qfd/states/24000.html |archivedate=February 7, 2015 |df= }}</ref>
+|-
+| [[White American|White]] || 81.5% || 71.0% || 64.0% || 60.8%
+|-
+| [[African American|Black]] || 17.8% || 24.9% || 27.9% || 29.8%
+|-
+| [[Asian American|Asian]] || 0.5% || 2.9% || 4.0% || 5.5%
+|-
+| [[Native Americans in the United States|Native]] || 0.1% || 0.3% || 0.3% || 0.3%
+|-
+| [[Race and ethnicity in the United States Census|Other race]] || 0.1% || 0.9% || 1.8% || 3.6%
+|-
+| [[Multiracial American|Two or more races]] || – || – || 2.0% || 2.9%
+|-
+| [[Non-Hispanic whites]] || 80.4% || 69.6% || 62.1% || 54.7%
+|}
+
+In 1970 the Census Bureau reported Maryland's population as 17.8 percent African-American and 80.4 percent non-Hispanic White.<ref>{{cite web|title=Maryland&nbsp;– Race and Hispanic Origin: 1790 to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0056/twps0056.html |accessdate=April 18, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20080725044857/http://www.census.gov/population/www/documentation/twps0056/twps0056.html |archivedate=July 25, 2008 |df=mdy }}</ref>
+
+[[African Americans in Maryland|African Americans]] form a sizable portion of the state's population&nbsp;– nearly 30 percent in 2010.<ref name=PopUS>{{cite web|url=http://quickfacts.census.gov/qfd/states/24000.html |title=Maryland QuickFacts |date=December 23, 2011 |publisher=U.S. Census Bureau |accessdate=January 14, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120111154525/http://quickfacts.census.gov/qfd/states/24000.html |archivedate=January 11, 2012 |df= }}</ref> Most are descendants of people transported to the area as slaves from West Africa, and many are of mixed race, including European and Native American ancestry.
+New residents of African descent include 20th-century and later immigrants from [[Nigerian American|Nigeria]], particularly of the [[Igbo American|Igbo]] and [[Yoruba people|Yoruba]] tribes.<ref>{{cite web |url=http://www.usefoundation.org/userdata/file/Research/Regions/maryland.pdf |title=Languages in Maryland |quote=Prince George's County has the highest percentage of Kru/Ibo/Yoruba speakers of any county in the nation. |format=PDF |publisher=U.S.ENGLISH Foundation, Inc |accessdate=May 22, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130117073348/http://www.usefoundation.org/userdata/file/Research/Regions/maryland.pdf |archivedate=January 17, 2013 |df=mdy-all }}</ref> Maryland also hosts populations from other African and [[West Indian American|Caribbean]] nations. Concentrations of African Americans live in [[Baltimore, Maryland|Baltimore City]], [[Prince George's County, Maryland|Prince George's County]], a suburb of Washington, D.C., where many work; [[Charles County, Maryland|Charles County]], western parts of [[Baltimore County, Maryland|Baltimore County]], and the southern Eastern Shore.
+
+Many immigrants from the [[Horn Africans in the United States|Horn of Africa]] have settled in Maryland, with large communities existing in the suburbs of Washington, D.C. (particularly Montgomery County and Prince George's County) and the city of Baltimore. The Greater Washington area has the largest population of [[Ethiopians in Washington, D.C.|Ethiopians]] outside of Africa.<ref name=Westley>Westley, Brian. "[http://usatoday30.usatoday.com/travel/destinations/2005-10-17-little-ethiopia_x.htm Washington: Nation's Largest Ethiopian Community Carves Niche]" ({{webarchive |url=https://www.webcitation.org/6SIYLaBGL?url=http://usatoday30.usatoday.com/travel/destinations/2005-10-17-little-ethiopia_x.htm |date=2014-09-02 }}). ''[[Associated Press]]'' at the ''[[USA Today]]''. October 17, 2005. Also: "[https://news.google.com/newspapers?nid=1893&dat=20051023&id=QJ8fAAAAIBAJ&sjid=wNUEAAAAIBAJ&pg=2838,7708640 Washington: Nation's Largest Ethiopian Community Carves Niche]." ''Associated Press'' at ''[[The Southeast Missourian]]''. October 23, 2005. p. 7C. Retrieved on August 25, 2018.</ref> The Ethiopian community of Greater DC was historically based in Washington D.C.'s [[Adams Morgan]] and [[Shaw, Washington, D.C.|Shaw]] neighborhoods, but as the community has grown, many Ethiopians have settled in [[Silver Spring, Maryland|Silver Spring]].<ref>{{cite web|url=https://ggwash.org/view/39188/dcs-little-ethiopia-has-moved-to-silver-spring-and-alexandria |title=DC's "Little Ethiopia" has moved to Silver Spring and Alexandria |publisher=Greater Greater Washington |accessdate=2018-08-25}}</ref> The Washington, D.C. metropolitan area is also home to large [[Eritrean Americans|Eritrean]] and [[Somali Americans|Somali]] communities.
+
+The top reported ancestries by Maryland residents are: [[German American|German]] (15%), [[Irish American|Irish]] (11%), [[English American|English]] (8%), [[Americans|American]] (7%), [[Italian American|Italian]] (6%), and [[Polish American|Polish]] (3%).<ref>{{cite web|url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_12_5YR_DP02&prodType=table|title=American FactFinder – Results|author=Data Access and Dissemination Systems (DADS)|publisher=|accessdate=January 14, 2015}}</ref>
+
+[[Irish American]] populations can be found [[History of the Irish in Baltimore|throughout the Baltimore area]],<ref name="teaching.msa.maryland.gov">{{cite web |title=Irish Immigrants in Baltimore: Introduction, Teaching American History in Maryland |publisher=Maryland State Archives |url=http://teaching.msa.maryland.gov/000001/000000/000131/html/t131.html |access-date=May 21, 2017 }}</ref> and the Northern and Eastern suburbs of Washington D.C. in Maryland (descendants of those who moved out to the suburbs<ref name=abcswamp>{{cite web |title=Swampoodle: The neighborhood behind the play |publisher=ABC Channel 7: TBD online magazine |first=Alia E. |last=Dastagir |date=May 23, 2011 |page=2 |url=http://www.tbd.com/articles/2011/05/swampoodle-the-neighborhood-behind-the-play-61186.html |access-date=June 11, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20130606034415/http://www.tbd.com/articles/2011/05/swampoodle-the-neighborhood-behind-the-play-61186.html |archivedate=June 6, 2013 |df=mdy }}</ref> of Washington's once predominantly Irish neighborhoods<ref name=abcswamp /><ref>{{cite web |title=Washington, DC Genealogy Research, Resources, and Records: Irish Neighborhoods in Old Washington |website=genweb.org |url=http://www.theusgenweb.org/dcgenweb/history/irish.shtml |access-date=May 21, 2017 }}</ref>), as well as Western Maryland, where Irish immigrant laborers helped to build the B & O Railroad.<ref name="teaching.msa.maryland.gov"/> Smaller but much older Irish populations can be found in Southern Maryland, with some roots dating as far back as the early Maryland colony.<ref>{{cite web |title=Mulberry Tree: College News: EXPLORE MARYLAND'S HISTORY IN IRELAND |publisher=St. Mary's College of Maryland online magazine |date=Spring 2014 |url=http://www.smcm.edu/mulberrytree/archives/summer10/collegenews.html |access-date=June 11, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140714140131/http://www.smcm.edu/mulberrytree/archives/summer10/collegenews.html |archivedate=July 14, 2014 |df=mdy }}</ref>  This population, however, still remains culturally very active and yearly festivals are held.<ref>{{cite web |title=About the Celtic Society of Southern Maryland |website=CSSM.org |url=http://www.cssm.org/about-cssm/ |publisher=Celtic Society of Southern Maryland |access-date=May 21, 2017 }}</ref>
+
+A large percentage of the population of the [[Eastern Shore of Maryland|Eastern Shore]] and [[Southern Maryland]] are descendants of [[British American]] ancestry. The Eastern Shore was settled by Protestants, chiefly [[Methodist]] and the southern counties were initially settled by English Catholics. Western and northern Maryland have large [[German-American]] populations. More recent European immigrants of the late 19th and early 20th century settled first in Baltimore, attracted to its industrial jobs. Many of their ethnic [[History of the Italians in Baltimore|Italian]], [[History of the Poles in Baltimore|Polish]], [[History of the Czechs in Baltimore|Czech]], [[History of the Lithuanians in Baltimore|Lithuanian]], and [[History of the Greeks in Baltimore|Greek]] descendants still live in the area.
+
+Large [[Ethnic groups in Baltimore|ethnic minorities]] include [[Eastern Europe]]ans such as [[Croatian Americans|Croatians]], [[Belarusian Americans|Belarusians]], [[History of the Russians in Baltimore|Russians]] and [[History of the Ukrainians in Baltimore|Ukrainians]]. The shares of European immigrants born in Eastern Europe increased significantly between 1990 and 2010. Following the dissolution of the Soviet Union, Yugoslavia, and Czechoslovakia, many immigrants from Eastern Europe came to the United States - 12 percent of which currently reside in Maryland.<ref>{{cite web|url=http://www.migrationpolicy.org/article/european-immigrants-united-states#1|title=European Immigrants in the United States|website=migrationpolicy.org|accessdate=January 14, 2015}}</ref><ref>{{cite web|url=http://zipatlas.com/us/md/city-comparison/percentage-russian-population.htm|title=Cities with the Highest Percentage of Russians in Maryland|publisher=|access-date=January 14, 2015}}</ref>
+
+Hispanic immigrants of the later 20th century have settled in [[Aspen Hill, Maryland|Aspen Hill]], [[Hyattsville, Maryland|Hyattsville]]/[[Langley Park, Maryland|Langley Park]], [[Glenmont, Maryland|Glenmont]]/[[Wheaton, Maryland|Wheaton]], [[Bladensburg, Maryland|Bladensburg]], [[Riverdale Park, Maryland|Riverdale Park]], [[Gaithersburg, Maryland|Gaithersburg]], as well as [[Highlandtown, Baltimore|Highlandtown]] and [[Greektown, Baltimore|Greektown]] in East Baltimore. [[Salvadoran American|Salvadorans]] are the largest Hispanic group in Maryland. Other Hispanic groups with significant populations in the state include [[Mexican American|Mexicans]] and [[Puerto Rican American|Puerto Ricans]] and [[Honduran American|Hondurans]]. Though the Salvadoran population is more concentrated in the area around Washington, D.C., and the Puerto Rican population is more concentrated in the Baltimore area, all other major Hispanic groups in the state are evenly dispersed between these two areas. Maryland has one of the most diverse Hispanic populations in the country, with significant populations from various [[Spanish Caribbean|Caribbean]] and [[Central America]]n nations.<ref>{{cite web |url=http://dls.state.md.us/data/polanasubare/polanasubare_intmatnpubadm/Overview-of-Hispanic-Community.pdf |title=Overview of Hispanic Community in Maryland |author=Department of Legislative Services |pages=6–7 |date=June 2008 |format=PDF |accessdate=July 5, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130117073348/http://dls.state.md.us/data/polanasubare/polanasubare_intmatnpubadm/Overview-of-Hispanic-Community.pdf |archivedate=January 17, 2013 |df=mdy-all }}</ref>
+
+Jews are numerous throughout [[Montgomery County, Maryland|Montgomery County]] and in [[Pikesville, Maryland|Pikesville]] and [[Owings Mills]] northwest of Baltimore. Asian Americans are concentrated in the suburban counties surrounding Washington, D.C. and in [[Howard County, Maryland|Howard County]], with [[Korean American]] and [[Taiwanese American]] communities in [[Rockville, Maryland|Rockville]], [[Gaithersburg, Maryland|Gaithersburg]], and [[Germantown, Maryland|Germantown]] and a [[Filipino American]] community in [[Fort Washington, Maryland|Fort Washington]]. Numerous [[Indian Americans]] live across the state, especially in central Maryland. [[Amish]]/[[Mennonite]] communities are found in [[St. Mary's County, Maryland|St. Mary's]], [[Garrett County, Maryland|Garrett]], and [[Cecil County, Maryland|Cecil]] counties.<ref name=amishamerica>{{cite web|title=Maryland Amish|publisher=Amish America|url=http://amishamerica.com/maryland-amish/|accessdate=October 6, 2017}}</ref>
+
+Attracting educated Asians and Africans to the professional jobs in the region, Maryland has the fifth-largest proportions of racial minorities in the country.<ref>{{cite news|url=http://www.msnbc.msn.com/id/8902484/ |title=Minority population surging in Texas |date=August 18, 2005 |work=msnbc.com |agency=Associated Press |accessdate=December 7, 2009}}</ref>
+
+In 2006 645,744 were counted as foreign born, which represents mainly people from Latin America and Asia. About 4.0 percent are [[undocumented immigrants]].<ref>Turner Brinton, "[http://journalism.umd.edu/cns/wire/2006-editions/04-April-editions/060405-Wednesday/ImmigrateDebate_CNS-UMCP.html Immigration Bill Could Impact Maryland] {{webarchive |url=https://web.archive.org/web/20131221134342/http://journalism.umd.edu/cns/wire/2006-editions/04-April-editions/060405-Wednesday/ImmigrateDebate_CNS-UMCP.html |date=December 21, 2013 }}," Capital News Service, April 5, 2006. Retrieved July 22, 2007.</ref> Maryland also has a large Korean American population.<ref>{{cite web
+ |url=http://www.migrationinformation.org/USfocus/display.cfm?id=273
+ |title=The Foreign Born from Korea in the United States
+ |first=Jennifer
+ |last=Yau
+ |publisher=Migration Policy Institute
+ |year=2007
+ |accessdate=December 23, 2007
+}}</ref> In fact, 1.7 percent are Korean, while as a whole, almost 6.0 percent are Asian.<ref>{{cite web
+ |url=http://www.jhsph.edu/kacp/about_us.html
+ |title=About Us: Korean Americans in Maryland
+ |publisher=Johns Hopkins Bloomberg School of Public Health
+ |accessdate=December 23, 2007
+}}</ref>
+
+According to The Williams Institute's analysis of the 2010 U.S. Census, 12,538 same-sex couples are living in Maryland, representing 5.8 same-sex couples per 1,000 households.<ref name="freedomtomarry.org">{{cite web|url=http://www.freedomtomarry.org/states/entry/c/maryland |title=Maryland |publisher=Freedom to Marry |accessdate=September 28, 2013}}</ref>
+
+As of 2017, [[Non-Hispanic whites|non-Hispanic white Americans]] were 50.9% of Maryland's population, making Maryland on the verge of becoming a [[majority minority]] state. 49.1% of Maryland's population is non-white and/or Hispanic/Latino, the highest percentage of any state on the [[East Coast of the United States|East Coast]] and the highest percentage after the majority minority states of Hawaii, New Mexico, Texas, California and Nevada.<ref>{{cite web|url=https://www.census.gov/quickfacts/MD |title=Maryland Quick Facts |publisher=United States Census Bureau |accessdate=July 25, 2017}}</ref> Non-Hispanic White Americans in Maryland, the majority as of 2016, are expected to become the plurality ethnic group within 5 years of 2015.<ref>{{cite web|url=http://www.baltimoresun.com/news/opinion/oped/bs-ed-majority-minority-20160227-story.html |title=Face it, we're on our way to being a majority minority country |publisher=[[Baltimore Sun]] |accessdate=July 25, 2017}}</ref> After Nevada in 2016, Maryland is projected to be the next state to become majority minority due to growing African-American, Asian and Latino populations. By 2031, minorities are projected to become the majority of voting eligible residents of Maryland.<ref>{{cite web|url=https://cdn.americanprogress.org/wp-content/uploads/2015/02/SOC-report1.pdf |title=States of Change: The Demographic Evolution of the American Electorate, 1974–2060 |publisher=[[Center for American Progress]] |accessdate=July 25, 2016}}</ref>
+
+===Religion===
+{{Bar box
+|title = Religion in Maryland (2014)<ref name="Pew Religion and Politics">{{cite web
+  | title = Religious composition of adults in Maryland
+  | website = Religious Landscape Study
+  | publisher = The Pew Forum on Religion & Public Life
+  | year = 2017
+  | url = http://www.pewforum.org/religious-landscape-study/state/maryland/
+  | accessdate = October 5, 2017}}</ref>
+|titlebar=#ddd
+|width   =  
+|barwidth= 
+|left1=religion
+|right1=percent
+|float=right
+|bars=
+{{Bar percent|Protestant|purple|52}}
+{{Bar percent|None|black|23}}
+{{Bar percent|Catholic|Dodgerblue|15}}
+{{Bar percent|Jewish|blue|3}}
+{{Bar percent|Other faiths|gray|2}}
+{{Bar percent|Buddhist|yellow|1}}
+{{Bar percent|Hindu|orange|1}}
+{{Bar percent|Islam|green|1}}
+{{Bar percent|Mormon|red|1}}
+{{Bar percent|Orthodox Christian|cyan|1}}
+}}
+[[File:BasilicaExterior.jpg|thumb|The [[Baltimore Basilica]] was the first [[Roman Catholic|Catholic]] [[cathedral]] built in the [[United States|U.S.]].]]
+Maryland has been historically prominent to [[Catholic Church in the United States|American Catholic tradition]] because the English [[colony of Maryland]] was intended by [[George Calvert]] as a haven for English Catholics. Baltimore was the seat of the first Catholic bishop in the U.S. (1789), and [[Emmitsburg]] was the home and burial place of the first American-born citizen to be [[canonized]], [[St. Elizabeth Ann Seton]]. [[Georgetown University]], the first Catholic University, was founded in 1789 in what was then part of Maryland.<ref>It became a part of the District of Columbia when that city was created in the 1790s.</ref> The [[Basilica of the National Shrine of the Assumption of the Virgin Mary]] in Baltimore was the first Roman Catholic cathedral built in the United States, and the [[Archbishop of Baltimore]] is, albeit without formal primacy, the United States' quasi-[[primate (bishop)|primate]],{{citation needed|date=July 2015}} and often a cardinal. Among the immigrants of the 19th and 20th century from eastern and southern Europe were many Catholics.
+
+Despite its historic relevance to the Catholic Church in the United States, the percentage of Catholics in the state of Maryland is below the national average of 20%. Demographically, both Protestants and those identifying no religion are more numerous than Catholics.
+
+According to Pew research 69 percent of Maryland's population identifies as Christian.<ref name="Pew Religion and Politics" /> The largest religious groups in Maryland as of 2010 were: the [[Catholic Church]] with 837,338 adherents in Maryland, followed by non-denominational [[Evangelical Protestant]]s with 298,921 members, and the [[United Methodist Church]] with 238,774. The [[Southern Baptist Convention]] has 150,345 members.<ref name="www.thearda.com">{{cite web|url=http://www.thearda.com/rcms2010/r/s/24/rcms2010_24_state_adh_2010.asp |title=The Association of Religion Data Archives &#124; State Membership Report |publisher=www.thearda.com |accessdate=November 15, 2013}}</ref>
+[[Judaism]] is the largest non-Christian religion in Maryland with 241,000 adherents, or 4 percent of the total population.<ref>{{cite web|url=https://www.census.gov/compendia/statab/2010/tables/10s0077.xls |title=Table 77. Christian Church Adherents and Jewish Population – States: 2008 |accessdate=October 24, 2010 |archive-url=https://web.archive.org/web/20100327063838/http://www.census.gov/compendia/statab/2010/tables/10s0077.xls |archive-date=March 27, 2010 |publisher=United States Census Bureau |format=Excel |dead-url=yes }}</ref>
+The [[Seventh-day Adventist Church]]'s World Headquarters and [[Ahmadiyya]] Muslims national Headquarters is located in [[Silver Spring, Maryland|Silver Spring]], just outside the District of Columbia.
+
+==Economy==
+{{See also|Business in Maryland|List of federal installations in Maryland|List of shopping malls in Maryland|Maryland locations by per capita income}}
+[[File:Baltoport.jpg|thumb|upright=1.25|The Port of Baltimore]]
+The [[Bureau of Economic Analysis]] estimates that Maryland's gross state product in 2016 was $382.4 billion.<ref>[https://www.bea.gov/iTable/iTable.cfm?reqid=70&step=10&isuri=1&7003=200&7035=-1&7004=sic&7005=1&7006=xx&7036=-1&7001=1200&7002=1&7090=70&7007=-1&7093=levels#reqid=70&step=10&isuri=1&7003=200&7035=-1&7004=naics&7005=1&7006=xx&7036=-1&7001=1200&7002=1&7090=70&7007=-1&7093=levels]</ref> However, Maryland has been using [[Genuine Progress Indicator]], an indicator of well-being, to guide the state's development, rather than relying only on growth indicators like GDP.<ref>{{cite news|last=Dolan|first=Karen|title=A better way of measuring progress in Maryland|url=http://www.baltimoresun.com/news/opinion/oped/bs-ed-measuring-progress-20120130,0,7700054.story|newspaper=Baltimore Sun|date=January 30, 2012}}</ref><ref>[http://www.thesolutionsjournal.com/node/1070 Measuring Prosperity: Maryland's Genuine Progress Indicator | Solutions]. Thesolutionsjournal.com. Retrieved on July 12, 2013.</ref> According to the [[United States Census Bureau|U.S. Census Bureau]], Maryland households are currently the wealthiest in the country, with a 2013 median household income of $72,483<ref>{{cite web|url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_07_1YR_GCT1901.US13PR&prodType=table|title=American FactFinder – Results|publisher=}}</ref> which puts it ahead of [[New Jersey]] and [[Connecticut]], which are second and third respectively. Two of Maryland's counties, Howard and Montgomery, are the second and eleventh [[Highest-income counties in the United States|wealthiest counties in the nation]] respectively. Maryland ranked No. 1 with the most millionaires per capita in 2013, with a ratio of 7.7 percent.<ref>{{cite web|last=Frank|first=Robert|title=Top states for millionaires per capita|url=https://www.cnbc.com/id/101338309|publisher=CNBC|accessdate=January 21, 2014|date=2014-01-15}}</ref> Also, the state's poverty rate of 7.8 percent is the lowest in the country.<ref>[https://www.washingtonpost.com/wp-dyn/content/article/2007/08/28/AR2007082800779.html?nav%3Drss_nation&sub=AR U.S. Poverty Rate Drops; Ranks of Uninsured Grow] washingtonpost.com.</ref><ref>[http://www.baltimoresun.com/bal-richest0829-story.html#page=1 Maryland is ranked as richest state] baltimoresun.com.</ref><ref>[http://www.wibw.com/home/headlines/9425406.html US Poverty Rate Declines Significantly] wibw.com.</ref> [[Per capita personal income in the United States|per capita personal income]] in 2006 was $43,500, fifth in the nation. As of February 2018, the state's unemployment rate was 4.2 percent.<ref>{{Cite web|url=https://mwejobs.maryland.gov/admin/gsipub/htmlarea/uploads/MonthlyLaborReview_Feb2018.pdf|title=Monthly Labor Review - February 2018|last=|first=|date=April 5, 2018|website=Maryland Department of Labor, License, and Governing|access-date=April 20, 2018}}</ref>
+
+[[File:Geo Map of Median Income by Location in Maryland.png|thumb|left|A map showing Maryland's median income by county. Data is sourced from the [https://www.census.gov/programs-surveys/acs/ 2014 ACS 5-year Estimate] report published by the [[United States Census Bureau|US Census Bureau]].]]
+
+Maryland's economy benefits from the state's close proximity to the federal government in [[Washington, D.C.]] with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Ft. Meade serves as the headquarters of the [[Defense Information Systems Agency]], [[United States Cyber Command]], and the [[National Security Agency]]/[[Central Security Service]]. In addition, a number of educational and medical research institutions are located in the state. In fact, the various components of The [[Johns Hopkins University]] and its medical research facilities are now the largest single employer in the Baltimore area. Altogether, [[White-collar worker|white collar]] technical and administrative workers comprise 25 percent of Maryland's [[labor force]],{{citation needed|date=March 2016}} attributable in part to nearby Maryland being a part of the [[Washington Metro Area]] where the federal government office employment is relatively high.
+
+Manufacturing, while large in dollar value, is highly diversified with no sub-sector contributing over 20 percent of the total. Typical forms of manufacturing include electronics, computer equipment, and chemicals. The once mighty primary metals sub-sector, which at one time included what was then the largest steel factory in the world at [[Sparrows Point]], still exists, but is pressed with foreign competition, [[Bankruptcy|bankruptcies]], and [[merger]]s. During World War II the Glenn Martin Company (now part of [[Lockheed Martin]]) airplane factory employed some 40,000 people.
+
+Mining other than construction materials is virtually limited to coal, which is located in the mountainous western part of the state. The brownstone quarries in the east, which gave Baltimore and Washington much of their characteristic architecture in the mid-19th century, were once a predominant natural resource. Historically, there used to be small gold-mining operations in Maryland, some near Washington, but these no longer exist.
+
+===Baltimore port===
+One major service activity is transportation, centered on the [[Port of Baltimore]] and its related [[railroad|rail]] and trucking access. The port ranked 17th in the U.S. by tonnage in 2008.<ref>U.S. Army Corps of Engineers. Waterborne Commerce Statistics Center. New Orleans, LA. [http://www.iwr.usace.army.mil/ndc/wcsc/portname08.htm "Tonnage for Selected U.S. Ports in 2008."] {{webarchive|url=https://web.archive.org/web/20100731081240/http://www.iwr.usace.army.mil/ndc/wcsc/portname08.htm |date=July 31, 2010 }} Revised February 17, 2010.</ref> Although the port handles a wide variety of products, the most typical imports are raw materials and bulk commodities, such as [[iron ore]], [[petroleum]], [[sugar]], and [[fertilizer]]s, often distributed to the relatively close manufacturing centers of the inland [[Midwest]] via good overland transportation. The port also receives several different brands of imported motor vehicles and is the number one auto port in the U.S.<ref>{{cite web |url=http://automotivelogistics.media/buyers-guide/port-of-baltimore-5 |title=Port of Baltimore |website=Automotive Logistics Buyers' Guide |access-date=May 22, 2017 |publisher=Ultima Media |quote=The Port of Baltimore handles more autos than any other US port. |archive-url=https://web.archive.org/web/20170525202955/http://automotivelogistics.media/buyers-guide/port-of-baltimore-5 |archive-date=May 25, 2017 |dead-url=yes |df=mdy-all }}</ref>
+
+Baltimore City is the eighth largest port in the nation, and was at the center of the February 2006 [[Dubai Ports World controversy|controversy]] over the [[Dubai Ports World]] deal because it was considered to be of such strategic importance. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Its computer industries are some of the most sophisticated in the United States, and the federal government has invested heavily in the area. Maryland is home to several large military bases and scores of high level government jobs.
+
+The [[Chesapeake and Delaware Canal]] is a {{convert|14|mi|km}} [[canal]] on the Eastern Shore that connects the waters of the Delaware River with those of the Chesapeake Bay, and in particular with the Port of Baltimore, carrying 40 percent of the port's ship traffic.<ref>{{cite web |publisher=U.S. Army Corps of Engineers |place=Philadelphia, PA |url=http://www.nap.usace.army.mil/Missions/CivilWorks/ChesapeakeDelawareCanal.aspx |title=Chesapeake and Delaware Canal |accessdate=September 28, 2013}}</ref>
+
+===Agriculture and fishing===
+Maryland has a large food-production sector. A large component of this is commercial [[List of freshwater fishes of Maryland|fishing]], centered in the Chesapeake Bay, but also including activity off the short Atlantic seacoast. The largest catches by species are the [[Callinectes sapidus|blue crab]], [[oysters]], [[striped bass]], and [[menhaden]]. The Bay also has overwintering waterfowl in its wildlife refuges. The waterfowl support a [[birdwatching|tourism sector of sportsmen]].
+
+[[File:CarrollCountyMD.jpg|thumb|Agriculture is an important part of the state's economy]]
+Maryland has large areas of fertile agricultural land in its coastal and [[Piedmont Plateau|Piedmont]] zones, though this land use is being encroached upon by urbanization. Agriculture is oriented to dairy farming (especially in foothill and piedmont areas) for nearby large city milksheads plus specialty perishable horticulture crops, such as [[cucumber]]s, [[watermelon]]s, [[sweet corn]], [[tomato]]es, [[muskmelon]]s, [[Squash (fruit)|squash]], and [[peas]] (Source:USDA Crop Profiles). In addition, the southern counties of the western shoreline of Chesapeake Bay are warm enough to support a [[tobacco]] [[cash crop]] zone, which has existed since early Colonial times but declined greatly after a state government buyout in the 1990s. There is also a large automated [[chicken]]-farming sector in the state's southeastern part; [[Salisbury, Maryland|Salisbury]] is home to [[Perdue Farms]]. Maryland's food-processing plants are the most significant type of manufacturing by value in the state.
+
+===Biotechnology===
+Maryland is a major center for [[life sciences]] research and development. With more than 400 biotechnology companies located there, Maryland is the fourth-largest nexus in this field in the United States.<ref>{{cite web |url=http://marylandbiocenter.org/Bioscience%20of%20Maryland/Pages/factsandfigures.aspx |title=Maryland's Bioscience Environment: 2009 |accessdate=August 19, 2011 |publisher=The Maryland Biotechnology Center |archive-url=https://web.archive.org/web/20110820175129/http://marylandbiocenter.org/Bioscience%20of%20Maryland/Pages/factsandfigures.aspx |archive-date=August 20, 2011 |dead-url=yes |df=mdy-all }}</ref>
+
+Institutions and government agencies with an interest in research and development located in Maryland include the [[Johns Hopkins University]], the [[Johns Hopkins Applied Physics Laboratory]], more than one campus of the [[University System of Maryland]], [[Goddard Space Flight Center]], the [[United States Census Bureau]], the [[National Institutes of Health]] (NIH), the [[National Institute of Standards and Technology]] (NIST), the [[National Institute of Mental Health]] (NIMH), the [[Walter Reed National Military Medical Center]], the federal [[Food and Drug Administration]] (FDA), the [[Howard Hughes Medical Institute]], the [[Celera Genomics]] company, the [[J. Craig Venter Institute]] (JCVI), and [[MedImmune]]&nbsp;– recently purchased by [[AstraZeneca]].
+
+Maryland is home to defense contractor [[Emergent BioSolutions]], which manufactures and provides an [[anthrax vaccine]] to U.S. government military personnel.<ref>{{cite news|title=Emergent BioSolutions Receives Orphan Drug Designation for BioThrax for Post-Exposure Prophylaxis of Anthrax Disease|url=http://www.marketwatch.com/story/emergent-biosolutions-receives-orphan-drug-designation-for-biothrax-for-post-exposure-prophylaxis-of-anthrax-disease-2014-04-21|access-date=August 29, 2016|work=Marketwatch.com|publisher=Dow Jones & Company|date=April 21, 2014}}</ref>
+
+===Tourism===
+[[File:Ocean City MD beach looking north from pier.jpeg|thumb|right|The beach resort town of Ocean City along the Atlantic Ocean is a popular tourist destination in Maryland]]
+{{See also|List of National Historic Landmarks in Maryland}}
+Tourism is popular in Maryland, with tourists visiting the city of Baltimore, the beaches of the Eastern Shore, and the nature of western Maryland, as well as many passing through on the way to Washington, D.C. Baltimore attractions include the [[Harborplace]], the [[Baltimore Aquarium]], [[Fort McHenry]], as well as the [[Camden Yards]] baseball stadium.
+[[Ocean City, Maryland|Ocean City]] on the Atlantic Coast has been a popular beach destination in summer, particularly since the [[Chesapeake Bay Bridge]] was built in 1952 connecting the Eastern Shore to the more populated Maryland cities.<ref name="baybridge.com-history"/> The state capital of [[Annapolis]] offers sites such as the [[Maryland State House|state capitol building]], the [[Colonial Annapolis Historic District|historic district]], and the waterfront.
+Maryland also has several sites of interest to military history, given Maryland's role in the [[Maryland in the American Civil War|American Civil War]] and in the [[Battle of Baltimore|War of 1812]]. Other attractions include the historic and picturesque towns along the [[Chesapeake Bay]], such as [[St. Mary's City, Maryland|Saint Mary's]],  Maryland's first colonial settlement and original capital.<ref name="darkroom.baltimoresun.com">Kenneth K. Lam, "Unearthing early American life in St. Mary’s City: St. Mary’s City is an archaeological jewel on Maryland’s Western Shore", Baltimore Sun, Aug 30, 2013, http://darkroom.baltimoresun.com/2013/08/unearthing-early-american-life-in-st-marys-city/#1</ref>
+
+==Transportation==
+The [[Maryland Department of Transportation]] oversees most transportation in the state through its various administration-level agencies.<ref>{{cite web|url=http://www.mdot.state.md.us/Contact+Us/TSO+Executive+Staff+List_2 |title=MDOT Departments |accessdate=June 5, 2016 |archiveurl=https://web.archive.org/web/20090525000636/http://www.mdot.state.md.us/Contact%20Us/TSO%20Executive%20Staff%20List_2 |archivedate=May 25, 2009 |deadurl=yes |df= }} ''[[Maryland Department of Transportation]]''. Retrieved on March 23, 2009.</ref>  The independent [[Maryland Transportation Authority]] maintains and operates the state's eight toll facilities.
+
+===Roads===
+{{See also|List of Interstate Highways in Maryland|List of Maryland state highways|List of minor Maryland state highways|List of former Maryland state highways}}
+
+Maryland's [[Interstate Highway System|Interstate highways]] include {{convert|110|mi|km}} of [[Interstate 95 in Maryland|Interstate&nbsp;95]] (I-95), which enters the northeast portion of the state, travels through [[Baltimore]], and becomes part of the eastern section of the [[Interstate 495 (Capital Beltway)|Capital Beltway]] to the [[Woodrow Wilson Bridge]]. [[Interstate 68 in Maryland|I-68]] travels {{convert|81|mi|km}}, connecting the western portions of the state to [[Interstate 70 in Maryland|I-70]] at the small town of Hancock. I-70 enters from Pennsylvania north of Hancock and continues east for {{convert|93|mi|km}} to Baltimore, connecting [[Hagerstown, Maryland|Hagerstown]] and [[Frederick, Maryland|Frederick]] along the way.
+
+[[Interstate 83 in Maryland|I-83]] has {{convert|34|mi|km}} in Maryland and connects Baltimore to southern central Pennsylvania ([[Harrisburg, Pennsylvania|Harrisburg]] and [[York, Pennsylvania]]). Maryland also has an {{convert|11|mi|km|adj=on}} portion of [[Interstate 81 in Maryland|I-81]] that travels through the state near Hagerstown. [[Interstate 97|I-97]], fully contained within Anne Arundel County and the second shortest ({{convert|17.6|mi|km}}) one- or two-digit interstate highway in the US, connects the Baltimore area to the Annapolis area. (Hawaii has one that is shorter.){{Clarify|date=May 2014}}
+
+There are also several [[List of auxiliary Interstate Highways|auxiliary Interstate highways]] in Maryland. Among them are two beltways encircling the major cities of the region: [[Interstate 695 (Maryland)|I-695]], the McKeldin (Baltimore) Beltway, which encircles Baltimore; and a portion of [[Interstate 495 (Capital Beltway)|I-495]], the Capital Beltway, which encircles Washington, D.C. [[Interstate 270 (Maryland)|I-270]], which connects the Frederick area with Northern Virginia and the District of Columbia through major suburbs to the northwest of Washington, is a major commuter route and is as wide as fourteen lanes at points.
+
+Both I-270 and the Capital Beltway were extremely [[Traffic congestion|congested]]; however, the [[Intercounty Connector]] (ICC; [[Maryland Route 200|MD&nbsp;200]]) has alleviated some of the congestion over time. Construction of the ICC was a major part of the campaign platform of former Governor [[Robert Ehrlich]], who was in office from 2003 until 2007, and of Governor [[Martin O'Malley]], who succeeded him. [[Interstate 595 (Maryland)|I-595]], which is an [[unsigned highway]] concurrent with [[U.S. Route 50 in Maryland|US&nbsp;50]]/[[U.S. Route 301 in Maryland|US&nbsp;301]], is the longest unsigned interstate in the country and connects [[Prince George's County, Maryland|Prince George's County]] and [[Washington D.C.]] with [[Annapolis]] and the [[Eastern Shore of Maryland|Eastern Shore]] via the [[Chesapeake Bay Bridge]].
+
+[[File:Chesapeake Bay Bridge.jpg|thumb|right|upright|The [[Chesapeake Bay Bridge]] connects Maryland's [[Eastern Shore of Maryland|Eastern]] and [[Western Shore|Western]] Shores.]]
+
+Maryland also has a [[state highway]] system that contains routes numbered from 2 through 999, however most of the higher-numbered routes are either unsigned or are relatively short. Major state highways include Routes [[Maryland Route 2|2]] (Governor Ritchie Highway/Solomons Island Road/Southern Maryland Blvd.), [[Maryland Route 4|4]] ([[Pennsylvania Avenue (Washington, D.C.)|Pennsylvania Avenue]]/Southern Maryland Blvd./Patuxent Beach Road/St. Andrew's Church Road), [[Maryland Route 5|5]] (Branch Avenue/Leonardtown Road/Point Lookout Road), [[Maryland Route 32|32]], [[Maryland Route 45|45]] (York Road), [[Maryland Route 97|97]] (Georgia Avenue), [[Maryland Route 100|100]] (Paul T. Pitcher Memorial Highway), [[Maryland Route 210|210]] (Indian Head Highway), [[Maryland Route 235|235]] (Three Notch Road), [[Maryland Route 295|295]] (Baltimore-Washington Parkway), [[Maryland Route 355|355]] (Wisconsin Avenue/Rockville Pike/Frederick Road), [[Maryland Route 404|404]] (Queen Anne Highway/ Shore Highway), and [[Maryland Route 650|650]] (New Hampshire Avenue).
+
+===Airports===
+{{See also|Aviation in Maryland|List of airports in Maryland}}
+Maryland's largest airport is [[Baltimore-Washington International Thurgood Marshall Airport]], more commonly referred to as BWI. The airport is named for the Baltimore-born [[Thurgood Marshall]], the first African-American [[Supreme Court of the United States|Supreme Court justice]]. The only other airports with commercial service are at [[Hagerstown Regional Airport|Hagerstown]] and [[Wicomico Regional Airport|Salisbury]].
+
+The Maryland suburbs of Washington, D.C. are also served by the other two airports in the region, [[Ronald Reagan Washington National Airport]] and [[Dulles International Airport]], both in [[Northern Virginia]]. The [[College Park Airport]] is the nation's oldest, founded in 1909, and is still used. [[Wilbur Wright]] trained military aviators at this location.<ref>{{cite web |url=http://www.collegeparkaviationmuseum.com/home.htm |archive-url=https://web.archive.org/web/20090727010523/http://www.collegeparkaviationmuseum.com/Home.htm |dead-url=yes |archive-date=July 27, 2009 |title=College Park Aviation Museum Home |publisher=Collegeparkaviationmuseum.com |date=September 12, 2013 |accessdate=September 28, 2013 }}</ref><ref>{{cite web  |url=http://dmna.state.ny.us/historic/articles/humphrey.htm |title=Frederick E. Humphreys: First Military Pilot |publisher=New York State Division of Military and Naval Affairs: Military History |date=December 9, 2008 |accessdate=November 23, 2010 }}</ref>
+
+===Rail===
+{{See also|List of Maryland railroads}}
+[[Amtrak]] trains, including the high speed [[Acela Express]] serve Baltimore's [[Pennsylvania Station (Baltimore)|Penn Station]], [[BWI Rail Station|BWI Airport]], [[New Carrollton (Washington Metro)|New Carrollton]], and [[Aberdeen (Amtrak station)|Aberdeen]] along the [[Washington D.C.]] to [[Boston]] [[Northeast Corridor]]. In addition, train service is provided to [[Rockville, Maryland|Rockville]] and [[Cumberland, Maryland|Cumberland]] by Amtrak's Washington, D.C., to [[Chicago]] [[Capitol Limited (Amtrak)|Capitol Limited]].
+[[File:Ellicott City Station 1970.jpg|thumb|[[Ellicott City Station]], on the original B&O Railroad line, is the oldest remaining passenger station in the United States. The rail line is still used by [[CSX Transportation]] for freight trains, and the station is now a museum.]]
+
+The [[WMATA]]'s [[Washington Metro|Metrorail]] [[rapid transit]] and [[Metrobus (Washington, D.C.)|Metrobus]] local bus systems (the [[List of United States rapid transit systems by ridership|2nd]] and [[List of United States local bus agencies by ridership|6th]] busiest in the nation of their respective modes) provide service in Montgomery and Prince George's counties and connect them to Washington D.C., with the express Metrobus [[Route B30 (WMATA)|''Route B30'']] serving [[BWI Thurgood Marshall Airport|BWI Airport]]. The [[Maryland Transit Administration]] (often abbreviated as "MTA Maryland"), a state agency part of the [[Maryland Department of Transportation]] also provides transit services within the state. Headquartered in Baltimore, MTA's transit services are largely focused on central Maryland, as well as some portions of the Eastern Shore and Southern MD. Baltimore's [[Baltimore Light RailLink|Light RailLink]] and [[Baltimore Metro SubwayLink|Metro SubwayLink]] systems serve its densely populated inner-city and the surrounding suburbs. The MTA also serves the city and its suburbs with its [[MTA Maryland bus service|local bus]] service (the [[List of United States local bus agencies by ridership|9th largest system]] in the nation). The MTA's [[Maryland Transit Administration#Commuter bus|Commuter Bus]] system provides express coach service on longer routes connecting Washington D.C. and Baltimore to parts of Central and Southern MD as well as the Eastern Shore. The commuter rail service, known as [[Maryland Area Rail Commuter|MARC]], operates three lines which all terminate at [[Washington Union Station]] and provide service to Baltimore's [[Baltimore Penn Station|Penn]] and [[Camden Station|Camden]] stations, [[Perryville, Maryland|Perryville]], [[Frederick, Maryland|Frederick]], and [[Martinsburg, West Virginia|Martinsburg, WV]]. In addition, many suburban counties operate their own local bus systems which connect to and complement the larger MTA and WMATA/Metro services.
+
+[[Freight rail transport]] is handled principally by two [[Class I railroad]]s, as well as several smaller regional and local carriers. [[CSX Transportation]] has more extensive [[rail tracks|trackage]] throughout the state, with {{convert|560|mi|km}},<ref name="CSXT">CSX Transportation. Jacksonville, FL (2010). [http://www.csx.com/index.cfm/about-csx/company-overview/state-fact-sheets/maryland/ "CSX and Maryland."] {{webarchive|url=https://web.archive.org/web/20111021040014/http://www.csx.com/index.cfm/about-csx/company-overview/state-fact-sheets/maryland/ |date=October 21, 2011 }}</ref> followed by [[Norfolk Southern Railway]]. Major [[rail yard]]s are located in Baltimore and Cumberland,<ref name="CSXT" /> with an [[Intermodal freight transport|intermodal]] terminal (rail, truck and marine) in Baltimore.<ref>Maryland Port Administration. Baltimore, MD. [http://mpa.maryland.gov/content/seagirt-marine-terminal.php "Seagirt Marine Terminal."] Retrieved October 31, 2011.</ref>
+
+==Law and government==
+[[File:Maryland quarter, reverse side, 2000.jpg|thumb|upright|The reverse side of the Maryland quarter shows the dome of the State House in Annapolis.]]
+{{Main|Government of Maryland}}
+{{See also|List of Governors of Maryland|Maryland Army National Guard|Maryland Air National Guard}}
+The [[government of Maryland]] is conducted according to the [[Maryland Constitution|state constitution]]. The government of Maryland, like the other 49 [[Politics of the United States#State government|state governments]], has exclusive authority over matters that lie entirely within the state's borders, except as limited by the [[Constitution of the United States]].
+
+Power in Maryland is divided among three branches of government: [[executive branch|executive]], [[legislative branch|legislative]], and [[judicial branch|judicial]]. The [[Maryland General Assembly]] is composed of the [[Maryland House of Delegates]] and the [[Maryland Senate]]. [[Governor of Maryland|Maryland's governor]] is unique in the United States as the office is vested with significant authority in budgeting. The legislature may not increase the governor's proposed budget expenditures. Unlike many other states, significant autonomy is granted to many of Maryland's [[County (United States)|counties]].
+
+Most of the business of government is conducted in [[Annapolis, Maryland|Annapolis]], the state [[Capital (political)|capital]]. Elections for governor and most statewide offices, as well as most county elections, are held in [[United States midterm election|midterm-election years]] (even-numbered years not divisible by four).
+
+The judicial branch of state government consists of one united District Court of Maryland that sits in every county and Baltimore City, as well as 24 Circuit Courts sitting in each County and Baltimore City, the latter being courts of general jurisdiction for all civil disputes over $30,000.00, all equitable jurisdiction and major criminal proceedings. The intermediate appellate court is known as the [[Maryland Court of Special Appeals|Court of Special Appeals]] and the [[state supreme court]] is the [[Maryland Court of Appeals|Court of Appeals]]. The appearance of the judges of the Maryland Court of Appeals is unique; Maryland is the only state whose judges wear red robes.<ref>Lamy, Rudolf B. (2006). [http://www.lawlib.state.md.us/aboutus/history/judgesrobes.pdf "A Study of Scarlet: Red Robes and the Maryland Court of Appeals."] Monograph. (Annapolis, MD: Maryland State Law Library.)</ref>
+
+===Taxation===
+Maryland imposes five [[income tax]] brackets, ranging from 2 to 6.25 percent of personal income.<ref>{{cite web
+ |url=http://www.bankrate.com/brm/itax/edit/state/profiles/state_tax_Md.asp
+ |title=Maryland State taxes
+ |publisher=BankRate.com
+ |accessdate=April 9, 2008
+}}</ref> The city of Baltimore and Maryland's 23 counties levy local "piggyback" income taxes at rates between 1.25 and 3.2 percent of Maryland taxable income. Local officials set the rates and the revenue is returned to the local governments quarterly. The top income tax bracket of 9.45 percent is the fifth highest combined state and local income tax rates in the country, behind New York City's 11.35 percent, California's 10.3 percent, Rhode Island's 9.9 percent, and Vermont's 9.5 percent.<ref>{{cite web |url=http://individuals.marylandtaxes.com/incometax/localtax.asp |title=Maryland Income Tax Information – Local Tax Rates |publisher=Individuals.marylandtaxes.com |accessdate=September 22, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080920134243/http://individuals.marylandtaxes.com/incometax/localtax.asp |archivedate=September 20, 2008 |df=mdy-all }}</ref>
+
+Maryland's state [[sales tax]] is 6 percent.{{citation needed|date=April 2017}} All real property in Maryland is subject to the [[property tax]].{{citation needed|date=April 2017}} Generally, properties that are owned and used by religious, charitable, or educational organizations or property owned by the federal, state or local governments are exempt.{{citation needed|date=April 2017}} Property tax rates vary widely.{{citation needed|date=April 2017}} No restrictions or limitations on property taxes are imposed by the state, meaning cities and counties can set tax rates at the level they deem necessary to fund governmental services.{{citation needed|date=April 2017}}
+
+===Elections===
+{{further|Politics of Maryland|Political party strength in Maryland}}
+
+[[File:Spiro Agnew.jpg|thumb|upright|left|[[Spiro Agnew]], former [[United States Vice President]], is the highest-ranking political leader from Maryland since the founding of the United States]]
+
+{| class="wikitable"  style="float:right; margin:1em; font-size:95%;"
+|+ Maryland vote|Gubernatorial election results<ref name="Leip, David">{{cite web|url=http://uselectionatlas.org/RESULTS/|title=General Election Results – Maryland|publisher=United States Election Atlas|accessdate=November 18, 2016|author=Leip, David}}</ref>
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (Maryland)|Democratic]]
+! [[Republican Party (Maryland)|Republican]]
+|-
+| {{Party shading/Republican}}|[[Maryland gubernatorial election, 1950|1950]]
+| {{Party shading/Democratic}}|42.7% ''275,824''
+| {{Party shading/Republican}}|'''57.3%''' ''369,807''
+|-
+| {{Party shading/Republican}}|[[Maryland gubernatorial election, 1954|1954]]
+| {{Party shading/Democratic}}|45.5% ''319,033''
+| {{Party shading/Republican}}|'''54.5%''' ''381,451''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1958|1958]]
+| {{Party shading/Democratic}}|'''63.6%''' ''485,061''
+| {{Party shading/Republican}}|36.5% ''278,173''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1962|1962]]
+| {{Party shading/Democratic}}|'''55.6%''' ''428,071''
+| {{Party shading/Republican}}|44.4% ''341,271''
+|-
+| {{Party shading/Republican}}|[[Maryland gubernatorial election, 1966|1966]]
+| {{Party shading/Democratic}}|40.6% ''373,543	''
+| {{Party shading/Republican}}|'''49.5%''' ''455,318''
+|-	
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1970|1970]]
+| {{Party shading/Democratic}}|'''65.7%''' ''639,579''
+| {{Party shading/Republican}}|32.3% ''314,336''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1974|1974]]
+| {{Party shading/Democratic}}|'''63.5%''' ''602,648 	''
+| {{Party shading/Republican}}|36.5% ''346,449''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1978|1978]]
+| {{Party shading/Democratic}}|'''71.0%''' ''718,328 	''
+| {{Party shading/Republican}}|29.0% ''293,635''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1982|1982]]
+| {{Party shading/Democratic}}|'''62.0%''' ''705,910''
+| {{Party shading/Republican}}|38.0% ''432,826 	''
+|- 	
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1986|1986]]
+| {{Party shading/Democratic}}|'''82.4%''' ''907,291''
+| {{Party shading/Republican}}|17.6% ''194,185 	''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1990|1990]]
+| {{Party shading/Democratic}}|'''59.8%''' ''664,015 	''
+| {{Party shading/Republican}}|40.2% ''446,980''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1994|1994]]
+| {{Party shading/Democratic}}|'''50.2%''' ''708,094''
+| {{Party shading/Republican}}|49.8% ''702,101''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 1998|1998]]
+| {{Party shading/Democratic}}|'''55.1%''' ''846,972''
+| {{Party shading/Republican}}|44.8% ''688,357	''
+|-
+| {{Party shading/Republican}}|[[Maryland gubernatorial election, 2002|2002]]
+| {{Party shading/Democratic}}|47.7% ''813,422''
+| {{Party shading/Republican}}|'''51.6%''' ''879,592''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 2006|2006]]
+| {{Party shading/Democratic}}|'''52.7%''' ''942,279''
+| {{Party shading/Republican}}|46.2% ''825,464''
+|-
+| {{Party shading/Democratic}}|[[Maryland gubernatorial election, 2010|2010]]
+| {{Party shading/Democratic}}|'''56.2%''' ''1,044,961''
+| {{Party shading/Republican}}|41.8% ''776,319''
+|-
+| {{Party shading/Republican}}|[[Maryland gubernatorial election, 2014|2014]]
+| {{Party shading/Democratic}}|47.3% ''818,890	''
+| {{Party shading/Republican}}|'''51.0%''' ''884,400''
+|-
+| {{Party shading/Republican}}|[[Maryland gubernatorial election, 2018|2018]]
+| {{Party shading/Democratic}}|43.5% ''1,002,639''
+| {{Party shading/Republican}}|'''55.4%''' ''1,275,644''
+|-
+|}
+{| class="wikitable"  style="float:right; margin:1em; font-size:95%;"
+|+ Maryland vote|Presidential election results<ref name="Leip, David"/>
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (United States)|Democratic]]
+! [[Republican Party (United States)|Republican]]
+|-
+| {{Party shading/Republican}}|[[United States presidential election in Maryland, 1952|1952]]
+| {{Party shading/Democratic}}|43.8% ''395,337''
+| {{Party shading/Republican}}|'''55.4%''' ''499,424''
+|-
+| {{Party shading/Republican}}|[[United States presidential election in Maryland, 1956|1956]]
+| {{Party shading/Democratic}}|40.0% ''372,613	''
+| {{Party shading/Republican}}|'''60.0%''' ''559,738''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 1960|1960]]
+| {{Party shading/Democratic}}|'''53.6%''' ''565,808''
+| {{Party shading/Republican}}|46.4% ''489,538''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 1964|1964]]
+| {{Party shading/Democratic}}|'''65.5%''' ''730,912''
+| {{Party shading/Republican}}|34.5% ''385,495	''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 1968|1968]]
+| {{Party shading/Democratic}}|'''43.6%''' ''538,310''
+| {{Party shading/Republican}}|41.9% ''517,995''
+|-
+| {{Party shading/Republican}}|[[United States presidential election in Maryland, 1972|1972]]
+| {{Party shading/Democratic}}|37.4% ''505,781''
+| {{Party shading/Republican}}|'''61.3%''' ''829,305''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 1976|1976]]
+| {{Party shading/Democratic}}|'''53.0%''' ''759,612''
+| {{Party shading/Republican}}|47.0% ''672,661	''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 1980|1980]]
+| {{Party shading/Democratic}}| '''47.1%''' ''726,161''
+| {{Party shading/Republican}}| 44.2% ''680,606''
+|-
+| {{Party shading/Republican}}|[[United States presidential election in Maryland, 1984|1984]]
+| {{Party shading/Democratic}}|47.0% ''787,935''
+| {{Party shading/Republican}}|'''52.5%''' ''879,918''
+|-
+| {{Party shading/Republican}}|[[United States presidential election in Maryland, 1988|1988]]
+| {{Party shading/Democratic}}|48.2% ''826,304''
+| {{Party shading/Republican}}|'''51.1%''' ''876,167''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 1992|1992]]
+| {{Party shading/Democratic}}|'''49.8%''' ''988,571''
+| {{Party shading/Republican}}|35.6% ''707,094''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 1996|1996]]
+| {{Party shading/Democratic}}|'''54.3%''' ''966,207''
+| {{Party shading/Republican}}|38.3% ''681,530''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 2000|2000]]
+| {{Party shading/Democratic}}|'''56.6%''' ''1,145,782''
+| {{Party shading/Republican}}|40.2% ''813,797''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 2004|2004]]
+| {{Party shading/Democratic}}| '''55.9%''' ''1,334,493	''
+| {{Party shading/Republican}}|42.9% ''1,024,703''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 2008|2008]]
+| {{Party shading/Democratic}}|'''61.9%'''  ''1,629,467''
+| {{Party shading/Republican}}|36.5% ''959,862	''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 2012|2012]]
+| {{Party shading/Democratic}}|'''62.0%''' ''1,677,844''
+| {{Party shading/Republican}}|35.9% ''971,869	''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in Maryland, 2016|2016]]
+| {{Party shading/Democratic}}|'''60.3%''' ''1,677,928''
+| {{Party shading/Republican}}|33.9% ''943,169''
+|-
+|}
+Since before the Civil War, Maryland's elections have been [[Political party strength in Maryland|largely controlled]] by the [[U.S. Democratic Party|Democrats]], which account for 54.9% of all registered voters as of May 2017.<ref name="Maryland State Board of Elections">{{cite web|url=http://www.elections.state.md.us/voter_registration/stats.html|title=Voter Registration Statistics|author=Maryland State Board of Elections|publisher=}}</ref>
+
+State elections are dominated by Baltimore and the populous suburban counties bordering [[Washington, D.C.]] and [[Baltimore]]: [[Montgomery County, Maryland|Montgomery]], [[Prince George's County, Maryland|Prince George's]], [[Anne Arundel County, Maryland|Anne Arundel]], and [[Baltimore County|Baltimore counties]]. As of July 2017,<ref>{{Cite web | url=https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2017/PEPANNRES/0400000US24.05000 | title=American FactFinder - Results}}</ref> sixty-six percent of the state's population resides in these six jurisdictions, most of which contain large, traditionally Democratic [[Voting bloc|voting bloc(s)]]: [[African Americans]] in Baltimore City and Prince George's, [[Federal government of the United States|federal]] employees in Prince George's, Anne Arundel, and Montgomery, and [[Postgraduate education|postgraduates]] in Montgomery. The remainder of the state, particularly [[Western Maryland]] and the [[Eastern Shore of Maryland|Eastern Shore]], is more supportive of [[Republican Party (United States)|Republicans]].{{citation needed|date=April 2017}}  One of Maryland's best known political figures is a Republican&nbsp;– former Governor [[Spiro Agnew]], who served under President [[Richard Nixon]] as the U.S. Vice President from 1969 to 1973, when he resigned in the aftermath of findings that he had taken [[bribes]] while he was Governor of Maryland. Though claiming innocence, Agnew negotiated a plea bargain and appeared before the federal court in Baltimore in October 1973, where he pled [[nolo contendere|no contest]] to one tax evasion felony charge and submitted his letter of resignation.<ref>{{cite book |last=Feerick |first=John D.|authorlink=John Feerick|title=The Twenty-Fifth Amendment: Its Complete History and Application|edition=Third|orig-year=1976 |publisher=Fordham University Press |year=2014 |location=New York |isbn=978-0-8232-5200-8 |pages=132–133}}</ref>
+
+In 1980, Maryland was one of six states to vote for [[Jimmy Carter]].{{citation needed|date=April 2017}} In 1992, [[Bill Clinton]] fared better in Maryland than any other state except his home state of [[Arkansas]].{{citation needed|date=April 2017}} In 1996, Maryland was Clinton's sixth best; in 2000, Maryland ranked fourth for Gore; and in 2004, [[John Kerry]] showed his fifth-best performance in Maryland.{{citation needed|date=April 2017}}  In 2008, [[Barack Obama]] won the state's 10 electoral votes with 61.9 percent of the vote to [[John McCain]]'s 36.5 percent.{{citation needed|date=April 2017}}
+
+In 2002, former Governor [[Robert Ehrlich]] was the first Republican to be elected to that office in four decades, and after one term lost his seat to [[Baltimore Mayor]] and Democrat [[Martin O'Malley]]. Ehrlich ran again for governor in 2010, losing again to O'Malley.
+
+{| class=wikitable  style="text-align: center;float:right;"
+|+ Voter Registration by Party (May 2017)<ref name="Maryland State Board of Elections"/>
+|-
+! colspan = 2 | Party
+! Number of Voters
+! Percentage
+|-
+{{party color|Democratic Party (United States)}}
+| [[Democratic Party (United States)|Democratic]]
+| style="text-align:center;"| 2,059,544
+| style="text-align:center;"| 54.9%
+|-
+{{party color|Republican Party (United States)}}
+| [[Republican Party (United States)|Republican]]
+| style="text-align:center;"| 1,020,438
+| style="text-align:center;"| 26.0%
+|-
+{{party color|Independent Party (United States)}}
+| Unaffiliated
+| style="text-align:center;"| 691,583
+| style="text-align:center;"| 17.6%
+|-
+{{party color|Libertarian Party (United States)}}
+| Libertarian
+| style="text-align:center;"| 20,377
+| style="text-align:center;"| 0.5%
+|-
+{{party color|Green Party (United States)}}
+| Green
+| style="text-align:center;"| 9,313
+| style="text-align:center;"| 0.2%
+|-
+{{party color|Libertarian Party (United States)}}
+| Other
+| style="text-align:center;"| 31,975
+| style="text-align:center;"| 0.8%
+|-
+! colspan = 2 | Total
+! style="text-align:center;"| 3,928,689
+! style="text-align:center;"| 100%
+|}
+[[File:United States presidential election in Maryland, 2016.svg|thumb|left|[[Treemap]] of the popular vote by county, 2016 presidential election.]]
+
+The 2006 election brought no change in the pattern of Democratic dominance. After Democratic Senator [[Paul Sarbanes]] announced that he was retiring, Democratic Congressman [[Benjamin Cardin]] defeated Republican Lieutenant Governor [[Michael S. Steele]], with 55 percent of the vote, against Steele's 44 percent.
+
+While Republicans usually win more counties, by piling up large margins in the west and east, they are also usually swamped by the more densely populated and heavily Democratic Baltimore–Washington axis. In 2008, for instance, McCain won 17 counties to Obama's six; Obama also carried Baltimore City. While McCain won most of the western and eastern counties by margins of 2-to-1 or more, he was almost completely shut out in the larger counties surrounding Baltimore and Washington; every large county except Anne Arundel went for Obama.<ref>[http://www.cnn.com/ELECTION/2008/results/individual/#mapPMD Local and National Election Results&nbsp;– Election Center 2008&nbsp;– Elections & Politics from]. CNN.com. Retrieved on July 12, 2013.</ref>
+
+From 2007 to 2011, U.S. Congressman [[Steny Hoyer]] ([[Maryland's 5th congressional district|MD-5]]), a [[Democratic Party (United States)|Democrat]], was elected as [[Majority Leader]] for the [[110th United States Congress|110th Congress]] of the [[United States House of Representatives|House of Representatives]], and [[111th United States Congress|111th Congress]], serving in that post. His district covers parts of [[Anne Arundel County, Maryland|Anne Arundel]] and [[Prince George's County, Maryland|Prince George's]] counties, in addition to all of [[Charles County, Maryland|Charles]], [[Calvert County, Maryland|Calvert]] and [[Saint Mary's County, Maryland|St. Mary's]] counties in [[southern Maryland]].<ref>[[Steny Hoyer]], [[Maryland's 5th congressional district|Fifth Congressional District of Maryland]]. [[U.S. House of Representatives]]. Retrieved December 8, 2006 from http://hoyer.house.gov</ref>
+
+In 2010, Republicans won control of most counties. The Democratic Party remained in control of eight county governments including [[Baltimore City]].<ref>{{cite web|title=Official Gubernatorial General Election results for Maryland|url=http://elections.maryland.gov/elections/2010/results/Primary/index.html|website=The State Board of Elections|publisher=State of Maryland|accessdate=September 29, 2016}}</ref>
+
+In 2014, [[Larry Hogan]], a Republican, was elected Governor of Maryland.<ref>{{cite web|url=https://www.washingtonpost.com/local/md-politics/marylanders-head-to-the-polls-to-pick-governor-ag-other-local-and-state-officials/2014/11/03/88be207c-6378-11e4-bb14-4cfea1e742d5_story.html|title=Republican Larry Hogan wins Md. governor's race in stunning upset|website=Washington Post|accessdate=January 14, 2015}}</ref> Hogan is the second Republican to become the Governor of Maryland after Spiro Agnew, who resigned in 1969 to become Vice President.
+
+==Media==
+A well known newspaper is [[The Baltimore Sun]].{{See also|:Category:Maryland media}}
+
+==Education==
+
+===Primary and secondary education===
+{{See also|List of school districts in Maryland|List of high schools in Maryland|Arts and culture of Maryland}}
+[[File:Memorial Chapel at UMCP, front view off-center, August 21, 2006.jpg|thumb|right|upright|Memorial Chapel at the [[University of Maryland, College Park]], Maryland's flagship university.]]
+[[File:UMBC Commons and Quad.jpg|thumb|right|upright|UMBC Commons and Quad]]
+Education Week ranked Maryland #1 in its nationwide 2009–2013 Quality Counts reports.{{citation needed|date=January 2014}} The College Board's 9th Annual AP Report to the Nation also ranked Maryland first.{{citation needed|date=January 2014}} Primary and secondary education in Maryland is overseen by the [[Maryland State Department of Education]], which is headquartered in [[Baltimore, Maryland|Baltimore]].<!--Yes, folks, the SDOE offices are in Baltimore, ''not'' Annapolis--><ref>"[http://www.marylandpublicschools.org/MSDE/aboutmsde/department_info.htm About MSDE] {{webarchive|url=https://web.archive.org/web/20090106053736/http://www.marylandpublicschools.org./MSDE/aboutmsde/department_info.htm |date=January 6, 2009 }}." ''[[Maryland State Department of Education]]''. Retrieved on March 22, 2009.</ref> The highest educational official in the state is the [[Superintendent (education)|State Superintendent of Schools]], who is appointed by the [[Board of education|State Board of Education]] to a four-year term of office. The Maryland General Assembly has given the Superintendent and State Board autonomy to make educationally related decisions, limiting its own influence on the day-to-day functions of public education. Each county and county-equivalent in Maryland has a [[List of school districts in Maryland|local Board of Education]] charged with running the public schools in that particular jurisdiction.
+
+The budget for education was $5.5 billion in 2009, representing about 40 percent of the state's general fund.<ref>{{cite web|url=http://www.gazette.net/stories/10302009/poliedi181547_32521.shtml |title=Slicing education? |accessdate=November 12, 2009 |date=October 30, 2009 |website=gazette.net |publisher=The Gazette |page=A-9 |quote=As it stands, the $5.5 billion Maryland spends on education makes up about 40 percent of the general fund budget.... }}</ref>
+
+Maryland has a broad range of private primary and secondary schools. Many of these are affiliated with various religious sects, including [[parochial schools]] of the [[Catholic Church]], [[Quaker]] schools, [[Seventh-day Adventist Church|Seventh-day Adventist]] schools, and [[Judaism|Jewish]] schools. In 2003, Maryland law was changed to allow for the creation of publicly funded charter schools, although the charter schools must be approved by their local Board of Education and are not exempt from state laws on education, including collective bargaining laws.
+
+In 2008, the state led the entire country in the percentage of students passing [[Advanced Placement]] examinations. 23.4 percent of students earned passing grades on the AP tests given in May 2008. This marks the first year that Maryland earned this honor.<ref>{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2009/02/04/AR2009020401459.html|title=Md. Leads U.S. in Passing Rates on AP Exams|last=de Vise|first=Daniel|date=February 5, 2009|newspaper=Washington Post|pages=B1|accessdate=February 18, 2009}}</ref> Three Maryland high schools (in Montgomery County) were ranked among the top 100 in the country by US News in 2009, based in large part on AP test scores.<ref>{{cite web|url=https://www.usnews.com/articles/education/high-schools/2008/12/04/best-high-schools-gold-medal-list.html?PageNr=1 |title=Best High Schools: Gold Medal List |website=usnews.com |publisher=[[U.S. News & World Report]] |accessdate=November 7, 2009 }}</ref>
+
+===Colleges and universities===
+{{See also|List of colleges and universities in Maryland}}
+
+Maryland has several historic and renowned private colleges and universities, the most prominent of which is [[Johns Hopkins University]], founded in 1876 with a grant from Baltimore entrepreneur [[Johns Hopkins]].
+
+The first public university in the state is the [[University of Maryland, Baltimore]], which was founded in 1807 and contains the University of Maryland's only public academic [[University of Maryland School of Medicine|health]], human services, and one of two [[University of Maryland School of Law|law centers]] (the other being the [[University of Baltimore School of Law]]). Seven professional and graduate schools train the majority of the state's physicians, nurses, dentists, lawyers, social workers, and pharmacists.<ref>{{cite web |url=http://www.umaryland.edu/about-umb/umb-fast-facts/ |publisher=University of Maryland, Baltimore |title=UMB Fast Facts |access-date=May 21, 2017 }}</ref> The flagship university and largest undergraduate institution in Maryland is the [[University of Maryland, College Park]] which was founded as the Maryland Agricultural College in 1856 and became a public [[land grant college]] in 1864. [[Towson University]], founded in 1866, is the state's second largest university. Baltimore is home to the [[University of Maryland, Baltimore County]] and the [[Maryland Institute College of Art]]. The majority of public universities in the state are affiliated with the [[University System of Maryland]]. Two state-funded institutions, [[Morgan State University]] and [[St. Mary's College of Maryland]], as well as two federally funded institutions, the [[Uniformed Services University of the Health Sciences]] and the [[United States Naval Academy]], are not affiliated with the University System of Maryland.
+
+[[St. John's College (Annapolis/Santa Fe)|St. John's College]] in [[Annapolis, Maryland]] and [[Washington College]] in [[Chestertown, Maryland]], both private institutions, are the two oldest colleges in the state, and are among the oldest in the country. Other private institutions include [[Mount St. Mary's University]], [[McDaniel College]] (formerly known as Western Maryland College), [[Hood College]], [[Stevenson University]] (formerly known as Villa Julie College), [[Loyola University Maryland]], and [[Goucher College]], among others.
+
+===Public libraries===
+Maryland's 24 public library systems deliver public education for everyone in the state of Maryland through a curriculum that comprises three pillars: Self-Directed Education (books and materials in all formats, e-resources), Research Assistance & Instruction (individualized research assistance, classes for students of all ages), and Instructive & Enlightening Experiences (e.g., Summer Reading Clubs, author events).
+
+Maryland's library systems include, in part:
+
+* [[Baltimore County Public Library]] System
+* [[Cecil County Public Library]]
+* [[Enoch Pratt Free Library]]
+* [[Harford County Public Library]]
+* [[Howard County Public Library]]
+* [[Montgomery County Public Libraries]]
+* [[Prince George's County Memorial Library System]]
+* St. Mary's County Public Library<ref>{{cite web|url=https://cosmos.somd.lib.md.us/|title=Home|publisher=}}</ref>
+
+Many of the library systems have established formalized partnerships with other educational institutions in their counties and regions.{{citation needed|date=April 2015}}
+
+==Sports==
+[[File:CamdenYards 2005-05-08.jpg|thumb|[[Oriole Park at Camden Yards]], home of the [[Baltimore Orioles]]]]
+[[File:M&T Bank Stadium DoD.jpg|thumb|[[M&T Bank Stadium]], home of the [[Baltimore Ravens]].]]
+{{see also|Sports in Maryland|List of people from Maryland#Athletes}}
+With two major metropolitan areas, Maryland has a number of major and minor professional sports franchises. Two [[National Football League]] teams play in Maryland, the [[Baltimore Ravens]] in [[Baltimore, Maryland|Baltimore]] and the [[Washington Redskins]] in [[Landover, Maryland|Landover]]. The [[History of the Baltimore Colts|Baltimore Colts]] represented the NFL in Baltimore from 1953 to 1983 before moving to [[Indianapolis]].
+
+The [[Baltimore Orioles]] are the state's [[Major League Baseball]] franchise. The [[National Hockey League]]'s [[Washington Capitals]] and the [[National Basketball Association]]'s [[Washington Wizards]] formerly played in Maryland, until the construction of an arena in Downtown D.C. in 1997 (now known as [[Capital One Arena]]).
+
+Maryland enjoys considerable historical repute for the talented sports players of its past, including [[Cal Ripken Jr.]] and [[Babe Ruth]]. In 2012, ''[[The Baltimore Sun]]'' published a list of Maryland's top ten athletes in the state's history. The list includes Babe Ruth, Cal Ripken Jr, [[Johnny Unitas]], [[Brooks Robinson]], [[Frank Robinson]], [[Ray Lewis]], [[Michael Phelps]], [[Jimmie Foxx]], [[Jim Parker (American football)|Jim Parker]], and [[Wes Unseld]].<ref>{{cite news|title=Top 10 Maryland athletes in The Sun's 175-year history|url=http://www.baltimoresun.com/sports/bal-top-175-top-10-story-gallery,0,2436595.storygallery|newspaper=Baltimore Sun|date=May 16, 2012|accessdate=March 16, 2013}}</ref>
+
+Other professional sports franchises in the state include five affiliated [[minor league baseball]] teams, one [[independent league baseball]] team, the [[Baltimore Blast (current)|Baltimore Blast]] indoor soccer team, two indoor football teams, three low-level outdoor soccer teams, and the [[Chesapeake Bayhawks]] of [[Major League Lacrosse]]. Maryland is also home to one of the three races in horse racing's annual Triple Crown, the [[Preakness Stakes]], which is run every spring at [[Pimlico Race Course]] in Baltimore.
+
+The [[Congressional Country Club]] has hosted three golf tournaments for the [[U.S. Open (golf)|U.S. Open]] and a [[PGA Championship]].
+
+The official state sport of Maryland, since 1962, is [[jousting]]; the official team sport since 2004 is [[lacrosse]].<ref>{{cite web|url=http://www.msa.md.gov/msa/mdmanual/01glance/html/symbols/sport.html |title=State Symbols |accessdate=December 6, 2007 |publisher=Maryland State Archives}}</ref> The [[National Lacrosse Hall of Fame]] is located on the [[Johns Hopkins University]] campus in Baltimore. In 2008, intending to promote physical fitness for all ages, walking became the official state exercise. Maryland is the first state with an official state exercise.<ref>{{cite web|url=http://www.journalism.umd.edu/cns/wire/2008-editions/09-September-editions/080930-Tuesday/WalkingState_CNS-UMCP.html |title=STATE SYMBOLS: Marylanders take a walk, and eat cake too |publisher=Journalism.umd.edu |date=September 30, 2008 |accessdate=September 28, 2013}}</ref>
+
+{{clear}}
+
+==See also==
+{{Portal|Maryland|United States}}
+*[[Index of Maryland-related articles]]
+*[[Outline of Maryland]]
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+{{Refbegin|30em}}
+*{{Cite book|title=Maryland, A Middle Temperament: 1634–1980 |last=Brugger |first=Robert J. |year=1988 |publisher=Johns Hopkins University Press |location=Baltimore |isbn=978-0-8018-5465-1 |page= |pages= |url=https://books.google.com/?id=fNspu2FxwUwC&lpg=PP1}}
+*{{Cite book|title=Maryland: A History of its People |last=Chappelle |first=Susan Ellery Green|year=1986 |publisher=Johns Hopkins University Press |location=Baltimore |isbn=978-0-8018-3005-1 |page= |pages= |url=https://books.google.com/?id=zw87C-gF8GgC&lpg=PP1|display-authors=etal}}
+*Davis, William Wilkins. ''Religion and Politics in Maryland on the Eve of the Civil War: The Letters of W. Wilkins Davis''. Foreword by Charles W. Mitchell. 1988; rev. ed., Eugene, Ore.: Wipf & Stock, 2009.
+*{{Cite book|title=A Southern Star for Maryland |last=Denton |first=Lawrence M.|year=1995 |publisher=Publishing Concepts |location=Baltimore |isbn=978-0-9635159-3-3 |page= |pages= |url= |accessdate=}}
+{{Refend}}
+
+==External links==
+{{Sister project links|voy=Maryland}}
+* {{Official website|http://www.maryland.gov}}
+* [http://www.visitmaryland.org/ Maryland Office of Tourism]
+* [https://web.archive.org/web/20101229213555/http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=MD Energy Data & Statistics for Maryland]
+* [https://web.archive.org/web/20070219020312/http://www.usgs.gov/state/state.asp?State=MD USGS real-time, geographic, and other scientific resources of Maryland]
+* [https://web.archive.org/web/20120111154525/http://quickfacts.census.gov/qfd/states/24000.html U.S. Census Bureau]
+* [http://www.newadvent.org/cathen/09755b.htm Catholic Encyclopedia article]
+* [http://www.ers.usda.gov/data-products/state-fact-sheets/state-data.aspx?StateFIPS=24&StateName=Maryland#.U8A5S_ldUeo Maryland State Facts from USDA]
+* {{dmoz|Regional/North_America/United_States/Maryland}}
+* {{OSM relation|162112}}
+* [http://msa.maryland.gov/msa/speccol/maps/carto/html/carto_h.html Maryland State Archives: Special Collections, Map Collections]
+* [http://www.mdhs.org/library/research-resources/county-maps Maryland Historical Society: County Maps]
+* [http://msa.maryland.gov/msa/speccol/1399/carto/html/hopkins.html The Huntingfield Map Collection]
+
+{{s-start}}
+{{s-bef|before=[[Massachusetts]]}}
+{{s-ttl|title=[[List of U.S. states by date of admission to the Union]]|years=Ratified [[United States Constitution|Constitution]] on April 28, 1788 (7th)}}
+{{s-aft|after=[[South Carolina]]}}
+{{s-end}}
+
+{{Maryland|expanded}}
+{{Northeast US}}
+{{United States political divisions}}
+
+{{Coord|display=title|39|N|76.7|W|region:US-MD_type:adm1st_scale:3000000}}
+
+{{Authority control}}
+
+[[Category:Maryland| ]]
+[[Category:States and territories established in 1788]]
+[[Category:States of the United States]]
+[[Category:Mid-Atlantic states]]
+[[Category:States of the East Coast of the United States]]
+[[Category:1788 establishments in the United States]]

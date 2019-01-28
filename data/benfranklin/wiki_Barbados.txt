@@ -1,0 +1,626 @@
+{{other uses}}
+{{distinguish|Barbuda}}
+{{pp-move-indef}}
+{{EngvarB|date=December 2016}}
+
+{{Use dmy dates|date=December 2016}}
+{{coord|13|10|N|59|33|W|type:country_region:BB_scale:2500000|display=title|format=dms}}
+{{Infobox country
+| conventional_long_name = Barbados
+| common_name = Barbados
+| image_flag = Flag of Barbados.svg
+| image_coat = Coat of arms of Barbados (2).svg
+| image_map = BRB orthographic.svg
+| national_motto = "Pride and Industry"
+| national_anthem = ''[[In Plenty and In Time of Need]]''<br /><center>[[File:In Plenty and In Time of Need instrumental.ogg]]</center>
+
+| official_languages = [[English language|English]]
+|regional_languages =[[Bajan Creole]]
+|ethnic_groups =
+{{vunblist
+| 92.4% [[Afro-Barbadian|black]]
+| 3.1% [[multiracial]]
+| 2.7% [[White Barbadian|white]]
+| 1.3% [[Indians in Barbados|East Indian]]
+| 0.5% other/unspecified 
+}}
+|ethnic_groups_year = est. 2010<ref name="cia"/>
+|religion =
+{{vunblist
+|75.6% [[Christians|Christian]]
+|2.5% other
+|20.6% none
+|1.2% unspecified<ref name="cia"/>
+}}
+| capital = [[Bridgetown]]
+| coordinates = {{Coord|13|06|N|59|37|W|type:city}}
+| largest_city = capital
+| demonym = {{vunblist|[[Barbadians|Barbadian]]| Bajan (colloquial)}}
+| government_type = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| leader_title1 = [[Monarchy of Barbados|Monarch]]
+| leader_name1 = [[Elizabeth II]]
+| leader_title2 = {{nowrap|[[Governor-General of Barbados|Governor-General]]}}
+| leader_name2 = [[Sandra Mason|Dame Sandra Mason]]
+| leader_title3 = [[Prime Minister of Barbados|Prime Minister]]
+| leader_name3 = [[Mia Mottley]]
+| legislature = [[Parliament of Barbados|Parliament]]
+| upper_house = [[Senate of Barbados|Senate]]
+| lower_house = [[House of Assembly of Barbados|House of Assembly]]
+| area_km2 = 439
+| area_sq_mi = 166<!--Do not remove per [[WP:MOSNUM]]-->
+| area_rank = 183rd <!-- Should match [[List of countries and dependencies by area]] -->
+| percent_water = Negligible
+| population_census = 277,821<ref name=geo>{{cite web |url= http://www.geohive.com/cntry/barbados.aspx |title=Barbados – General Information |publisher=GeoHive |accessdate=16 December 2013}}</ref>
+| population_census_rank = 181st
+| population_census_year = 2010
+| population_density_km2 = 660
+| population_density_sq_mi = 1,704<!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 15th
+| GDP_PPP = $4.663 billion<ref name=imf2>[http://www.imf.org/external/pubs/ft/weo/2016/02/weodata/weorept.aspx?pr.x=47&pr.y=13&sy=2015&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=316&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= Barbados], International Monetary Fund.</ref>
+| GDP_PPP_rank = 
+| GDP_PPP_year = 2016
+| GDP_PPP_per_capita = $16,669<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 73rd
+| GDP_nominal = $4.385 billion<ref name=imf2/>
+| GDP_nominal_year = 2016
+| GDP_nominal_per_capita = $15,677<ref name=imf2/>
+| sovereignty_type = [[Independence]]
+| established_event1 = From the [[United Kingdom]]
+| established_date1 = 30 November 1966
+| Gini_year = 
+| Gini_change = <!--increase/decrease/steady-->
+| Gini = <!--number only-->
+| Gini_ref = 
+| Gini_rank = 
+| HDI_year = 2017<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI = 0.800 <!--number only-->
+| HDI_ref = <ref name="HDI">{{cite web |url= http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf |title=2018 Human Development Report |year= 2018 |accessdate=14 September 2018 |publisher= United Nations Development Programme }}</ref>
+| HDI_rank = 58th
+| currency = [[Barbadian dollar]] ($)
+| currency_code = BBD
+| country_code = 
+| time_zone = [[Atlantic Time Zone|AST]]
+| utc_offset = −4
+| time_zone_DST = Not observed
+| utc_offset_DST = −4
+| drives_on = Left<ref name=fco>{{cite web|date=29 August 2006 |archiveurl= https://web.archive.org/web/20071015163750/http://www.fco.gov.uk/servlet/Front?pagename=OpenMarket%2FXcelerate%2FShowPage&c=Page&cid=1007029390590&a=KCountryAdvice&aid=1013618386991 |url= http://www.fco.gov.uk/servlet/Front?pagename=OpenMarket/Xcelerate/ShowPage&c=Page&cid=1007029390590&a=KCountryAdvice&aid=1013618386991 |archivedate=15 October 2007 |title= Barbados |deadurl=yes }} (fco.gov.uk), updated 5 June 2006.</ref>
+| calling_code = [[North American Numbering Plan|+1]] [[Area code 246|-246]]
+| cctld = [[.bb]]
+}}
+
+'''Barbados''' ({{IPAc-en|audio=En-us-Barbados.ogg|b|ɑːr|ˈ|b|eɪ|d|ɒ|s}} or {{IPAc-en|-|d|oʊ|s}}) is an [[island country]] in the [[Lesser Antilles]] of the West Indies, in the [[Caribbean]] region of [[North America]]. It is {{convert|34|km|mi|abbr=off}} in length and up to {{cvt|23|km|mi}} in width, covering an area of {{cvt|432|km2}}. It is situated in the western area of the North Atlantic and {{cvt|100|km}} east of the [[Windward Islands]] and the [[Caribbean Sea]];<ref>[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+cx0103) Chapter 4 – The Windward Islands and Barbados] – U.S. Library of Congress</ref> therein, Barbados is east of the Windwards, part of the Lesser Antilles, roughly at [[13th parallel north|13°N]] of the [[equator]]. It is about {{cvt|168|km}} east of both the countries of [[Saint Lucia]] and [[Saint Vincent and the Grenadines]] and {{cvt|400|km}} north-east of [[Trinidad and Tobago]]. Barbados is outside the principal Atlantic [[hurricane belt]]. Its capital and largest city is [[Bridgetown, Barbados|Bridgetown]].
+
+Inhabited by [[Island Caribs|Kalinago]] people since the 13th century, and prior to that by other [[Amerindian]]s, Barbados was visited by Spanish navigators in the late 15th century and claimed for the [[Monarchy of Spain|Spanish Crown]]. It first appeared in a Spanish map in 1511.<ref name="Spanish Main">{{cite book |last1=Sauer |first1=Carl Ortwin |title=Early Spanish Main, The|url=https://books.google.com/books?id=ayCi1EAaIWQC&pg=PA193|year=1969 |origyear=1966 |publisher=University of California Press |isbn=0-520-01415-4 |pages=192–197 }}</ref><ref>[http://www.menorahreview.org/article.aspx?id=104 The Jewish Experience in 17th century Barbados], By Ryan Hechler, The VCU Menorah Review at Virginia Commonwealth University</ref> The Portuguese visited the island in 1536, but they left it unclaimed, with their only remnants being an introduction of wild hogs for a good supply of meat whenever the island was visited. An English ship, the ''Olive Blossom'', arrived in Barbados in 1625; its men took possession of it in the name of [[James VI and I|King James I]]. In 1627, the first permanent settlers arrived from England, and it became an [[English overseas possessions|English]] and later [[British colonisation of the Americas#British Caribbean colonies|British colony]].<ref name="Commonwealth History">{{cite web|url=http://thecommonwealth.org/our-member-countries/barbados/history |title=Barbados – History |author=Secretariat |work=[[Commonwealth of Nations]] |deadurl=yes |archiveurl=https://web.archive.org/web/20140820080026/http://thecommonwealth.org/our-member-countries/barbados/history |archivedate=20 August 2014 |df=dmy }}</ref> As a wealthy sugar colony, it became an English centre of the [[African slave trade]] until that trade was outlawed in [[Slave Trade Act 1807|1807]], with final emancipation of slaves in Barbados occurring over a period of years from [[Slavery Abolition Act 1833|1833]].
+
+On 30 November 1966, Barbados became an independent state and [[Commonwealth realm]] with the British monarch (currently Queen [[Elizabeth II]]) as hereditary [[head of state]].<ref>{{cite web|url=http://www.royal.gov.uk/MonarchAndCommonwealth/TheQueenandBarbados/Historyandpresentgovernment.aspx |title=History and present government – Barbados |author=HRM Queen Elizabeth II |year=2010 |publisher=[[Monarchy of Barbados|The Royal Household]] |accessdate=10 May 2010 |archiveurl=https://web.archive.org/web/20100420043349/http://www.royal.gov.uk/MonarchAndCommonwealth/TheQueenandBarbados/Historyandpresentgovernment.aspx |archivedate=20 April 2010 |deadurl=no }}</ref> It has a population of {{UN_Population|Barbados}}{{UN_Population|ref}} people, predominantly of African descent. Despite being classified as an Atlantic island, Barbados is considered to be a part of the Caribbean, where it is ranked as a leading tourist destination. Forty percent of the tourists come from the UK, with the US and Canada making up the next large groups of visitors to the island.
+
+== Etymology ==<!--linked-->
+The name "Barbados" is from either the [[Portuguese language|Portuguese]] term ''Os&nbsp;Barbados'' or the [[Spanish language|Spanish]] equivalent, ''Los'' ''Barbados'', both meaning "the bearded ones". It is unclear whether "bearded" refers to the long, hanging roots of the bearded [[fig-tree]] (''[[Ficus citrifolia]]''), indigenous to the island, or to the allegedly bearded [[Island Caribs|Caribs]] who once inhabited the island, or, more fancifully, to a visual impression of a beard formed by the sea foam that sprays over the outlying reefs. In 1519, a map produced by the [[Genoa|Genoese]] mapmaker [[Visconte Maggiolo]] showed and named Barbados in its correct position. Furthermore, the island of [[Barbuda]] in the [[Leeward Islands|Leewards]] is very similar in name and was once named "''Las&nbsp;Barbudas''" by the Spanish.
+
+It is uncertain which European nation arrived first in Barbados. One lesser-known source points to earlier revealed works predating contemporary sources indicating it could have been the Spanish.<ref name="Spanish Main"/> Many if not most believe the [[History of Portugal (1415-1542)|Portuguese]], en route to [[Brazil]],<ref>{{cite web |url= http://www.barbados.org/history1.htm |title=AXSES Systems Caribbean Inc., The Barbados Tourism Encyclopaedia |publisher= Barbados.org |date=8 February 2007 |accessdate= 4 July 2010}}</ref><ref>{{cite web|url=http://www.britannica.com/EBchecked/topic/52655/Barbados/54603/History |title= ''Britannica Encyclopaedia'': History of Barbados |publisher=Britannica.com |accessdate= 4 July 2010}}</ref> were the first Europeans to come upon the island.
+
+The original name for Barbados in the [[Pre-Columbian era]] was ''Ichirouganaim'', according to accounts by descendants of the indigenous [[Arawakan languages|Arawakan]]-speaking tribes in other regional areas, with possible translations including "Red land with white teeth"<ref>{{Cite book |title=Barbados the Red Land with White Teeth: Home of the Amerindians|url=http://www.barbmuse.org.bb/ |accessdate=14 May 2010 |publisher=Barbados Museum & Historical Society| archiveurl= https://web.archive.org/web/20100505161730/http://www.barbmuse.org.bb/| archivedate= 5 May 2010 | deadurl= no |quote=A temporary exhibit which examined some of the preliminary excavations conducted at the dig site at Heywoods, St. Peter.}}</ref> or "Redstone island with teeth outside (reefs)"<ref>{{Cite book |title=Barbados – Geography / History |url=http://www.coucouandflyingfish.com/where.php |accessdate=14 May 2010 |year=2008 |publisher=Fun 'N' Sun Publishing Inc.}}</ref> or simply "Teeth".<ref>{{cite web |url= http://www.pantribalconfederacy.com/confederacy/News/pdf/guyana_consul_visit.pdf |archive-url=http://arquivo.pt/wayback/20160524005039/http%3A//www.pantribalconfederacy.com/confederacy/News/pdf/guyana_consul_visit.pdf |dead-url=yes |archive-date=24 May 2016 |title= Guyana Consul (Barbados) Visit to Former Amerindian Village Site in B'dos |first=Norman |last=Faria |date=17 June 2009 |work=Guyana Chronicle |publisher=Pan-Tribal Confederacy of Indigenous Tribal Nations |page=2 |accessdate=14 May 2010 |quote=Adjacent to the park, there is still a fresh water stream. This as a main reason the village was here. A hundred or so metres away is the sea and a further five hundred metres [{{cvt|500|m|yd |-1|disp=out}}] out across a lagoon was the outlying reef where the Atlantic swells broke on the coral in shallow waters. As an aside, the word "''Ichirouganaim''", said to be an Arawak word used by the Amerindians to describe Barbados, is thought to refer to the "teeth" imagery of the waves breaking on the reefs off most of southern and eastern coasts. }}</ref><ref>{{Cite book |last1=Drewett |first1=Peter |title=Prehistoric Barbados |publisher= Barbados Museum and Historical Society |year=1991 |isbn=1-873132-15-8}}</ref><ref>{{Cite book |last1=Drewett |first1= Peter |title= Prehistoric Settlements in the Caribbean: Fieldwork on Barbados, Tortola and the Cayman Islands |date= 2000 |publisher= Archetype Publications Ltd. |isbn=1-873132-22-0}}</ref>
+
+Colloquially, Barbadians refer to their home island as "Bim" or other nicknames associated with Barbados, including "Bimshire". The origin is uncertain, but several theories exist. The [[National Cultural Foundation]] of Barbados says that "Bim" was a word commonly used by [[slave]]s, and that it derives from the [[Igbo language|Igbo]] term ''bém'' from ''bé mụ́'' meaning 'my home, kindred, kind',<ref name="Carrington, Sean 2007 25">{{Cite book |author=Carrington, Sean |title=A~Z of Barbados Heritage |year=2007 |publisher= Macmillan Caribbean Publishers Limited |page= 25 |isbn=0-333-92068-6}}</ref> the Igbo phoneme /e/ in the Igbo orthography is very close to [ɪ].<ref name=Allsopp2003>{{cite book |title= Dictionary of Caribbean English Usage |first=Richard |last=Allsopp |author2=Allsopp, Jeannette |page=101 |publisher= University of the West Indies Press |year=2003 |isbn= 9766401454}}</ref> The name could have arisen due to the relatively large percentage of enslaved [[Igbo people]] from modern-day southeastern [[Nigeria]] arriving in Barbados in the 18th century.<ref name=EltisRichardson1997>{{cite book |title= Routes to Slavery: Direction, Ethnicity, and Mortality in the Transatlantic Slave Trade |first=David |last=Eltis |author2=Richardson, David |page=87 |publisher=Routledge |year=1997 |accessdate=24 November 2008 |url= https://books.google.com/books?id=kuXEzQZQmawC&pg=PA87 |isbn=978-0-7146-4820-0}}</ref><ref>{{cite book |title=Black Experience and the Empire |first=Philip D. |last=Morgan |author2=Hawkins, Sean |isbn=0-19-926029-X |publisher= Oxford University Press |year=2004 |page=82 |url= https://books.google.com/books?id=kG824iVy1BsC&pg=PA82}}</ref>
+
+The words 'Bim' and 'Bimshire' are recorded in the ''[[Oxford English Dictionary]]'' and ''[[Chambers Dictionary|Chambers Twentieth Century Dictionaries]]''. Another possible source for 'Bim' is reported to be in the ''Agricultural Reporter'' of 25 April 1868, where the Rev. N. Greenidge (father of one of the island's most famous scholars, [[Abel Hendy Jones Greenidge]]) suggested the listing of Bimshire as a county of England. Expressly named were "Wiltshire, Hampshire, Berkshire and Bimshire".<ref name="Carrington, Sean 2007 25"/> Lastly, in the ''Daily Argosy'' (of Demerara, i.e. Guyana) of 1652, there is a reference to Bim as a possible corruption of 'Byam', the name of a Royalist leader against the Parliamentarians. That source suggested the followers of Byam became known as 'Bims' and that this became a word for all Barbadians.<ref name="Carrington, Sean 2007 25"/>
+
+== History ==
+<!--Please keep this section as a summary and consider making additions to the main History of Barbados article-->
+{{Main|History of Barbados}}
+[[File:Flag of Barbados (1870–1966).svg|thumb|Reproduction of the [[Blue Ensign]] flag of the Colony of Barbados, used from 1870 to 1966.]]
+[[File:Bussa statue.png|thumb|upright|left|[[Bussa Emancipation Statue|Statue of Bussa]], Bridgetown. Bussa led the largest slave rebellion in Barbadian history.]]
+[[Amerindian]] settlement of Barbados dates to about the 4th to 7th centuries AD, by a group known as the [[Saladoid]]-Barrancoid.<ref>[[Hilary McD. Beckles|Beckles, Hilary]]. ''A History of Barbados: From Amerindian Settlement to Caribbean Single Market'' (Cambridge University Press, 2007 edition).</ref> The [[Arawaks]] from South America became dominant around 800 AD, and maintained that status until around 1200. In the 13th century, the [[Kalinago]] ([[Island Caribs]]) arrived from South America.
+
+The [[Spain|Spanish]] and [[Portuguese people|Portuguese]] briefly claimed Barbados from the late 16th to the 17th centuries. The Arawaks are believed to have fled to neighbouring islands. Apart from possibly displacing the Caribs, the Spanish and Portuguese made little impact and left the island uninhabited. Some Arawaks migrated from [[British Guiana]] (modern-day Guyana) in the 19th century and continue to live in Barbados.<ref>[https://archive.is/20120907012931/http://www.pantribalconfederacy.com/confederacy/history.php "Origin of the Eagle Clan"], Pan-Tribal Confederacy of Indigenous Tribal Nations.</ref><ref>[http://arquivo.pt/wayback/20160524011139/http%3A//www.pantribalconfederacy.com/confederacy/pdf/marion_desc.pdf Descendants of Princess Marian]. (PDF). Retrieved 19 February 2012.</ref>
+
+In the very early years (1620–1640s) the majority of the labour was provided by European indentured servants, mainly [[English people|English]], [[Irish people|Irish]] and [[Scottish people|Scottish]], with [[Atlantic slave trade|enslaved Africans]] and enslaved Amerindian providing little of the workforce. During the [[Interregnum (England)|Cromwellian era]] (1650s) this included a large number of prisoners-of-war, vagrants and people who were illicitly kidnapped, who were forcibly transported to the island and sold as servants. These last two groups were predominately Irish, as several thousand were infamously rounded up by English merchants and sold into servitude in Barbados and other Caribbean islands during this period.<ref>{{cite book|url=http://oxfordindex.oup.com/view/10.1093/acprof:oso/9780199562527.003.0014|title=Patrick J. Corish, The Cromwellian Regime, 1650–1660|first=Patrick J.|last=Corish|date=|work=oup.com|pages=353–386|doi=10.1093/acprof:oso/9780199562527.003.0014}}</ref> Cultivation of tobacco, cotton, [[ginger]] and [[indigo]] was thus handled primarily by European indentured labour until the start of the [[sugar cane]] industry in the 1640s and the growing reliance and importation of enslaved Africans. Persecuted persons of [[Spanish and Portuguese Jews|Jewish faith]] during the [[Spanish Inquisition|inquisition]] also settled to Barbados.<ref>{{cite news |last1=Portner |first1=Ze'ev |date=4 December 2015 |title=Barbados, a centuries-old Jewish haven for relaxation — and refuge |url=http://www.timesofisrael.com/barbados-a-centuries-old-jewish-haven-for-relaxation-and-refuge/ |newspaper=''[[The Times of Israel]]'' |at=21:19 |access-date=20 August 2016 |quote=Celebrating its independence this week, the Caribbean island has a storied Jewish history spanning from the Inquisition to the Holocaust}}</ref> From its English settlement and as Barbados's economy grew, Barbados maintained a relatively large measure of local autonomy first as a [[proprietary colony]] and later a [[crown colony]]. The [[Barbados House of Assembly|House of Assembly]] began meeting in 1639. Among the island's earliest leading figures was the Anglo-Dutch [[William Courten|Sir William Courten]].
+
+The [[Great Hurricane of 1780|1780 hurricane]] killed over 4,000 people on Barbados. In 1854, a [[cholera]] epidemic killed over 20,000 inhabitants.<ref>"[http://countrystudies.us/caribbean-islands/83.htm Barbados]". [[Library of Congress Country Studies]].</ref> At emancipation in 1833, the size of the slave population was approximately 83,000. Between 1946 and 1980, Barbados's rate of population growth was diminished by one-third because of emigration to Britain.<ref>"[http://countrystudies.us/caribbean-islands/85.htm Barbados – population]". [[Library of Congress Country Studies]].</ref>
+{{clear left}}
+
+=== 1627–1639 ===
+==== Early English settlement ====
+The settlement was established as a [[proprietary colony]] and funded by Sir [[William Courten]], a [[City of London]] merchant who acquired the title to Barbados and several other islands. So the first colonists were actually tenants and much of the profits of their labour returned to Courten and his company.<ref>[http://www.shipstamps.co.uk/forum/viewtopic.php?f=2&t=10931 William And John], 11 January 201, Shipstamps.co.uk</ref>
+
+The first English ship, which had arrived on 14 May 1625, was captained by John Powell. The first settlement began on 17 February 1627, near what is now [[Holetown]] (formerly Jamestown),<ref>Beckles p. 7.</ref> by a group led by John Powell's younger brother, Henry, consisting of 80 settlers and 10 English labourers. The latter were young [[indentured labour]]ers who according to some sources had been abducted, effectively making them slaves.<ref>{{Cite web|url=http://www.funbarbados.com/Sights/holetown.cfm|title=Holetown Barbados – Fun Barbados Sights|website=www.funbarbados.com|access-date=2017-09-12|archive-url=https://web.archive.org/web/20170912191845/http://www.funbarbados.com/Sights/holetown.cfm|archive-date=12 September 2017|dead-url=yes|df=dmy-all}}</ref>
+
+Courten's title was transferred to [[James Hay, 1st Earl of Carlisle]], in what was called the "Great Barbados Robbery." Carlisle then chose as governor [[Henry Hawley (governor)|Henry Hawley]], who established the [[Barbados House of Assembly|House of Assembly]] in 1639, in an effort to appease the planters, who might otherwise have opposed his controversial appointment.
+
+In the period 1640–60, the West Indies attracted over two-thirds of the total number of English emigrants to the Americas. By 1650 there were 44,000 settlers in the West Indies, as compared to 12,000 on the [[Chesapeake Bay|Chesapeake]] and 23,000 in [[New England]]. Most English arrivals were indentured. After five years of labour, they were given "freedom dues" of about ₤10, usually in goods. (Before the mid-1630s, they also received 5 to 10 acres of land, but after that time the island filled and there was no more free land.) Around the time of Cromwell a number of rebels and criminals were also transported there. Timothy Meads of Warwickshire was one of the rebels sent to Barbados at that time, before he received compensation for servitude of 1000 acres of land in North Carolina in 1666. Parish registers from the 1650s show, for the white population, four times as many deaths as marriages. The death rate was very high.
+
+Before this, the mainstay of the infant colony's economy was the growth export of tobacco, but tobacco prices eventually fell in the 1630s, as Chesapeake production expanded.
+
+=== 1640–1790 ===
+
+==== England's civil war ====
+{{Main|English Revolution in the Colonies|Restoration (Colonies)}}
+Around the same time, fighting during the [[War of the Three Kingdoms]] and the [[Interregnum (England)|Interregnum]] spilled over into Barbados and Barbadian territorial waters. The island was not [[English Revolution in the Colonies|involved in the war]] until after the execution of [[Charles I of England|Charles I]], when the island's government fell under the control of Royalists (ironically the Governor, Philip Bell, remaining loyal to [[Parliament of England|Parliament]] while the Barbadian [[House of Assembly]], under the influence of Humphrey Walrond, supported [[Charles II of England|Charles II]]). To try to bring the recalcitrant colony to heel, the [[Rump Parliament#Commonwealth of England|Commonwealth Parliament]] passed an act on 3 October 1650 prohibiting trade between England and Barbados, and because the island also traded with the [[Netherlands]], further [[navigation acts]] were passed prohibiting any but English vessels trading with [[Dutch colonies#Atlantic|Dutch colonies]]. These acts were a precursor to the [[First Anglo-Dutch War]]. The [[Commonwealth of England]] sent an invasion force under the command of [[George Ayscue|Sir George Ayscue]], which arrived in October 1651. After some skirmishing, the Royalists in the House of Assembly led by [[Francis Willoughby, 5th Baron Willoughby of Parham|Lord Willoughby]] surrendered. The conditions of the surrender were incorporated into the [[Charter of Barbados]] (Treaty of Oistins), which was signed at the Mermaid's Inn, [[Oistins]], on 17 January 1652.<ref>Karl Watson, [http://www.bbc.co.uk/history/british/civil_war_revolution/barbados_01.shtml The Civil War in Barbados], History in-depth, BBC, 5 November 2009.</ref>
+
+==== Sugar cane ====
+[[File:GEORGE WASHINGTON HOUSE - BARBADOS.jpg|thumb|right|[[George Washington House (Barbados)|George Washington House]] was visited by [[George Washington]] in 1751, in what is believed to have been his only trip outside the present day [[United States]].<ref name=boston>{{cite news|url=http://www.boston.com/travel/getaways/caribbean/articles/2008/02/17/new_take_on_george_slept_here/ |title=New Take on George Slept Here | work=The Boston Globe}}</ref>]]
+The introduction of [[sugar cane]] from [[Dutch Brazil]] in 1640 completely transformed society and the economy. Barbados eventually had one of the world's biggest sugar industries.<ref name=beyond>{{Cite book |authorlink=Arif Ali |author=Ali, Arif |title=Barbados: Just Beyond Your Imagination |pages=46, 48 |year=1997 |publisher=Hansib Publishing (Caribbean) Ltd |isbn=1-870518-54-3 }}</ref> One group instrumental in ensuring the early success of the industry were the [[Sephardi Jews|Sephardic Jews]], who had originally been expelled from the [[Iberian peninsula]], to end up in [[Dutch Brazil]].<ref name="beyond"/> As the effects of the new crop increased, so did the shift in the ethnic composition of Barbados and surrounding islands. The workable sugar plantation required a large investment and a great deal of heavy labour. At first, Dutch traders supplied the equipment, financing, and enslaved Africans, in addition to transporting most of the sugar to Europe. In 1644 the population of Barbados was estimated at 30,000, of which about 800 were of African descent, with the remainder mainly of English descent. These English smallholders were eventually bought out and the island filled up with large sugar plantations worked by enslaved Africans. By 1660 there was near parity with 27,000 blacks and 26,000 whites. By 1666 at least 12,000 white smallholders had been bought out, died, or left the island. Many of the remaining whites were increasingly poor. By 1680 there were 17 slaves for every indentured servant. By 1700, there were 15,000 free whites and 50,000 enslaved Africans.
+
+Due to the increased implementation of [[Barbados Slave Code|slave codes]], which created differential treatment between Africans and the white workers and ruling [[planter class]], the island became increasingly unattractive to [[redlegs|poor whites]]. Black or slave codes were implemented in 1661, 1676, 1682, and 1688. In response to these codes, several slave rebellions were attempted or planned during this time, but none succeeded. Nevertheless, poor whites who had or acquired the means to emigrate often did so. Planters expanded their importation of enslaved Africans to cultivate sugar cane. One early advocate of slave rights in Barbados was the visiting Quaker preacher [[Alice Curwen]] in 1677: "For I am perswaded, that if they whom thou call'st thy Slaves, be Upright-hearted to God, the Lord God Almighty will set them Free in a way that thou knowest not; for there is none set free but in Christ Jesus, for all other Freedom will prove but a Bondage."<ref>''A Relation...'' in: "Alice Curwen", ''Autobiographical Writings by Early Quaker Women'' (Aldershot, England: Ashgate, 2004), ed. David Booy.</ref>
+
+== Geography and climate ==
+{{Main|Geography of Barbados}}
+[[File:Barbados.png|{{largethumb}}|A map of Barbados]]
+
+Barbados is situated in the Atlantic Ocean, east of the other [[West Indies]] Islands. Barbados is the easternmost island in the [[Lesser Antilles]]. It is flat in comparison to its island neighbours to the west, the [[Windward Islands]]. The island rises gently to the central highland region, with the high point of the nation being [[Mount Hillaby]] in the geological Scotland District {{convert|340|m|ft|abbr=on}} above sea level.
+
+In the parish of [[Saint Michael, Barbados|Saint Michael]] lies Barbados's capital and main city, [[Bridgetown]]. Other major towns scattered across the island include [[Holetown]], in the parish of [[Saint James, Barbados|Saint James]]; [[Oistins]], in the parish of [[Christ Church, Barbados|Christ Church]]; and [[Speightstown]], in the parish of [[Saint Peter, Barbados|Saint Peter]].
+
+=== Geology ===
+Barbados lies on the boundary of the [[South American plate|South American]] and the [[Caribbean Plate]]s.<ref>{{cite news |title=Geologic History of Barbados Beaches |first=Gabi |last=Logan|url=http://traveltips.usatoday.com/geologic-history-barbados-beaches-57660.html |newspaper=[[USA Today]] |publisher= |accessdate=2 July 2011|quote=Barbados lies directly over the intersection of the Caribbean plate and the South American plate in a region known as a subduction zone. Beneath the ocean floor, the South American plate slowly slides below the Caribbean plate. }}</ref> The [[subduction]] of the South American plate beneath the Caribbean plate scrapes sediment from the South American plate and deposits it above the subduction zone forming an [[Accretionary wedge|accretionary prism]]. The rate of this depositing of material allows Barbados to rise at a rate of about {{convert|25|mm|in|abbr=on|0}} per 1,000 years.<ref>{{cite web |url=http://www.barbadosbeachhouse.com/barbados_sightseeing_animal_flower_cave.php |title=Barbados Sightseeing – Animal Flower Cave |year=2010 |work=Leigh Designs |publisher=Little Bay House|accessdate=10 July 2011 |quote=The Animal flower Cave is the island's lone accessible sea-cave and was discovered from the sea in 1780 by two English explorers. The cave's coral floor is estimated to be 400,000 to 500,000 years old and the "younger" coral section above the floor is about 126,000 years old. The dating was carried out by the German Geographical Institute, and visitors can see a "map" of the dating work in the bar and restaurant. The cave now stands some six feet above the high tide mark even though it was formed at sea level. This is because Barbados is rising about one inch per 1,000 years, which is yet another indication of the cave's age. }}</ref> This subduction means [[Geology|geologically]] the island is composed of [[coral]] roughly {{convert|90|m|ft|abbr=on}} thick, where reefs formed above the sediment. The land slopes in a series of "terraces" in the west and goes into an incline in the east. A large proportion of the island is circled by [[coral reefs]].
+
+The erosion of limestone in the northeast of the island, in the Scotland District, has resulted in the formation of various caves and [[Gully|gullies]]. On the [[Atlantic Ocean|Atlantic]] east coast of the island [[coastal landforms]], including stacks, have been created due to the limestone composition of the area. Also notable in the island is the rocky cape known as [[Pico Teneriffe (Barbados)|Pico Teneriffe]]<ref>{{cite web|url=http://www.barbadospocketguide.com/barbados-attractions/beaches-and-bays/north-coast-beaches/pico-teneriffe.html|title=Pico Teneriffe - Barbados Pocket Guide|first=|last=Gloria|website=www.barbadospocketguide.com}}</ref> or Pico de Tenerife, which is named after the fact that the island of [[Tenerife]] in [[Spain]] is the first land east of Barbados according to the belief of the locals.
+
+=== Climate ===
+[[File:Bathsheba, Barbados 02.jpg|thumb|[[Bathsheba, Saint Joseph, Barbados|Bathsheba, Saint Joseph]]]]
+The country generally experiences two seasons, one of which includes noticeably higher rainfall. Known as the "[[wet season]]", this period runs from June to November. By contrast, the "[[dry season]]" runs from December to May. Annual precipitation ranges between {{convert|40|and|90|in|mm|order=flip|abbr=on}}.
+From December to May the average temperatures range from {{convert|21|to|31|C|F}}, while between June and November, they range from {{convert|23|to|31|C|F}}.<ref name="weather1">{{cite web | url =http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT003280 | archiveurl =https://web.archive.org/web/20070220165443/http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT003280 | archivedate =20 February 2007 | title =Average and Record Conditions at Bridgetown, Barbados| accessdate =10 September 2009 | publisher =BBC Weather}}</ref>
+
+On the [[Köppen climate classification]] scale, much of Barbados is regarded as a [[tropical monsoon climate]] (Am). However, breezes of {{convert|12|to|16|km/h|abbr=on|0}} abound throughout the year and give Barbados a [[climate]] which is moderately tropical.
+
+Infrequent natural hazards include earthquakes, [[landslip]]s, and [[hurricanes]]. Barbados is often spared the worst effects of the region's [[tropical storm]]s and [[hurricanes]] during the rainy season. Its location in the south-east of the Caribbean region puts the country just outside the principal [[hurricane strike zone]]. On average, a major hurricane strikes about once every 26 years. The last significant hit from a hurricane to cause severe damage to Barbados was [[Hurricane Janet]] in 1955; in 2010 the island was struck by [[Hurricane Tomas]], but this caused only minor damage across the country.<ref>[https://www.bbc.co.uk/news/world-latin-america-11660080 "Hurricane Tomas lashes Caribbean islands"]. BBC News, 30 October 2010.</ref>
+
+=== Environmental issues ===
+[[File:BarbadosFromISS.jpg|thumb|Barbados, seen from the [[International Space Station]].]]
+Barbados is susceptible to environmental pressures. As one of the world's most [[List of island countries by population density|densely populated isles]], the government worked during the 1990s<ref>[http://www.cep.unep.org/pubs/Techreports/tr43en/Barbados.htm Domestic and Industrial Wastewater Treatment Techniques in Barbados]. Cep.unep.org. Retrieved 20 April 2014.</ref> to aggressively integrate the growing south coast of the island into the Bridgetown Sewage Treatment Plant to reduce contamination of offshore coral reefs.<ref>[https://archive.is/20120707103415/http://archive.wri.org/reefsatrisk/casestudy_text.cfm?ContentID=3332 Barbados], World Resources Institute</ref><ref>[http://www.barbadosadvocate.com/newsitem.asp?more=local&NewsID=4130 Perspectives: A continuing problem and persistent threat] {{webarchive|url=https://web.archive.org/web/20130724030532/http://www.barbadosadvocate.com/newsitem.asp?more=local&NewsID=4130 |date=24 July 2013 }}. Barbadosadvocate.com. Retrieved 20 April 2014.</ref> As of the first decade of the 21st century, a second treatment plant has been proposed along the island's west coast. Being so densely populated, Barbados has made great efforts to protect its underground [[aquifer]]s.<ref name="barbadosadvocate.com">[http://www.barbadosadvocate.com/newsitem.asp?more=local&NewsID=185 "PERSPECTIVES: Squatting – a continuing problem"] {{webarchive|url=https://web.archive.org/web/20130724030614/http://www.barbadosadvocate.com/newsitem.asp?more=local&NewsID=185 |date=24 July 2013 }}. Barbadosadvocate.com (24 March 2008). Retrieved 20 April 2014.</ref>
+
+As a coral-limestone island, Barbados is highly permeable to seepage of surface water into the earth. The government has placed great emphasis on protecting the catchment areas that lead directly into the huge network of underground aquifers and streams.<ref name="barbadosadvocate.com"/> On occasion illegal squatters have breached these areas, and the government has removed squatters to preserve the cleanliness of the underground springs which provide the island's drinking water.<ref>[http://www.nationnews.com/articles/view/squatters-get-thumbs-down-from-mp-forde/ "Squatters get thumbs down from MP Forde"]. Nationnews.com (30 June 2010). Retrieved 20 April 2014.</ref>
+
+The government has placed a huge emphasis on keeping Barbados clean with the aim of protecting the environment and preserving offshore coral reefs which surround the island. Many initiatives to mitigate human pressures on the coastal regions of Barbados and seas come from the Coastal Zone Management Unit (CZMU).<ref>{{cite web|url=http://www.coastal.gov.bb/|title=Welcome to Coastal Zone Management Unit – Coastal Zone Management Unit|publisher=}}</ref><ref>[http://www.barbadosadvocate.com/newsitem.asp?more=local&NewsID=22569 Barbados' CZMU in demand] {{webarchive|url=https://web.archive.org/web/20130724030519/http://www.barbadosadvocate.com/newsitem.asp?more=local&NewsID=22569 |date=24 July 2013 }}. Barbadosadvocate.com (4 February 2012). Retrieved 20 April 2014.</ref> Barbados has nearly {{convert|90|km|abbr=off}} of coral reefs just offshore and two protected marine parks have been established off the west coast.<ref>[http://www.cavehill.uwi.edu/cermes/folkestone.html Centre for Resource Management and Environmental Studies] {{webarchive|url=https://web.archive.org/web/20121128032823/http://www.cavehill.uwi.edu/cermes/folkestone.html |date=28 November 2012 }}, The University of the West Indies.</ref> Overfishing is another threat which faces Barbados.<ref>[http://www.fao.org/fishery/countrysector/FI-CP_BB/en Fishery and Aquaculture Country Profiles], UN-FAO Fisheries and Aquaculture Department</ref>
+
+Although on the opposite side of the Atlantic, and some {{convert|4,800|km|abbr=off}} west of Africa, Barbados is one of many places in the American continent that experience heightened levels of [[mineral dust]] from the [[Sahara Desert]].<ref>{{cite journal|author=Prospero, Joseph M. |url=http://www.tos.org/oceanography/archive/19-2_prospero.pdf |archive-url=https://web.archive.org/web/20151105151138/http://www.tos.org/oceanography/archive/19-2_prospero.pdf |dead-url=yes |archive-date=2015-11-05 |title=Saharan Dust Impacts and Climate Change|pages=60–61|journal=Oceanography|volume=19|issue=2|date= June 2006}}</ref> Some particularly intense dust episodes have been blamed partly for the impacts on the health of coral reefs<ref>[http://coastal.er.usgs.gov/african_dust/ The Effects of African Dust on Coral Reefs and Human Health]. Coastal.er.usgs.gov (15 April 2014). Retrieved 20 April 2014.</ref> surrounding Barbados or [[asthmatic]] episodes,<ref>[http://earthobservatory.nasa.gov/Features/Dust/ When the Dust Settles (DAAC Study)], NASA</ref> but evidence has not wholly supported the former such claim.<ref>[http://commprojects.jhsph.edu/globaltobacco/ProjectDetail.cfm?project_id=7780&country_code=BB The Impact of African Dust on Childhood Asthma Morbidity in Barbados] {{webarchive|url=https://web.archive.org/web/20130724092116/http://commprojects.jhsph.edu/globaltobacco/ProjectDetail.cfm?project_id=7780&country_code=BB |date=24 July 2013 }}. Commprojects.jhsph.edu. Retrieved April 2014.</ref>
+
+=== Wildlife ===
+Barbados is host to four species of nesting turtles ([[green turtles]], [[Loggerhead sea turtle|loggerheads]], [[hawksbill turtle]]s, and [[leatherbacks]]) and has the second-largest hawksbill turtle breeding population in the Caribbean.<ref>[https://www.thestar.com/travel/caribbean/article/1144716--caribbean-travel-swim-with-the-turtles-in-barbados Caribbean Travel: Swim with the turtles in Barbados]. Thestar.com (13 March 2012). Retrieved 20 April 2014.</ref> The driving of vehicles on beaches can crush nests buried in the sand and such activity should be avoided in nesting areas.<ref>[http://www.divebarbadosblue.com/snorkeling/turtles-shipwrecks/ Sea Turtles – Dive Operators Association of Barbados] {{webarchive|url=https://web.archive.org/web/20120319084119/http://www.divebarbadosblue.com/snorkeling/turtles-shipwrecks/|date=19 March 2012}}, Barbados Blue Inc.</ref>
+
+Barbados is also the host to the [[green monkey]]. The green monkey is found in West Africa from Senegal to the Volta River. It has been introduced to the Cape Verde islands off north-western Africa, and the West Indian islands of Saint Kitts, Nevis, Saint Martin, and Barbados. It was introduced to the West Indies in the late 17th century when slave trade ships travelled to the Caribbean from West Africa.
+
+== Demographics ==
+{{Main|Demographics of Barbados|Barbadian people}}
+[[File:Barbados bus stop.jpg|thumb|A bus stop in Barbados.]]
+[[File:Bridgetown 049.jpg|thumb|People shopping in the capital Bridgetown.]]
+
+The 2010 national census conducted by the Barbados Statistical Service reported a resident population of 277,821, of which 133,018 were male and 144,803 were female.<ref name=census>{{cite report |url=http://www.barstats.gov.bb/files/documents/PHC_2010_Census_Volume_1.pdf |title=2010 Population and Housing Census |volume=1 |page=i |publisher=Barbados Statistical Service |date=September 2013 |accessdate=17 November 2016}}</ref>
+
+The life expectancy for Barbados residents {{As of|2011|lc=y}} is 74 years. The average life expectancy is 72 years for males and 77 years for females (2005).<ref name="cia"/> Barbados and Japan have the highest per capita occurrences of [[centenarian]]s in the world.<ref>Best, Tony (9 April 2005){{cite web|url=http://www.nationnews.com/story/284159291378094.php |title=Bajan secrets to living long |accessdate=27 June 2006 |dead-url=yes |archiveurl=https://web.archive.org/web/20071211110656/http://www.nationnews.com/story/284159291378094.php |archivedate=11 December 2007 }} . nationnews.com.</ref>
+
+The crude birth rate is 12.23 births per 1,000 people, and the crude death rate is 8.39 deaths per 1,000 people. The infant mortality rate is 11.63 infant deaths per 1,000 live births.
+
+=== Ethnic groups ===
+Close to 90% of all Barbadians (also known colloquially as "Bajan") are of [[Afro-Caribbean]] descent ("[[Afro-Barbadian|Afro-Bajans]]") and mixed-descent. The remainder of the population includes groups of Europeans ("Anglo-Bajans" / "Euro-Bajans") mainly from the United Kingdom and Ireland, along with Asians, predominantly Chinese and Indians (both Hindu and Muslim).
+Other groups in Barbados include people from the United Kingdom, United States and Canada. Barbadians who return after years of residence in the United States and children born in America to Bajan parents are called "Bajan Yankees", a term considered derogatory by some.<ref>{{cite book|author1=Byfield, Judith Ann-Marie |author2=Denzer, LaRay |author3=Morrison, Anthea |title=Gendering the African diaspora: women, culture, and historical change in the Caribbean and Nigerian hinterland|url=https://books.google.com/books?id=C6_aWWN5aoUC&pg=PA39|year=2010|publisher=Indiana University Press|isbn=978-0-253-22153-7|pages=39–}}</ref> Generally, Bajans recognise and accept all "children of the island" as Bajans, and refer to each other as such.
+
+The biggest communities outside the Afro-Caribbean community are:
+
+# The [[Indo-Guyanese]], an important part of the economy due to the increase of immigrants from partner country [[Guyana]]. There are reports of a growing Indo-Bajan diaspora originating from Guyana and [[India]] starting around 1990. Predominantly from southern India and Hindu states, they are growing in size but smaller than the equivalent communities in Trinidad and Guyana.<ref>[http://www.bbc.co.uk/caribbean/news/story/2006/09/060906_guyaneseinbdos.shtml Are Guyanese welcome in Barbados?], 7 September 2006; British Broadcasting Corporation (Caribbean Bureau)</ref>
+# Euro-Bajans (4% of the population)<ref name="cia">[https://www.cia.gov/library/publications/the-world-factbook/geos/bb.html Barbados] CIA World Factbook</ref> have settled in Barbados since the 17th century, originating from England, Ireland and [[Scotland]]. In 1643, there were 37,200 whites in Barbados (86% of the population).<ref>Watson, Karl (17 February 2011) [http://www.bbc.co.uk/history/british/empire_seapower/barbados_01.shtml "Slavery and Economy in Barbados"], BBC.</ref> More commonly they are known as "[[White Barbadian|White Bajans]]". Euro-Bajans introduced folk music, such as [[Irish music]] and Highland music, and certain place names, such as "Scotland", a mountainous region. Among White Barbadians there exists an underclass known as [[Redlegs]]; mostly the descendants of [[Irish people|Irish]] indentured labourers and prisoners imported to the island.<ref>{{cite journal|author=Rodgers, Nini|title=The Irish in the Caribbean 1641–1837: An Overview|journal=Irish Migration Studies in Latin America|volume= 5|issue=3|date=November 2007|pages=145–156|url=http://www.irlandeses.org/0711rodgers2.htm}}</ref> Many additionally moved on to become the earliest settlers of modern-day [[Province of Carolina|North]] and [[Colonial period of South Carolina|South Carolina]] in the United States. Today the Redlegs only number around 400.<ref>{{cite news |date=19 December 2009 |url=http://www.irishtimes.com/newspaper/travel/2009/0117/1232059655355.html |title=Remnants of an indentured people| work=[[The Irish Times]] |quote="Today, behind the facade of a lush green, rural setting, the descendents of those transported still remain – a poor, white population of around 400 known as the Red Legs."}}</ref>
+# Chinese-Barbadians are a small portion of Barbados's Asian demographics. Most if not all first arrived in the 1940s during the [[Second World War]]. Many Chinese-Bajans have the surnames Chin, Chynn or Lee, although other surnames prevail in certain areas of the island. Chinese food and culture is becoming part of everyday Bajan culture.
+# Lebanese and Syrians form the island's [[Arab]] Barbadian community, which is overwhelmingly Christian Arab. The Muslim Arab minority among Arab Barbadian make up a small percentage of the overall minority Muslim Barbadian population. The majority of the Lebanese and Syrians arrived in Barbados through trade opportunities. Their numbers are falling due to emigration to other countries.
+# [[Jews]] arrived in Barbados just after the first settlers in 1627. Bridgetown is the home of [[Nidhe Israel Synagogue]], the oldest Jewish synagogue in the Americas, dating from 1654, though the current structure was erected in 1833 replacing one ruined by the hurricane of 1831. Tombstones in the neighbouring cemetery date from the 1630s. Now under the care of the Barbados National Trust, the site was deserted in 1929 but was saved and restored by the Jewish community beginning in 1986.
+# The Muslim Barbadians of Indian origin are largely of [[Gujarat]]i ancestry. Many small businesses in Barbados are run and operated by Muslim-Indian Bajans.<ref>{{cite book|author1=Amadou Mahtar M'Bow|author2=M. Ali Kettani|title=Islam and Muslims in the American Continent|url=https://books.google.com/books?id=_d_XAAAAMAAJ|year=2001|publisher=Center of Historical, Economical and Social Studies}}</ref><ref>{{cite book|author=Rhoda Reddock|title=Ethnic minorities in Caribbean society|url=https://books.google.com/books?id=RaIMAQAAMAAJ|year=1996|publisher=I.S.E.R., The University of the West Indies|isbn=978-976-618-024-9}}</ref>
+
+=== Languages ===
+English is the [[official language]] of Barbados, and is used for communications, administration, and public services all over the island. In its capacity as the official language of the country, the standard of English tends to conform to the vocabulary, pronunciations, spellings, and conventions akin to, but not exactly the same as, those of [[British English]].
+
+An [[English-based creole languages|English-based creole language]], referred to locally as ''[[Bajan Creole|Bajan]]'', is spoken by most Barbadians in everyday life, especially in informal settings. In its full-fledged form, Bajan sounds markedly different from the Standard English heard on the island. The degree of intelligibility between Bajan and general English, for the general English speaker, depends on the level of creolised vocabulary and idioms. A Bajan speaker may be completely unintelligible to an English speaker from another country.
+
+=== Religion ===
+{{Main|Religion in Barbados}}
+[[File:Historic Bridgetown and its Garrison-115165.jpg|thumb|left|[[Cathedral Church of Saint Michael and All Angels]], Bridgetown]]
+{{Pie chart
+|thumb = right
+|caption = Religion in Barbados (2000)<ref>[http://www.caricomstats.org/Files/Publications/NCR%20Reports/Barbados.pdf]</ref>
+</big>
+|label1 = Anglican
+|value1 = 28.28
+|color1 = purple
+|label2 = Pentecostal
+|value2 = 18.69
+|color2 = turquoise
+|label3 = No religion (atheism, agnosticism, etc)
+|value3 = 17.30
+|color3 = black
+|label4 = Other
+|value4 = 7.36
+|color4 = lightgrey
+|label5 = Seventh Day Adventist
+|value5 = 5.49
+|color5 = pink
+|label6 = Methodist
+|value6 = 5.07
+|color6 = salmon
+|label7 = Baptist
+|value7 = 4.79
+|color7 = DarkOrchid
+|label8 = Roman Catholic
+|value8 = 4.18
+|color8 = Dodgerblue
+|label9 = Not Stated
+|value9 = 3.28
+|color9 = grey
+|labe10 = Evangelical
+|value10 = 2.59
+|color10 = blue
+|label11 = Church of God
+|value11 = 1.99
+|color11 = #89CFF0
+|label12 = Jehovah's witnesses
+|value12 = 1.96
+|color12 = teal
+|label13 = Moravian
+|value13 = 1.34
+|color13 = lightgreen
+|label14 = Rastafarian
+|value14 = 1.14
+|color14 = red
+|label15 = Muslim
+|value15 = 0.66
+|color15 = green
+|label16 = Brethren
+|value16 = 0.64
+|color16 = violet
+|label17 = Salvation Army
+|value17 = 0.42
+|color17 = crimson
+|label18 = Hindu
+|value18 = 0.34
+|color18 = orange
+}}
+
+Most Barbadians of African and European descent are Christians (95%), the largest denomination being [[Anglican Communion|Anglican]] (40%). Other Christian denominations with significant followings in Barbados are the [[Catholic Church]] (administered by [[Roman Catholic Diocese of Bridgetown]]), [[Pentecostals]], [[Jehovah's Witness]]es, the [[Seventh-day Adventist Church]] and [[Spiritual Baptist]]s. The [[Church of England]] was the official state religion until its legal disestablishment by the Parliament of Barbados following independence.<ref>{{cite web|author=Singh, Rajkumar |url=http://www.caricomlaw.org/doc.php?id=179Barbados |title=Parliament: Act of Parliament concerning the Anglican church |publisher=Caricomlaw.org |date=20 January 2006 |accessdate=4 July 2010 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+Other religions in Barbados include [[Hinduism]], [[Islam in Barbados|Islam]], [[Bahá'í Faith|Bahá'í]],<ref>{{cite web|url=http://www.bahai.org/dir/bahaullah|title=Baha'u'llah|publisher=Bci.org |accessdate=4 July 2010}}</ref> [[History of the Jews in Barbados|Judaism]] and [[Wicca]].
+
+== Government and politics ==
+[[File:Bridgetown barbados parliament building.jpg|thumb|The [[Parliament Buildings (Barbados)|Barbados parliament building]] in Bridgetown.]]
+{{Main|Government of Barbados|Politics of Barbados}}
+Barbados has been an independent country since 30 November 1966.<ref>{{cite book|title=Fransman's British Nationality Law|first=Laurie|last=Fransman|p=848|publisher=A&C Black|year=2011|isbn=978-1-84592-095-1}}</ref> It functions as a [[constitutional monarchy]] and [[parliamentary democracy]] modelled on the British [[Westminster system]]. The [[Monarchy of Barbados|British and Barbadian monarch]]—Queen [[Elizabeth II]]—is [[head of state]] and is represented locally by the [[Governor-General of Barbados]]—presently [[Sandra Mason]]. Both are advised on matters of the Barbadian state by the [[Prime Minister of Barbados]], who is [[head of government]]. There are 30 representatives within the [[Barbados House of Assembly|House of Assembly]].
+
+The [[Constitution of Barbados]] is the supreme law of the nation.<ref>[http://pdba.georgetown.edu/Constitutions/Barbados/barbados66.html The official Constitution of Barbados] (1966) version.</ref> The Attorney General heads [[Judiciary of Barbados|the independent judiciary]]. New Acts are passed by the Barbadian Parliament and require [[royal assent]] by the governor-general to become law.
+
+During the 1990s at the suggestion of [[Trinidad and Tobago]]'s [[Patrick Manning]], Barbados attempted a [[political union]] with Trinidad and Tobago and [[Guyana]]. The project stalled after the then prime minister of Barbados, [[Lloyd Erskine Sandiford]], became ill and his [[Democratic Labour Party (Barbados)|Democratic Labour Party]] lost the next general election.<ref>{{cite web |url=http://jamaicaobserver.com/columns/html/20030720T080000-0500_46578_OBS_CHASING_AFTER_AN_ELUSIVE_UNION.asp |title=Chasing after an elusive union |accessdate=14 December 2010 |dead-url=yes |archiveurl=https://web.archive.org/web/20090624141705/http://jamaicaobserver.com/columns/html/20030720T080000-0500_46578_OBS_CHASING_AFTER_AN_ELUSIVE_UNION.asp |archivedate=24 June 2009 }}. ''Jamaica Observer'', 20 July 2003.</ref><ref>[https://groups.yahoo.com/group/derumshoplime/message/18746 Former PM: Caribbean doing/un-doing everything again and again]. NationNews.com. 14 July 2003</ref> Barbados continues to share close ties with Trinidad and Tobago and with Guyana, claiming the highest number of Guyanese immigrants after the United States, Canada and the United Kingdom.
+
+=== Political culture ===
+Barbados functions as a [[two-party system]]. The dominant political parties are the [[Democratic Labour Party (Barbados)|Democratic Labour Party]] and the incumbent [[Barbados Labour Party]]. Since Independence on 30 November 1966, the Democratic Labour Party (DLP) has governed from 1966 to 1976; 1986 to 1994; and from 2008 to 2018; and the Barbados Labour Party (BLP) has also governed from 1976 to 1986; 1994 to 2008; and from 2018 to present. The Democratic Labour Party government (DLP) held office with the then incomparable 1st Premier of Barbados became Prime Minister of Barbados, Errol Barrow from 4 December 1961 to 3 November 1966; 3 November 1966 to 9 September 1971; and from 9 September 1971 to 2 September 1976; and again from 28 May 1986 until his sudden death in office on 1 June 1987 for the then 4th Prime Minister of Barbados, Sir. Lloyd Sandiford with the Democratic Labour Party government (DLP) from 1 June 1987 to 20 January 1991; and from 20 January 1991 to 6 September 1994; the Barbados Labour Party government (BLP) held office with the then incomparable Prime Minister of Barbados, Tom Adams from 2 September 1976 to 18 June 1981; and from 18 June 1981 until his sudden death in office on 11 March 1985 for the then incomparable 3rd Prime Minister of Barbados, Sir. Harold St. John with the Barbados Labour Party government (BLP) from 11 March 1985 to 28 May 1986; the Barbados Labour Party government (BLP) held power from 6 September 1994 to 20 January 1999; 20 January 1999 to 21 May 2003; and from 21 May 2003 to 15 January 2008; the Democratic Labour Party government (DLP) held power with the then incomparable 6th Prime Minister of Barbados, David Thompson from 15 January 2008 until his death in office on 23 October 2010 for the then 7th Prime Minister of Barbados, Freundel Stuart with the Democratic Labour Party government (DLP) from 23 October 2010 to 21 February 2013; and from 21 February 2013 to 24 May 2018 for the general elections for the new Barbados Labour Party government (BLP). All of Barbados's Prime Ministers, except Freundel Stuart, held under the Ministry of Finance's portfolio. The Barbados Labour Party government (BLP) held power with the now 8th Prime Minister of Barbados, Mia Mottley from 24 May 2018 to present.
+
+=== Foreign relations ===
+{{Main|Foreign relations of Barbados}}
+
+Barbados is a full and participating member of the [[Caribbean Community]] (CARICOM), [[CARICOM Single Market and Economy]] (CSME), and the [[Association of Caribbean States]] (ACS).<ref>[https://web.archive.org/web/20060228195122/http://www.barbadosbusiness.gov.bb/miib/Barbados/regional_links.cfm BarbadosBusiness.gov.bb], The Barbados government's Regional and International affiliations</ref> [[Organization of American States]] (OAS), [[Commonwealth of Nations]], and the [[Caribbean Court of Justice]] (CCJ). In 2005 the Parliament of Barbados voted on a measure replacing the UK's [[Judicial Committee of the Privy Council]] with the Caribbean Court of Justice based in [[Port of Spain]], Trinidad and Tobago.
+
+==== World Trade Organization, European Commission, CARIFORUM ====
+Barbados is an original member (1995) of the [[World Trade Organization]] (WTO) and participates actively in its work. It grants at least MFN treatment to all its trading partners. [[European Union]] relations and cooperation with Barbados are carried out both on a bilateral and a regional basis. Barbados is party to the [[Cotonou Agreement]], through which {{as of|2007|December}} it is linked by an [[Economic Partnership Agreement]] with the [[European Commission]]. The pact involves the Caribbean Forum (CARIFORUM) subgroup of the [[African, Caribbean and Pacific Group of States]] (ACP). CARIFORUM is the only part of the wider ACP-bloc that has concluded the full regional trade-pact with the [[European Union]]. There are also ongoing EU-[[Community of Latin American and Caribbean States]] (CELAC) and EU-[[CARIFORUM]] dialogues.<ref>{{cite web|url=http://eeas.europa.eu/barbados/ |title=European Union – EEAS (European External Action Service) &#124; EU Relations with Barbados |publisher=Europa (web portal) |date=19 June 2014 |accessdate=10 November 2018}}</ref>
+
+Trade policy has also sought to protect a small number of domestic activities, mostly food production, from foreign competition, while recognising that most domestic needs are best met by imports.
+
+==== The Double Taxation Relief (CARICOM) Treaty 1994 ====
+On 6 July 1994, at the Sherbourne Conference Centre, St. Michael, Barbados, representatives of eight (8) countries signed the Double Taxation Relief (CARICOM) Treaties 1994. The countries which were represented were: Antigua and Barbuda, Belize, Grenada, Jamaica, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines and Trinidad and Tobago.<ref>{{cite web |last1=REPUBLIC OF TRINIDAD AND TOBAGO |title=Legal Supplement |url=http://www.ird.gov.tt/Media/Default/IRDTreaties/DTT-Caricom--1994.pdf |website=www.ird.gov.tt}}</ref>
+
+On 19 August 1994 a representative of the Government of Guyana signed a similar treaty.
+
+==== European Nations ====
+In 2013, CARICOM called for European nations to pay [[reparations for slavery]] and established an official reparations commission.<ref>{{cite news|url=https://www.economist.com/news/americas/21587236-pressure-grows-compensation-caribbean-trade-blood-money |title=Slavery reparations: Blood money |work=[[The Economist]] |date=5 October 2013}}</ref>
+
+=== Military ===
+The [[Barbados Defence Force]] has roughly 600 members. Within it, 12- to 18-year-olds make up the Barbados Cadet Corps. The defence preparations of the island nation are closely tied to defence treaties with the United Kingdom, the United States, and the People's Republic of China.<ref>{{cite news|title=Barbados turns to China for military assistance|url=http://www.caribbean360.com/index.php/news/10902.html |publisher=Caribbean360.com |date=7 August 2006 |deadurl=yes |archiveurl=https://web.archive.org/web/20130917012432/http://www.caribbean360.com/index.php/news/10902.html |archivedate=17 September 2013}}</ref>
+
+The [[Royal Barbados Police Force]] is the sole law enforcement agency on the island of Barbados.
+
+=== Administrative divisions ===
+{{Main|Parishes of Barbados}}
+Barbados is [[Administrative division|divided]] into 11 parishes:
+{| style="background:none;"
+|
+# [[Christ Church, Barbados|Christ Church]]
+# [[Saint Andrew, Barbados|Saint Andrew]]
+# [[Saint George, Barbados|Saint George]]
+# [[Saint James, Barbados|Saint James]]
+# [[Saint John, Barbados|Saint John]]
+# [[Saint Joseph, Barbados|Saint Joseph]]
+# [[Saint Lucy, Barbados|Saint Lucy]]
+# [[Saint Michael, Barbados|Saint Michael]]
+# [[Saint Peter, Barbados|Saint Peter]]
+# [[Saint Philip, Barbados|Saint Philip]]
+# [[Saint Thomas, Barbados|Saint Thomas]]
+| style="width:400px;"|
+{{Map of Barbados}}
+|}
+
+St. George and St. Thomas are in the middle of the country and are the only parishes without coastlines.
+
+=== Human rights ===
+{{See also|LGBT rights in Barbados}}
+[[LGBT rights by country or territory|Buggery]], the [[Buggery|colonial era law]] remains illegal in Barbados and bears a maximum sentence of life in prison; however, the law is very rarely enforced.<ref>{{cite web|title=State Sponsored Homophobia 2016: A world survey of sexual orientation laws: criminalisation, protection and recognition|url=http://ilga.org/downloads/02_ILGA_State_Sponsored_Homophobia_2016_ENG_WEB_150516.pdf|work=[[International Lesbian, Gay, Bisexual, Trans and Intersex Association]]|date=17 May 2016}}</ref>
+
+== Economy ==
+{{Main|Economy of Barbados}}
+[[File:Sandy Lane.jpg|thumb|upright=1.2|right|[[Sandy Lane (resort)|Sandy Lane]] is a leading resort in Barbados's tourism sector]]
+[[File:Tree map export 2009 Barbados.jpeg|{{largethumb}}|A proportional representation of national exports.]]
+Barbados is the 53rd [[List of countries by GDP (nominal) per capita|richest country in the world]] in terms of GDP (Gross Domestic Product) per capita,<ref name=imf2/> has a well-developed [[mixed economy]], and a moderately high [[standard of living]]. According to the World Bank, Barbados is classified as being in its 66 top [[High income economy|high income economies]] of the world.<ref>[http://data.worldbank.org/about/country-classifications/country-and-lending-groups#High_income World Bank – Country Groups]. Retrieved 5 October 2009.</ref> {{Failed verification|date=August 2018}}
+
+A 2012 self-study in conjunction with the [[Caribbean Development Bank]] revealed 20% of Barbadians live in poverty, and nearly 10% cannot meet their basic daily food needs.<ref>{{cite web|url=http://www.cbc.bb/index.php?option=com_content&view=article&id=4204:20-percent-in-poverty&catid=36:local-news&Itemid=59 |title=20 percent in poverty |date=20 April 2012 |work=Caribbean Broadcasting Corporation |publisher= |accessdate=22 April 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120423020856/http://cbc.bb/index.php?option=com_content&view=article&id=4204%3A20-percent-in-poverty&catid=36%3Alocal-news&Itemid=59 |archivedate=23 April 2012 |df=dmy }}</ref>
+
+Historically, the economy of Barbados had been dependent on [[sugarcane]] cultivation and related activities, but since the late 1970s and early 1980s it has diversified into the manufacturing and tourism sectors. Offshore finance and information services have become important foreign exchange earners, and there is a healthy light manufacturing sector. Since the 1990s the Barbados Government has been seen as business-friendly and economically sound.<ref>{{Cite book|url=https://books.google.com/books?id=2ieuD5KTo-IC&pg=PA50|title=Island States: Small Island States Handbook: Development Strategy and Programs|last=Publications|first=USA International Business|date=2007-09-04|publisher=Int'l Business Publications|isbn=9780739744871|language=en}}</ref> {{Citation needed|date=May 2010}} The island saw a construction boom, with the development and redevelopment of hotels, office complexes, and homes. This slowed during the 2008 to 2011 world economic crisis and the recession.<ref>{{Cite news | url=https://www.bbc.co.uk/news/world-latin-america-18723928|title=BBC News – Barbados profile – Overview |accessdate=6 April 2014 |date=22 December 2013|work=British Broadcasting Corporation}}</ref>
+
+[[Harrison's Cave]] and Welchman Hall Gully have been developed as tourist attractions.
+
+Recent government administrations have continued efforts to reduce unemployment, encourage [[foreign direct investment]], and privatise remaining state-owned enterprises. Unemployment was reduced to 10.7% in 2003.<ref name="cia"/> However, it has since increased to 11.9% in second quarter, 2015.<ref>{{cite web |url=http://www.barstats.gov.bb/ |work = Barbados Statistical Service |title=Latest Socio-Economic Indicators |accessdate=8 November 2015}}</ref>
+
+There was a strong economy between 1999 and 2000 when it contracted in 2001 and 2002 due to slowdowns in tourism, consumer spending and the impact of the [[September 11, 2001 and July 7, 2005 terrorist attacks in New York, USA and London, England, UK, respectively]], but rebounded in 2003 and has shown growth since 2004.<ref name="cia"/> Traditional trading partners include Canada, the [[Caribbean Community]] (especially [[Trinidad and Tobago]]), the United Kingdom and the United States.
+
+Business links and investment flows have become substantial: {{as of|2003|lc=y}} the island saw from Canada [[Canadian dollar|CA$]] 25&nbsp;billion in investment holdings, placing it as one of Canada's top five destinations for Canadian foreign direct investment (FDI). Businessman [[Eugene Melnyk]] of Toronto, Canada, is said to be one of Barbados's richest permanent residents.<ref>{{Cite news | url=http://www.nationnews.com/articles/view/melnyk-one-of-the-wealthiest/|title=Melnyk – one of the wealthiest |accessdate=6 April 2014 |date=29 October 2011|work=NationNews.com}}</ref>
+
+It has been reported that the year 2006 was one of the busiest years for building construction ever in Barbados, as the building-boom on the island entered the final stages for several multimillion-dollar commercial projects.<ref>{{Cite news | url=http://www.nationnews.com/story/285076846570648.php |title=Builders paradise |accessdate=29 July 2009 |first=Roy |last=Morris |date=2 January 2006 |work=The Nation Newspaper |archiveurl=https://web.archive.org/web/20060104024455/http://www.nationnews.com/story/285076846570648.php |archivedate=4 January 2006 |quote=Industry sources are warning, however, that while the boom will bring many jobs and much income, ordinary Barbadians hoping to undertake home construction or improvement will be hard pressed to find materials or labour, given the large number of massive commercial projects with which they will have to compete.&nbsp;... Construction magnate Sir Charles 'COW' Williams, agreeing that this year will be "without doubt" the biggest ever for the island as far as construction was concerned, revealed that his organisation was in the final stages of the construction of a new $6&nbsp;million plant at Lears, St Michael to double its capacity to produce concrete blocks, as well as a new $2&nbsp;million plant to supply ready-mixed concrete from its fleet of trucks. "The important thing to keep in mind is that the country will benefit tremendously from a massive injection of foreign exchange from people who want to own homes here," Sir Charles said. }}</ref>
+
+The European Union is assisting Barbados with a €10&nbsp;million program of modernisation of the country's International Business and Financial Services Sector.<ref>{{Cite news|url=http://www.gisbarbados.gov.bb/index.php?categoryid=13&p2_articleid=2151 |title=Barbados signs agreement with EU |accessdate=29 July 2009 |first=Cathy |last=Lashley |date=24 July 2009 |work=gisbarbados.gov.bb |deadurl=yes |archiveurl=https://web.archive.org/web/20130724051506/http://www.gisbarbados.gov.bb/index.php?categoryid=13&p2_articleid=2151 |archivedate=24 July 2013 }}</ref>
+
+Barbados maintains the third largest [[Barbados Stock Exchange|stock exchange]] in the Caribbean region. {{As of|2009}}, officials at the stock exchange were investigating the possibility of augmenting the local exchange with an International Securities Market (ISM) venture.<ref>{{Cite news|url=http://www.barbadosadvocate.com/newsitem.asp?more=business&NewsID=5140 |title=Treaty network an advantage in securities trading |accessdate=28 July 2009 |date=28 July 2009 |work=[[Barbados Advocate]] |deadurl=yes |archiveurl=https://web.archive.org/web/20060211110821/http://www.barbadosadvocate.com/NewViewNewsleft.cfm?Record=24352 |archivedate=11 February 2006 |df=dmy }}</ref>
+
+Barbados' outstanding debt climbed to $7.5 billion in May 2018 that is more than 1.7 times higher the [[GDP]] of the country. In June 2018 the government refused to pay coupon on [[Eurobond]]s maturing in 2035. Outstanding bond debt of Barbados reached $4.4 billion.<ref>{{Cite web|url=http://cbonds.com/news/item/1014317|title=Barbados announced a technical default on coupon of Eurobonds with maturity in 2035|website=www.cbonds.com|access-date=2018-06-10}}</ref>
+
+== Health ==
+
+See [[Health in Barbados]]
+
+== Education ==
+{{Main|Education in Barbados}}
+[[File:Christ Church, Barbados 014.jpg|thumb|Schoolchildren in [[Saint Philip, Barbados]].]]
+
+The Barbados [[List of countries by literacy rate|literacy rate]] is ranked close to 100%.<ref name="unesco">{{cite web| url=http://stats.uis.unesco.org/unesco/tableviewer/document.aspx?ReportId=143| title=Unesco Institute for Statistics: Date Centre| date=14 September 2007| accessdate=28 February 2011| archiveurl= https://web.archive.org/web/20110130085835/http://stats.uis.unesco.org/unesco/tableviewer/document.aspx?ReportId=143| archivedate= 30 January 2011 | deadurl= no}}</ref> The mainstream public education system of Barbados is fashioned after the British model. The government of Barbados spends 6.7% of its GDP on education (2008).<ref name="cia"/>
+
+All young people in the country must attend school until age 16. Barbados has over 70 primary schools and over 20 secondary schools throughout the island. There is a number of private schools, including [[Montessori education|Montessori]] and the [[International Baccalaureate]]. Student enrolment at these schools represents less than 5% of the total enrolment of the public schools.
+
+Certificate-, diploma- and degree-level education in the country is provided by the [[Barbados Community College]], the [[Samuel Jackman Prescod Institute of Technology]], [[Codrington College]], and the [[University of the West Indies, Cave Hill Campus|Cave Hill campus]] and Open Campus of the [[University of the West Indies]]. Barbados is also home to several overseas medical schools, such as [[Ross University School of Medicine]] and the [[American University of Integrative Sciences|American University of Integrative Sciences, School of Medicine]].
+
+=== Educational testing ===
+Barbados Secondary School Entrance Examination: Children who are 11 years old but under 12 years old on 1 September in the year of the examination are required to write the examination as a means of allocation to secondary school.
+
+Caribbean Secondary Education Certificate (CSEC) examinations are usually taken by students after five years of secondary school and mark the end of standard secondary education. The CSEC examinations are equivalent to the Ordinary Level (O-Levels) examinations and are targeted toward students 16 and older.
+
+Caribbean Advanced Proficiency Examinations (CAPE) are taken by students who have completed their secondary education and wish to continue their studies. Students who sit for the CAPE usually possess CSEC or an equivalent certification. The CAPE is equivalent to the British Advanced Levels (A-Levels), voluntary qualifications that are intended for university entrance.<ref>{{cite web|url=http://businessbarbados.com/investor-guide/relocating-to-barbados/education/|title=The Education System in Barbados – Business Barbados|work=Business Barbados}}</ref>
+
+== Culture ==
+{{Main|Culture of Barbados}}
+The '''culture of Barbados''' is a blend of West African, Creole, Indian and British cultures present in Barbados. Citizens are officially called Barbadians. The term "Bajan" (pronounced BAY-jun) may have come from a localised pronunciation of the word Barbadian, which at times can sound more like "Bar-bajan"; or, more likely, from English ''[[bay]]'' ("bayling"), Portuguese ''[[wikt:baiano|baiano]]''.
+
+The largest [[carnival]]-like cultural event that takes place on the island is the [[Crop Over]] festival, which was established in 1974. As in many other Caribbean and Latin American countries, Crop Over is an important event for many people on the island, as well as the thousands of tourists that flock to there to participate in the annual events. The festival includes musical competitions and other traditional activities, and features the majority of the island's homegrown [[calypso music|calypso]] and [[soca music]] for the year. The male and female Barbadians who harvested the most sugarcane are crowned as the King and Queen of the crop.<ref>{{cite web |url=http://www.2camels.com/crop-over-festival.php |title=Crop Over Festival |publisher=2camels.com |accessdate=30 July 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20100305104727/http://www.2camels.com/crop-over-festival.php |archivedate=5 March 2010 |df=dmy-all }}</ref> Crop Over gets under way at the beginning of July and ends with the costumed parade on Kadooment Day, held on the first Monday of August. New calypso/soca music Is usually released and played more frequently from the beginning of may to start the feeling of the festival.
+
+=== Cuisine ===
+{{Main|Barbadian cuisine}}
+[[File:Mount Gay Rum Visitors Centre, Spring Garden HWY, Barbados-002.jpg|thumb|[[Mount Gay Rum]] visitors centre]]
+Bajan cuisine is a mixture of [[Cuisine of Africa|African]], [[Indian cuisine|Indian]], [[Ireland|Irish]], [[Creole peoples|Creole]] and [[British cuisine|British]] influences. A typical meal consists of a main dish of meat or fish, normally marinated with a mixture of herbs and spices, hot side dishes, and one or more salads. The meal is usually served with one or more sauces.<ref name=Totally>[http://www.totallybarbados.com/barbados/About_Barbados/Local_Information/Barbados_Food/ Barbados Food]. ''Totally Barbados''. Retrieved 25 January 2011.</ref> The [[national dish]] of Barbados is [[Cou-Cou]] & [[Flying Fish]] with spicy gravy.<ref>[http://www.epicureantourist.com/E.T.%20Blog/B86F2DEA-8D9A-4B1D-B27B-11156E58400D.html Barbados National Dish: Coucou & Flying Fish] {{webarchive|url=https://web.archive.org/web/20110616113813/http://www.epicureantourist.com/E.T.%20Blog/B86F2DEA-8D9A-4B1D-B27B-11156E58400D.html |date=16 June 2011 }}. Epicurian Tourist. 25 December 2007. Retrieved 21 January 2011.</ref> Another traditional meal is "Pudding and Souse" a dish of pickled [[pork]] with spiced sweet potatoes.<ref>[http://www.barbados.org/barbados-recipes-pudding-souse.htm].www.barbados.org. Retrieved 28 May 2015.</ref> A wide variety of seafood and meats are also available.
+
+The [[Mount Gay Rum]] visitors centre in Barbados claims to be the world's oldest remaining rum company, with earliest confirmed deed from 1703. [[Cockspur Rum]] and [[Malibu (rum)|Malibu]] are also from the island. Barbados is home to the [[Banks Barbados Brewery]], which brews Banks Beer, a [[pale lager]], as well as Banks [[Amber Ale]].<ref>[http://www.banksbeer.com/thebeer.html Banks Beer: The Beer] {{webarchive|url=https://web.archive.org/web/20110707211137/http://www.banksbeer.com/thebeer.html |date=7 July 2011 }}. BanksBeer.com. Retrieved 2011-3-9.</ref> Banks also brews Tiger Malt, a non-alcoholic [[malta|malted beverage]]. 10 Saints beer is brewed in [[Speightstown]], St. Peter in Barbados and aged for 90 days in Mount Gay 'Special Reserve' Rum casks. It was first brewed in 2009 and is available in certain Caricom nations.<ref>[http://www.10saints.com/ 10 Saints beer]. BanksBeer.com. Retrieved 2011-3-9.</ref>
+
+=== Music ===
+{{Further|Music of Barbados}}
+[[File:Rihanna-brisbane.jpg|thumb|International [[Celebrity|pop star]] [[Rihanna]], a native of Barbados.]]
+In music, [[Grammy awards|nine-time Grammy Award winner]] [[Rihanna]] (born in Saint Michael) is one of Barbados's best-known artists and one of the [[best selling music artists]] of all time, selling over 200 million records worldwide. In 2009 she was appointed as an Honorary Ambassador of Youth and Culture for Barbados by the late Prime Minister, [[David Thompson (Barbadian politician)|David Thompson]].<ref>Kamugisha, Aaron (2015) ''Rihanna : Barbados world-gurl in global popular culture''. University of the West Indies Press. {{ISBN|9766405026}}</ref>
+
+Singer-songwriters [[Rayvon]] and [[Shontelle]], the band [[Cover Drive]], musician [[Rupee (musician)|Rupee]] and [[Mark Morrison]], singer of Top 10 hit "[[Return of the Mack]]" also originate from Barbados. [[Grandmaster Flash]] (born Joseph Saddler in Bridgetown in 1958) is a hugely influential musician of Barbadian origin, pioneering [[hip-hop]] DJing, cutting, and [[DJ mix|mixing]] in 1970s New York. [[The Merrymen]] are a well known Calypso band based in Barbados, performing from the 1960s into the 2010s.
+
+=== Public holidays ===
+{{Further|Public holidays in Barbados}}
+
+{| class="wikitable"
+|-
+! style="background:#efefef;" | Date
+! style="background:#efefef;" | English name
+! style="background:#efefef;" | Remarks
+|-
+| 1 January
+| [[New Year's Day]]
+|
+|-
+| 21 January
+| [[Errol Barrow Day]]
+| A day of recognition for [[Errol Barrow]] the Father of the Nation since 21 January 1989.
+|-
+| March or April
+| [[Good Friday]]
+| Friday, date varies
+|-
+| March or April
+| [[Easter Monday]]
+| Monday, date varies
+|-
+| 28 April
+| [[National Heroes' Day]]
+| A day of recognition for Barbados's national heroes since 28 April 1998.
+|-
+| 1–7 May
+| [[Labour Day]]
+| 1st Monday in May, date varies
+|-
+| May or June
+| [[Whit Monday]]
+| Monday, date varies
+|-
+| 1 August
+| [[Emancipation Day]]
+| The date on which slavery was abolished on the island since 1 August 1997.
+|-
+| 1–7 August
+| Kadooment Day
+| 1st Monday in August, date varies
+|-
+| {{nowrap|30 November}}
+| [[Independence Day]]
+| The anniversary of [[Barbados Independence Act 1966|Barbadian national independence]], from the [[United Kingdom]] on 30 November 1966.
+|-
+| 25 December
+| [[Christmas Day]]
+|
+|-
+| 26 December.
+| [[Boxing Day]]
+|
+|}
+
+== Tourism ==
+Like many other Caribbean islands, Barbados is famed for its white-sand beaches and turquoise, crystalline waters. Popular destinations include<ref>{{cite web |last1=Tokmakoğlu |first1=A. Buğra |title=Barbados'da Görmeniz Gereken 3 Yer {{!}} Turna.com |url=https://www.turna.com/blog/barbados-gezilecek-yerler |website=Turna.com Blog |language=tr-TR |date=16 December 2017}}</ref>
+:
+*''Harrison's cave''- Opened in 1981, Harrison cave is noted for its extremely pure water.<ref>{{cite web |last1=Guide |first1=Barbados.org Travel |title=Harrison's Cave, Barbados - The Ultimate Island Attraction |url=https://barbados.org/hcave.htm |website=barbados.org}}</ref>
+*''Flowers Forest Park''- in the village of Saint Joseph of Bloomsbury.
+*''Hillaby mountain''- [[Hillaby, Barbados|Hillaby]], at approximately 340 meters above sea level is the highest point of the [[Caribbean|East Caribbean mountains]].
+
+With a passport in hand, tourists can enjoy tax-free shopping at a variety of stores on the island.<ref name="Sullivan2001">{{cite book|author=Lynne Sullivan|title=Adventure Guide to Barbados|url=https://books.google.com/books?id=l2D9cfa-4mMC&pg=PT137|year=2001|publisher=Hunter Publishing, Inc|isbn=978-1-55650-910-0|pages=137–}}</ref>
+
+== Sports ==
+{{Main|Sport in Barbados}}
+[[File:Kensington_Oval_yes.jpg|thumb|[[Kensington Oval]] in [[Bridgetown]] hosted the 2007 Cricket World Cup final. Cricket is one of the most followed games in Barbados and Kensington Oval is often referred to as the "Mecca in Cricket" due to its significance and contributions to the sport.]] [[File:Horesandjockey.jpg|thumb|right|A horse and rider at Garrison Savannah]]
+As in other Caribbean countries of British colonial heritage, [[cricket]] is very popular on the island. The [[West Indies cricket team]] usually includes several Barbadian players. In addition to several warm-up matches and six "Super Eight" matches, the country hosted the final of the 2007 Cricket World Cup. Barbados has produced many great cricketers including [[Sir Garfield Sobers]], [[Sir Frank Worrell]], [[Sir Clyde Walcott]], [[Sir Everton Weekes]], [[Gordon Greenidge]], [[Wes Hall]], [[Charlie Griffith]], [[Joel Garner]], [[Desmond Haynes]] and [[Malcolm Marshall]].
+
+[[Rugby football|Rugby]] is also popular in Barbados as well.
+
+[[Horse racing]] takes place at the [[Garrison Savannah Racetrack|Historic Garrison Savannah]] close to Bridgetown. Spectators can pay for admission to the stands, or else can watch races from the public "rail", which encompasses the track.
+
+[[Basketball]] is an increasingly popular sport, played at school or college. [[Barbados national basketball team|Barbados's national team]] has shown some unexpected results as in the past it beat many much larger countries.
+
+[[Polo]] is very popular amongst the rich elite on the island and the "High-Goal" Apes Hill team is based at the St James's Club.<ref>{{cite web|title=Ape hills polo |url=http://www.apeshillclub.com/Polo/ |website=Ape hills Club |accessdate=2 June 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150112201200/http://www.apeshillclub.com/Polo/ |archivedate=12 January 2015 }}</ref> It is also played at the private [[Holders Festival]] ground.
+
+In golf, the [[Barbados Open]], played at Royal Westmoreland Golf Club, was an annual stop on the [[European Seniors Tour]] from 2000 to 2009. In December 2006 the [[WGC-World Cup]] took place at the country's [[Sandy Lane (resort)|Sandy Lane]] resort on the Country Club course, an 18-hole course designed by [[Tom Fazio]]. The Barbados Golf Club is another course on the island. It has hosted the Barbados Open on several occasions.
+
+[[Volleyball]] is also popular, though volleyball is mainly played indoors.
+
+[[Tennis]] is gaining popularity and Barbados is home to [[Darian King]], currently ranked 270th in the world and is the 2nd highest ranked player in the Caribbean.
+
+[[Motorsports]] also play a role, with Rally Barbados occurring each summer and being listed on the FIA NACAM calendar. Also, the [[Bushy Park, Barbados|Bushy Park Circuit]] hosted the [[Race of Champions]] and [[Global RallyCross Championship]] in 2014.
+
+The presence of the trade winds along with favourable swells make the southern tip of the island an ideal location for wave sailing (an extreme form of the sport of [[windsurfing]]).
+
+[[Netball]] is also popular with women in Barbados.
+<!--[please integrate into body where applicable, we cannot keep displaying this section]
+
+== Miscellanea ==
+{{Trivia|date=June 2007}}
+* Imperial Palm trees found conveniently planted on the island are not indigenous to Barbados but were imported and strategically placed to be used as land markers for the sugar mill plantations. They can be seen from great distances across the relatively flat terrain.
+* Although it has been declared the "most British" island in the Caribbean, Barbados was named by the Portuguese-explorer called Pedro Campos. British settlers first arrived 84 years after the Portuguese had left to continue their exploration of South America (Brazil).
+* One of the signatures on the original United States constitution was a Barbadian, as was the printer of the document.<ref>{{cite web|url=http://www.barbados.org/usa_bdos.htm|title=USA – Barbados Ties|publisher=}}</ref>
+* Seven of the first twenty-one [[List of Governors of South Carolina|Governors]] of the US states known as the [[Carolinas]] were Barbadians.
+* The 1652 United Kingdom-Barbados [[Treaty of Oistins]] guaranteed that Barbadians would have "[[No Taxation Without Representation]]" under the British Government.<ref>http://barbadostravel.squarespace.com/journal/2006/3/19/colonial-barbados-and-american-ties.html</ref>
+* Barbados invented the music Soca-Samba, a fusion of Caribbean Soca and Brazilian Samba.
+* The British system of [[longitude]] was discovered by charting the distance between [[Portsmouth]], England and [[Bridgetown]], Barbados, by using the position of the [[sun]] in relation to both locations.
+* Barbados had a United States military base based in the Parish of [[Saint Lucy Parish, Barbados|Saint Lucy]] at Harrisons Point, where secret projects such as [[Project HARP]] were carried out on Paragon Beach near the airport. It was said that loud explosions could be heard throughout much of the country and broke many windows.<ref>{{cite web|url=http://bajans.com/src.htm|title=Barbados Photo Gallery – SRC|publisher=}}</ref>
+* The drinking age in Barbados is said to be 18, although according to the ''Laws of Barbardos'' the legal age to drink alcohol is 16 and only the age to sell alcohol is 18.<ref>[http://barbadosadvocate.com/newsitem.asp?more=letters&NewsID=12456 "What is the drinking age in Barbados?"] ''Barbados Advocate''.</ref>
+* Notable Barbadians include international pop star [[Rihanna]], Crystal Palace football player [[Paul Ifill]], famed cricketer [[Sir Garfield Sobers]], the soca artist [[Rupee (Soca artist)|Rupee]], the [[track & field]] athlete [[Obadele Thompson]], and law professor Stephen J. Leacock (Professor of Law at Barry University School of Law).<ref>{{cite web|url=https://www.barry.edu/law/future-students/faculty/staff/sleacock.html|title=Stephen J. Leacock Professor of Law|publisher=Barry University}}</ref>-->
+
+Barbadian team The Flyin' Fish, are the 2009 [[Segway polo|Segway Polo]] World Champions.<ref>{{Cite news|url=http://www.barbadosadvocate.com/newsitem.asp?more=sports&NewsID=5079 |title=Barbados Segway Polo team 2009 World Champions |accessdate=26 July 2009 |first=Alan |last=Harris |date=26 July 2009 |work=Barbados Advocate |deadurl=yes |archiveurl=https://web.archive.org/web/20100915062842/http://www.barbadosadvocate.com/newsitem.asp?more=sports&NewsID=5079 |archivedate=15 September 2010 |df=dmy }}</ref>
+
+== Transport ==
+{{unreferenced section|date=November 2017}}
+{{Main|Transport in Barbados}}
+[[File:Barbados Midibus1.jpg|thumb|A Hino ACME Minibus B 163 in Speightstown, St. Peter, Barbados.]]
+
+Although Barbados is about {{convert|34|km|mi|abbr=on}} across at its widest point, a car journey from Six Cross Roads in St. Philip (south-east) to North Point in St. Lucy (north-central) can take one and a half hours or longer due to road conditions. Barbados has half as many registered cars as citizens.
+
+Transport on the island is relatively convenient with "[[share taxis|route taxis]]" called "ZRs" (pronounced "Zed-Rs") travelling to most points on the island. These small buses can at times be crowded, as passengers are generally never turned down regardless of the number. They will usually take the more scenic routes to destinations. They generally depart from the capital [[Bridgetown]] or from [[Speightstown, Barbados|Speightstown]] in the northern part of the island.
+
+Including the ZRs, there are three bus systems running seven days a week (though less frequently on Sundays). There are ZRs, the yellow minibuses and the blue [[Barbados Transport Board|Transport Board buses]]. A ride on any of them costs BBD$2.00. The smaller buses from the two privately owned systems ("ZRs" and "minibuses") can give change; the larger blue buses from the government-operated [[Barbados Transport Board]] system cannot, but do give receipts. The Barbados Transport Board buses travel in regular bus routes and scheduled timetables across Barbados. Schoolchildren in school uniform including some Secondary schools ride for free on the government buses and for $2.00 on the ZRs. Most routes require a connection in Bridgetown. Barbados Transport Board's headquarters are located at Kay's House, Roebuck Street, St. Michael, and the bus depots and terminals are located in the Fairchild Street Bus Terminal in Fairchild Street and the Princess Alice Bus Terminal (which was formerly the Lower Green Bus Terminal in Jubilee Gardens, Bridgetown, St. Michael) in Princess Alice Highway, Bridgetown, St. Michael; the Speightstown Bus Terminal in Speightstown, St. Peter; the Oistins Bus Depot in Oistins, Christ Church; and the Mangrove Bus Depot in Mangrove, St. Philip.
+
+Some hotels also provide visitors with shuttles to points of interest on the island from outside the hotel lobby. There are several locally owned and operated vehicle rental agencies in Barbados but there are no multi-national companies.
+
+The island's lone airport is the [[Grantley Adams International Airport]]. It receives daily flights by several major airlines from points around the globe, as well as several smaller regional commercial airlines and charters. The airport serves as the main air-transportation hub for the eastern Caribbean. In the first decade of the 21st century it underwent a US$100 million upgrade and expansion in February 2003 until completion in August 2005.
+
+There was also a helicopter shuttle service, which offered air taxi services to a number of sites around the island, mainly on the West Coast tourist belt. Air and maritime traffic was regulated by the [[Barbados Port Authority]]. Private Luxury Helicopter Tours were located in Spencers, Christ Church next to the Barbados Concorde Experience when it was opened in September 2007 and closed in April 2010. Bajan Helicopters were opened in April 1989 and closed in late December 2009 because of the economic crisis and recession facing Barbados.
+
+==Notable people==
+<!---these really should be forked to a separate article, nothing here except a ptr, when the list reaches 15 or so-->
+{{See also|Barbadian people|List of people from Barbados|List of Barbadian Americans|List of Barbadian Britons}}
+
+== See also ==
+{{portal|Caribbean|Caricom|Commonwealth realms|<!--Barbados-->}}
+* [[Outline of Barbados]]
+* [[Index of Barbados-related articles]]
+{{Clear}}
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Burns, Sir Alan, ''History of the British West Indies''. London: George Allen and Unwin, 1965.
+* [[David Brion Davis|Davis, David Brion]]. ''[[Inhuman Bondage: The Rise and Fall of Slavery in the New World]]''. New York: Oxford University Press, 2006. {{ISBN|0-19-514073-7}}
+* Frere, Samuel, [https://archive.org/download/shorthistoryofba00john/shorthistoryofba00john.pdf ''A Short History of Barbados: From its First Discovery and Settlement, to the End of the Year 1767.''] London: J. Dodsley, 1768.
+* Gragg, Larry Dale, ''Englishmen transplanted: The English Colonization of Barbados, 1627–1660''. Oxford University Press, 2003. {{ISBN|978-0199253890}}
+* Hamshere, Cyril, ''The British In the Caribbean''. Cambridge, MA: Harvard University Press, 1972.
+* Newman, Simon P. ''A New World of Labor: The Development of Slavery in the British Atlantic.'' Philadelphia, PA: University of Pennsylvania Press, 2013. {{ISBN|978-0812245196}}
+* Northrup, David, ed. ''The Atlantic Slave Trade, Second Edition''. Boston, MA: Houghton Mifflin Company, 2002. {{ISBN|0-618-11624-9}}
+* O'Shaughnessy, Andrew Jackson, ''An Empire Divided: The American Revolution and the British Caribbean''. Philadelphia, PA: University of Pennsylvania Press, 2000. {{ISBN|978-0812217322}}
+* Rogozinski, January 1999. ''A Brief History of the Caribbean: From the Arawak and Carib to the Present''. Revised version, New York, USA. {{ISBN|0-8160-3811-2}}
+* Scott, Caroline 1999. ''Insight Guide Barbados''. Discovery Channel and Insight Guides; fourth edition, Singapore. {{ISBN|0-88729-033-7}}
+
+=== Videography ===
+* [https://web.archive.org/web/20090620004225/http://www.barbadostourisminvestment.com/barbados_video.cfm Overview Video]—Barbados Tourism Investment Inc. (Courtesy of [http://www.us-television.tv/ US Television]).
+* {{YouTube|7QNd8zSlH34|Videography}}, by the Ministry of Energy and the Environment, under the Office of the Prime Minister.
+* [http://today.msnbc.msn.com/id/26184891/vp/45256234#45253453 Sandy Lane Hotel, Barbados] 11 November 2011, on ''[[Where in the World is Matt Lauer?]]'', [[Today (U.S. TV program)|NBC ''Today Show'']].
+* {{CIA World Factbook|year=2003}}
+
+== External links ==
+{{Sister project links|voy=Barbados|Barbados}}
+* {{official website|http://www.gov.bb/ }}
+* [http://www.royal.uk/barbados Official webpage of Queen Elizabeth II as Queen of Barbados]
+* [http://www.barbadosparliament.com/ Parliament of Barbados official website]
+* [http://www.visitbarbados.org/ Barbados Tourism Authority]—The Ministry of Tourism
+* [http://www.centralbank.org.bb/ Central Bank of Barbados website]
+* [http://www.barbadoschamberofcommerce.com/ Barbados Chamber of Commerce & Industry] (BCC&I)
+* [http://www.bidc.com/ Barbados Investment and Development Corporation]
+* [http://www.barbadosmaritime.com/ Barbados Maritime Ship Registry]
+* [http://www.barbmuse.org.bb/ Barbados Museum & Historical Society]
+
+'''General information'''
+* {{dmoz|Regional/Caribbean/Barbados}}
+* {{Wikiatlas|Barbados}}
+
+{{Barbados topics|state=uncollapsed}}
+{{Navboxes
+|title = Articles relating to Barbados
+|list =
+{{Navboxes
+|title=[[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale
+|list =
+'''[[Geographic coordinate system|Lat. {{small|and}} Long.]] {{Coord|13|10|N|59|32|W|type:country_region:BB|display=inline}} {{colour|darkblue|(Bridgetown)}}'''
+}}
+{{Caribbean topic}}
+{{Countries of North America}}
+{{Navboxes
+|title = International membership
+|list =
+{{The Commonwealth}}
+{{Organization of American States}}
+{{Commonwealth realms}}
+{{Caribbean Community (CARICOM)}}
+}}
+{{English official language clickable map}}
+}}
+
+{{Authority control}}
+
+[[Category:Barbados| ]]<!--please leave the empty space as standard-->
+[[Category:Countries in the Caribbean]]
+[[Category:Leeward Islands (Caribbean)]]
+[[Category:English-speaking countries and territories]]
+[[Category:British Leeward Islands]]
+[[Category:Former British colonies and protectorates in the Americas]]
+[[Category:Former English colonies]]
+[[Category:Former Portuguese colonies]]
+[[Category:Portuguese colonization of the Americas]]
+[[Category:Islands of Barbados]]
+[[Category:Member states of the Caribbean Community]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the United Nations]]
+[[Category:Small Island Developing States]]
+[[Category:1620s establishments in the Caribbean]]
+[[Category:1627 establishments in North America]]
+[[Category:1627 establishments in the British Empire]]
+[[Category:States and territories established in 1966]]
+[[Category:1960s establishments in the Caribbean]]
+[[Category:1966 establishments in North America]]
+[[Category:Monarchies of North America]]
+[[Category:Countries in North America]]
+[[Category:Island countries]]

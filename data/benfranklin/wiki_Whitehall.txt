@@ -1,0 +1,130 @@
+{{Other uses}}
+{{Use dmy dates|date=June 2015}}
+{{Use British English|date=June 2015}}
+{{Infobox street
+| name                    = Whitehall
+| part_of                 = A3212
+| image                   = Whitehall 2012.JPG
+| caption                 = Whitehall pictured in 2012, with [[The Cenotaph, Whitehall|The Cenotaph]] and [[Monument to the Women of World War II]] in the middle of the carriageway, and the Elizabeth Tower housing [[Big Ben]] in the background.
+| former_names            = The Street, King Street
+| postal_code             = {{postcode|SW|1}}
+| length_mi               = 0.4
+| length_ref              = <ref name=gmap/>
+| location                = [[Westminster]], [[London]], United Kingdom
+| maint                   = [[Transport for London]]
+| map_type = United Kingdom London Westminster
+| map_caption = Location within Central London
+| coordinates             = {{coord|51.504167|-0.126389|display=inline,title}}
+| direction_a             = North
+| terminus_a              = [[Trafalgar Square]]
+| direction_b             = South
+| terminus_b              = [[The Cenotaph, Whitehall|The Cenotaph]]
+| metro_system=Tube
+| metro={{ubl|[[Charing Cross tube station|Charing Cross]]|[[Westminster tube station|Westminster]]}}
+| known_for               = {{ubl|[[Downing Street]]|[[Ministry of Defence (United Kingdom)|Ministry of Defence]]|[[War Office]]|[[Department of Health (United Kingdom)|Department of Health]]}}
+}}
+
+'''Whitehall''' is a road in the [[City of Westminster]], [[Central London]], which forms the first part of the [[A roads in Zone 3 of the Great Britain numbering scheme|A3212 road]] from [[Trafalgar Square]] to [[Chelsea, London|Chelsea]]. It is the main thoroughfare running south from Trafalgar Square towards [[Parliament Square]]. The street is recognised as the centre of the [[Government of the United Kingdom]] and is lined with numerous departments and ministries, including the [[Ministry of Defence (United Kingdom)|Ministry of Defence]], [[Horse Guards (building)|Horse Guards]] and the [[Cabinet Office]]. Consequently, the name 'Whitehall' is used as a [[metonymy|metonym]] for the British [[Civil Service (United Kingdom)|civil service]] and [[British government|government]], and as the geographic name for the surrounding area.
+
+The name was taken from the [[Palace of Whitehall]] that was the residence of Kings [[Henry VIII of England|Henry VIII]] through to [[William III of England|William III]], before its destruction by fire in 1698; only the [[Banqueting House, Whitehall|Banqueting House]] survived. Whitehall was originally a wide road that led to the front of the palace; the route to the south was widened in the 18th century following the destruction of the palace.
+
+As well as government buildings, the street is known for its memorial statues and monuments, including Britain's primary war memorial, [[The Cenotaph, Whitehall|the Cenotaph]]. The Whitehall Theatre, now the [[Trafalgar Studios]], has been popular for [[Whitehall farce|farce]] comedies since the mid-20th century.
+
+==Geography and name ==
+The name Whitehall was used for several buildings in the [[Tudor period]].{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} It either referred to a building made of light stone, or as a general term for any festival building. This included the Royal [[Palace of Whitehall]], which in turn gave its name to the street.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1020}}
+
+The street is about {{convert|0.4|mi|km}} long and runs through the [[City of Westminster]]. It is part of the [[A3212 road|A3212]], a main road in Central London that leads towards [[Chelsea, London|Chelsea]] via the [[Houses of Parliament]] and [[Vauxhall Bridge]]. It runs south from [[Trafalgar Square]], past numerous government buildings, including the old [[War Office]] building, [[Horse Guards (building)|Horse Guards]], the [[Ministry of Defence (United Kingdom)|Ministry of Defence]], the [[Cabinet Office]] and the [[Department of Health]]. It ends at the [[The Cenotaph, Whitehall|Cenotaph]], the road ahead being Parliament Street. [[Great Scotland Yard]] and [[Horse Guards Avenue]] branch off to the east, while [[Downing Street]] branches off to the west at the southern section of the street.<ref name=gmap>{{cite web|url=https://www.google.co.uk/maps/dir/51.502022,-0.1261083/51.5071583,-0.1274628/@51.5050201,-0.1314156,16z/data=!4m2!4m1!3e2|title=Derby Gate, London to Trafalgar Square|publisher=Google Maps|accessdate=12 June 2016}}</ref>
+
+The nearest tube stations are [[Charing Cross tube station|Charing Cross]] at the north end, and [[Westminster tube station|Westminster]] at the south. Numerous London bus routes run along Whitehall, including 12, 24, 53, 88, 159 and 453.<ref>{{cite web|url=http://content.tfl.gov.uk/bus-route-maps/central-london-bus-map.pdf|title=Central London Bus Map|publisher=Transport for London|accessdate=12 June 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20170313082004/http://content.tfl.gov.uk/bus-route-maps/central-london-bus-map.pdf|archivedate=13 March 2017|df=dmy-all}}</ref>
+
+==History==
+[[File:Whitehall1680.jpg|thumb|left|250px|Map of Whitehall in 1680, showing the [[Palace of Whitehall]] and [[Scotland Yard]]. To the west of [[Holbein Gate]], the road was known as The Street.]]
+There has been a route connecting Charing Cross to Westminster since the [[Middle Ages]]; the 12th-century historian [[William Fitzstephen]] described it as "a continued suburb, mingled with large and beautiful gardens, and orchards belonging to the citizens".{{sfn|Shepherd|2012|p=37}} The name Whitehall was originally only used for the section of road between Charing Cross and [[Holbein Gate]]; beyond this it was known as The Street as far as [[King Street Gate]], then King Street thereafter. It had become a residential street by the 16th century, and had become a popular place to live by the 17th, with residents including [[Lord Howard of Effingham]] and [[Edmund Spenser]].{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}}{{sfn|Brown|2009|p=120}}
+
+The Palace of Whitehall, to the east of the road, was originally named York Palace, but was renamed during the reign of [[Henry VIII of England|Henry VIII]].{{efn|Shakespeare's ''[[Henry VIII (play)|Henry VIII]]'' mentions the name change in Act IV, scene 1 : "You must no more call it York Place—that is past: For since the [[Thomas Wolsey|Cardinal]] fell that title's lost; 'Tis now the King's, and called Whitehall"<ref>{{cite journal|first=Walter|last=Thornbury|title=Whitehall: Historical remarks|work=Old and New London|volume=3|location=London|year=1878|pp=337–361|url=http://www.british-history.ac.uk/old-new-london/vol3/pp337-361|accessdate=6 July 2016}}</ref>}} The palace was redesigned in 1531–32 and became the King's main residence later in the decade. He married [[Anne Boleyn]] here in 1533, followed by [[Jane Seymour]] in 1536, and died at the palace in 1547. [[Charles I of England|Charles I]] owned an extensive art collection at the palace{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1020}} and several of [[William Shakespeare]]'s plays had their first performances here.{{sfn|Moore|2003|p=45}} It ceased to be a royal residence after 1689, when [[William III of England|William III]] moved to [[Kensington Palace]]. The palace was damaged by fire in 1691, following which the front entrance was redesigned by [[Christopher Wren|Sir Christopher Wren]]. In 1698, most of the palace burned to the ground accidentally after a fire started by a careless washerwoman.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1020}}
+
+Wallingford House was constructed in 1572 by [[William Knollys, 1st Earl of Banbury]] along the western edge of Whitehall.{{sfn|Richardson|2000|p=100}} It was subsequently used by Charles I. During the reign of William III, it was bought for the [[Admiralty]].<ref name=wh>{{cite journal|url=http://www.british-history.ac.uk/old-new-london/vol3/pp383-394|first=Walter|last=Thornbury|title=Whitehall : The Western Side|work=Old and New London|volume=3|location=London|year=1878|pp=383–394|accessdate=4 July 2016}}</ref> The Old Admiralty Buildings now sit on the house's site.{{sfn|Richardson|2000|p=100}}
+
+[[File:A View of Whitehall, looking south, 1740.jpg|thumb|right|240px|Whitehall, looking south in 1740: [[Inigo Jones]]' [[Banqueting House, Whitehall|Banqueting House]] (1622) on the left, [[William Kent]]'s Treasury buildings (1733–37) on the right, the [[Holbein Gate]] (1532, demolished 1759) at centre.]]
+[[Banqueting House, Whitehall|Banqueting House]] was built as an extension to the Palace of Whitehall in 1622 by [[Inigo Jones]]. It is the only surviving portion of the palace after it was burned down, and was the first [[Renaissance]] building in London.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=39,1020}} It later became a museum to the [[Royal United Services Institute]] and has been opened to the public since 1963.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=40}}
+
+[[Oliver Cromwell]] moved to the street in 1647, taking up residence in Wallingford House.<ref name=wh/> Two years later, Charles I was carried through Whitehall on the way to [[High Court of Justice for the trial of Charles I|his trial]] at [[Westminster Hall]]. Whitehall itself was a wide street and had sufficient space for a scaffold to be erected for the King's execution at Banqueting House.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} He made a brief speech there before being beheaded.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=39}}{{efn|The [[English Civil War Society]] commemorate the death of Charles I annually on the nearest Sunday to 30 January, the anniversary of the execution. The society retraces the route the King took from [[St James's Palace]] to the Banqueting House, where a wreath is laid at the site of the scaffold.{{sfn|Shepherd|2012|p=167}}}} Cromwell died at the Palace of Whitehall in 1658.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1020}}
+
+During the [[Great Plague of London]] in 1665, people boarded coaches at Whitehall, then at the edge of urban London, in an attempt to escape. The King and court temporarily moved to [[Oxford]] to avoid the plague, while [[Samuel Pepys]] remarked in his diary on 29 June, "By water to Whitehall, where the Court is full of waggons and people ready to go out of town. This end of town every day grows very bad with plague".{{sfn|Brown|2009|p=107}}
+
+By the 18th century, traffic was struggling along the narrow streets south of Holbein Gate, which led to King Street Gate being demolished in 1723. Holbein Gate, in turn, was demolished in 1759. Meanwhile, Parliament Street was a side road alongside the palace, leading to the [[Palace of Westminster]]. After the Palace of Whitehall was destroyed, Parliament Street was widened to match Whitehall's width.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=626}} The present appearance of the street dates from 1899 after a group of houses between Downing Street and [[Great George Street]] were destroyed.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}}
+
+==Government buildings==
+[[File:Whitehall OS OpenData map.png|thumb|upright=1.2|Map of Whitehall and surrounding streets, showing government buildings]]
+By the time the palace was destroyed, separation of crown and state had become important, with [[Parliament of England|Parliament]] being necessary to control military requirements and pass laws. The government wanted to be some distance from the monarch, and the buildings around Whitehall, physically separated from St James's Palace by [[St James's Park]], seemed to be a good place for ministers to work.{{sfn|Shepherd|2012|p=191}}
+
+The [[Horse Guards (building)|Horse Guards building]] was designed by [[William Kent]], and built during the 1750s on a former [[tiltyard]] site, replacing an earlier guard-house erected during the Civil War. The building includes an archway for coach traffic and two pedestrian arches that provide access between Whitehall and [[Horse Guards Parade]]. The central archway is marked with "SMF" and "StMW", and denotes the boundary between [[St Martin-in-the-Fields]] and [[St Margaret's, Westminster|St Margaret's]] church parish boundaries.{{sfn|Shepherd|2012|p=208}}
+
+During the 19th century, as private leases ran out on residential buildings, ownership reverted to the Crown, which began to use them as public offices.{{sfn|Brown|2009|p=120}} The name "Whitehall" is now used as a [[metonymy|metonym]] to refer to that part of the [[civil service]] which is involved in the [[government of the United Kingdom]].{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} The street's central portion is dominated by military buildings, including the [[Ministry of Defence (United Kingdom)|Ministry of Defence]], with the former headquarters of the [[British Army]] and [[Royal Navy]], the [[Royal United Services Institute]], the Horse Guards building and the [[Admiralty]], on the opposite side.{{sfn|Shepherd|2012|p=208}} Government buildings on Whitehall, from north to south, include [[Admiralty#Admiralty buildings|The Admiralty Buildings]],{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} the [[Department for International Development]] at No.&nbsp;22, the [[Department of Energy and Climate Change]] at No.&nbsp;55,<ref>{{cite web|url=http://governmentbuildings.co.uk/properties/view/20028|title=Department of Energy and Climate Change|publisher=UK Government properties database|accessdate=4 June 2016}}</ref> the Old [[War Office]],{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} the [[Office of the Parliamentary Counsel (United Kingdom)|Office of the Parliamentary Counsel]] at No.&nbsp;36,{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} the [[Horse Guards (building)|Horse Guards]],{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} the [[Ministry of Defence Main Building (United Kingdom)|Ministry of Defence Main Building]],{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} [[Dover House]] (containing the [[Scotland Office]]),{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} [[Gwydyr House]] (containing the [[Wales Office]]),{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} the [[Cabinet Office]] at No.&nbsp;70,<ref>{{cite web|url=https://www.gov.uk/government/organisations/cabinet-office|title=Cabinet Office|publisher=HM Government|accessdate=4 July 2016}}</ref> the [[Foreign and Commonwealth Office]]{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}} and the [[Government Offices Great George Street]] ([[HM Treasury]], [[HM Revenue and Customs]] and parts of the Cabinet Office).{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1019}}
+
+[[File:Horse Guards London.JPG|thumb|left|250px|View of the [[Horse Guards (building)|Horse Guards Building]] from Whitehall, showing the three arches that link it to [[Horse Guards Parade]]]]
+[[Scotland Yard]], the headquarters of London's [[Metropolitan Police Service]], was originally located in [[Great Scotland Yard]] off the north-eastern end of Whitehall. The buildings had been lodgings for the Kings of Scotland, on part of the old Palace of Whitehall's grounds; by the 19th century, Little and Middle Scotland Yard had been merged into Whitehall Place, leaving only Great Scotland Yard. No.&nbsp;4 Whitehall Place had become vacant by the 1820s, which allowed [[Robert Peel|Sir Robert Peel]] to use it as the main headquarters when forming the police in 1829. It was formally named the Metropolitan Police Office, but became quickly known as Great Scotland Yard, and eventually Scotland Yard. The buildings were damaged in a series of bombings by [[Irish Nationalism|Irish Nationalists]] in 1883, and an explosion from a [[Fenian]] terrorist attack on 30 May 1884 blew a hole in Scotland Yard's outer wall and destroyed the neighbouring Rising Sun pub. The headquarters was moved away from Whitehall in 1890.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=582}}
+
+[[Downing Street]] leads off the south-west end of Whitehall, just above Parliament Street. It was named after [[Sir George Downing, 1st Baronet|Sir George Downing]], who built a row of houses along the street around 1680 leading west from Whitehall. Following a number of terrorist attacks, the road was closed to the public in 1990, when security gates were erected at both ends. On 7 February 1991, the [[Provisional IRA]] [[Downing Street mortar attack|fired mortars from a van]] parked in Whitehall towards [[10 Downing Street|No.&nbsp;10]], one of which exploded in the gardens.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|pp=246–7}}<ref>{{cite book|author=John Michael Lee, George William Jones, June Burnham|title=At the Centre of Whitehall: Advising the Prime Minister and Cabinet|p=42|publisher=St. Martin's Press|year=1998|isbn=0-312-17730-5}}</ref>
+
+Additional security measures have been put in place along Whitehall to protect government buildings, following a £25 million streetscape project undertaken by [[Westminster City Council]]. The project has provided wider pavements and better lighting, along with installing hundreds of concrete and steel security barriers.<ref>{{cite web|url=http://www.stonerestorationltd.co.uk/whitehall.html|title=Whitehall|publisher=Stone Restoration Services|accessdate=5 July 2016}}</ref>
+
+[[Richmond House]], at No.&nbsp;79, has held the [[Department of Health (United Kingdom)|Department of Health]] since 1987. The building is scheduled to be a temporary debating chamber from 2020, while the [[Houses of Parliament]] undergo a £7 billion refurbishment and modernisation programme.<ref>{{cite news|url=https://www.independent.co.uk/news/uk/politics/department-of-health-to-leave-whitehall-hq-to-make-way-for-commons-debating-chamber-a6830046.html|title=Department of Health to leave Whitehall HQ to make way for Commons debating chamber|work=The Independent|date=23 January 2016|accessdate=4 July 2016}}</ref>
+
+==Memorials==
+[[File:London Whitehall, just before the 1953 Coronation geograph-3190134-by-Ben-Brooksbank.jpg|thumb|left|200px|Whitehall, looking north in 1953, with the [[Earl Haig Memorial]] in the middle of the carriageway.]]
+A number of statues and memorials have been built on and around Whitehall, commemorating military victories and leaders. The Cenotaph was designed by [[Edwin Lutyens|Sir Edwin Lutyens]] and erected at the southern end in 1919, commemorating victory in [[World War I]] and later used as a memorial for both World Wars. It is the main war memorial in Britain and an annual service is held here on [[Remembrance Sunday]], led by the reigning monarch and leading politicians.{{sfn|Weinreb|Hibbert|Keay|Keay|2008|pp=141,1020}} In 2005 a national [[Monument to the Women of World War II]] was erected a short distance north of the Cenotaph in the middle of the Whitehall carriageway.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/england/london/4667705.stm|title=Memorial to war women unveiled|work=BBC News|date=9 July 2005|accessdate=3 July 2016}}</ref>
+
+The [[Royal Tank Regiment Memorial]] is at the north east end of Whitehall, where Whitehall Court meets Whitehall Place. Erected in 2000, it commemorates the use of tanks in both World Wars and depicts five World War II tank crew members. The [[Gurkha Memorial, London|Gurkha Memorial]] is to the south of this, on [[Horse Guards Avenue]] to the east of Whitehall.{{sfn|Matthews|2012|p=18}}
+
+Whitehall is also home to six other monuments. From north to south, these are of [[Prince George, Duke of Cambridge]] ([[Commander-in-Chief of the Forces|Commander-in-Chief of the British Army]]), [[Liberal Party (UK)|Liberal Party]], [[Liberal Unionist|Liberal Unionist Party]] and [[Conservative Party (UK)|Unionists]] leader [[Spencer Cavendish, 8th Duke of Devonshire]], [[Douglas Haig, 1st Earl Haig]] (known as the [[Earl Haig Memorial]]),{{efn|The memorial, designed by [[Alfred Frank Hardiman]] and unveiled on 10 November 1937, proved controversial as it took several attempts to design a realistic head and horse. Haig's widow refused to attend the opening ceremony.{{sfn|Matthews|2012|pp=20–21}}}} [[Bernard Montgomery|Field Marshal Montgomery]] (commander of the [[Eighth Army (United Kingdom)|8th Army]], the [[21st Army Group]] and [[Chief of the General Staff (United Kingdom)|Chief of the Imperial General Staff]]),{{sfn|Weinreb|Hibbert|Keay|Keay|2008|p=1020}} [[William Slim, 1st Viscount Slim]], Commander of the [[Fourteenth Army (United Kingdom)|14th Army]] and [[Governor-General of Australia]],{{sfn|Matthews|2012|p=21}} and [[Alan Brooke, 1st Viscount Alanbrooke]], [[Chief of the General Staff (United Kingdom)|Chief of the Imperial General Staff]].{{sfn|Matthews|2012|p=22}}
+
+==Culture==
+[[File:TrafalgarStudiosLondon.png|thumb|The Whitehall Theatre, now [[Trafalgar Studios]], opened in 1930 and is a [[Listed buildings in the United Kingdom|Grade II listed building]].]]
+The [[Whitehall Theatre]] opened in 1930 at the north west end of the street, on a site that had previously been Ye Old Ship Tavern in the 17th century. The revue ''Whitehall Follies'' opened in 1942, which drew controversy over its explicit content featuring the stripper and actress [[Phyllis Dixey]]. The theatre became known for its [[Whitehall farce|farces]], reviving a tradition on Whitehall that had begun with [[court jester]]s at the palace during the 16th century; these included several plays featuring [[actor-manager]] [[Brian Rix]] throughout the 1950s and 60s, and 1981's satirical ''[[Anyone for Denis]]'', written by [[John Wells (satirist)|John Wells]] and ''[[Private Eye]]'' editor [[Richard Ingrams]].{{sfn|Brown|2009|p=78}} The venue was [[Listed buildings in the United Kingdom|Grade II listed]] in 1996 and renamed the [[Trafalgar Studios]] in 2004.<ref>{{cite web|url=http://www.trafalgar-studios.co.uk/|title=Trafalgar Studios|website=trafalgar-studios.co.uk|accessdate=5 July 2016}}</ref>
+
+Because of its importance as a centre of British government, several political comedies are based in and around Whitehall. These include the BBC's ''[[Yes Minister]]'' and ''[[The Thick of It]]''.<ref>{{cite news|url=https://www.telegraph.co.uk/comment/columnists/philipjohnston/6807347/Yes-minister-we-can-get-out-of-the-thick-of-it.html|title=Yes, minister, we can get out of the thick of it|first=Philip|last=Johnston|work=The Daily Telegraph|date=14 December 2009|accessdate=12 July 2016}}</ref>
+
+Whitehall is one of three purple squares on the British ''[[Monopoly (game)|Monopoly]]'' board, along with [[Pall Mall, London|Pall Mall]] and [[Northumberland Avenue]]. All three streets converge at Trafalgar Square.{{sfn|Moore|2003|p=45}}
+
+==See also==
+* [[Curtis Green Building]]
+* [[Whitehall Study]]
+
+==References==
+'''Notes'''
+{{notelist}}
+
+'''Citations'''
+{{reflist|30em}}
+
+'''Sources'''
+{{refbegin}}
+* {{cite book|title=Whitehall: The Street that Shaped a Nation|first=Colin|last=Brown|publisher=Simon and Schuster|year=2009|isbn=978-1-847-37738-8|ref=harv}}
+* {{cite book|title=London's Statues and Monuments|first=Peter|last=Matthews|publisher=Bloomsbury|year=2012|isbn=978-0-747-81121-3|ref=harv}}
+* {{cite book|last=Moore|first=Tim|title=Do Not Pass Go|publisher=Vintage|year=2003|isbn=978-0-099-43386-6|ref=harv}}
+* {{cite book|title=The Annals of London: A Year-by-year Record of a Thousand Years of History|first=John|last=Richardson|publisher=University of California Press|year=2000|isbn=978-0-520-22795-8|ref=harv}}
+* {{cite book|title=Westminster: A Biography: From Earliest Times to the Present|first=Robert|last=Shepherd|publisher=A&C Black|year=2012|isbn=978-0-826-42380-1|ref=harv}}
+* {{cite encyclopedia|first=Ben|last=Weinreb|authorlink1=Ben Weinreb|first2=Christopher|last2=Hibbert|authorlink2=Christopher Hibbert|first3=Julia|last3=Keay|first4=John|last4=Keay|authorlink4=John Keay|title=[[The London Encyclopedia]]|year=2008|publisher=Pan McMillan|isbn=978-1-4050-4924-5|ref=harv}}
+{{refend}}
+
+'''Further reading'''
+{{refbegin}}
+* ''Whitehall Through the Centuries'' by George S Dugdale (Assistant at the London Museum) with black and white reproductions and plans. A foreword by Sir Edward Bridges. First published by Phoenix House (London) in 1950 with no ISBN.
+* Stone to Build London: Portland's Legacy, Gill Hackman,Folly Books, Monkton Farleigh, 2014, {{ISBN|978-0-9564405-9-4}}. Book includes details of many of the Portland stone buildings in Whitehall, including the Cenotaph, Banqueting House, Horse Guards, Foreign and Commonwealth Office and Ministry of Defence.
+{{refend}}
+
+==External links==
+{{Commons category}}
+* [http://www.buildinghistory.org/primary/magalotti/whitehall.shtml Whitehall in 1669, showing the [[Banqueting House]] and Holbein Gateway]
+* [http://www.arthurlloyd.co.uk/TrafalgarStudios.htm History of the Whitehall Theatre built on Whitehall in 1930]
+
+{{London landmarks}}
+
+{{Authority control}}
+{{Good article}}
+[[Category:Whitehall| ]]
+[[Category:Areas of London]]
+[[Category:National government buildings in London]]
+[[Category:Streets in the City of Westminster]]
+[[Category:London Monopoly places]]

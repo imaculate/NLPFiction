@@ -1,0 +1,85 @@
+{{for|the English antiquary|Thomas Percival (antiquarian)}}
+{{EngvarB|date=September 2014}}
+{{Use dmy dates|date=September 2014}}
+'''Thomas Percival''' <small>[[Fellow of the Royal Society of London|FRS]] [[Fellow of the Royal Society of Edinburgh|FRSE]] [[Fellow of the Society of Antiquaries|FSA]]</small> (29 September 1740 – 30 August 1804) was an English physician, health reformer, ethicist and author, best known for crafting perhaps the first modern code of [[medical ethics]]{{Citation needed|date=March 2015}}. He drew up a pamphlet with the code in 1794 and wrote an expanded version in 1803, ''[[Medical Ethics; or, a Code of Institutes and Precepts, Adapted to the Professional Conduct of Physicians and Surgeons]]'' in which he coined the expression "medical ethics".<ref>[http://ethics.iit.edu/perspective/pers19_1fall99_2.html ''Codes of Ethics: Some History'', Center for the Study of Ethics in the Professions at IIT] {{webarchive|url=https://web.archive.org/web/20120206204827/http://ethics.iit.edu/perspective/pers19_1fall99_2.html |date=6 February 2012 }}</ref><ref>Ivan Waddington, "The Development of Medical Ethics – A Sociological Analysis," ''Medical History'' (1975) 19#1 pp 36–51</ref> He was also a pioneering campaigner for [[public health]] measures and [[factory regulation]] in Manchester.<ref name="Waterston">{{cite book
+ |last1       = Waterston
+ |first1      = Charles D
+ |last2       = Macmillan Shearer
+ |first2      = A
+ |title       = Former Fellows of the Royal Society of Edinburgh 1783–2002: Biographical Index
+ |url         = http://www.rse.org.uk/fellowship/fells_indexp2.pdf
+ |accessdate  = 25 September 2010
+ |volume      = II
+ |date        = July 2006
+ |publisher   = [[The Royal Society of Edinburgh]]
+ |location    = Edinburgh
+ |isbn        = 978-0-902198-84-5
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20061004113303/http://www.rse.org.uk/fellowship/fells_indexp2.pdf
+ |archivedate = 4 October 2006
+ |df          = dmy-all
+}}</ref>
+
+==Life==
+He was born in [[Warrington]], [[Lancashire]], on 29 September 1740, the son of Joseph Percival and his wife, Margaret Orred.  He lost both his parents when he was three years old, so his older sister was responsible for his early education.  Once he was old enough, he was placed in a private academy in his home town.  He also spent time at the [[Sir Thomas Boteler Church of England High School|Boteler Grammar School, Warrington]]. In 1757, he was enrolled as one of the first students at [[Warrington Academy]] in 1756.  He achieved a good reputation in classical and theological studies.
+
+In 1761 he went to study Medicine at [[Edinburgh University]], Edinburgh being at the forefront of this field. He did further postgraduate study at [[Leyden University]] in Holland and obtained his doctorate (MD) in 1765.<ref>{{cite book|title=Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002|date=July 2006|publisher=The Royal Society of Edinburgh|isbn=0 902 198 84 X|url=https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp2.pdf}}</ref>
+
+He became a fellow to the [[Royal Society]], through a recommendation by his friend and patron [[Baron Willoughby of Parham|Lord Willoughby de Parham]], the same year. In 1771 he hosted [[Benjamin Franklin]] in [[Manchester]], who went on to be a guest of Rev. John Michell at Thornhill Rectory; other guests being Joseph Priestley and Messrs. Smeaton, Pringle and Ingenhousz.  In 1787 he was elected a Fellow of the [[Royal Society of Edinburgh]]. His proposers were [[Andrew Dalzell]] and Henry Duncan. He was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]] in 1789.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter P|url=http://www.amacad.org/publications/BookofMembers/ChapterP.pdf|publisher=American Academy of Arts and Sciences|accessdate=28 July 2014}}</ref>
+
+He was a prominent member of the [[Manchester Literary and Philosophical Society]], he holds an important place in the history of epidemiology for his analysis of the Bills of Mortality from 1772–6, and for his code of medical ethics. The latter was initially circulated privately as a book on jurisprudence in 1794 and as a result of solicited comments from colleagues then published in an expanded form with a change in title to Medical ethics in 1803. Percival had been asked by the Manchester Royal Infirmary to help with an internal dispute and became particularly concerned with the divisions that had arisen among the different branches of the profession – the physicians, surgeons, and apothecaries with their different backgrounds of training (university, hospital, and apprenticeship respectively). But he did not merely concern himself with intraprofessional relationships: he also laid down a code for conduct towards patients, whether rich or poor, and his ideas were rapidly taken up by the USA, Australia, and Canada — in fact, the ethical code introduced by the newly formed American Medical Association in 1847 used several passages taken directly from his book.
+
+He died in [[Manchester]] on 30 August 1804 and is buried with his family in Warrington.
+
+==Family==
+
+He was married to Elizabeth Basnett.
+
+==Occupational health and medical ethics==
+Percival is also known for his early work in [[Occupational safety and health|Occupational health]].  He led a group of doctors to supervise textile mills, their report influenced [[Sir Robert Peel, 1st Baronet|Robert Peel's]] to introduce the [[Health and Morals of Apprentices Act 1802]]. The legislation stipulated that children could work only 12 hours per day, walls had to be washed, and visitors had to be admitted to factories so that they could make health-related suggestions.<ref>[http://occmed.oxfordjournals.org/cgi/content/abstract/25/2/58 Dr Thomas Percival and the Beginnings of Industrial Legislation]</ref><ref>[http://www.runet.edu/~wkovarik/envhist/3enlightenment.html Environmental History Timeline (1795)] {{webarchive|url=https://web.archive.org/web/20071120081507/http://www.runet.edu/~wkovarik/envhist/3enlightenment.html |date=20 November 2007 }}</ref>
+
+Percival's ''[[Medical Ethics or, a Code of Institutes and Precepts Adapted to the Professional Conduct of Physicians and Surgeons|Medical Ethics]]'' served as a key source for the [[American Medical Association]] (AMA) code, adopted in 1847. Though hyperbolic in its recognition of Percival, the AMA itself states:
+
+<blockquote>
+The most significant contribution to Western medical ethical history subsequent to Hippocrates was made by Thomas Percival, an English physician, philosopher, and writer. In 1803, he published his ''Code of Medical Ethics''. His personality, his interest in sociological matters, and his close association with the [[Manchester Royal Infirmary|Manchester Infirmary]] led to the preparation of a scheme of professional conduct relative to hospitals and other charities from which he drafted the code that bears his name.<ref>[http://www.ama-assn.org/ama/pub/category/8291.html Short history of medical ethics, AMA web site]</ref>
+</blockquote>
+
+As one expert writes, "The Percivalian code asserted the moral authority and independence of physicians in service to others, affirmed the profession's responsibility to care for the sick, and emphasized individual honor."<ref>{{cite web|url=http://www.library.dal.ca/kellogg/Bioethics/codes/codes.htm|title='Bioethics: Codes, Oaths, Guidelines and Position Statements|publisher=Dalhousie University Libraries|accessdate=19 August 2009|deadurl=yes|archiveurl=https://archive.is/20120804140757/http://www.library.dal.ca/kellogg/Bioethics/codes/codes.htm|archivedate=4 August 2012|df=dmy-all}}</ref> Percival was a devout Christian.<ref>See Percival, (1781)</ref>
+
+==Selected works==
+*''Essays medical and experimental: on the following subjects, viz. I. The empiric. II. The dogmatic. Or, arguments for and against the use of theory and reasoning in physick. III. Experiments and observations on astringents and bitters IV. On the uses and operation of blisters. V. On the resemblance between chyle and milk''. London: for Joseph Johnson and B. Davenport, 1767 (followed by later editions)
+*''Essays medical and experimental [Vol. II]: on the following subjects: 1. On the Columbo root. 2. On the orchis root. 3. On the waters of Buxton and Matlock ... 4. On the medicinal uses of fixed air. 5. On the antiseptic and sweetening powers ... of factitious air. 6. On the noxious vapours of charcoal. 7. On the atrabilis. 8. On sea salt. 9. On coffee. To which are added, select histories of diseases ...'' London: for Joseph Johnson, 1773
+*''Essays, medical philosophical and experimental''; By Thomas Percival, M.D. F.R.S. and A.S. Lond. F.R.S. and R.M.S. Edinb. Member of the Royal Society of Medicine at Paris ; of the Royal Society of Agriculture at Lyons ; and of the American Philosophy Soc. at Philadelphia, &c. &c. The fourth edition, revised and enlarged. 2 vols. Warrington: printed by W. Eyres, for J. Johnson, London, 1788–89
+*''Medical ethics; or a Code of institutes and precepts, adapted to the professional interests of physicians and surgeons''. Manchester: S. Russell, 1803 (followed by later editions)
+
+==References==
+{{reflist}}
+
+==Further reading==
+*Brockbank, E. M. (1929) "History of Collegiate Teaching: some pioneers; Thomas Percival". In: ''Book of Manchester and Salford''. Manchester: Falkner & Co.; pp.&nbsp;30–33.
+* Percival, Thomas (1781). ''[https://books.google.com/books?id=SQcGAAAAQAAJ&printsec=frontcover A father's instructions; moral tales, fables, and reflections]''. 5th edition. 
+* Percival, Thomas (1781). ''[https://books.google.com/books?id=eSwCAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false A Socratic discourse on truth and faithfulness]''. 
+* Percival, Thomas; Percival, Edward (1807). ''[https://books.google.com/books?id=kLg_AAAAYAAJ&printsec=frontcover#v=onepage&q&f=false The Works, Literary, Moral and Medical: To which are Prefixed Memoirs of His Life and Writings and a Selection from His Literary Correspondence]''. J. Johnson 
+* Percival, Thomas; Percival, Edward (1807). ''[https://books.google.com/books?id=9LNbAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false Memoirs of the life and writings of Thomas Percival (by E. Percival). To which is added, a selection from his literary correspondence]''.
+
+==External links==
+*[http://www.ama-assn.org/ama/pub/category/1931.html AMA timeline on medical ethics]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Percival, Thomas}}
+[[Category:1740 births]]
+[[Category:1804 deaths]]
+[[Category:People educated at Boteler Grammar School]]
+[[Category:People from Warrington]]
+[[Category:18th-century English medical doctors]]
+[[Category:Fellows of the Royal Society]]
+[[Category:English medical writers]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:English antiquarians]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Leiden University alumni]]
+[[Category:English Dissenters]]
+[[Category:English Christians]]
+[[Category:Fellows of the Society of Antiquaries of London]]

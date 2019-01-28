@@ -1,0 +1,132 @@
+{{redirect|Proprietary library|a private library|private library}}
+{{lead too short|date=April 2016}}
+[[File:Vogel Załuski Library.jpg|thumb|right|[[Załuski Library|Biblioteka Załuskich]], built in [[Warsaw]] in the mid-18th century.]]
+A '''subscription library''' (also '''membership library''' or '''independent library''') is a [[library]] that is financed by private funds either from membership fees or endowments. Unlike a [[public library]], access is often restricted to members, but access rights can also be given to non-members, such as students.
+
+==Origins==
+[[File:The North Prospect of Mountague House JamesSimonc1715.jpg|thumb|right|The [[British Museum]] was established in 1751 and had a library containing over 50,000 books.]]
+In the 18th century, there were virtually no public libraries in the sense in which we now understand the term i.e. libraries provided from public funds and freely accessible to all.<ref name="Kelly, Thomas 1966; p. 185">Kelly, Thomas (1966); p. 185</ref> Only one important library in Britain, [[Chetham's Library]] in Manchester, was fully and freely accessible to the public.<ref name="Kelly, Thomas 1966; p. 185"/> However, during the century, there came into being a whole network of library provision on a private or institutional basis.
+
+The increase in secular literature at this time encouraged the establishment of commercial subscription libraries. Many small, private book clubs evolved into subscription libraries, charging high annual fees or requiring subscribing members to purchase shares. Subscription libraries would in turn use these earnings to expand their collections and later create their own publications.<ref name=":0">{{cite book|last1=Murray|first1=Stuart|title=The Library: An Illustrated History|date=2009|publisher=Skyhorse Publishing|location=Chicago, IL|isbn=9781616084530|page=148}}</ref> Unlike a [[public library]], access was often restricted to members. Some of the earliest such institutions were founded in late-17th century England, such as Chetham's Library in 1653, [[Innerpeffray Library]] in 1680 and [[Thomas Plume|Thomas Plume's Library]] in 1704. In the [[Colonial America|American colonies]], [[the Library Company of Philadelphia]] was started in 1731 by [[Benjamin Franklin]] in [[Philadelphia, Pennsylvania|Philadelphia, PA]]. By paying an initial fee and annual dues, members had access to books, maps, fossils, antique coins, minerals, and scientific instruments.<ref name=":0" /> The first subscription library in Canada was formed in the 1800s at Niagara.
+
+The materials available to subscribers tended to focus on particular subject areas, such as [[biography]], [[history]], [[philosophy]], [[theology]], and [[travel]], rather than works of fiction, particularly the novel.
+
+Subscription libraries were democratic in nature; created by and for communities of local subscribers who aimed to establish permanent collections of books and reading materials, rather than selling their collections annually as the circulating libraries tended to do, in order to raise funds to support their other commercial interests. Even though the subscription libraries were often founded by [[reading group|reading societies]], committees, elected by the [[subscription|subscribers]], chose books for the collection that were general, rather than aimed at a particular religious, political or professional group. The books selected for the collection were chosen because they would be mutually beneficial to the shareholders. The committee also selected the librarians who would manage the circulation of materials.<ref name=Forster>{{cite book|author1=Forster, Geoffrey|author2=Bell, Alan|title=The Cambridge History of Libraries in Britain and Ireland Volume 3: 1850–2000|date=2006|publisher=Cambridge University Press|isbn=9780521780971|chapter=12 - The subscription libraries and their members}}</ref>{{rp|147–148}}
+
+Subscription libraries were also referred to as 'proprietary' libraries due to the expectation that subscribers not only pay an annual fee, but that they must also invest in [[share (finance)|share]]s. These shares could be transferred by sale, gift or [[bequest]]. Many could not afford to purchase shares to become a member, even though they may have belonged to [[reading group|reading club]]s.<ref name=Forster />{{rp|148–149}}
+
+===Circulating libraries===
+[[File:Donald McDonald, stationer, and his Circulating Library, Gulgong, 1870-1875, American and Australasian Photographic Company (5748710857).jpg|right|thumb| [[Circulating library]] and stationery shop, [[Gulgong]], Australia 1870.]]
+The increasing production and demand for fiction promoted by rising literacy rates and the expansion of commercial markets, led to the rise of [[circulating library|circulating libraries]], which met a need that subscription libraries did not fulfill.
+
+William Bathoe opened his commercial venture at two locations in London in 1737, and claimed to have been 'the Original Circulating library'.<ref name=Raven>{{cite book|last=Raven|first=James|title=The Cambridge History of Libraries in Britain and Ireland Volume 2: 1640–1850|date=2006|publisher=Cambridge University Press|isbn=9780521792745|page=251|chapter=15 - Libraries for sociability: the advance of the subscription library}}</ref><ref name=picture1807>{{cite book |title=Picture of London, for 1807 |author=[[John Feltham]] |publisher=Richard Phillips |edition=8th |location=London |chapter= Circulating Libraries |chapterurl=https://books.google.com/books?id=j9MHAAAAQAAJ&pg=PA318 }}</ref> An early circulating library may even have been established in the mid-17th century; in an edition of "Tom Tyler and his Wife" in 1661 [[Francis Kirkman]] included a catalogue of 690 plays which he claimed to be ready to lend "upon reasonable considerations" from his premises in [[Westminster]].
+
+Circulating libraries charged subscription fees to users and offered serious subject matter as well as the popular novels, thus the difficulty in clearly distinguishing circulating from subscription libraries.<ref name=Eliot>{{cite book|last=Eliot|first=Simon|title=The Cambridge History of Libraries in Britain and Ireland Volume 3: 1850–2000|date=2006|publisher=Cambridge University Press|isbn=9780521780971|pages=125–126|chapter=11 - Circulating libraries in the Victorian age and after}}</ref> Occasionally subscription libraries called themselves 'circulating libraries', and vice versa.
+
+<blockquote>
+"Many ordinary circulating libraries might call themselves 'subscription' libraries because they charged a subscription, while the earliest private subscription libraries, such as [[Leeds Library|Leeds]], [[Warrington Circulating Library|Warrington]], or Liverpool, describe themselves as 'circulating' libraries in their titles. Since many circulating libraries called themselves after the town where they were situated, it is often difficult to distinguish the type of a particular library, especially since many are only known to posterity from a surviving book label, with nothing but the name as identification".<ref name=Manley>Manley, K.A. "Booksellers, peruke-makers, and rabbit-merchants: the growth of circulating libraries in the eighteenth century." Libraries and the Book Trade: The formation of collections from the sixteenth to the twentieth century. Ed. Myers. New Castle, Delaware: Oak Knoll Press, 2000, p. 39.</ref></blockquote>
+
+In Britain there were more than 200 commercial circulating libraries open in 1800, more than twice the number of subscription and private proprietary libraries that were operating at the same time.  Many proprietors pandered to the most fashionable clientele, making much ado about the sort of shop they offered, the lush interiors, plenty of room and long hours of service.<ref name=Raven /> "These 'libraries' would be called rental collections today."<ref>{{Citation |publisher = Scarecrow Press |isbn = 081082972X |publication-place = Metuchen, N.J |title = History of libraries in the western world |author = Michael H. Harris |publication-date = 1995}}</ref>
+
+With the advent of free [[public library|public libraries]] in the 19th century, most subscription libraries were replaced or taken over by the governing authorities.
+
+===Learned societies===
+In London, numerous [[scientist|scientific dabblers]], amateurs, professionals concentrated in the comparatively small geographic area began to form a unique development - the [[learned society]]:
+
+<blockquote>"These societies are voluntary associations of men and women who have come together because they are interested in the aims and objects which the societies serve and they feel that they can pursue those interests better as members of a society, rather than as individuals.  The libraries therefore have been collected together for the purpose of serving the objects to which the various societies are dedicated and they do this, for the most part, by serving their members".<ref name=Vernon>{{cite book|author1=Vernon, K. D. C.|title=The Libraries of London|date=1961|publisher=The Library Association|location=London|chapter=Learned Society Libraries}}</ref>{{rp|242}}</blockquote>
+
+Learned society libraries were private but were owned by larger groups of people. Materials were often lent or borrowed by qualified individuals or institutions outside the society. Societies were concerned mainly with the sciences, physical and biological, and often cooperated with other groups like the [[Royal Society]].
+
+Exclusive subscription libraries, the world's oldest being the [[Chemical Society]] in London, was founded in 1841 for the general advancement of [[chemistry]]. Its primary objective was to guide and direct original research in chemistry and to disseminate that knowledge through [[debate]]s, lectures and its own ''[[Journal of the Chemical Society|journal]]''.<ref name=Vernon />{{rp|243–246}}
+
+==Current membership libraries==
+
+===United Kingdom===
+* 1653:	[[Chetham's Library]]
+* 1680:	[[Innerpeffray Library]]
+* 1704:	[[Thomas Plume|Thomas Plume's Library]]
+* 1741: [[Leadhills|The Leadhills Miners' Library]]
+* 1768:	[[Leeds Library]]
+* 1788:	[[Linen Hall Library]]
+* 1793:	[[The Literary and Philosophical Society of Newcastle upon Tyne]]
+* 1793:	[[Westerkirk Parish Library]]
+* 1797:	[[Liverpool_Athenaeum|The Athenaeum (Liverpool)]]
+* 1799:	[[Tavistock Subscription Library]]
+* 1800:	[[Langholm Library]]
+* 1806:	[[Portico Library]]
+* 1810:	[[Plymouth Proprietary Library]]
+* 1812:	[[Plymouth Athenaeum Library]]
+* 1813:	[[Devon and Exeter Institution]]
+* 1816:	[[Nottingham Subscription Library]]
+* 1818:	[[Morrab Library]]
+* 1824:	[[Bath Royal Literary and Scientific Institution]]
+* 1824:	[[Ipswich Institute Reading Room and Library]]
+* 1832:	[[Bradford Mechanics' Institute Library]]
+* 1832:	[[Saffron Walden Town Library Society]]
+* 1834:	[[Guildford Institute of the University of Surrey]]
+* 1839:	[[Highgate Literary and Scientific Institution]]
+* 1841:	[[London Library]]
+* 1854:	[[Birmingham and Midland Institute]]
+* 1889:	[[Saint Deiniol's Residential Library]]
+* 1894:	[[Bishopsgate Institute]]
+* 1912:	[[Armitt Library]]
+* 1928:	[[Sybil Campbell Library]]
+
+===United States of America===
+* 1731:  [[Library Company of Philadelphia]]
+* 1747:  [[Redwood Library and Athenaeum]]
+* 1748:  [[Charleston Library Society]]
+* 1753:  [[Providence Athenaeum]]
+* 1754:  [[New York Society Library]]
+* 1795:  [[Lexington (Kentucky) Library Society]]
+* 1804:  [[Social Law Library]]
+* 1807:  [[Boston Athenæum]]
+* 1810:  [[Salem Athenaeum]]
+* 1814:  [[Athenaeum of Philadelphia]]
+* 1816:  [[New Orleans Library Society]]
+* 1817:  [[Portsmouth Athenaeum]]
+* 1820:  [[General Society Library of New York City]]
+* 1820:  [[Maine Charitable Mechanics Association]] Library of Portland
+* 1820:  [[New York Mercantile Library]]
+* 1826:  [[The Institute Library (New Haven)]]
+* 1835:  [[Mercantile Library of Cincinnati]]
+* 1846:  [[St. Louis Mercantile Library Association]]
+* 1853:  [[Congregational Library & Archives]]
+* 1854:  [[San Francisco Mechanics' Institute]]
+* 1890:  [[Lanier Library Association]] (Lanier Library of North Carolina)
+* 1899:  [[Athenaeum Music & Arts Library]] of La Jolla
+* 1900:  Milford Mystery Library of Milford, Ohio <ref>{{cite web|title=|url=https://www.geocaching.com/track/details.aspx?id=6195839</ref>
+* 1908:  [[Timrod Library]]
+* 1947:  [[Mendocino Community Library]]
+* 1999:  [[John Trigg Ester Library]]
+* 2015:  [[Folio: The Seattle Athenaeum]] <ref>folioseattle.org</ref>
+
+===Republic of Ireland===
+* 1922:	[[Central Catholic Library]]
+
+===Canada===
+[[File:Atwater Library of the Mechanics Institute of Montreal 02.jpg|thumb|right|Atwater Library of the Mechanics Institute of Montreal]]
+* 1828: [[Atwater Library of the Mechanics' Institute of Montreal]]
+
+===Australia===
+* 1833:	[[Sydney Mechanics' School of Arts]]
+*1839:	[[Melbourne Athenaeum]]
+
+==See also==
+{{Portal|Libraries}}
+*[[Public library]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{Citation |publisher = Encyclopædia Britannica Co. |publication-place = New York |title = Encyclopædia Britannica |publication-date = 1910 |oclc = 14782424 |edition=11th |chapterurl =https://archive.org/stream/encyclopaediabri16chisrich#page/558/mode/1up |chapter =Libraries: Proprietary and Subscription Libraries }}
+
+==External links==
+* [http://travel.nytimes.com/2008/03/07/travel/escapes/07athenaeum.html?em&ex=1205125200&en=3592d35201878ab2&ei=5087%0A "Where Greek Ideals Meet New England Charm"] - article about subscription libraries in [[New England]], from ''[[The New York Times]]'', March 7, 2008
+* The Library of Congress preserves a part of the lending stock of an early 20th-century commercial lending library in its [https://www.loc.gov/rr/rarebook/coll/tabard.html  Tabard Inn Collection]
+*[https://www.nytimes.com/2006/06/11/business/yourmoney/11library.html "Libraries of Gracious Reading, for Members Only"]
+*[https://www.bbc.com/news/uk-england-nottinghamshire-35831853 "The fall and rise of subscription libraries"]
+
+[[Category:Subscription libraries| ]]
+[[Category:Types of library]]

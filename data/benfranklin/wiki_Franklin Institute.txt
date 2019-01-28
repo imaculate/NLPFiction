@@ -1,0 +1,277 @@
+{{About|the science museum in Philadelphia|the Boston school|Benjamin Franklin Institute of Technology}}
+
+{{Infobox museum
+ |name          = The Franklin Institute
+ |image         = The Franklin Institute logo.svg
+ |caption       =
+ |alt           =
+ |established   = 1824
+ |dissolved     =
+ |location      = [[Philadelphia]], [[Pennsylvania]]
+ |type          = [[Science museum]]
+ |visitors      =
+ |president     = Larry Dubinski
+ |curator       =
+ |publictransit = {{bus icon|12px}} {{rint|septa|60px}} [[SEPTA]] bus: {{SEPTA bus link|7|32|33|38|48}}<br>{{bus icon|12px}} [[Philly PHLASH]] 
+ |website       = [http://www.fi.edu/ The Franklin Institute]
+{{Infobox NRHP
+  | name = Franklin Institute Science Museum
+  | embed = yes
+  | nrhp_type = 
+  | image = Philly042107-010-FranklinInstitute.jpg
+  | caption = Franklin Institute
+  | location= 222 N 20th St, Philadelphia, PA
+  | coordinates = {{coord|39|57|29|N|75|10|25|W|display=inline,title}}
+| locmapin = Philadelphia#Pennsylvania#USA
+  | built = 1931
+  | architect = Windrim, John Torrey; Day & Zimmermann
+  | architecture = Classical Revival
+  | added = January 3, 1985
+  | area = {{convert|4.4|acre}}
+  | governing_body = Private 
+  | refnum = 85000039<ref name="nris">{{NRISref|version=2010a}}</ref>
+}}
+}}
+
+'''The Franklin Institute''' is a science museum and the center of science education and research in [[Philadelphia, Pennsylvania]]. It is named after the American scientist and [[wikt:statesman|statesman]], [[Benjamin Franklin]], and houses the [[Benjamin Franklin National Memorial]]. Founded in 1824, the Franklin Institute is one of the oldest centers of science education and development in the United States.
+
+==History==
+On February 5, 1824, [[Samuel Vaughan Merrick]] and [[William H. Keating]] founded the Franklin Institute of the State of Pennsylvania for the Promotion of the [[Artes Mechanicae|Mechanic Arts]].
+
+:''"…With a view further to develop the resources of the union, increase the national independence, call forth the ingenuity and industry of the people, and thereby increase the comforts of the community at large.    ''' Franklin Institute, opening day 1924, (The Literary chronicle for the Year 1824, p 524)'''''
+
+Begun in 1825, the Institute was an important force in the professionalization of American science and technology through the nineteenth century, beginning with early investigations into steam engines and water power. In addition to conducting scientific inquiry it fostered research and education by running schools, publishing the influential ''Journal of The Franklin Institute'', sponsoring exhibitions, and recognizing scientific advancement and invention with medals and awards.<ref>Morris, Stephanie A. "The Dynamics of Change: The Franklin Institute and the Making of Industrial America." ''[http://cisupa.proquest.com/ksc_assets/catalog/3504_FranklinInstituteIndAm.pdf The Franklin Institute and the Making of Industrial America. Guide to the Microfiche Collection]''. Bethesda, MD: CIS Academic Editions, 1987, pp. 1-12.</ref>
+
+In the late twentieth century the Institute's research roles gave way to educating the general public through its museum. The Bartol Research Foundation of the Franklin Institute, founded in 1924 to conduct research in the physical sciences, is now part of the University of Delaware.<ref>Rowland-Perry, Sherry L. "The Bartol Research Institute: A Brief History." http://www.bartol.udel.edu/wwwroot/history.html Retrieved Jan 30, 2015.</ref> The Franklin Institute Laboratories for Research and Development operated from the Second World War into the 1980s.
+
+[[File:AtwaterKentMuseum Phila.jpg|thumb|left|The Franklin Institute's original building is now the [[Philadelphia History Museum]]]]
+Many scientists have demonstrated groundbreaking new technology at the Franklin Institute. From September 2 to October 11, 1884, it hosted the [[International Electrical Exhibition of 1884]], the first great electrical exposition in the United States.<ref>{{cite journal|last=Gibson|first=Jane Mork|date=August 1980 |title=The International Electrical Exhibition of 1884: A Landmark for the Electrical Engineer |journal=IEEE Transactions on Education|volume=23|issue=3|pages=169–176 |issn=0018-9359|bibcode = 1980ITEdu..23..169G |doi = 10.1109/TE.1980.4321403 }}. DOI 10.1109/TE.1980.4321403</ref> The world's first public demonstration of an all-electronic television system was later given by [[Philo Taylor Farnsworth]] on August 25, 1934.<ref>{{cite book|last1=Abramson|first1=Albert|title=The History of Television, 1880 to 1941|date=1987|publisher=McFarland & Co.|location=Jefferson, North Carolina|isbn=0-89950-284-9|page=209}}</ref>
+
+The first female member, Elizabeth Skinner, was elected to membership in 1833. The Franklin Institute was [[Racial integration|integrated]] in 1870, when Philadelphia teacher and activist [[Octavius Catto]] was admitted as a member.
+
+The Institute's original building at 15 South 7th Street, now the home of the [[Philadelphia History Museum|Atwater Kent Museum]], eventually proved too small for the Institute's research, educational programs, and library. The Institute moved into its current home on the [[Benjamin Franklin Parkway]], near the intersection with 20th Street, in 1934. The new facility was intended from the start to educate visitors through hand-on interactions with exhibits: "Visitors to this museum would be encouraged to touch, handle, and operate the exhibits in order to
+learn how things work."<ref>Morris, p. 10.</ref> Funds to build the new Institute and Franklin Memorial came from the Poor Richard Club, the City Board of Trust, the Benjamin Franklin Memorial, Inc., and the Franklin Institute. John T. Windrim's original design was a completely square building surrounding the Benjamin Franklin Statue, which had yet to be built. Despite the effects of the [[Great Depression]], the Benjamin Franklin Memorial, Inc. raised $5 million between December 1929 and June 1930. Only two of the four wings envisioned by Windrim were built; these face the Parkway and share design elements with other cultural and civic structures around [[Logan Circle (Philadelphia)|Logan Circle]].
+[[File:Franklin_1-2¢_Scott_803_FDC_at_Franklin_Institute_May_19,_1938.jpg|thumb|right|FDC for Franklin 1/2¢ stamp issued at the Franklin Institute on May 19, 1938]]
+On March 31, 1940, press agent William Castellini issued a press release stating that the world would end the next day. The story was picked up by [[KYW (AM)|KYW]], which reported, "Your worst fears that the world will end are confirmed by astronomers of Franklin Institute, Philadelphia. Scientists predict that the world will end at 3 p.m. [[North American Eastern Time Zone|Eastern Standard Time]] tomorrow. This is no [[April Fool's Day|April Fool joke]]. Confirmation can be obtained from Wagner Schlesinger, director of the Fels Planetarium of this city." This caused a panic in the city which only subsided when the Franklin Institute assured people it had made no such prediction. Castellini was dismissed shortly thereafter.<ref>{{cite web|url=http://www.museumofhoaxes.com/hoax/aprilfool/P70 |title=Top 100 April Fool's Day Hoaxes Of All Time |publisher=Museumofhoaxes.com |date= |accessdate=2013-08-19}}</ref>
+
+On December 21, 2017, during a party hosted by the museum, a partygoer with his companions slipped into a closed-off exhibit of ten [[terracotta army|terracotta warriors]] on loan from China. After his companions left, the partygoer broke off and stole a thumb from one of the warriors. Law enforcement agents later recovered the stolen thumb. The vandalized cavalryman is valued at 4.5 million USD, and is considered a "priceless part of China's cultural heritage". The vandalism stoked outrage in Chinese media such as [[Xinhua]]. The Franklin Institute blamed its external security contractor, and stated it has reviewed its security measures and procedures to prevent such situations from recurring.<ref>{{cite news|title=Chinese anger after terracotta warrior's thumb stolen in US|url=https://www.cnn.com/2018/02/19/us/terracotta-warrior-thumb/index.html|accessdate=23 February 2018|work=CNN|date=2018}}</ref><ref>{{cite news|last1=Ramzy|first1=Austin|title=American Is Charged With Stealing Terra-Cotta Warrior’s Thumb|url=https://www.nytimes.com/2018/02/19/world/asia/terra-cotta-warrior.html|accessdate=23 February 2018|work=The New York Times|date=19 February 2018}}</ref>
+
+===Succession of presidents===
+[[Image:Steps from Moore.jpg|thumb|Front steps, as seen from the [[Moore College of Art]]]]
+*James Ronaldson (1824–1841)
+*Samuel V. Merrick (1842–1854)
+*John C. Cresson (1855–1863)
+*[[William Sellers]] (1864–1866)
+*John Vaughan Merrick (1867–1869)
+*Coleman Sellers (1870–1874)
+*Robert Empie Rogers (1875–1878)
+*William Penn Tatham (1880–1885)
+*Joseph Miller Wilson (1887–1896)
+*Dr. Walton Clark (1907–1923)
+*Dr. W. Laurence LePage (1958-1967)
+*Dr. Athelstan F. Spilhaus (1967–1969)
+*Dr. Bowen C. Dees (1970-1981)
+*Dr. Joel N. Bloom (1969–1990)
+*Dr. [[James L. Powell]] (1991-1994)
+*Dr. Dennis M. Wint (1995–2014)
+*Larry Dubinski (2014–present)
+
+=== Chair of the Board of Trustees ===
+
+*Donald Morel (2014–present)<ref>{{Cite web|url=https://www.fi.edu/sites/default/files/attachments/press/140312%20TheFranklinInstituteAnnounces%20NewBoardChair.pdf|title=The Franklin Institute Announces New Board Chair Incoming Board Chair Donald Morel Follows the Extraordinary Eight-Year Tenure of Marsha R. Perelman|last=|first=|date=March 12, 2014|website=The Franklin Institute|archive-url=|archive-date=|dead-url=|access-date=September 9, 2018}}</ref>
+
+===Board of Trustees Emeriti Members ===
+*William J. Avery<ref name=emeriti>{{Cite web|url=https://www.fi.edu/about-us/board-of-trustees|title=Franklin Institute Board of Trustees|last=|first=|date=|website=Franklin Institute|archive-url=|archive-date=|dead-url=|access-date=September 9, 2018}}</ref> 
+*Marsha R. Perelman<ref name=emeriti/> 
+*James A. Unruh<ref name=emeriti/>
+
+===Capital Campaign===
+[[File:Wright 1911 Model B Flyer - Franklin Institute - DSC06579.JPG|thumb|A 1911 [[Wright Brothers]] Model B flyer.]]
+In 2006, the Franklin Institute began fundraising activities for the Inspire Science! capital campaign, a $64.7 million campaign intended to fund the construction of a 53,000 square foot building addition, new exhibits, and upgrades and renovations to the existing Institute building and exhibits.<ref>{{cite web|url=http://www.fi.edu/inspire/history.php |title=The Franklin Institute - Inspire Science! - History |publisher=Fi.edu |date= |accessdate=2013-08-19}}</ref>
+
+In 2011, the Franklin Institute received a $10 million gift from Athena and Nicholas Karabots towards the Inspire Science! capital campaign. This gift is the largest gift in the Institute's history, and put the Franklin Institute within $6 million of the $64.7 million capital campaign goal. The Nicholas and Athena Karabots Pavilion will house not only a $10 million multiroom exhibit on neuroscience, but also a conference center, classroom space, and additional room for traveling exhibitions.<ref>{{cite web|last=Dobrin |first=Peter |url=http://www.philly.com/philly/columnists/peter_dobrin/20111002_A__10_million_gift_for_Franklin_Institute__from_a_onetime__bad_kid_.html?ref=facebook.com |title=A $10 million gift for Franklin Institute, from a onetime 'bad kid' |publisher=Philly.com |date=2011-10-02 |accessdate=2013-08-19}}</ref>
+
+==The Science Center==
+The most recognizable part of the Franklin Institute's Science Center is the '''Franklin Institute Science Museum'''. In the spirit of inquiry and discovery embodied by Benjamin Franklin, the mission of the Franklin Institute Science Museum serves to inspire an understanding of and passion for science and technology learning.  Among other exhibits, the Science Museum holds the largest collection of artifacts from the [[Wright brothers]]' workshop.
+
+===Permanent exhibits===
+{{refimprove section|date=February 2014}}
+[[File:Giant heart.jpg|thumb|upright|The newly-refurbished Giant Heart]]
+[[File:Maillardet's automaton.jpg|thumb|[[Maillardet's automaton]] in the Amazing Machine]]
+[[File:Franklin Observatory.jpg|left|upright|thumb|Joel N. Bloom Observatory at night]]
+*''Electricity'', which replaced ''Franklin...He's Electric'' in 2010, showcases Franklin's discovery of electricity and its use in the modern world, including elements such as a sustainable dance floor, and an array of LEDs that turn on in the presence of cell phone signals and other low-power electrical signals.<ref>{{cite web|url=http://www2.fi.edu/exhibits/permanent/electricity.php |title=The Franklin Institute – Exhibit – Electricity |publisher=.fi.edu |date= |accessdate=2013-08-19}}</ref> (Electricity and Technology)
+*''Changing Earth'', which opened to the public, along with ''Electricity'', on March 27, 2010, focuses on the powerful forces of air, water, and land and their effect upon the earth, as well as how humans respond to and interact with these forces.<ref>{{cite web|url=http://www2.fi.edu/exhibits/permanent/changing-earth.php |title=The Franklin Institute – Exhibit – Changing Earth |publisher=.fi.edu |date= |accessdate=2013-08-19}}</ref>
+*''The Franklin Airshow'' features The [[Wright Brothers]] Aeronautical Engineering Collection, their newly restored Model B [[Wright Flyer|Flyer]], and a [[United States Air Force]] 1948 [[Lockheed T-33|T-33 Shooting Star]] jet trainer. (Aviation and Technology)
+*''[[The Giant Heart]]'' has been a Philadelphia icon since its opening in 1954. (Biology, Chemistry and Anatomy)
+*''Joel N. Bloom Observatory'', remodeled in 2006, features five telescopes, including a very large {{convert|10|in|adj=on}} Zeiss Refractor and four {{convert|8|in|adj=on}} Meade Reflectors.
+*''SportsZone'' is an interactive exhibit that shows the science behind sports. (Physics and Technology)
+*''The Train Factory'' has a real, once movable train: The [[Baldwin 60000]] steam locomotive, which was rolled into the museum while the building's walls were still being constructed.  (The 60000's track is itself the top level of a full-size exhibit on bridge engineering in the museum basement and long closed to the public.) (History, Engineering, and Technology)
+*''Sir Isaac's Loft'' allows visitors to blend art and science into their own masterpiece. (Physics and Art)
+*''Space Command'' features real space suits and allows visitors to track their houses, in real time, via satellite. (Astronomy, Technology, and Mathematics)
+* The Franklin Institute installed ''Foxtrot Papa,'' a former British Airways Boeing 707 airliner, as a permanent exhibit in the mid-1970s. Standing above an outdoor Science Park and connected to the second-floor aviation hall by skybridges, this aircraft could easily be seen from the outside of the building and was a remarkable sight in the middle of a major city. In the 1980s, however, the aircraft was sold for scrap, much to the dismay of local aviation enthusiasts.<ref>Mauger, Edward Arthur: ''Philadelphia Then and Now'', page 89. Thunder Bay Press, 2002. {{ISBN|1-57145-880-8}}.</ref>
+*''Amazing Machine'' allows visitors to experience a machine-like environment featuring little-seen pieces from the Franklin Institute's priceless collection, including [[Maillardet's automaton]],<ref>[http://www.fi.edu/learn/sci-tech/automaton/automaton.php?cts=instrumentation Maillardet's Automaton] at the Franklin Institute</ref> believed to have the largest cam-based memory of any automaton of the era.<ref>{{cite news|last=Gayle|first=Damien|title=The incredible 200-year-old automaton: The jewel-studded clockwork caterpillar built to show off 19th Century high technology|url=http://www.dailymail.co.uk/sciencetech/article-2253631/The-incredible-200-year-old-automaton-The-jewel-studded-clockwork-caterpillar-built-19th-Century-high-technology.html|accessdate=2013-09-29|newspaper=Daily Mail|date=27 December 2012}}</ref>
+*"Your Brain" explores the physiology and neurology of our most remarkable organ. The exhibit includes an 18-foot-tall [[Spencer Luckey|Luckey Climber]] climbing structure that simulates neural pathways sending messages, and an area to discuss questions of neuroscience ethics, in addition to 70 interactive learning experiences. [[File:Franklin Institute Luckey Climber.jpg|thumb|The Neural Climber at The Franklin Institute]]
+
+===Other attractions===
+[[File:2008 09 07 - Philadelphia - Budd BB-1 Pioneer 06.JPG|thumb|[[Budd BB-1 Pioneer|Budd BB-1 ''Pioneer'']] in front of museum]]
+The Science Center includes many pertinent attractions that are not museum exhibits. The [[Budd BB-1 Pioneer|Budd BB-1 ''Pioneer'']] flying boat, in front of the museum, was the first stainless steel airplane built by the [[Budd Company|Edward F. Budd Manufacturing Corporation]] and has been on display since 1935.<ref>[http://www.airfields-freeman.com/PA/Airfields_PA_Philly_NE.htm] [[Abandoned & Little-Known Airfields]]: Pennsylvania – Northeastern Philadelphia area</ref>
+
+A mock-up which would eventually become the Lunar Module in the Apollo space program, first shown on display in the 1966–67 World's Fair, held in the New York Hall of Science, is also located on the grounds.  (See [[:File:Apollo lander, Franklin Institute - DSC06612.JPG|photo]].)
+
+====Theaters====
+In 1933, [[Samuel Simeon Fels]] contributed funds to build '''The Fels Planetarium''', only the second built in the United States after [[Chicago]]'s [[Adler Planetarium]]. Fully reconstructed in 2002, the Planetarium's new design includes replacement of the original 40,000-pound stainless steel dome, originally built in 1933. The new premium dome is lighter and is {{convert|60|ft|m}} in diameter. It is the first of its kind in the United States. The planetarium is also outfitted for visitors who are hearing impaired.
+
+''The Tuttleman [[IMAX]] Theater'' is an IMAX dome theater that is 180° encompassing and tilted at 30 degrees. The seating places the audience up in the dome which is over {{convert|70|ft|m}} across and 4.5 stories tall. In addition, the theater has 20,000 watts of amplifier power and over 50 speakers.
+
+Early in 2008, extensive renovation of the museum's auditorium was completed. Previously a lecture hall, the space was renamed Franklin Theater, and features 3-D and hi-def [[Blu-ray Disc|Blu-ray]] digital projection capabilities. The Franklin Theater shows educational films during daytime hours while also including mass release feature-length films.
+
+===Traveling exhibits===
+[[Image:Tut steps busy.jpg|thumb|left|During the King Tut Exhibit, the front steps were decorated with an image of [[King Tut]]'s face.]]
+In the past, the Science Center has hosted many traveling exhibits including ''Storms'', ''[[RMS Titanic|Titanic]]'', ''[[Grossology (books)|Grossology]]'', ''[[Body Worlds]]'', ''[[Charles Darwin|Darwin]]'', and ''Robots''.  In the summer of 2007, the Franklin Institute hosted ''Tutankhamun and The Golden Age of The Pharaohs,'' in the Mandell Center of the Franklin Institute Science Museum.  The exhibit began its United States Tour in [[Los Angeles]], [[California|CA]], and went to [[Fort Lauderdale, Florida|Fort Lauderdale]], [[Florida]], and [[Chicago]], [[Illinois|IL]], before coming to [[Philadelphia]] for its final American appearance.  When the exhibit left Philadelphia on September 30, 2007, it traveled to [[London]], England.
+
+This exhibit was nearly twice the size of the original [[King Tut|Tutankhamun]] exhibit of the 1970s, and contained 50 objects directly from Tut's tomb, as well as nearly 70 object from the tombs of his ancestors in The [[Valley of the Kings]]. The show also featured a [[CT Scan|CAT Scan]] that revealed what the Boy King may have looked like.
+
+The Franklin Institute is a member of the Association of Science and Technology Centers (ASTC)<ref>{{cite web|url=http://www.astc.org |title=Association of Science - Technology Centers |publisher=Astc.org |date=2013-01-03 |accessdate=2013-08-19}}</ref> and the [[American Alliance of Museums]] (AAM).<ref>{{cite web|url=http://www.aam-us.org |title=The American Alliance of Museums |publisher=Aam-us.org |date= |accessdate=2013-08-19}}</ref>
+
+The Franklin Institute is also a member of the Science Museum Exhibit Collaborative with the [[Fort Worth]] Museum of Science & History; the [[Museum of Science, Boston]]; [[COSI Columbus]], formerly known as the ''Center of Science and Industry'' in [[Columbus, Ohio]]; [[Oregon Museum of Science and Industry|OMSI]] in [[Portland, Oregon]]; the [[Science Museum of Minnesota]] in [[Saint Paul, Minnesota]]; and the [[California Science Center]], formerly the ''California Museum of Science & Industry'', in [[Los Angeles, California]].
+{{Clear}}
+
+===Benjamin Franklin National Memorial===
+[[File:Benjamin Franklin National Memorial.jpg|thumb|upright|[[James Earle Fraser (sculptor)|Fraser's]] statue of [[Benjamin Franklin]]]]
+{{Main|Benjamin Franklin National Memorial}}
+
+The Benjamin Franklin National Memorial features a {{convert|20|ft|m|adj=on}} high marble statue, sculpted by James Earle Fraser.  Originally opened in 1938, the Memorial was designed by architect John Windrim and modeled after the Pantheon in [[Rome]].  The Hall is {{convert|82|ft|m}} in length, width, and height.  The domed ceiling is self-supporting and weighs 1600 tons.  The floors, walls, columns, pilasters, and cornices are made of marbles imported from Portugal, Italy, and France.
+The [[United States Congress]] designated the Hall and statue as the official Benjamin Franklin National Memorial on October 25, 1972. The Memorial was dedicated by Vice President [[Nelson Rockefeller]] in 1976.
+
+The Benjamin Franklin National Memorial is the only privately owned National Memorial in the country, and it is maintained by the museum.
+
+On December 30, 2005, Congress authorized the Institute to receive up to $10,000,000 in matching grants for the rehabilitation of the memorial and for the development of related exhibits.<ref>''The National Parks: Index 2001–2003''. Washington: [[United States Department of the Interior|U.S. Department of the Interior]].</ref>
+
+In the fall of 2008, the Benjamin Franklin National Memorial was re-opened after a summer-long restoration that included multimedia enhancements. Philadelphia's most famous citizen is now featured in ''Benjamin Franklin Forever'' - an hourly 3.5-minute multimedia presentation utilizing the entire rotunda.
+
+Also noteworthy is the Franklin Institute's Frankliniana Collection, some of which is on rotating display in the Pendulum Staircase. Highlights include Franklin's 1777 Nini Medallion, the [[maquette|scale model]] of the bust from the statue in the Memorial, the figurehead of Franklin's bust from the ''USS Franklin'', his ceremonial sword used in the court of King Louis XVI, and the odometer that Franklin used to measure the postal routes in Philadelphia. Additionally, the Institute's ''Electricity'' exhibition highlights one of Franklin's lightning rods, his electricity tube, a Franklin Electrostatic Generator, the 1751 publication of Franklin's ''[[Experiments and Observations on Electricity]]'', and [[Thornton Oakley]]'s two 1940 historical murals of Franklin and the "Kite and Key" experiment.
+
+===''The Journal of The Franklin Institute''===
+In 1826, ''The Journal of The Franklin Institute'' was established to publish US Patent information and to document scientific and technological achievements throughout the nation.  It is the second oldest continuously published [[scientific journal]] in the country, and is now primarily devoted to [[applied mathematics]].
+
+===Awards=== <!-- Other articles link here. -->
+{{See also|Franklin Institute Awards}}
+
+[[Image:logo awards.jpg|thumb|Benjamin Franklin Medal]]
+Since 1824, the Franklin Institute has maintained the longest continuously awarded science and technology awards program in the United States, and one of the oldest in the world. The first issue of the ''Journal of The Franklin Institute'', dated January 1826, makes the first written reference to these awards. Before 1998 several medals were awarded by the Franklin Institute, such as (year indicates when the award was first presented):<ref name="older_medals">{{cite web|url=http://www.wikimir.com/franklin-institute-awards |title=Franklin Institute Awards |publisher=WikiMir |accessdate={{Format date|2011|1|18}}}}</ref> the [[Elliott Cresson Medal]] (1875), the ''Edward Longstreth Medal'' (1890),<ref name="LongstrethMedal_Laureates">{{cite web |url=http://www.fi.edu/winners/show_results.faw?gs=&ln=&fn=&keyword=&subject=&award=LONG+&sy=1889&ey=1999&name=Submit |title=Franklin Laureate Database - Edward Longstreth Medal Laureates |publisher=Franklin Institute |accessdate={{Format date|2011|11|13}} |deadurl=yes |archiveurl=https://archive.is/20121210072119/http://www.fi.edu/winners/show_results.faw?gs=&ln=&fn=&keyword=&subject=&award=LONG+&sy=1889&ey=1999&name=Submit |archivedate=2012-12-10 |df= }}</ref> the [[Howard N. Potts Medal]] (1911), the [[Franklin Medal]] (1915), the [[George R. Henderson Medal]] (1924),<ref>{{cite book|url=https://books.google.com/books?id=8MNuIUw0cMAC&pg=RA5-PA54&dq=George+R.+Henderson+Medal&hl=en&sa=X&ei=bht5T97BKIme2AX8xaWUDg&ved=0CEQQ6AEwAg#v=onepage&q=George%20R.%20Henderson%20Medal&f=false|title=Awards By The Institute|work=Yearbook|year=1925|publisher=Franklin Institute|page=73}}</ref> the ''Louis E. Levy Medal'' (1924),<ref name="LevyMedal_Laureates">{{cite web |url=http://www.fi.edu/winners/show_results.faw?gs=&ln=&fn=&keyword=&subject=&award=LEVY+&sy=1923&ey=1999&name=Submit |title=Franklin Laureate Database - Louis E. Levy Medal Laureates |publisher=Franklin Institute |accessdate={{Format date|2011|1|22}} |deadurl=yes |archiveurl=https://web.archive.org/web/20110629195033/http://www.fi.edu/winners/show_results.faw?gs=&ln=&fn=&keyword=&subject=&award=LEVY+&sy=1923&ey=1999&name=Submit |archivedate=2011-06-29 |df= }}</ref> the [[John Price Wetherill Medal]] (1926),<ref name=1921YearBook>{{cite book|title=Year Book - Franklin Institute|date=1921|page=57|publisher=Franklin Institute|location=Philadelphia, Pa.|url=https://books.google.com/books?id=Lh4wAQAAMAAJ&pg=RA4-PA57|accessdate=4 June 2015}}</ref> The [[Frank P. Brown Medal]] (first awarded per FI site is 1941),<ref>[https://www.fi.edu/laureates-search?field_subject_tid=All&field_award_tid=41&field_year_value=1941 Willis Haviland Carrier] 1941 Engineering Brown</ref> [[Stuart Ballantine Medal]] (1947), and the ''[[Albert A. Michelson]] Medal'' (1968).<ref name="MichelsonMedal_Laureates">{{cite web|url=http://www.fi.edu/winners/show_results.faw?gs=&ln=&fn=&keyword=&subject=&award=MICH+&sy=1967&ey=1997&name=Submit |title=Franklin Laureate Database - Albert A. Michelson Medal Laureates |publisher=Franklin Institute |accessdate={{Format date|2011|6|14}} |deadurl=yes |archiveurl=https://web.archive.org/web/20120406103546/http://www.fi.edu/winners/show_results.faw?gs=&ln=&fn=&keyword=&subject=&award=MICH+&sy=1967&ey=1997&name=Submit |archivedate=2012-04-06 |df= }}</ref> Past winners include [[Henry Ford]], [[Frank Lloyd Wright]], [[Marie Curie]], and [[Thomas Edison]].<ref name="About_Awards">{{cite web|url=http://www.fi.edu/franklinawards/about.html |title=About the Awards: History and Facts |publisher=Franklin Institute |accessdate={{Format date|2011|1|18}}}}</ref>
+
+In 1998 all of the endowed medals were reorganized as the ''[[Benjamin Franklin Medal (Franklin Institute)|Benjamin Franklin Medal]]s''. Multiple medals are given every year, for different fields of science and engineering. The fields awarded today are "[[Chemistry]]", "[[Computer science|Computer]] and [[Cognitive Science]]", "[[Earth Science|Earth]] and [[Environmental Science]]", "[[Electrical Engineering]]", "[[Life Science]]", "[[Mechanical Engineering]]" and "[[Physics]]". In the past also the fields "[[Earth Science]]", "[[Engineering]]" and "[[Materials Science]]" were rewarded.<ref name="About_Awards"/><ref name="Awards_Laureates">{{cite web|url=http://www.fi.edu/winners/sample.faw |title=Franklin Laureate Database |publisher=Franklin Institute |accessdate={{Format date|2011|1|20}}}} Note: Parameter subject is the above described rewarded field.</ref>
+
+Additionally since 1990, the ''Bower Award and Prize for Achievement in Science'' (shortly the ''Bower Science Award'') and the ''Bower Award for Business Leadership'' have been awarded annually. They are funded by a $7.5 million [[bequest]] in 1988 from [[Henry Bower (chemist)|Henry Bower]], who was a chemical manufacturer in [[Philadelphia]]. The Bower Science Award contains $250,000 of cash, one of the largest amounts for a science award in the U.S.<ref name="About_Awards"/><ref name="Bower_Awards_Laureates">{{cite web|url=http://www.fi.edu/franklinawards/bower-laureates.html |title=Bower Award Laureates |publisher=Franklin Institute |accessdate={{Format date|2011|1|20}}}}</ref>
+
+The Institute's Committee on Science and the Arts determines the winners of these awards. Recipients and related information can be found in the laureates database.<ref name="About_Awards"/><ref name="Awards_Laureates"/>
+
+{| class="wikitable collapsible"
+|+ Recent Franklin Institute Awards
+|-
+! Award
+! 2012
+! 2013<ref>{{cite web|url=http://www.fi.edu/franklinawards/index.html |title=2013 Laureates |publisher=Franklin Institute |accessdate={{Format date|2013|04|06}}}}</ref>
+!2016<ref>{{cite web|url=https://www.fi.edu/franklin-institute-awards |title=2016 Laureates |publisher=Franklin Institute |accessdate={{Format date|2016|04|29}}}}</ref>
+|-
+| Benjamin Franklin Medal in Chemistry
+| see Bower Science Award
+| [[Jerrold Meinwald]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/13/bf_chemistry.html |title=Benjamin Franklin Medal in Chemistry |year=2013 |publisher=Franklin Institute |accessdate={{Format date|2013|04|29}} |deadurl=yes |archiveurl=https://archive.is/20130626174654/http://www.fi.edu/franklinawards/13/bf_chemistry.html |archivedate=2013-06-26 |df= }}</ref>
+|[[Nadrian Seeman|Nadrian C. Seeman]]
+|-
+| Benjamin Franklin Medal in Computer and Cognitive Science
+| [[Vladimir Vapnik]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/12/bf_computer.html |title=Benjamin Franklin Medal in Computer and Cognitive Science |year=2012 |publisher=Franklin Institute |accessdate={{Format date|2013|04|06}} |deadurl=yes |archiveurl=https://archive.is/20121214180036/http://www.fi.edu/franklinawards/12/bf_computer.html |archivedate=2012-12-14 |df= }}</ref>
+| [[William Labov]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/13/bf_computer.html |title=Benjamin Franklin Medal in Computer and Cognitive Science |year=2013 |publisher=Franklin Institute |accessdate={{Format date|2013|04|29}} |deadurl=yes |archiveurl=https://archive.is/20121214161132/http://www.fi.edu/franklinawards/13/bf_computer.html |archivedate=2012-12-14 |df= }}</ref>
+|[[Yale Patt|Yale N. Patt]]
+|-
+| Benjamin Franklin Medal in Earth and Environmental Science
+| [[Lonnie Thompson|Lonnie G. Thompson]] and<br />[[Ellen Stone Mosley-Thompson]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/12/bf_earth.html |title=Benjamin Franklin Medal in Earth and Environmental Science |year=2012 |publisher=Franklin Institute |accessdate={{Format date|2013|04|06}} |deadurl=yes |archiveurl=https://archive.is/20130626175415/http://www.fi.edu/franklinawards/12/bf_earth.html |archivedate=2013-06-26 |df= }}</ref>
+| [[Robert A. Berner]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/13/bf_earth.html |title=Benjamin Franklin Medal in Earth and Environmental Science |year=2013 |publisher=Franklin Institute |accessdate={{Format date|2013|04|29}} |deadurl=yes |archiveurl=https://archive.is/20130626175715/http://www.fi.edu/franklinawards/13/bf_earth.html |archivedate=2013-06-26 |df= }}</ref>
+|[[Brian Atwater|Brian F. Atwater]]
+|-
+| Benjamin Franklin Medal in Electrical Engineering
+| [[Jerry Nelson (astronomer)|Jerry Nelson]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/12/bf_eengineer.html |title=Benjamin Franklin Medal in Electrical Engineering |year=2012 |publisher=Franklin Institute |accessdate={{Format date|2013|04|06}} |deadurl=yes |archiveurl=https://archive.is/20130616085659/http://www.fi.edu/franklinawards/12/bf_eengineer.html |archivedate=2013-06-16 |df= }}</ref>
+| see Bower Science Award
+|[[Solomon W. Golomb]]
+|- 
+| Benjamin Franklin Medal in Life Science
+| [[Sean B. Carroll]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/12/bf_life.html |title=Benjamin Franklin Medal in Life Science |year=2012 |publisher=Franklin Institute |accessdate={{Format date|2013|04|06}} |deadurl=yes |archiveurl=https://archive.is/20130626175712/http://www.fi.edu/franklinawards/12/bf_life.html |archivedate=2013-06-26 |df= }}</ref>
+| [[Rudolf Jaenisch]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/13/bf_life.html |title=Benjamin Franklin Medal in Life Science |year=2013 |publisher=Franklin Institute |accessdate={{Format date|2013|04|29}} |deadurl=yes |archiveurl=https://archive.is/20130616071353/http://www.fi.edu/franklinawards/13/bf_life.html |archivedate=2013-06-16 |df= }}</ref>
+|[[Robert S. Langer]]
+|-
+| Benjamin Franklin Medal in Mechanical Engineering
+| [[Zvi Hashin]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/12/bf_mechanical.html |title=Benjamin Franklin Medal in Mechanical Engineering |year=2012 |publisher=Franklin Institute |accessdate={{Format date|2013|04|06}} |deadurl=yes |archiveurl=https://archive.is/20121211115106/http://www.fi.edu/franklinawards/12/bf_mechanical.html |archivedate=2012-12-11 |df= }}</ref>
+| [[Subra Suresh]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/13/bf_mechanical.html |title=Benjamin Franklin Medal in Mechanical Engineering |year=2013 |publisher=Franklin Institute |accessdate={{Format date|2013|04|29}} |deadurl=yes |archiveurl=https://archive.is/20130626175240/http://www.fi.edu/franklinawards/13/bf_mechanical.html |archivedate=2013-06-26 |df= }}</ref>
+|[[Shu Chien]]
+|-
+| Benjamin Franklin Medal in Physics
+| [[Rashid Sunyaev]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/12/bf_physics.html |title=Benjamin Franklin Medal in Physics |year=2012 |publisher=Franklin Institute |accessdate={{Format date|2013|04|07}} |deadurl=yes |archiveurl=https://archive.is/20130626174604/http://www.fi.edu/franklinawards/12/bf_physics.html |archivedate=2013-06-26 |df= }}</ref>
+| [[Alexander Dalgarno]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/13/bf_physics.html |title=Benjamin Franklin Medal in Physics |year=2013 |publisher=Franklin Institute |accessdate={{Format date|2013|04|29}} |deadurl=yes |archiveurl=https://archive.is/20130626174910/http://www.fi.edu/franklinawards/13/bf_physics.html |archivedate=2013-06-26 |df= }}</ref>
+|N/A
+|-
+| Bower Award and Prize for Achievement in Science<ref name="Bower_Awards_Laureates"/>
+| [[Louis E. Brus]] (Chemistry)<ref>{{cite web |url=http://www.fi.edu/franklinawards/12/bowersci.html |title=Bower Award and Prize for Achievement in Science |year=2012 |publisher=Franklin Institute |accessdate={{Format date|2013|04|07}} |deadurl=yes |archiveurl=https://archive.is/20121217010823/http://www.fi.edu/franklinawards/12/bowersci.html |archivedate=2012-12-17 |df= }}</ref>
+| [[Kenichi Iga]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/13/bowersci.html |title=Bower Award and Prize for Achievement in Science |year=2013 |publisher=Franklin Institute |accessdate={{Format date|2013|04|29}} |deadurl=yes |archiveurl=https://archive.is/20130626174812/http://www.fi.edu/franklinawards/13/bowersci.html |archivedate=2013-06-26 |df= }}</ref>
+|[[William J. Borucki]]
+|-
+| Bower Award for Business Leadership<ref name="Bower_Awards_Laureates"/>
+| [[John Chambers (CEO)|John Chambers]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/12/bowerbus.html |title=Bower Award for Business Leadership |year=2012 |publisher=Franklin Institute |accessdate={{Format date|2013|04|07}} |deadurl=yes |archiveurl=https://archive.is/20130626175041/http://www.fi.edu/franklinawards/12/bowerbus.html |archivedate=2013-06-26 |df= }}</ref>
+| [[Michael S. Dell]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/13/bowerbus.html |title=Bower Award for Business Leadership |year=2013 |publisher=Franklin Institute |accessdate={{Format date|2013|04|29}} |deadurl=yes |archiveurl=https://archive.is/20130626175011/http://www.fi.edu/franklinawards/13/bowerbus.html |archivedate=2013-06-26 |df= }}</ref>
+|[[Patrick Soon-Shiong]]
+|}
+
+==Informal Science Learning Research==
+The Franklin Institute also undertakes research in informal science education. Areas of special strength are educational technology, school partnerships, and youth leadership.  In addition, the Center has built a substantial portfolio of unique online resources of the history of science, including online exhibits on Ben Franklin and the Heart, as well as resources on the Wright Aeronautical Engineering Collection.
+[[Image:Foucault pendulum in the Franklin Institute.jpg|thumb|left|The [[Foucault pendulum]] staircase is the centerpiece of the museum.]]
+
+==Programs==
+
+===Science Leadership Academy===
+{{Main|Science Leadership Academy}}
+
+Opening in September 2006, The ''[[Science Leadership Academy]]'' is a partnership between the Franklin Institute and the School District of Philadelphia.
+
+===Teacher professional development===
+The Franklin Institute offers summer institutes and school year mini-courses for K-8 teachers, in collaboration with the School District of Philadelphia and Curriculum & Instruction Office.
+
+===Partnerships for Achieving Careers in Technology and Science===
+''Partnerships for Achieving Careers in Technology and Science'', or PACTS, is a year-round program of science enrichment, career development, and leadership opportunities for diverse{{clarify|date=August 2018}} middle- and high-school students in the Philadelphia Region.  PACTS students use hands-on science workshops, field based research, field trips, and laboratory experiments to learn how science affects their everyday lives.
+
+===Girls at the Center===
+''Girls at the Center'' is a partnership between the Franklin Institute and the [[Girl Scouts of the USA]] provided girls and their families a chance to learn about science together.  Over 100 sites participated in the program, with over seventy of the sites still active today.  Girls at the Center provided activities for the girls to do with their families at home, as well as projects to be completed on site, all culminating in a year-end party.
+
+==Nanotechnology==
+The Franklin Institute is a member of the [[Nanoscale Informal Science Education Network]] (NISE Net).
+
+== See also ==
+{{Portal|Philadelphia}}
+* [[Academy of Natural Sciences]]
+* [[Children's museum]]
+* [[John Scott Award]] (City of Philadelphia)
+* [[Logan Circle (Philadelphia)|Logan Square]]
+* [[Wagner Free Institute of Science]]
+* ''[[National Treasure (film)|National Treasure]]''
+* [[List of science museums]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+* {{Official website|http://www.fi.edu/ }}
+
+{{Philadelphia}}
+{{Museums in Pennsylvania}}
+{{Benjamin Franklin}}
+{{National Register of Historic Places}}
+
+[[Category:Franklin Institute| ]]
+[[Category:Biographical museums in Pennsylvania]]
+[[Category:Museums in Philadelphia]]
+[[Category:Museums established in 1825]]
+[[Category:Science museums in Pennsylvania]]
+[[Category:IMAX venues]]
+[[Category:1824 establishments in Pennsylvania]]
+[[Category:Logan Square, Philadelphia]]
+[[Category:Association of Science-Technology Centers member institutions]]
+[[Category:National Register of Historic Places in Philadelphia]]

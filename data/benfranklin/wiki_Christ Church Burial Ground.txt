@@ -1,0 +1,88 @@
+{{about||the cemetery in Quincy, Massachusetts|Christ Church Burial Ground (Quincy, Massachusetts)}}
+{{Infobox NRHP | name =Christ Church Burial Ground
+  | nrhp_type =
+  | image = Grabstätte Franklin.jpg
+  | caption = Benjamin Franklin's grave.
+  | location= 5th and Arch Sts.<br />[[Philadelphia, Pennsylvania]]
+  | coordinates = {{coord|39|57|07|N|75|08|55|W|display=inline,title}}
+| locmapin = Philadelphia#Pennsylvania#USA
+  | area =
+| architect=
+| architecture=
+ | added = June 24, 1971
+ | governing_body = Private
+ | refnum=71000062<ref name="nris">{{NRISref|2007a}}</ref>
+}}
+'''Christ Church Burial Ground''' in [[Philadelphia]] is an important early-American cemetery.  It is the final resting place of [[Benjamin Franklin]] and his wife, [[Deborah Read|Deborah]].  Four other signers of the [[United States Declaration of Independence|Declaration of Independence]] are buried here,  [[Benjamin Rush]], [[Francis Hopkinson]], [[Joseph Hewes]] and [[George Ross (delegate)|George Ross]].   Two more signers ([[James Wilson]] and [[Robert Morris (financier)|Robert Morris]]) are buried at [[Christ Church, Philadelphia|Christ Church]] just a few blocks away.
+
+The cemetery belongs to [[Christ Church, Philadelphia|Christ Church]], the [[Episcopal Church (United States)|Episcopal]] church founded in 1695 and place of worship for many of the famous [[American Revolutionary War|Revolutionary War]] participants, including [[George Washington]]. The burial ground is located at 5th and Arch Streets, across from the Visitors Center and [[National Constitution Center]].  The Burial Ground was started in 1719, and it is still an active cemetery. The Burial Ground is open to the public for a small fee, weather permitting; about 100,000 tourists visit each year. When the Burial Ground is closed, one can still view Benjamin Franklin's gravesite from the sidewalk at the corner of 5th and Arch through a set of iron rails. The bronze rails in the brick wall were added for public viewing in 1858 by parties working at the behest of the Franklin Institute, which assumed the responsibility of defending Franklin's historic ties to Philadelphia after prominent Bostonians criticized the city's maintenance of the grave and erected a Franklin statue there.<ref>{{cite web|url=http://hiddencityphila.org/2017/04/behind-the-publicity-stunt-at-benjamin-franklins-grave/}}</ref> Leaving [[Penny (United States coin)|pennies]] on Franklin's grave is an old Philadelphia tradition.
+
+==Burials==
+Other famous people buried at Christ Church Burial Ground include:
+
+*[[Michael Woolston Ash]] (1789–1858), congressman<ref name=CCP>{{Cite web |url=http://www.christchurchphila.org/Historic_Christ_Church/Burial_Ground/The_Graves/98/ |title=The Graves, Christ Church, Philadelphia, official site |access-date=2010-09-03 |archive-url=https://web.archive.org/web/20110811190605/http://www.christchurchphila.org/Historic_Christ_Church/Burial_Ground/The_Graves/98/ |archive-date=2011-08-11 |dead-url=yes |df= }}</ref>
+*[[Samuel John Atlee]] (1739–1786), delegate to the Continental Congress<ref name=CCP />
+*[[Benjamin Franklin Bache (journalist)|Benjamin Franklin Bache]] (1769–1798), grandson of Benjamin Franklin, printer and publisher of the ''Aurora'' newspaper<ref name=CCP/>
+*[[Sarah Franklin Bache]] (1743–1808), daughter of [[Benjamin Franklin]]<ref name=CCP />
+*Commodore [[William Bainbridge]] (1774–1833), Naval hero of [[War of 1812]], captain of "[[USS Constitution|Old Ironsides]]"<ref name=CCP />
+*[[Francis Biddle]] (1886–1968), United States Attorney General
+*[[James Biddle (commodore)|James Biddle]], Commodore in the United States Navy
+*[[Thomas Bond (physician)|Thomas Bond]] (1713–1784), co-founder of [[Pennsylvania Hospital]]<ref name=CCP />
+*Major General [[George Cadwalader]] (1806–1879), Civil War general<ref name=CCP />
+* [[John Cadwalader (jurist)|John Cadwalader]] (1805–1879), congressman and judge<ref>{{CongBio |C000011 |John Cadwalader |inline=please}}</ref>
+*[[Matthew Clarkson (mayor)|Matthew Clarkson]] (1733–1800), mayor of Philadelphia
+*[[Joseph Clay]] (1769–1811), United States Congressman
+*[[Tench Coxe]] (1755–1824), Continental Congressman
+*[[John Dunlap]] (1747–1812), printer of the Declaration of Independence<ref name=CCP />
+*[[Lewis Evans (surveyor)|Lewis Evans]] (c.1700–1756), cartographer and surveyor
+*[[Tench Francis, Jr.]] (1730-1800)
+*[[David Franks (aide-de-camp)|David Franks]] (1740–1793), aide-de-camp for General [[Benedict Arnold]] during the American War of Independence<ref name=CCP />
+*[[Samuel Hardy]] (1758–1785), Continental Congressman
+*[[Michael Hillegas]] (1729–1804), first [[Treasurer of the United States]]<ref name=CCP />
+*[[Thomas Hopkinson]] (1709–1751), father of [[Francis Hopkinson]], president of the Philosophical Society, one of the founders of the Library Company<ref name=CCP />
+*[[John Inskeep]] (1757–1834), mayor of Philadelphia
+*Major [[William Jackson (secretary)|William Jackson]] (1759–1828), Revolutionary War officer, secretary of the [[Philadelphia Convention|Constitutional Convention]]<ref name=CCP />
+*[[Thomas Lawrence (mayor)|Thomas Lawrence]], five-time mayor of Philadelphia
+*[[Charles Mason]] (1728–1786), astronomer, surveyor, laid out the Mason–Dixon line in 1763<ref name=CCP />
+*[[George A. McCall]] (1802–1868), United States Army brigadier general and prisoner of war during the American Civil War
+*[[William M. Meredith]] (1799–1873), Secretary of the Treasury<ref name=CCP />
+*[[Philip Syng Physick]] (1768–1837), known as the "Father of Modern Surgery"<ref name=CCP />
+*[[John Hare Powel]] (1786-1856), Pennsylvania State Senator and Agriculturalist
+*Elizabeth and [[Samuel Powel]]
+*[[Henry C. Pratt (merchant)|Henry C. Pratt]] (1761–1838) prominent Philadelphia businessman and builder of [[Lemon Hill]] House.
+*[[Matthew Pratt]] (1734–1805) American "Colonial Era" portrait painter.
+*[[Benjamin Rush]] (1746–1813), signer of the [[United States Declaration of Independence|Declaration of Independence]] and founder of [[Dickinson College]], known as "The Father of American Psychiatry"<ref name=CCP />
+*[[Annis Boudinot Stockton]] (1736–1801), poet
+*[[Philip Syng]] (1703–1789), silversmith, created the [[Syng inkstand]], early co-founder of several organizations with Benjamin Franklin<ref name=CCP />
+*[[Henry Tazewell]] (1753–1799), U.S. Senator
+*Commodore [[Thomas Truxtun]], commander of the ''[[USS Constellation (1797)|Constellation]]''
+*[[William Tuckey]] (1708–1781), composer
+*[[John Goddard Watmough]] (1793-1861), U.S. Congressman
+*[[Charles Willing]], (1710–1754), three term Mayor of Philadelphia
+*Anne Willing Francis (1733-1812) wife of Tench Francis, Daughter of Charles Willing 
+*
+
+<gallery>
+File:Ben Rush Christ CH Burial G Philly.JPG|Benjamin Rush's grave.
+File:J Taylor Christ Church Burial Ground.JPG|The grave of John Taylor (right), a long-time grave digger at the cemetery.
+
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Philadelphia}}{{Commons category}}
+* {{official website|http://www.oldchristchurch.org}}
+* [https://web.archive.org/web/20070928200218/http://www.christchurchphila.org/SiteData/docs/ccbg-map/2bb71d24513b57e1e0cddea2468bd666/ccbg-map.pdf Official Map of Christ Church Burial Ground]
+* [http://www.findagrave.com/cgi-bin/fg.cgi?page=cr&CRid=44588&CScn=Christ+Church&CScntry=4&CSst=40& Christ Church Burial Ground] at [[Find a Grave]]
+
+{{Benjamin Franklin}}
+{{National Register of Historic Places in Pennsylvania}}
+
+[[Category:Anglican cemeteries in the United States]]
+[[Category:Cemeteries on the National Register of Historic Places in Philadelphia]]
+[[Category:1719 establishments in Pennsylvania]]
+[[Category:History of Philadelphia]]
+[[Category:Old City, Philadelphia]]
+[[Category:Tourist attractions in Philadelphia]]

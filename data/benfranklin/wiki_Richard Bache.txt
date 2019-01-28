@@ -1,0 +1,64 @@
+{{for|his son, a military and political official in the Republic and state of Texas|Richard Bache Jr.}}
+{{Infobox Officeholder
+|name        = Richard Bache
+|image       = Richard Bache (1737-1811) by John Hoppner.jpg
+|office      = [[United States Postmaster General]]
+|term_start  = November 7, 1776
+|term_end    = January 28, 1782
+|predecessor = [[Benjamin Franklin]]
+|successor   = [[Ebenezer Hazard]]
+|birth_date  = {{birth date|1737|9|12}}
+|birth_place = [[Settle, North Yorkshire|Settle]], [[Kingdom of Great Britain|Great Britain]]
+|death_date  = {{death date and age|1811|4|17|1737|9|12}}
+|death_place = [[Bucks County, Pennsylvania|Bucks County]], [[Pennsylvania]], [[United States|U.S.]]
+|spouse      = {{marriage|[[Sarah Franklin Bache|Sarah Franklin]]|October 29, 1767|October 5, 1808|reason=died}}
+|children     = 8, including [[Benjamin Franklin Bache (journalist)|Benjamin]], [[Louis Franklin Bache|Louis]], and [[Richard Bache Jr.|Richard]] 
+}}
+'''Richard Bache''' (September 12, 1737 – April 17, 1811), born in [[Settle, North Yorkshire|Settle]], [[Yorkshire]], [[England]], immigrated to [[Philadelphia]], in the colony of [[Pennsylvania]], where he was a businessman, a [[marine insurance]] underwriter, and later served as head of the American Post Office. He also was the son-in-law of [[Benjamin Franklin]].
+
+==Career==
+Bache immigrated as a young man in 1760 to New York to join his brother Theophylact in a dry goods and marine insurance business.  After a couple of years, he went to Philadelphia, where he prospered for several years. He was among nearly 30 young men who in October 1766 met at the city's [[London Coffee House]] to found the Gloucester Fox Hunting Club (GFHC), the first in America, to take up a pursuit closely associated with becoming "true Englishmen."<ref name="Skala">[https://books.google.com/books?id=YFF8ynVL4wIC&pg=PA52 Doreen Skala, "Fox Hunting and Anglicization in Eighteenth-Century Philadelphia"], in ''Locating the English Diaspora, 1500–2010'', edited by Tanja Bueltmann, Liverpool University Press, 2012, pp. 61–62, accessed 5 November 2012</ref> 
+ 
+In 1767, Bache suffered financial problems when debts contracted by him were repudiated by his London associate, Edward Green.
+
+==Marriage and family==
+[[File:Mrs. Richard Bache (Sarah Franklin, 1743–1808).jpg|thumb|Richard Bache's wife, Sarah Franklin, painted by [[John Hoppner]] (1793)]]
+[[File:Benjamin Franklin Bache.jpg|thumb|Benjamin Franklin Bache]]
+That year, Bache had proposed to [[Sarah Franklin Bache|Sarah Franklin]] (1743–1808), known as Sally, the only daughter of [[Benjamin Franklin]] and [[Deborah Read]]. They objected, given his precarious finances and rumors that Bache was a fortune hunter.<ref name="Herbert"/> Although Franklin and his wife Deborah Read never formally approved, they acquiesced to the marriage in 1767.<ref name="Herbert"/> Bache and Sally had eight children together, including [[Benjamin Franklin Bache (journalist)|Benjamin Franklin]], [[Louis Franklin Bache|Louis Franklin]] and [[Richard Bache Jr.|Richard Franklin]].
+
+==Later years==
+During the [[American Revolution]], Bache served on the [[Board of War]]. His wife, [[Sarah Franklin Bache|Sally Bache]] (1743–1808), was widely known for her patriotism and charitable activities.
+
+Franklin later arranged an appointment for Bache as the US Postmaster General (1776–1782), to succeed him. After Franklin's death in 1790, Bache and Sally lived off her inheritance from Franklin, moving their family to the Vandegrift residence<ref>{{Cite web|url=http://www.livingplaces.com/PA/Bucks_County/Bensalem_Township/Eddington_Park.html|title=Eddington, Bensalem Township, Bucks County PA|website=www.livingplaces.com|language=en|access-date=2017-06-21}}</ref> in 1794 along the [[Delaware River]] north of Philadelphia.<ref name="Herbert">{{Cite journal |first=Eugenia W. |last=Herbert |title=A Note on Richard Bache (1737–1811) |journal=Pennsylvania Magazine of History and Biography |year=1976 |volume=100 |issue=1 |pages=97–103 |issn=0031-4587 }}</ref>
+
+==Descendants==
+Their oldest son, [[Benjamin Franklin Bache (Journalist)|Benjamin Franklin Bache]] (1769–1798), became a journalist and publisher, founding a newspaper. He was a spokesman for the [[Democratic-Republican Party|Jeffersonian Republicans]]; he strenuously opposed [[George Washington]], [[John Adams]] and the [[Federalist Party|Federalist party]].
+
+Sally and Bache's son, [[Richard Bache Jr.|Richard Bache, Jr.]], served in the [[Republic of Texas]] Navy and was elected as a Representative to the [[Second Texas Legislature]] in 1847.
+
+The U.S. Navy surgeon [[Benjamin Franklin Bache]]  (1801–1881) and the physicist [[Alexander Dallas Bache]] (1806–1867) were grandsons of Sally and Richard Bache, Sr.
+
+==References==
+{{Reflist}}
+
+{{s-start}}
+{{s-off}}
+{{s-bef|before=[[Benjamin Franklin]]}}
+{{s-ttl|title=[[United States Postmaster General]]|years=1776–1782}}
+{{s-aft|after=[[Ebenezer Hazard]]}}
+{{s-end}}
+
+{{USPostGen}}
+{{Benjamin Franklin |state=collapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bache, Richard}}
+[[Category:1737 births]]
+[[Category:1811 deaths]]
+[[Category:Franklin family]]
+[[Category:Insurance underwriters]]
+[[Category:British emigrants to the Thirteen Colonies]]
+[[Category:People of colonial Pennsylvania]]
+[[Category:People from Yorkshire]]
+[[Category:People of Pennsylvania in the American Revolution]]
+[[Category:United States Postmasters General]]

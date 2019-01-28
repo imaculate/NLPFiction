@@ -1,0 +1,47 @@
+{{Use dmy dates|date=December 2015}}
+{{multiple image
+   | width     = 200
+   | footer    = Title pages representing the controversy
+   | image1    = BurkeReflections.jpg
+   | alt1      = 
+   | caption1  = Title page from [[Edmund Burke|Burke's]] ''[[Reflections on the Revolution in France]]'' (1790)
+   | image2    = PaineRightsOfMan.png
+   | alt2      = 
+   | caption2  = Title page from the first edition of [[Thomas Paine|Thomas Paine's]] ''[[Rights of Man]]''
+  }}
+The '''Revolution Controversy''' was a British debate over the [[French Revolution]], lasting from 1789 through 1795.<ref name="Butt, Introduction, 1">Butt, "Introduction", 1.</ref> A [[Pamphlet wars|pamphlet war]] began in earnest after the publication of [[Edmund Burke|Edmund Burke's]] ''[[Reflections on the Revolution in France]]'' (1790), which surprisingly supported the French aristocracy. Because he had supported the American colonists in their [[American Revolution|rebellion against England]], his views sent a shock-wave through the country. Many writers responded, defending the revolution in France, among them [[Thomas Paine]], [[Mary Wollstonecraft]] and [[William Godwin]].<ref name="Butt, Introduction, 1"/> Alfred Cobban calls the debate that erupted "perhaps the last real discussion of the fundamentals of politics" in Britain.<ref>Qtd. in Butler, "Introduction", 1.</ref> The themes articulated by those responding to Burke would become a central feature of the radical working-class movement in Britain in the nineteenth century and of [[Romanticism]].<ref name="Butler, Introduction, 1">Butler, "Introduction", 1.</ref> Most Britons celebrated the [[storming of the Bastille]] in 1789, believing that France's monarchy should be curtailed by a more democratic form of government. However, by December 1795, after the [[Reign of Terror]] and war with France, there were few who still supported the French cause.
+
+==Burke's ''Thoughts''==
+Responding in part to a sermon defending the French Revolution given by the [[English dissenters|Dissenting]] clergyman [[Richard Price]] entitled ''[[A Discourse on the Love of Our Country]]'' (1789), Edmund Burke published his ''[[Reflections on the Revolution in France]]'' in an effort to advance arguments for the current aristocratic government. Because Burke had previously been part of the liberal [[British Whig Party|Whig]] party, a critic of monarchical power, a supporter of the [[American revolution]]aries, and a critic of government graft in [[Company rule in India|India]], most in Britain expected him to support the French revolutionaries. When he failed to do so, it shocked the populace and angered his friends and supporters.<ref>Butler, 33; Kelly, 85.</ref> Burke's book sold 30,000 copies in two years.<ref name="Butler, 35">Butler, 35.</ref> The ''Reflections'' defended "the aristocratic concepts of [[paternalism]], loyalty, chivalry, the hereditary principle" and property.<ref name="Butler, 35"/>
+
+Burke criticized the view of many British thinkers and writers who had welcomed the early stages of the French Revolution.<ref>Butler, 33–34.</ref> While the radicals saw the revolution as analogous to Britain's own [[Glorious Revolution]] in 1688, which had restricted the powers of the monarchy, Burke argued that the appropriate historical analogy was the [[English Civil War]] (1642–1651) in which [[Charles I of England|Charles I]] had been executed in 1649. He viewed the French Revolution as the violent overthrow of a legitimate government, contending that citizens do not have the right to overthrow their government. Civilizations and governments, he maintained, are the result of social and political consensus; their traditions cannot be challenged—the result would be anarchy.
+{{clear}}
+
+==Responses==
+
+Liberals such as [[William Godwin]], [[Thomas Paine]], and [[Mary Wollstonecraft]] argued for [[republicanism]], [[agrarian socialism]], and [[anarchism]].<ref>Butler, 1.</ref> Most of those who came to be called radicals emphasized the same themes: "a sense of personal liberty and autonomy"; "a belief in civic virtue"; "a hatred of corruption"; an opposition to war because it only profited the "landed interest"; a critique of the monarchy and the aristocracy and its perceived desire to draw power away from the [[House of Commons of Great Britain]].<ref>Butler, 3–4.</ref> Many of their works were published by [[Joseph Johnson (publisher)|Joseph Johnson]], who was eventually jailed for his seditious activities.
+
+Wollstonecraft had been much influenced by the ideas she ingested from Price's sermons at [[Newington Green Unitarian Church]] and the whole ethos of [[English Dissenters|Rational Dissent]] in the village of [[Newington Green]].<ref>Gordon, p51 passim.</ref> These seeds germinated into ''[[A Vindication of the Rights of Men]]'', her response to Burke's denunciation of her mentor. Paine, one of the [[Founding Fathers of the United States]], argued in ''[[Rights of Man]]'' that popular political revolution is permissible when a government does not safeguard its people, their natural rights, and their national interests.
+
+This Controversy left further legacies. Wollstonecraft's most famous work, ''[[A Vindication of the Rights of Woman]]'' was written in 1792, in the spirit of rationalism extending Price's arguments about equality to women. [[Anna Laetitia Barbauld]], a prolific writer admired by [[Samuel Johnson]] and [[William Wordsworth]] and wife of the minister at [[Newington Green]], alluded to Burke's work and his opponents in her "Sins of the Government, Sins of the Nation" (1793).
+
+==Notes==
+{{reflist}}
+
+==Bibliography==
+*Butler, Marilyn, ed. ''Burke, Paine, Godwin, and the Revolution Controversy''. Cambridge: Cambridge University Press, 1984. {{ISBN|0-521-28656-5}}.
+*Gordon, Lyndall. ''Vindication: A Life of Mary Wollstonecraft''. Great Britain: Virago, 2005. {{ISBN|1-84408-141-9}}.
+
+{{DEFAULTSORT:Revolution Controversy}}
+[[Category:18th century in England]]
+[[Category:Political history of England]]
+[[Category:British non-fiction literature]]
+[[Category:Pamphlets]]
+[[Category:Historiography of the French Revolution]]
+[[Category:1789 events of the French Revolution]]
+[[Category:1790 events of the French Revolution]]
+[[Category:1791 events of the French Revolution]]
+[[Category:1792 events of the French Revolution]]
+[[Category:1793 events of the French Revolution]]
+[[Category:1794 events of the French Revolution]]
+[[Category:1795 events of the French Revolution]]

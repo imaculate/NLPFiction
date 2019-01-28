@@ -1,0 +1,26 @@
+{{more footnotes|date=February 2014}}
+{{italic title}}
+'''''The Morals of Chess''''' is an essay on [[chess]] by the American intellectual [[Benjamin Franklin]], which was first published in ''The Columbian Magazine'' in December 1786. 
+
+Franklin, who was one of the [[Founding Fathers of the United States]], played chess from at least 1733. Evidence suggests that he was an above-average player, who, however, did not reach the top level. He outlined the essay around 1732, but did not publish it until 1786. After a short prologue in which Franklin details the history of chess he gets to the main part of his essay. He compares chess to life and writes that foresight, circumspection and caution can be learnt from the game. After describing the effects chess can have on one's perception of life he describes a set of moral rules that a chess player should hold, including to not cheat and not disturb the opponent. Franklin suggests that the opponent be told about mistakes he makes, for example if he would lose a piece.
+
+The essay is one of the first texts about chess that was published in the United States; it appeared in the first chess-related book that was published in Russia in 1791. It still is widely reproduced, especially on the Internet. In 1999 Franklin was inducted into the [[World Chess Hall of Fame|U.S. Chess Hall of Fame]].<ref>John McCrary: [http://www.benfranklin300.org/_etc_pdf/Chess_John_McCrary.pdf ''Chess and Benjamin Franklin—his pioneering contributions''], including the full text of ''The Morals of Chess''</ref>
+
+== References ==
+===Sources===
+* {{cite book |chapterurl=http://franklinpapers.org/franklin//yale?d=-2004790388&vol=29&page=750a |chapter="The Morals of Chess" |title=Benjamin Franklin Papers |publisher=Yale University Press |page=750 |volume=29 : March 1, 1779, through June 30, 1779 |accessdate=7 October 2016}}
+===Citations===
+{{Reflist}}
+
+{{Benjamin Franklin}}
+
+{{DEFAULTSORT:Morals Of Chess}}
+[[Category:18th-century American literature]]
+[[Category:Chess publications]]
+[[Category:Ethics books]]
+[[Category:Etiquette]]
+[[Category:History of chess]]
+[[Category:18th century in chess]]
+[[Category:Modern philosophical literature]]
+[[Category:Sportsmanship]]
+[[Category:Works by Benjamin Franklin]]

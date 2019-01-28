@@ -1,0 +1,227 @@
+{{Use mdy dates|date=December 2018}}
+{{Infobox museum
+| name                = Philadelphia Museum of Art
+| native_name         = 
+| native_name_lang    = 
+| logo                = 
+| logo_upright        = 
+| logo_alt            = 
+| logo_caption        = 
+| image               = {{multiple image
+ | align = center
+ | direction = vertical
+ | width = 240
+ | image1 = Philadelphia Museum of Art 2005.jpg
+ | caption1 = <center>East entrance</center>
+ | image2 = Street map of central Philadelphia with the Museum of Art circled in red.png
+ | caption2 = <center>Main building to northwest of [[Center City, Philadelphia|Center City]]</center>
+}}
+| image_upright       = 
+| alt                 = 
+| caption             = 
+| map_type            = Philadelphia#Pennsylvania#USA
+| map_relief          = 
+| map_size            = 
+| map_caption         = 
+| coordinates         = {{coord|39.966|-75.181|display=inline,title}}
+| former_name         = 
+| established         = {{Start date|1876|02}}<ref name="history 1">{{cite web  | title =Centennial Origins: 1874–1876  | work =History | publisher =Philadelphia Museum of Art  | year =  | url =http://www.philamuseum.org/information/45-154-18.html  | accessdate =May 21, 2012  }}</ref> 
+| dissolved           = <!-- {{End date|YYYY|MM|DD|df=y}} -->
+| location            = 2600 [[Benjamin Franklin Parkway]], [[Philadelphia]], [[Pennsylvania]] <ref name=WebsiteHome>{{cite web |url=http://www.philamuseum.org/ |title=Philadelphia Museum of Art: Homepage |publisher=Philadelphia Museum of Art |accessdate=March 3, 2016}}</ref>
+| type                = [[Art museum]]
+| accreditation       = 
+| key_holdings        = 
+| collections         = 
+| collection_size     = 240,000<ref name="collections">{{cite web |url=http://www.philamuseum.org/collections/search.html |title=Search Collections |publisher=Philadelphia Museum of Art |accessdate=February 25, 2016}}</ref>
+| visitors            = 793,000 (2017)<ref name=AnnualReport>{{cite web |url=http://www.philamuseum.org/doc_downloads/annualReports/PhiladelphiaMuseumofArtAnnualReport2017.pdf |title=2017 Annual Report |author=Robert T. Rambo |publisher=Philadelphia Museum of Art |date=n.d. |page=19 (of PDF file) |accessdate=March 28, 2018 |archiveurl=https://web.archive.org/web/20180328222935/http://www.philamuseum.org/doc_downloads/annualReports/PhiladelphiaMuseumofArtAnnualReport2017.pdf |archivedate=March 28, 2018 |deadurl=no |quote=Admission income of $5.4 million and attendance of 793,000 were essentially at the same levels as 2016.}}</ref>
+| founder             = 
+| director            = [[Timothy Rub]]<ref name=WebsiteTrustees>{{cite web |url=http://www.philamuseum.org/information/43-323.html?page=2 |title=Philadelphia Museum of Art: About Us: Administration - Board of Trustees |publisher=Philadelphia Museum of Art |accessdate=March 3, 2016}}</ref>
+| president           = Gail Harrity
+| ceo                 = 
+| chairperson         = Constance H. Williams
+| curator             = 
+| architect           =
+| historian           =
+| owner               = 
+| publictransit       = {{bus icon|12px}} {{rint|septa|60px}} [[SEPTA]] bus: {{SEPTA bus link|38|43}}<br>{{bus icon|12px}} [[Philly PHLASH]] 
+| car_park            = 
+| parking             = 
+| network             = 
+| website             = [http://www.philamuseum.org www.philamuseum.org]
+| embedded            = {{Designation list
+    | embed = yes
+    | designation1 = Philadelphia Register of Historic Places
+    | designation1_date = 
+    | designation1_number =}}
+}}
+The '''Philadelphia Museum of Art''' is an art museum originally chartered in 1876 for the [[Centennial Exposition]] in [[Philadelphia]].<ref name="history 1"/> The main museum building was completed in 1928<ref name=history1920s>{{cite web |url=http://www.philamuseum.org/information/45-227-23.html |title=Philadelphia Museum of Art: About Us: Our Story: 1920-1930 |publisher=Philadelphia Museum of Art |accessdate=March 14, 2016}}</ref> on Fairmount, a hill located at the northwest end of the [[Benjamin Franklin Parkway]] at [[Eakins Oval]].<ref name=WebsiteHome/> The museum administers collections containing over 240,000 objects including major holdings of European, American and Asian origin.<ref name="collections"/> The various classes of artwork include sculpture, paintings, prints, drawings, photographs, armor, and decorative arts.<ref name="collections"/>
+
+The Philadelphia Museum of Art administers several annexes including the [[Rodin Museum]], also located on the Benjamin Franklin Parkway, and the [[Perelman Building|Ruth and Raymond G. Perelman Building]], which is located across the street just north of the main building.<ref name=WebsiteAboutUs>{{cite web| url=http://www.philamuseum.org/information/43-323.html |title=About Us: Administration |publisher=Philadelphia Museum of Art |accessdate=February 25, 2016}}</ref> The Perelman Building, which opened in 2007,<ref name=WebsitePerelmanPage4>{{cite web |url=http://www.philamuseum.org/information/45-289-100.html?page=4 |title=About Us : Our Story : Perelman Building - Renovations and Expansion |publisher=Philadelphia Museum of Art |accessdate=March 3, 2016}}</ref> houses more than 150,000 prints, drawings and photographs, along with 30,000 costume and textile pieces, and over 1,000 modern and contemporary design objects including furniture, ceramics and glasswork.<ref name=WebsitePerelmanPage3>{{cite web |url=http://www.philamuseum.org/information/45-289-100.html?page=3 |title=About Us : Our Story : Perelman Building - Galleries & Spaces |publisher=Philadelphia Museum of Art |accessdate=March 3, 2016}}</ref> The museum also administers the historic colonial-era houses of [[Mount Pleasant (mansion)|Mount Pleasant]] and [[Cedar Grove Mansion|Cedar Grove]], both located in [[Fairmount Park]].<ref>[http://www.philamuseum.org/historichouses/ "Visiting : Plan Your Visit : Historic Houses"]. Philadelphia Museum of Art. Retrieved December 18, 2017.</ref> The main museum building and its annexes are owned by the City of Philadelphia and administered by a registered nonprofit corporation.<ref name=WebsiteAboutUs/>
+
+Several special exhibitions are held in the museum every year, including touring exhibitions arranged with other museums in the United States and abroad.<ref name=WebsitePastExpos>{{cite web| url=http://www.philamuseum.org/exhibitions/past.html |title=On View: Past Exhibitions |publisher=Philadelphia Museum of Art |accessdate=February 25, 2016}}</ref><ref name=WebsiteCurrExpos>{{cite web| url=http://www.philamuseum.org/exhibitions/current.html |title=On View: Current Exhibitions |publisher=Philadelphia Museum of Art |accessdate=February 25, 2016}}</ref> The attendance figure for the museum was 793,000 in 2017, which ranks it among the top one hundred [[List of most visited art museums|most-visited art museums]] in the world.<ref name=AnnualReport/> The museum is also one of the [[list of largest art museums|largest art museums]] in the world based on gallery space.
+
+==History==
+Philadelphia celebrated the 100th anniversary of the [[United States Declaration of Independence|Declaration of Independence]] with the [[Centennial Exposition]] in 1876. [[Memorial Hall (Philadelphia)|Memorial Hall]], which contained the art gallery, was intended to outlast the Exposition and house a permanent museum. Following the example of London's [[Victoria and Albert Museum|South Kensington Museum]], the new museum was to focus on applied art and science, and provide a school to train craftsmen in drawing, painting, modeling, and designing.<ref name="history 1"/>
+
+The [[Pennsylvania Museum and School of Industrial Art]] opened on May 10, 1877. (The school became independent of the museum in 1964 and is now part of the [[University of the Arts (Philadelphia)|University of the Arts]]). The museum's collection began with objects from the Exposition and gifts from the public impressed with the Exposition's ideals of good design and craftsmanship. European and Japanese fine and decorative art objects and books for the museum's library were among the first donations. The location outside of [[Center City Philadelphia|Center City]], however, was fairly distant from many of the city's inhabitants.<ref name="glasssteelandstone.com">{{cite web |url=http://www.glasssteelandstone.com/BuildingDetail/472.php |title=Philadelphia Museum of Art :: Benjamin Franklin Parkway, Philadelphia, Pennsylvania, United States |publisher=Glass Steel and Stone |date= |accessdate=January 28, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20130511205337/http://www.glasssteelandstone.com/BuildingDetail/472.php |archivedate=May 11, 2013 |df= }}</ref> Admission was charged until 1881, then was dropped until 1962.<ref name="history 2"/>
+
+Starting in 1882, [[Clara Jessup Moore]] donated a remarkable collection of antique furniture, enamels, carved ivory, jewelry, metalwork, glass, ceramics, books, textiles and paintings. The Countess de Brazza's lace collection was acquired in 1894 forming the nucleus of the lace collection. In 1893 Anna H. Wilstach bequeathed a large painting collection, including many American paintings, and an endowment of half a million dollars for additional purchases. Works by [[James Abbott McNeill Whistler]] and [[George Inness]] were purchased within a few years and [[Henry Ossawa Tanner]]'s ''The Annunciation'' was bought in 1899.<ref name="history 2"/>
+
+[[File:Plan for the Fairmount Parkway by Jacques Greber 1917.jpg|thumb|left|Fairmount Parkway plan, 1917]]
+In the early 1900s, the museum started an education program for the general public, as well as a membership program.<ref name=history1900s>[http://www.philamuseum.org/information/45-225-21.html "About Us: Our Story: 1900-1910"]. ''philamuseum.org''. Philadelphia Museum of Art. Retrieved March 27, 2018.</ref> [[Fiske Kimball]] was the museum director during the rapid growth of the mid- to late-1920s, which included one million visitors in 1928—the new building's first year. The museum enlarged its print collection in 1928 with about 5,000 [[Old Master]] prints and drawings from the gift of Charles M. Lea, including French, German, Italian, and Netherlandish engravings.<ref name=history1920s/> Major exhibitions of the 1930s included works by [[Thomas Eakins|Eakins]], [[Édouard Manet|Manet]], [[Pierre-Auguste Renoir|Renoir]], [[Paul Cézanne|Cézanne]], [[Vincent van Gogh|van Gogh]], and [[Edgar Degas|Degas]].<ref name=history1930s>[http://www.philamuseum.org/information/45-228-24.html "About Us: Our Story: 1930-1940"]. ''philamuseum.org''. Philadelphia Museum of Art. Retrieved March 27, 2018.</ref> In the 1940s, the museum's major gifts and acquisitions included the collections of John D. McIlhenny ([[Oriental rug|Oriental carpets]]), [[George Grey Barnard]] (sculpture), and [[Alfred Stieglitz]] (photography).<ref name=history1940s>[http://www.philamuseum.org/information/45-230-26.html "About Us: Our Story: 1940-1950"]. ''philamuseum.org''. Philadelphia Museum of Art. Retrieved March 27, 2018.</ref>
+
+Early modern art dominated the growth of the collections in the 1950s, with acquisitions of the Louise and [[Walter Conrad Arensberg|Walter Arensberg]] and the [[Albert Eugene Gallatin|A.E. Gallatin]] collections. The gift of Philadelphian [[Grace Kelly]]'s wedding dress is perhaps the best known gift of the 1950s.<ref name="history 0"/>
+
+Extensive renovation of the building lasted from the 1960s through 1976. Major acquisitions included the Carroll S. Tyson, Jr. and Samuel S. White III and Vera White collections, 71 objects from designer [[Elsa Schiaparelli]], and [[Marcel Duchamp]]'s [[Étant donnés]]. In 1976 there were celebrations and special exhibitions for the centennial of the museum and the bicentennial of the nation. During the last three decades major acquisitions have included ''After the Bath'' by [[Edgar Degas]] and ''Fifty Days at Iliam'' by [[Cy Twombly]].<ref name="history 0">{{cite web|title=An Overview of the Museum's History |website=philamuseum.org |publisher=Philadelphia Museum of Art |url=http://www.philamuseum.org/information/45-19.html |accessdate=March 27, 2018}}</ref>
+
+===Main building===
+[[File:A357, Philadelphia, Pennsylvania, USA, Museum of Art and Fairmount Water Works at night, 2009.JPG|thumb|left|Main building at night above [[Fairmount Water Works]]]]
+The City Council of Philadelphia funded a competition in 1895 to design a new museum building,<ref name="history 2">{{cite web|url=http://www.philamuseum.org/information/45-224-20.html |title=The Early Decades: 1877–1900 |website=philamuseum.org |publisher=Philadelphia Museum of Art |accessdate=October 22, 2018}}</ref> but it was not until 1907 that plans were first made to construct it on Fairmount, a rocky hill topped by the [[Fairmount Reservoir|city's main reservoir]]. The Fairmount Parkway (renamed [[Benjamin Franklin Parkway]]), a grand boulevard that cut diagonally across the grid of city streets, was designed to terminate at the foot of the hill. But there were conflicting views about whether to erect a single museum building, or a number of buildings to house individual collections. The architectural firms of [[Horace Trumbauer]] and [[Zantzinger, Borie and Medary]] collaborated for more than a decade to resolve these issues. The final design is mostly credited to two architects in Trumbauer's firm: Howell Lewis Shay for the building's plan and [[massing]], and [[Julian Abele]] for the detail work and perspective drawings.<ref>David B. Brownlee, ''Making a Modern Classic: The Architecture of the Philadelphia Museum of Art'' (Philadelphia Museum of Art, 1997), pp. 60–61, 72–73.</ref> In 1902, Abele had become the first African-American student to be graduated from the [[University of Pennsylvania]]'s Department of Architecture, which is presently known as Penn's [[University of Pennsylvania School of Design|School of Design]].<ref>{{cite web|url=https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/21458 |title=Abele, Julian Francis (1881 - 1950) Architect |last=Tatman |first=Sandra L. |website=philadelphiabuildings.org |publisher=The [[Athenaeum of Philadelphia]] |accessdate=March 24, 2017}}</ref> Abele adapted classical Greek temple columns for the design of the museum entrances, and was responsible for the colors of both the building stone and the figures added to one of the [[pediment]]s.<ref>{{cite web|url=http://www.design.upenn.edu/people/julian-francis-abele-1881-1950 |title=Julian Francis Abele (1881-1950): First African American graduate of the School of Fine Arts |website=design.upenn.edu |publisher=[[University of Pennsylvania School of Design]] |accessdate=March 24, 2017}}</ref>
+
+Construction of the main building began in 1919, when Mayor [[Thomas B. Smith]] laid the cornerstone in a Masonic ceremony. Because of shortages caused by World War I and other delays, the new building was not completed until 1928.<ref name="history 0"/> The building was constructed with [[dolomite]] quarried in Minnesota.<ref name="withartphila">{{cite web |url=http://withart.visitphilly.com/tours/galleries-and-gardens/ |title=Galleries and Gardens: Discover blossoming works of art in Philadelphia's green spaces |publisher=With Art Philadelphia |accessdate=March 28, 2016}}</ref>
+
+The wings were intentionally built first, to help assure the continued funding for the completion of the design. Once the building's exterior was completed, twenty second-floor galleries containing English and American art opened to the public on March 26, 1928 though a large amount of interior work was incomplete.<ref name=history1920s/>
+
+[[File:A594, Philadelphia, Pennsylvania, United States, Museum of Art, Western Civilization pediment at night, 2017.jpg|thumb|Pediment with polychrome sculpture by Jennewein]]
+The building's eight pediments were intended to be adorned with sculpture groups. The only pediment that has been completed, "Western Civilization" (1933) by [[C. Paul Jennewein]], and colored by [[Léon-Victor Solon|Leon V. Solon]], features his [[polychrome]] sculptures of painted terra-cotta figures, depicting Greek deities and mythological figures.<ref name="nydn">{{cite news |last=Samuels |first=Tanyanika |title=Bronx street rename for borough's own sculptor Carl Paul Jennewein |newspaper=The New York Daily News |date=June 2, 2011 |page=31 |url=http://www.nydailynews.com/new-york/bronx/bronx-street-rename-borough-sculptor-carl-paul-jennewein-article-1.127198 |accessdate=March 28, 2016}}</ref> The sculpture group was awarded the Medal of Honor of the [[Architectural League of New York]].<ref name="loc">{{cite web |url=http://lcweb2.loc.gov/diglib/legacies/NY/200003401.html |title=New York: C. Paul Jennewein, Sculptor (Local Legacies: Celebrating Community Roots - Library of Congress) |author=Lowey, Nita M. |accessdate=March 28, 2016 |authorlink=Nita Lowey}}</ref>
+
+The building is also adorned by a collection of bronze [[griffins]], which were adopted as the symbol of the museum in the 1970s.<ref name="glasssteelandstone.com" />
+
+===List of directors===
+[[File:Sidney Fiske Kimball.gif|thumb|upright|Fiske Kimball]]
+Below is the list of directors of the Philadelphia Museum of Art:
+
+* [[Timothy Rub]], 2009 to present
+* [[Anne d'Harnoncourt]], 1982 to 2008
+* [[Jean Sutherland Boggs]], 1978 to 1982<ref>[http://dla.library.upenn.edu/dla/pacscl/ead.html?fq=top_repository_facet%3A%22Philadelphia%20Museum%20of%20Art%20Archives%22&id=PACSCL_PMA_PMABOG& Jean Sutherland Boggs records], from Philadelphia Museum of Art.</ref>
+* Evan Hopkins Turner, 1964 to 1977<ref>[http://dla.library.upenn.edu/dla/pacscl/ead.html?fq=top_repository_facet%3A%22Philadelphia%20Museum%20of%20Art%20Archives%22&id=PACSCL_PMA_PMA004& Evan H. Turner records], from Philadelphia Museum of Art.</ref>
+*Arnold H. Jolles, 1977–1979 (acting)<ref>[https://www.philamuseum.org/pma_archives/eadDtlFull.php?c=JOL&p=tp&s=&s1=s0&s2=s0&t=Arnold+H.+Jolles+Records "Arnold H. Jolles Records"], Philadelphia Museum of Art Archives, Accessed online April 16, 2017.</ref>
+*[[Henri Gabriel Marceau]], 1955 to 1964<ref>[http://dla.library.upenn.edu/dla/pacscl/ead.html?fq=top_repository_facet%3A%22Philadelphia%20Museum%20of%20Art%20Archives%22&id=PACSCL_PMA_PMAMAR& Henri Gabriel Mareau Director records], from Philadelphia Museum of Art.</ref>
+* [[Fiske Kimball]], 1925 to 1955
+*Sr. Samuel W. Woodhouse, 1923–1925 (acting)<ref>[http://www.philamuseum.org/information/45-227-23.html "Our Story: 1920 – 1930"], Philadelphia Museum of Art, Accessed April 16, 2017.</ref>
+* [[Langdon Warner]], 1917 to 1923<ref>[http://dla.library.upenn.edu/dla/pacscl/ead.html?fq=top_repository_facet%3A%22Philadelphia%20Museum%20of%20Art%20Archives%22&id=PACSCL_PMA_PMA008& Langdon Warner records], from Philadelphia Museum of Art.</ref>
+* [[Edwin Atlee Barber]], 1907 to 1916<ref>[http://dla.library.upenn.edu/dla/pacscl/ead.html?fq=top_repository_facet%3A%22Philadelphia%20Museum%20of%20Art%20Archives%22&id=PACSCL_PMA_PMA007& Edwin Atlee Barber records], from Philadelphia Museum of Art.</ref>
+* William Platt Pepper, 1899 to 1907
+* Dalton Dorr, 1892 to 1899<ref>[http://dla.library.upenn.edu/dla/pacscl/ead.html?fq=top_repository_facet%3A%22Philadelphia%20Museum%20of%20Art%20Archives%22&id=PACSCL_PMA_PMA009& Dalton Dorr records], from Philadelphia Museum of Art.</ref>
+*William W. Justice, 1879–1880
+*William Platt Pepper, 1877–1879
+
+==Collections==
+{{see also|List of artists in the Philadelphia Museum of Art handbook of the collections}}
+[[File:Henry Ossawa Tanner - The Annunciation.jpg|thumb|left|[[Henry Ossawa Tanner]]'s 1898 ''Annunciation'', acquired in 1899]]
+The museum houses more than 240,000 objects,<ref name=collections/> highlighting the creative achievements of the [[Western world]] and those of Asia, in more than 200 galleries spanning 2,000 years.<ref name="PMA: About">{{Cite journal |title=Philadelphia Museum of Art: About |publisher=ARTINFO |year=2008 |url=http://www.artinfo.com/galleryguide/19912/6452/about/philadelphia-museum-of-art-philadelphia/ |accessdate=July 29, 2008 |postscript=<!--None--> |deadurl=yes |archiveurl=https://web.archive.org/web/20081210010050/http://www.artinfo.com/galleryguide/19912/6452/about/philadelphia-museum-of-art-philadelphia/ |archivedate=December 10, 2008 |df= }}</ref> The museum's collections of [[Art of ancient Egypt|Egyptian]] and [[Roman art]], as well as many of its [[Pre-Columbian art|Pre-Columbian]] works, were relocated to the [[University of Pennsylvania Museum of Archaeology and Anthropology|Penn Museum]] after an exchange agreement was made whereby the museum houses the university's collection of [[Chinese ceramics|Chinese porcelain]].<ref>[http://press.philamuseum.org/faq/#What%20does%20the%20Museum%E2%80%99s%20encyclopedic%20collection%20include? "Frequently Asked Questions: What does the Museum’s collection include?"] ([https://web.archive.org/web/20180104021831/http://press.philamuseum.org/faq/ archive]). ''philamuseum.org''. Philadelphia Museum of Art. Retrieved March 27, 2018.</ref>
+
+Highlights of the Asian collections include paintings and sculpture from China, Japan, and India; furniture and decorative arts, including major collections of Chinese, Japanese, and Korean ceramics; a large and distinguished group of Persian and Turkish carpets; and rare and authentic architectural assemblages such as a Chinese palace hall, a Japanese teahouse, and a sixteenth-century Indian temple hall.<ref name="collections" />
+
+[[File:Pablo Picasso, 1921, Nous autres musiciens (Three Musicians), oil on canvas, 204.5 x 188.3 cm, Philadelphia Museum of Art.jpg|thumb|upright=0.8|[[Pablo Picasso]], ''[[Three Musicians|Nous autres musiciens (Three Musicians)]]'', 1921]]
+The European collections, dating from the medieval era to the present, encompass Italian and Flemish early-Renaissance masterworks; strong representations of later European paintings, including [[French Impressionism]] and [[Post-Impressionism]]; sculpture, with a special concentration in the works of [[Auguste Rodin]]; decorative arts; tapestries; furniture; the second-largest collection of arms and armor in the United States; and period rooms and architectural settings ranging from the facade of a medieval church in Burgundy to a superbly decorated English drawing room by [[Robert Adam]].<ref name="collections" />
+
+The museum's American collections, surveying more than three centuries of painting, sculpture, and decorative arts, are among the finest in the United States, with outstanding strengths in 18th- and 19th-century Philadelphia furniture and silver, [[Pennsylvania German]] art, rural Pennsylvania furniture and ceramics, and the paintings of [[Thomas Eakins]]. The museum houses the most important Eakins collection in the world.<ref name="collections" />
+
+Modern artwork includes works by [[Pablo Picasso]], [[Jean Metzinger]], [[Antonio Rotta]], [[Albert Gleizes]], [[Marcel Duchamp]], [[Salvador Dalí]] and [[Constantin Brâncuși]], as well as American modernists. The expanding collection of [[contemporary art]] includes major works by [[Agnes Martin]], [[Cy Twombly]], [[Jasper Johns]], and [[Sol LeWitt]], among many others.<ref name="collections" />
+
+The museum houses encyclopedic holdings of costume and textiles, as well as prints, drawings, and photographs that are displayed in rotation for reasons of preservation.<ref name="collections" />
+
+===The Carl Otto Kretzschmar von Kienbusch Collection===
+[[File:1600 Milan Half Armor.jpg|thumb|upright=0.5|Armor, Milan, Italy, c.1600]]
+The museum also houses the [[armor]] collection of Carl Otto Kretzschmar von Kienbusch. The Von Kienbusch collection was bequeathed by the celebrated collector to the museum in 1976, the [[wikt:bicentennial|Bicentennial]] Anniversary of the [[American Revolution]]. The Von Kienbusch holdings are comprehensive and include European and Southwest Asian arms and armor spanning several centuries.<ref>{{cite web|url=http://www.philamuseum.org/press/releases/2004/405.html |title=Philadelphia Museum of Art - Information : Press Room : Press Releases : 2004 |publisher=Philamuseum.org |date=September 27, 2004 |accessdate=January 28, 2014}}</ref>
+
+On May 30, 2000, the museum and the [[Staatliche Kunstsammlungen Dresden|State Art Collections]] in [[Dresden]], Germany (''Staatliche Kunstsammlungen Dresden''), announced an agreement for the return of five pieces of armor stolen from Dresden during [[World War II]].<ref>{{cite web|url=http://www.philamuseum.org/press/releases/2000/189.html |title=PMA press release |publisher=Philamuseum.org |date=December 16, 1999 |accessdate=January 28, 2014}}</ref> In 1953, Von Kienbusch had unsuspectingly purchased the armor, which was part of his 1976 bequest. Von Kienbusch published catalogs of his collection, which eventually led Dresden authorities to bring the matter up with the museum.<ref>[https://www.jstor.org/stable/3795448 Carl Otto Kretzschmar von Kienbusch and the Collecting of Arms and Armor in America, Donald J. LaRocca, Philadelphia Museum of Art Bulletin, Vol. 81, No. 345, Kienbusch Centennial (Winter, 1985), pp. 2+4-24, ] {{doi|10.2307/3795448}}</ref><ref>[http://arthistorians.info/haywardj Armor Collection] at arthistorians.info.</ref>
+
+==Special exhibitions==
+Each year the museum organizes several special exhibitions.<ref name=WebsitePastExpos/><ref name=WebsiteCurrExpos/> Special exhibitions have featured [[Salvador Dalí]] in 2005,<ref name=dali2005>{{cite web |url=http://www.philamuseum.org/exhibitions/2005/83.html |title=On View: Past Exhibitions: 2005 - Salvador Dalí |publisher=Philadelphia Museum of Art |accessdate=March 28, 2016}}</ref> [[Paul Cézanne]] in 2009,<ref name=cez2009>{{cite web |url=http://www.philamuseum.org/exhibitions/2009/312.html |title=On View: Past Exhibitions: 2009 - Cézanne and Beyond |publisher=Philadelphia Museum of Art |accessdate=March 28, 2016}}</ref> [[Pierre-Auguste Renoir|Auguste Renoir]] in 2010,<ref name=reno2010>{{cite web |url=http://www.philamuseum.org/exhibitions/2010/359.html |title=On View: Past Exhibitions: 2010 - Late Renoir |publisher=Philadelphia Museum of Art |accessdate=March 28, 2016}}</ref> [[Vincent van Gogh]] in 2012,<ref name=gogh2012>{{cite web |url=http://www.philamuseum.org/exhibitions/2012/743.html |title=On View: Past Exhibitions: 2012 - Van Gogh Up Close |publisher=Philadelphia Museum of Art |accessdate=March 28, 2016}}</ref> [[Pablo Picasso]] in 2014,<ref name=picasso2014>{{cite web |url=http://www.philamuseum.org/exhibitions/2014/806.html |title=On View: Past Exhibitions: 2014 - Picasso Prints: Myths, Minotaurs, and Muses |publisher=Philadelphia Museum of Art |accessdate=December 22, 2017}}</ref> [[John James Audubon]] and [[Andy Warhol]] (et al.) in 2016,<ref name=audubon2017>{{cite web |url=http://www.philamuseum.org/exhibitions/2016/818.html |title=On View: Past Exhibitions: 2016 - Audubon to Warhol: The Art of American Still Life |publisher=Philadelphia Museum of Art |accessdate=December 22, 2017}}</ref> and [[Winslow Homer]] and [[John Singer Sargent]] in 2017.<ref name=homer2017>{{cite web |url=http://www.philamuseum.org/exhibitions/2017/851.html |title=On View: Past Exhibitions: 2017 - American Watercolor in the Age of Homer and Sargent |publisher=Philadelphia Museum of Art |accessdate=December 22, 2017}}</ref>
+
+In 2009, the museum organized ''Bruce Nauman: Topological Gardens'', the official United States entry at the 53rd International Art Exhibition, more commonly known as the [[Venice Biennale]], for which the artist [[Bruce Nauman]] was awarded the Golden Lion.<ref>[http://www.philamuseum.org/exhibitions/349.html "Bruce Nauman: Topological Gardens"], Philadelphia Museum of Art, Accessed May 14, 2017.</ref>
+
+==Gallery expansion==
+[[File:Philadelphia Museum of Art Construction rear.JPG|thumb|left|upright=0.7|The west entrance covered during construction in 2008]]
+Due to high attendance and overflowing collections, the museum announced in October 2006 that [[Frank Gehry]] would design a building expansion. The {{convert|80000|ft2|adj=on}} gallery will be built entirely underground behind the east entrance stairs and will not alter any of the museum's existing Greek revival facade. The construction is projected to last a decade and cost $500 million. It will increase the museum's available display space by sixty percent and house mostly contemporary sculpture, Asian art, and special exhibitions.<ref name="nytimes">{{cite news | first=Robin | last=Pogrebin | authorlink=Robin Pogrebin | url=http://travel.nytimes.com/2006/10/19/arts/design/19gehr.html | title=Philadelphia Museum Job Sends Gehry Underground| publisher=New York Times | date=October 19, 2006 }}</ref><ref name = "Master Plan">[http://www.philamuseum.org/information/294-508-397.html PMA web site] "Master Plan", accessed, May 10, 2012</ref>
+
+Uncertainty was cast on the plans by the 2008 death of [[Anne d'Harnoncourt]], but new director [[Timothy Rub]], who had initiated a $350 million expansion at the [[Cleveland Museum of Art]], will be carrying out the plans as scheduled.  In 2010, Gehry attended the groundbreaking for the second phase of the expansion, due to be completed in 2012.  In that phase, a new art handling facility was created on the south side of the building, enabling the museum to reclaim a street level entrance, closed since the mid-1970s, which leads to a 640-foot-long vaulted walkway that extends across the museum and is original to the 1928 building.<ref>[http://planphilly.com/eyesonthestreet/2014/07/02/frank-gehry-s-quiet-intervention-at-the-philadelphia-museum-of-art "Frank Gehry's Quiet Intervention at the Philadelphia Museum of Art"], Plan Philly, Accessed May 14, 2017.</ref> The north entrance will be reopened to the public as a part of the "core project", which is scheduled for completion in 2020.<ref> Romero, Melissa. [https://philly.curbed.com/2017/3/31/15128206/frank-gehry-core-project-groundbreaking-philadelphia-art-museum "5 Ways the Philadelphia Museum of Art will look different in 2020"], ''Curbed Philadelphia'', Accessed May 14, 2017.</ref> The core project also focuses on the interior of the current building and will add 90,000 square feet of public space, including 11,500 square feet of new gallery space for American art and contemporary art.<ref name="Cascone"> Cascone, Sarah. [https://news.artnet.com/art-world/philadelphia-museum-art-frank-gehry-expansion-907067 "Philadelphia Museum of Art Aims to Raise $525 Million for Frank Gehry Designed Expansion"], ''Artnet'', Accessed May 14, 2017.</ref>  In addition, a new space called the forum will be created, along with dining and retail spaces. Said Gehry: "When it's done, people coming to this museum will have an experience that's as big as [[Guggenheim Museum Bilbao|Bilbao]]. It won't be apparent from the outside, but it will knock their socks off inside."<ref name = "Master Plan"/><ref name="USA T">{{cite news 
+  | last =Associated Press  | first = | title =Philly museum starts Gehry expansion| work =[[USA TODAY]] | date =November 22, 2011
+  | url =http://travel.usatoday.com/destinations/2010-11-09-gehry-museum_N.htm | accessdate =May 11, 2012 }}</ref>
+
+In March 2017 the museum announced a $525 million campaign.<ref name=Cascone/> The core project is budgeted at $196 million and will be funded through the campaign.<ref name=Cascone/> The museum also announced that more than 62 percent of the campaign goal has been met, as of March 30, 2017.<ref name=Cascone/>
+
+The most controversial part of the Gehry design remains a proposed window and amphitheater to be cut into the east entrance stairs.<ref>[http://cdn.phillymag.com/wp-content/uploads/2014/06/art-museum-steps.jpg Gehry architectural model], from ''Philadelphia Magazine'', June 26, 2014.</ref> Others have criticized the design as too tame.<ref>[http://www.phillymag.com/tag/gregory-l-heller/ Heller: "If you're going to hire Gehry, Let's do Gehry,"] ''Philadelphia Magazine'', August 11, 2014.</ref> The Gehry expansion is projected to be completed by 2028.<ref>[http://cdn.theatlantic.com/newsroom/img/posts/2014/06/Screen_Shot_2014_06_27_at_1.59.27_PM/2e7c5460e.png Gehry section through museum,] ''Philadelphia Magazine'', July 2, 2014.</ref>
+
+==Collection highlights – paintings==
+ 	
+<gallery widths="180px" heights="180px">
+File:Rogier van der Weyden, Netherlandish (active Tournai and Brussels) - The Crucifixion, with the Virgin and Saint John the Evangelist Mourning - Google Art Project.jpg|[[Rogier van der Weyden]], ''Crucifixion Diptych'', c.1460
+File:Hieronymus Bosch or follower - Adoration of the Magi.jpg|[[Hieronymus Bosch]], ''Epiphany'', c.1475–1480
+File:El Greco Pietà.jpg|[[El Greco]], ''[[Pietà]],'' 1571–1576 
+File:0 Prométhée supplicié - Rubens - Snyders - Philadelphia Museum of Art (W1950-3-1) - (1).JPG|[[Peter Paul Rubens]], ''[[Prometheus Bound]]'', 1611–12
+File:GAINSBOROUGH River Landscape.jpg|[[Thomas Gainsborough]], ''River Landscape'', 1768–1770
+File:Alfred-stevens-will-you-go-out-with-me-fido-1859.jpg|[[Alfred Stevens (painter)|Alfred Stevens]], ''Will you go out with me, Fido?'', 1859
+File:Édouard Manet-Kearsarge-Alabama2.jpg| [[Édouard Manet]], ''The Battle of The [[Alabama and Kearsarge]]'', 1864
+File:Edouard Manet 091.jpg|[[Édouard Manet]], ''The Departure of Steam Folkestone'', 1869
+File:EakinsTheGrossClinic.jpg|[[Thomas Eakins]], ''[[The Gross Clinic]]'', 1875
+File:Thomas Eakins, American - William Rush Carving His Allegorical Figure of the Schuylkill River - Google Art Project.jpg|[[Thomas Eakins]], ''William Rush Carving his Allegorical Figure of Schuylkill River'', 1876–1877
+File:Pierre-Auguste Renoir, French - The Large Bathers - Google Art Project.jpg|[[Pierre-Auguste Renoir]], ''[[Les Grandes Baigneuses (Renoir)|The Large Bathers]]'', 1887 
+File:Van Gogh Twelve Sunflowers.jpg|[[Vincent van Gogh]], ''[[Sunflowers (Van Gogh series)|Vase with twelve Sunflowers]]'', [[Arles]], 1889
+File:Henri de Toulouse-Lautrec, French - At the Moulin Rouge- The Dance - Google Art Project.jpg|[[Henri Toulouse-Lautrec]], ''[[At the Moulin Rouge, The Dance]]'', 1890
+File:Claude Monet, French - Poplars - Google Art Project.jpg|[[Claude Monet]], ''[[Poplar Series (Monet)|Poplars (Autumn)]]'', 1891
+File:Thomas Eakins, American - The Concert Singer - Google Art Project.jpg|[[Thomas Eakins]], ''[[The Concert Singer]]'', 1890–1892
+File:Claude Monet - Water Lilies and Japanese Bridge.jpg|[[Claude Monet]], ''Japanese Bridge and Water Lilies'', c.1899
+File:Paul Cézanne 010.jpg|[[Paul Cézanne]], ''[[The Bathers (Cézanne)|The Bathers]]'', 1898-1905
+File:Pablo Picasso, 1901, Old Woman (Woman with Gloves), oil on cardboard, 67 x 52.1 cm, Philadelphia Museum of Art.jpg|[[Pablo Picasso]], ''Old Woman (Woman with Gloves)'', 1901
+File:Gino Severini, 1910-11, La Modiste (The Milliner), oil on canvas, 64.8 x 48.3 cm, Philadelphia Museum of Art.jpg|[[Gino Severini]], ''La Modiste (The Milliner)'', 1910–11
+File:Marc Chagall, 1911, Trois heures et demie (Le poète), Half-Past Three (The Poet), oil on canvas, 195.9 x 144.8 cm, Philadelphia Museum of Art.jpg|[[Marc Chagall]], ''Trois heures et demie (Le poète), Half-Past Three (The Poet)'', 1911
+File:Marcel Duchamp, 1911, La sonate (Sonata), oil on canvas, 145.1 x 113.3 cm, Philadelphia Museum of Art.jpg|[[Marcel Duchamp]], ''La sonate (Sonata)'', 1911
+File:Jean Metzinger, Le goûter, Tea Time, 1911, 75.9 x 70.2 cm, Philadelphia Museum of Art.jpg|[[Jean Metzinger]], ''[[Le goûter (Tea Time)]]'', 1911 – [[André Salmon]] dubbed this painting "The Mona Lisa of Cubism"
+File:Constantin Brancusi, Portrait of Mlle Pogany, 1912, Philadelphia Museum of Modern Art, Philadelphia.jpg|[[Constantin Brâncuși]], ''Portrait of Mlle Pogany'', 1912
+File:Duchamp - Nude Descending a Staircase.jpg|[[Marcel Duchamp]], ''[[Nude Descending a Staircase, No.2]]'', 1912
+File:Albert Gleizes, l'Homme au Balcon, 1912, oil on canvas, 195.6 x 114.9 cm, Philadelphia Museum of Art.jpg|[[Albert Gleizes]], ''[[Man on a Balcony (Gleizes)|l'Homme au Balcon, Man on a Balcony (Portrait of Dr. Théo Morinaud)]]'', 1912
+File:Francis Picabia, The Dance at the Spring, 1912, oil on canvas, Philadelphia Museum of Art.jpg|[[Francis Picabia]], ''The Dance at the Spring'', 1912
+File:Juan Gris - Chessboard, Glass, and Dish.jpg|[[Juan Gris]], ''Chessboard, Glass, and Dish'', 1917
+File:Joan Miró, 1920, Horse, Pipe and Red Flower, oil on canvas, 82.6 x 74.9 cm, Philadelphia Museum of Art.jpg|[[Joan Miró]], 1920, ''Horse, Pipe and Red Flower''
+</gallery>
+
+==In popular culture==
+
+Besides being known for its architecture and collections, the Philadelphia Museum of Art has in recent decades become known due to the role it played in the ''[[Rocky]]'' films{{emdash}}''Rocky'' (1976) and five of its six sequels, ''[[Rocky II|II]]'', ''[[Rocky III|III]]'', ''[[Rocky V|V]]'', ''[[Rocky Balboa (film)|Rocky Balboa]]'' and ''[[Creed (film)|Creed]]''. Visitors to the museum are often seen mimicking [[Rocky Balboa]]'s (portrayed by [[Sylvester Stallone]]) famous run up the east entrance stairs, informally nicknamed the [[Rocky Steps]].<ref>[http://www.visitphilly.com/museums-attractions/philadelphia/the-rocky-statue-and-the-rocky-steps/ The Rocky Statue and the Rocky Steps] visitphilly.com, accessed June 17, 2011.</ref> [[Screen Junkies]] named the museum's stairs the second most famous movie location behind only [[Grand Central Terminal|Grand Central Station]] in New York.<ref>[http://www.screenjunkies.com/movies/movie-lists/10-most-famous-movie-locations/ ''10 Most Famous Movie Locations''] [[Screen Junkies]]</ref>
+
+An {{convert|8.5|ft|m|abbr=on}} tall bronze statue of the Rocky Balboa character was created in 1980 and placed at the top of the stairs in 1982 for the filming of ''[[Rocky III]]''. After filming was complete, Stallone donated the statue to the city of Philadelphia. The Philadelphia Art Commission eventually decided to relocate the statue to the now-defunct [[Wachovia Spectrum#Statues|Spectrum]] sports arena due to controversy over its prominent placement at the top of the museum's front stairs and questions about its artistic merit. The statue was placed briefly on top of the stairs again for the film ''Rocky V'' and then returned to the Spectrum. In 2006, the statue was relocated to a new display area on the north side of the base of the stairs.<ref name=rocky1>{{cite web |last=Avery |first=Ron |url=http://www.ushistory.org/oddities/rocky.htm |title=Philadelphia Oddities - Rocky Statue |publisher=Independence Hall Association |date= |accessdate=March 28, 2016}}</ref><ref name=rocky2>{{cite web |last=Holzman |first=Laura |url=http://philadelphiaencyclopedia.org/archive/rocky/ |title=Rocky |publisher=Encyclopedia of Greater Philadelphia |date=2013 |accessdate=March 28, 2016}}</ref>
+
+[[File:Philaartmusliv8.jpg|thumb|[[Live 8]] on the Ben Franklin Parkway with the museum in the distance, July 2, 2005]]
+The museum provides the backdrop for concerts and parades because of its location at the end of the Ben Franklin Parkway. The museum's east entrance area played host to the American venue of the international [[Live 8]] concert held on July 2, 2005 with musical artists including [[Dave Matthews Band]], [[Linkin Park]] and [[Maroon 5]].<ref>[https://web.archive.org/web/20050703011106/http://www.live8.us/100.html Live 8 Philadelphia (scroll down)], [[Archive.org]], July 2, 2005</ref> The [[Philadelphia Freedom Concert]], orchestrated and headlined by [[Elton John]], was held two days later on the same outdoor stage from the Live 8 concert<ref>[https://web.archive.org/web/20070624081921/http://www.phillyfreedom.net/concert.htm The Philadelphia Freedom Concert], [[Archive.org]], July 4, 2005</ref> while a preceding [[Ball (dance party)|ball]] was held inside the museum.<ref>[https://web.archive.org/web/20070624081848/http://www.phillyfreedom.net/ball.htm The Philadelphia Freedom Ball], [[Archive.org]], July 4, 2005</ref>
+
+On September 26, 2015, the ''Festival of Families'' event, attended by [[Pope Francis]], was held along the Ben Franklin Parkway with musical performances by various acts within [[Eakins Oval]] in front of the museum, as well as in [[Logan Circle (Philadelphia)|Logan Square]].<ref>[https://web.archive.org/web/20160531222112/http://www.worldmeeting2015.org/festival-of-families/ "Festival of Families"] (archive). ''worldmeeting2015.org''. Retrieved March 27, 2018.</ref><ref>Jim Yardley and Daniel J. Wakin (September 26, 2015). [https://www.nytimes.com/2015/09/27/us/pope-francis-philadelphia.html?_r=0 "At Independence Hall, Pope Offers a Broad Vision of Religious Freedom"] ([https://web.archive.org/web/20150928225634/https://www.nytimes.com/2015/09/27/us/pope-francis-philadelphia.html?_r=0 archive]). ''nytimes.com''. Retrieved March 27, 2018.</ref><ref>[https://web.archive.org/web/20150905115716/http://www.visitphilly.com/popes-visit-world-meeting-of-families-2015/ "The Pope's Visit to Philadelphia"] (archive). ''visitphilly.com''. Retrieved March 27, 2018.</ref>
+
+On February 8, 2018, the victory parade for the [[2017 Philadelphia Eagles season|Philadelphia Eagles]]' win in [[Super Bowl LII]] finished upon the museum steps, where players and team personnel gave speeches from a lectern to the large crowd gathered along Ben Franklin Parkway.<ref>Eric Levenson and David Williams (February 8, 2018). [https://www.cnn.com/2018/02/08/us/philadelphia-eagles-super-bowl-parade/index.html "Eagles fans flock to Philadelphia streets for Super Bowl parade"] ([https://web.archive.org/web/20180208221256/https://www.cnn.com/2018/02/08/us/philadelphia-eagles-super-bowl-parade/index.html archive]). ''cnn.com''. Retrieved March 27, 2018.</ref>
+
+==See also==
+{{portal-inline|Philadelphia}}<br>
+{{portal-inline|Visual arts}}
+* [[3rd Sculpture International]]
+* [[Barnes Foundation]]
+* [[Pennsylvania Academy of the Fine Arts]]
+* [[Woodmere Art Museum]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+* {{Official website|http://www.philamuseum.org }}
+* [http://www.googleartproject.com/collection/philadelphia-museum-of-art/ Google Art Project], Philadelphia Museum of Art, 209 Artworks by 162 Artists
+* [http://www.philadelphiabuildings.org/pab/app/pj_display.cfm/13233 Listing at Philadelphia Architects and Buildings]
+* [https://vimeo.com/179598175 Aerial video impression of the building]
+
+{{Philadelphia}}
+{{Museums in Pennsylvania}}
+{{Frank Gehry}}
+
+{{Authority control}}
+
+[[Category:1876 establishments in Pennsylvania]]
+[[Category:Art museums established in 1876]]
+[[Category:Museums of American art]]
+[[Category:Philadelphia Museum of Art| ]]
+[[Category:Philadelphia Register of Historic Places]]
+[[Category:Terminating vistas in the United States]]
+[[Category:Asian art museums in the United States]]
+[[Category:Art museums in Philadelphia]]
+[[Category:Fairmount Park]]
+[[Category:Fairmount, Philadelphia]]

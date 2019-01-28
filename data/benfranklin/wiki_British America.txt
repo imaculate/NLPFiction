@@ -1,0 +1,232 @@
+{{For|American people of British descent|British Americans}}
+{{EngvarB|date=August 2014}}
+{{More citations needed|date=April 2011}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox former country
+|native_name=
+|conventional_long_name = <small>British America and the British West Indies</small>
+|common_name=British America
+|continent = North America
+|region    =
+|status    = Colonies
+|status_text= Colonies of England <small>(1607–1707)</small><br />Colonies of Great Britain <small>(1707–1783)</small>
+|empire    = Britain
+|life_span = 1607–1783
+|government_type    = Constitutional monarchy
+|event_start = [[Colony of Virginia]]
+|year_start  = 1607
+|date_start  =
+|event_end   = [[Treaty of Paris (1783)|Treaty of Paris]]
+|year_end    = 1783
+|date_end    =
+|event1      = Bermuda
+|date_event1 = 1614
+|event2      = [[Plymouth Council for New England]] ([[Massachusetts Bay Colony]])
+|date_event2 = 1620
+|event3      = [[Province of Maryland]]
+|date_event3 = 1634
+|event4      = Jamaica
+|date_event4 = 1655
+|event5      = [[Rupert's Land]]
+|date_event5 = 1670
+|event6      = [[Treaty of Utrecht (1713)|Treaty of Utrecht]]
+|date_event6 = 1713
+|event7      = [[Treaty of Paris (1763)]] ([[French and Indian War]])
+|date_event7 = 1763
+|event8      = [[American Revolutionary War]]
+|date_event8 = 1775–1783
+|event9      = [[Treaty of Paris (1783)]]
+|date_event9 = 1783
+|p1          = New Netherland
+|flag_p1     = Prinsenvlag.svg
+|p2          = New France
+|flag_p2     = Royal Standard of King Louis XIV.svg
+|p3          = Spanish Florida
+|flag_p3     = Flag of New Spain.svg
+|p4          = New Sweden
+|flag_p4     = Sweden-Flag-1562.svg
+|s1          = British North America
+|flag_s1     = Flag of Great Britain (1707-1800).svg
+|s2          = British West Indies
+|flag_s2     = Flag of Great Britain (1707-1800).svg
+|s3          = United States
+|flag_s3     = US flag 13 stars – Betsy Ross.svg
+|s4          = Spanish Florida
+|flag_s4     = Flag of New Spain.svg
+|flag = Red Ensign
+|flag_type   = Flag of British America (1707–1775)
+|image_flag  = Colonial-Red-Ensign.svg
+|symbol                 =
+|symbol_type            =
+|image_coat             =
+|image_map    = British America.png
+|image_map_caption  = British colonies in North America (red) and the island colonies of the British West Indies near the Caribbean Sea (pink)
+|capital          = Administered from London, England
+|national_motto   =
+|national_anthem  =
+|common_languages = English (official) <br /> Spoken languages: <br /> English <br /> German <br /> French <br /> Spanish <br /> Dutch <br /> Irish <br /> Scottish Gaelic <br /> [[Ojibwe language|Ojibwe]] <br /> Indian languages
+|religion         = Anglicanism, Protestantism, Lutheranism, Roman Catholicism, Judaism, American Indian religion
+|currency         = Pound sterling, Spanish dollar, colonial money, bills of credit, commodity money, and many local currencies
+||<!--- Titles and names of the first and last leaders and their deputies --->
+|leader1      = [[James I of England|James I & VI]] <small>(first)</small>
+|year_leader1 = 1607–1625
+|leader2      = [[George III of the United Kingdom|George III]] <small>(last)</small>
+|year_leader2 = 1760–1783
+|title_leader = Monarch
+||legislature  =
+||<!--- Area and population of a given year --->
+|stat_year1 =
+|stat_area1 =
+|stat_pop1  =
+|stat_year2 =
+|stat_pop2  =
+|political_subdiv =
+|today = {{Collapsible list|title=Countries today|
+{{flag|Anguilla}}|{{flag|Antigua and Barbuda}}|{{flag|Bahamas}}|{{flag|Barbados}}|{{flag|Belize}}|{{flag|Bermuda}}|{{flag|British Virgin Islands}}|{{flag|Canada}}|{{flag|Cayman Islands}}|{{flag|Dominica}}|{{flag|Grenada}}|{{flag|Guyana}}|{{flag|Honduras}}|{{flag|Jamaica}}|{{flag|Montserrat}}|{{flag|Nicaragua}}|{{flag|Saint Kitts and Nevis}}|{{flag|Saint Vincent and the Grenadines}}|{{flag|Trinidad and Tobago}}|{{flag|Turks and Caicos Islands|name=Turks and Caicos}}|{{flag|United States}}
+}}
+|footnotes  =
+}}
+'''British America''' comprised the British Empire's colonial territories in North America, Bermuda, Central America, the Caribbean, and Guyana from 1607 to 1783. The American colonies were formally known as '''British America and the British West Indies''' before 1776, when the [[Thirteen Colonies]] declared their independence in the [[American Revolutionary War]] (1775–1783) and formed the United States of America.<ref>{{cite web|title=A Summary View of the Rights of British America – Thomas Jefferson|url=http://press-pubs.uchicago.edu/founders/documents/v1ch14s10.html}}</ref> After that, the term [[British North America]] was used to describe the remainder of Britain's continental North American possessions. That term was first used informally in 1783 by the end of the American Revolution, but it was uncommon before the [[Report on the Affairs of British North America]] (1839), called the Durham Report.
+
+British America gained large amounts of new territory following the [[Treaty of Paris (1763)]] which ended the [[French and Indian War]] in America, and ended British involvement in the [[Great Britain in the Seven Years' War|Seven Years' War]] in Europe. At the start of the Revolutionary War in 1775, the British Empire included 20 colonies north and east of [[New Spain]], including areas of Mexico and the Western United States. [[East Florida|East]] and [[West Florida]] were ceded to the Kingdom of Spain in the [[Treaty of Paris (1783)]] which ended the American Revolution, and then ceded by Spain to the United States in 1819 after treaty negotiations to settle the old southwest border with [[Spanish Florida]] (eastern Louisiana, southern Alabama, Mississippi, and western Georgia). The remaining continental colonies of British North America to the northeast formed the [[Dominion of Canada]] by uniting provinces between 1867 and 1873. The [[Dominion of Newfoundland]] to the east joined Canada in 1949.
+
+== History ==
+{{Main|English overseas possessions#The Americas}}
+{{further|First British Empire}}
+A number of English colonies were established in North America between 1606 and 1670 by individuals and companies whose investors expected to reap rewards from their speculation. They were granted commercial charters by [[James VI and I|King James I]], [[Charles I of England|King Charles I]], Parliament, and [[Charles II of England|King Charles II]].  The first permanent settlement was founded in 1607 on the [[James River (Virginia)|James River]] at [[Jamestown, Virginia]] upstream from [[Chesapeake Bay]] by the [[London Company]]. This was followed in 1620 when the Pilgrims established the [[Plymouth settlement]] in [[New England]]. English Catholics settled the [[Province of Maryland]] in 1634, with [[Cecil Calvert, 2nd Baron Baltimore|Cecilus Calvert, second Lord Baltimore]].
+
+In London beginning in 1660, all colonies were governed through a state department known as the Southern Department, and a committee of the Privy Council called the [[Board of Trade and Plantations]].  In 1768, a specific state department was created for America, but it was disbanded in 1782 when the Home Office took responsibility.<ref>{{Cite web |url=https://www.thecanadianencyclopedia.com/en/article/colonial-office/ |title=Colonial Office |last=Foulds |first=Nancy Brown |website=The Canadian Encyclopedia |language=en |access-date=2018-07-07}}</ref>
+
+== North American colonies in 1775 ==
+=== Thirteen Colonies ===
+The [[Thirteen Colonies]] formed the original states of the United States:
+
+:; [[New England Colonies]]:
+:*[[Province of Massachusetts Bay]]
+:*[[Province of New Hampshire]]
+:*[[Colony of Rhode Island and Providence Plantations]]<ref name="King Charles II Rhode Island Charter" /><ref name="Church History – King Charles II Rhode Island Charter" />
+:*[[Connecticut Colony]]
+
+[[File:A view of Fort George with the city of New York, from the SW.jpg|thumb||A view of [[Fort Amsterdam|Fort George]] and the city of [[New York City|New York]] c. 1731]]
+:; [[Middle Colonies]]:
+:*[[Province of New York]]
+:*[[Province of New Jersey]]
+:*[[Province of Pennsylvania]]
+:*[[Delaware Colony]]
+
+:; [[Southern Colonies]]:
+:*[[Province of Maryland]]
+:*[[Colony of Virginia]]
+:*[[Province of North Carolina]]
+:*[[Province of South Carolina]]
+:*[[Province of Georgia]]
+
+=== Former French colonies and the Floridas ===
+Several British colonies and territories were ruled by Britain from 1763 after the [[Seven Years' War]], but were ceded to Spain (the Floridas) or the United States (the Indian Reserve and Southwestern Quebec).  Others became part of Canada.
+
+Territories that became part of the United States of America:
+
+:*Province of [[East Florida]]
+:*Province of [[West Florida]]
+:*[[Indian Reserve (1763)|Indian Reserve]]
+:*[[Province of Quebec (1763–1791)|Province of Quebec]] (southwest of the [[Great Lakes]])
+
+British colonies and territories that became part of Canada:
+
+:*[[Province of Quebec (1763–1791)|Province of Quebec]] (northeast of the Great Lakes)
+:*Province of [[Nova Scotia]]
+:*[[Prince Edward Island|Island of St. John]]
+:*[[Colony of Newfoundland]]
+:*[[Rupert's Land]]
+
+== Colonies in the Caribbean, near-Atlantic, and South America in 1783 ==
+:; Divisions of the [[British Leeward Islands]]:
+:*[[Saint Kitts|Saint Christopher]] (de facto capital)
+:*[[Antigua]]
+:*[[Barbuda]]
+:*[[British Virgin Islands]]
+:*[[Montserrat]]
+:*[[Nevis]]
+:*[[Anguilla]]
+
+:; [[British West Indies#Jamaica and dependencies|Island of Jamaica and its dependencies]]:
+:*Island of [[Jamaica]]
+:*Settlement of Belize in [[British Honduras]]
+:*[[Mosquito Coast]]
+:*[[Bay Islands (department)|Bay Islands]]
+:*[[Cayman Islands]]
+
+:; Other possessions in the [[British West Indies]]:
+:*Colony of the [[Bahamas]]
+:*Colony of [[Bermuda]]
+:*Island of [[Barbados]]
+:*Island of [[Grenada]]
+:*[[Saint Vincent and the Grenadines|Island of St. Vincent]] (detached from Grenada in 1776)
+:*Island of [[Tobago]] (detached from Grenada in 1768)
+:*Island of [[Dominica]] (detached from Grenada in 1770)
+
+== See also ==
+{{Portal|British Empire|History of Canada|North America|United States|Canada|Caribbean}}
+* [[British colonization of the Americas]]
+* [[British North America Acts]]
+* [[British overseas territories]]
+* [[Colonial history of the United States]]
+* [[Evolution of the British Empire]]
+* [[Former colonies and territories in Canada]]
+
+== Citations ==
+{{Reflist
+| colwidth =
+| refs =
+
+<ref name="King Charles II Rhode Island Charter">{{cite web
+| url         = http://sos.ri.gov/library/history/charter/
+| title       = Rhode Island Royal Charter of 1663
+| author      =
+| date        =
+| month       =
+| year        =
+| work        = sos.ri.gov
+| publisher   = [[Secretary of State of Rhode Island]]
+| format      =
+| archiveurl  =
+| archivedate =
+| accessdate  = 14 April 2011
+| quote       =
+| postscript  = .
+}}</ref>
+
+<ref name="Church History – King Charles II Rhode Island Charter">{{cite web
+| url         = http://www.christianity.com/ChurchHistory/11630142/
+| title       = Charles II Granted Rhode Island New Charter
+| author      =
+| date        = 8 July 1663
+| month       =
+| year        =
+| work        = christianity.com
+| publisher   = [[Christianity.com]]
+| format      =
+| archiveurl  =
+| archivedate =
+| accessdate  = 14 April 2011
+| quote       =
+| postscript  = .
+}}</ref>
+
+<!-- the two entries below do nothing: is it necessary to define "British" as the UK did not formally come into being until the Act of Union 1707? See also Union_of_the_Crowns#British -->
+http://dictionary.reference.com/browse/British
+http://www.merriam-webster.com/dictionary/british
+}}
+
+{{coord missing|North America}}
+
+[[Category:1607 establishments in the British Empire]]
+[[Category:1783 disestablishments in North America]]
+[[Category:1783 disestablishments in the British Empire]]
+[[Category:British colonization of the Americas]]
+[[Category:British North America]]
+[[Category:Colonial United States (British)]]
+[[Category:Colonization history of the United States]]
+[[Category:English-speaking countries and territories]]
+[[Category:History of the Caribbean]]
+[[Category:States and territories established in 1607]]

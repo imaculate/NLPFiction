@@ -1,0 +1,75 @@
+{{Infobox artist
+| bgcolour      = #6495ED
+| name          = Joseph Duplessis
+| image         = Joseph Duplessis, self portrait.jpg
+| imagesize     = 
+| caption       = [[Self portrait]] of Joseph Duplessis, 1801
+| birth_name     = 
+| birth_date     = {{birth date|df=y|1725|09|22}}
+| birth_place      = [[Carpentras]], [[France]]
+| death_date     = {{death date and age|df=y|1802|04|01|1725|09|22}}
+| death_place    = [[Versailles (city)|Versailles]], France
+| nationality   = [[France|French]] 
+| field         = [[Painting]]
+| training      = 
+| movement      = 
+| works         = 
+| patrons       = 
+| influenced by =
+| influenced    =
+| awards        = 
+}}
+'''Joseph-Siffred Duplessis'''<ref>His middle name has also been given as '''Siffrède''' or '''Siffrein''' (Lester C. Olsen, ''Benjamin Franklin's Vision of American Community'', 2004, [https://books.google.com/books?id=NUlKkSMXBbgC&pg=PR13 p. xiii]).</ref>
+(22 September 1725 &ndash; 1 April 1802) was a French painter, known for the clarity and immediacy of his [[portrait]]s.
+
+He was born in [[Carpentras]], near [[Avignon]], into a family with an artistic bent and received his first training from his father, a surgeon and talented amateur. He subsequently studied with Joseph-Gabriel Imbert (1666–1749), who had been a pupil of [[Charles Le Brun]]. From 1744–47 or later he worked in Rome, in the atelier of [[Pierre Subleyras]] (1699–1749), who was also from the south of France. In Italy Duplessis became fast friends with [[Claude Joseph Vernet|Joseph Vernet]], another Occitan.
+
+He returned to Carpentras, spent a brief time in [[Lyon]] then arrived about 1752 in Paris, where he was accepted into the [[Académie de Saint-Luc]] and exhibited some portraits, which were now his specialty, in 1764, but did not achieve much notice until his exhibition of ten paintings at the [[Paris salon]] of 1769, very well received and selected for special notice by [[Denis Diderot]]; the [[Académie de peinture et de sculpture]] accepted him in the category of portraitist, considered a lesser category at the time. He continued to exhibit at the  Paris salons, both finished paintings and sketches, until 1791, and once more, in 1801.
+
+His portrait of the [[Marie Antoinette of France|Dauphine]] in 1771 and his appointment as a ''peintre du Roi'' assured his success: most of his surviving portraits date from the 1770s and 1780s. He received privileged lodgings in the Galeries du Louvre. In the Revolution, he withdrew to safe obscurity at Carpentras during the [[Reign of Terror]]. Afterwards, from 1796, he served as curator at the newly founded museum formed at [[Palace of Versailles|Versailles]], so recently emptied of its furnishings at the [[Biens nationaux|Revolutionary sales]]. His uncompromising self-portrait at this time of his life is at [[Versailles (city)|Versailles]], where he died.
+
+He would adjust his style to the social condition of his sitter: his portrait of Charles-Claude, comte d'Angiviller, director of the ''[[Bâtiments du Roi]]'', is as distant and conventional as his state portrait of [[Louis XVI of France|Louis XVI]] in coronation robes (1776),<ref>The original disappeared, but has been identified in the [[Musée Ingres]], Montauban (ref Ministère ).</ref> while his realistic and intimate portrait of the opera composer [[Christoph Willibald Gluck]] ([[Kunsthistorisches Museum]], Vienna) catches the composer at the keyboard in a moment of inspiration and his penetrating portrait of the sculptor Christophe Gabriel Allegrain ([[Louvre Museum]], ''illustration'') shows him having just laid down his chisel: this was the ''morceau de reception'' that gained him admittance to the Académie.  
+
+His portrait of [[Benjamin Franklin]] (circa 1785), more than any other, has fixed the image of Franklin for posterity<ref>Duplessis received many commissions for duplicates: one is at the [[National Portrait Gallery, London]]; another at the [[North Carolina Museum of Art]].</ref> since it is reproduced on the [[U.S. hundred dollar bill]].
+
+His portrait of the financier [[Jacques Necker]] hung at [[Voltaire]]'s [[Coppet Castle]]. Several reduced versions were made, one of which is at the Louvre.
+
+Many of his portraits received a wider circulation as [[engraving]]s.
+
+==Gallery==
+<gallery>
+Image:Necker, Jacques - Duplessis.jpg|[[Jacques Necker]], c. 1781
+Image:DuplessisAllegrain.jpg|[[Christophe Gabriel Allegrain]], 1774
+Image:Louis xvi.jpg|[[Louis XVI of France]], 1775
+File:Joseph Siffred Duplessis - Christoph Willibald Gluck - Google Art Project.jpg|[[Christoph Willibald Gluck]], 1775
+Image:Duplessis - Louise Marie Adélaïde de Bourbon.jpg|[[Louise Marie Adélaïde de Bourbon]], 1780s
+Image:JMVien.jpg|[[Joseph-Marie Vien]], 1784
+Image:BenFranklinDuplessis.jpg|[[Benjamin Franklin]], ca. 1785
+Image:Usdollar100front.jpg|Duplessis' Benjamin Franklin on the [[U.S. hundred dollar bill]]
+Image:Duplessis's semi-topless portrait of the Princess of Lamballe dates from 18th Century France.png|[[Marie Thérèse Louise of Savoy, Princesse de Lamballe|Princess of Lamballe]]
+</gallery>
+
+{{Commons category|Joseph Duplessis}}
+
+==Notes==
+<references/>
+
+==References==
+*Jean-Paul Chabaud, ''Joseph-Siffred Duplessis. Un provençal, Peintre du Roi'', 2004. With catalogue raisonné and archival material.  {{ISBN|2-9521063-0-4}}
+*[http://www.duplessis.free.fr/ Joseph-Siffred Duplessis] The most comprehensive on-line sketch of his career.
+*[https://web.archive.org/web/20070929092430/http://search.famsf.org:8080/search.shtml?keywords=joseph+duplessis (Fine Art Museums of San Francisco) ''Portrait of a Gentleman (Jean-Baptiste-Francois Dupre?)''], ca 1779 - 1782. Brief sketch of his career.
+*[https://web.archive.org/web/20060825113408/http://www.khm.at/system2E.html?%2FstaticE%2Fpage745.html (Kunsthistorisches Museum, Vienna) ''Portrait of Chrisoph Willibald Gluck''], 1775
+*[http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=11112 (Louvre Museum) ''Joseph-Marie Vien''], 1782. A repetition, in oil ''en grisaille'' on paper (mounted on canvas), is at the [[Museum of Fine Arts, Boston]].
+*[http://www.metmuseum.org/Works_of_Art/viewOne.asp?dep=11&viewMode=1&item=32%2E100%2E132 (Metropolitan Museum) ''Benjamin Franklin''], 1778. Shown at the Salon of 1779.
+*[http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=AUTR&VALUE_1=DUPLESSIS%20Joseph%20Siffred&DOM=All&REL_SPECIFIC=1&IMAGE_ONLY=CHECKED Ministère de la culture: (Louvre Museum, Château de Versailles) Portraits by or attributed to Duplessis]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Duplessis, Joseph}}
+[[Category:1725 births]]
+[[Category:1802 deaths]]
+[[Category:People from Carpentras]]
+[[Category:18th-century French painters]]
+[[Category:French male painters]]
+[[Category:19th-century French painters]]
+[[Category:French portrait painters]]

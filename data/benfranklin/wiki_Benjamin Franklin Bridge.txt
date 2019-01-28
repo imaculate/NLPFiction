@@ -1,0 +1,158 @@
+{{Infobox Bridge
+|bridge_name= Benjamin Franklin Bridge
+|image=2012_Ben_Franklin_Bridge_and_Race_Street_Pier.jpg
+|image_size= 300px
+|caption= The bridge in 2012, before the PATCO track was replaced. Race Street Pier is in the foreground.
+|official_name= [[Benjamin Franklin]] Bridge
+|also_known_as= Ben Franklin Bridge
+|carries= 7 lanes of {{jct|country=USA|I|676|US|30}}, 2 [[Port Authority Transit Corporation|PATCO]] railroad tracks, and 2 sidewalks
+|crosses= [[Delaware River]]
+|locale= ([[Center City, Philadelphia|Center City]]), [[Philadelphia]], [[Pennsylvania]] to [[Camden, New Jersey]]
+|maint= [[Delaware River Port Authority|Delaware River Port Authority of Pennsylvania and New Jersey]]
+|id= 4500010
+|design= [[steel]] [[suspension bridge]]
+|mainspan= {{convert|533.4|m|abbr=on}}
+|length= {{convert|2,917.86|m|sp=us}}
+|height= {{convert|385|ft|abbr=on}}
+|width= {{convert|39.01|m|abbr=on}} 
+|clearance= {{convert|5.12|m|abbr=on}}
+|traffic= 100,000
+|below= {{convert|41.19|m|abbr=on}} 
+|cost= $37,103,765<ref>{{cite web|url=http://www.drpa.org/bridges/bridges_bf.html|title=DRPA :: Delaware River Port Authority|work=drpa.org}}</ref>
+|open= July 1, 1926 (92 years ago)
+|closed=
+|toll= Cars $5.00; Trucks over 7,000 lbs $7.50/axle; Buses $3.75/axle (westbound into PA) ([[E-ZPass]])
+|map_cue=
+|map_image=
+|map_text=
+|map_width=
+|coordinates = {{coord|39.953|-75.134|display=inline,title}}
+| extra = {{Designation list
+ | embed = yes
+ | designation1            = Philadelphia Register of Historic Places
+ | designation1_offname    = Benjamin Franklin Bridge over the Delaware River
+ | designation1_type       = 
+ | designation1_criteria   = 
+ | designation1_date       = December 12, 2003<ref>{{cite web |title=Phila Register no addr |url=https://www.phila.gov/historical/PDF/Phila%20Register%20no%20addr.pdf |website=phila.gov |accessdate=11 October 2018}}</ref>
+ | delisted1_date          = 
+ | designation1_partof     = 
+ | designation1_number     = 
+ | designation1_free1name  = Approximate Address
+ | designation1_free1value = 200 N 05th St
+ }}
+}}
+[[File:Ben_Franklin_Bridge_at_sunrise_2009-09-02_06-08-46_4w.jpg|thumb|300px|Right|Ben Franklin Bridge at sunrise]]
+[[File:BenjaminFranklinBridgeAtNight.jpg|thumb|300px|Right|Ben Franklin Bridge at night]]
+The '''Benjamin Franklin Bridge''' &ndash; originally named the '''Delaware River Bridge''', and now informally called the '''Ben Franklin Bridge''' &ndash; is a [[suspension bridge]] across the [[Delaware River]] connecting [[Philadelphia]], [[Pennsylvania]], and [[Camden, New Jersey]]. Owned and operated by the [[Delaware River Port Authority]], it is one of four primary vehicular bridges between Philadelphia and [[South Jersey|southern New Jersey]], along with the [[Betsy Ross Bridge|Betsy Ross]], [[Walt Whitman Bridge|Walt Whitman]], and [[Tacony-Palmyra Bridge|Tacony-Palmyra]] bridges. It carries [[Interstate&nbsp;676]]/[[U.S. Route&nbsp;30]].
+
+The bridge was dedicated as part of the 1926 [[Sesquicentennial Exposition]], celebrating the 150th anniversary of the signing of the [[United States Declaration of Independence]]. From 1926 to 1929, it had the longest single span of any suspension bridge in the world.
+
+==History==
+Plans for a bridge to augment the ferries across the Delaware River began as early as 1818, when one plan envisioned using Smith/Windmill Island, a narrow island off the Philadelphia shore. But it was only in the 1910s that visions began to approach reality. The Delaware River Bridge Joint Commission (now the [[Delaware River Port Authority]]) was created in 1919.
+
+The chief engineer of the bridge was Polish-born [[Ralph Modjeski]], the design engineer was [[Leon Moisseiff]], and the supervising architect was [[Paul Philippe Cret]]. Work began on January 6, 1922. At the peak of construction, 1,300 people worked on the bridge, and 15 died during its construction.<ref>Howard, Michael and Howard, Maureen. ''The Benjamin Franklin Bridge''  Charleston, South Carolina: Arcadia Publishing, 2009 (''Images of America'' series) {{ISBN|978-0738562582}}</ref> The bridge was originally painted by a commercial painting company owned by David A. Salkind, of Philadelphia, which also painted the Golden Gate Bridge.<ref>[http://fultonhistory.com/highlighter/highlight-for-xml?altUrl=http%3A%2F%2Fwww.fultonhistory.com%2FNewspapers%252023%2FPhiladelphia%2520PA%2520Inquirer%2FPhiladelphia%2520PA%2520Inquirer%25201926%2FPhiladelphia%2520PA%2520Inquirer%25201926%2520-%25208582.pdf%23xml%3Dhttp%3A%2F%2Fwww.fultonhistory.com%2FdtSearch%2Fdtisapi6.dll%3Fcmd%3Dgetpdfhits%26u%3Dffffffffad1dbd83%26DocId%3D901501%26Index%3DZ%253a%255cDISK%2520S%26HitCount%3D19%26hits%3D5ec%2Bbe9%2Bc17%2Bc2e%2Bc4c%2Bcb1%2Bcc8%2Bcea%2Bd3a%2Bd9c%2Bdb8%2Be5a%2Be7f%2Be9b%2Beab%2Beb1%2Beb2%2Bed6%2Bed8%2B%26SearchForm%3D%252fFulton%255fNew%255fform%252ehtml%26.pdf&uri=http%3A%2F%2Fwww.fultonhistory.com%2FNewspapers%252023%2FPhiladelphia%2520PA%2520Inquirer%2FPhiladelphia%2520PA%2520Inquirer%25201926%2FPhiladelphia%2520PA%2520Inquirer%25201926%2520-%25208582.pdf&xml=http%3A%2F%2Fwww.fultonhistory.com%2FdtSearch%2Fdtisapi6.dll%3Fcmd%3Dgetpdfhits%26u%3Dffffffffad1dbd83%26DocId%3D901501%26Index%3DZ%253a%255cDISK%2520S%26HitCount%3D19%26hits%3D5ec%2Bbe9%2Bc17%2Bc2e%2Bc4c%2Bcb1%2Bcc8%2Bcea%2Bd3a%2Bd9c%2Bdb8%2Be5a%2Be7f%2Be9b%2Beab%2Beb1%2Beb2%2Bed6%2Bed8%2B%26SearchForm%3D%252fFulton%255fNew%255fform%252ehtml%26.pdf&openFirstHlPage=false The Philadelphia Inquirer, June 19, 1926]</ref>  The bridge opened to traffic on July 1, 1926, three days ahead of its scheduled opening on the nation’s 150th anniversary. At completion, its 1,750-foot (533-meter) span was the [[List of longest suspension bridge spans|world's longest for a suspension bridge]], a distinction it held until the opening of the [[Ambassador Bridge]] in 1929.
+
+The name was changed to "Benjamin Franklin Bridge" in 1955, as a second Delaware River suspension bridge connecting Philadelphia and New Jersey was under construction ([[Walt Whitman Bridge]]).
+
+The bridge was closed to vehicles on July 1, 2001, to allow pedestrians to celebrate its 75th anniversary.<ref>{{cite web|url=http://bridgepros.com/projects/Ben_Franklin_Bridge/ben_franklin_bridge_celebration.htm|title=Ben Franklin Bridge Celebration|work=bridgepros.com|deadurl=yes|archiveurl=https://web.archive.org/web/20120101053527/http://bridgepros.com/projects/Ben_Franklin_Bridge/ben_franklin_bridge_celebration.htm|archivedate=2012-01-01|df=}}</ref>
+
+==Uses==
+
+===Rail===
+The bridge originally included six vehicle lanes and two streetcar tracks on the main deck, with provision for a rapid transit track in each direction outboard of the deck's stiffening trusses, which rise above the deck rather than lie beneath it. The tracks were built to the nonstandard broad gauge of the Public Service Company of New Jersey's Camden streetcar system;{{Citation needed|date=October 2009}} the design called for the streetcars to cross the bridge from Camden to Philadelphia, enter an underground terminal beneath the bridge's west entrance plaza, and return to Camden via the opposite track. Streetcar stations were also built in the bridge's anchorages. None of the streetcar facilities were ever placed in service, as Public Service ran no cars across the bridge from its opening until the company abandoned its Camden streetcar system in 1932; after that, the tracks were removed{{Citation needed|date=October 2009}}, and the space was converted to vehicular lanes.
+
+The outer pair of rapid transit tracks went into service in 1936 with the opening of the Bridge Line subway connecting Broadway and City Hall in Camden with 8th and Market Streets in Philadelphia; the Bridge Line, extended to 16th and Locust in 1952, began carrying [[Port Authority Transit Corporation|PATCO]] trains in 1969. Today, it carries the [[PATCO Speedline]], which descends into tunnels on both sides of the bridge. Both, the Eastbound and Westbound railroad tracks and support structure were reconstructed from June 2014 and finished October 2014.
+
+[[File:BenFranklinBridgeInbound.jpg|thumb|left|300px|The westbound approach to the bridge shows the zipper barrier and the overhead gantry lights]]
+
+===Roads===
+The bridge carries highways [[Interstate 676|I-676]] and [[U.S. Route 30|US 30]], but only the New Jersey section of the bridge carries I-676, as the section of the bridge approaches on the Pennsylvania side are not up to interstate highway standards, including at-grade traffic crossings.  The Pennsylvania section of I-676 (which runs East/West, and not North/South as New Jersey's I-676 does) ends at the ramps to I-95.  I-676 is signed across the bridge from both sides, however, to be less confusing to drivers.<ref>{{cite web|url=http://alpsroads.net/roads/pa/i-676/|title=Pennsylvania Roads - I-676/US 30|work=alpsroads.net}}</ref>   Before the [[1953 New Jersey state highway renumbering]], [[New Jersey Route&nbsp;25]] (Route&nbsp;25), [[New Jersey Route 43|Route&nbsp;43]], and [[New Jersey Route 45|Route&nbsp;45]] ended in the middle of the bridge, and [[Interstate 76 (east)|I-76]] was signed on the bridge until 1972, when it switched routings with I-676, which until then ran across the [[Walt Whitman Bridge]].
+
+===="Zipper" barrier====
+The seven vehicular lanes are divided by a concrete [[Barrier transfer machine|"zipper" barrier]], which can be mechanically moved to configure the lanes for traffic volume or construction. Red and green signals mounted on overhead gantries indicate which lanes are open or closed to traffic in each direction. The lights indicate closures for construction, accidents or breakdown as well as traffic separation. Generally, during the morning rush hour, there are four lanes open westbound and three eastbound, with the situation reversed during the evening rush hour.  Before the zipper barrier was installed in 2000-01, one lane of the bridge was kept closed at peak times to reduce the risk of head-on collisions as there was no physical barrier separating east and westbound traffic.{{clear left}}
+
+====Tolls====
+* A $5.00 one-way toll is charged to westbound passenger vehicles (less than {{convert|7000|lb|abbr=on}} gross vehicle weight).
+* Trucks, commercial vehicles, mobile homes, and recreation vehicles (weighing at least {{convert|7000|lb|abbr=on}}. gross vehicle weight), pay $7.50 per axle.<ref>{{cite web|url=http://www.drpa.org/commtrav/bridge_fares.html|title=Bridge Fares|work=Delaware River Port Authority|deadurl=yes|archiveurl=https://web.archive.org/web/20110422043723/http://www.drpa.org/commtrav/bridge_fares.html|archivedate=2011-04-22|df=}}</ref>
+* Seniors aged 65 and older can use a discount program to pay $2.50 per trip (integrated with E-ZPass).
+
+===Proposed Camden-Philadelphia BRT===
+There are proposals for a [[Camden-Philadelphia BRT]], a [[bus rapid transit]] system between the two cities extending into [[Camden County, New Jersey|Camden]] and [[Gloucester County, New Jersey|Gloucester]] which would use the bridge.{{citation needed|date=July 2014}}
+
+===Walkways===
+Pedestrian walkways run along both sides of the bridge, elevated over and separated from the vehicular lanes; of these, only one is open at a time.  The DRPA temporarily closed the walkways to the public the day after the [[7 July 2005 London bombings]], citing security concerns. The DRPA also closes the walkway after snowfall, or if the weather forecast includes a chance of snowfall, and closed it in late August 2011 during [[Hurricane Irene (2011)|Hurricane Irene]] and in late October 2012 during [[Hurricane Sandy (2012)|Hurricane Sandy]].
+
+==See also==
+* {{Portal-inline|Bridges}}
+* {{Portal-inline|Pennsylvania}}
+* {{Portal-inline|Philadelphia}}
+* {{Portal-inline|New Jersey}}
+* [[List of crossings of the Delaware River]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Benjamin Franklin Bridge}}
+*[http://michaelpennphotography.com/index.php/product-category/prints/ben-franklin-bridge/ Ben Franklin Bridge Photo Portfolio by Michael Penn]
+*[http://www.phillyroads.com/crossings/benjamin-franklin/ Benjamin Franklin Bridge], ''Historical overview'', by Steve Anderson.
+*{{Structurae|id=s0000531|title=Benjamin Franklin Bridge}}
+*[http://www.drpa.org Delaware River Port Authority Official Website]
+*[http://www.ridepatco.org PATCO Official Website]
+*[https://www.youtube.com/watch?v=cntiCywmUUA Slideshow]
+*[http://thespeedliner.com/pages/dist.html Speedliner Newspaper Website]
+
+{{Navboxes
+|title=Articles and topics related to Benjamin Franklin Bridge
+|state=collapsed
+|list1=
+{{Crossings navbox
+|structure       = Crossings
+|place           = [[Delaware River]]
+|bridge          = Benjamin Franklin Bridge
+|bridge signs    = [[File:I-676.svg|25px]] [[File:US 30.svg|20px]]<!--Image with inadequate rationale removed:  [[File:PATCO Speedline.svg|40px]] -->''<br/>[[PATCO Speedline]]''
+|upstream        = [[Delair Bridge]]
+|upstream signs  = ''Conrail''<br/>''NJ Transit''
+|downstream      = [[RiverLink Ferry]]
+|downstream signs =
+}}
+{{LongestBridge
+| type = suspension
+| start = 1926
+| end = 1929
+| previous = Bear Mountain Bridge
+| current = Benjamin Franklin Bridge
+| next = Ambassador Bridge
+}}
+{{Delaware River Port Authority}}
+{{Benjamin Franklin}}
+}}
+
+[[Category:Delaware River Port Authority]]
+[[Category:Bridges on the Interstate Highway System]]
+[[Category:Suspension bridges in New Jersey]]
+[[Category:Suspension bridges in Pennsylvania]]
+[[Category:Culture of Philadelphia]]
+[[Category:Toll bridges in New Jersey]]
+[[Category:Toll bridges in Pennsylvania]]
+[[Category:Interstate 76 (Ohio–New Jersey)]]
+[[Category:Bridges completed in 1926]]
+[[Category:Bridges in Philadelphia]]
+[[Category:Transportation in Camden, New Jersey]]
+[[Category:Bridges over the Delaware River]]
+[[Category:Tolled sections of Interstate Highways]]
+[[Category:U.S. Route 30]]
+[[Category:Paul Philippe Cret buildings]]
+[[Category:Road-rail bridges in the United States]]
+[[Category:Road bridges in New Jersey]]
+[[Category:Railroad bridges in New Jersey]]
+[[Category:Road bridges in Pennsylvania]]
+[[Category:Railroad bridges in Pennsylvania]]
+[[Category:Bridges in Camden County, New Jersey]]
+[[Category:Philadelphia Register of Historic Places]]
+[[Category:1926 establishments in the United States]]
+[[Category:Center City, Philadelphia]]
+[[Category:Rapid transit bridges]]
+[[Category:Bridges on the United States Numbered Highways]]
+[[Category:Steel bridges in the United States]]
+[[Category:Interstate vehicle bridges in the United States]]

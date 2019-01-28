@@ -1,0 +1,65 @@
+{{Infobox officeholder
+| name        = David Redick
+| title       = [[Supreme Executive Council of the Commonwealth of Pennsylvania#Vice-Presidents of Council|9th Vice-President of Pennsylvania]]
+| term_start  = 14 October 1788
+| term_end    = 5 November 1788
+| predecessor = [[Peter Muhlenberg]]
+| successor   = [[George Ross (Pennsylvania Statesman)|George Ross]]
+| birth_date  = 
+| birth_place = [[Ireland]]
+| death_date  = 28 September 1805
+| death_place = [[Washington, Pennsylvania|Washington]], [[Pennsylvania]]
+| party       = 
+| residence   = Washington, Pennsylvania
+| spouse      = Miss Hoge
+| profession  = [[soldier]], [[Surveying|surveyor]], [[lawyer]], [[politician]]
+| religion    = 
+}}
+
+'''David Redick''' (died 1805) was a [[Pennsylvania]] [[Surveying|surveyor]], [[lawyer]], and [[politician]].
+
+==Biography==
+
+Redick was born in [[Ireland]], and after coming to America made his home for several years in [[Lancaster County, Pennsylvania]].  Redick was a veteran of the [[American Revolutionary War]]. He [[read law]] and was admitted to the bar in 1782.
+
+===Family===
+He married the niece of business associate David Hoge. Redick and his wife had at least three children. A son became a lawyer and died at a young age. His daughter, Nancy, and her husband inherited the Redick home in Washington and lived there until their own deaths. Another daughter married and settled in [[Louisville, Kentucky]].<ref name=crumrine/>
+
+===Career===
+Redick accompanied Hoge (c. 1780) to survey the latter's land holdings in the [[Chartiers Creek|Chartiers Valley]], in western Pennsylvania. Under Hoge's direction he [[plat]]ted the town of Bassett Town, which was soon renamed [[Washington, Pennsylvania]]. At that time, [[Washington County, Pennsylvania|Washington County]] was in the process of being established, and Hoge apparently wanted to establish a town that could serve as the new county's center of government. Redick purchased a lot on the town's main street and lived there until his death.
+
+===Public service===
+
+Redick was elected to represent Washington County on the [[Supreme Executive Council of the Commonwealth of Pennsylvania|Supreme Executive Council of Pennsylvania]] in 1786.  He was elected [[Supreme Executive Council of the Commonwealth of Pennsylvania#Vice-Presidents of Council|Vice-President of the Council]] (a position analogous to [[Lieutenant Governor of Pennsylvania|Lieutenant Governor]]) on 14 October 1788, following the resignation of [[Peter Muhlenberg]], and served until the next regular election, 5 November 1788, when he was succeeded by [[George Ross (Pennsylvania Statesman)|George Ross]]. His was the second-shortest tenure as Vice-President, and the third-shortest of ''any'' Pennsylvania [[List of Governors of Pennsylvania|Governor]] or Lieutenant Governor. Although his time in office was brief he was the first statewide officer from Pennsylvania's western frontier. All of the [[Supreme Executive Council of the Commonwealth of Pennsylvania#Presidents of Council|Presidents of Pennsylvania]] had been elected to Council from either the [[Philadelphia, Pennsylvania|City]] or [[Philadelphia County, Pennsylvania|County of Philadelphia]], and the other Vice-Presidents had represented counties of southeastern Pennsylvania, none farther west than [[York County, Pennsylvania|York]]. The county Redick represented hadn't even existed when the Supreme Executive Council was established less than twelve years earlier.
+
+Perhaps due to his abilities as a surveyor, in 1787 Redick was appointed an agent for the [[Commonwealth (United States)|Commonwealth]] for communicating with the [[Governor of New York]] regarding [[Connecticut|Connecticut's]] claims to land in Pennsylvania. He was a member of Pennsylvania's 1790 [[Constitutional convention (political meeting)|Constitutional Convention]] and was a signer of the new charter. In 1791 he became [[prothonotary]] and [[court clerk|clerk of courts]] of Washington County.
+
+During his brief period as Vice-President of Pennsylvania Redick was an ''ex officio'' member of the [[Board of Trustees]] of the [[University of Pennsylvania]].<ref name=penn>Biography of [http://www.archives.upenn.edu/histy/features/1700s/people/redick_david.html David Redick] at the [[University of Pennsylvania]], accessed 22 April 2007.</ref>
+
+===Whiskey Rebellion===
+
+Redick was involved in the [[Whiskey Rebellion]]—not on the side of the rebels but, rather, "in defense of law, order, and the constitution."<ref name=crumrine>Crumrine, Boyd (1882). ''History of Washington County, Pennsylvania with biographical sketches of many of its pioneers and prominent men'' (Philadelphia: Leverts).</ref> With [[William Findley]], he presented the document representing the rebels' surrender to [[George Washington|President Washington]] and [[Alexander Hamilton]] in [[Carlisle, Pennsylvania]] in October 1794.<ref name =luke>[http://www.oldsaintlukes.org Old St. Luke's] history of [http://www.oldsaintlukes.org/facts.htm the Whiskey Rebellion], accessed 22 April 2007.</ref><ref name = timeline>[http://www.whiskeyrebellion.org/timeline.htm Whiskey Rebellion Timeline], accessed 22 April 2007.</ref>
+
+===Death===
+David Redick died on 28 September 1805 in Washington, Pennsylvania. He was buried with [[Freemasonry|Masonic]] honors.<ref name=crumrine/> His [[grave (burial)|grave]] site is in the Old Washington Cemetery in downtown Washington.
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-off}}
+{{succession box | before=  [[General John Neville]] |title=Member, [[Supreme Executive Council of the Commonwealth of Pennsylvania|Supreme Executive Council of Pennsylvania]], representing [[Washington County, Pennsylvania|Washington County]]  | years=   20 November 1786 – 3 December 1789   | after= Henry Taylor }}
+{{succession box | before= [[Peter Muhlenberg]]  |title=[[Supreme Executive Council of the Commonwealth of Pennsylvania#Vice-Presidents of Council|Vice-President of Pennsylvania]]  | years= 14 October 1788 – 5 November 1788 | after= [[George Ross (Pennsylvania Statesman)|George Ross]] }}
+{{s-end}}
+{{Lieutenant Governors and Vice-Presidents of Pennsylvania}}
+{{authority control}}
+{{DEFAULTSORT:Redick, David}}
+[[Category:Lieutenant Governors of Pennsylvania]]
+[[Category:Pennsylvania lawyers]]
+[[Category:American surveyors]]
+[[Category:Irish emigrants to the United States (before 1923)]]
+[[Category:People of Pennsylvania in the American Revolution]]
+[[Category:People from Washington County, Pennsylvania]]
+[[Category:1805 deaths]]
+[[Category:Year of birth unknown]]
+[[Category:American lawyers admitted to the practice of law by reading law]]

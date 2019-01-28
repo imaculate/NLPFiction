@@ -1,0 +1,737 @@
+{{Other uses of|Benjamin Franklin Medal}}
+[[File:Secretary Kerry Puts Away the Benjamin Franklin Medal for Leadership Upon Receiving It in London (30056450773).jpg|thumb|John Kerry receives the Benjamin Franklin Medal for Leadership in 2016]]
+The '''Franklin Institute Awards''' (or '''Benjamin Franklin Medal''') is a science and engineering award presented since 1824 by the [[Franklin Institute]], of Philadelphia, Pennsylvania, US.<ref name=FranklinAwards>{{cite web|title=The Franklin Institute Awards|url=https://www.fi.edu/franklin-institute-awards|website=The Franklin Institute|accessdate=2 December 2015}}</ref> The Franklin Institute Awards comprises the Benjamin Franklin Medals in seven areas of science and engineering, the Bower Awards and Prize for Achievement in Science, and the Bower Award for Business Leadership.<ref name=":0">{{Cite web|url=https://www.fi.edu/about-franklin-institute-awards|title=About The Franklin Institute Awards {{!}} The Franklin Institute|website=www.fi.edu|access-date=2016-06-24}}</ref>
+
+== Benjamin Franklin Medals ==
+In 1998, the Benjamin Franklin Medals were created by reorganizing all of the endowed medals presented by The Franklin Institute at that time, into a group medals recognizing seven areas of study: Chemistry, Computer and Cognitive Science, Earth and Environmental Science, Electrical Engineering, Life Science, Mechanical Engineering, and Physics. The first Benjamin Franklin Medals were presented in 1998.<ref name=":0" />
+
+Medalists are selected by Committee on Science and the Arts (CS&A) after thorough investigation.<ref>{{Cite web|url=https://www.fi.edu/csa|title=Committee on Science & the Arts |website=The Franklin Institute|access-date=2016-06-24}}</ref>
+
+== Bower Awards ==
+The Bower Award and Prize for Achievement in Science and the Bower Award for Business Leadership are the newest awards, established by a $7.5 million bequest from Henry Bower in 1988.<ref name=":0" />  The Annual Bower Prizes are $250,000 USD each.
+
+==Former awards==
+:''For articles about the seven former awards, see [[:Category:Franklin Institute awards]].
+
+==List of laureates==
+Recipients are listed in a database on The Franklin Institute website.<ref name="Laureates Search">{{cite web |url=https://www.fi.edu/laureates-search |title=Laureates Search |last1= |first1= |last2= |first2= |date= |website=The Franklin Institute Awards |publisher=[[Franklin Institute]] |access-date=2015-05-08 }}</ref>
+{| class="wikitable sortable"
+|-
+! Year
+! Name
+! Field 
+|-
+| 1998
+| {{sortname|Emmanuel|Desurvire}} 
+| Engineering
+|-
+| 1998 
+| {{sortname|Robert B. |Laughlin}}
+| Physics
+|-
+| 1998 
+| {{sortname|David N.|Payne}}
+| Engineering
+|-
+| 1998  
+| {{sortname|Stanley B.| Prusiner}}
+| Life Science
+|-
+| 1998  
+| {{sortname|Horst L.| Stormer}}
+| Physics
+|-
+|1998  
+| {{sortname|Daniel C.| Tsui}}
+| Physics
+|-
+|1998  
+| {{sortname|Ahmed H. |Zewail}}
+| Chemistry
+|-
+|1999  
+| {{sortname|Noam |Chomsky}}
+| Computer and Cognitive Science
+|-
+|1999  
+| {{sortname|Douglas C. |Engelbart}}
+| Computer and Cognitive Science
+|-
+|1999  
+| {{sortname|Walter |Kaminsky}}
+| Chemistry
+|-
+|1999  
+| {{sortname|Barry J.| Marshall}}
+| Life Science
+|-
+|1999  
+| {{sortname|John C. |Mather}}
+| Physics
+|-
+|1999  
+| {{sortname|Richard W. |Shorthill}}
+| Computer and Cognitive Science 
+|-
+|1999  
+| {{sortname|Akira |Tonomura}}
+| Physics
+|-
+|1999  
+| {{sortname|Victor |Vali}}
+| Computer and Cognitive Science
+|-
+|2000  
+| {{sortname|John |Cocke}}
+| Computer and Cognitive Science
+|-
+|2000  
+| {{sortname|Eric |Cornell}}
+| Physics
+|-
+|2000  
+| {{sortname|Gordon| Danby}}
+| Mechanical Engineering
+|-
+|2000  
+| {{sortname|Eville |Gorham}}
+| Earth Science
+|-
+|2000  
+| {{sortname|Robert H. |Grubbs}}
+| Chemistry
+|-
+|2000  
+| {{sortname|Wolfgang| Ketterle}}
+| Physics
+|-
+|2000  
+| {{sortname|Antoine |Labeyrie}}
+| Electrical Engineering
+|-
+|2000  
+| {{sortname|James R. |Powell}}
+| Mechanical Engineering
+|-
+|2000  
+| {{sortname|Carl |Wieman}}
+| Physics
+|-
+|2001  
+| {{sortname|Judah |Folkman}}
+| Life Science
+|-
+|2001  
+| {{sortname|Alan H. |Guth}}
+| Physics
+|-
+|2001  
+| {{sortname|Marvin |Minsky}}
+| Computer and Cognitive Science
+|-
+|2001  
+| {{sortname|K. Barry| Sharpless}}
+| Chemistry
+|-
+|2001  
+| {{sortname|Rob |Van der Voo}}
+| Earth Science
+|-
+|2001  
+| {{sortname|Bernard | Widrow}}
+| Electrical Engineering
+|-
+|2002  
+| {{sortname|Norman L.| Allinger}}
+| Chemistry
+|-
+|2002  
+| {{sortname|Mary-Dell |Chilton}}
+| Life Science
+|-
+|2002  
+| {{sortname|Sumio |Iijima}}
+| Physics
+|-
+|2002  
+| {{sortname|Shuji |Nakamura}}
+| Engineering
+|-
+|2002  
+| {{sortname|Alexandra |Navrotsky}}
+| Earth Science
+|-
+|2002  
+| {{sortname|Lucy |Suchman}}
+| Computer and Cognitive Science
+|-
+|2003  
+| {{sortname|Bishnu S. |Atal}}
+| Electrical Engineering
+|-
+|2003  
+| {{sortname|John N. |Bahcall}}
+| Physics
+|-
+|2003  
+| {{sortname|Raymond | Davis Jr.}}
+| Physics
+|-
+|2003  
+| {{sortname|Jane |Goodall}}
+| Life Science
+|-
+|2003  
+| {{sortname|Robin M. |Hochstrasser}}
+| Chemistry
+|-
+|2003  
+| {{sortname|Masatoshi |Koshiba}}
+| Physics
+|-
+|2003  
+| {{sortname|John|McCarthy (computer scientist)}}
+| Computer and Cognitive Science
+|-
+|2003  
+| {{sortname|Norman A. |Phillips}}
+| Earth Science
+|-
+|2003  
+| {{sortname|Joseph |Smagorinsky}}
+| Earth Science
+|-
+|2003  
+| {{sortname|Charles H. |Thornton}}
+| Engineering
+|-
+|2004  
+| {{sortname|Roger |Bacon (physicist)}}
+| Mechanical Engineering
+|-
+|2004  
+| {{sortname|Harry B. |Gray}}
+| Chemistry
+|-
+|2004  
+| {{sortname|Richard M.| Karp}}
+| Computer and Cognitive Science
+|-
+|2004  
+| {{sortname|Robert B. |Meyer}}
+| Physics
+|-
+|2004  
+| {{sortname|Robert E. |Newnham}}
+| Electrical Engineering
+|-
+|2005  
+| {{sortname|Elizabeth Helen |Blackburn}}
+| Life Science
+|-
+|2005  
+| {{sortname|Aravind K. |Joshi}}
+| Computer and Cognitive Science
+|-
+|2005  
+| {{sortname|Yoichiro |Nambu}}
+| Physics
+|-
+|2005  
+| {{sortname|Peter R. |Vail}}
+| Earth Science
+|-
+|2005  
+| {{sortname|Andrew J. |Viterbi}}
+| Electrical Engineering
+|-
+|2006  
+| {{sortname|Ray W. |Clough}}
+| Engineering
+|-
+|2006  
+| {{sortname|Samuel J.| Danishefsky}}
+| Chemistry
+|-
+|2006  
+| {{sortname|Luna B. |Leopold}}
+| Earth Science
+|-
+|2006  
+| {{sortname|Donald |Norman}}
+| Computer and Cognitive Science
+|-
+|2006  
+| {{sortname|Fernando| Nottebohm}}
+| Life Science
+|-
+|2006  
+| {{sortname|Giacinto |Scoles}}
+| Physics
+|-
+|2006  
+| {{sortname|J. Peter |Toennies}}
+| Physics
+|-
+|2006  
+| {{sortname|M. Gordon |Wolman}}
+| Earth Science
+|-
+|2007  
+| {{sortname|Klaus |Biemann}}
+| Chemistry
+|-
+|2007  
+| {{sortname|Robert H. |Dennard}}
+| Electrical Engineering
+|-
+|2007  
+| {{sortname|Merton C. |Flemings}}
+| Materials Science
+|-
+|2007  
+| {{sortname|Arthur B. |McDonald}}
+| Physics
+|-
+|2007  
+| {{sortname|Steven W. |Squyres}}
+| Earth Science
+|-
+|2007  
+| {{sortname|Yoji |Totsuka}}
+| Physics
+|-
+|2007  
+| {{sortname|Nancy |Wexler}}
+| Life Science
+|-
+|2008  
+| {{sortname|Victor |Ambros}}
+| Life Science
+|-
+|2008  
+| {{sortname|David |Baulcombe}}
+| Life Science
+|-
+|2008  
+| {{sortname|Wallace| Broecker}}
+| Earth Science
+|-
+|2008  
+| {{sortname|Albert |Eschenmoser}}
+| Chemistry
+|-
+|2008  
+| {{sortname|Deborah |Jin}}
+| Physics
+|-
+|2008  
+| {{sortname|Judea |Pearl}}
+| Computer and Cognitive Science
+|-
+|2008  
+| {{sortname|Arun |Phadke}}
+| Electrical Engineering
+|-
+|2008  
+| {{sortname|Gary |Ruvkun}}
+| Life Science
+|-
+|2008  
+| {{sortname|James |Thorp}}
+| Electrical Engineering
+|-
+|2009  
+| {{sortname|Ruzena |Bajcsy}}
+| Computer and Cognitive Science
+|-
+|2009  
+| {{sortname|Stephen J. |Benkovic}}
+| Life Science
+|-
+|2009  
+| {{sortname|J. Frederick |Grassle}}
+| Earth Science
+|-
+|2009  
+| {{sortname|Richard J. |Robbins}}
+| Engineering
+|-
+|2009  
+| {{sortname|George M. |Whitesides}}
+| Chemistry
+|-
+|2009  
+| {{sortname|Lotfi A. |Zadeh}}
+| Electrical Engineering
+|-
+|2010  
+| {{sortname|J. Ignacio| Cirac}}
+| Physics
+|-
+|2010  
+| {{sortname|Shafrira |Goldwasser}}
+| Computer and Cognitive Science
+|-
+|2010  
+| {{sortname|Peter C. |Nowell}}
+| Life Science
+|-
+|2010  
+| {{sortname|Gerhard M.| Sessler}}
+| Electrical Engineering
+|-
+|2010  
+| {{sortname|D. Brian |Spalding}}
+| Mechanical Engineering
+|-
+|2010  
+| {{sortname|JoAnne |Stubbe}}
+| Chemistry
+|-
+|2010  
+| {{sortname|James Edward Maceo |West|James Edward Maceo West}}
+| Electrical Engineering
+|-
+|2010  
+| {{sortname|David J. |Wineland}}
+| Physics
+|-
+|2010  
+| {{sortname|Peter |Zoller}}
+| Physics
+|-
+|2010
+|{{sortname|W. Richard |Peltier}}
+| Earth and Environmental Science, Bower Award for Achievement in Science
+|-
+|2010
+|{{sortname|William H. |Gates}}	
+| Bower Award for Business Leadership
+|-
+|2011  
+| {{sortname|John Robert |Anderson (psychologist)|John Robert Anderson (psychologist)}}
+| Computer and Cognitive Science
+|-
+|2011  
+| {{sortname|Jillian F. |Banfield}}
+| Earth and Environmental Science
+|-
+|2011  
+| {{sortname|Nicola |Cabibbo}}
+| Physics
+|-
+|2011  
+| {{sortname|Ingrid |Daubechies}}
+| Electrical Engineering
+|-
+|2011  
+| {{sortname|Dean |Kamen}}
+| Mechanical Engineering
+|-
+|2011  
+| {{sortname|K.C. |Nicolaou}}
+| Chemistry
+|-
+|2011
+|{{sortname|George |Church|George M. Church}}	
+| Life Science, Bower Award for Achievement in Science
+|-
+|2011
+|{{sortname|Fred |Kavli}}
+|Bower Award for Business Leadership
+|-
+|2012  
+| {{sortname|Vladimir |Vapnik}}
+| Computer and Cognitive Science
+|-
+|2012  
+| {{sortname|Lonnie |Thompson}} 
+| Earth and Environmental Science
+|-
+|2012 
+|{{sortname |Ellen Stone |Mosley-Thompson}}
+| Earth and Environmental Science
+|-
+|2012  
+| {{sortname|Sean B. |Carroll}}
+| Life Science
+|-
+|2012  
+| {{sortname|Jerry |Nelson (astronomer)}}
+| Electrical Engineering
+|-
+|2012  
+| {{sortname|Rashid |Sunyaev}}
+| Physics
+|-
+|2012  
+| {{sortname|Zvi |Hashin}}
+| Mechanical Engineering
+|-
+|2012
+|{{sortname|Louis E. |Brus}}	
+|Chemistry, Bower Award for Achievement in Science
+|-
+|2012
+|{{sortname|John |Chambers|John Chambers (CEO)}}
+|Bower Award for Business Leadership
+|-
+|2013  
+| {{sortname|Jerrold |Meinwald}}
+| Chemistry
+|-
+|2013  
+| {{sortname|William |Labov}}
+| Computer and Cognitive Science
+|-
+|2013  
+| {{sortname|Robert A. |Berner}}
+| Earth and Environmental Science
+|-
+|2013  
+| {{sortname|Rudolf |Jaenisch}}
+| Life Science
+|-
+|2013  
+| {{sortname|Subra| Suresh}}
+| Mechanical Engineering
+|-
+|2013  
+| {{sortname|Alexander| Dalgarno}}
+| Physics
+|-
+|2013
+|{{sortname|Michael S. |Dell}}	
+| Bower Award for Business Leadership
+|-
+|2013
+|{{sortname|Kenichi |Iga}}
+|Electrical Engineering, Bower Award for Achievement in Science
+|-
+|2014  
+| {{sortname|Daniel |Kleppner}}
+| Physics
+|-
+|2014  
+| {{sortname|Christopher T. |Walsh}}
+| Chemistry
+|-
+|2014  
+| {{sortname|Lisa |Tauxe}}
+| Earth and Environmental Science
+|-
+|2014  
+| {{sortname|Shunichi |Iwasaki}}
+| Electrical Engineering
+|-
+|2014
+| {{sortname|Mark  H.|Kryder|Mark Kryder}}
+| Electrical Engineering
+|-
+|2014  
+| {{sortname|Joachim |Frank}}
+| Life Science
+|-
+|2014  
+| {{sortname|Ali H. |Nayfeh}}
+| Mechanical Engineering
+|-
+|2014
+|{{sortname|Edmund M. |Clarke}}	
+|Computer and Cognitive Science, Bower Award for Achievement in Science
+|-
+|2014
+|{{sortname|William W. |George}}	
+|Bower Award for Business Leadership
+|-
+|2015 
+| {{sortname|Stephen |Lippard}}<ref name=Lippard>{{cite web|title=Stephen J. Lippard|url=https://www.fi.edu/laureates/stephen-j-lippard|website=The Franklin Institute|accessdate=2 December 2015}}</ref>
+| Chemistry
+|-
+|2015 
+| {{sortname|Elissa |Newport}}<ref name=Newport>{{cite web|title=Elissa L. Newport|url=https://www.fi.edu/laureates/elissa-l-newport|website=The Franklin Institute|accessdate=2 December 2015}}</ref>
+| Computer and Cognitive Science
+|-
+|2015 
+| {{sortname|Syukuro |Manabe}}
+| Earth and Environmental Science<ref name=Manabe>{{cite web|title=Syukuro Manabe|url=https://www.fi.edu/laureates/syukuro-manabe|website=The Franklin Institute|accessdate=2 December 2015}}</ref>
+|-
+|2015 
+| {{sortname|Roger F. |Harrington}}
+| Electrical Engineering<ref name=Harrington>{{cite web|title=Roger F. Harrington|url=https://www.fi.edu/laureates/roger-f-harrington|website=The Franklin Institute|accessdate=2 December 2015}}</ref>
+|-
+|2015 
+| {{sortname|Cornelia |Bargmann}}
+| Life Science<ref name=Bargmann>{{cite web|title=Cornelia Bargmann|url=https://www.fi.edu/laureates/cornelia-bargmann|website=The Franklin Institute|accessdate=2 December 2015}}</ref>
+|-
+|2015 
+| {{sortname|Charles L.| Kane}}<ref name=Kane>{{cite web|title=Charles L. Kane|url=https://www.fi.edu/laureates/charles-l-kane|website=The Franklin Institute|accessdate=2 December 2015}}</ref>
+| Physics
+|-
+|2015 
+| {{sortname|Eugene |Mele}}<ref name=Mele>{{cite web|title=Eugene J. Mele|url=https://www.fi.edu/laureates/eugene-j-mele|website=The Franklin Institute|accessdate=2 December 2015}}</ref>
+| Physics
+|-
+|2015 
+| {{sortname|Shoucheng |Zhang}}<ref name=Zhang>{{cite web|title=Shoucheng Zhang|url=https://www.fi.edu/laureates/shoucheng-zhang|website=The Franklin Institute|accessdate=2 December 2015}}</ref>
+| Physics
+|-
+|2015 
+| {{sortname|Jon |Huntsman, Sr.}}<ref name=Fernandez>{{cite news|last1=Fernandez|first1=Bob|title=Jon Huntsman Sr. wins Franklin Institute's Bower Award|url=http://articles.philly.com/2015-03-14/business/60090431_1_huntsman-corp-bower-award-franklin-institute|accessdate=2 December 2015|work=The Philadelphia Inquirer|date=March 14, 2015}}</ref>
+| Bower Award for Business Leadership
+|-
+|2015 
+| {{sortname|Jean-Pierre |Kruth}}<ref name=Kruth>{{cite web|title=Jean-Pierre Kruth|url=https://www.fi.edu/laureates/jean-pierre-kruth|website=The Franklin Institute|accessdate=2 December 2015}}</ref>
+| Mechanical Engineering, Bower Award for Achievement in Science
+|-
+|2016 
+| {{sortname|Nadrian C. |Seeman}}
+| Chemistry
+|-
+|2016 
+| {{sortname|Yale N.| Patt}}
+| Computer and Cognitive Science
+|-
+|2016 
+| {{sortname|Brian F. |Atwater}}
+| Earth and Environmental Science
+|-
+|2016 
+| {{sortname|Solomon W. |Golomb}}
+| Electrical Engineering
+|-
+|2016 
+| {{sortname|Robert S. |Langer}}
+| Life Science
+|-
+|2016 
+| {{sortname|Shu |Chien}}
+| Mechanical Engineering
+|-
+| 2016
+|{{sortname|Patrick |Soon-Shiong}}	
+| Bower Award for Business Leadership
+|-
+| 2016
+|{{sortname|William J. |Borucki}}
+| Physics, Bower Award for Achievement in Science
+|-
+|2017 
+| {{sortname|Krzysztof |Matyjaszewski}}
+| Chemistry
+|-
+|2017 
+| {{sortname|Mitsuo | Sawamoto}}
+| Chemistry
+|-
+|2017 
+| {{sortname|Michael I. |Posner}}
+| Computer and Cognitive Science
+|-
+|2017 
+| {{sortname|Nick |Holonyak, Jr.}}
+| Electrical Engineering
+|-
+|2017 
+| {{sortname|Douglas C. |Wallace}}
+| Life Science
+|-
+|2017 
+| {{sortname|Mildred S. |Dresselhaus}}
+| Materials Science and Engineering
+|-
+|2017 
+| {{sortname|Marvin L. |Cohen}}
+| Physics
+|-
+|2017
+|{{sortname|Claude |Lorius}}	
+|Earth and Environmental Science, Bower Award for Achievement in Science
+|-
+|2017
+|{{sortname|Alan |Mulally}}	
+|Bower Award for Business Leadership
+|-
+|2018
+|{{sortname|Susan |Trumbore}}	
+| Earth and Environmental Science
+|-
+|2018
+|{{sortname|Manijeh |Razeghi}}	
+|Electrical Engineering
+|-
+|2018
+|{{sortname|Adrian |Bejan}}	
+| Mechanical Engineering
+|-
+|2018
+|{{sortname|Helen Rhoda |Quinn}}	
+| Physics
+|-
+|2018
+|{{sortname|John B. |Goodenough}}	
+| Chemistry
+|-
+|2018
+|{{sortname|Vinton Gray |Cerf}}	
+|Computer and Cognitive Science
+|-
+|2018
+|{{sortname|Robert E. |Kahn}}
+|Computer and Cognitive Science
+|-
+| 2018
+| {{sortname|Philippe |Horvath}}
+| Life Science, Bower Award for Achievement in Science
+|-
+| 2018
+| {{sortname|Anne M. |Mulcahy}}
+| Bower Award for Business Leadership
+|-
+|2019
+|{{sortname|John J. |Hopfield}}	
+| Physics
+|-
+|2019
+|{{sortname|John A. |Rogers}}	
+| Materials Engineering
+|-
+|2019
+|{{sortname|James P. |Allison}}	
+| Life Science
+|-
+|2019
+|{{sortname|Eli |Yablonovitch}}	
+| Electrical Engineering
+|-
+|2019
+|{{sortname|Gene E. |Likens}}	
+|Earth and Environmental Science
+|-
+|2019
+|{{sortname|Marcia K. |Johnson}}
+|Computer and Cognitive Science
+|-
+| 2019
+| {{sortname|Frances H. |Arnold}}
+| Chemistry, Bower Award for Achievement in Science
+|-
+|2019
+|{{sortname|Indra K. |Nooyi}}	
+| Bower Award for Business Leadership
+|}
+
+==References==
+{{Reflist}}
+
+==Sources==
+*The Franklin Institute. Winners. [https://www.fi.edu/laureates-search ''Benjamin Franklin Medal winners''].
+
+==External links==
+* [https://www.youtube.com/playlist?list=PLPJ9psPwBGIOrEgEVVEYC0k4yKidgDNBK YouTube playlist of all Franklin Institute Award Winners]
+
+{{Benjamin Franklin|state=collapsed}}
+
+[[Category:American science and technology awards]]
+[[Category:Franklin Institute awards| ]]

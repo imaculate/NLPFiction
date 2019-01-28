@@ -1,0 +1,1200 @@
+{{About|the U.S. state}}
+{{pp-pc1|small=yes}}
+{{pp-move-indef}}
+{{Use mdy dates|date=October 2017}}
+{{short description|State of the United States of America}}
+{{stack|{{Infobox U.S. state
+| Name = Pennsylvania
+| Fullname = Commonwealth of Pennsylvania
+| Flag = Flag of Pennsylvania.svg
+| Flaglink = [[Flag of Pennsylvania|Flag]]
+| Seal = Seal_of_Pennsylvania.svg
+| Seallink = [[Seal of Pennsylvania|Seal]]
+| Coat of arms = 
+| Coatlink = [[Flag of Pennsylvania|Coat of arms]]
+| Nickname = Keystone State;<ref>{{cite web|url=http://www.portal.state.pa.us/portal/server.pt/community/things/4280/symbols_of_pennsylvania/478690 |title=Symbols of Pennsylvania |publisher=Portal.state.pa.us |date= |accessdate=May 4, 2014}}</ref> Quaker State
+| Motto = Virtue, Liberty and Independence
+| Former = Province of Pennsylvania
+| OfficialLang = None
+| Languages = [[English language|English]] 90.15%<br />[[Spanish language|Spanish]] 4.09%<br />[[German language|German]] (Including [[Pennsylvania German language|Pennsylvania German]]) 0.87%<br />[[Chinese language|Chinese]] 0.47%<br/>[[Italian language|Italian]] 0.43%<ref>{{cite web| title=Most spoken languages in Pennsylvania in 2010| url=http://www.mla.org/map_data_results&SRVY_YEAR=2010&geo=state&state_id=42&mode=geographic | publisher =MLA Data Center| accessdate=November 4, 2012}}</ref>
+| Demonym = Pennsylvanian
+| Map = Pennsylvania in United States.svg
+| Capital = [[Harrisburg, Pennsylvania|Harrisburg]]
+| LargestCity = [[Philadelphia]]
+| LargestMetro = [[Delaware Valley]]
+| Governor = [[Tom Wolf]] ([[Democratic Party (United States)|D]])
+| Lieutenant Governor = [[John Fetterman (politician)|John Fetterman]] (D)
+| Legislature = [[Pennsylvania General Assembly|General Assembly]]
+| Upperhouse = [[Pennsylvania State Senate|State Senate]]
+| Lowerhouse = [[Pennsylvania House of Representatives|House of Representatives]]
+| Senators = [[Bob Casey Jr.]] (D)<br />[[Pat Toomey]] ([[Republican Party (United States)|R]])
+| Representative = 9 Democrats<br />8 Republicans<br>1 Vacant
+| PostalAbbreviation = PA
+| TradAbbreviation = Pa., Penn., Penna.
+| StateAnthem = [[Pennsylvania (song)|Pennsylvania]]
+| PopRank = 5th
+| 2010Pop = 12,807,060 (2018)
+| DensityRank = 9th
+| 2000DensityUS = 284
+| 2000Density = 110
+| MedianHouseholdIncome = $60,389<ref>{{cite web|url=http://kff.org/other/state-indicator/median-annual-income/?currentTimeframe=0|website=The Henry J. Kaiser Family Foundation|title=Median Annual Household Income|accessdate=December 9, 2016}}</ref>
+| IncomeRank = 20th
+| AreaRank = 33rd
+| TotalAreaUS = 46,055
+| TotalArea = 119,283
+| LandAreaUS = 44,816.61
+| LandArea = 116,074
+| WaterAreaUS = 1,239
+| WaterArea = 3,208
+| PCWater = 2.7
+| AdmittanceOrder = 2nd
+| AdmittanceDate = December 12, 1787
+| TimeZone = [[Eastern Time Zone (North America)|Eastern]]: [[Coordinated Universal Time|UTC]] [[Eastern Time Zone|−5]]/[[Eastern Daylight Time|−4]]
+| Longitude = 74° 41′ to 80° 31′ W
+| Latitude = 39° 43′ to 42° 16′ N
+| WidthUS = 283
+| Width = 455
+| LengthUS = 170
+| Length = 273
+| HighestPoint = [[Mount Davis (Pennsylvania)|Mount Davis]]<ref name=USGS>{{cite web|url=http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |title=Elevations and Distances in the United States |publisher=[[United States Geological Survey]] |year=2001 |accessdate=October 24, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20111015012701/http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |archivedate=October 15, 2011 }}</ref><ref name=AVD88>Elevation adjusted to [[North American Vertical Datum of 1988]].</ref>
+| HighestElevUS = 3,213
+| HighestElev = 979
+| MeanElevUS = 1,100
+| MeanElev = 340
+| LowestPoint = [[Delaware River]] at {{nobreak|[[Delaware]] border}}<ref name=USGS />
+| LowestElevUS = 0
+| LowestElev = 0
+| ISOCode = US-PA
+| Website = http://www.pa.gov/
+| State Law Enforcement = [[Pennsylvania State Police]]
+}}
+{{maplink|frame=yes|frame-width=265|zoom=5|id=Q1400|type=shape|text=Interactive map of Pennsylvania}}
+{{Infobox U.S. state symbols
+|Flag     = Flag of Pennsylvania.svg
+|Seal     = Seal of Pennsylvania.svg
+|Name     = Pennsylvania
+|Bird     = [[Ruffed grouse]]
+|Dog      = [[Great Dane]]
+|Fish     = [[Brook trout]]
+|Flower   = [[Kalmia latifolia|Mountain laurel]]
+|Insect   = Firefly (''[[Photuris pensylvanica]]'')
+|Mammal   = [[White-tailed deer]]
+|Tree     = [[Eastern hemlock]]
+|Beverage = [[Milk]]
+|Food = [[Chocolate Chip Cookie]] <ref>{{cite web|url=http://www.statesymbolsusa.org/symbol-official-item/pennsylvania/state-food-agriculture-symbol/chocolate-chip-cookie|publisher= |year=2016 |accessdate=February 22, 2016 |title=Cookie Candidates}}</ref>
+|Dance    = [[Polka]]
+|Fossil   = [[Trilobite]]
+|Soil     = Hazleton
+|Route Marker = PA-18.svg
+|Quarter  = 1999 PA Proof.png
+|QuarterReleaseDate = 1999
+}}}}
+'''Pennsylvania''',<ref>Pronounced {{IPAc-en|audio=en-us-Pennsylvania.ogg|ˌ|p|ɛ|n|s|ɪ|l|ˈ|v|eɪ|n|j|ə|}}, {{respell|PEN|sil|VAYN|yuh}}</ref> officially the '''Commonwealth of Pennsylvania''', is a [[U.S. state|state]] located in the [[Northeastern United States|northeastern]] and [[Mid-Atlantic States|Mid-Atlantic]] regions of the [[United States]]. The [[Appalachian Mountains]] run through its middle. The [[Commonwealth (U.S. state)|Commonwealth]] is bordered by [[Delaware]] to the southeast, [[Maryland]] to the south, [[West Virginia]] to the southwest, [[Ohio]] to the west, [[Lake Erie]] and the [[List of Canadian provinces and territories|Canadian]] province of [[Ontario]] to the northwest, [[New York (state)|New York]] to the north, and [[New Jersey]] to the east.
+
+Pennsylvania is the [[List of U.S. states and territories by area|33rd-largest]] state by area, and the [[List of U.S. states and territories by population|6th-most populous]] state according to the most recent official [[2010 United States Census|U.S. Census count in 2010]]. It is the [[List of U.S. states and territories by population density|9th-most densely populated]] of the 50 states. Pennsylvania's two most populous cities are [[Philadelphia]] (1,580,863), and [[Pittsburgh]] (302,407). The state capital and its 10th largest city is [[Harrisburg, Pennsylvania|Harrisburg]]. Pennsylvania has {{convert|140|mi|km|0}} of waterfront along [[Erie Triangle|Lake Erie]] and the [[Delaware River|Delaware]] Estuary.<ref name="Coastalmanagement.noaa.gov">{{cite web|url=https://coast.noaa.gov/data/docs/states/shorelines.pdf |title=General Coastline and Shoreline Mileage of the United States |publisher=NOAA Office of Coastal Management |accessdate=December 31, 2016}}</ref>
+
+The state is one of the [[Thirteen Colonies|13 original founding states]] of the United States; it came into being in 1681 as a result of a royal [[land grant]] to [[William Penn]], the son of the state's namesake. Part of Pennsylvania (along the Delaware River), together with the present State of Delaware, had earlier been organized as the Colony of New Sweden. It was the second state to ratify the [[United States Constitution]], on December 12, 1787. [[Independence Hall]], where the [[United States Declaration of Independence]] and United States Constitution were drafted, is located in the state's [[List of cities in Pennsylvania|largest city]] of Philadelphia. During the [[American Civil War]], the [[Battle of Gettysburg]] was fought in the [[South Central Pennsylvania|south central]] region of the state. [[Valley Forge National Historical Park|Valley Forge]] near Philadelphia was [[George Washington|General Washington]]'s headquarters during the bitter winter of 1777–78.
+
+==Geography==
+{{Further|Geography of Pennsylvania|List of counties in Pennsylvania}}
+
+[[File:Pennsylvania-counties-map.gif|thumb|left|[[List of Pennsylvania counties|Counties of Pennsylvania]]]]
+[[File:Flickr - Nicholas T - Canyon Vista.jpg|thumb|right|[[World's End State Park]], [[Sullivan County, Pennsylvania|Sullivan County]]]]
+Pennsylvania is {{convert|170|mi|km|0}} north to south and {{convert|283|mi|km|0}} east to west.<ref name=pageo>{{cite web|url=http://www.netstate.com/states/geography/pa_geography.htm |title=Pennsylvania geography |publisher=Netstate.com |accessdate=July 31, 2010}}</ref> Of a total {{convert|46055|sqmi|km2|0}}, {{convert|44817|sqmi|km2|0}} are land, {{convert|490|sqmi|km2|0}} are inland waters, and {{convert|749|sqmi|km2|0}} are waters in Lake Erie.<ref name=statabs>[http://compendia/statab/tables/06s0347.xls 2006 Statistical Abstract: Geography & Environment: Land and Land Use]{{dead link|date=July 2010}}</ref> It is the [[List of U.S. states by area|33rd-largest state]] in the United States.<ref>{{cite web|url=http://www.timetemperature.com/tzus/pennsylvania_time_zone.shtml |title=Pennsylvania Time Zone |publisher=Timetemperature.com |accessdate=July 31, 2010}}</ref>
+Pennsylvania has {{convert|51|mi|km|0}}<ref name="Cr.nps.gov">{{cite web|url=http://www.cr.nps.gov/history/online_books/shore/shore8.htm |title=National Park Service: Our Fourth Shore |publisher=Cr.nps.gov |date=December 22, 2003 |accessdate=July 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110518085351/http://www.cr.nps.gov/history/online_books/shore/shore8.htm |archivedate=May 18, 2011 |df=mdy-all }}</ref> of coastline along [[Lake Erie]] and {{convert|57|mi|km|0}}<ref name="Coastalmanagement.noaa.gov"/> of shoreline along the [[Delaware River|Delaware Estuary]]. Of the original [[Thirteen Colonies]], Pennsylvania is the only state that does not border the [[Atlantic Ocean]].
+
+The boundaries of the state are the [[Mason–Dixon line]] (39° 43' N) to the south, the [[Twelve-Mile Circle]] on the Pennsylvania-Delaware border, the [[Delaware River]] to the east, 80° 31' W to the west and the [[42nd parallel north|42° N]] to the north, with the exception of a short segment on the western end, where a triangle extends north to [[Lake Erie]].
+
+Cities include [[Philadelphia]], [[Reading, Pennsylvania|Reading]], [[Lebanon, Pennsylvania|Lebanon]] and [[Lancaster, Pennsylvania|Lancaster]] in the southeast, [[Pittsburgh]] in the southwest, the tri-cities of [[Allentown, Pennsylvania|Allentown]], [[Bethlehem, Pennsylvania|Bethlehem]], and [[Easton, Pennsylvania|Easton]] in the central east (known as the [[Lehigh Valley]]). The [[Northeastern Pennsylvania|northeast]] includes the former anthracite coal mining cities of [[Scranton, Pennsylvania|Scranton]], [[Wilkes-Barre, Pennsylvania|Wilkes-Barre]], [[Pittston, Pennsylvania|Pittston]] ([[Greater Pittston]]), and [[Hazleton, Pennsylvania|Hazleton]]. [[Erie, Pennsylvania|Erie]] is located in the northwest. [[State College, Pennsylvania|State College]] serves the central region while [[Williamsport, Pennsylvania|Williamsport]] serves the commonwealth's north-central region, with [[York, Pennsylvania|York]], [[Carlisle, Pennsylvania|Carlisle]], and the state capital Harrisburg on the [[Susquehanna River]] in the east-central region of the Commonwealth and [[Altoona, Pennsylvania|Altoona]] and [[Johnstown, Pennsylvania|Johnstown]] in the west-central region.
+
+The state has five geographical regions, namely the [[Allegheny Plateau]], [[Ridge-and-Valley Appalachians|Ridge and Valley]], [[Atlantic Coastal Plain]], [[Piedmont (United States)|Piedmont]], and the [[Erie Plain]].
+
+===Adjacent states and province===
+*[[New York (state)|New York]] (North)
+*[[Ontario]] (Province of [[Canada]]) (Northwest)
+*[[Maryland]] (South)
+*[[Delaware]] (Southeast)
+*[[West Virginia]] (Southwest)
+*[[New Jersey]] (East)
+*[[Ohio]] (West)
+{{Clear}}
+
+==Climate==
+[[File:Pennsylvania Köppen.svg|thumb|Köppen climate types of Pennsylvania]]
+[[File:Flickr - Nicholas T - Endless Mountains Landscape (1).jpg|thumb|Autumn in North Branch Township, [[Wyoming County, Pennsylvania]]]]
+{{Main|Climate of Pennsylvania}}
+Pennsylvania's diverse topography also produces a variety of climates, though the entire state experiences cold winters and humid summers. Straddling two major zones, the majority of the state, with the exception of the southeastern corner, has a [[humid continental climate]] ([[Köppen climate classification]] ''Dfa''). The largest city, [[Philadelphia]], has some characteristics of the [[humid subtropical climate]] (Köppen ''Cfa'') that covers much of [[Delaware]] and [[Maryland]] to the south.
+
+Moving toward the mountainous interior of the state, the winter climate becomes colder, the number of cloudy days increases, and snowfall amounts are greater. Western areas of the state, particularly locations near [[Lake Erie]], can receive over {{convert|100|in|cm}} of snowfall annually, and the entire state receives plentiful precipitation throughout the year. The state may be subject to severe weather from spring through summer into fall. Tornadoes occur annually in the state, sometimes in large numbers, such as 30 recorded tornadoes in 2011; generally speaking, these tornadoes do not cause significant damage.<ref>[http://www.homefacts.com/tornadoes/Pennsylvania.html/] {{webarchive |url=https://web.archive.org/web/20150517123642/http://www.homefacts.com/tornadoes/Pennsylvania.html/ |date=May 17, 2015 }}</ref>
+{| class="wikitable" style="text-align:center;font-size:90%;"|
+| colspan="13" style="text-align:center;font-size:120%;background:#E8EAFA;"|Monthly Average High and Low Temperatures For Various Pennsylvania Cities (in °F)
+|-
+!  style="background:#e5afaa; color:#000; height:30px;"| City
+! style="background:#e5afaa; color:#000;"| Jan.
+! style="background:#e5afaa; color:#000;"| Feb.
+! style="background:#e5afaa; color:#000;"| Mar.
+! style="background:#e5afaa; color:#000;"| Apr.
+! style="background:#e5afaa; color:#000;"| May.
+! style="background:#e5afaa; color:#000;"| Jun.
+! style="background:#e5afaa; color:#000;"| Jul.
+! style="background:#e5afaa; color:#000;"| Aug.
+! style="background:#e5afaa; color:#000;"| Sep.
+! style="background:#e5afaa; color:#000;"| Oct.
+! style="background:#e5afaa; color:#000;"| Nov.
+! style="background:#e5afaa; color:#000;"| Dec.
+|-
+!  style="background:#f8f3ca; color:#000; height:16px;"| Scranton
+| style="text-align:center; background:#f8f3ca; color:#000;"| 33/19
+| style="text-align:center; background:#f8f3ca; color:#000;"| 37/21
+| style="text-align:center; background:#f8f3ca; color:#000;"| 46/28
+| style="text-align:center; background:#f8f3ca; color:#000;"| 59/38
+| style="text-align:center; background:#f8f3ca; color:#000;"| 70/48
+| style="text-align:center; background:#f8f3ca; color:#000;"| 78/56
+| style="text-align:center; background:#f8f3ca; color:#000;"| 82/61
+| style="text-align:center; background:#f8f3ca; color:#000;"| 80/60
+| style="text-align:center; background:#f8f3ca; color:#000;"| 72/52
+| style="text-align:center; background:#f8f3ca; color:#000;"| 61/41
+| style="text-align:center; background:#f8f3ca; color:#000;"| 49/33
+| style="text-align:center; background:#f8f3ca; color:#000;"| 38/24
+|-
+!  style="background:#f8f3ca; color:#000; height:16px;"| Erie
+| style="text-align:center; background:#f8f3ca; color:#000;"| 34/21
+| style="text-align:center; background:#f8f3ca; color:#000;"| 36/21
+| style="text-align:center; background:#f8f3ca; color:#000;"| 44/27
+| style="text-align:center; background:#f8f3ca; color:#000;"| 56/38
+| style="text-align:center; background:#f8f3ca; color:#000;"| 67/48
+| style="text-align:center; background:#f8f3ca; color:#000;"| 76/58
+| style="text-align:center; background:#f8f3ca; color:#000;"| 80/63
+| style="text-align:center; background:#f8f3ca; color:#000;"| 79/62
+| style="text-align:center; background:#f8f3ca; color:#000;"| 72/56
+| style="text-align:center; background:#f8f3ca; color:#000;"| 61/45
+| style="text-align:center; background:#f8f3ca; color:#000;"| 50/37
+| style="text-align:center; background:#f8f3ca; color:#000;"| 38/27
+|-
+!  style="background:#f8f3ca; color:#000; height:16px;"| Pittsburgh
+| style="text-align:center; background:#f8f3ca; color:#000;"| 36/21
+| style="text-align:center; background:#f8f3ca; color:#000;"| 39/23
+| style="text-align:center; background:#f8f3ca; color:#000;"| 49/30
+| style="text-align:center; background:#f8f3ca; color:#000;"| 62/40
+| style="text-align:center; background:#f8f3ca; color:#000;"| 71/49
+| style="text-align:center; background:#f8f3ca; color:#000;"| 79/58
+| style="text-align:center; background:#f8f3ca; color:#000;"| 83/63
+| style="text-align:center; background:#f8f3ca; color:#000;"| 81/62
+| style="text-align:center; background:#f8f3ca; color:#000;"| 74/54
+| style="text-align:center; background:#f8f3ca; color:#000;"| 63/43
+| style="text-align:center; background:#f8f3ca; color:#000;"| 51/35
+| style="text-align:center; background:#f8f3ca; color:#000;"| 39/25
+|-
+!  style="background:#f8f3ca; color:#000; height:16px;"| Harrisburg
+| style="text-align:center; background:#f8f3ca; color:#000;"| 37/23
+| style="text-align:center; background:#f8f3ca; color:#000;"| 41/25
+| style="text-align:center; background:#f8f3ca; color:#000;"| 50/33
+| style="text-align:center; background:#f8f3ca; color:#000;"| 62/42
+| style="text-align:center; background:#f8f3ca; color:#000;"| 72/52
+| style="text-align:center; background:#f8f3ca; color:#000;"| 81/62
+| style="text-align:center; background:#f8f3ca; color:#000;"| 85/66
+| style="text-align:center; background:#f8f3ca; color:#000;"| 83/64
+| style="text-align:center; background:#f8f3ca; color:#000;"| 76/56
+| style="text-align:center; background:#f8f3ca; color:#000;"| 64/45
+| style="text-align:center; background:#f8f3ca; color:#000;"| 53/35
+| style="text-align:center; background:#f8f3ca; color:#000;"| 41/27
+|-
+!  style="background:#f8f3ca; color:#000; height:16px;"| Philadelphia
+| style="text-align:center; background:#f8f3ca; color:#000;"| 40/26
+| style="text-align:center; background:#f8f3ca; color:#000;"| 44/28
+| style="text-align:center; background:#f8f3ca; color:#000;"| 53/34
+| style="text-align:center; background:#f8f3ca; color:#000;"| 64/44
+| style="text-align:center; background:#f8f3ca; color:#000;"| 74/54
+| style="text-align:center; background:#f8f3ca; color:#000;"| 83/64
+| style="text-align:center; background:#f8f3ca; color:#000;"| 87/69
+| style="text-align:center; background:#f8f3ca; color:#000;"| 85/68
+| style="text-align:center; background:#f8f3ca; color:#000;"| 78/60
+| style="text-align:center; background:#f8f3ca; color:#000;"| 67/48
+| style="text-align:center; background:#f8f3ca; color:#000;"| 56/39
+| style="text-align:center; background:#f8f3ca; color:#000;"| 45/30
+|-
+!  style="background:#f8f3ca; color:#000; height:16px;"| Allentown
+| style="text-align:center; background:#f8f3ca; color:#000;"| 36/20
+| style="text-align:center; background:#f8f3ca; color:#000;"| 40/22
+| style="text-align:center; background:#f8f3ca; color:#000;"| 49/29
+| style="text-align:center; background:#f8f3ca; color:#000;"| 61/39
+| style="text-align:center; background:#f8f3ca; color:#000;"| 72/48
+| style="text-align:center; background:#f8f3ca; color:#000;"| 80/58
+| style="text-align:center; background:#f8f3ca; color:#000;"| 84/63
+| style="text-align:center; background:#f8f3ca; color:#000;"| 82/61
+| style="text-align:center; background:#f8f3ca; color:#000;"| 75/53
+| style="text-align:center; background:#f8f3ca; color:#000;"| 64/41
+| style="text-align:center; background:#f8f3ca; color:#000;"| 52/33
+| style="text-align:center; background:#f8f3ca; color:#000;"| 40/24
+|-
+| colspan="13" style="text-align:center;font-size:90%;background:#E8EAFA;"|Sources:<ref>{{cite web|url=http://www.nws.noaa.gov/climate/xmacis.php?wfo=phi|title=National Weather Service Climate|author=National Weather Service Corporate Image Web Team|publisher=}}</ref><!--Philadelphia/Allentown--><ref>{{cite web|url=http://www.nws.noaa.gov/climate/xmacis.php?wfo=bgm|title=National Weather Service Climate|author=National Weather Service Corporate Image Web Team|publisher=}}</ref><!--Scranton/Wilkes-Barre--><ref>{{cite web|url=http://www.nws.noaa.gov/climate/xmacis.php?wfo=ctp|title=Climate Information&nbsp;— National Weather Service Central PA|author=National Weather Service Corporate Image Web Team|publisher=}}</ref><!--Harrisburg--><ref>{{cite web|url=http://www.nws.noaa.gov/climate/xmacis.php?wfo=pbz|title=National Weather Service Climate|author=National Weather Service Corporate Image Web Team|publisher=}}</ref><!--Pittsburgh--><ref>{{cite web|url=http://www.nws.noaa.gov/climate/xmacis.php?wfo=cle|title=National Weather Service Climate|author=National Weather Service Corporate Image Web Team|publisher=}}</ref><!--Erie-->
+|}
+
+==History==<!-- This section is linked from [[Iroquois]] -->
+{{Main|History of Pennsylvania}}
+{{See also|List of Pennsylvania firsts|List of people from Pennsylvania}}
+
+Historically, as of 1600, the tribes living in Pennsylvania were the Algonquian [[Lenape]] (also Delaware), the Iroquoian [[Susquehannock]] & [[Petun]] (also Tionontati, Kentatentonga, Tobacco, Wenro) <ref>louis, franquelin, jean baptiste. "Franquelin's map of Louisiana.". LOC.gov. Retrieved August 17, 2017.</ref> and the presumably Siouan [[Monongahela Culture]], who may have been the same as a little known tribe called the Calicua, or Cali.<ref>(Extrapolation from the 16th-century Spanish, 'Cali' ˈkali a rich agricultural area – geographical sunny climate. also 1536, Cauca River, linking Cali, important for higher population agriculture and cattle raising & Colombia's coffee is produced in the adjacent uplands. Britannica Concise Encyclopedia. 'Cali', city, metropolis, urban center. Pearson Education 2006. "Calica", Yucatán place name called rock pit, a port an hour south of Cancún. Sp. root: "Cal", limestone. Also today, 'Calicuas', supporting cylinder or enclosing ring, or moveable prop as in holding a strut)</ref> Other tribes who entered the region during the colonial era were the [[Tockwogh|Trockwae]],<ref>[http://www.ontarioarchaeology.on.ca/.../Publications/oa51-2-steckley.pdf]{{dead link|date=March 2018}}</ref> Tutelo, Saponi, Shawnee, Nanticoke, Conoy Piscataway, Iroquois Confederacy—possibly among others.<ref>N.Y. Hist. Col. Vol. V, p. 633</ref><ref>"Life of Brainerd" p. 167</ref><ref>"Lambreville to Bruyas Nov. 4,1696" N.Y. Hist. Col. Vol. III, p. 484</ref><ref>{{cite web|url=http://www.accessgenealogy.com/native/pennsylvania-indian-tribes.htm |title=Pennsylvania Indian tribes |publisher=Accessgenealogy.com |accessdate=June 7, 2014}}</ref>
+
+Other tribes, like the [[Erie people|Erie]], may have once held some land in Pennsylvania, but no longer did so by the year 1600.<ref>Hale, Horatio "The Iroquois Book of Rites" 1884.</ref>
+
+===17th century===
+{{Main article|New Netherland|New Sweden|Province of Pennsylvania}}
+
+[[File:Darlington map of Pennsylvania 1680.png | thumb |left|upright=0.9| British map of Pennsylvania from 1680 (from the [[Darlington Collection]]).]] 
+Both the [[New Netherland|Dutch]] and the [[Virginia Company|English]] claimed both sides of the Delaware River as part of their colonial lands in America.<ref>{{cite book |last1=Paullin|first1=Charles O. |first2=John K. (ed.) |last2=Wright |title=Atlas of the Historical Geography of the United States |date=1932 |publisher=[[Carnegie Institution of Washington]] and [[American Geographical Society]] |location=New York and Washington, D.C. |isbn= | pages=Plate 42}}</ref><ref>{{cite book |last=Swindler|first=William F. (ed.) |title=Sources and Documents of United States Constitutions |year=1973–1979 |publisher=[[Oceana Publications]] |location=Dobbs Ferry, New York |isbn= |volume=10 |pages=17–23}}</ref><ref name="Van Zandt">{{cite book |last=Van Zandt|first=Franklin K.|title=Boundaries of the United States and the Several States |series=Geological Survey Professional Papers |volume=909 |year=1976 |publisher=[[United States Government Publishing Office|Government Printing Office]] |location=Washington, D.C. |isbn= |pages=74, 92}}</ref> The Dutch were the first to take possession.<ref name="Van Zandt" />
+
+By June 3, 1631, the [[Netherlands|Dutch]] had begun settling the [[Delmarva Peninsula]] by establishing the [[Zwaanendael Colony]] on the site of present-day [[Lewes, Delaware]].<ref>{{cite book |last=Munroe|first=John A.|title=Colonial Delaware: A History |year=1978|publisher=KTO Press|location=Millwood, New York |isbn= |pages=9–12}}</ref> In 1638, Sweden established the [[New Sweden|New Sweden Colony]], in the region of [[Fort Christina]], on the site of present-day [[Wilmington, Delaware]]. New Sweden claimed and, for the most part, controlled the lower Delaware River region (parts of present-day Delaware, New Jersey, and Pennsylvania) but settled few colonists there.<ref>{{cite book |last=Munroe|first=John A.|title=Colonial Delaware: A History |year=1978 |publisher=KTO Press|location=Millwood, New York |isbn= |page=16}}</ref><ref>{{cite book |last=McCormick |first=Richard P.|title=New Jersey from Colony to State, 1609–1789. New Jersey Historical Series, Volume 1 |year=1964|publisher=D. Van Nostrand Company|location=Princeton, New Jersey |isbn= |page=12}}</ref>
+
+[[File:Edward Hicks - Penn's Treaty.jpeg|thumb|''Penn's Treaty with the Indians'', by [[Edward Hicks]]]]
+On March 12, 1664, [[Charles II of England|King Charles II of England]] gave [[James II of England|James, Duke of York]] a grant that incorporated all lands included in the original Virginia Company of Plymouth Grant plus other lands. This grant was in conflict with the Dutch claim for [[New Netherland]], which included parts of today's Pennsylvania.<ref>{{cite book |last=Swindler|first=William F., Editor|title=Sources and Documents of United States Constitutions |volume=4 |year=1973–1979|publisher=[[Oceana Publications]] |location=Dobbs Ferry, New York |isbn= |pages=278–280}}</ref>
+
+On June 24, 1664, the Duke of York sold the portion of his large grant that included present-day [[New Jersey]] to [[John Berkeley, 1st Baron Berkeley of Stratton|John Berkeley]] and [[George Carteret]] for a proprietary colony. The land was not yet in British possession, but the sale boxed in the portion of New Netherland on the West side of the [[Delaware River]]. The British conquest of New Netherland began on August 29, 1664, when [[New Amsterdam]] was coerced to surrender while facing cannons on British ships in New York Harbor.<ref>{{cite book |last=Van Zandt|first=Franklin K.|title=Boundaries of the United States and the Several States; Geological Survey Professional Paper 909 |year=1976|publisher=[[United States Government Publishing Office|Government Printing Office]] |location=Washington, D.C. |isbn= |page=79}}</ref><ref>{{cite book |last=Swindler |first=William F., Editor|title=Sources and Documents of United States Constitutions |year=1973–1979 |publisher=[[Oceana Publications]] |location=Dobbs Ferry, New York |isbn= |volume=6 |pages=375–377}}</ref> This conquest continued, and was completed in October 1664, when the British captured [[Fort Casimir]] in what today is [[New Castle, Delaware]].
+
+[[File:John Dickinson portrait.jpg|thumb|upright|[[John Dickinson (delegate)|John Dickinson]]]]
+The [[Peace of Breda]] between England, France and the Netherlands confirmed the English conquest on July 21, 1667,<ref>{{cite book |last=Farnham |first=Mary Frances; Compiler. |title=Farnham Papers (1603–1688). Volumes 7 and 8 of Documentary History of the State of Maine |year=1901–1902 |publisher=Collections of the [[Maine Historical Society]], 2nd Series. |location=Portland, Maine |isbn= | pages=311, 314 |volume=7}}</ref><ref>{{cite book |last=Parry |first=Clive (Editor) |title= Consolidated Treaty Series; 231 Volumes|year= 1969–1981|publisher= [[Oceana Publications]] |location=Dobbs Ferry, New York |isbn= |page=231 |volume=10}}</ref> although there were temporary reversions.
+
+On September 12, 1672, during the [[Third Anglo-Dutch War]], the Dutch re-conquered [[New York Colony]]/[[New Amsterdam]], establishing three County Courts which went on to become original Counties in present-day [[Delaware]] and Pennsylvania. The one that later transferred to Pennsylvania was Upland.<ref>{{cite book |last=Fernow |first=B., Editor |title=Documents Relative to the Colonial History of the State of New York; Volumes 12–15 |year=1853–1887 |location=Albany, New York |isbn= | pages=507–508}}</ref> This was partially reversed on February 9, 1674, when the [[Treaty of Westminster (1674)|Treaty of Westminster]] ended the Third Anglo-Dutch War, and reverted all political situations to the ''status quo ante bellum''. The British retained the Dutch Counties with their Dutch names.<ref>{{cite book |last=Parry |first=Clive (Editor) |title=Consolidated Treaty Series; 231 Volumes|year=1969–1981 |publisher=[[Oceana Publications]]|location=Dobbs Ferry, New York|isbn= |page=136 |volume=13}}</ref> By June 11, 1674, New York reasserted control over the outlying colonies, including Upland, but the names started to be changed to British names by November 11, 1674.<ref>{{cite book |last=Fernow |first=B., Editor |title=Documents Relative to the Colonial History of the State of New York; Volumes 12–15 |year=1853–1887 |location=Albany, New York |isbn= |page=515 |volume=12}}</ref> Upland was partitioned on November 12, 1674, producing the general outline of the current border between Pennsylvania and Delaware.<ref>{{cite book |last=Armstrong |first=Edward; Editor|title=Record of the Court at Upland, in Pennsylvania, 1676 to 1681|year=1860 |publisher=Memoirs of the Historical Society of Pennsylvania Volume 7|isbn= |pages=119, 198}}</ref>
+
+On February 28, 1681, Charles II granted a land charter<ref>[http://avalon.law.yale.edu/17th_century/pa01.asp Charter for the Province of Pennsylvania-1681]. This charter, granted by [[Charles II (England)]] to William Penn, constituted him and his heirs proprietors of the province, which, in honor of his father, [[Admiral]] [[William Penn (Royal Navy officer)|William Penn]], (whose cash advances and services were thus requited,) was called Pennsylvania. To perfect his title, [[William Penn]] purchased, on 1682-08-24, a quit-claim from the [[James II (England)|Duke of York]] to the lands west of the [[Delaware River]] embraced in his patent of 1664</ref> to [[William Penn]] to repay a debt of £16,000<ref>
+{{cite book| url=https://books.google.com/?id=4rQBAAAAMAAJ| title=Pennsylvania Society of Colonial Governors, Volume 1| editor=Pennsylvania Society of Colonial Governors| pages=180–181| year=1916| chapter=Samuel Carpenter}}
+</ref> (around £2,100,000 in 2008, adjusting for retail inflation)<ref>{{cite web |url=http://www.measuringworth.com/ppoweruk/result.php?use%5B%5D=CPI&use%5B%5D=NOMINALEARN&year_early=1681&pound71=16000&shilling71=&pence71=&amount=16000&year_source=1681&year_result=2008 |title=Measuring Worth |publisher=Measuring Worth |accessdate=July 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110714064027/http://www.measuringworth.com/ppoweruk/result.php?use%5B%5D=CPI&use%5B%5D=NOMINALEARN&year_early=1681&pound71=16000&shilling71=&pence71=&amount=16000&year_source=1681&year_result=2008 |archivedate=July 14, 2011 |df=mdy-all }}</ref> owed to William's father, [[William Penn (Royal Navy officer)|Admiral William Penn]]. This was one of the largest land grants to an individual in history.<ref name=quapoly>{{cite web|url=http://www.pym.org/exhibit/p078.html|archiveurl=https://web.archive.org/web/20080524050103/http://www.pym.org/exhibit/p078.html|archivedate=May 24, 2008 |title=Quakers and the political process |publisher=Pym.org |date=March 28, 2006 |accessdate=July 31, 2010}}</ref> The King named it Pennsylvania (literally "Penn's Woods") in honor of the Admiral. Penn, the son, who wanted it to be called New Wales, and then Sylvania (from the [[Latin]] ''silva'': "forest, woods"), was embarrassed at the change, fearing that people would think he had named it after himself, but King Charles would not rename the grant.<ref>{{cite web|url=http://www.britannia.com/celtic/wales/facts/facts1.html |title=Wales on Britannia: Facts About Wales & the Welsh |publisher=Britannia.com |date= |accessdate=September 16, 2013}}</ref> Penn established a government with two innovations that were much copied in the New World: the [[county commission]] and [[Freedom of religion|freedom of religious conviction]].<ref name=quapoly />
+
+[[File:A mapp of ye improved part of Pensilvania in America, divided into countyes townships and lotts.png|thumb|right|A mapp of ye improved part of Pensilvania in America, divided into countyes townships and lotts]]
+
+What had been Upland on what became the Pennsylvania side of the Pennsylvania-[[Delaware]] Border was renamed as [[Chester County, Pennsylvania|Chester County]] when Pennsylvania instituted their colonial governments on March 4, 1681.<ref>{{cite book |last=Armstrong|first=Edward; Editor|title=Record of the Court at Upland, in Pennsylvania, 1676 to 1681|year=1860|publisher=Memoirs of the Historical Society of Pennsylvania |volume=7|isbn= |page=196}}</ref><ref>{{cite book |last=Swindler|first=William F., Editor|title=Sources and Documents of United States Constitutions. 10 Volumes |year=1973–1979|publisher=[[Oceana Publications]] |location=Dobbs Ferry, New York |isbn= |page=243 |volume=8}}</ref> The [[Quakers|Quaker]] leader [[William Penn]] had signed a peace treaty with [[Tamanend|Tammany]], leader of the Delaware tribe, beginning a long period of friendly relations between the Quakers and the Indians.<ref>David Yount (2007). "''[https://books.google.com/books?id=pk7ycUq3cxsC&pg=PA82&dq&hl=en#v=onepage&q=&f=false How the Quakers invented America]''". Rowman & Littlefield. p.82. {{ISBN|0-7425-5833-9}}</ref> Additional treaties between Quakers and other tribes followed. The [[Penn Treaty Park|treaty]] of William Penn was never violated.<ref>Sydney G. Fisher (2009). "''[https://books.google.com/books?id=zKzFgAlx1CkC&pg=PA13&dq&hl=en#v=onepage&q=&f=false The Quaker Colonies]''". Echo Library. p.13 {{ISBN|1-4068-5110-8}}</ref>
+
+===18th century===
+{{Main article|French and Indian War|Treaty of Paris (1763)|Indian Reserve (1763)|Pennsylvania in the American Revolution|First Continental Congress|American Revolutionary War|Second Continental Congress|Lee Resolution|United States Declaration of Independence|Philadelphia campaign|Articles of Confederation#Ratification|Treaty of Paris (1783)|Constitutional Convention (United States)|Admission to the Union|List of U.S. states by date of admission to the Union}}
+
+Between 1730 and when it was shut down by Parliament with the Currency Act of 1764, the Pennsylvania Colony made its own paper money to account for the shortage of actual gold and silver. The paper money was called [[Colonial Scrip]]. The Colony issued "bills of credit", which were as good as gold or silver coins because of their legal tender status. Since they were issued by the government and not a banking institution, it was an interest-free proposition, largely defraying the expense of the government and therefore taxation of the people. It also promoted general employment and prosperity, since the Government used discretion and did not issue too much to inflate the currency. [[Benjamin Franklin]] had a hand in creating this currency, of which he said its utility was never to be disputed, and it also met with the "cautious approval" of [[Adam Smith]].<ref>Hamilton, Alexander and Syrett, Harold C. ''The Papers of Alexander Hamilton''. 1963, page 240.</ref>
+
+[[James Smith (frontiersman)|James Smith]] wrote that in 1763, "the Indians again commenced hostilities, and were busily engaged in killing and scalping the frontier inhabitants in various parts of Pennsylvania."  Further, "This state was then a Quaker government, and at the first of this war the frontiers received no assistance from the state."<ref>{{cite web|url=https://archive.org/details/accountofremarka00smit|title=An account of the remarkable occurrences in the life and travels of Colonel James Smith (Late a citizen of Bourbon County, Kentucky) : during his captivity with the Indians, in the years 1755,'56, '57, '58, & '59|website=Internet Archive}}</ref> The ensuing hostilities became known as [[Pontiac's War]].
+
+[[File:PhiladelphiaPresidentsHouse.jpg|thumb|[[President's House (Philadelphia)]]. The Masters-Penn mansion housed Pennsylvania's governor in the early 1770s. It later served as the presidential mansion of [[George Washington]] and [[John Adams]], 1790–1800, while Philadelphia was the temporary national capital.]]
+After the [[Stamp Act Congress]] of 1765, Delegate [[John Dickinson (delegate)|John Dickinson]] of [[Philadelphia]] wrote the ''[[Declaration of Rights and Grievances]]''. The Congress was the first meeting of the [[Thirteen Colonies]], called at the request of the [[Massachusetts]] Assembly, but only nine colonies sent delegates.<ref>{{cite web|url=http://memory.loc.gov/ammem/collections/continental/timeline.html |title=Library of Congress timeline 1764–1765 |publisher=Memory.loc.gov |accessdate=July 31, 2010}}</ref> Dickinson then wrote ''[[Letters from a Farmer in Pennsylvania|Letters from a Farmer in Pennsylvania, To the Inhabitants of the British Colonies]]'', which were published in the Pennsylvania Chronicle between December 2, 1767, and February 15, 1768.<ref>{{cite web|url=http://18thcenturyreadingroom.blogspot.com/2005_10_01_18thcenturyreadingroom_archive.html |title=Dickinson Letters |publisher=18thcenturyreadingroom.blogspot.com |accessdate=July 31, 2010}}</ref>
+
+When the [[Founding Fathers of the United States]] convened in Philadelphia in 1774, 12 colonies sent representatives to the [[First Continental Congress]].<ref>{{cite web|url=http://memory.loc.gov/ammem/collections/continental/timeline1e.html |title=Library of Congress timeline 1773–1774 |publisher=Memory.loc.gov |accessdate=July 31, 2010}}</ref> The [[Second Continental Congress]], which also met in Philadelphia (in May 1775), drew up and signed the [[United States Declaration of Independence|Declaration of Independence]] in Philadelphia,<ref>{{cite web|url=https://www.loc.gov/rr/program/bib/ourdocs/DeclarInd.html |title=Library of Congress: Primary documents – The Declaration of Independence |publisher=Loc.gov |date=July 20, 2010 |accessdate=July 31, 2010}}</ref> but when that city was captured by the British, the Continental Congress escaped westward, meeting at the [[Lancaster, Pennsylvania|Lancaster]] courthouse on Saturday, September 27, 1777, and then to [[York, Pennsylvania|York]]. There they and its primary author, John Dickinson, drew up the [[Articles of Confederation]] that formed 13 independent colonies into a new nation. Later, the [[United States Constitution|Constitution]] was written, and Philadelphia was once again chosen to be cradle to the new American Nation.<ref>{{cite web|url=https://www.senate.gov/reference/reference_item/Nine_Capitals_of_the_United_States.htm |title=Nine Capitals of the United States |publisher=Senate.gov |date=March 26, 2009 |accessdate=July 31, 2010}}</ref> The Constitution was drafted and signed at the [[Pennsylvania State House]], now known as Independence Hall, and the same building where the Declaration of Independence was signed.<ref>{{cite web|url=http://constitutioncenter.org/learn/educational-resources/constitution-faqs/|title=Constitution FAQs|publisher=National Constitution Center|date=|accessdate=June 19, 2016}}</ref>
+
+Pennsylvania became the first large state, and the second state to ratify the [[U.S. Constitution]] on December 12, 1787,<ref>{{cite web|url=http://memory.loc.gov/ammem/today/dec12.html |title=Pennsylvania ratifies the Constitution of 1787 |publisher=Memory.loc.gov |accessdate=July 31, 2010}}</ref> five days after [[Delaware]] became the first. At the time it was the most ethnically and religiously diverse of the [[Thirteen Colonies]]. Because One-third of Pennsylvania's population spoke German, the Constitution was presented in German to include those citizens in the discussion. Reverend [[Frederick Muhlenberg]] acted as the chairman of the state's ratifying convention.<ref>{{cite web|url=http://www.history.com/this-day-in-history/pennsylvania-ratifies-the-constitution |title=Pennsylvania ratifies the Constitution |publisher=A&E Television Networks, LLC |accessdate=September 18, 2017}}</ref>
+
+[[Dickinson College]] of [[Carlisle, Pennsylvania|Carlisle]] was the first college founded in the United States. Established in 1773, the college was ratified five days after the [[Treaty of Paris (1783)|Treaty of Paris]] on September 9, 1783. The school was founded by [[Benjamin Rush]] and named after John Dickinson.
+
+[[File:HillsCapitol.jpg|thumb|The "Hills Capitol", used from 1821 until it burned down in 1897.]]
+For half a century, the Commonwealth's General Assembly (legislature) met at various places in the general Philadelphia area before starting to meet regularly in Independence Hall in Philadelphia for 63 years.<ref name=legiscap>{{cite web|url=http://www.legis.state.pa.us/WU01/VC/visitor_info/brown/capitols.htm |archive-url=https://web.archive.org/web/20000615224551/http://www.legis.state.pa.us/WU01/VC/visitor_info/brown/capitols.htm |dead-url=yes |archive-date=June 15, 2000 |title=Pennsylvania's Capitals |publisher=Legis.state.pa.us |accessdate=July 31, 2010 |df=mdy-all }}</ref> But it needed a more central location, as for example the [[Paxton Boys]] massacres of 1763 had made the legislature aware. So, in 1799 the General Assembly moved to the [[Lancaster, Pennsylvania|Lancaster]] Courthouse,<ref name=legiscap/> and finally in 1812 to [[Harrisburg, Pennsylvania|Harrisburg]].<ref name=legiscap />
+
+===19th century===
+The General Assembly met in the old [[Dauphin County, Pennsylvania|Dauphin County]] Court House until December 1821,<ref name=legiscap/> when the Federal-style "Hills Capitol" (named for its builder, [[Stephen Hills]], a Lancaster architect) was constructed on a hilltop land grant of four acres set aside for a seat of state government by the prescient, entrepreneurial son and namesake of [[John Harris, Sr.]], a Yorkshire native who had founded a trading post in 1705 and ferry (1733) on the east shore of the Susquehanna River.<ref>{{cite web|url=http://www.angelfire.com/on/Canadiangenealogy/harris.html |title=History of John Harris |publisher=Mrs. Carlyle C. Browne (descendant of Sarah Ann Harris, fifth daughter of Alfred Bingham Harris, and granddaughter of Elisha John Harris of the Mansion, Harrisburg PA, USA) |year=2001 |accessdate=February 14, 2011}}</ref> The Hills Capitol burned down on February 2, 1897, during a heavy snowstorm, presumably because of a faulty [[flue]].<ref name=legiscap/>
+<!--
+[[File:The First Minnesota by Don Troiani. Gettysburg, Pennsylvania - July 2, 1863.jpg|thumb|left|The [[Battle of Gettysburg]], July 2, 1863]]
+-->
+The General Assembly met at Grace Methodist Church on State Street (still standing) until a new capitol could be built. Following an architectural selection contest that many alleged had been "rigged", [[Chicago]] architect [[Henry Ives Cobb]] was charged with designing and building a replacement building; however, the legislature had little money to allocate to the project, and a roughly finished, somewhat industrial building (the Cobb Capitol) was completed. The General Assembly refused to occupy the building. Political and popular indignation in 1901 prompted a second contest that was restricted to Pennsylvania architects, and [[Joseph Miller Huston]] of Philadelphia was chosen to design the present [[Pennsylvania State Capitol]] that incorporated Cobb's building into magnificent public work finished and dedicated in 1907.<ref name=legiscap/>
+
+The [[Pennsylvania State Capitol|new state Capitol]] drew rave reviews.<ref name=legiscap/> Its dome was inspired by the domes of [[St. Peter's Basilica]] in Rome and the United States Capitol.<ref name=legiscap/>  President [[Theodore Roosevelt]] called it "the most beautiful state Capital in the nation" and said, "It's the handsomest building I ever saw" at the dedication. In 1989, ''[[The New York Times]]'' praised it as "grand, even awesome at moments, but it is also a working building, accessible to citizens ... a building that connects with the reality of daily life".<ref name=legiscap/>
+
+[[James Buchanan]], of [[Franklin County, Pennsylvania|Franklin County]], the only bachelor President of the United States,<ref name="jimbo">{{cite web|url=http://www.whitehouse.gov/history/presidents/jb15.html |title=James Buchanan White House biography |publisher=Whitehouse.gov |accessdate=July 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20080306180145/http://www.whitehouse.gov/history/presidents/jb15.html |archivedate=March 6, 2008 |df= }}</ref> was the only one to be born in Pennsylvania. The [[Battle of Gettysburg]]—the major turning point of the Civil War—took place near [[Gettysburg, Pennsylvania|Gettysburg]].<ref>[http://content.answers.com/main/content/wp/en/thumb/b/b3/200px-Dddr66.jpg Battle of Gettysburg] {{webarchive |url=https://web.archive.org/web/20090114202108/http://content.answers.com/main/content/wp/en/thumb/b/b3/200px-Dddr66.jpg |date=January 14, 2009 }}</ref> An estimated 350,000 Pennsylvanians served in the [[Union Army]] forces including 8,600 African American [[military volunteer]]s.
+
+Pennsylvania was also the home of the first commercially drilled oil well. In 1859, near [[Titusville, Pennsylvania]], [[Edwin Drake]] successfully drilled the well, which led to the first major oil boom in United States history.
+
+===20th century===
+{{expand section|date=June 2016}}
+[[File:Federal Emergency Relief Administration, FERA camp for unemployed women in Arcola, PA - NARA - 196583.tif|thumb|[[Franklin D. Roosevelt]]'s [[Federal Emergency Relief Administration|FERA]] camp for unemployed women, 1934]]
+At the beginning of the 20th century Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. A surge in immigration to the U.S. during the late 19th and early 20th centuries provided a steady flow of cheap labor for these industries which often employed children and people who could not speak English.
+
+In 1923, President [[Calvin Coolidge]] established the [[Allegheny National Forest]] under the authority of the [[Weeks Act]] of 1911.<ref>{{Cite web|url=https://www.fs.usda.gov/main/allegheny/about-forest/about-area|title=About the Area|last=|first=|date=|website=|archive-url=https://web.archive.org/web/20120314033332/http://www.fs.usda.gov/main/allegheny/about-forest/about-area|archive-date=2012-03-14|dead-url=yes|access-date=30 July 2018}}</ref> The forest is located in the northwest part of the state in Elk, Forest, McKean, and Warren Counties for the purposes of timber production and watershed protection in the [[Allegheny River]] basin. The Allegheny is the state's only national forest.<ref>{{Cite web|url=https://www.fs.usda.gov/allegheny|title=Welcome to the Allegheny National Forest!|last=|first=|date=|website=|archive-url=https://web.archive.org/web/20111128214402/http://www.fs.usda.gov/allegheny|archive-date=2011-11-28|dead-url=yes|access-date=30 July 2018}}</ref>{{Citation needed|date=July 2018}}
+
+===21st century===
+{{Empty section|date=April 2016}}
+
+==Demographics==
+{{Further|List of people from Pennsylvania}}
+The [[United States Census Bureau]] estimates that the population of Pennsylvania was 12,807,060 on July 1, 2017, a 0.82% increase since the [[2010 United States Census]]. In an earlier estimate, the state was 78.8% Non-Hispanic White, 11.4% Black or African American, 0.3% Native American, 3.0% Asian, 0.1% Native Hawaiian and Other Pacific Islander, 1.7% Two or More Races, and 6.1% Hispanic or Latino.<ref name=PopEstUS>{{cite web|url=https://www.census.gov/quickfacts/fact/table/pa,US/PST045218|title=QuickFacts Pennsylvania; UNITED STATES|format=|website=2018 Population Estimates|publisher=[[United States Census Bureau]], Population Division|date=January 10, 2019|accessdate=January 10, 2019}}</ref>
+
+Of the people residing in Pennsylvania, 74.5% were born in Pennsylvania, 18.4% were born in a different U.S. state, 1.5% were born Puerto Rico, U.S. Island areas, or born abroad to American parent(s), and 5.6% were foreign born.<ref>{{cite web|url=http://factfinder2.census.gov/bkmk/table/1.0/en/ACS/10_SF4/DP02/0400000US42|title=American FactFinder – Results  |publisher=|accessdate=October 7, 2014}}</ref>
+
+According to the 2010 Census, 81.9% of the population was White (79.2% [[non-Hispanic white]]), 11.3% was [[African American|Black]] or African American, 0.3% American Indian and Alaska Native, 2.9% [[Asian American|Asian]], 1.9% from two or more races. 5.9% of the total population was of [[Hispanic and Latino Americans|Hispanic]] or Latino origin (they may be of any race).<ref>{{cite web|url=http://quickfacts.census.gov/qfd/states/42000.html |title=Pennsylvania QuickFacts from the US Census Bureau |publisher=Quickfacts.census.gov |date= |accessdate=June 15, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20141006065329/http://quickfacts.census.gov/qfd/states/42000.html |archivedate=October 6, 2014 |df= }}</ref>
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|+ '''Pennsylvania Racial Breakdown of Population'''
+|-
+! Racial composition  !! 1990<ref>{{cite web|url=https://www.census.gov/population/www/documentation/twps0056/twps0056.html |archive-url=https://web.archive.org/web/20080725044857/http://www.census.gov/population/www/documentation/twps0056/twps0056.html |dead-url=yes |archive-date=July 25, 2008 |title=Historical Census Statistics on Population Totals By Race, 1790 to 1990, and By Hispanic Origin, 1970 to 1990, For The United States, Regions, Divisions, and States |publisher=Census.gov |date= |accessdate=May 4, 2014 |df=mdy-all }}</ref> !! 2000<ref>{{cite web|url=http://censusviewer.com/city/PA|archiveurl=https://archive.is/20140111024022/http://censusviewer.com/city/PA|deadurl=yes|title=censusviewer.com|date=January 11, 2014|archivedate=January 11, 2014|publisher=}}</ref>!! 2010<ref>{{cite web|author=2010 Census Data |url=https://www.census.gov/2010census/data/ |title=2010 Census Data |publisher=Census.gov |date= |accessdate=May 4, 2014}}</ref>
+|-
+| [[White American|White]] || 88.5% || 85.4% || 81.9%
+|-
+| [[African American|Black]] || 9.2% || 10.0% || 10.9%
+|-
+| [[Asian American|Asian]] || 1.2% || 1.8% || 2.8%
+|-
+| [[Native Americans in the United States|Native]] || 0.1% || 0.1% || 0.2%
+|-
+| [[Native Hawaiian]] and<br />[[Pacific Islander|other Pacific Islander]] || – || – || –
+|-
+| [[Race and ethnicity in the United States Census|Other race]] || 1.0% || 1.5% || 2.4%
+|-
+| [[Multiracial American|Two or more races]] || – || 1.2% || 1.9%
+|}
+
+As of 2011, 32.1% of Pennsylvania's population younger than age one were minorities.<ref>"[http://www.cleveland.com/datacentral/index.ssf/2012/06/americas_under_age_1_populatio.html Americans under age 1 now mostly minorities, but not in Ohio: Statistical Snapshot]". ''[[The Plain Dealer]]''. June 3, 2012.</ref>
+
+Pennsylvania's Hispanic population grew by 82.6% between 2000 and 2010, making it one of the largest increases in a state's Hispanic population. The significant growth of the Hispanic population is due to immigration to the state mainly from Puerto Rico, which is a US territory, but to a lesser extent from countries such as the Dominican Republic, Mexico, and various Central and South American nations, as well as from the wave of Hispanics leaving New York and New Jersey for safer and more affordable living. The Asian population swelled by almost 60%, which was fueled by Indian, Vietnamese, and Chinese immigration, as well the many Asian transplants moving to Philadelphia from New York. The rapid growth of this community has given Pennsylvania one of the largest Asian populations in the nation by numerical values. The Black and African American population grew by 13%, which was the largest increase in that population amongst the state's peers (New York, New Jersey, Ohio, Illinois, and Michigan). The White population declined by 0.7%, a trend that is beginning to reverse itself. Twelve other states saw decreases in their White populations.<ref>{{cite web|author=2010 Census Data |url=http://2010.census.gov/2010census/data/ |title=2010 Census Data – 2010 Census |publisher=2010.census.gov |accessdate=July 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110706203009/http://2010.census.gov/2010census/data/ |archivedate=July 6, 2011 }}</ref> The state of Pennsylvania has a high in-migration of blacks and Hispanics from other nearby states, with eastern and south-central portions of the state seeing the bulk of the increases.<ref name="pasdc.hbg.psu.edu">{{cite web|url=https://pasdc.hbg.psu.edu/sdc/pasdc_files/researchbriefs/2010_Census_PL94_Release_RB_FINAL.pdf |format=PDF |title=Research Brief : The Commonwealth's Official Source for Population and Economic Statistics |date=March 9, 2011 |website=Pasdc.hbg.psu.edu |accessdate=June 26, 2016}}</ref><ref>{{cite web|url=http://centropr.hunter.cuny.edu/research/datacenter/puerto-ricans-leave-ny-report-tells-where-they-go|title=Puerto Ricans Leave N.Y. Report Tells Where They Go – Centro de Estudios Puertorriqueños|website=cuny.edu|deadurl=yes|archiveurl=https://web.archive.org/web/20150722032407/http://centropr.hunter.cuny.edu/research/datacenter/puerto-ricans-leave-ny-report-tells-where-they-go|archivedate=July 22, 2015|df=mdy-all}}</ref>
+
+The [[center of population]] of Pennsylvania is located in [[Perry County, Pennsylvania|Perry County]], in the borough of [[Duncannon, Pennsylvania|Duncannon]].<ref>{{cite web|title=Population and Population Centers by State – 2000 |publisher=United States Census Bureau |accessdate=December 3, 2008 |url=https://www.census.gov/geo/www/cenpop/statecenters.txt |deadurl=yes |archiveurl=http://webarchive.loc.gov/all/20080918020344/http://www.census.gov/geo/www/cenpop/statecenters.txt |archivedate=September 18, 2008 |df=mdy-all }}</ref>
+
+[[File:PennsylvaniaDemography.svg|thumb|State population from 1790 to 2000]]
+[[File:Pennsylvania population map 1.png|thumb|Pennsylvania's population distribution]]
+
+As of 2018, Pennsylvania has an estimated population of 12,823,989, which is an increase of 18,452 from the previous year and an increase of 121,610 since the year 2010. Net [[Human migration|migration]] to other states resulted in a decrease of 27,718, and [[Immigration to the United States|immigration]] from other countries resulted in an increase of 127,007. Net migration to the Commonwealth was 98,289. Migration of native Pennsylvanians resulted in a decrease of 100,000 people. From 2008 to 2012, 5.8% of the population was foreign-born.<ref>{{cite web|url=http://quickfacts.census.gov/qfd/states/42000.html |title=Pennsylvania QuickFacts from the US Census Bureau |publisher= |accessdate=October 7, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20141006065329/http://quickfacts.census.gov/qfd/states/42000.html |archivedate=October 6, 2014 |df= }}</ref> The state has an estimated 2017 poverty rate of 13.2%.<ref name=PAFacts/> The state also has the 3rd-highest proportion of elderly (65+) citizens in 2005.<ref name=PAFacts/>
+
+Foreign born Pennsylvanians are largely from Asia (36.0%), Europe (35.9%), and Latin America (30.6%), with the remainder from Africa (5%), North America (3.1%), and Oceania (0.4%).
+
+The majority of Hispanics in Pennsylvania are of [[Puerto Rican American|Puerto Rican]] descent, having one of the largest and fastest-growing Puerto Rican populations in the country.<ref>{{cite web|url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_DP05&prodType=table|title=American FactFinder – Results|author=Data Access and Dissemination Systems (DADS)|website=census.gov}}</ref><ref>{{cite web|url=http://content.usatoday.com/dist/custom/gci/InsidePage.aspx?cId=thedailyjournal&sParam=53490820.story|title=Thedailyjournal – Puerto Rico's population exodus is all about jobs|website=usatoday.com}}</ref> Most of the remaining Hispanic population is made up of [[Mexican American|Mexicans]] and [[Dominican American|Dominicans]]. Most Hispanics are concentrated in Philadelphia, [[Lehigh Valley]] and [[South Central Pennsylvania]]. Pennsylvania's reported population of Hispanics, especially among the Black race, has markedly increased in recent years.<ref name=annest>{{cite web |url=https://www.census.gov/popest/data/state/asrh/2004/tables/SC-EST2004-03-42.xls |title=Annual Estimates of the Population |accessdate=July 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20130120132138/http://www.census.gov/popest/data/state/asrh/2004/tables/SC-EST2004-03-42.xls |archivedate=January 20, 2013 |df=mdy-all }}</ref> The Hispanic population is greatest in [[Bethlehem, Pennsylvania|Bethlehem]], [[Allentown, Pennsylvania|Allentown]], [[Reading, Pennsylvania|Reading]], [[Lancaster, Pennsylvania|Lancaster]], [[York, Pennsylvania|York]], and around [[Philadelphia]]. It is not clear how much of this change reflects a changing population and how much reflects increased willingness to self-identify minority status. As of 2010, it is estimated that about 85% of all Hispanics in Pennsylvania live within a {{convert|150|mi|km|adj=mid}} radius of Philadelphia, with about 20% living within the city itself.
+
+Of the black population, the vast majority in the state are African American, being descendants of [[Slavery in the United States|African slaves brought to the US south]] during the colonial era. There are also a growing number of blacks of [[West Indian American|West Indian]], [[African immigration to the United States|recent African]], and [[Black Hispanic|Hispanic]] origins.<ref>{{cite web|url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_13_1YR_B04003&prodType=table|title=American FactFinder – Results|author=Data Access and Dissemination Systems (DADS)|website=census.gov}}</ref> Most blacks live in the Philadelphia area, Pittsburgh, and South Central Pennsylvania, among other areas. Whites make-up the majority of Pennsylvania, they are mostly descended from German, Irish, Italian, and English immigrants, among others. Rural portions of South Central Pennsylvania are famous nationwide for its notable [[Amish country|Amish communities]]. The "[[Wyoming Valley]]" or the [[Scranton/Wilkes-Barre Metropolitan Area]] has a large concentration of whites. As a matter of fact, it has the highest percentage of white residents than any other metropolitan area in the U.S. with 96.2% of its population claiming to be white with no Hispanic background.
+
+Pennsylvania's population was reported as 5.9% under 5 and 23.8% under 18, with 15.6% aged 65 or older. Women made up 52% of the population.<ref name="censusPA">{{cite web|url=https://www.census.gov/prod/2002pubs/c2kprof00-pa.pdf |title=Pennsylvania: 2000 |format=PDF |date= |accessdate=June 26, 2016}}</ref>
+The largest ancestry groups are listed below, expressed as a percentage of total people who responded with a particular ancestry for the 2010 census:<ref>{{cite web|author=American FactFinder, United States Census Bureau |url=http://factfinder2.census.gov/bkmk/table/1.0/en/ACS/08_3YR/DP3YR2/0400000US42 |title=American Community Survey 3-Year Estimates |publisher=Factfinder.census.gov |accessdate=July 31, 2010}}</ref><ref name=census>{{cite web|url=https://www.census.gov/prod/cen2010/briefs/c2010br-04.pdf |title=Puerto Ricans in Pennsylvania |accessdate=November 8, 2011}}</ref>
+* 28.5% [[German American|German]]
+* 18.2% [[Irish American|Irish]]
+* 12.8% [[Italian American|Italian]]
+* 9.6%  [[African American]]
+* 8.5%  [[English American|English]]
+* 7.2%  [[Polish American|Polish]]
+* 4.2%  [[French Canadian]]
+
+{{US Census population
+|1790= 434373
+|1800= 602365
+|1810= 810091
+|1820= 1049458
+|1830= 1348233
+|1840= 1724033
+|1850= 2311786
+|1860= 2906215
+|1870= 3521951
+|1880= 4282891
+|1890= 5258113
+|1900= 6302115
+|1910= 7665111
+|1920= 8720017
+|1930= 9631350
+|1940= 9900180
+|1950= 10498012
+|1960= 11319366
+|1970= 11793909
+|1980= 11863895
+|1990= 11881643
+|2000= 12281054
+|2010= 12702379
+|estyear=2018
+|estimate=12807060
+|footnote=Source:<center>1910–2010<ref>{{cite web|author=Resident Population Data |url=http://2010.census.gov/2010census/data/apportionment-pop-text.php |title=Resident Population Data – 2010 Census |publisher=2010.census.gov |accessdate=December 22, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121220045933/http://2010.census.gov/2010census/data/apportionment-pop-text.php |archivedate=December 20, 2012 }}</ref><br />2018 Estimate<ref name=PopEstUS/>
+}}
+
+===Birth data===
+''Note: Births in table don't add up, because Hispanics are counted both by their ethnicity and by their race, giving a higher overall number.''
+{| class="wikitable"
+|+ Live Births by Single Race/Ethnicity of Mother
+|-
+! [[Race and ethnicity in the United States Census|Race]]
+! 2013<ref>{{cite web |url=https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf |title=Statistics|website=cdc.gov}}</ref>
+! 2014<ref>{{cite web |url=https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_12.pdf |title=Statistics|website=cdc.gov}}</ref>
+! 2015<ref>{{cite web |url=https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf |title=Statistics|website=cdc.gov}}</ref>
+! 2016<ref>{{cite web|url=https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_01.pdf |title=National Vital Statistics Reports Volume 67, Number 1, January 31, 2018 |publisher= |date= |accessdate=2018-07-11}}</ref>
+|-
+| [[White Americans|White]]
+| 109,007 (77.3%)
+| 110,809 (77.9%)
+| 109,595 (77.7%)
+| ...
+|-
+| > [[Non-Hispanic whites|Non-Hispanic White]]
+| 98,751 (70.0%)
+| 99,306 (69.8%)
+| 97,845 (69.4%)
+| 94,520 (67.8%)
+|-
+| [[African Americans|Black]]
+| 24,770 (17.6%)
+| 24,024 (16.9%)
+| 24,100 (17.1%)
+| 18,338 (13.1%)
+|-
+| [[Asian Americans|Asian]]
+| 6,721 (4.7%)
+| 7,067 (5.0%)
+| 6,961 (4.9%)
+| 6,466 (4.6%)
+|-
+| [[Native Americans in the United States|American Indian]]
+| 423 (0.3%)
+| 368 (0.3%)
+| 390 (0.3%)
+| 86 (0.1%)
+|-
+| ''[[Hispanic and Latino Americans|Hispanic]]'' (of any race)
+| ''14,163 (10.1%)''
+| ''14,496 (10.2%)''
+| ''14,950 (10.6%)''
+| ''15,348 (11.0%)''
+|-
+| '''Total Pennsylvania'''
+| '''140,921''' (100%)
+| '''142,268''' (100%)
+| '''141,047''' (100%)
+| '''139,409''' (100%)
+|}
+
+*Since 2016, data for births of [[White Hispanic and Latino Americans|White Hispanic]] origin have not been collected, but included in one ''Hispanic'' group; persons of Hispanic origin may be of any race.
+
+===Languages===
+{{main|Language in Pennsylvania}}
+{| class="wikitable sortable" style="margin-left:1em; float:center"
+|+ '''Top 10 Non-English Languages Spoken in Pennsylvania'''
+|-
+! Language !! Percentage of population<br /><small>(as of 2010)</small><ref name="MLA Data"/>
+|-
+| Spanish || 4.09%
+|-
+| German (including [[Pennsylvania German language|Pennsylvania German]]) || 0.87%
+|-
+| Chinese (including [[Standard Chinese|Mandarin]]) || 0.47%
+|-
+| Italian || 0.43%
+|-
+| French || 0.34%
+|-
+| Russian and Vietnamese (tied) || 0.29%
+|-
+| Korean || 0.25%
+|-
+| Polish || 0.21%
+|-
+| Arabic || 0.20%
+|-
+| Hindi || 0.17%
+|}
+
+As of 2010, 90.15% (10,710,239) of Pennsylvania residents age 5 and older spoke English at home as a [[primary language]], while 4.09% (486,058) spoke Spanish, 0.87% (103,502) German (which includes [[Pennsylvania German language|Pennsylvania Dutch]]) and by 0.47% (56,052) Chinese (which includes [[Standard Chinese|Mandarin]]) of the population over the age of five. In total, 9.85% (1,170,628) of Pennsylvania's population age 5 and older spoke a [[mother language]] other than English.<ref name="MLA Data">{{cite web|url=http://www.mla.org/cgi-shl/docstudio/docs.pl?map_data_results |title=Pennsylvania |publisher=[[Modern Language Association]] |accessdate=August 12, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20060619224705/http://www.mla.org/cgi-shl/docstudio/docs.pl?map_data_results |archivedate=June 19, 2006 |df=mdy-all }}</ref>
+
+====Pennsylvania German language====
+{{Main|Pennsylvania German language}}
+
+Pennsylvania German is often—even though misleadingly—called "Pennsylvania Dutch". The term "Dutch" used to mean "German"<ref>{{cite web|url=http://dictionary.reference.com/search?q=dutch&x=57&y=13 |title=Definition of "dutch" |publisher=Dictionary.reference.com |accessdate=July 31, 2010}}</ref> (including the Netherlands), before the Latin name for them replaced it (but stuck with the Netherlands). When referring to the language spoken by the [[Pennsylvania Dutch|Pennsylvania Dutch people]] ([[Pennsylvania German language|Pennsylvania German]]) it means "German" or "Teutonic" rather than "Netherlander". Germans, in their own language, call themselves "Deutsch", (Pennsylvania German: "Deitsch"). The [[Pennsylvania German language]] is a descendant of German, in the [[West Central German]] dialect family. It is closest to [[Palatine German language|Palatine German]]. Pennsylvania German is still very vigorous as a first language among [[Amish|Old Order Amish]] and [[Old Order Mennonite]]s (principally in the [[Lancaster County, Pennsylvania|Lancaster County area]]), whereas it is almost extinct as an everyday language outside the [[Plain people|plain communities]], though a few words have passed into English usage.
+
+===Religion===
+{{Bar box
+|title = Religion in Pennsylvania (2014)<ref name="Pew Religion and Politics">{{cite web
+  | title = Religious composition of adults in Pennsylvania
+  | website = Religious Landscape Study
+  | publisher = The Pew Forum on Religion & Public Life
+  | year = 2017
+  | url = http://www.pewforum.org/religious-landscape-study/state/pennsylvania/
+  | accessdate = October 5, 2017}}</ref>
+|titlebar=#ddd
+|width   =  
+|barwidth= 
+|left1=religion
+|right1=percent
+|float=right
+|bars=
+{{Bar percent|Protestant|purple|47}}
+{{Bar percent|Catholic|Dodgerblue|24}}
+{{Bar percent|None|black|21}}
+{{Bar percent|Other faiths/don't know|gray|2}}
+{{Bar percent|Hindu|orange|1}}
+{{Bar percent|Jehovah's witnesses|red|1}}
+{{Bar percent|Jewish|Blue|0.8}}
+{{Bar percent|Muslim|green|0.6}}
+}}
+
+[[File:Lancaster County Amish 03.jpg|thumb|An [[Amish]] family riding in a traditional Amish buggy in [[Lancaster County, Pennsylvania]].]]
+Of all the colonies, only [[Rhode Island]] had religious freedom as secure as in Pennsylvania.<ref>[http://cip.cornell.edu/Dienst/UI/1.0/Summarize/psu.ph/1134140590 Religious diversity in Pennsylvania] {{webarchive |url=https://web.archive.org/web/20070220060046/http://cip.cornell.edu/Dienst/UI/1.0/Summarize/psu.ph/1134140590 |date=February 20, 2007 }}</ref>  [[Voltaire]], writing of [[William Penn]] in 1733, observed: "The new sovereign also enacted several wise and wholesome laws for his colony, which have remained invariably the same to this day. The chief is, to ill–treat no person on account of religion, and to consider as brethren all those who believe in one God."<ref>{{cite book |authorlink=Voltaire |first=François-Marie ("Voltaire") |last=Arouet |title=Philosophic Letters |date=1733}} Republished in: {{cite book |title=The Works of Voltaire: A Contemporary Version |volume=XXXIX: Short Studies on English and American Topics |page=209 |editor1-first=John |editor1-last=Morley |editor2-first=William F. |editor2-last=Fleming |editor3-first=Tobias |editor3-last=Smollett |date=1901 |location=New York |publisher=E. R. DuMont |url= https://books.google.com/?id=OdENAQAAMAAJ&pg=PA209&lpg=PA209&dq=The+new+sovereign+also+enacted+several+wise+and+wholesome+laws+for+his+colony,+which+have+remained+invariably+the+same+to+this+day |accessdate=August 4, 2015}}</ref> One result of this uncommon freedom was a wide religious [[Multiculturalism|diversity]], which continues to the present.
+
+Pennsylvania's population in 2010 was 12,702,379. Of these, 6,838,440 (53.8%) were estimated to belong to some sort of organized religion. According to the [[Association of religion data archives]] (ARDA) at [[Pennsylvania State University]], the largest religions in Pennsylvania by adherents are the [[Roman Catholic Church]] with 3,503,028 adherents, the [[United Methodist Church]] with 591,734 members, and the [[Evangelical Lutheran Church in America]] with 501,974 members.
+
+The third-largest single denomination is the [[Presbyterian Church (USA)]] with 250,000 members and 1,011 congregations. Pennsylvania, especially western part and Pittsburgh area has one of the highest percentage of Presbyterians in the nation. The Presbyterian Church in America has also significant, 112 congregations and 23,000 adherents, the EPC has around 50 congregations, as well as ECO. The next largest [[Protestantism|Protestant]] denomination, the [[United Church of Christ]], has 180,000 members and 627 congregations. [[American Baptist Churches USA]] ([[Northern Baptist Convention]]) is based in [[King of Prussia, Pennsylvania]].
+
+Pennsylvania was the center state of the [[German Reformed]] denomination since the 1700s.<ref name="www.thearda.com">{{cite web|url=http://www.thearda.com/rcms2010/r/s/42/rcms2010_42_state_adh_2010.asp |title=The Association of Religion Data Archives &#124; State Membership Report |publisher=www.thearda.com |accessdate=December 5, 2013}}</ref> [[Bethlehem, Pennsylvania]], is one of the headquarters of the [[Moravian Church]] in America. Pennsylvania also has a very large [[Amish]] population, second only to [[Ohio]] among the states.<ref>{{cite web|author=Webb Design Inc. |url=http://www.visitamishcountry.com/ |title=Amish Country &#124; Ohio &#124; Visitor Information |publisher=Visitamishcountry.com |accessdate=July 31, 2010}}</ref> In the year 2000 there was a total Amish population of 47,860 in Pennsylvania and a further 146,416 [[Mennonite]]s and 91,200 [[Schwarzenau Brethren|Brethren]]. The total Anabapist population including [[Bruderhof Communities|Bruderhof]]<ref>{{cite web|url=http://qcfamilytree.org/a-visit-to-spring-valley-bruderhof/|title=A visit to Spring Valley Bruderhof {{!}}|website=qcfamilytree.org|language=en-US|access-date=May 25, 2017}}</ref> was 232,631, about 2 percent of the population.<ref>Donald B. Kraybill and C. Nelson Hostetter: ''Anabaptist World USA'', Scottdale, PA and Waterloo, Ontario, 2001, pages 200–201.</ref> While Pennsylvania owes its existence to [[Quakers]], and much of the historic character of the Commonwealth is ideologically rooted in the teachings of the [[Religious Society of Friends]] (as they are officially known), practicing Quakers are a small minority of about 10,000 adherents in 2010.<ref>{{cite web|url=http://www.thearda.com/ql2010/QL_S_2010_2_1076c.asp|title=Friends General Conference States (2010) – QuickLists – The Association of Religion Data Archives|website=www.thearda.com}}</ref>
+
+{{As of|2014}}, the religious affiliations of the people of Pennsylvania are:<ref name="Pew Religion and Politics" />
+* Christianity – 73%
+** [[Protestantism|Protestant]] – 47%
+*** [[Mainline (Protestant)|Mainline Protestant]] – 23%
+*** [[Evangelicalism|Evangelical Protestant]] – 19%
+*** [[Black church|Black Protestant]] – 5%
+** [[Roman Catholic Church|Roman Catholic]] – 24%
+** [[Jehovah's Witnesses]] – 1%
+** [[Orthodox Church|Orthodox Christian]] – <1%
+* [[Non-religious]]/[[Irreligion|Unaffiliated]] – 21%
+* Judaism – 0.8%
+* Islam - 0.6%
+* Hinduism – 1%
+* Other religions – 2%
+* Don't know/Refused to say – 1%
+
+According to a 2016 [[The Gallup Organization|Gallup]] poll, 38% of Pennsylvanians are very religious, 29% are moderately religious, and 34% are non-religious.<ref>{{cite web|url=http://news.gallup.com/poll/189038/new-hampshire-least-religious-state.aspx|title=New Hampshire Now Least Religious State in U.S|author=Gallup|first=|date=February 4, 2016|website=|publisher=Gallup, Inc.|accessdate=February 11, 2018}}</ref>
+
+==Economy==
+{{See also|List of Pennsylvania counties by per capita income|List of Pennsylvania locations by per capita income}}
+{{multiple image
+ | align     = right
+ | direction = vertical
+ | header    =
+ | header_align = top/bottom
+ | header_background =
+ | footer    = Pennsylvania was home of two of the largest steel producers in the world; [[Pittsburgh]]-based [[U.S. Steel]] and [[Bethlehem, Pennsylvania|Bethlehem]]-based [[Bethlehem Steel]]. The former blast furnace sites have either been destroyed, [[List of preserved historic blast furnaces|preserved]], or in the case of Bethlehem, became a new multi-million dollar [[Sands Casino Resort Bethlehem|Sands Casino Resort]] in 2009.
+ | footer_align = top/bottom
+ | footer_background =
+ | width1    = 250
+ | image1    = Carrie Furnace030.jpg
+ | caption1  =
+ | width2    = 250
+ | image2    = Bethlehem Steel.jpg
+ | caption2  =
+}}
+[[File:Sorry We're Open - sign. Philadelphia.JPG|thumb|upright=1.35|left|"Sorry We're Open" sign, [[West Chester, Pennsylvania|West Chester]]]]
+Pennsylvania's 2016 total [[gross state product]] (GSP) of $719.8 billion ranks the state 6th in the nation.<ref name="stategdp">{{cite web|url=https://www.bea.gov/iTable/drilldown.cfm?reqid=70&stepnum=11&AreaTypeKeyGdp=1&GeoFipsGdp=XX&ClassKeyGdp=NAICS&ComponentKey=1000&IndustryKey=1&YearGdp=2016&YearGdpBegin=-1&YearGdpEnd=-1&UnitOfMeasureKeyGdp=Levels&RankKeyGdp=1&Drill=1&nRange=5|title=Regional Economic Accounts|last=|first=|date=|website=|accessdate=Jan 4, 2018}}</ref> If Pennsylvania were an independent country, its economy would rank as the 19th-largest in the world.<ref>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=32&pr.y=19&sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512,672,914,946,612,137,614,546,311,962,213,674,911,676,193,548,122,556,912,678,313,181,419,867,513,682,316,684,913,273,124,868,339,921,638,948,514,943,218,686,963,688,616,518,223,728,516,558,918,138,748,196,618,278,624,692,522,694,622,142,156,449,626,564,628,565,228,283,924,853,233,288,632,293,636,566,634,964,238,182,662,359,960,453,423,968,935,922,128,714,611,862,321,135,243,716,248,456,469,722,253,942,642,718,643,724,939,576,644,936,819,961,172,813,132,199,646,733,648,184,915,524,134,361,652,362,174,364,328,732,258,366,656,734,654,144,336,146,263,463,268,528,532,923,944,738,176,578,534,537,536,742,429,866,433,369,178,744,436,186,136,925,343,869,158,746,439,926,916,466,664,112,826,111,542,298,967,927,443,846,917,299,544,582,941,474,446,754,666,698,668&s=NGDPD&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org|language=en-US|access-date=2018-01-04}}</ref> On a per-capita basis, Pennsylvania's 2016 per-capita GSP of $50,665 (in chained 2009 dollars) ranks 22nd among the 50 states.<ref name=stategdp/>
+
+[[File:Geo Map of Income by Location in Pennsylvania.png|thumb|left|Geo map of average income by location in Pennsylvania. Data shown is from the 2014 American Community Survey 5-year estimate.]]
+
+[[Philadelphia]] in the southeast corner, [[Pittsburgh]] in the southwest corner, [[Erie]] in the northwest corner, [[Wyoming Valley|Scranton-Wilkes-Barre]] in the northeast corner, and [[Allentown-Bethlehem-Easton]] in the east central region are urban manufacturing centers. Much of the Commonwealth is rural; this dichotomy affects state politics as well as the state economy.<ref>[http://www.phillyburbs.com/pb-dyn/news/103-11042003-190258.html Appeals court races wrap up with focus on voter mobilization] {{webarchive |url=https://web.archive.org/web/20050113215908/http://www.phillyburbs.com/pb-dyn/news/103-11042003-190258.html |date=January 13, 2005 }}</ref> Philadelphia is home to six [[Fortune 500]] companies,<ref name=F500>{{cite news|url=http://money.cnn.com/magazines/fortune/fortune500/2007/states/PA.html |title=Fortune 500 |publisher=CNN |date=April 30, 2007 |accessdate=July 31, 2010}}</ref> with more located in suburbs like [[King of Prussia, Pennsylvania|King of Prussia]]; it is a leader in the financial<ref>{{cite web|url=http://www.phlx.com/ |title=Philadelphia stock exchange |publisher=Phlx.com |date=July 23, 2010 |accessdate=July 31, 2010}}</ref> and insurance industry.
+
+Pittsburgh is home to eight [[Fortune 500]] companies, including [[U.S. Steel]], [[PPG Industries]], and [[H.J. Heinz]].<ref name=F500 /> In all, Pennsylvania is home to fifty Fortune 500 companies.<ref name=F500 />
+Erie is also home to [[GE Transportation Systems]], which is the largest producer of train locomotives in the United States.
+
+As in the US as a whole and in most states, the largest private employer in the Commonwealth is [[Wal-Mart]], followed by the [[University of Pennsylvania]].<ref>{{cite web|last=Ramos |first=Stephanie |url=http://www.dailypennsylvanian.com/node/27453 |archive-url=https://archive.is/20120503100137/http://www.dailypennsylvanian.com/node/27453 |dead-url=yes |archive-date=May 3, 2012 |title=Wal-Mart tops Pa. list of largest private employers |publisher=Dailypennsylvanian.com |date=October 25, 2002 |accessdate=July 31, 2010 }}</ref><ref>{{cite web|url=http://www.paworkstats.state.pa.us/admin/gsipub/htmlarea/uploads/pasep_t50.pdf |title=Pennsylvania Top 50 Employers |publisher=Commonwealth of Pennsylvania |date=March 28, 2011 |accessdate=July 2, 2011 |deadurl=yes |archiveurl=https://www.webcitation.org/5zzY0lHAq?url=http://www.paworkstats.state.pa.us/admin/gsipub/htmlarea/uploads/pasep_t50.pdf |archivedate= July 7, 2011 }}</ref> Pennsylvania is also home to the oldest investor-owned utility company in the US, [[The York Water Company]].
+
+As of November 2018, the state's unemployment rate is 4.2%.<ref>{{cite web|url=https://www.bls.gov/regions/mid-atlantic/pennsylvania.htm|title=Pennsylvania Economy at a Glance|last=|first=|date=|website=|publisher=bls.gov|accessdate=Jan 4, 2018}}</ref>
+{| class="wikitable"
+|+
+!Year
+!2005
+!2006
+!2007
+!2008
+!2009
+!2010
+!2011
+!2012
+!2013
+!2014
+!2015
+!2016
+|-
+|GDP in mil. US$<ref>{{Cite web|url=https://www.deptofnumbers.com/gdp/pennsylvania/#gdp|title=Pennsylvania GDP and Per-Capita GDP {{!}} Department of Numbers|website=www.deptofnumbers.com|access-date=2019-01-11}}</ref>
+|506.505
+|525.979
+|559.876
+|579.432
+|573.964
+|596.662
+|615.411
+|637.896
+|659.792
+|684.781
+|708.402
+|724.936
+|-
+|GDP per capita in real 2009 US$<ref>{{Cite web|url=https://www.deptofnumbers.com/gdp/pennsylvania/#gdp|title=Pennsylvania GDP and Per-Capita GDP {{!}} Department of Numbers|website=www.deptofnumbers.com|access-date=2019-01-11}}</ref>
+|45,035
+|45,021
+|46,330
+|46,862
+|45,312
+|46,387
+|46,872
+|47,540
+|48,278
+|49,155
+|50,418
+|50,997
+|-
+|Real growth rate in %<ref>{{Cite web|url=https://www.statista.com/statistics/306785/pennsylvania-gdp-growth/|title=Pennsylvania: real GDP growth 2000-2017 {{!}} Statistic|website=Statista|language=en|access-date=2019-01-11}}</ref>
+|1.3%
+|0.5%
+|3.3%
+|1.5%
+|−2.9%
+|2.7%
+|1.3%
+|1.6%
+|1.6%
+|2.0%
+|2.6%
+|0.9%
+|-
+|unemployment rate (in July)<ref>{{Cite web|url=https://data.bls.gov/cgi-bin/dbdown?REQUEST_ERROR_MESSAGE|title=Notice: Data not available: U.S. Bureau of Labor Statistics|website=data.bls.gov|access-date=2019-01-11}}</ref>
+|4.9%
+|4.7%
+|4.4%
+|5.2%
+|8.2%
+|8.3%
+|8.0%
+|7.9%
+|7.3%
+|5.8%
+|5.3%
+|5.5%
+|}
+
+===Banking===
+The first nationally chartered bank in the United States, the [[Bank of North America]], was founded in 1781 in Philadelphia. After a series of mergers, the Bank of North America is part of [[Wells Fargo]], which uses national charter 1.
+
+Pennsylvania is also the home to the first nationally chartered bank under the 1863 [[National Banking Act]]. That year, the Pittsburgh Savings & Trust Company received a national charter and renamed itself the First National Bank of Pittsburgh as part of the National Banking Act. That bank is still in existence today as [[PNC Financial Services]] and remains based in Pittsburgh. PNC is the state's largest bank, and the sixth-largest in the United States.
+
+===Agriculture===
+{{main|Agriculture in Pennsylvania}}
+'''Pennsylvania ranks 19th overall in agricultural production'''.<ref name=ag>[http://www.nass.usda.gov/census/census02/profiles/pa/cp99042.PDF Agricultural Census 2002] {{webarchive |url=https://web.archive.org/web/20080414005319/http://www.nass.usda.gov/census/census02/profiles/pa/cp99042.PDF |date=April 14, 2008 }}</ref>
+* The 1st is [[fungiculture|mushroom]] production,
+* The 2nd is apples,
+* The 3rd is [[Christmas tree]]s and [[Egg (food)|layer chickens]],
+* The 4th is [[Nursery (horticulture)|nursery]] and [[sod]], milk, [[maize|corn]] for [[silage]], grapes grown (including [[Grape juice|juice grapes]]), and horses production.
+
+It also ranks 8th in the nation in [[Winemaking]].<ref name=PAwine>{{cite web|url=http://www.pennsylvaniawine.com/Facts.aspx |title=Pennylvania Wine facts |publisher=Pennsylvania Wine & Wineries |deadurl=yes |archiveurl=https://web.archive.org/web/20090223213434/http://pennsylvaniawine.com/Facts.aspx |archivedate=February 23, 2009 |df=mdy-all }}{{Need Citation|date=September 2014}}</ref>
+
+The [[Pennsylvania Department of Agriculture]] worked with private companies to establish "PA Preferred" as a way to brand agricultural products grown or made in the state to support and promote Pennsylvania products and locally-grown food.<ref>{{cite news|url=http://www.pennlive.com/food/index.ssf/2014/01/pa_preferred_pa_farm_show_pa_m.html |title=What is PA Preferred? Just a pretty logo or a way to build a brand? |work=[[The Patriot-News]] |date=January 8, 2014}}</ref>
+
+The financial impact of agriculture in Pennsylvania<ref>{{cite web|url=http://cidepiqc.com/partners/state-of-pennsylvania/agribusiness/ |title=Agribusiness |website=CIDEP – Investment Attraction & Business Leads Generation |accessdate=October 7, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140910202950/http://cidepiqc.com/partners/state-of-pennsylvania/agribusiness/ |archivedate=September 10, 2014 |df= }}</ref> includes employment of more than 66,800 people employed by the food [[manufacturing]] industry; and over $1.7 billion in food product [[export]] (in 2011).
+
+===Gambling===
+{{main|Gambling in Pennsylvania}}
+Casino gambling was legalized in Pennsylvania in 2004. Currently, there are nine casinos across the state with three under construction or in planning. Only horse racing, slot machines and electronic table games were legal in Pennsylvania, although a bill to legalize [[table games]] was being negotiated in the fall of 2009.<ref>[http://www.kyw1060.com/Pa--Lawmakers-Consider-Table-Games--More-Small-Cas/5763077] {{webarchive |url=https://web.archive.org/web/20091128081600/http://www.kyw1060.com/Pa--Lawmakers-Consider-Table-Games--More-Small-Cas/5763077 |date=November 28, 2009 }}</ref> Table games such as poker, roulette, blackjack and craps were finally approved by the state legislature in January 2010, being signed into law by the Governor on January 7. 
+
+Former Governor [[Ed Rendell]] had considered legalizing video poker machines in bars and private clubs in 2009, since an estimated 17,000 operate illegally across the state.<ref>{{cite news|url=http://www.post-gazette.com/pg/09035/946691-85.stm |title=Rendell wants legal video poker |publisher=Post-gazette.com |date=February 4, 2009 |accessdate=July 31, 2010 | first1=Tom | last1=Barnes | first2=Gary | last2=Rotstein}}</ref> Under this plan, any establishment with a liquor license would be allowed up to 5 machines. All machines would be connected to the state's computer system, like commercial casinos. The state would impose a 50% tax on net gambling revenues, after winning players have been paid, with the remaining 50% going to the establishment owners.
+
+===Film===
+The [[Pennsylvania Film Production Tax Credit]] began in 2004 and stimulated the development of a film industry in the state.<ref name="bizjournal">{{Cite news |title=Rendell signs film production tax credit law |newspaper=[[Philadelphia Business Journal]] |date=July 21, 2004  |url=http://philadelphia.bizjournals.com/philadelphia/stories/2004/07/19/daily26.html }}</ref>
+
+==Governance==
+{{Main|Government of Pennsylvania}}
+{{See also|Commonwealth (U.S. state)}}
+Pennsylvania has had five [[Pennsylvania Constitution|constitutions]] during its statehood:<ref name=jenkinslaw>{{cite web|author=Jenkins Law Library |url=http://www.jenkinslaw.org/collection/researchguides/publications/ann-constitutions.php |title=23 Pennsylvania Law Weekly 324 (March 27, 2000) |publisher=Jenkinslaw.org |accessdate=July 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100113203057/http://www.jenkinslaw.org/collection/researchguides/publications/ann-constitutions.php |archivedate=January 13, 2010 |df= }}</ref> 1776, 1790, 1838, 1874, and [http://sites.state.pa.us/PA_Constitution.html 1968]. Before that the province of Pennsylvania was governed for a century by a [[Frame of Government of Pennsylvania|Frame of Government]], of which there were four versions: 1682, 1683, 1696, and 1701.<ref name=jenkinslaw /> The capital of Pennsylvania is [[Harrisburg, Pennsylvania|Harrisburg]]. The legislature meets in the State Capitol there.
+
+===Executive===
+{{multiple image
+|align            =right
+|direction        =horizontal
+|caption_align    =center
+|image1           = Governor Tom Wolf official portrait 2015.jpg
+|width1           =128
+|caption1         =[[Tom Wolf]] [[Democratic Party (United States)|(D)]]<br/><small> 47th [[List of Governors of Pennsylvania|Governor]]<br/>Since January 20, 2015</small>
+|image2           =John Fetterman Lieutenant Governor Inauguration.jpg|150x150px
+|width2           =127
+|caption2         =[[John Fetterman (politician)|John Fetterman]] (D)<br/><small> 34th [[Lieutenant Governor of Pennsylvania|Lt. Governor]]<br/>Since January 15, 2019</small>
+}}
+{{Main|List of Governors of Pennsylvania}}
+
+The current Governor is [[Tom Wolf]]. The other elected officials composing the executive branch are the [[Lieutenant Governor of Pennsylvania|Lieutenant Governor]] [[John Fetterman (politician)|John Fetterman]], [[Pennsylvania Attorney General|Attorney General]] [[Joshua Shapiro]], [[Pennsylvania Auditor General|Auditor General]] [[Eugene DePasquale]], and [[Pennsylvania Treasurer]] [[Joe Torsella]]. The Governor and Lieutenant Governor run as a ticket in the general election and are up for re-election every four years during the midterm elections. The elections for Attorney General, Auditor General and Treasurer are held every four years coinciding with a Presidential election.<ref>"[https://ballotpedia.org/Pennsylvania_state_executive_offices#Current_officeholders Pennsylvania State Executive Offices]", Ballotpedia, retrieved January 23rd, 2019.</ref>{{See also|List of Pennsylvania state agencies}}
+
+===Legislative===
+[[File:Pennsylvania State Capitol Front Panorama.jpg|thumb|left|[[Pennsylvania State Capitol]] in [[Harrisburg, Pennsylvania|Harrisburg]]]]
+{{Main|Pennsylvania General Assembly}}
+Pennsylvania has a [[bicameral legislature]] set up by Commonwealth's constitution in 1790. The original Frame of Government of William Penn had a unicameral legislature.<ref>{{cite web|url=http://www.phmc.state.pa.us/BAH/dam/rg/rg7.htm |title=Pennsylvania State Archives |publisher=Phmc.state.pa.us |accessdate=July 31, 2010}}</ref> The [[Pennsylvania General Assembly|General Assembly]] includes 50 [[Pennsylvania Senate|Senators]] and 203 [[Pennsylvania House of Representatives|Representatives]]. [[Joseph B. Scarnati III|Joe Scarnati]] is currently [[President Pro Tempore]] of the State Senate, [[Jake Corman]] the [[Majority Leader]], and [[Jay Costa]] the [[Minority Leader]].<ref>{{cite web|url=https://www.legis.state.pa.us/cfdocs/legis/home/member_information/senate/officers.cfm |title=Officers of the Senate |access-date=January 23, 2019 |publisher=Pennsylvania Senate}}</ref> [[Mike Turzai]] is [[Speaker of the Pennsylvania House of Representatives|Speaker]] of the House of Representatives, with [[Bryan Cutler]] as Majority Leader and [[Frank Dermody]] as Minority Leader.<ref>{{cite web|url=https://www.legis.state.pa.us/cfdocs/legis/home/member_information/house/officers.cfm |title=Officers of the House |access-date= January 23, 2019 |publisher=Pennsylvania House of Representatives}}</ref> As of the [[Pennsylvania House of Representatives election, 2018|2018 elections]], the Republicans hold the majority in the State House and Senate.
+
+===Judiciary===
+{{Main|Unified Judicial System of Pennsylvania}}
+Pennsylvania is divided into 60 judicial districts,<ref name=courts>{{cite web|url=http://www.aopc.org/T/CommonPleas/listofcounties.htm |title=Judicial districts |publisher=Aopc.org |accessdate=July 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100720213457/http://www.aopc.org/T/CommonPleas/listofcounties.htm |archivedate=July 20, 2010 |df= }}</ref> most of which (except [[Philadelphia County, Pennsylvania|Philadelphia]]) have magisterial district judges (formerly called district justices and justices of the peace), who preside mainly over preliminary hearings in felony and misdemeanor offenses, all minor (summary) criminal offenses, and small civil claims.<ref name=courts /> Most criminal and civil cases originate in the Courts of Common Pleas, which also serve as [[appellate court]]s to the district judges and for local agency decisions.<ref name=courts/> The [[Superior Court of Pennsylvania|Superior Court]] hears all appeals from the Courts of Common Pleas not expressly designated to the [[Commonwealth Court of Pennsylvania|Commonwealth Court]] or Supreme Court. It also has [[original jurisdiction]] to review [[Warrant (law)|warrants]] for [[Telephone tapping|wiretap]] surveillance.<ref name=courts/> The Commonwealth Court is limited to appeals from final orders of certain state agencies and certain designated cases from the Courts of Common Pleas.<ref name=courts/> The [[Supreme Court of Pennsylvania]] is the final appellate court. All judges in Pennsylvania are elected; the [[chief justice]] is determined by seniority.<ref name=courts/>
+
+===State Law Enforcement===
+The [[Pennsylvania State Police]] is the chief law enforcement agency in the Commonwealth of Pennsylvania.
+
+===Municipalities===
+{{See also|List of counties in Pennsylvania|List of cities in Pennsylvania|List of towns and boroughs in Pennsylvania|List of townships in Pennsylvania||List of county seats in Pennsylvania (by population)|List of census-designated places in Pennsylvania|List of populated places in Pennsylvania}}
+[[File:Allentown.jpg|thumb|upright=1.25|[[Allentown, Pennsylvania]], 2010]]
+
+Pennsylvania is divided into 67&nbsp;[[county (United States)|counties]].<ref name="PA Manual 6-3">''The Pennsylvania Manual'', p. 6-3.</ref> Counties are further subdivided into municipalities that are either incorporated as cities, [[Borough (Pennsylvania)|boroughs]], or [[Township (Pennsylvania)|townships]].<ref name="PA Manual 6-5">''Pennsylvania Manual'', p. 6-5.</ref> One county, [[Philadelphia County, Pennsylvania|Philadelphia County]], is coterminous with the city of Philadelphia after it was [[Act of Consolidation, 1854|consolidated in 1854]]. The most populous county in Pennsylvania is Philadelphia, while the least populous is [[Cameron County, Pennsylvania|Cameron]] (5,085).<ref name="pasdc.hbg.psu.edu"/>
+
+There are a total of 56&nbsp;cities in Pennsylvania, which are classified, by population, as either first-, second-, or third-class cities.<ref name="PA Manual 6-3"/><ref>''The Pennsylvania Manual'', p. 6-46.</ref> Philadelphia, Pennsylvania's largest city, has a population of 1,526,006 and is the state's only first-class city.<ref name="PA Manual 6-5"/> [[Pittsburgh]] (305,704) and [[Scranton, Pennsylvania|Scranton]] (76,089) are second-class and second-class 'A' cities, respectively.<ref name="PA Manual 6-5"/>
+
+The rest of the cities, like the third and fourth-largest—[[Allentown, Pennsylvania|Allentown]] (120,443) and [[Erie, Pennsylvania|Erie]] (98,593)—to the smallest—[[Parker, Pennsylvania|Parker]] with a population of only 820—are third-class cities.<ref>{{cite web|title=Annual Estimates of the Resident Population for Incorporated Places in Pennsylvania |year=2010 |website=Population Estimates |publisher=[[United States Census Bureau]] |url=https://www.census.gov/popest/cities/tables/SUB-EST2009-04-42.xls |archive-url=https://web.archive.org/web/20110709111603/http://www.census.gov/popest/cities/tables/SUB-EST2009-04-42.xls |dead-url=yes |archive-date=July 9, 2011 |format=[[Microsoft Excel|XLS]] |accessdate=July 4, 2010 |df=mdy-all }}</ref> First- and second-class cities are governed by a "strong mayor" form of [[mayor–council government]], whereas third-class cities are governed by either a "weak mayor" form of government or a [[council–manager government]].<ref name="PA Manual 6-5"/>
+
+Boroughs are generally smaller than cities, with most Pennsylvania cities having been incorporated as a borough before being incorporated as a city.<ref name="PA Manual 6-5"/> There are 958&nbsp;boroughs in Pennsylvania, all of which are governed by the "weak mayor" form of mayor–council government.<ref name="PA Manual 6-3"/><ref name="PA Manual 6-5"/> The largest borough in Pennsylvania is [[State College, Pennsylvania|State College]] (41,992) and the smallest is [[Centralia, Pennsylvania|Centralia]] (7).
+
+Townships are the third type of municipality in Pennsylvania and are classified as either first-class or second-class townships. There are 1,454&nbsp;second-class townships and 93&nbsp;first-class townships.<ref name="PA Manual 6-6">''The Pennsylvania Manual'', p. 6-6.</ref> Second-class township can become first-class townships if it has a population density greater than {{Convert|300|PD/sqmi}} and a [[referendum]] is passed supporting the change.<ref name="PA Manual 6-6"/> Pennsylvania's largest township is [[Upper Darby Township, Delaware County, Pennsylvania|Upper Darby Township]] (82,629), and the smallest is [[East Keating Township, Clinton County, Pennsylvania|East Keating Township]] (11).
+
+There is one exception to the types of municipalities in Pennsylvania: [[Bloomsburg, Pennsylvania|Bloomsburg]] was incorporated as a town in 1870 and is, officially, the only town in the state.<ref>''The Pennsylvania Manual'', p. 6-22.</ref> In 1975, [[McCandless Township, Allegheny County, Pennsylvania|McCandless Township]] adopted a home-rule charter under the name of "Town of McCandless", but is, legally, still a first-class township.<ref>Title 302, [[Pennsylvania Code]], Section 23.1–101.</ref>
+
+The total of 56 cities, 958 boroughs, 93 first-class townships, 1,454 second-class townships, and one town (Bloomsburg) is 2,562 municipalities.
+
+{{See also|List of municipalities in Pennsylvania}}
+{{Largest cities
+| name         = Largest cities
+| country      = Pennsylvania
+| stat_ref     = Source:<ref>{{cite web|url=https://www.biggestuscities.com/pa|title=
+Biggest US Cities By Population - Pennsylvania|date=January 10, 2019|publisher=Pennsylvania 2017 Populations|accessdate=January 10, 2019}}</ref>
+| list_by_pop  =
+| class        = nav
+| div_name     =
+| div_link     = Counties of Pennsylvania{{!}}County
+| city_1 = Philadelphia, Pennsylvania{{!}}Philadelphia
+| div_1 = Philadelphia County, Pennsylvania{{!}}Philadelphia
+| pop_1 = 1,580,863
+| img_1 = Philadelphia skyline from south street bridge.jpg
+| city_2 = Pittsburgh, Pennsylvania{{!}}Pittsburgh
+| div_2 = Allegheny County, Pennsylvania{{!}}Allegheny
+| pop_2 = 302,407
+| img_2 = Pittsburgh Skyline from West End Overlook 01.jpg
+| city_3 = Allentown, Pennsylvania{{!}}Allentown
+| div_3 = Lehigh County, Pennsylvania{{!}}Lehigh
+| pop_3 = 121,283
+| img_3 = Allentown.jpg
+| city_4 = Erie, Pennsylvania{{!}}Erie
+| div_4 = Erie County, Pennsylvania{{!}}Erie
+| pop_4 = 97,369
+| img_4 = West 21st Street Historic District Erie PA Apr 13.jpg
+| city_5 = Reading, Pennsylvania{{!}}Reading
+| div_5 = Berks County, Pennsylvania{{!}}Berks
+| pop_5 = 88,423
+| img_5 =
+| city_6 = Scranton, Pennsylvania{{!}}Scranton
+| div_6 = Lackawanna County, Pennsylvania{{!}}Lackawanna
+| pop_6 = 77,605
+| img_6 =
+| city_7 = Bethlehem, Pennsylvania{{!}}Bethlehem
+| div_7 = Northampton County, Pennsylvania{{!}}Northampton
+| pop_7 = 75,707
+| img_7 =
+| city_8 = Lancaster, Pennsylvania{{!}}Lancaster
+| div_8 = Lancaster County, Pennsylvania{{!}}Lancaster
+| pop_8 = 59,708
+| img_8 =
+| city_9 = Levittown, Pennsylvania{{!}}Levittown
+| div_9 = Bucks County, Pennsylvania{{!}}Bucks
+| pop_9 = 52,400
+| img_9 =
+| city_10 = Harrisburg, Pennsylvania{{!}}Harrisburg
+| div_10 = Dauphin County, Pennsylvania{{!}}Dauphin
+| pop_10 = 49,192
+| img_10 =
+| city_11 = York, Pennsylvania{{!}}York
+| div_11 = York County, Pennsylvania{{!}}York
+| pop_11 = 44,132
+| img_11 =
+| city_12 = Altoona, Pennsylvania{{!}}Altoona
+| div_12 = Blair County, Pennsylvania{{!}}Blair
+| pop_12 = 44,098
+| img_12 =
+| city_13 = State College, Pennsylvania{{!}}State College
+| div_13 = Centre County, Pennsylvania{{!}}Centre
+| pop_13 = 42,430
+| img_13 =
+| city_14 = Wilkes-Barre, Pennsylvania{{!}}Wilkes-Barre
+| div_14 = Luzerne County, Pennsylvania{{!}}Luzerne
+| pop_14 = 40,806
+| img_14 =
+| city_15 = Norristown, Pennsylvania{{!}}Norristown
+| div_15 = Montgomery County, Pennsylvania{{!}}Montgomery
+| pop_15 = 34,510
+| img_15 =
+| city_16 = Chester, Pennsylvania{{!}}Chester
+| div_16 = Delaware County, Pennsylvania{{!}}Delaware
+| pop_16 = 34,077
+| img_16 =
+| city_17 = Bethel Park, Pennsylvania{{!}}Bethel Park
+| div_17 = Allegheny County, Pennsylvania{{!}}Allegheny
+| pop_17 = 32,404
+| img_17 =
+| city_18 = Williamsport, Pennsylvania{{!}}Williamsport
+| div_18 = Lycoming County, Pennsylvania{{!}}Lycoming
+| pop_18 = 28,462
+| img_18 =
+| city_19 = Monroeville, Pennsylvania{{!}}Monroeville
+| div_19 = Allegheny County, Pennsylvania{{!}}Allegheny
+| pop_19 = 27,716
+| img_19 =
+| city_20 = Drexel Hill, Pennsylvania{{!}}Drexel Hill
+| div_20 = Delaware County, Pennsylvania{{!}}Delaware
+| pop_20 = 27,900
+| img_20 =
+}}
+
+===Politics===
+{{further|Political party strength in Pennsylvania}}
+{| class="wikitable" style="float:right; margin:1em; font-size:95%;"
+|+ Pennsylvania vote|Gubernatorial election results<ref name="Leip, David">{{cite web|url=http://uselectionatlas.org/RESULTS/|title=General Election Results – Pennsylvania|publisher=[[Dave Leip's Atlas of U.S. Presidential Elections]]|accessdate=November 18, 2016 |author=Leip, David}}</ref>
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (Pennsylvania)|Democratic]]
+! [[Republican Party (Pennsylvania)|Republican]]
+|-
+| {{Party shading/Republican}}|[[Pennsylvania gubernatorial election, 1950|1950]]
+| {{Party shading/Democratic}}| 48.3% ''1,710,355''
+| {{Party shading/Republican}}| '''50.7%''' ''1,796,119''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 1954|1954]]
+| {{Party shading/Democratic}}| '''53.7%''' ''1,996,266''
+| {{Party shading/Republican}}| 46.2% ''1,717,070''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 1958|1958]]
+| {{Party shading/Democratic}}| '''50.8%''' ''2,024,852''
+| {{Party shading/Republican}}| 48.9% ''1,948,769''
+|-
+| {{Party shading/Republican}}|[[Pennsylvania gubernatorial election, 1962|1962]]
+| {{Party shading/Democratic}}| 44.3% ''1,938,627''
+| {{Party shading/Republican}}| '''55.3%''' ''2,424,918''
+|-
+| {{Party shading/Republican}}|[[Pennsylvania gubernatorial election, 1966|1966]]
+| {{Party shading/Democratic}}| 46.1% ''1,868,719''
+| {{Party shading/Republican}}| '''52.1%''' ''2,110,349''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 1970|1970]]
+| {{Party shading/Democratic}}| '''55.2%''' ''2,043,029''
+| {{Party shading/Republican}}| 41.7% ''1,542,854''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 1974|1974]]
+| {{Party shading/Democratic}}| '''53.7%''' ''1,878,252''
+| {{Party shading/Republican}}| 45.1% ''1,578,917''
+|-
+| {{Party shading/Republican}}|[[Pennsylvania gubernatorial election, 1978|1978]]
+| {{Party shading/Democratic}}| 46.4% ''1,737,888''
+| {{Party shading/Republican}}| '''52.5%''' ''1,996,042''
+|-
+| {{Party shading/Republican}}|[[Pennsylvania gubernatorial election, 1982|1982]]
+| {{Party shading/Democratic}}| 48.1% ''1,772,353''
+| {{Party shading/Republican}}| '''50.8%''' ''1,872,784''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 1986|1986]]
+| {{Party shading/Democratic}}| '''50.4%''' ''1,717,484''
+| {{Party shading/Republican}}| 48.4% ''1,638,268''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 1990|1990]]
+| {{Party shading/Democratic}}| '''67.7%''' ''2,065,244''
+| {{Party shading/Republican}}| 32.4% ''987,516''
+|-
+| {{Party shading/Republican}}|[[Pennsylvania gubernatorial election, 1994|1994]]
+| {{Party shading/Democratic}}| 39.9% ''1,430,099''
+| {{Party shading/Republican}}| '''45.4%''' ''1,627,976''
+|-
+| {{Party shading/Republican}}|[[Pennsylvania gubernatorial election, 1998|1998]]
+| {{Party shading/Democratic}}| 31.0% ''938,745''
+| {{Party shading/Republican}}| '''57.4%''' ''1,736,844''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 2002|2002]]
+| {{Party shading/Democratic}}| '''53.4%''' ''1,913,235''
+| {{Party shading/Republican}}| 44.4% ''1,589,408''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 2006|2006]]
+| {{Party shading/Democratic}}| '''60.3%''' ''2,470,517''
+| {{Party shading/Republican}}| 39.6% ''1,622,135''
+|-
+| {{Party shading/Republican}}|[[Pennsylvania gubernatorial election, 2010|2010]]
+| {{Party shading/Democratic}}| 45.5% ''1,814,788''
+| {{Party shading/Republican}}| '''54.5%''' ''2,172,763''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 2014|2014]]
+| {{Party shading/Democratic}}| '''54.9%''' ''1,920,355''
+| {{Party shading/Republican}}| 45.1% ''1,575,511''
+|-
+| {{Party shading/Democratic}}|[[Pennsylvania gubernatorial election, 2018|2018]]
+| {{Party shading/Democratic}}| '''57.7%''' ''2,850,210''
+| {{Party shading/Republican}}| 40.8% ''2,015,266''
+|-
+|}
+{| class="wikitable"  style="float:right; margin:1em; font-size:95%;"
+|+ Pennsylvania vote|Presidential election results<ref name="Leip, David"/>
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (United States)|Democratic]]
+! [[Republican Party (United States)|Republican]]
+|-
+| {{party shading/Republican}} | [[United States presidential election in Pennsylvania, 1952|1952]]
+| {{party shading/Democratic}} | 46.9% ''2,146,269''
+| {{party shading/Republican}} | '''52.7%''' ''2,415,789''
+|-
+| {{party shading/Republican}} | [[United States presidential election in Pennsylvania, 1956|1956]]
+| {{party shading/Democratic}} | 43.3% ''1,981,769''
+| {{party shading/Republican}} | '''56.5%''' ''2,585,252''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 1960|1960]]
+| {{party shading/Democratic}} | '''51.1%''' ''2,556,282''
+| {{party shading/Republican}} | 48.7% ''2,439,956''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 1964|1964]]
+| {{party shading/Democratic}} | '''64.9%''' ''3,130,954''
+| {{party shading/Republican}} | 34.7% ''1,673,657''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 1968|1968]]
+| {{party shading/Democratic}} | '''47.6%''' ''2,259,405''
+| {{party shading/Republican}} | 44.0% ''2,090,017''
+|-
+| {{party shading/Republican}} | [[United States presidential election in Pennsylvania, 1972|1972]]
+| {{party shading/Democratic}} | 39.1% ''1,796,951''
+| {{party shading/Republican}} | '''59.1%''' ''2,714,521''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 1976|1976]]
+| {{party shading/Democratic}} | '''50.4%''' ''2,328,677''
+| {{party shading/Republican}} | 47.7% ''2,205,604''
+|-
+| {{party shading/Republican}} | [[United States presidential election in Pennsylvania, 1980|1980]]
+| {{party shading/Democratic}} | 42.5% ''1,937,540''
+| {{party shading/Republican}} | '''49.6%''' ''2,261,872''
+|-
+| {{party shading/Republican}} | [[United States presidential election in Pennsylvania, 1984|1984]]
+| {{party shading/Democratic}} | 46.0% ''2,228,131''
+| {{party shading/Republican}} | '''53.3%''' ''2,584,323''
+|-
+| {{party shading/Republican}} | [[United States presidential election in Pennsylvania, 1988|1988]]
+| {{party shading/Democratic}} | 48.4% ''2,194,944''
+| {{party shading/Republican}} | '''50.7%''' ''2,300,087''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 1992|1992]]
+| {{party shading/Democratic}} | '''45.2%''' ''2,239,164''
+| {{party shading/Republican}} | 36.1% ''1,791,841''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 1996|1996]]
+| {{party shading/Democratic}} | '''49.2%''' ''2,215,819''
+| {{party shading/Republican}} | 40.0% ''1,801,169''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 2000|2000]]
+| {{party shading/Democratic}} | '''50.6%''' ''2,485,967''
+| {{party shading/Republican}} | 46.4% ''2,281,127''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 2004|2004]]
+| {{party shading/Democratic}} | '''50.9%''' ''2,938,095''
+| {{party shading/Republican}} | 48.4% ''2,793,847''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 2008|2008]]
+| {{party shading/Democratic}} | '''54.5%''' ''3,276,363''
+| {{party shading/Republican}} | 44.2% ''2,655,885''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in Pennsylvania, 2012|2012]]
+| {{party shading/Democratic}} | '''52.0%''' ''2,990,274''
+| {{party shading/Republican}} | 46.6% ''2,680,434''
+|-
+| {{party shading/Republican}} | [[United States presidential election in Pennsylvania, 2016|2016]]
+| {{party shading/Democratic}} | 47.5% ''2,926,441''
+| {{party shading/Republican}} | '''48.2%''' ''2,970,733''
+|}
+[[File:United States presidential election in Pennsylvania, 2016.svg|thumb|left|[[Treemap]] of the popular vote by county, 2016 presidential election.]]
+
+For most of the second half of the 20th century and into the 21st century, Pennsylvania has been a powerful [[swing state]]. It only supported the losing candidate in a presidential election twice from 1932 to 1988. Since 1992, Pennsylvania has been trending Democratic in Presidential elections, voting for Bill Clinton twice by large margins, and slightly closer in 2000 for Al Gore. In the 2004 Presidential Election, Senator [[John F. Kerry]] beat President [[George W. Bush]] in Pennsylvania 2,938,095 (50.92%) to 2,793,847 (48.42%). In the [[United States presidential election, 2008|2008 Presidential Election]], Democrat [[Barack Obama]] defeated Republican [[John McCain]] in Pennsylvania, 3,184,778 (54%) to 2,584,088 (44%). Most recently, in the [[United States presidential election, 2016|2016 Presidential Election]], [[Donald Trump]] became the first Republican candidate to win the state since 1988, winning the state 48.6% to 47.8%.<ref>{{Cite news|url=http://lancasteronline.com/news/local/donald-trump-becomes-st-republican-to-win-pennsylvania-since/article_9173e044-a647-11e6-885f-a35dd164ac8c.html|title=Donald Trump becomes 1st Republican to win Pennsylvania since 1988|last=PRESS|first=ASSOCIATED|newspaper=LancasterOnline|access-date=November 13, 2016}}</ref> The state holds 20 [[Electoral college|electoral]] votes.<ref name="PAFacts">{{cite web|url=https://pasdc.hbg.psu.edu/sdc/pasdc_files/pastats/PAFacts_2017.pdf|title=Pennsylvania Facts 2017|last=|first=|date=|year=2017|website=|publisher=Pennsylvania State Data Center Penn State Harrisburg|format=PDF|accessdate=February 11, 2018}}</ref>
+
+In recent national elections, Pennsylvania has leaned [[Democratic Party (United States)|Democratic]]. The state voted for the Democratic ticket for president in every election between 1992 and 2012. During the 2008 election campaign a recruitment drive saw registered Democrats outnumber registered Republicans by 1.2 million. However, Pennsylvania has a history of electing Republican senators. From 2009 to 2011, the state was represented by two Democratic senators for the first time since 1947. In 2010, Republicans recaptured a U.S. Senate seat as well as a majority of the state's congressional seats, control of both chambers of the state legislature and the governor's mansion. Democrats won back the governor's mansion 4 years later in the [[Pennsylvania gubernatorial election, 2014|2014 election]]. It was the first time since a governor became eligible to succeed himself that an incumbent governor had been defeated for reelection.
+
+Historically, Democratic strength was concentrated in Philadelphia in the southeast, the Pittsburgh and [[Johnstown, Pennsylvania|Johnstown]] areas in the southwest, and [[Scranton]]/[[Wilkes-Barre]] in the northeast. Republican strength was concentrated in the Philadelphia suburbs, as well as the more rural areas in the central, northeastern, and western portions. The latter counties have long been among the most conservative areas in the nation. Since 1992, however, the Philadelphia suburbs have swung Democratic; the brand of Republicanism there was traditionally a moderate one. The Pittsburgh suburbs, historically a Democratic stronghold, have swung more Republican since the turn of the millennium.
+
+Democratic political consultant [[James Carville]] once pejoratively described Pennsylvania as "Philadelphia in the east, Pittsburgh in the west and Alabama in the middle". Political analysts and editorials refer to central Pennsylvania as the "T" in statewide elections. Philadelphia, Pittsburgh, and Scranton/Wilkes-Barre generally vote for Democratic candidates, while the majority of the counties in the central part of the state vote Republican. As a result, maps showing the results of statewide elections invariably form a "T" shape.
+
+====Taxation====
+Pennsylvania has the 10th-highest tax burden in the United States.<ref>{{cite web|url=http://taxfoundation.org/state-tax-climate/pennsylvania|title=The facts on Pennsylvania's Tax Climate|publisher=Tax Foundation|accessdate=August 22, 2012}}</ref> Residents pay a total of $83.7 billion in state and local taxes with a per capita average of $6,640 annually. Residents share 76% of the total tax burden. Many state politicians have tried to increase the share of taxes paid by out of state sources. Suggested revenue sources include taxing natural gas drilling as Pennsylvania is the only state without such a tax on gas drilling.<ref>{{cite web|url=http://articles.philly.com/2011-07-03/news/29733315_1_shale-tax-extraction-tax-drilling-tax |title=Shale tax comes up dry for 3d year |publisher=Articles.philly.com |date=July 3, 2011 |accessdate=September 19, 2011}}</ref> Additional revenue prospects include trying to place tolls on interstate highways; specifically [[Interstate 80 in Pennsylvania|Interstate 80]] which is used heavily by out of state commuters with high maintenance costs.<ref>{{cite web|url=http://www.tollroadsnews.com/node/4527 |title=Gov Rendell says all of Pennsylvania's transit agencies will get I-80 toll $s |publisher=TOLLROADSnews |date=January 6, 2010 |accessdate=September 19, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20120405231239/http://www.tollroadsnews.com/node/4527 |archivedate=April 5, 2012 |df= }}</ref>
+
+[[Sales tax]] provides 39% of Commonwealth's revenue; [[State income tax|personal income tax]] 34%; motor vehicle taxes about 12%, and taxes on [[Cigarette tax#Taxation|cigarettes]] and alcohol beverage 5%.<ref>[http://www.revenue.state.pa.us/revenue/CWP/view.asp?Q=261929&A=208 ''Revenue Department Releases August Collections (09/01/2006)''] {{webarchive |url=https://web.archive.org/web/20080515021138/http://www.revenue.state.pa.us/revenue/CWP/view.asp?Q=261929&A=208 |date=May 15, 2008 }}</ref> Personal income tax is a flat 3.07%. An individual's taxable income is based on the following eight types of income: compensation (salary); interest; dividends; net profits from the operation of a business, profession or farm; net gains or income from the dispositions of property; net gains or income from rents, royalties, patents and copyrights; income derived through estates or trusts; and gambling and [[lottery]] winnings (other than [[Pennsylvania Lottery]] winnings).<ref>{{cite web|url=http://www.portal.state.pa.us/portal/server.pt/community/personal_income_tax/11409 |title=Personal Income Tax |publisher=Portal.state.pa.us |accessdate=July 31, 2010}}</ref>
+
+Counties, municipalities, and [[school district]]s levy taxes on real estate. In addition, some local bodies assess a [[income tax|wage tax]] on personal income. Generally, the total wage tax rate is capped at 1% of income but some municipalities with [[home rule]] charters may charge more than 1%. Thirty-two of the Commonwealth's sixty-seven counties levy a [[property tax|personal property tax]] on stocks, bonds, and similar holdings.
+
+With the exception of the city of [[Philadelphia]], Pennsylvania, municipalities and school districts are allowed to enact a local earned income tax within the purview of Act 32. Residents of these municipalities and school districts are required to file a local income tax return in addition to federal and state returns. This local return is filed with the local income tax collector, a private collection agency (e.g. [[Berkheimer]], [[Keystone Collections]], and [[Jordan Tax Service]]) appointed by a particular county to collect the local earned income and local services tax (the latter a flat fee deducted from salaried employees working within a particular municipality or school district).<ref>{{cite web|title=Local Income Tax Information|url=http://dced.pa.gov/local-government/local-income-tax-information/#.WD8AMuYrJEY|website=PA Department of Community & Economic Development|accessdate=November 30, 2016}}</ref><ref>{{cite web|title=Berkheimer|url=http://www.hab-inc.com/|website=Berkheimer|accessdate=November 30, 2016}}</ref><ref>{{cite web|title=Keystone Collections Group|url=https://www.keystonecollects.com/|website=Keystone Collections Group|accessdate=November 30, 2016}}</ref><ref>{{cite web|title=Jordan Tax Service|url=https://www.jordantax.com/|website=Jordan Tax Service|accessdate=November 30, 2016}}</ref>
+
+The City of [[Philadelphia]] has its own local income taxation system. Philadelphia-based employers are required to withhold the Philadelphia wage tax from the salaries of their employees. Residents of Philadelphia working for an employer are not required to file a local return as long as their Philadelphia wage tax is fully withheld by their employer. If their employer does not withhold the Philadelphia wage tax, residents are required to register with the Revenue Department and file an Earnings Tax return. Residents of Philadelphia with self-employment income are required to file a Net Profits tax (NPT) return, while those with business income from Philadelphia sources are required to obtain a Commercial Activity License (CAL) and pay the Business Income and Receipts tax (BIRT) and the NPT. Residents with unearned income (except for interest from checking and savings accounts) are required to file and pay the School Income tax (SIT).<ref>{{cite web|title=Department of Revenue|url=https://beta.phila.gov/departments/department-of-revenue/|website=City of Philadelphia|accessdate=November 30, 2016}}</ref>
+
+The complexity of Pennsylvania local tax filing system has been criticized by experts, who note that the outsourcing collections to private entities is akin to [[tax farming]] and that many new residents are caught off guard and end up facing "failure to file" penalties even if they did not have any tax due. Attempts to transfer local income tax collections to the state level (i.e. by having a separate local section on the state income tax return, currently the method used to collect local income taxes in [[New York (state)|New York]], [[Maryland]], [[Indiana]], and [[Iowa]]) have been unsuccessful.<ref>{{cite web|title=Taking a Closer Look at Government: Pennsylvania's Local Taxation "System"|url=http://issuespa.org/content/taking-closer-look-government-pennsylvanias-local-taxation-system|website=issuespa.org|accessdate=November 30, 2016}}</ref>
+
+====Federal Representation====
+{{Main|Pennsylvania's congressional districts}}
+Pennsylvania's two [[United States Senate|U.S. Senators]] are [[Bob Casey, Jr.]] and [[Pat Toomey]].
+
+Pennsylvania currently has 18 seats in the [[United States House of Representatives]], as of the [[2010 United States Census|2010 Census]].<ref>{{cite web|url=http://www.govtrack.us/congress/members/PA |title=Pennsylvania's Members of Congress & Congressional District Map |accessdate=February 11, 2013}}</ref>
+
+==Health==
+Pennsylvania has a mixed health record, and is ranked as the 29th-overall-healthiest state according to the 2013 United Health Foundation's Health Rankings.<ref name=ahr>{{cite web|title=Pennsylvania|website=America's Health Rankings 2013|publisher=United Health Foundation|date=|url=http://www.americashealthrankings.org/PA |accessdate=August 28, 2014}}</ref>
+
+==Education==
+{{Main|Education in Pennsylvania}}
+[[File:Penn campus 2.jpg|thumb|The [[University of Pennsylvania]] quadrangle in [[Philadelphia]]]]
+
+Pennsylvania has 500 public school districts, thousands of private schools, publicly funded colleges and universities, and over 100 private institutions of higher education.
+
+===Primary and secondary education===
+In general, under state law, school attendance in Pennsylvania is mandatory for a child from the age of 8 until the age of 17, or until graduation from an accredited high school, whichever is earlier.<ref>{{cite web|url=http://www.pde.state.pa.us/|title=Pennsylvania Department of Education (PDE)|accessdate=December 4, 2009}}</ref> As of 2005, 83.8% of Pennsylvania residents age 18 to 24 have completed high school. Among residents age 25 and over, 86.7% have graduated from high school.
+
+The following are the four-year graduation rates for students completing high school in 2016:<ref>{{cite web|publisher=Pennsylvania Department of Education|title=Cohort Graduation Rate|url= http://www.education.pa.gov/Data-and-Statistics/Pages/Cohort-Graduation-Rate-.aspx#tab-1 |accessdate=October 6, 2016}}</ref>
+{| class="wikitable"
+|-
+! Cohort !! All Students !! Male!! Female !! White !! Hispanic !! Black !! Asian !! Special Education
+|-
+| % graduating || 86.09 || 84.14 || 88.13 || 90.48 || 72.83 || 73.22 || 91.21 || 74.06
+|}
+
+Additionally, 27.5% have gone on to obtain a bachelor's degree or higher.<ref>{{cite web|url=http://nces.ed.gov/|title=National Center for Education Statistics (NCES)|accessdate=December 4, 2009}}</ref> State students consistently do well in standardized testing. In 2007, Pennsylvania ranked 14th in mathematics, 12th in reading, and 10th in writing for 8th grade students.<ref>'NCES.'</ref>
+
+In 1988, the Pennsylvania General Assembly passed Act 169, which allows parents or guardians to homeschool their children as an option for compulsory school attendance. This law specifies the requirements and responsibilities of the parents and the school district where the family lives.<ref>[http://www.pde.state.pa.us/home_education/site/default.asp] 'Pennsylvania Department of Education: Home Education and Private Tutoring. Retrieved on December 4, 2009.' {{webarchive |url=https://web.archive.org/web/20091105050517/http://www.pde.state.pa.us/home_education/site/default.asp |date=November 5, 2009 }}</ref>
+
+===Higher education===
+{{See also|List of colleges and universities in Pennsylvania}}
+
+The [[Pennsylvania State System of Higher Education]] (PASSHE) is the [[public university]] system of the Commonwealth, with 14 state-owned schools. The [[Commonwealth System of Higher Education]] is an organizing body of the 4 state-related schools in Pennsylvania, these schools are independent institutions that receive some state funding. There are also 15 publicly funded two-year [[Community colleges in the United States|community colleges]] and technical schools that are separate from the PASSHE system. Additionally there are many private two- and four-year [[technical school]]s, colleges and universities.
+
+[[Carnegie Mellon University]], [[The Pennsylvania State University]], the [[University of Pennsylvania]], and the [[University of Pittsburgh]], are members of the [[Association of American Universities]], an invitation only organization of leading research universities. [[Lehigh University]] is also another renowned private research university located in Bethlehem, Pennsylvania. The Pennsylvania State University is the Commonwealth's [[Land-grant university]], [[National Sea Grant College Program|Sea Grant College]] and, [[National Space Grant College and Fellowship Program|Space Grant College]]. The University of Pennsylvania, located in Philadelphia, is considered the [[first university in the United States]] and established the country's [[First university in the United States#Establishment of quartary-education schools, issuance of any kind of "doctoral" degree|first]] [[medical school in the United States|medical school]]. The University of Pennsylvania is also the Commonwealth's only, and geographically the most southern, [[Ivy League]] school. The [[Pennsylvania Academy of the Fine Arts]] is the first and oldest [[art school]] in the United States.<ref name=pafa.org>{{cite web|title=History of the School|url=http://www.pafa.org/School/Overview/History-of-the-School/350/|website=pafa.org|accessdate=April 8, 2011}}</ref> [[Philadelphia College of Pharmacy]], now a part of [[University of the Sciences|University of the Sciences in Philadelphia]], was the first [[pharmacy school]] in the United States.<ref name=usciences.edu>{{cite web|title=About – University of the Sciences|url=http://www.usciences.edu/about/|website=usciences.edu|accessdate=April 8, 2011}}</ref>
+
+==Recreation==
+[[File:Dorney Park Steel Force Thunderhawk.jpg|thumb|[[Dorney Park & Wildwater Kingdom|Dorney Park and Wildwater Kingdom's]] [[Steel Force]] and [[Thunderhawk (Dorney Park)|Thunderhawk]] roller coasters in [[Allentown, Pennsylvania|Allentown]]]]
+
+Pennsylvania is home to the nation's first zoo, the [[Philadelphia Zoo]].<ref>{{cite web|url=http://www.philadelphiazoo.org/index.php?id%3D10_2_1  |accessdate=September 13, 2006 }}{{dead link|date=August 2016|bot=medic}}{{cbignore|bot=medic}}</ref> Other long-accredited AZA zoos include the [[Erie Zoo]] and the [[Pittsburgh Zoo & PPG Aquarium]]. The [[Lehigh Valley Zoo]] and [[Hersheypark|ZOOAMERICA]] are other notable zoos. The Commonwealth boasts some of the finest museums in the country, including the [[Carnegie Museums]] in Pittsburgh, the [[Philadelphia Museum of Art]], and [[:Category:Museums in Pennsylvania|several others]]. One unique museum is the [[Houdini Museum]] in Scranton, the only building in the world devoted to the legendary magician.<ref>{{cite web|url=http://www.houdini.org |title=Houdini Harry Houdini attractions magic Scranton Poconos Pocono birthday party show seance School Assembly Programs birthday |publisher=Houdini.org |accessdate=July 31, 2010}}</ref> Pennsylvania is also home to the [[National Aviary]], located in Pittsburgh.
+[[File:Baughman's Rock Overlook.ogv|thumb|[[Ohiopyle State Park]] timelapse]]
+
+All 121 [[List of Pennsylvania state parks|state parks]] in Pennsylvania feature free admission.
+
+Pennsylvania offers a number of notable amusement parks, including [[Camel Beach]], [[Conneaut Lake Park]], [[Dorney Park & Wildwater Kingdom]], [[Dutch Wonderland]], [[DelGrosso's Amusement Park]], [[Hersheypark]], [[Idlewild Park]], [[Kennywood]], [[Knoebels]], [[Lakemont Park]], [[Sandcastle Waterpark]], [[Sesame Place]], [[Great Wolf Lodge]] and [[Waldameer Park]]. Pennsylvania also is home to the largest indoor waterpark resort on the East Coast, [[Splash Lagoon]] in Erie.
+
+There are also notable music festivals that take place in Pennsylvania. These include [[Musikfest]] and [[NEARfest]] in [[Bethlehem, Pennsylvania|Bethlehem]], the [[Philadelphia Folk Festival]], [[Creation Festival]], the [[Great Allentown Fair]], and Purple Door.
+
+There are nearly one million licensed hunters in Pennsylvania. Whitetail deer, black bear, cottontail rabbits, squirrel, turkey, and grouse are common game species. Pennsylvania is considered one of the finest wild turkey hunting states in the Union, alongside Texas and [[Alabama]]. Sport hunting in Pennsylvania provides a massive boost for the Commonwealth's economy. A report from The Center for Rural Pennsylvania (a Legislative Agency of the Pennsylvania General Assembly) reported that hunting, fishing, and furtaking generated a total of $9.6 billion statewide.
+
+The [[Boone and Crockett Club]] shows that five of the ten largest (skull size) [[American black bear|black bear]] entries came from the state.<ref name=blackbear>{{cite web|url=http://local.lancasteronline.com/4/212407 |title=Bear facts favor Pennsylvania State remains home to North America's biggest black bears |last=Reilly |first=P. |publisher=[[Intelligencer Journal]] |date=November 15, 2007 |accessdate=December 6, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20071116162447/http://local.lancasteronline.com/4/212407 |archivedate=November 16, 2007 }}</ref> The state also has a tied record for the largest [[hunter]] shot black bear in the Boone & Crockett books at {{convert|733|lb|abbr=on}} and a [[skull]] of 23 3/16 tied with a bear shot in California in 1993.<ref name=blackbear/> The largest bear ever found dead was in [[Utah]] in 1975, and the second-largest was shot by a [[Poaching|poacher]] in the state in 1987.<ref name=blackbear/> Pennsylvania holds the second-highest number of Boone & Crockett-recorded record black bears at 183, second only to [[Wisconsin]]'s 299.<ref name=blackbear/>
+
+==Transportation==
+[[File:National-atlas-pennsylvania.png|thumb|left|upright=0.95|Map of Pennsylvania, showing major cities and roads]]
+
+{{See also|List of airports in Pennsylvania|List of public transit authorities in Pennsylvania|List of Pennsylvania railroads}}
+{{Multiple image
+| direction = vertical
+| total_width       = 190
+| image1 = Allegheny Mountain Tunnel.JPG
+| caption1 = Exterior
+| image2 = 2215 - Pennsylvania Turnpike Tunnel.JPG
+| caption2 = Interior
+| width = 200
+| footer = The [[Allegheny Mountain Tunnel]] is the longest of the five tunnels on the [[Pennsylvania Turnpike]].}}
+The [[Pennsylvania Department of Transportation]], abbreviated as PennDOT, owns {{Convert|39861|mi}} of the {{convert|121770|mi}} of roadway in the state, making it the fifth-largest state highway system in the United States.<ref name="PennDOT fact 7">"Pennsylvania Department of Transportation Fact Book", p. 7.</ref> The [[Pennsylvania Turnpike]] system is {{Convert|535|mi}} long, with the mainline portion stretching from Ohio to Philadelphia and New Jersey.<ref name="PennDOT fact 7"/> It is overseen by the [[Pennsylvania Turnpike Commission]]. Another major east–west route is [[Interstate 80 in Pennsylvania|Interstate 80]], which runs primarily in the northern tier of the state from Ohio to New Jersey at the [[Delaware Water Gap]]. [[Interstate 90 in Pennsylvania|Interstate 90]] travels the relatively short distance between Ohio and New York through [[Erie County, Pennsylvania|Erie County]], in the extreme northwestern part of the state.
+
+[[File:Appalachian Throughway.jpg|thumb|left|upright=0.95|[[U.S. Route 220]] as it passes through [[Lamar Township, Clinton County, Pennsylvania|Lamar Township]].]]
+Primary north–south highways are [[Interstate 79 in Pennsylvania|Interstate 79]] from its terminus in Erie through Pittsburgh to West Virginia, [[Interstate 81 in Pennsylvania|Interstate 81]] from New York through [[Scranton, Pennsylvania|Scranton, Lackawanna County]] and Harrisburg to Maryland and [[Interstate 476]], which begins {{Convert|7|mi|km}} north of the [[Delaware]] border, in [[Chester, Pennsylvania|Chester, Delaware County]] and travels {{Convert|132|mi|km}} to [[Clarks Summit, Pennsylvania|Clarks Summit, Lackawanna County]], where it joins I-81. All but {{Convert|20|mi|km}} of I-476 is the Northeast Extension of the Pennsylvania Turnpike, while the highway south of the main line of the Pennsylvania Turnpike is officially called the "Veterans Memorial Highway", but is commonly referred to by locals as the "Blue Route".
+
+The [[SEPTA|Southeastern Pennsylvania Transportation Authority]] (SEPTA) is the sixth-largest transit agency in the United States and operates the [[commuter rail|commuter]], [[heavy rail|heavy]] and [[light rail]] transit, and [[transit bus]] service in the Philadelphia metropolitan area. The [[Port Authority of Allegheny County]] is the 25th-largest transit agency and provides transit bus and light rail service in and around Pittsburgh.<ref>"2010 Public Transportation Fact Book", p. 8.</ref>
+
+Intercity passenger rail transit is provided by [[Amtrak]], with the majority of traffic occurring on the ''[[Keystone Service]]'' in the high-speed [[Keystone Corridor]] between Harrisburg and Philadelphia's [[30th Street Station]] before heading north to New York City, as well as the ''[[Northeast Regional]]'' providing frequent high speed service up and down the [[Northeast Corridor]].   the ''[[Pennsylvanian (Amtrak)|Pennsylvanian]]'' follows the same route from New York City to Harrisburg, but extends out to Pittsburgh. The ''[[Capitol Limited (Amtrak train)|Capitol Limited]]'' also passes through Pittsburgh, as well as  [[Connellsville, Pennsylvania|Connellsville]], on its way from Chicago to [[Washington, D.C.]]<ref name="PennDOT fact 10"/> Traveling between Chicago and New York City, the ''[[Lake Shore Limited]]'' passes through Erie once in each direction.<ref name="PennDOT fact 10"/> There are 67&nbsp;[[short-line railroad|short-line]], freight railroads operating in Pennsylvania, the highest number in any U.S. state.<ref name="PennDOT fact 10">"Pennsylvania Department of Transportation Fact Book", p. 10.</ref> In 2018, [[OurBus]] began offering service from West Chester, PA – Malvern, PA – King of Prussia, PA – Fort Washington, PA – New York, NY.
+
+Intercity bus service is provided between cities in Pennsylvania and other major points in the Northeast by [[Bieber Transportation Group|Bieber Tourways]],  [[Bolt Bus]], [[Fullington Trailways]], [[Greyhound Lines]], [[Martz Trailways]], [[Megabus (North America)|Megabus]], [[OurBus]], [[Trans-Bridge Lines]], as well as various [[Chinatown bus lines|Chinatown bus]] companies.
+
+Pennsylvania has seven major airports: [[Philadelphia International Airport|Philadelphia International]], [[Pittsburgh International Airport|Pittsburgh International]], [[Lehigh Valley International Airport|Lehigh Valley International]], [[Harrisburg International Airport|Harrisburg International]], [[Erie International Airport|Erie International]], [[University Park Airport]] and [[Wilkes-Barre/Scranton International Airport|Wilkes-Barre/Scranton International]]. A total of 134&nbsp;public-use airports are located in the state.<ref name="PennDOT fact 10"/> The port of Pittsburgh is the second-largest [[inland port]] in the United States and the 18th-largest port overall; the [[Port of Philadelphia]] is the 24th-largest port in the United States.<ref>Waterborne Commerce Statistics Center, p. 5-4.</ref> Pennsylvania's only port on the [[Great Lakes]] is located in Erie.
+
+The [[Allegheny River Lock and Dam Two]] is the most-used [[Lock (water transport)|lock]] operated by the [[United States Army Corps of Engineers]] of its 255 nationwide.<ref>{{Cite news|url=http://www.pittsburghlive.com/x/pittsburghtrib/business/s_699345.html|title=Corps shuts Highland Park lock for two weeks of repairs|last=Santoni|first=Matthew|date=September 14, 2010|work=Pittsburgh Tribune-Review|publisher=Trib Total Media|accessdate=September 14, 2010|deadurl=yes|archiveurl=https://archive.is/20120908040557/http://www.pittsburghlive.com/x/pittsburghtrib/business/s_699345.html|archivedate=September 8, 2012|df=mdy-all}}</ref> The dam impounds the [[Allegheny River]] near [[Downtown Pittsburgh]].
+
+==Culture==
+
+===Arts===
+{{expand section|date=September 2017}}
+
+===Sports===
+{{Main|Sports in Pennsylvania}}
+[[File:"Full House at Citizens Bank Park" (Photo).jpg|thumb|[[Citizens Bank Park]] in [[South Philadelphia, Pennsylvania|South Philadelphia]], home of the [[Philadelphia Phillies]]]]
+Pennsylvania is home to many major league professional sports teams; the [[Philadelphia Phillies]] and [[Pittsburgh Pirates]] of [[Major League Baseball]], the [[Philadelphia 76ers]] of the [[National Basketball Association]], the [[Pittsburgh Steelers]] and [[Philadelphia Eagles]] of the [[National Football League]], the [[Philadelphia Flyers]] and [[Pittsburgh Penguins]] of the [[National Hockey League]], and the [[Philadelphia Union]] of [[Major League Soccer]]. Among them, these teams have accumulated 7 [[World Series]] Championships (Pirates 5, Phillies 2), 16 [[National League]] Pennants (Pirates 9, Phillies 7), 3 pre-[[Super Bowl]] era NFL Championships (Eagles), 7 Super Bowl Championships (Steelers 6, Eagles 1), 2 NBA Championships (76ers), and 7 [[Stanley Cup]]s (Penguins 5, Flyers 2).
+
+Pennsylvania also has minor league and semi-pro sports teams: the [[Triple-A (baseball)|Triple-A]] baseball [[Lehigh Valley IronPigs]] and the [[Scranton/Wilkes-Barre RailRiders]] of the [[International League]]; the [[Double-A (baseball)|Double-A]] baseball [[Altoona Curve]], [[Erie SeaWolves]], [[Harrisburg Senators]], and [[Reading Fightin Phils]] of the [[Eastern League (baseball)|Eastern League]]; the [[Class A-Short Season]] baseball [[State College Spikes]] and [[Williamsport Crosscutters]] of the [[New York–Penn League]]; the independent baseball [[Lancaster Barnstormers]] and [[York Revolution]] of the [[Atlantic League of Professional Baseball]]; the independent baseball [[Washington Wild Things]] of the [[Frontier League]]; the [[Erie BayHawks (2017–)|Erie BayHawks]] of the [[NBA G League]]; the [[Lehigh Valley Phantoms]], [[Wilkes-Barre/Scranton Penguins]], and [[Hershey Bears]] of the [[American Hockey League]]; the [[Reading Royals]] and of the [[ECHL]]; and the [[Philadelphia Soul]] of the [[Arena Football League]]. Among them, these teams have accumulated 12 triple and double A baseball league titles (RailRiders 1, Senators 6, Fightin Phils 4 Curve 1), 1 Arena Bowl Championship (Soul), and 11 [[Calder Cup]]s (Bears).
+
+Since 1959, the [[Little League World Series]] is held each summer in [[South Williamsport, Pennsylvania|South Williamsport]], near where [[Little League Baseball]] was founded in [[Williamsport, Pennsylvania|Williamsport]].<ref name="LittleLeagueChronology">{{cite web|title=LITTLE LEAGUE CHRONOLOGY|url=http://www.littleleague.org/learn/about/historyandmission/chronology.htm|website=LittleLeague.org|accessdate=August 10, 2016|archiveurl=https://web.archive.org/web/20160629095428/http://www.littleleague.org/learn/about/historyandmission/chronology.htm|archivedate=June 29, 2016 }}</ref>
+
+Also, the first World Series between the Boston Pilgrims (which became the [[Boston Red Sox]]) and [[Pittsburgh Pirates]] was played in [[Pittsburgh]] in 1903.
+
+Soccer is gaining popularity within the state of Pennsylvania as well. With the addition of the [[Philadelphia Union]] in the MLS, the state now boasts three teams that are eligible to compete for the [[Lamar Hunt U.S. Open Cup]] annually. The other two teams are [[Penn FC]] and the [[Pittsburgh Riverhounds]], both of the United Soccer League ([[USL]]). Within the [[American Soccer Pyramid]], the MLS takes the first tier, while the USL-2 claims the third tier.
+[[File:Pocono Victory Lane.JPG|thumb|[[NASCAR]] racing at [[Pocono Raceway]] in [[Long Pond, Pennsylvania|Long Pond]]]]
+In motorsports, the [[Mario Andretti]] dynasty of race drivers hails from [[Nazareth, Pennsylvania|Nazareth]] in the Lehigh Valley. Notable racetracks in Pennsylvania include the [[Jennerstown Speedway]] in [[Jennerstown, Pennsylvania|Jennerstown]], the [[Lake Erie Speedway]] in [[North East, Pennsylvania|North East]], the [[Mahoning Valley Speedway]] in [[Lehighton, Pennsylvania|Lehighton]], the [[Motordome Speedway]] in [[Smithton, Pennsylvania|Smithton]], the [[Mountain Speedway]] in [[St. Johns, Pennsylvania|St. Johns]], the [[Nazareth Speedway]] in [[Nazareth, Pennsylvania|Nazareth]] (closed); and the [[Pocono Raceway]] in [[Long Pond, Pennsylvania|Long Pond]], which is home to two [[NASCAR Cup Series]] races and an [[IndyCar Series]] race. The state is also home to Maple Grove Raceway, near Reading, which hosts major [[National Hot Rod Association]] sanctioned drag racing events each year.
+
+There are also two [[motocross]] race tracks that host a round of the AMA Toyota Motocross Championships in Pennsylvania. [http://www.highpointmx.com/ High Point Raceway] in located in Mt. Morris, Pennsylvania, and Steel City is located in Delmont, Pennsylvania.
+
+Horse racing courses in Pennsylvania consist of [[The Meadows Racetrack|The Meadows]] near Pittsburgh, [[Pocono Downs]] in Wilkes-Barre, and [[Harrah's Philadelphia]] in Chester, which offer [[harness racing]], and [[Penn National Race Course]] in [[Grantville, Pennsylvania|Grantville]], [[Parx Casino and Racing|Parx Racing]] (formerly Philadelphia Park) in [[Bensalem, Pennsylvania|Bensalem]], and [[Presque Isle Downs]] near Erie, which offer [[thoroughbred racing]]. [[Smarty Jones]], the 2004 [[Kentucky Derby]] and [[Preakness Stakes]] winner, had Philadelphia Park as his home course.
+
+[[Arnold Palmer]], one of the 20th century's most notable pro golfers, comes from [[Latrobe, Pennsylvania|Latrobe]], while [[Jim Furyk]], a current [[Professional Golfers' Association of America|PGA]] member, grew up near in [[Manheim Township, Lancaster County, Pennsylvania|Lancaster]]. PGA tournaments in Pennsylvania include the 84 Lumber Classic, played at Nemacolin Woodlands Resort, in [[Farmington, Pennsylvania|Farmington]] and the Northeast Pennsylvania Classic, played at Glenmaura National Golf Club, in [[Moosic, Pennsylvania|Moosic]].
+
+Philadelphia is home to [[LOVE Park]], once a popular spot for [[skateboard]]ing, and across from City Hall, host to [[ESPN]]'s [[X Games]] in 2001 and 2002.<ref>{{cite web|url=http://skateboard.about.com/cs/events/a/XGamesHistory_2.htm |title=X Games History – part 2 |publisher=Skateboard.about.com |date=June 17, 2010 |accessdate=July 31, 2010}}</ref>
+
+====College sports====
+College football is popular in Pennsylvania{{citation needed|date=September 2015}}. There are three colleges in Pennsylvania that play at the highest level of collegiate football competition, the [[NCAA Division I Football Bowl Subdivision]]. Two play in [[Power Five conferences]], the [[Penn State University]] [[Penn State Nittany Lions football|Nittany Lions]] of the [[Big Ten Conference]] and the [[University of Pittsburgh]] [[Pittsburgh Panthers football|Panthers]] of the [[Atlantic Coast Conference]], while the [[Temple University]] [[Temple Owls football|Owls]] play in the [[American Athletic Conference]]. Penn State, claims two [[College football national championships in NCAA Division I FBS|national championships]] (1982 & 1986) as well as seven undefeated seasons (1887, 1912, 1968, 1969, 1973, 1986 and 1994). Penn State plays its home games in the second-largest stadium in the United States, [[Beaver Stadium]], which seats 107,282, and is currently led by head coach [[James Franklin (American football coach)|James Franklin]]. The [[University of Pittsburgh]] [[Pitt Panthers|Panthers]] claims nine national championships (1915, 1916, 1918, 1929, 1931, 1934, 1936, 1937 and 1976) and has played eight undefeated seasons (1904, 1910, 1915, 1916, 1917, 1920, 1937 and 1976).<ref>{{cite journal|url=http://graphics.fansonly.com/photos/schools/pitt/sports/m-footbl/auto_pdf/06guide-pantherhistory.pdf |title=Panther History – Pitt Football 2006 |accessdate=July 7, 2011}}</ref> Pitt plays its home games at [[Heinz Field]], a facility it shares with the [[Pittsburgh Steelers]], and is led by current head football coach [[Pat Narduzzi]]. Other Pennsylvania schools that have won national titles in football include [[Lafayette College]] (1896), Villanova University ([[NCAA Division I Football Championship|FCS]] 2009), the [[Penn Quakers football|University of Pennsylvania]] (1895, 1897, 1904 and 1908)<ref>{{cite web|url=http://www.cfbdatawarehouse.com/data/national_championships/nchamps_team.php |title=Recognized National Championships by Team |publisher=Cfbdatawarehouse.com |accessdate=July 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100920001615/http://cfbdatawarehouse.com/data/national_championships/nchamps_team.php |archivedate=September 20, 2010 |df= }}</ref> and Washington and Jefferson College (1921).
+
+College basketball is also popular in the state, especially in the Philadelphia area where five universities, collectively termed the [[Philadelphia Big 5|Big Five]], have a rich tradition in [[NCAA Division I]] basketball. National titles in college basketball have been won by the following Pennsylvania universities: [[La Salle University]] (1954), [[Temple University]] (1938), [[Penn Quakers men's basketball|University of Pennsylvania]] (1920 and 1921), [[University of Pittsburgh]] (1928 and 1930), and [[Villanova University]] (1985, 2016, and 2018).<ref>{{cite web|url=http://www.rauzulusstreet.com/basketball/college/helmscollegechampionship.htm |title=Helms Foundation NCAA Division I Champions |publisher=Rauzulusstreet.com |accessdate=July 31, 2010}}</ref><ref>{{cite web|url=http://www.rauzulusstreet.com/basketball/college/collegechampionship.htm |title=NCAA Division I Mens Basketball – NCAA Division I Champions |publisher=Rauzulusstreet.com |accessdate=July 31, 2010}}</ref>
+
+===Food===
+[[File:Hershey Pennsylvania 1976.jpg|thumb|right|[[The Hershey Company|Hershey Chocolate Factory]]]]
+Author Sharon Hernes Silverman calls Pennsylvania the snack food capital of the world.<ref>{{cite web|url=http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_546927.html |title=Pa. knack for snacks a Farm Show feature – Pittsburgh Tribune-Review |publisher=Pittsburghlive.com |date=January 11, 2008 |accessdate=July 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20091108051209/http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_546927.html |archivedate=November 8, 2009 |df= }}</ref> It leads all other states in the manufacture of [[pretzel]]s and potato chips. The [[Sturgis Pretzel House]] introduced the pretzel to America, and companies like Anderson Bakery Company, Intercourse Pretzel Factory, and [[Snyder's of Hanover]] are leading manufacturers in the Commonwealth. Two of the three companies that define the U.S. potato chip industry are based in Pennsylvania: [[Utz Quality Foods]], which started making chips in [[Hanover, Pennsylvania]], in 1921, and [[Wise Foods]] which started making chips in [[Berwick, Pennsylvania|Berwick]] in 1921 (the third, [[Frito-Lay|Lay's Potato Chips]], is a Texas company). Other companies such as [[Herr's Snacks]], Martin's Potato Chips, Snyder's of Berlin (not associated with Snyder's of Hanover) and Troyer Farms Potato Products are popular chip manufacturers.
+
+The U.S. chocolate industry is centered in [[Hershey, Pennsylvania]], with [[Mars, Incorporated|Mars]], [[Godiva Chocolatier|Godiva]], and [[Wilbur Chocolate Company]] nearby, and smaller manufacturers such as Asher's<ref>{{cite web|url=https://news.google.com/newspapers?id=hsQfAAAAIBAJ&sjid=i9gEAAAAIBAJ&pg=1978,4428241&dq=asher%27s-chocolates&hl=en|title=Chocolate Bunnies|website=The Southeast Missourian|via=Google News Archive Search|publisher=|date=April 1, 1996|accessdate=October 7, 2014}}</ref> in [[Souderton, Pennsylvania|Souderton]],<ref>{{cite web |url=http://www.ashers.com/about-asher/directions-to-asher.html |title=Directions to Asher's – About Asher's |publisher=Ashers.com |date= |accessdate=November 7, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121003045117/http://www.ashers.com/about-asher/directions-to-asher.html |archivedate=October 3, 2012 |df=mdy-all }}</ref> and [[Gertrude Hawk Chocolates]] of [[Dunmore, Pennsylvania|Dunmore]]. Other notable companies include [[Just Born]] in [[Bethlehem, Pennsylvania]], makers of [[Hot Tamales]], [[Mike and Ike]]s, the Easter favorite marshmallow [[Peeps]], and [[Boyer Brothers]] of [[Altoona, Pennsylvania]], which is well known for its Mallo Cups. [[Auntie Anne's|Auntie Anne's Pretzels]] began as a market-stand in Downingtown, Pennsylvania, and now has corporate headquarters in Lancaster City.<ref>{{cite web | title = Company History: Auntie Anne's Pretzels | publisher = Auntie Anne's | accessdate = February 6, 2009 | url = http://www.auntieannes.com/company_history.aspx | archive-url = https://web.archive.org/web/20090123132324/http://auntieannes.com/company_history.aspx | archive-date = January 23, 2009 | dead-url = yes | df = mdy-all }}</ref> Traditional Pennsylvania Dutch foods include chicken potpie, ham potpie, schnitz un knepp (dried apples, ham, and dumplings), [[Fasnacht (doughnut)|fasnachts]] (raised doughnuts), scrapple, pretzels, bologna, chow-chow, and [[Shoofly pie]]. [[Martin's Famous Pastry Shoppe, Inc.]], headquartered in [[Chambersburg, Pennsylvania]], specializes in potato bread, another [[Cuisine of the Pennsylvania Dutch|traditional Pennsylvania Dutch food]]. [[D.G. Yuengling & Son]], America's oldest brewery, has been brewing beer in [[Pottsville, Pennsylvania|Pottsville]] since 1829.
+
+Among the regional foods associated with Philadelphia are [[cheesesteaks]], hoagie, [[soft pretzels]], [[Italian water ice]], [[Irish potato candy]], [[scrapple]], [[Tastykake]], Wawa, and [[Stromboli (food)|strombolis]]. In Pittsburgh, tomato ketchup was improved by [[H. J. Heinz Company|Henry John Heinz]] from 1876 to the early 20th century. Famous to a lesser extent than Heinz ketchup are the Pittsburgh's [[Primanti Brothers Restaurant]] sandwiches, [[pierogies]], and [[city chicken]]. Outside of [[Scranton]], in [[Old Forge, Lackawanna County, Pennsylvania|Old Forge]] there are dozens of Italian restaurants specializing in pizza made unique by thick, light crust and American cheese. [[Erie]] also has its share of unique foods, including Greek sauce and [[sponge candy]]. [[Sauerkraut]] along with pork and mashed potatoes is a common meal on New Year's Day in Pennsylvania.
+
+==State symbols==
+{{Main|List of Pennsylvania state symbols}}
+[[File:USBrigNiagaraInPort.JPG|right|thumb|upright|The US brig ''Niagara''|{{USS|Niagara|1813|3}} in port]]
+* '''[[State motto|Motto]]''': "Virtue, liberty, and independence"
+* '''[[List of U.S. state trees|Tree]]''': [[Tsuga canadensis|Eastern hemlock]]<ref name="PA Manual 1-6"/>
+* '''[[List of U.S. state birds|State bird]]''': [[Ruffed grouse]]<ref name="PA Manual 1-5"/>
+* '''[[List of U.S. state flowers|Flower]]''': [[Kalmia latifolia|Mountain laurel]]<ref name="PA Manual 1-5">''The Pennsylvania Manual'', p. 1-5</ref>
+* '''[[List of U.S. state insects|Insect]]''': [[Photuris pennsylvanica|Pennsylvania firefly]]<ref name="PA Manual 1-5"/>
+* '''[[List of U.S. state animals|Animal]]''': [[White-tailed deer]]<ref name="PA Manual 1-5"/>
+* '''[[List of U.S. state dogs|Dog]]''': [[Great Dane]]<ref name="PA Manual 1-5"/>
+* '''[[List of U.S. state fish|Fish]]''': [[Brook trout]]<ref name="PA Manual 1-5"/>
+* '''[[List of U.S. state fossils|Fossil]]''': ''[[Phacops rana]]''<ref name="PA Manual 1-6"/>
+* '''[[List of U.S. state beverages|Beverage]]''': [[Milk]]<ref name="PA Manual 1-6">''The Pennsylvania Manual'', p. 1-6</ref>
+* '''[[List of U.S. state songs|Song]]''': "[[Pennsylvania (song)|Pennsylvania]]"<ref>''The Pennsylvania Manual'', p. 1-7</ref>
+* '''[[List of U.S. state ships|Ship]]''': [[USS Niagara (1813)|US Brig ''Niagara'']]<ref name="PA Manual 1-6"/>
+* '''[[Electric locomotive]]''': [[PRR 4859|GG1 4859]]<ref name="PA Manual 1-6"/>
+* '''[[Steam locomotive]]''': [[PRR 1361|K4s 1361]] and [[PRR 3750|K4s 3750]]<ref name="PA Manual 1-6"/>
+* '''[[List of U.S. state flowers|Beautification and conservation plant]]''': [[Coronilla|Penngift crown vetch]]<ref name="PA Manual 1-6"/>
+
+===Nicknames===
+Pennsylvania has been known as the [[keystone (architecture)|''Keystone'']] ''State'' since 1802,<ref name=autogenerated1>[http://www.phmc.state.pa.us/bah/pahist/symbols.asp?secid=31 PHMC: State Symbols] {{webarchive |url=https://web.archive.org/web/20090504141346/http://www.phmc.state.pa.us/bah/pahist/symbols.asp?secid=31 |date=May 4, 2009 }}</ref> based in part upon its central location among the original [[Thirteen Colonies]] forming the United States, and also in part because of the number of important American documents signed in the state (such as the [[United States Declaration of Independence|Declaration of Independence]]). It was also a keystone state economically, having both the industry common to the [[Northern United States|North]] (making such wares as [[Conestoga wagons]] and [[Long rifle|rifles]])<ref>{{cite web|url=http://www.lowellpl.lib.in.us/s2002mar.htm |title=Lowell Tribune, March 26, 2002 |publisher=Lowellpl.lib.in.us |accessdate=July 31, 2010}}</ref><ref>[http://www.2nj.org/library/weapons/flintlock_rifles.htm Lancaster rifle] {{webarchive |url=https://web.archive.org/web/20150403090008/http://www.2nj.org/library/weapons/flintlock_rifles.htm |date=April 3, 2015 }}</ref> and the agriculture common to the [[Southern United States|South]] (producing feed, fiber, food, and tobacco).<ref>[http://www.phmc.state.pa.us/ppet/agriculture/page1.asp?secid=31 PHMC: Agriculture in Pennsylvania] {{webarchive |url=https://web.archive.org/web/20090703102530/http://www.phmc.state.pa.us/ppet/agriculture/page1.asp?secid=31 |date=July 3, 2009 }}</ref>
+
+Another one of Pennsylvania's nicknames is the [[Religious Society of Friends|''Quaker'']] ''State''; in colonial times, it was known officially as the ''[[Province of Pennsylvania|Quaker Province]]'',<ref>[http://www.dgs.state.pa.us/dgs/lib/dgs/pa_manual/section1/the_quaker_province_1681-1776.pdf#search=%22quaker%20province%20%22 The Quaker Province]   {{webarchive|url=https://web.archive.org/web/20090325035935/http://www.dgs.state.pa.us/dgs/lib/dgs/pa_manual/section1/the_quaker_province_1681-1776.pdf |date=March 25, 2009 }}</ref> in recognition of Quaker<ref>{{cite web|author=Bill Samuel |url=http://www.quakerinfo.com/quakpenn.shtml |title=William Penn, Quaker |publisher=Quakerinfo.com |accessdate=July 31, 2010}}</ref> [[William Penn]]'s ''[[Frame of Government of Pennsylvania|First Frame of Government]]''<ref>{{cite web |url=http://www.yale.edu/lawweb/avalon/states/pa04.htm |title=Frame of Government |publisher=Yale.edu |accessdate=July 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100617071216/http://www.yale.edu/lawweb/avalon/states/pa04.htm |archivedate=June 17, 2010 |df=mdy-all }}</ref> constitution for Pennsylvania that guaranteed [[Freedom (political)|liberty]] of [[conscience]]. He knew of the hostility<ref>Pennsylvania translates to "Penn's Woods" and was named after the father of William Penn, the founder of the colony. [http://www.digitalhistory.uh.edu/documents/documents_p2.cfm?doc=240 Digital History: Persecution of the Quakers] {{webarchive |url=https://web.archive.org/web/20120419110249/http://www.digitalhistory.uh.edu/documents/documents_p2.cfm?doc=240 |date=April 19, 2012 }}</ref> Quakers faced when they opposed religious ritual, taking oaths, violence, war and military service, and what they viewed as ostentatious [[wikt:frippery|frippery]].<ref>[http://www.phmc.state.pa.us/bah/pahist/quaker.asp?secid=31 The Quaker Province 1681–1776] {{webarchive |url=https://web.archive.org/web/20090601223635/http://www.phmc.state.pa.us/bah/pahist/quaker.asp?secid=31 |date=June 1, 2009 }}</ref>
+
+"'''The Coal State'''", "'''The Oil State'''", "'''The Chocolate State'''", and "'''The Steel State'''" were adopted when those were the state's greatest industries.<ref>{{cite web|url=http://www.netstate.com/states/intro/pa_intro.htm |title=The State of Pennsylvania – An Introduction the Keystone State from |publisher=Netstate.Com |accessdate=July 31, 2010}}</ref>
+
+"The State of Independence" currently appears on many road signs entering the state.
+
+==Notable people==
+{{Main|List of people from Pennsylvania}}
+
+==Sister regions==
+* {{flagdeco|CUB}} [[Matanzas Province]], Cuba<ref>{{cite web| title =Pennsylvania Matanzas| publisher =U.S.-Cuba Sister Cities Association| url =http://www.uscsca.org/penn.htm| accessdate =October 27, 2007| deadurl =yes| archiveurl =https://web.archive.org/web/20071017015314/http://uscsca.org/penn.htm| archivedate =October 17, 2007| df =mdy-all}}</ref>
+* {{flagdeco|FRA}} [[Rhône-Alpes]], France<ref>{{cite web | title =France-Diplomatie – Atlas français de la coopération décentralisée et des autres actions extérieures | publisher =République française, ministère des affaires étrangères et européenes | url =http://cncd.diplomatie.gouv.fr/frontoffice/bdd-pays.asp | language=French | accessdate =January 20, 2010}}</ref>
+
+==See also==
+{{portal|Pennsylvania|United States}}
+* [[Outline of Pennsylvania]]
+* [[Index of Pennsylvania-related articles]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+===Bibliography===
+* {{cite web |title=2010 Public Transportation Fact Book |date=April 2010 |publisher=[[American Public Transportation Association]] |format=PDF |url=http://apta.com/resources/statistics/Documents/FactBook/APTA_2010_Fact_Book.pdf |accessdate=July 5, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20120112165928/http://apta.com/resources/statistics/Documents/FactBook/APTA_2010_Fact_Book.pdf |archivedate=January 12, 2012 |df=mdy-all }}
+* {{cite web |title=Pennsylvania Department of Transportation Fact Book |date=August 2009 |publisher=[[Pennsylvania Department of Transportation]] |url=http://www.dot.state.pa.us/PennDOT%20Factbook/index.html |accessdate=July 4, 2010}}
+* {{cite web|author=Waterborne Commerce Statistics Center |title=Part 5: National Summaries |website=Waterborne Commerce of the United States |date=December 31, 2009 |format=PDF |publisher=[[United States Army Corps of Engineers]] |url=http://www.ndc.iwr.usace.army.mil/wcsc/pdf/wcusnatl08.pdf |accessdate=July 5, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100920221417/http://www.ndc.iwr.usace.army.mil/wcsc/pdf/wcusnatl08.pdf |archivedate=September 20, 2010 |df= }}
+* {{Cite book |editor-first=Sharon |editor-last=Trostle |year=2009 |title=The Pennsylvania Manual |location=Harrisburg |publisher=[[Pennsylvania Department of General Services]] |volume=119 |isbn=978-0-8182-0334-3|title-link=The Pennsylvania Manual }}
+
+==External links==
+{{Sister project links|voy=Pennsylvania}}
+* {{dmoz|Regional/North_America/United_States/Pennsylvania}}
+* [http://www.pareserves.com/ Gov. Andrew Curtin's Pennsylvania Reserve Volunteer Corps, Civil War 1861–1864]
+* [http://www.pa.gov/ Official state government site]
+* [http://www.dot.state.pa.us/ Pennsylvania Department of Transportation]
+* [http://www.fs.fed.us/r9/forests/allegheny/ Allegheny National Forest]
+* [http://www.pawilds.com/ Pennsylvania Wilds]
+* [http://www.usgs.gov/state/state.asp?State=PA USGS real-time, geographic, and other scientific resources of Pennsylvania]
+* [http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=PA Energy Data & Statistics for Pennsylvania]
+* [http://www.ers.usda.gov/data-products/state-fact-sheets/state-data.aspx?StateFIPS=42&StateName=Pennsylvania#.U8BEwPldUeo Pennsylvania State Facts from USDA]
+* [http://www.visitPA.com/ Official state tourism site]
+* [http://www.antiquebooks.net/readpage.html#penn Biography of William Penn from 1829]
+* [http://www.footnote.com/topicpage.php?tp=88 Free Original Documents Online: Pennsylvania State Archives 1600s to 1800s]
+* [http://newpa.com/ Pennsylvania Department of Community and Economic Development]
+* [https://archive.is/20121228080745/http://toolserver.org/~dispenser/cgi-bin/webchecklinks.py?page=en:Pennsylvania%23view=0,0,0,0,1,1#view=0,0,0,0,1,1 National Association of Counties (information on each Pennsylvania County)]
+* {{OSM relation|162109}}
+
+{{s-start}}
+{{s-bef|before=[[Delaware]]}}
+{{s-ttl|title=[[List of U.S. states by date of admission to the Union]]|years=Ratified [[United States Constitution|Constitution]] on December 12, 1787 (2nd)}}
+{{s-aft|after=[[New Jersey]]}}
+{{s-end}}
+{{Pennsylvania|expanded}}
+{{Pennsylvania cities and mayors of 100,000 population}}
+{{Northeast US}}
+{{United States political divisions}}
+{{Coord|display=title|41|N|77.5|W|region:US-PA_type:adm1st_scale:3000000}}
+{{Authority control}}
+
+[[Category:Pennsylvania| ]]
+[[Category:1787 establishments in the United States]]
+[[Category:Articles containing video clips]]
+[[Category:Mid-Atlantic states]]
+[[Category:Northeastern United States]]
+[[Category:States and territories established in 1787]]
+[[Category:States of the United States]]
+[[Category:States of the East Coast of the United States]]

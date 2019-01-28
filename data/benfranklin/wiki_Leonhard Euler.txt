@@ -1,0 +1,446 @@
+{{Redirect|Euler}}
+{{pp|small=yes}}
+{{Featured article}}
+{{Use dmy dates|date=November 2013}}
+{{Infobox scientist
+| name = Leonhard Euler
+| image = Leonhard Euler.jpg
+| caption = Portrait by [[Jakob Emanuel Handmann]] (1753)
+| birth_date = {{birth date|1707|4|15|df=y}}
+| birth_place = [[Basel]], Switzerland
+| death_date = {{death date and age|1783|9|18|1707|4|15|df=y}}<br /><small><nowiki>[</nowiki>[[Adoption of the Gregorian calendar#Adoption in Eastern Europe|OS]]: 7 September 1783<nowiki>]</nowiki></small>
+| death_place = [[Saint Petersburg]], [[Russian Empire]]
+| residence = [[Kingdom of Prussia]]<br /> Russian Empire<br /> Switzerland
+| field = Mathematics and [[physics]]
+| work_institutions = [[Russian Academy of Sciences|Imperial Russian Academy of Sciences]]<br />[[Prussian Academy of Sciences|Berlin Academy]]
+| alma_mater = [[University of Basel]] ([[MPhil]])
+| thesis_title = Dissertatio physica de sono ("Physical dissertation on sound")
+| thesis_url = http://eulerarchive.maa.org/pages/E002.html
+| thesis_year = 1726
+| doctoral_advisor = [[Johann Bernoulli]]
+| doctoral_students = [[Johann Hennert]]
+| notable_students = [[Nicolas Fuss]]<br>[[Stepan Rumovsky]]<br>[[Joseph-Louis Lagrange]] (epistolary correspondent)
+| known_for = [[List of topics named after Leonhard Euler|See full list]]
+| prizes = <!--|religion = [[Calvinism|Calvinist]]<ref name=graves>{{cite book|title=Scientists of Faith|author=Dan Graves|location=Grand Rapids, MI|year=1996|publisher=Kregel Resources|pages=85–86}}</ref><ref name=bell>{{cite book|title=Men of Mathematics, Vol. 1|author=E.T. Bell|location=London|year=1953|publisher=Penguin|page=155}}</ref>-->
+| footnotes = He is the father of the mathematician [[Johann Euler]].<br />He is listed by an academic genealogy as the equivalent to the doctoral advisor of Joseph Louis Lagrange.<ref name=mathg/>
+| signature = Euler's signature.svg
+}}
+
+'''Leonhard Euler''' ({{IPAc-en|ˈ|ɔɪ|l|ər}} {{respell|OY|lər}};<ref name=pronun/> {{IPA-de|ˈɔɪlər|lang|De-Euler.ogg}}; 15 April 1707{{spaced ndash}}18 September 1783) was a Swiss [[mathematician]], [[physicist]], [[astronomer]], [[logician]] and [[engineer]], who made important and influential discoveries in many branches of mathematics, such as [[infinitesimal calculus]] and [[graph theory]], while also making pioneering contributions to several branches such as [[topology]] and [[analytic number theory]]. He also introduced much of the modern mathematical terminology and [[Mathematical notation|notation]], particularly for [[mathematical analysis]], such as the notion of a [[function (mathematics)|mathematical function]].<ref name="function"/> He is also known for his work in [[mechanics]], [[fluid dynamics]], [[optics]], [[astronomy]], and [[music theory]].<ref name=eulerarch/>
+
+Euler was one of the most eminent mathematicians of the 18th century and is held to be one of the greatest in history. He is also widely considered to be the most prolific mathematician of all time. His collected works fill 60 to 80 [[quarto (text)|quarto]] volumes,<ref name="volumes"/> more than anybody in the field. He spent most of his adult life in [[Saint Petersburg]], [[Russian Empire|Russia]], and in [[Berlin]], then the capital of [[Kingdom of Prussia|Prussia]].
+
+A statement attributed to [[Pierre-Simon Laplace]] expresses Euler's influence on mathematics: "Read Euler, read Euler, he is the master of us all."<ref name="Laplace"/><ref name=libri/>
+
+==Life==
+
+===Early years===
+Leonhard Euler was born on 15 April 1707, in [[Basel]], Switzerland to Paul III Euler, a pastor of the [[Reformed Church]], and Marguerite {{née}} Brucker, a pastor's daughter. He had two younger sisters: Anna Maria and Maria Magdalena, and a younger brother Johann Heinrich.<ref name=Calinger>{{Cite book| last = Calinger | first = Ronald S. | title = Leonhard Euler: Mathematical Genius in the Enlightenment | publisher = Princeton University Press | year = 2015 | page = 11 | isbn = 978-0-691-11927-4}}</ref> Soon after the birth of Leonhard, the Eulers moved from Basel to the town of [[Riehen]], where Euler spent most of his childhood. Paul Euler was a friend of the [[Bernoulli family]]; [[Johann Bernoulli]] was then regarded as Europe's foremost mathematician, and would eventually be the most important influence on young Leonhard.
+
+Euler's formal education started in Basel, where he was sent to live with his maternal grandmother. In 1720, aged thirteen, he enrolled at the [[University of Basel]], and in 1723, he received a Master of Philosophy with a dissertation that compared the philosophies of [[René Descartes|Descartes]] and [[Isaac Newton|Newton]]. During that time, he was receiving Saturday afternoon lessons from [[Johann Bernoulli]], who quickly discovered his new pupil's incredible talent for mathematics.<ref name="childhood"/> At that time Euler's main studies included theology, [[Greek language|Greek]], and [[Hebrew language|Hebrew]] at his father's urging in order to become a pastor, but Bernoulli convinced his father that Leonhard was destined to become a great mathematician.
+
+In 1726, Euler completed a dissertation on the [[Speed of sound|propagation of sound]] with the title ''De Sono''.<ref name=17cent/> At that time, he was unsuccessfully attempting to obtain a position at the University of Basel. In 1727, he first entered the ''[[French Academy of Sciences|Paris Academy]] Prize Problem'' competition; the problem that year was to find the best way to place the [[mast (sailing)|masts]] on a ship. [[Pierre Bouguer]], who became known as "the father of naval architecture", won and Euler took second place. Euler later won this annual prize twelve times.<ref name="prize"/>
+
+===Saint Petersburg===
+Around this time Johann Bernoulli's two sons, [[Daniel Bernoulli|Daniel]] and [[Nicolaus II Bernoulli|Nicolaus]], were working at the [[Russian Academy of Sciences|Imperial Russian Academy of Sciences]] in [[Saint Petersburg]]. On 31 July 1726, Nicolaus died of appendicitis after spending less than a year in Russia,<ref>Ronald Calinger. "Leonhard Euler: The First St. Petersburg Years (1727–1741)". ''Historia Mathematica'' 23, 2 (1996), 121–66,
+[http://www.sciencedirect.com/science/article/pii/S0315086096900154?via%3Dihub read online]</ref><ref name=mactutor>{{cite web | last1 =O'Connor | first1 = John J. | last2 =Robertson | first2 = Edmund F. | title=Nicolaus (II) Bernoulli| website = MacTutor History of Mathematics archive | publisher = [[University of St Andrews]] |url=http://www-history.mcs.st-andrews.ac.uk/Biographies/Bernoulli_Nicolaus%28II%29.html| accessdate=2016-01-24}}</ref> and when Daniel assumed his brother's position in the mathematics/physics division, he recommended that the post in physiology that he had vacated be filled by his friend Euler. In November 1726 Euler eagerly accepted the offer, but delayed making the trip to Saint Petersburg while he unsuccessfully applied for a physics professorship at the University of Basel.<ref name="stpetersburg"/>
+
+[[Image:1957 CPA 2000.jpg|thumb|left|1957 [[Soviet Union]] stamp commemorating the 250th birthday of Euler. The text says: 250 years from the birth of the great mathematician, academician Leonhard Euler.]]
+Euler arrived in Saint Petersburg on 17 May 1727. He was promoted from his junior post in the medical department of the academy to a position in the mathematics department. He lodged with Daniel Bernoulli with whom he often worked in close collaboration. Euler mastered Russian and settled into life in Saint Petersburg. He also took on an additional job as a medic in the [[Russian Navy]].<ref name="medic"/>
+
+The Academy at Saint Petersburg, established by [[Peter I of Russia|Peter the Great]], was intended to improve education in Russia and to close the scientific gap with Western Europe. As a result, it was made especially attractive to foreign scholars like Euler. The academy possessed ample financial resources and a comprehensive library drawn from the private libraries of Peter himself and of the nobility. Very few students were enrolled in the academy in order to lessen the faculty's teaching burden, and the academy emphasized research and offered to its faculty both the time and the freedom to pursue scientific questions.<ref name="prize"/>
+
+The Academy's benefactress, [[Catherine I of Russia|Catherine I]], who had continued the progressive policies of her late husband, died on the day of Euler's arrival. The Russian nobility then gained power upon the ascension of the twelve-year-old [[Peter II of Russia|Peter II]]. The nobility was suspicious of the academy's foreign scientists, and thus cut funding and caused other difficulties for Euler and his colleagues.
+
+Conditions improved slightly after the death of Peter II, and Euler swiftly rose through the ranks in the academy and was made a professor of physics in 1731. Two years later, Daniel Bernoulli, who was fed up with the censorship and hostility he faced at Saint Petersburg, left for Basel. Euler succeeded him as the head of the mathematics department.<ref name="promotion"/>
+
+On 7 January 1734, he married Katharina Gsell (1707–1773), a daughter of [[Georg Gsell]], a painter from the Academy Gymnasium.<ref name=gekker/> The young couple bought a house by the [[Neva River]]. Of their thirteen children, only five survived childhood.<ref name="wife"/>
+
+===Berlin===
+[[Image:Euler GDR stamp.jpg|thumb|Stamp of the former [[German Democratic Republic]] honoring Euler on the 200th anniversary of his death. Across the centre it shows his [[Planar graph#Euler's formula|polyhedral formula]], in English written as&nbsp;"''v''&nbsp;−&nbsp;''e''&nbsp;+&nbsp;''f''&nbsp;=&nbsp;2".]]
+
+Concerned about the continuing turmoil in Russia, Euler left St. Petersburg on 19 June 1741 to take up a post at the ''[[Prussian Academy of Sciences|Berlin Academy]]'', which he had been offered by [[Frederick the Great of Prussia]]. He lived for 25 years in [[Berlin]], where he wrote over 380 articles. In Berlin, he published the two works for which he would become most renowned: the ''[[Introductio in analysin infinitorum]]'', a text on functions published in 1748, and the ''[[Institutiones calculi differentialis]]'',<ref name=dartm/> published in 1755 on [[differential calculus]].<ref name="Friedrich"/> In 1755, he was elected a foreign member of the [[Royal Swedish Academy of Sciences]].
+
+In addition, Euler was asked to tutor [[Friederike Charlotte of Brandenburg-Schwedt]], the Princess of [[Anhalt-Dessau]] and Frederick's niece. Euler wrote over 200 letters to her in the early 1760s, which were later compiled into a best-selling volume entitled ''[[Letters to a German Princess|Letters of Euler on different Subjects in Natural Philosophy Addressed to a German Princess]]''.<ref name='Digital Copy of "Letters to a German Princess"'/> This work contained Euler's exposition on various subjects pertaining to physics and mathematics, as well as offering valuable insights into Euler's personality and religious beliefs. This book became more widely read than any of his mathematical works and was published across Europe and in the United States. The popularity of the "Letters" testifies to Euler's ability to communicate scientific matters effectively to a lay audience, a rare ability for a dedicated research scientist.<ref name="Friedrich"/>
+
+Despite Euler's immense contribution to the Academy's prestige, he eventually incurred the ire of [[Frederick II of Prussia|Frederick]] and ended up having to leave Berlin. The Prussian king had a large circle of intellectuals in his court, and he found the mathematician unsophisticated and ill-informed on matters beyond numbers and figures. Euler was a simple, devoutly religious man who never questioned the existing social order or conventional beliefs, in many ways the polar opposite of [[Voltaire]], who enjoyed a high place of prestige at Frederick's court. Euler was not a skilled debater and often made it a point to argue subjects that he knew little about, making him the frequent target of Voltaire's wit.<ref name="Friedrich"/> Frederick also expressed disappointment with Euler's practical engineering abilities:
+
+{{quote|I wanted to have a water jet in my garden: Euler calculated the force of the wheels necessary to raise the water to a reservoir, from where it should fall back through channels, finally spurting out in [[Sanssouci]]. My mill was carried out geometrically and could not raise a mouthful of water closer than fifty paces to the reservoir. Vanity of vanities! Vanity of geometry!<ref name=fredlett/>}}
+
+[[Image:Leonhard Euler.jpg|thumb|1753 portrait of Euler by [[Emanuel Handmann]], which indicates problems with Euler's right eyelid, possibly [[strabismus]]. Euler's left eye, which here appears healthy, was later affected by a [[cataract]].<ref name="blind"/>]]
+
+=== Eyesight deterioration ===
+
+Euler's [[eyesight]] worsened throughout his mathematical career. In 1738, three years after nearly expiring from fever, he became almost blind in his right eye, but Euler rather blamed the painstaking work on [[cartography]] he performed for the St. Petersburg Academy for his condition. Euler's vision in that eye worsened throughout his stay in Germany, to the extent that Frederick referred to him as "[[Cyclops]]". Euler remarked on his loss of vision, "Now I will have fewer distractions."<ref name="Richeson2012">{{cite book|author=David S. Richeson|title=Euler's Gem: The Polyhedron Formula and the Birth of Topology|url=https://books.google.com/books?id=KUYLhOVkaV4C&pg=PA17|year=2012|publisher=Princeton University Press|isbn=978-1-4008-3856-1|page=17}} Quoted from {{cite book|author=Howard W. Eves|title=In Mathematical Circles: A Selection of Mathematical Stories and Anecdotes|year=1969|publisher=Prindle, Weber, & Schmidt|page=48}}</ref> He later developed a [[cataract]] in his left eye, which was discovered in 1766. Just a few weeks after its discovery, he was rendered almost totally blind. However, his condition appeared to have little effect on his productivity, as he compensated for it with his mental calculation skills and exceptional memory. For example, Euler could repeat the ''[[Aeneid]]'' of [[Virgil]] from beginning to end without hesitation, and for every page in the edition he could indicate which line was the first and which the last. With the aid of his scribes, Euler's productivity on many areas of study actually increased. He produced, on average, one mathematical paper every week in the year 1775.<ref name="volumes"/> The Eulers bore a double name, Euler-Schölpi, the latter of which derives from ''schelb'' and ''schief'', signifying squint-eyed, cross-eyed, or crooked. This suggests that the Eulers may have had a susceptibility to eye problems.<ref>{{cite book |last=Calinger |first=Ronald |date=2016 |title=Leonhard Euler mathematical genius in the Enlightenment |url=http://press.princeton.edu/titles/10531.html |location= |publisher=Princeton University Press |page=8 |isbn=978-1-4008-6663-2 }}</ref>
+
+===Return to Russia and death===
+In 1760, with the [[Seven Years' War]] raging, Euler's farm in Charlottenburg was ransacked by advancing Russian troops. Upon learning of this event, [[Ivan Saltykov|General Ivan Petrovich Saltykov]] paid compensation for the damage caused to Euler's estate, later [[Empress Elizabeth|Empress Elizabeth of Russia]] added a further payment of 4000 roubles—an exorbitant amount at the time.<ref>Gindikin, S.G., Гиндикин С. Г., МЦНМО, НМУ, 2001, с. 217.</ref> The political situation in Russia stabilized after [[Catherine II of Russia|Catherine the Great's]] accession to the throne, so in 1766 Euler accepted an invitation to return to the St. Petersburg Academy. His conditions were quite exorbitant—a 3000 ruble annual salary, a pension for his wife, and the promise of high-ranking appointments for his sons. All of these requests were granted. He spent the rest of his life in Russia. However, his second stay in the country was marred by tragedy. A fire in St. Petersburg in 1771 cost him his home, and almost his life. In 1773, he lost his wife Katharina after 40 years of marriage.
+
+Three years after his wife's death, Euler married her half-sister, Salome Abigail Gsell (1723–1794).<ref name=gekker2/> This marriage lasted until his death. In 1782 he was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]].<ref name=AAAS/>
+
+In St. Petersburg on 18 September 1783, after a lunch with his family, Euler was discussing the newly discovered planet [[Uranus]] and its [[orbit]] with a fellow [[academician]] [[Anders Johan Lexell]], when he collapsed from a [[brain hemorrhage]]. He died a few hours later.<ref name="euler"/> [[:de:Jacob von Staehlin|Jacob von Staehlin-Storcksburg]] wrote a short obituary for the [[Russian Academy of Sciences]] and Russian mathematician [[Nicolas Fuss]], one of Euler's disciples, wrote a more detailed eulogy,<ref name=novaacta/> which he delivered at a memorial meeting. In his eulogy for the French Academy, French mathematician and philosopher [[Marquis de Condorcet]], wrote:
+
+{{quote|''il cessa de calculer et de vivre''— ... he ceased to calculate and to live.<ref name=condorcet/>}}
+
+Euler was buried next to Katharina at the [[Smolensk Lutheran Cemetery]] on [[Goloday Island]]. In 1785, the [[Russian Academy of Sciences]] put a marble bust of Leonhard Euler on a pedestal next to the Director's seat and, in 1837, placed a headstone on Euler's grave. To commemorate the 250th anniversary of Euler's birth, the headstone was moved in 1956, together with his remains, to the 18th-century necropolis at the [[Alexander Nevsky Lavra|Alexander Nevsky Monastery]].
+
+[[Image:Euler Grave at Alexander Nevsky Monastry.jpg|thumb|Euler's grave at the [[Alexander Nevsky Lavra|Alexander Nevsky Monastery]]]]
+
+==Contributions to mathematics and physics==
+{{E (mathematical constant)}}
+
+Euler worked in almost all areas of mathematics, such as [[geometry]], [[infinitesimal]] [[calculus]], [[trigonometry]], [[algebra]], and [[number theory]], as well as [[continuum physics]], [[lunar theory]] and other areas of [[physics]]. He is a seminal figure in the history of mathematics; if printed, his works, many of which are of fundamental interest, would occupy between 60 and 80 [[quarto (text)|quarto]] volumes.<ref name="volumes"/> Euler's name is associated with a [[List of topics named after Leonhard Euler|large number of topics]].
+
+Euler is the only mathematician to have ''two'' numbers named after him: the important [[e (mathematical constant)|Euler's number]] in [[calculus]], ''e'', approximately equal to 2.71828, and the [[Euler–Mascheroni constant]] γ ([[gamma]]) sometimes referred to as just "Euler's constant", approximately equal to 0.57721. It is not known whether γ is [[Rational number|rational]] or [[Irrational number|irrational]].<ref name=derbysh/>
+<!-- The biography could use more correlation with his mathematical activities. When was his most prolific period and discoveries, and how did they fit in with his general life? -->
+
+===Mathematical notation===
+Euler introduced and popularized several notational conventions through his numerous and widely circulated textbooks. Most notably, he introduced the concept of a [[function (mathematics)|function]]<ref name="function"/> and was the first to write ''f''(''x'') to denote the function ''f'' applied to the argument ''x''. He also introduced the modern notation for the [[trigonometric functions]], the letter {{math|''e''}} for the base of the [[natural logarithm]] (now also known as [[Euler's number]]), the Greek letter [[Sigma|Σ]] for summations and the letter {{math|''i''}} to denote the [[imaginary unit]].<ref name=Boyer/> The use of the Greek letter ''[[pi (letter)|π]]'' to denote the [[pi|ratio of a circle's circumference to its diameter]] was also popularized by Euler, although it originated with [[Welsh people|Welsh]] mathematician [[William Jones (mathematician)|William Jones]].<ref name="pi">{{cite web| url = http://www.stephenwolfram.com/publications/mathematical-notation-past-future/| title = Mathematical Notation: Past and Future| accessdate=23 September 2014| last = Wolfram| first = Stephen}}</ref>
+
+===Analysis===
+The development of [[infinitesimal calculus]] was at the forefront of 18th-century mathematical research, and the [[Bernoulli family|Bernoullis]]—family friends of Euler—were responsible for much of the early progress in the field. Thanks to their influence, studying calculus became the major focus of Euler's work. While some of Euler's proofs are not acceptable by modern standards of [[mathematical rigor|mathematical rigour]]<ref name = "Basel"/> (in particular his reliance on the principle of the [[generality of algebra]]), his ideas led to many great advances.
+Euler is well known in [[Mathematical analysis|analysis]] for his frequent use and development of [[power series]], the expression of functions as sums of infinitely many terms, such as
+
+:<math>e^x = \sum_{n=0}^\infty {x^n \over n!} = \lim_{n \to \infty} \left(\frac{1}{0!} + \frac{x}{1!} + \frac{x^2}{2!} + \cdots + \frac{x^n}{n!}\right).</math>
+
+Notably, Euler directly proved the power series expansions for {{math|''e''}} and the [[inverse tangent]] function. (Indirect proof via the inverse power series technique was given by [[Isaac Newton|Newton]] and [[Gottfried Wilhelm Leibniz|Leibniz]] between 1670 and 1680.) His daring use of power series enabled him to solve the famous [[Basel problem]] in 1735 (he provided a more elaborate argument in 1741):<ref name="Basel"/>
+
+:<math>\sum_{n=1}^\infty {1 \over n^2} = \lim_{n \to \infty}\left(\frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \cdots + \frac{1}{n^2}\right) = \frac{\pi ^2}{6}.</math>
+
+[[Image:Euler's formula.svg|thumb|A geometric interpretation of [[Euler's formula]]]]
+
+Euler introduced the use of the [[exponential function]] and [[logarithms]] in analytic proofs. He discovered ways to express various logarithmic functions using power series, and he successfully defined logarithms for negative and [[complex number]]s, thus greatly expanding the scope of mathematical applications of logarithms.<ref name=Boyer/> He also defined the exponential function for complex numbers, and discovered its relation to the [[trigonometric function]]s. For any [[real number]] [[φ|{{math|φ}}]] (taken to be radians), [[Euler's formula]] states that the [[Exponential function#On the complex plane|complex exponential]] function satisfies
+
+:<math>e^{i\varphi} = \cos \varphi + i\sin \varphi.</math>
+
+A special case of the above formula is known as [[Euler's identity]],
+:<math>e^{i \pi} +1 = 0 </math>
+called "the most remarkable formula in mathematics" by [[Richard P. Feynman]], for its single uses of the notions of addition, multiplication, exponentiation, and equality, and the single uses of the important constants 0, 1, {{math|''e''}}, {{math|''i''}} and {{pi}}.<ref name="Feynman"/> In 1988, readers of the ''[[Mathematical Intelligencer]]'' voted it "the Most Beautiful Mathematical Formula Ever".<ref name=MathInt/> In total, Euler was responsible for three of the top five formulae in that poll.<ref name=MathInt/>
+
+[[De Moivre's formula]] is a direct consequence of [[Euler's formula]].
+
+In addition, Euler elaborated the theory of higher [[transcendental function]]s by introducing the [[gamma function]] and introduced a new method for solving [[quartic equation]]s. He also found a way to calculate integrals with complex limits, foreshadowing the development of modern [[complex analysis]]. He also invented the [[calculus of variations]] including its best-known result, the [[Euler–Lagrange equation]].
+
+Euler also pioneered the use of analytic methods to solve number theory problems. In doing so, he united two disparate branches of mathematics and introduced a new field of study, [[analytic number theory]]. In breaking ground for this new field, Euler created the theory of [[Generalized hypergeometric series|hypergeometric series]], [[q-series]], [[hyperbolic functions|hyperbolic trigonometric functions]] and the analytic theory of [[generalized continued fraction|continued fractions]]. For example, he proved the [[infinitude of primes]] using the divergence of the [[harmonic series (mathematics)|harmonic series]], and he used analytic methods to gain some understanding of the way [[prime numbers]] are distributed. Euler's work in this area led to the development of the [[prime number theorem]].<ref name="analysis"/>
+
+===Number theory===
+Euler's interest in number theory can be traced to the influence of [[Christian Goldbach]], his friend in the St. Petersburg Academy. A lot of Euler's early work on number theory was based on the works of [[Pierre de Fermat]]. Euler developed some of Fermat's ideas and disproved some of his conjectures.
+
+Euler linked the nature of prime distribution with ideas in analysis. He proved that [[Proof that the sum of the reciprocals of the primes diverges|the sum of the reciprocals of the primes diverges]]. In doing so, he discovered the connection between the [[Riemann zeta function]] and the prime numbers; this is known as the [[Proof of the Euler product formula for the Riemann zeta function|Euler product formula for the Riemann zeta function]].
+
+Euler proved [[Newton's identities]], [[Fermat's little theorem]], [[Fermat's theorem on sums of two squares]], and he made distinct contributions to [[Lagrange's four-square theorem]]. He also invented the [[totient function]] φ(''n''), the number of positive integers less than or equal to the integer ''n'' that are [[coprime]] to ''n''. Using properties of this function, he generalized Fermat's little theorem to what is now known as [[Euler's theorem]]. He contributed significantly to the theory of [[perfect number]]s, which had fascinated mathematicians since [[Euclid]]. He proved that the relationship shown between even perfect numbers and [[Mersenne prime]]s earlier proved by Euclid was one-to-one, a result otherwise known as the [[Euclid–Euler theorem]]. Euler also conjectured the law of [[quadratic reciprocity]]. The concept is regarded as a fundamental theorem of number theory, and his ideas paved the way for the work of [[Carl Friedrich Gauss]].<ref name="numbertheory"/>
+By 1772 Euler had proved that 2<sup>31</sup>&nbsp;−&nbsp;1 = [[2147483647|2,147,483,647]] is a Mersenne prime. It may have remained the [[largest known prime]] until 1867.<ref name=caldwell/>
+
+===Graph theory===
+[[Image:Konigsberg bridges.png|frame|right|Map of [[Königsberg]] in Euler's time showing the actual layout of the [[Seven Bridges of Königsberg|seven bridges]], highlighting the river Pregel and the bridges.]]
+In 1735, Euler presented a solution to the problem known as the [[Seven Bridges of Königsberg]].<ref name="bridge"/> The city of [[Königsberg]], [[Kingdom of Prussia|Prussia]] was set on the [[Pregel]] River, and included two large islands that were connected to each other and the mainland by seven bridges. The problem is to decide whether it is possible to follow a path that crosses each bridge exactly once and returns to the starting point. It is not possible: there is no [[Eulerian path|Eulerian circuit]]. This solution is considered to be the first theorem of [[graph theory]], specifically of [[planar graph]] theory.<ref name="bridge"/>
+
+Euler also discovered the [[Planar graph#Euler's formula|formula]] <math>V - E + F = 2</math> relating the number of vertices, edges and faces of a [[Convex polytope|convex polyhedron]],<ref name=cromw/> and hence of a [[planar graph]]. The constant in this formula is now known as the [[Euler characteristic]] for the graph (or other mathematical object), and is related to the [[genus (mathematics)|genus]] of the object.<ref name=gibbons/> The study and generalization of this formula, specifically by [[Augustin-Louis Cauchy|Cauchy]]<ref name="Cauchy"/> and [[Simon Antoine Jean L'Huilier|L'Huilier]],<ref name="Lhuillier"/> is at the origin of [[topology]].
+
+===Applied mathematics===
+Some of Euler's greatest successes were in solving real-world problems analytically, and in describing numerous applications of the [[Bernoulli numbers]], [[Fourier series]], [[Euler number]]s, the constants [[E (mathematical constant)|{{math|e}}]] and [[pi|{{pi}}]], continued fractions and integrals. He integrated [[Gottfried Leibniz|Leibniz]]'s [[differential calculus]] with Newton's [[Method of Fluxions]], and developed tools that made it easier to apply calculus to physical problems. He made great strides in improving the [[numerical approximation]] of integrals, inventing what are now known as the [[Euler approximations]]. The most notable of these approximations are [[Euler's method]] and the [[Euler–Maclaurin formula]]. He also facilitated the use of [[differential equations]], in particular introducing the [[Euler–Mascheroni constant]]:
+
+:<math>\gamma = \lim_{n \rightarrow \infty } \left( 1+ \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \cdots + \frac{1}{n} - \ln(n) \right).</math>
+
+One of Euler's more unusual interests was the application of mathematical ideas in music. In 1739 he wrote the ''Tentamen novae theoriae musicae,'' hoping to eventually incorporate [[musical theory]] as part of mathematics. This part of his work, however, did not receive wide attention and was once described as too mathematical for musicians and too musical for mathematicians.<ref name="music"/>
+
+===Physics and astronomy===
+{{Classical mechanics|cTopic=Scientists}}
+Euler helped develop the [[Euler–Bernoulli beam equation]], which became a cornerstone of engineering. Aside from successfully applying his analytic tools to problems in [[classical mechanics]], Euler also applied these techniques to celestial problems. His work in astronomy was recognized by a number of Paris Academy Prizes over the course of his career. His accomplishments include determining with great accuracy the orbits of comets and other celestial bodies, understanding the nature of comets, and calculating the [[solar parallax|parallax]] of the sun. His calculations also contributed to the development of accurate [[History of longitude|longitude tables]].<ref name=yousch/>
+
+In addition, Euler made important contributions in [[optics]]. He disagreed with Newton's [[corpuscular theory of light]] in the ''[[Opticks]]'', which was then the prevailing theory. His 1740s papers on optics helped ensure that the [[wave theory of light]] proposed by [[Christiaan Huygens]] would become the dominant mode of thought, at least until the development of the [[wave-particle duality|quantum theory of light]].<ref name="optics"/>
+
+In 1757 he published an important set of equations for [[inviscid flow]], that are now known as the [[Euler equations (fluid dynamics)|Euler equations]].<ref name=euler2/> In differential form, the equations are:
+:<math>
+\begin{align}
+&{\partial\rho\over\partial t}+
+\nabla\cdot(\rho\mathbf u)=0\\[1.2ex]
+&{\partial(\rho{\mathbf u})\over\partial t}+
+\nabla\cdot(\mathbf u\otimes(\rho \mathbf u))+\nabla p=\mathbf{0}\\[1.2ex]
+&{\partial E\over\partial t}+
+\nabla\cdot(\mathbf u(E+p))=0,
+\end{align}
+</math>
+
+where
+* ''ρ'' is the fluid [[mass density]],
+* '''''u''''' is the fluid [[velocity]] [[Vector (geometric)|vector]], with components ''u'', ''v'', and ''w'',
+* ''E'' = ''ρ e'' + ½ ''ρ'' (''u''<sup>2</sup> + ''v''<sup>2</sup> + ''w''<sup>2</sup>) is the total energy per unit [[volume]], with ''e'' being the [[internal energy]] per unit mass for the fluid,
+* ''p'' is the [[pressure]],
+* ''⊗'' denotes the [[tensor product]], and
+* '''0''' being the [[zero vector]].
+
+Euler is also well known in structural engineering for his formula giving the critical [[buckling]] load of an ideal strut, which depends only on its length and flexural stiffness:<ref name="SIAM"/>
+:<math>F=\frac{\pi^2 EI}{(KL)^2}</math>
+
+where
+* ''F'' = maximum or critical [[force]] (vertical load on column),
+* ''E'' = [[modulus of elasticity]],
+* ''I'' = [[area moment of inertia]],
+* ''L'' = unsupported length of column,
+* ''K'' = column effective length factor, whose value depends on the conditions of end support of the column, as follows.
+::For both ends pinned (hinged, free to rotate), ''K'' = 1.0.
+::For both ends fixed, ''K'' = 0.50.
+::For one end fixed and the other end pinned, ''K'' = 0.699…
+::For one end fixed and the other end free to move laterally, ''K'' = 2.0.
+* ''K L'' is the effective length of the column.
+
+===Logic===
+Euler is also credited with using [[closed curve]]s to illustrate [[syllogism|syllogistic]] reasoning (1768). These diagrams have become known as [[Euler diagram]]s.<ref name="logic"/>
+[[File:Euler Diagram.svg|thumb|169x169px|Euler's diagram]]
+
+An Euler diagram is a [[diagram]]matic means of representing [[Set (mathematics)|sets]] and their relationships. Euler diagrams consist of simple closed curves (usually circles) in the plane that depict [[Set (mathematics)|sets]].  Each Euler curve divides the plane into two regions or "zones": the interior, which symbolically represents the [[element (mathematics)|elements]] of the set, and the exterior, which represents all elements that are not members of the set.  The sizes or shapes of the curves are not important; the significance of the diagram is in how they overlap. The spatial relationships between the regions bounded by each curve (overlap, containment or neither) corresponds to set-theoretic relationships ([[intersection (set theory)|intersection]], [[subset]] and [[Disjoint sets|disjointness]]).   Curves whose interior zones do not intersect represent [[disjoint sets]].  Two curves whose interior zones intersect represent sets that have common elements; the zone inside both curves represents the set of elements common to both sets (the [[intersection (set theory)|intersection]] of the sets).  A curve that is contained completely within the interior zone of another represents a [[subset]] of it. Euler diagrams (and their generalization in [[Venn diagram]]s) were incorporated as part of instruction in [[set theory]] as part of the [[new math]] movement in the 1960s. Since then, they have also been adopted by other curriculum fields such as reading.<ref name=quest/>
+
+===Music===
+Even when dealing with music, Euler's approach is mainly mathematical. His writings on music are not particularly numerous (a few hundred pages, in his total production of about thirty thousand pages), but they reflect an early preoccupation and one that did not leave him throughout his life.<ref>Peter Pesic, ''Music and the Making of Modern Science'', p.&nbsp;133.</ref>
+
+A first point of Euler's musical theory is the definition of "genres", i.e. of possible divisions of the octave using the prime numbers 3 and 5. Euler describes 18 such genres, with the general definition 2<sup>m</sup>A, where A is the "exponent" of the genre (i.e. the sum of the exponents of 3 and 5) and 2<sup>m</sup> (where "m is an indefinite number, small or large, so long as the sounds are perceptible"<ref>Leonhard Euler, ''Tentamen novae theoriae musicae'', St Petersburg, 1739, p.&nbsp;115</ref>), expresses that the relation holds independently of the number of octaves concerned. The first genre, with A = 1, is the octave itself (or its duplicates); the second genre, 2<sup>m</sup>.3, is the octave divided by the fifth (fifth + fourth, C–G–C); the third genre is 2<sup>m</sup>.5, major third + minor sixth (C–E–C); the fourth is 2<sup>m</sup>.3<sup>2</sup>, two fourths and a tone (C–F–B{{music|b}}–C); the fifth is 2<sup>m</sup>.3.5 (C–E–G–B–C); etc. Genres 12 (2<sup>m</sup>.3<sup>3</sup>.5), 13 (2<sup>m</sup>.3<sup>2</sup>.5<sup>2</sup>) and 14 (2<sup>m</sup>.3.5<sup>3</sup>) are corrected versions of the diatonic, chromatic and enharmonic, respectively, of the Ancients. Genre 18 (2<sup>m</sup>.3<sup>3</sup>.5<sup>2</sup>) is the "diatonico-chromatic", "used generally in all compositions",<ref>Eric Emery, ''Temps et musique'',  Lausanne, L'Âge d'homme, 2000, pp. 344–45.</ref> and which turns out to be identical with the system described by Johann Mattheson.<ref>Johannes Mattheson, ''Grosse General-Baß-Schule'', Hamburg, 1731, Vol. I, pp.&nbsp;104–06, mentioned by Euler; and ''Exemplarische Organisten-Probe'', Hamburg, 1719, pp.&nbsp;57–59.</ref> Euler later envisaged the possibility of describing genres including the prime number 7.<ref>Wilfrid Perret, ''Some Questions of Musical Theory'', Cambridge, 1926, pp.&nbsp;60–62; "What is an Euler-Fokker genus?", http://www.huygens-fokker.org/microtonality/efg.html, retrieved 12-6-2015.</ref>
+
+Euler devised a specific graph, the ''Speculum musicum'',<ref>Leonhard Euler,''Tentamen novae theoriae musicae'', St Petersburg, 1739, p.&nbsp;147; ''De harmoniae veris principiis'', St Petersburg, 1774, p.&nbsp;350.</ref> to illustrate the diatonico-chromatic genre, and discussed paths in this graph for specific intervals, recalling his interest in the Seven Bridges of Königsberg (see [[Leonhard Euler#Graph theory|above]]). The device drew renewed interest as the [[Tonnetz]] in neo-Riemannian theory (see also [[Lattice (music)]]).<ref>Edward Gollin, "Combinatorial and Transformational Aspects of Euler's ''Speculum Musicum''", ''Mathematics and Computation in Music'', T. Klouche and Th. Noll eds, Springer, 2009, pp. 406–11.</ref>
+
+Euler further used the principle of the "exponent" to propose a derivation of the ''gradus suavitatis'' (degree of suavity, of agreeableness) of intervals and chords from their prime factors – one must keep in mind that he considered just intonation, i.e. 1 and the prime numbers 3 and 5 only.<ref>Mark Lindley and Ronald Turner-Smith, ''Mathematical Models of Musical Scales'', Bonn, Verlag für systematische Musikwissenschaft, 1993, pp. 234–39. See also Catherine Nolan, "Music Theory and Mathematics", ''The Cambridge History of Western Music Theory'', Th. Christensen ed., New York, CUP, 2002, pp. 278–79.</ref> Formulas have been proposed extending this system to any number of prime numbers, e.g. in the form
+
+:''ds'' = {{SIGMA}} ''(k<sub>i</sub>p<sub>i</sub> – k<sub>i</sub>)'' + 1
+
+where ''p<sub>i</sub>'' are prime numbers and ''k<sub>i</sub>'' their exponents.<ref>Patrice Bailhache, "La Musique traduite en Mathématiques: Leonhard Euler", http://patrice.bailhache.free.fr/thmusique/euler.html, retrieved 12-6-2015.</ref>
+
+==Personal philosophy and religious beliefs==
+Euler and his friend [[Daniel Bernoulli]] were opponents of [[Gottfried Leibniz|Leibniz's]] [[monadism]] and the philosophy of [[Christian Wolff (philosopher)|Christian Wolff]]. Euler insisted that knowledge is founded in part on the basis of precise quantitative laws, something that monadism and Wolffian science were unable to provide. Euler's religious leanings might also have had a bearing on his dislike of the doctrine; he went so far as to label Wolff's ideas as "heathen and atheistic".<ref name="wolff"/>
+
+Much of what is known of Euler's religious beliefs can be deduced from his ''[[Letters to a German Princess]]'' and an earlier work, ''Rettung der Göttlichen Offenbahrung Gegen die Einwürfe der Freygeister'' (''Defense of the Divine Revelation against the Objections of the Freethinkers''). These works show that Euler was a devout Christian who believed the Bible to be inspired; the ''Rettung'' was primarily an argument for the [[Biblical inspiration|divine inspiration of scripture]].<ref name="theology"/>
+
+There is a famous legend<ref name="diderot"/> inspired by Euler's arguments with secular philosophers over religion, which is set during Euler's second stint at the St. Petersburg Academy. The French philosopher [[Denis Diderot]] was visiting Russia on Catherine the Great's invitation. However, the Empress was alarmed that the philosopher's arguments for [[atheism]] were influencing members of her court, and so Euler was asked to confront the Frenchman. Diderot was informed that a learned mathematician had produced a proof of the [[existence of God]]: he agreed to view the proof as it was presented in court. Euler appeared, advanced toward Diderot, and in a tone of perfect conviction announced this [[Non sequitur (literary device)|non-sequitur]]: "Sir, {{sfrac|''a+b<sup>n</sup>''|''n''}}=''x'', hence God exists—reply!"
+Diderot, to whom (says the story) all mathematics was gibberish, stood dumbstruck as peals of laughter erupted from the court.  Embarrassed, he asked to leave Russia, a request that was graciously granted by the Empress. However amusing the anecdote may be, it is [[wikt:apocryphal|apocryphal]], given that Diderot himself did research in mathematics.<ref name=persee/>
+The legend was apparently first told by
+[[Dieudonné Thiébault]]<ref name="brown"/> with significant embellishment by [[Augustus De Morgan]].<ref name="Struik"/><ref name="gillings"/>
+
+==Commemorations==
+[[Image:Euler-10 Swiss Franc banknote (front).jpg|thumb|Euler on the Old Swiss [[Swiss Franc|10 Franc]] banknote]]
+Euler was featured on the sixth series of the Swiss 10-[[Swiss franc|franc]] banknote and on numerous Swiss, German, and Russian postage stamps. The [[asteroid]] [[2002 Euler]] was named in his honor. He is also commemorated by the [[Lutheran Church]] on their [[Calendar of Saints (Lutheran)|Calendar of Saints]] on 24 May—he was a devout Christian (and believer in [[biblical inerrancy]]) who wrote [[apologetics]] and argued forcefully against the prominent atheists of his time.<ref name="theology"/>
+
+==Selected bibliography==
+* {{cite book |last=Euler |first=Leonhard |edition= |editor= |date=2015 |title=Elements of Algebra |page= |location= |publisher=Create Space Inc., a division of [[Amazon.com]]|isbn=978-1-5089-0118-1}} (A translation of Euler's ''Vollständige Anleitung zur Algebra'', 1765. This elementary algebra text starts with a discussion of the nature of numbers and gives a comprehensive introduction to algebra, including formulae for solutions of polynomial equations.)
+[[File:Acta Eruditorum - II geometria, 1744 – BEIC 13411238.jpg|thumb|Illustration from ''Solutio problematis... a. 1743 propositi'' published in [[Acta Eruditorum]], 1744]]
+[[Image:Methodus inveniendi - Leonhard Euler - 1744.jpg|thumb|upright|The title page of Euler's ''Methodus inveniendi lineas curvas''.]]
+*'''Euler has an [[Contributions of Leonhard Euler to mathematics#Works|extensive bibliography]]. His best-known books include:'''
+* ''[[Mechanica]]'' (1736).
+* [https://www.loc.gov/item/04028085/ ''Methodus inveniendi lineas curvas maximi minimive proprietate gaudentes, sive solutio problematis isoperimetrici latissimo sensu accepti'' (1744)]. The Latin title translates as ''a method for finding curved lines enjoying properties of maximum or minimum, or solution of isoperimetric problems in the broadest accepted sense''.<ref name=dartm2/>
+* ''[[Introductio in analysin infinitorum]]'' (1748). English translation ''Introduction to Analysis of the Infinite'' by John Blanton (Book I, {{ISBN|0-387-96824-5}}, Springer-Verlag 1988; Book II, {{ISBN|0-387-97132-7}}, Springer-Verlag 1989).
+
+* Two influential textbooks on calculus: ''[[Institutiones calculi differentialis]]'' (1755) and ''[[Institutionum calculi integralis]]'' (1768–1770).
+* ''[[Letters to a German Princess]]'' (1768–1772).
+
+A definitive collection of Euler's works, entitled ''Opera Omnia'', has been published since 1911 by the [[Euler Commission]] of the [[Swiss Academies of Arts and Sciences|Swiss Academy of Sciences]]. A complete chronological list of Euler's works is available at the following page: ''[http://www.math.dartmouth.edu/~euler/docs/translations/enestrom/Enestrom_Index.pdf The Eneström Index]'' (PDF).
+
+== See also ==
+{{Portal|Mathematics|Switzerland|Biography}}
+* [[e (mathematical constant)|Euler's number]], {{math|''e'' ≈ 2.71828}}, the base of the [[natural logarithm]], also known as ''Napier's constant''
+* [[Martin Knutzen]]
+* [[List of things named after Leonhard Euler]]
+{{clear}}
+
+==References and notes==
+{{Reflist|33em|refs=
+
+<ref name=mathg>{{MathGenealogy|id=38586}}</ref>
+
+<ref name=pronun>The pronunciation {{IPAc-en|ˈ|juː|l|ər}} is incorrect. "Euler", [[Oxford English Dictionary]], second edition, Oxford University Press, 1989 [http://www.merriam-webster.com/dictionary/Euler "Euler"], [[Webster's Dictionary|Merriam–Webster's Online Dictionary]], 2009. [http://ahdictionary.com/word/search.html?q=Euler%2C+Leonhard&submit.x=40&submit.y=16 "Euler, Leonhard"], [[The American Heritage Dictionary of the English Language]], fifth edition, Houghton Mifflin Company, Boston, 2011. {{cite book|title=Nets, Puzzles, and Postmen: An Exploration of Mathematical Connections|author=Peter M. Higgins|year=2007|publisher=Oxford University Press|page=43}}</ref>
+
+<ref name="function">{{harvnb|Dunham|1999|p=17}}</ref>
+
+<ref name=eulerarch>{{cite web|url=http://eulerarchive.maa.org/pages/E033.html |author=Saint Petersburg |title=Tentamen novae theoriae musicae ex certissimis harmoniae principiis dilucide expositae |publisher= |date=1739  |accessdate= }}</ref>
+
+<ref name="volumes">{{cite journal |last = Finkel |first = B.F. |year = 1897 |title = Biography – Leonard Euler |journal = The American Mathematical Monthly |volume = 4 | issue = 12 |jstor = 2968971|pages = 297–302|doi=10.2307/2968971 }}</ref>
+
+<ref name="Laplace">{{harvnb|Dunham|1999|p=xiii}} "Lisez Euler, lisez Euler, c'est notre maître à tous."</ref>
+
+<ref name=libri>The quote appeared in Gugliemo Libri's review of a recently published collection of correspondence among eighteenth-century mathematicians:  Gugliemo Libri (January 1846), Book review:  "Correspondance mathématique et physique de quelques célèbres géomètres du XVIIIe siècle, ..." (Mathematical and physical correspondence of some famous geometers of the eighteenth century, ...), ''Journal des Savants'', [http://gallica.bnf.fr/ark:/12148/bpt6k57253t/f52.image.langEN p. 51.]  From p. 51:  ''"... nous rappellerions que Laplace lui même, ... ne cessait de répéter aux jeunes mathématiciens ces paroles mémorables que nous avons entendues de sa propre bouche : 'Lisez Euler, lisez Euler, c'est notre maître à tous.' "'' (... we would recall that Laplace himself, ... never ceased to repeat to young mathematicians these memorable words that we heard from his own mouth: 'Read Euler, read Euler, he is our master in everything.)</ref>
+
+<ref name="childhood">{{cite book |last= James |first= Ioan |title= Remarkable Mathematicians: From Euler to von Neumann |publisher= Cambridge |year= 2002|page=2 |isbn= 978-0-521-52094-2}}</ref>
+
+<ref name=17cent>{{cite web|url=http://www.17centurymaths.com/contents/euler/e002tr.pdf |author=Ian Bruce |title=Euler's Dissertation De Sono : E002. Translated & Annotated |publisher=17centurymaths.com |date= |accessdate=14 September 2011 }}</ref>
+
+<ref name="prize">{{harvnb|Calinger|1996|p=156}}</ref>
+
+<ref name="stpetersburg">{{harvnb|Calinger|1996|p=125}}</ref>
+
+<ref name="medic">{{harvnb|Calinger|1996|p=127}}</ref>
+
+<ref name="promotion">{{harvnb|Calinger|1996|pp=128–29}}</ref>
+
+<ref name=gekker>{{Cite book | first1=I.R. | last1=Gekker | first2=A.A. | last2=Euler | chapter=Leonhard Euler's family and descendants |chapterurl=https://books.google.com/books?id=Ta9bz1wv79AC&pg=PA402 |title={{harvnb|Bogolyubov|Mikhaĭlov|Yushkevich|2007|page=402}} |ref={{harvid|Gekker|Euler|2007}}}}</ref>
+
+<ref name="wife">{{cite web| url=http://www-history.mcs.st-and.ac.uk/~history/Extras/Euler_Fuss_Eulogy.html| title = Eulogy of Euler by Fuss| accessdate =30 August 2006| last = Fuss| first = Nicolas}}</ref>
+
+<ref name=dartm>{{cite web| title = E212&nbsp;– Institutiones calculi differentialis cum eius usu in analysi finitorum ac doctrina serierum|publisher=Dartmouth|url=http://www.math.dartmouth.edu/~euler/pages/E212.html}}</ref>
+
+<ref name="Friedrich">{{harvnb|Dunham|1999|pp=xxiv–xxv}}</ref>
+
+<ref name='Digital Copy of "Letters to a German Princess"'>{{cite web|last=Euler|first=Leonhard|title=Letters to a German Princess on Diverse Subjects of Natural Philosophy|url=https://archive.org/details/letterseulertoa00eulegoog|publisher=Internet Archive, Digitzed by Google|accessdate=15 April 2013}}</ref>
+
+<ref name=fredlett>{{cite book | title=Letters of Voltaire and Frederick the Great, Letter H 7434, 25 January 1778 | author=Frederick II of Prussia | author-link=Frederick II of Prussia | publisher=Brentano's | location=New York | year=1927 | others=[[Richard Aldington]] }}</ref>
+
+<ref name="blind">{{harvnb|Calinger|1996|pp=154–55}}</ref>
+
+<ref name=gekker2>{{harvnb|Gekker|Euler|2007|p=[https://books.google.com/books?id=Ta9bz1wv79AC&pg=PA405 405]}}</ref>
+
+<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter E|url=http://www.amacad.org/publications/BookofMembers/ChapterE.pdf|publisher=American Academy of Arts and Sciences|accessdate=28 July 2014}}</ref>
+
+<ref name="euler">{{cite book|title=Leonhard Euler|author=A. Ya. Yakovlev|year=1983|publisher=Prosvesheniye|location=M.}}</ref>
+
+<ref name=novaacta>{{cite journal| year = 1783| title = Eloge de M. Leonhard Euler. Par M. Fuss| journal = Nova Acta Academiae Scientiarum Imperialis Petropolitanae | volume = 1| pages = 159–212 |url=https://www.biodiversitylibrary.org/item/38629#page/177/mode/1up}}</ref>
+
+<ref name=condorcet>{{cite web| url = http://www.math.dartmouth.edu/~euler/historica/condorcet.html| title = Eulogy of Euler&nbsp;– Condorcet| accessdate =30 August 2006| author =Marquis de Condorcet}}</ref>
+
+<ref name=derbysh>{{cite book|last=Derbyshire|first=John|title=Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics|year=2003|publisher=Joseph Henry Press|location=Washington, D.C.|page=422|title-link=Prime Obsession}}</ref>
+
+<ref name="Basel">{{cite book| last = Wanner| first = Gerhard|author2=Hairer, Ernst  | title = Analysis by its history| edition = 1st|date=2005| publisher = Springer| page = 63}}</ref>
+
+<ref name=Boyer>{{cite book|title = A History of Mathematics|last= Boyer|first=Carl B.|author2=Merzbach, Uta C.|author2-link= Uta Merzbach  |publisher= [[John Wiley & Sons]]|isbn= 978-0-471-54397-8|pages = 439–45|year = 1991}}</ref>
+
+<ref name="Feynman">
+{{cite book |last= Feynman|first= Richard|title= The Feynman Lectures on Physics|volume= I|page=10 |chapter= Chapter 22: Algebra |date= 1970}}</ref>
+
+<ref name=MathInt>{{cite journal | last= Wells | first= David | year= 1990 | title = Are these the most beautiful? | journal = Mathematical Intelligencer | volume = 12 | issue = 3 | pages= 37–41 | doi= 10.1007/BF03024015 }}<br />{{cite journal | last= Wells | first= David | year= 1988 | title = Which is the most beautiful? | journal = Mathematical Intelligencer | volume = 10 | issue = 4 | pages= 30–31 | doi= 10.1007/BF03023741 }}</ref>
+
+<ref name="analysis">{{harvnb|Dunham|1999|loc=Ch. 3, Ch. 4}}</ref>
+
+<ref name="numbertheory">{{harvnb|Dunham|1999|loc=Ch. 1, Ch. 4}}</ref>
+
+<ref name=caldwell>Caldwell, Chris. [http://primes.utm.edu/notes/by_year.html ''The largest known prime by year'']</ref>
+
+<ref name="bridge">{{cite journal| last = Alexanderson| first = Gerald|authorlink=Gerald L. Alexanderson|date=July 2006| title = Euler and Königsberg's bridges: a historical view| journal = Bulletin of the American Mathematical Society| doi = 10.1090/S0273-0979-06-01130-X| volume = 43| page = 567| issue = 4| bibcode = 1994BAMaS..30..205W}}</ref>
+
+<ref name=cromw>{{cite book |first=Peter R. |last=Cromwell |title=Polyhedra |url=https://books.google.com/books?id=OJowej1QWpoC&pg=PA189 |year=1999 |publisher=Cambridge University Press |isbn=978-0-521-66405-9 |pages=189–90}}</ref>
+
+<ref name=gibbons>{{cite book |first=Alan |last=Gibbons |title=Algorithmic Graph Theory |url=https://books.google.com/books?id=Be6t04pgggwC&pg=PA72 |year=1985 |publisher=Cambridge University Press |isbn=978-0-521-28881-1 |page=72}}</ref>
+
+<ref name="Cauchy">{{cite journal|author=Cauchy, A.L.|year=1813|title=Recherche sur les polyèdres – premier mémoire|journal=[[Journal de l'École Polytechnique]]|volume= 9 (Cahier 16)|pages=66–86}}</ref>
+
+<ref name="Lhuillier">{{cite journal|author=L'Huillier, S.-A.-J.|title=Mémoire sur la polyèdrométrie|journal=Annales de Mathématiques|volume=3|year=1861|pages=169–89}}</ref>
+
+<ref name="music">{{harvnb|Calinger|1996|pp=144–45}}</ref>
+
+<ref name=yousch>{{cite book |url= |title=Dictionary of Scientific Biography |first=A P |last=Youschkevitch |year=1970–1990 |publisher=New York |isbn= |page= }}</ref>
+
+<ref name="optics">{{cite journal
+| author = Home, R.W.
+| year = 1988
+| title = Leonhard Euler's 'Anti-Newtonian' Theory of Light
+| journal = Annals of Science
+| volume = 45
+| issue = 5
+| pages = 521–33 | doi = 10.1080/00033798800200371
+}}</ref>
+
+<ref name=euler2>{{cite journal|last=Euler|first=Leonhard|title=Principes généraux de l'état d'équilibre d'un fluide|trans-title=General principles of the state of equilibrium of a fluid|journal=Académie Royale des Sciences et des Belles-Lettres de Berlin, Mémoires|year=1757|volume=11|pages=217–73|url=http://arxiv-web3.library.cornell.edu/pdf/0802.2383.pdf}}</ref>
+
+<ref name="SIAM">{{cite journal | url=http://www.cs.purdue.edu/homes/wxg/EulerLect.pdf | title=Leonhard Euler: His Life, the Man, and His Work | last=Gautschi | first=Walter | journal=SIAM Review | year=2008 | volume=50 | issue=1 | pages=3–33 | doi=10.1137/070702710|bibcode = 2008SIAMR..50....3G | citeseerx=10.1.1.177.8766 }}</ref>
+
+<ref name="logic">{{cite journal |last=Baron |first=M.E. |title=A Note on The Historical Development of Logic Diagrams |journal=The Mathematical Gazette |volume=LIII |issue=383 |pages=113–25 |date=May 1969 |jstor=3614533}}</ref>
+
+<ref name=quest>{{cite web|url=http://www.readingquest.org/strat/venn.html|author=|title=Strategies for Reading Comprehension Venn Diagrams|publisher=|date=|accessdate=|deadurl=yes|archiveurl=https://web.archive.org/web/20090429093334/http://readingquest.org/strat/venn.html|archivedate=29 April 2009|df=dmy-all}}</ref>
+
+<ref name="wolff">{{harvnb|Calinger|1996|pp=153–54}}</ref>
+
+<ref name="diderot">{{cite journal| last = Brown | first = B.H.|date=May 1942| title = The Euler–Diderot Anecdote| journal =The American Mathematical Monthly| volume = 49| issue = 5| pages = 302–03| doi = 10.2307/2303096| jstor = 2303096}}; {{cite journal| last = Gillings | first = R.J.|date=February 1954| title = The So-Called Euler–Diderot Incident| journal =The American Mathematical Monthly| volume = 61| issue = 2| pages = 77–80| doi = 10.2307/2307789| jstor = 2307789}}</ref>
+
+<ref name=persee>{{cite journal|last=Marty|first=Jacques|title=Quelques aspects des travaux de Diderot en Mathematiques Mixtes.|journal=Recherches Sur Diderot et Sur l'Encyclopédie|volume=4|issue=1|pages=145–147|url=http://www.persee.fr/web/revues/home/prescript/article/rde_0769-0886_1988_num_4_1_954|year=1988}}</ref>
+
+<ref name="brown">{{cite journal | journal = [[American Mathematical Monthly]] | volume=49 | issue=5 | last1 = Brown | first1 = B.H. | title = The Euler–Diderot Anecdote | pages = 302–03 |date=May 1942 | doi=10.2307/2303096| jstor=2303096 }}</ref>
+
+<ref name="Struik">{{cite book | title = A Concise History of Mathematics | edition = 3rd revised | last1 = Struik | first1 = Dirk J. | publisher = [[Dover Books]] | year = 1967 | page = 129 | authorlink = Dirk Jan Struik | isbn = 978-0-486-60255-4 }}</ref>
+
+<ref name="gillings">{{cite journal | journal = [[American Mathematical Monthly]] | volume=61 | issue=2 | last1 = Gillings | first1 = R.J. | title = The So-Called Euler-Diderot Anecdote | pages = 77–80 |date=Feb 1954 | doi=10.2307/2307789| jstor=2307789 }}</ref>
+
+<ref name="theology">{{cite journal| last = Euler| first = Leonhard | editor = Orell-Fussli| year = 1960| title = Rettung der Göttlichen Offenbahrung Gegen die Einwürfe der Freygeister| journal = Leonhardi Euleri Opera Omnia (series 3)| volume = 12 }}</ref>
+
+<!--<ref name=indep>{{cite news|last=Williams|first=Rob|title=Google Doodle celebrates Leonhard Euler – Swiss mathematician considered one of the greatest of all time |url=http://www.independent.co.uk/life-style/gadgets-and-tech/news/google-doodle-celebrates-leonhard-euler--swiss-mathematician-considered-one-of-the-greatest-of-all-time-8573041.html|location=London|work=The Independent|date=15 April 2013}}</ref>-->
+
+<ref name=dartm2>[http://math.dartmouth.edu/~euler/pages/E065.html E65  – Methodus... entry at Euler Archives]. Math.dartmouth.edu. Retrieved on 14 September 2011.</ref>
+}}
+
+==Further reading==
+{{refbegin|60em}}
+* ''Lexikon der Naturwissenschaftler'', (2000), Heidelberg: Spektrum Akademischer Verlag.
+* {{cite book |first1=Nikolaĭ Nikolaevich |last1=Bogolyubov |author1-link=Nikolay Bogolyubov |first2=G.K. |last2=Mikhaĭlov |first3=Adolph Pavlovich |last3=Yushkevich |author3-link=Adolph P. Yushkevich|title=Euler and Modern Science |url=https://books.google.com/books?id=Ta9bz1wv79AC |year=2007 |publisher=Mathematical Association of America |isbn=978-0-88385-564-5 |ref=harv |translator=Robert Burns}}
+* {{cite book |first1=Robert E. |last1=Bradley |first2=Lawrence A. |last2=D'Antonio |first3=Charles Edward |last3=Sandifer |title=Euler at 300: An Appreciation |url=https://books.google.com/books?id=tK_KRmTf9nUC |year=2007 |publisher=Mathematical Association of America |isbn=978-0-88385-565-2}}
+* {{cite journal |last= Calinger |first=Ronald | year = 1996| title = Leonhard Euler: The First St. Petersburg Years (1727–1741)| journal = Historia Mathematica| volume = 23| issue = 2| pages= 121–66 | doi = 10.1006/hmat.1996.0015 |ref=harv}}
+* Ronald Calinger, ''Leonhard Euler: Mathematical Genius in the Enlightenment'', [[Princeton University Press]], 2016.
+* {{cite book |first=S.S. |last=Demidov |chapter=Treatise on the differential calculus |chapterurl=https://books.google.com/books?id=UdGBy8iLpocC&pg=PA191 |editor1-first=Ivor |editor1-last=Grattan-Guinness |editor1-link=Ivor Grattan-Guinness |title=Landmark Writings in Western Mathematics 1640–1940 |url=https://books.google.com/books?id=UdGBy8iLpocC |year=2005 |publisher=Elsevier |isbn=978-0-08-045744-4 |pages=191–98 |ref={{harvid|Grattan-Guinness|2005}}}}
+* {{cite book |authorlink=William Dunham (mathematician) |first=William |last=Dunham |title=Euler: The Master of Us All |url=https://books.google.com/books?id=uKOVNvGOkhQC |year=1999 |publisher=Mathematical Association of America |isbn=978-0-88385-328-3 |ref=harv}}
+* {{cite book |first=William |last=Dunham |title=The Genius of Euler: Reflections on his Life and Work |url=https://books.google.com/books?id=A6by_UpQikIC |year=2007 |publisher=Mathematical Association of America |isbn=978-0-88385-558-4}}
+* {{cite book |last=Fraser |first=Craig G. |title=Leonhard Euler's 1744 book on the calculus of variations |url=https://books.google.com/books?id=UdGBy8iLpocC&pg=PA168|isbn=978-0-08-045744-4 |date=2005-02-11 }} In {{harvnb|Grattan-Guinness|2005|pp=168–80}}
+* {{cite journal | title= Leonhard Euler: his life, the man, and his works | author=Gautschi, Walter |authorlink=Walter Gautschi| year= 2008 | journal= SIAM Review | volume = 50 | issue= 1 | pages=3–33 | doi= 10.1137/070702710 |bibcode = 2008SIAMR..50....3G | url=http://www.cs.purdue.edu/homes/wxg/EulerLect.pdf| citeseerx=10.1.1.177.8766 }}
+* Hascher, Xavier and Papadopoulos, Athanase (editors). 2015. ''Leonhard Euler : Mathématicien, physicien et théoricien de la musique'',  Paris, CNRS Editions, 2015, 516 p. ({{isbn|978-2-271-08331-9}})
+* Heimpell, Hermann, Theodor Heuss, Benno Reifenberg (editors). 1956. ''Die großen Deutschen'', volume 2, Berlin: Ullstein Verlag.
+* {{cite journal | last1 = Krus | first1 = D.J. | date = November 2001 | title = Is the normal distribution due to Gauss? Euler, his family of gamma functions, and their place in the history of statistics | url = http://www.visualstatistics.net/Statistics/Euler/Euler.htm | journal = Quality & Quantity | volume = 35 | issue = 4 | pages = 445–46 | doi = 10.1023/A:1012226622613 | deadurl = yes | archiveurl = https://web.archive.org/web/20060210125807/http://www.visualstatistics.net/Statistics/Euler/Euler.htm | archivedate = 10 February 2006 | df = dmy-all }}
+* {{cite book |first=Paul J. |last=Nahin |title=Dr. Euler's Fabulous Formula: Cures Many Mathematical Ills |url=https://books.google.com/books?id=46oBiMZ7aZMC |year=2006 |publisher=Princeton University Press |isbn=978-0-691-11822-2}}
+* {{cite book |last=du Pasquier |first=Louis-Gustave |title=Leonhard Euler And His Friends |publisher=CreateSpace |translator=John S.D. Glaus |year=2008 |isbn=978-1-4348-3327-3 }}
+* {{cite book |last=Reich |first=Karin |title='Introduction' to analysis |url=https://books.google.com/books?id=UdGBy8iLpocC&pg=PA181 |isbn=978-0-08-045744-4 |date=2005-02-11 }} In {{harvnb|Grattan-Guinness|2005|pp=181–90}}
+* {{cite book |first=David S. |last=Richeson |title=Euler's Gem: The Polyhedron Formula and the Birth of Topology |url=https://books.google.com/books?id=KUYLhOVkaV4C |year=2011 |publisher=Princeton University Press |isbn=978-0-691-12677-7 }}
+* {{cite book |first=C. Edward |last=Sandifer |title=The Early Mathematics of Leonhard Euler |url=https://books.google.com/books?id=CvBxLr_0uBQC |year=2007 |publisher=Mathematical Association of America |isbn=978-0-88385-559-1}}
+* {{cite book |first=C. Edward |last=Sandifer |title=How Euler Did It |url=https://books.google.com/books?id=sohHs7ExOsYC |year=2007 |publisher=Mathematical Association of America |isbn=978-0-88385-563-8}}
+* {{cite book |last=Simmons |first=J. |title=The giant book of scientists: The 100 greatest minds of all time |publisher=The Book Company |location=Sydney |year=1996 |isbn=978-1-86309-647-8 }}
+* {{cite book |last=Singh |first=Simon |authorlink=Simon Singh |title=Fermat's Last Theorem|publisher=Fourth Estate |location=New York |year=1997 |isbn=978-1-85702-669-6 |title-link=Fermat's Last Theorem (book) }}
+* {{cite book |last=Thiele |first=Rüdiger |chapter=The mathematics and science of Leonhard Euler |editor1-first=Michael |editor1-last=Kinyon |editor2-first=Glen |editor2-last=van Brummelen |title=Mathematics and the Historian's Craft: The Kenneth O. May Lectures |chapterurl=https://books.google.com/books?id=3ZTedZtwYMoC&pg=PA81+ |year=2005 |publisher=Springer |isbn=978-0-387-25284-1 |pages=81–140}}
+* {{cite journal |date=November 1983 | title = A Tribute to Leohnard Euler 1707–1783 | journal = [[Mathematics Magazine]] | volume = 56 | issue = 5}}
+* {{cite book |first=John |last=Derbyshire |title=Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics |location=Washington, DC |publisher=John Henry Press |year=2003 |isbn=978-0-309-08549-6|title-link=Prime Obsession }}.
+{{refend}}
+
+==External links==
+{{Sister project links| wikt=no | commons=no | b=no | n=no | q=Leonhard Euler | s=Author:Leonhard Euler | v=no | voy=no | species=no | d=q7604}}
+{{EB1911 poster|Euler, Leonhard}}
+* [http://www.leonhardeuler.com/ LeonhardEuler.com]
+* {{ScienceWorldBiography | urlname=Euler | title=Euler, Leonhard (1707–1783)}}
+* [http://www.britannica.com/eb/article-9033216/Leonhard-Euler Encyclopædia Britannica article]
+* {{MathGenealogy|id=38586}}
+* [http://www.maa.org/news/howeulerdidit.html How Euler did it] contains columns explaining how Euler solved various problems
+* [http://eulerarchive.maa.org/ Euler Archive]
+* [https://web.archive.org/web/20130513144319/http://portail.mathdoc.fr/cgi-bin/oetoc?id=OE_EULER_1_2 Leonhard Euler – Œuvres complètes] Gallica-Math
+* [https://web.archive.org/web/20110520092329/http://www.leonhard-euler.ch/ Euler Committee of the Swiss Academy of Sciences]
+* [http://www-history.mcs.st-andrews.ac.uk/References/Euler.html References for Leonhard Euler]
+* [http://www.euler-2007.ch/en/index.htm Euler Tercentenary 2007]
+* [http://www.eulersociety.org/ The Euler Society]
+* [http://www.math.dartmouth.edu/~euler/historica/family-tree.html Euler Family Tree]
+* [http://friedrich.uni-trier.de/oeuvres/20/219/ Euler's Correspondence with Frederick the Great, King of Prussia]
+* {{MacTutor Biography|id=Euler}}
+* [http://euler413.narod.ru/ Euler Quartic Conjecture]
+* [http://digitalcollections.ucsc.edu/cdm/search/collection/p265101coll10/searchterm/Leonhard%20Euler/order/title Portrait of Leonhard Euler from the Lick Observatory Records Digital Archive, UC Santa Cruz Library's Digital Collections]
+* Euler's (1769–1771) [http://lhldigital.lindahall.org/cdm/search/searchterm/Euler%2C%20Leonhard%2C%201707-1783.!dioptricae/field/creato!title/mode/exact!all/conn/and!and/order/nosort ''Dioptricae, 3 vols.''] – digital facsimile from the [[Linda Hall Library]]
+* {{Librivox author |id=12395}}
+
+{{Infinitesimals}}
+{{Authority control}}
+
+{{DEFAULTSORT:Euler, Leonhard}}
+[[Category:Leonhard Euler| ]]
+[[Category:1707 births]]
+[[Category:1783 deaths]]
+[[Category:18th-century Latin-language writers]]
+[[Category:Swiss emigrants to the Russian Empire]]
+[[Category:18th-century Swiss mathematicians]]
+[[Category:Swiss mathematicians]]
+[[Category:Swiss astronomers]]
+[[Category:Swiss music theorists]]
+[[Category:Swiss physicists]]
+[[Category:Optical physicists]]
+[[Category:Swiss Protestants]]
+[[Category:Blind people from Switzerland]]
+[[Category:Blind academics]]
+[[Category:Mental calculators]]
+[[Category:Fluid dynamicists]]
+[[Category:Number theorists]]
+[[Category:Latin squares]]
+[[Category:Mathematical analysts]]
+[[Category:Ballistics experts]]
+[[Category:Saint Petersburg State University faculty]]
+[[Category:University of Basel alumni]]
+[[Category:Members of the Prussian Academy of Sciences]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Full Members of the St Petersburg Academy of Sciences]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Royal Society]]
+[[Category:People celebrated in the Lutheran liturgical calendar]]
+[[Category:Burials at Smolensky Lutheran Cemetery]]

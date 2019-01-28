@@ -1,0 +1,103 @@
+{{Infobox UK legislation
+|short_title=Calendar (New Style) Act 1750
+|parliament=Parliament of Great Britain
+|long_title=An Act for Regulating the Commencement of the Year; and for Correcting the Calendar now in Use
+|year=1750
+|statute_book_chapter=24 Geo. 2 c. 23
+|introduced_by=[[Philip Stanhope, 4th Earl of Chesterfield|Lord Chesterfield]]
+|territorial_extent="''In and throughout all his Majesty's dominions and countries in Europe, Asia, Africa, and America''"<br>Territorial extent of (original) subsequent repeals (to (i.e., after) the [[Anniversary Days Observance Act 1859]]): [[England and Wales]], [[Scotland]]
+|royal_assent=27 May 1751
+|commencement=1 January 1752
+|repeal_date= 
+|amendments=Calendar Act 1752, [[Anniversary Days Observance Act 1859]], [[Statute Law Revision Act 1948]], [[Statute Law (Repeals) Act 1971]], [[Statute Law (Repeals) Act 1986]]
+|related_legislation=
+|repealing_legislation=
+|status=Spent
+|original_text=https://books.google.com/books?lr=&id=rLsuAAAAIAAJ&jtp=186
+|use_new_UK-LEG=yes
+}}
+The '''Calendar (New Style) Act 1750''' (c.23) (also known as '''Chesterfield's Act''' after [[Philip Stanhope, 4th Earl of Chesterfield]]) was an [[Act of Parliament|Act]] of the [[Parliament of Great Britain]]. The Act had two parts: first, it reformed the calendar of [[Kingdom of England|England]]{{efn|Scotland had changed to a 1 January start in 1600.}} and the [[British Empire|British Dominions]] so that the new legal year began on 1 January rather than 25 March ([[Lady Day]]); and, second, Great Britain and its Dominions adopted (in effect){{efn|The Act makes no reference to Gregory, since to do so might imply recognition of Papal primacy. It acknowledges the inconvenience of having a differing system from neighbouring countries and recognises the error in the Julian calendar. It defined a calendar identical to the Gregorian system, from first principles.}} the [[Gregorian calendar]], as already used in most of western [[Europe]].
+
+Chesterfield introduced the Bill into Parliament on 25 February 1751 (1750 Old Style). It was passed by the Commons on 13 May and received [[royal assent]] on 27 May 1751.<ref>{{cite book|first=H.|last=Dagnall|title=Give us back our eleven days|location=Edgware|publisher=author|year=1991|isbn=0-9515497-2-3|page=19}}</ref> 
+
+==Reasons for change==
+The Parliament held that the [[Julian calendar]] then in use, and the start of the year on 25 March, were 
+{{quote|attended with divers inconveniences, not only as it differs from the usage of neighbouring nations, but also from the legal method of computation in Scotland, and from the common usage throughout the whole kingdom, and thereby frequent mistakes are occasioned in the dates of deeds and other writings, and disputes arise therefrom.<ref name=Act/>}}
+
+==Great Britain and the British Colonies==
+In England and Wales, the legal year 1751 was a short year of 282 days, running from 25 March to 31 December. 1752 began on 1 January. To align the calendar in use in England to that on the continent, the Gregorian calendar was adopted, and the calendar was advanced by 11 days: Wednesday 2 September 1752 was followed by Thursday 14 September 1752.{{efn|"An unusual calendar is printed for September 1752. That is the month 11 days were skipped to make up for lack of leap year adjustments" ([[Solaris (operating system)|Solaris]] manual and [[Cal (Unix)#Features]]).}} The year 1752 was thus a short year (355 days) as well.
+
+As well as adopting the Gregorian rule for leap years, Pope Gregory's rules for the date of Easter were also adopted. However, with religious strife still on their minds, the British could not bring themselves to adopt the Catholic system explicitly: the Annexe to the Act established a [[computus|computation for the date of Easter]] that achieved the same result as Gregory's rules, without actually referring to him.<ref>[http://www.legislation.gov.uk/apgb/Geo2/24/23/section/3 24 Geo. II Ch. 23, § 3]. </ref> The [[algorithm]], set out in the [[Book of Common Prayer]] as required by the Act, includes calculation of the [[golden numbers|Golden Number]] and the [[Dominical Letter|Sunday Letter]], which (in the Easter section of the Book) were presumed to be already known. The Annexe to the Act includes the definition: "''Easter-day'' (on which the rest depend) is always the first ''Sunday'' after the ''Full Moon'', which happens upon, or next after the Twenty-first Day of ''March''. And if the ''Full Moon'' happens upon a ''Sunday'', ''Easter-day'' is the ''Sunday'' after." The Annexe subsequently uses the terms "Paschal Full Moon" and "Ecclesiastical Full Moon", making it clear that they only approximate to the real Full Moon.<ref>[http://www.legislation.gov.uk/apgb/Geo2/24/23/section/6 24 Geo. II Ch. 23, Annexe].</ref>
+
+===Scotland===
+Scotland had already partly made the change: its calendar year had begun on 1 January since 1600.{{sfn|Bond|1875|loc=See footnote on pages xvii–xviii: original text of the Scottish decree}} The remainder of the act applied equally to Scotland, a part of  the [[Kingdom of Great Britain]] since the [[Acts of Union 1707]].
+
+===Ireland===
+At the time, the [[Kingdom of Ireland]] was a [[Poynings Law|semi-autonomous]] kingdom in a [[personal union]] with the [[Kingdom of Great Britain]]. So that the calendar in Ireland would remain harmonised with that of Great Britain, the [[Parliament of Ireland]] passed similarly worded legislation as the "Calendar (New Style) Act, 1750".{{sfn|Parliament of Ireland|1750}}
+
+==Reaction and effect==
+===The "calendar riot" myth===
+[[Image:William Hogarth 028.jpg|thumb|right|''[[Humours of an Election|An Election Entertainment]]'' (c. 1755), a painting by [[William Hogarth]], which is the main source for "Give us our Eleven Days".]]
+Some history books say that some people rioted after the calendar change, asking that their "eleven days" be returned. However this is very likely a myth, based on only two primary sources: The ''World'', a satirical journal of [[Philip Stanhope, 4th Earl of Chesterfield|Lord Chesterfield]]; and a painting by [[William Hogarth]].<ref name=Poole>{{harvnb|Poole|1995}}; {{harvnb|Steel|2000|p=249}}</ref>
+
+Chesterfield was behind the Act. He wrote to his son, "Every numerous assembly is a mob, let the individuals who compose it be what they will. Mere sense is never to be talked to a mob; their passions, their sentiments, their senses and their seeming interests alone are to be applied to.  Understanding have they collectively none." Here, he was boasting of his skill in having the Bill passed through the Lords; the 'mob' in question was his fellow peers.{{citation needed|date=July 2008}}
+
+When the son of the [[George Parker, 2nd Earl of Macclesfield|Earl of Macclesfield]] (who had been influential in passing the Act) stood for [[Parliament of Great Britain|Parliament]] in Oxfordshire as a [[British Whig Party|Whig]] in 1754, dissatisfaction with the calendar reform was one of a number of issues raised by his [[Tory Party|Tory]] opponents. In 1755, William Hogarth produced a painting (and an engraved print from the painting) loosely based on these elections, entitled ''[[Humours of an Election|An Election Entertainment]]'', which shows a placard carrying the slogan "Give us our Eleven Days" (on floor at lower right). An example of the resulting incorrect history is by [[Ronald Paulson]], author of ''Hogarth, His Life, Art and Times'', who wrote that "the Oxfordshire people … are specifically rioting, as historically the London crowd did, to preserve the 'Eleven Days' the government stole from them in September 1752 by changing the calendar".<ref name=Poole/>
+
+Thus the "calendar riot" fiction was born. The [[British general election, 1754|election campaign depicted]] concluded in 1754, after a very lengthy contest between Court Whigs and Jacobite Tories. Every issue between the two factions was brought up, including the question of calendar reform. The Tories attacked the Whigs for every deviation, including their alleged favouritism towards foreign Jews and the [[Gregorian calendar|"Popish" calendar]]. Hogarth's placard, part of a satire on the character of the debate, was not an observation of actual crowd behaviour.<ref name=Poole/>
+
+===Legitimate concerns===
+There were, however, legitimate concerns lest tax and other payments arise any earlier under the new calendar than they would otherwise have done. Consequently, Provision 6 (''Times of Payment of Rents, Annuities'') of the Act stipulated that monthly or yearly payments would not become due until the dates that they originally would have done had the Julian calendar continued or, in the words of the Act, "[Times of Payment of Rents, Annuities] at and upon the same respective natural days and times as the same should and ought to have been payable or made or would have happened in case this Act had not been made".<ref name=Act>{{UK-LEG|title=Calendar (New Style) Act 1750}}</ref>
+
+===Other effects===
+Several theories have been proposed for the odd beginning of the British tax year on 6 April.{{sfn|HMRC|2008}} One is that from 1753 until 1799, the tax year began on 5 April, which corresponded to 25 March Old Style. After the twelfth skipped Julian leap day in 1800, it was changed to 6 April, which still corresponded to 25 March Old Style. However it was not changed when a thirteenth Julian leap day was skipped in 1900, so the tax year in the [[United Kingdom]] still begins on 6 April.{{sfn|Philip|1921|p=24}}{{sfn|''Legislation.gov.uk''|2017}} However Poole thought that [[quarter day]]s, such as Lady Day on 25 March, marked the ''end'' of the quarters of the financial year.{{sfn|Poole|1995|loc=note 77}} Thus, although 25 March Old Style marked the beginning of the civil year, the next day, 26 March Old Style was until 1752 the ''beginning'' of the tax year. After removing eleven days in 1752, this corresponded to 6 April New Style, where it remains today. Although Poole's theory is supported by one dictionary,{{sfn|Webster's Dictionary|1913}} the [[Oxford English Dictionary]] as well as other sources state that quarter days mark the ''beginning'' of their respective quarters.{{efn|"Each of the four days fixed by custom as marking off the quarters of the year, ... the payment of rent and other quarterly charges fall due, ... In England ... the quarter days are traditionally Lady Day (March 25),&nbsp;..." [[Oxford English Dictionary]] ''quarter day'', n.}}{{sfn|Frecknall-Hughes|2016}}
+
+===Religious dissent===
+{{see also|Little Christmas}}
+In [[Appalachia]], some [[Scots-Irish]] settlers resisted the changeover mandated by the Calendar Act by continuing to celebrate [[Christmas]] on January 6 (N.S.), referring to the day as ''Old Christmas''.{{sfn|Blair|2013}}
+
+==See also==
+*[[Old Style and New Style dates]]
+
+==Notes==
+{{notelist|group=lower-alpha}}
+{{reflist|25em}}
+
+==References==
+*{{citation|last=Blair |first=Tony |url=http://www.themountaineagle.com/news/2013-12-25/Features/Appalachians_once_celebrated_Old_Christmas.html#.WF9LPE0rKUm |title=Appalachians once celebrated 'Old Christmas' |newspaper=The Mountain Eagle |location=Whitesburg, Kentucky |date=25 December 2013}}
+*{{citation |last=Frecknall-Hughes |first=Jane| date=6 April 2016  |title=Why the UK tax year begins on April 6 (it’s a very strange tale) | website=The Independent  |url=https://www.independent.co.uk/money/why-the-uk-tax-year-begins-on-april-6-it-s-a-very-strange-tale-a6970801.html}}
+*{{citation |last=Bond |first=John James |author-link=John James Bond |year=1875 |pages=[https://books.google.com/books?id=b2wBAAAAQAAJ&pg=PR17 xvii]–xviii |title=Handy-book of rules and tables |location=London |publisher=George Bell & Sons}}
+*{{citation |author=HMRC |year=2008 |url=http://www.hmrc.gov.uk/faqs/general.htm#7 |title=HM Revenue & Customs: Frequently Asked Questions: Why does the tax year start on April 6?], HM Revenue & Customs|archive-url=http://webarchive.nationalarchives.gov.uk/20100202184612/http://www.hmrc.gov.uk/faqs/general.htm
+|archive-date=2 February 2010}}
+*{{citation  |ref={{sfnref|Legislation.gov.uk|2017}} |title=Income Tax Act 2007, s. 4(3) |website=Legislation.gov.uk |date=5 August 2017 |url=http://www.legislation.gov.uk/ukpga/2007/3/section/4/2008-04-01?timeline=true |access-date=13 September 2017}}
+*{{citation |last=Philip |first=Alexander |year=1921 |title=The calendar; its history, structure and improvement |location=Cambridge |publisher=University Press |page=[https://archive.org/stream/calendaritshisto00philuoft#page/24/mode/1up 24]}}
+*{{citation |last=Poole |first=Robert |date=November 1995 |url=https://www.academia.edu/2342015/Give_us_our_eleven_days_ |title='Give us our eleven days!': calendar reform in eighteenth-century England |journal=Past & Present |volume=149 |number=1 |pages=95–139 |archiveurl=https://web.archive.org/web/20141205220427/http://www.academia.edu/2342015/Give_us_our_eleven_days_ |archivedate=5 December 2014 |deadurl=yes |df= }}
+*{{citation |last=Steel |first=Duncan |year=2000 |title=Marking Time: The Epic Quest to Invent the Perfect Calendar |publisher=Wiley |isbn=978-0-471-40421-7 |page=[https://books.google.com/books?id=fsni_qV-FJoC&pg=PT259 249]}}
+*{{citation |ref={{sfnref|Webster's Dictionary|1913}} |chapter-url=http://www.webster-dictionary.org/definition/Quarter |chapter=Quarter: 3. Quarter day |title=Webster's 1913 dictionary |publisher=Webster-dictionary.org |accessdate=14 September 2010}}
+
+'''Primary sources'''
+*{{UK-LEG|path=apgb/Geo2/24/23|title=Calendar (New Style) Act 1750/51}}
+*{{UK-LEG|path=apgb/Geo2/25/30|title=Calendar Act 1751/52}}
+*{{citation |author=Parliament of Great Britain |chapter=An act for regulating the commencement of the year; and for correcting the calendar now in use |title=The Statutes at Large: From the Magna Charta, to the End of the Eleventh Parliament of Great Britain, Anno 1761 &#91;continued to 1806&#93; |volume=20  |year=1765  |publisher=J. Bentham |page=186 |chapterurl=https://books.google.com/books?id=rLsuAAAAIAAJ&pg=PA186}} — The original 1750/51 Act.
+*{{citation |last=Parliament of Great Britain |year=1813 |title=The Parliamentary History of England from the Earliest Period to the Year 1803 |volume=14 |page=[https://books.google.com/books?id=s2YxAAAAIAAJ&pg=PT474 474]}}  cols 979–992. First and second readings of the bill before the [[House of Lords]] on {{nowrap|25 February}} and {{nowrap|18 March}} (Old Style) 1750/51. Passed Lords without debate. 
+*{{citation |author=Parliament of Great Britain |year=1765 |chapter=An act to amend an act made in the last session of parliament, (intituled, An act for regulating the commencement of the year, and for correcting the calendar now in use.) |title=The Statutes at Large: From the Magna Charta, to the End of the Eleventh Parliament of Great Britain, Anno 1761 &#91;continued to 1806&#93; |volume=20 |publisher=J. Bentham |page=368 |chapterurl=https://books.google.com/books?id=rLsuAAAAIAAJ&pg=PA368}} — First amendment (1751/52) to the original Act.
+*{{citation |author=Parliament of Ireland |year=1750  |title=Calendar (New Style) Act, 1750 |publisher=Government of Ireland |url=http://www.irishstatutebook.ie/eli/1750/act/23/enacted/en/print.html |accessdate=13 September 2017}} — Sister legislation passed by the Irish Parliament
+ 
+==Further reading==
+*Healton, Gilbert [http://x109.healton.net/y2k/ Year, Date, and Time Information How people and computers use dates and times]
+*Nørby, Toke. [http://www.norbyhus.dk/calendar.html#England The Perpetual Calendar: What about England]
+*{{citation |last=Poole |first=Robert |date=1998 |page=[https://books.google.com/books?id=cXCgakgPHBYC&pg=PA100 100] |title=Time's alteration: Calendar reform in early modern England |location=London |publisher=UCL Press }} — Bill amended in [[House of Commons of Great Britain|House of Commons]]. Received royal assent {{nowrap|22 May}} (OS) 1751.
+*Stockton, J.R. [http://www.merlyn.demon.co.uk/miscdate.htm#Styles Date Miscellany I: The Old and New Styles]
+*Staff. [http://www.quaker.org.uk/Templates/Internal.asp?NodeID=90037&int1stParentNodeID=89813&strAreaColor=aqua Guide to the Quaker Calendar], website of the [http://www.quaker.org.uk/Templates/Internal.asp?NodeID=89726 Quakers]. Accessed 28 December 2007
+*Staff. [http://webexhibits.org/calendars/year-text-British.html Calendar (New Style) Act 1750], [http://webexhibits.org/about/about.html WebExhibits] (N.B.: enacted in civil year 1751); (Source: Adapted from Gilbert Healton &ndash; see above). Accessed 28 December 2007
+
+==External links==
+* {{wikisourceinline|British Calendar Act of 1751}}
+
+{{UK legislation}}
+
+[[Category:Calendars]]
+[[Category:Great Britain Acts of Parliament 1750]]
+[[Category:Time in the United Kingdom]]
+[[Category:1750 in science]]
+[[Category:1750 in Christianity]]

@@ -1,0 +1,32 @@
+[[File:Richmanns Tod 1753.jpg|thumb|right|Richmann and his engraver during the electrocution in St. Petersburg.]]
+
+'''Georg Wilhelm Richmann''' (Russian: Георг Вильгельм Рихман) (22 July 1711 – 6 August 1753), ([[Julian calendar|Old Style]]: 11 July 1711 – 26 July 1753) was a [[Baltic Germans|Baltic German]] [[physicist]]. He proved that thunder clouds contain electric charge.
+
+He was born  in [[Pernau]] (today Pärnu, [[Estonia]]) in [[Swedish Livonia]], which in 1721 became part of the [[Russian Empire]] as a result of the [[Great Northern War]] (1700–1721). His father died of [[pandemic|plague]] before he was born, and his mother remarried.  In his early years he studied in Reval (today's [[Tallinn]], [[Estonia]]); later he studied in [[Germany]] at the universities of [[Halle, Saxony-Anhalt|Halle]] and [[Jena]].
+
+In 1741, he was elected a member of the [[Russian Academy of Sciences|St. Petersburg Academy of Sciences]].  He did pioneering work on electricity and atmospheric electricity, and also worked on [[calorimetry]], in  doing so collaborating with [[Mikhail Lomonosov]]. Richmann also worked as a tutor of the children of Count [[Andrei Osterman]].  In 1741, he translated [[Alexander Pope]]'s ''Essay on Man'' into [[German language|German]] from [[French language|French]].
+
+He was electrocuted in [[Saint Petersburg|St. Petersburg]] while "trying to quantify the response of an insulated rod to a nearby storm." He was attending a meeting of the Academy of Sciences, when he heard thunder. The Professor ran home with his engraver to capture the event for posterity. While the experiment was underway, a supposed [[ball lightning]] appeared and collided with Richmann's head leaving him dead with a red spot on his forehead, his shoes blown open, and parts of his clothes singed. An explosion followed "like that of a small Cannon" that knocked the engraver out, split the room's door frame, and tore the door off its hinges.<ref>On 6 August 1753, the Swedish scientist Georg Wilhelm Richmann was electrocuted in St. Petersburg while trying to quantify the response of an insulated rod to a nearby storm. The incident, reported worldwide, underscored the dangers inherent in experimenting with insulated rods and in using protective rods with faulty ground connections. [http://scitation.aip.org/journals/doc/PHTOAD-ft/vol_59/iss_1/42_1.shtml]</ref><ref name=Franklin_biography>{{cite web|last=Clarke |first=Ronald W. |authorlink=Ronald W. Clark |title=Benjamin Franklin, A Biography |url=http://www.todayinsci.com/R/Richmann_Georg/RichmannGeorgExp.htm |archiveurl=https://www.webcitation.org/64dqHa9Zh?url=http://www.todayinsci.com/R/Richmann_Georg/RichmannGeorgExp.htm |archivedate=January 12, 2012 |isbn=978-1-84212-272-3 |year=1983 |publisher=Random House |page=87 |deadurl=no |df= }}</ref>
+Reportedly, ball lightning traveled along the apparatus and was the cause of his death.<ref name=Franklin_biography /><ref>"Frenchman [[Thomas François D'Alibard]] used a {{convert|50|ft|m|sing=on}} long vertical rod to draw down the "electric fluid" of the lightning in Paris on May 10, 1752. One week later, M. Delor repeated the experiment in Paris, followed in July by an Englishman, John Canton. But one unfortunate physicist did not fare so well. Georg Wilhelm Reichmann attempted to reproduce the experiment, according to Franklin's instructions, standing inside a room. A glowing ball of charge traveled down the string, jumped to his forehead and killed him instantly - providing history with the first documented example of ball lightning in the process." {{cite journal |last=Krider |first=E. Philip |year=2006 |title=Benjamin Franklin and Lightning Rods |journal=[[Physics Today]] |volume=59 |issue=1 |pages=42–48 |publisher=[[American Institute of Physics]] |doi=10.1063/1.2180176 |url=http://physicstoday.org/journals/doc/PHTOAD-ft/vol_59/iss_1/42_1.shtml |accessdate=3 December 2012 |bibcode=2006PhT....59a..42K |deadurl=yes |archiveurl=https://archive.is/20130415190642/http://physicstoday.org/journals/doc/PHTOAD-ft/vol_59/iss_1/42_1.shtml |archivedate=15 April 2013 |df= }}</ref> He was apparently the first person in history to die while conducting electrical experiments.<ref>[https://www.newscientist.com/article/dn9293-physicists-create-great-balls-of-fire.html Physicists create great balls of fire - fundamentals - 07 June 2006 - New Scientist<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20060719002633/http://www.newscientist.com/article/dn9293-physicists-create-great-balls-of-fire.html |date=July 19, 2006 }}</ref>
+
+==References==
+[[File:Mort du Richmann.png|thumb|Richmann killed by lightning]]
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Richmann, Georg Wilhelm}}
+[[Category:1711 births]]
+[[Category:1753 deaths]]
+[[Category:People from Pärnu]]
+[[Category:People from Swedish Livonia]]
+[[Category:Baltic-German people]]
+[[Category:German physicists]]
+[[Category:German inventors]]
+[[Category:Imperial Russian physicists]]
+[[Category:Imperial Russian inventors]]
+[[Category:Full Members of the St Petersburg Academy of Sciences]]
+[[Category:Deaths from lightning strikes]]
+[[Category:University of Halle alumni]]
+[[Category:University of Jena alumni]]
+[[Category:Accidental deaths in Russia]]

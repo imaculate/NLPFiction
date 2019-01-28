@@ -1,0 +1,9 @@
+#Redirect [[Yale University]]
+
+{{Redirect category shell|1=
+{{Redirect from move}}
+{{Redirect from merge}}
+{{Redirect mentioned in hatnote}}
+{{Redirect from short name}}
+{{Redirect unprintworthy}}
+}}

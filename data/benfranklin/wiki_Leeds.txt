@@ -1,0 +1,887 @@
+{{Distinguish|Leeds, Kent}}
+{{About|the city in England|the administrative district|City of Leeds|other uses|Leeds (disambiguation)|the city region|Leeds City Region}}
+{{pp-move|small=yes}}
+
+{{Use British English|date=January 2017}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->| name                            = Leeds
+| official_name                   = 
+| other_name                      = 
+| native_name                     = <!--F for cities whose native name is not in English -->
+| settlement_type                 = [[Cities in the United Kingdom|City]]
+| motto                           = ''Pro rege et lege''<br /><small>(Latin: "For king and the law")</small>
+| nickname                        = <!-- images and maps ----------->
+| image_skyline                   = Leeds Montage.jpg
+| imagesize                       = 270px
+| image_alt                       = Leeds
+| image_caption                   = Clockwise from top left: [[Leeds Town Hall|Town Hall]], [[Trinity Leeds]], [[Bridgewater Place, Leeds|Bridgewater Place]], [[Leeds Dock]], [[First Direct Arena]]
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| pushpin_map                     = UK England#United Kingdom#Europe
+| pushpin_map_caption             = Location within England##Location within the United Kingdom##Location within Europe
+| pushpin_relief                  = 1
+| image_shield                    = Arms of Leeds.svg
+| shield_link                     = Coat of arms of Leeds
+| shield_size                     = 70px
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| blank_emblem_alt                = A shield, with three white stars on a black background at the top and, below, a suspended fleece on a light-blue background. Above the shield is a helmet with leaves above and behind and a small owl on top. To the left and right are two large owls wearing golden ducal coronets. They are perched on a scroll below the shield which reads "PRO LEGE ET REGE".
+| blank_emblem_link               = Coat of arms of Leeds
+| image_map                       = Leeds UK locator map.svg
+| mapsize                         = 250px
+| map_alt                         = A map of England coloured pink showing the administrative subdivisions of the country. The Leeds metropolitan borough area is coloured red.
+| map_caption                     = Shown within [[West Yorkshire]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = [[The Headrow, Leeds|The Headrow]]
+<!-- Location ------------------>| subdivision_type                = [[List of sovereign states|Sovereign state]]
+| subdivision_name                = [[United Kingdom]]
+| subdivision_type1               = [[Countries of the United Kingdom|Constituent country]]
+| subdivision_name1               = [[England]]
+| subdivision_type2               = [[Regions of England|Region]]
+| subdivision_name2               = [[Yorkshire and the Humber]]
+| subdivision_type3               = [[City region (United Kingdom)|City region]]
+| subdivision_name3               = [[Leeds City Region|Leeds]]
+| subdivision_type4               = [[Ceremonial counties of England|Ceremonial county]]
+| subdivision_name4               = [[West Yorkshire]]
+| subdivision_type5               = [[Metropolitan Borough]]
+| subdivision_name5               = [[City of Leeds]]
+| subdivision_type6               = [[Historic counties of England|Historic county]]
+| subdivision_name6               = [[Yorkshire]]
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = [[Metropolitan borough]]
+| governing_body                  = [[Leeds City Council]]
+| leader_title                    = [[Executive arrangements#Leader and cabinet|Leadership]]
+| leader_name                     = [[Local Government Act 2000#Options for council executive forms|Leader and cabinet]]
+| leader_title1                   = [[Political make-up of local councils in the United Kingdom#Unitary authorities|Executive]]
+| leader_name1                    = {{English district control|GSS=E08000035}}
+| leader_title2                   = [[Lord Mayor of Leeds|Lord Mayor]]
+| leader_name2                    = Graham Latty
+| leader_title3                   = [[Leader of the Council|Council Leader]]
+| leader_name3                    = [[Judith Blake]]
+| leader_title4                   = Chief Executive
+| leader_name4                    = Tom Riordan
+| established_title               = [[Ancient borough|Borough charter]]
+| established_date                = 1207
+| established_title2              = [[Municipal charter]]
+| established_date2               = 1626
+| established_title3              = [[City status in the United Kingdom|City status]]
+| established_date3               = [[List of cities in the United Kingdom|1893]]
+| seat_type                       = Administrative HQ
+| seat                            = [[Leeds Civic Hall]],<br />[[Millennium Square (Leeds)|Millennium Square]]
+<!-- Area --------------------->| area_magnitude                  = 
+| total_type                      = City
+| unit_pref                       = 
+| area_footnotes                  = 
+| area_total_km2                  = {{English district area|GSS=E08000035}}
+| area_rank                       = [[List of English districts by area|{{English district area rank|GSS=E08000035}}]]
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_total_sq_mi                = 
+| area_land_sq_mi                 = 
+| area_water_sq_mi                = 
+| area_water_percent              = 
+| area_urban_km2                  = 487.8
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| area_blank1_title               = 
+| area_blank1_km2                 = 
+| area_blank1_sq_mi               = <!-- Population ----------------------->
+| population_as_of                = {{English statistics year}}
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = {{English district population|GSS=E08000035}}
+| population_rank                 = [[List of English districts by population|{{English district rank|GSS=E08000035}}]]
+| population_density_km2          = {{English district density|GSS=E08000035}}
+| population_density_sq_mi        = 
+| population_metro                = 2,638,127  ([[List of metropolitan areas in Europe|4th]])
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_urban                = 1,901,934 ([[List of urban areas in the United Kingdom|4th]])
+| population_density_urban_km2    = 3,645
+| population_density_urban_sq_mi  = 
+|population_blank2_title = Ethnicity <br /><small>(2011 census)</small><ref name=stats_1>{{cite web | url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rpt-ethnicity.html  | author=National Statistics: Neighbourhood Statistics | title=Ethnicity and National Identity in England and Wales 2011 | accessdate=29 April 2015}}</ref>
+|population_blank2 = 85% White<br />5.7% Asian or Asian British<br />3.5% Black or Black British<br />2.7% Mixed Race<br />3.1% Other
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = 
+| population_demonym              = Loiner, Leodensian
+<!-- General information --------------->| timezone                        = [[Greenwich Mean Time]]
+| utc_offset                      = +0
+| timezone_DST                    = [[British Summer Time]]
+| utc_offset_DST                  = +1
+| coordinates                     = {{coord|53|47|59|N|1|32|57|W|region:GB|display=inline,title}}
+| elevation_footnotes             = 
+| elevation_max_footnotes         = <ref>Max (City of Leeds) at SE140445 Hawksworth Moor in extreme west of district.</ref>
+| elevation_min_footnotes         = <ref>Min (City of Leeds) at points where district boundary crosses Rivers Aire and Wharfe in extreme east.</ref>
+| elevation_min_ft                = 33
+| elevation_max_ft                = 1115
+| elevation_min_m                 = 10
+| elevation_max_m                 = 340
+<!-- Area/postal codes & others -------->| postal_code_type                = [[Postcodes in the United Kingdom|Postcode areas]]
+| postal_code                     = [[LS postcode area|LS]]<br />[[WF postcode area|WF]], [[BD postcode area|BD]] (''parts'')
+| area_code_type                  = [[List of dialling codes in the United Kingdom|Dialling codes]]
+| area_code                       = 0113 (Leeds)<br />01924 (''[[Wakefield]]'')<big><br />01937 ([[Wetherby]])<br />01943 ([[Guiseley]])<br />01977 (''[[Pontefract]]'')
+| iso_code                        = [[ISO 3166-2:GB|GB-LDS]]
+| blank_name_sec1                 = [[Government Statistical Service|GSS]] code
+| blank_info_sec1                 = E08000035
+| blank1_name_sec1                = [[NUTS of the United Kingdom|NUTS 3 code]]
+| blank1_info_sec1                = UKE42
+| blank2_name_sec1                = [[ONS coding system|ONS code]]
+| blank2_info_sec1                = 00DA
+| blank3_name_sec1                = [[Ordnance Survey National Grid|OS grid reference]]
+| blank3_info_sec1                = {{gbmappingsmall|SE296338}}
+| blank4_name_sec1                = [[List of motorways in the United Kingdom|Motorways]]
+| blank4_info_sec1                = [[M1 motorway|M1]]<br />[[M62 motorway|M62]]<br />[[M621 motorway|M621]]<br />[[A1(M) motorway|A1(M)]]<br />[[A58(M) motorway|A58(M)]]<br />[[A64(M) motorway|A64(M)]]
+| blank5_name_sec1                = [[UK railway stations|Major railway stations]]
+| blank5_info_sec1                = [[Leeds railway station|Leeds]] ([[United Kingdom railway station categories|A]])
+| blank6_name_sec1                = [[List of airports in the United Kingdom and the British Crown Dependencies|International airports]]
+| blank6_info_sec1                = [[Leeds Bradford Airport|Leeds Bradford]] ([[International Air Transport Association airport code|LBA]])
+| blank_name_sec2                 = GDP
+| blank_info_sec2                 = [[American dollar|US$]] 82.98&nbsp;billion<ref name="brookingsgdp">{{cite web |url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |title=Global city GDP 2014 |publisher=Brookings Institution |accessdate=18 November 2014 |deadurl=yes |archive-url=https://www.webcitation.org/6H7Jql2A9?url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |archivedate=4 June 2013  }}</ref><ref name="leeds.gov.uk"/>
+| blank1_name_sec2                = – Per capita
+| blank1_info_sec2                = US$33,355<ref name="brookingsgdp"/>
+| blank2_name_sec2                = [[Gross Value Added|GVA]] (2015)
+| blank2_info_sec2                = [[GBP|£]]21.3bn ([[List of UK cities by GVA|4th]]) {{Increase}} 14.6%
+| blank3_name_sec2                = – Per capita
+| blank3_info_sec2                = [[GBP|£]]27,466 ([[List of UK cities by GVA|4th]]) {{Increase}} 14.6%
+| blank4_name_sec2                = Councillors
+| blank4_info_sec2                = 99
+| blank5_name_sec2                = [[List of MPs elected in the United Kingdom general election, 2015|MPs]]
+| blank5_info_sec2                = {{Collapsible list
+|title       = List of MPs
+|frame_style=border:none; padding: 0;
+|title_style =
+|list_style  = text-align:left;display:none;
+|1=[[Alec Shelbrooke]] ([[Conservative Party (UK)|C]])
+|2=[[Hilary Benn]] ([[Labour Party (UK)|L]])
+|3=[[Richard Burgon]] ([[Labour Party (UK)|L]])
+|4=[[Fabian Hamilton]] ([[Labour Party (UK)|L]])
+|5=[[Alex Sobel]] ([[Labour Party (UK)|L]])
+|6=[[Rachel Reeves]] ([[Labour Party (UK)|L]])
+|7=[[Andrea Jenkyns]] ([[Conservative Party (UK)|C]])
+|8=[[Stuart Andrew]] ([[Conservative Party (UK)|C]])
+}}
+| blank6_name_sec2                = [[European Parliament]]
+| blank6_info_sec2                = [[Yorkshire and the Humber (European Parliament constituency)|Yorkshire and the Humber]]
+| website                         = [http://www.leeds.gov.uk/ www.leeds.gov.uk]
+| footnotes                       = 
+}}
+
+<!-- INFOBOX END -->
+<!---Start of article--->
+'''Leeds''' is a city in [[West Yorkshire]], England.<ref>{{cite web|url=https://www.collinsdictionary.com/dictionary/english/leeds|title=Definition of 'Leeds'|publisher=[[Collins English Dictionary]]|accessdate=15 December 2018}}</ref>
+
+Leeds was a small manorial borough in the 13th century, and in the 17th and 18th centuries it became a major centre for the production and trading of wool, and in the [[Industrial Revolution]] a major [[mill town]]; wool was still the dominant industry, but [[flax]], engineering, iron [[Foundry|foundries]], printing, and other industries were also important.<ref>{{Harvnb|Burt and Grady|1994|p=92}}</ref> From being a market town in the valley of the [[River Aire]] in the 16th century, Leeds expanded and absorbed the surrounding villages to become a populous urban centre by the mid-20th century. It now lies within the [[West Yorkshire Urban Area]], the United Kingdom's fourth-most populous urban area, with a population of 2.6&nbsp;million.<ref>{{cite web|url=http://www.nomisweb.co.uk/articles/747.aspx|title=2011 Census - Nomis - Official Labour Market Statistics|website=www.nomisweb.co.uk}}</ref>
+
+Leeds has one of the most diverse economies of all the UK's main employment centres and has seen the fastest rate of private-sector jobs growth of any UK city. It also has the highest ratio of private to public sector jobs of all the UK's Core Cities, with 77% of its workforce working in the private sector. Leeds has the third-largest jobs total by local authority area, with 480,000 in employment and self-employment at the beginning of 2015.<ref name="leeds.gov.uk">{{cite web|url=http://www.leeds.gov.uk/Business/Pages/Leeds-economy.aspx|title=Leeds economy|publisher=|deadurl=yes|archive-url=https://web.archive.org/web/20170118082315/http://www.leeds.gov.uk/Business/Pages/Leeds-economy.aspx|archivedate=18 January 2017}}</ref> Leeds is ranked as a [[Global city#GaWC study|gamma world city]] by the [[Globalization and World Cities Research Network]].<ref name="TheWorld">{{cite web|url=http://www.lboro.ac.uk/gawc/world2010t.html |title=The World According to GaWC 2010 |accessdate=18 September 2011 |publisher=Globalization and World Cities Research Network. |deadurl=yes |archive-url=https://web.archive.org/web/20131010004859/http://www.lboro.ac.uk/gawc/world2010t.html |archivedate=10 October 2013  }}</ref> Leeds is the cultural, financial and commercial heart of the West Yorkshire Urban Area.<ref>{{cite web|url=http://www.planetware.com/england/leeds-eng-wy-lee.htm |title= Leeds Tourism |publisher=Planet Ware Travel Guide |accessdate=1 February 2009}}</ref><ref>{{cite web|url=http://www.yorkshirepost.co.uk/businessnews/Leeds-stakes-its-claim-to.1864465.jp |title= Leeds stakes it claim to financial hub |work=The Yorkshire Post |accessdate=1 February 2009}}</ref><ref>{{cite web |url=http://www.bookinghome.com/en/United_Kingdom/England/Leeds-Hotels.html |title=About Leeds |publisher=www.bookinghime.com |accessdate=1 February 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20080509134854/http://www.bookinghome.com/en/United_Kingdom/England/Leeds-Hotels.html |archivedate=9 May 2008  }}</ref> Leeds is served by four universities, and has the fourth largest student population in the country and the country's [[List of UK cities by GVA|fourth largest urban economy]].<ref name="BrookingsMetroEconomy">{{cite web |url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |title=Global MetroMonitor |accessdate=23 December 2013 |last1=Istrate |first1=Emilia |last2=Nadeau |first2=Carey Anne |date=November 2012 |place=Washington, DC |publisher=The Brookings Institution |deadurl=yes |archive-url=https://www.webcitation.org/6H7Jql2A9?url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |archivedate=4 June 2013  }}</ref>
+
+Today, Leeds has become the largest legal and financial centre, outside London<ref name="leeds.gov.uk"/><ref name="autogenerated1">{{cite web|url=http://www.cisi.org/bookmark/genericform.aspx?form=29848780&url=CentresOutsideLondon |title=Financial centres outside london |publisher=Cisi.org |date=22 March 2012 |accessdate=15 March 2014}}</ref> with the financial and insurance services industry worth £13&nbsp;billion to the city's economy. The finance and business service sector account for 38% of total output<ref name="leeds.gov.uk"/><ref name="investleedscityregion.com">{{cite web|url=http://investleedscityregion.com/invest/economy|title=Economy - Leeds|website=investleedscityregion.com}}</ref><ref name="autogenerated2">{{cite web |title=Table 3.4, ONS Regional GVA – December 2013 |url=http://www.ons.gov.uk/ons/rel/regional-accounts/regional-gross-value-added--income-approach-/december-2013/rft-nuts3.xls |accessdate=19 December 2013}}</ref> with more than 30 national and international banks located in the city, including an office of the [[Bank of England]].<ref name="autogenerated1"/> Leeds is also the UK's third-largest manufacturing centre with around 1,800 firms and 39,000 employees, Leeds manufacturing firms account for 8.8% of total employment in the city and is worth over £7 billion to the local economy.<ref name="investleedscityregion.com"/> The largest sub-sectors are engineering, printing and publishing, food and drink, chemicals and medical technology.<ref name="Leeds 2013">.[http://www.locateinleeds.co.uk/economy/manufacturing/ Manufacturing |Leeds economy & relocation] {{Webarchive|url=https://web.archive.org/web/20101008134010/http://locateinleeds.co.uk/economy/manufacturing/ |date=8 October 2010 }}. Locate in Leeds. Retrieved on 17 July 2013.</ref> Other key sectors include retail, leisure and the visitor economy, construction, and the creative and digital industries. The city saw several firsts, including the oldest-surviving film in existence, ''[[Roundhay Garden Scene]]'' (1888), and the 1767 invention of [[soda water]].<ref>{{cite book|title=Guinness World Records 2017|date=2016|publisher=Guinness World Records|page=151}}</ref><ref>{{cite news|title=Our fizzy seas of soda water|url=https://www.telegraph.co.uk/news/science/steve-jones/10153920/Our-fizzy-seas-of-soda-water.html|publisher=The Telegraph|date=21 September 2016}}</ref>
+
+Public transport, rail and road communications networks in the region are focused on Leeds, and the second phase of [[High Speed 2]] will connect it to London via [[East Midlands Hub railway station|East Midlands Hub]] and [[Meadowhall Interchange|Sheffield Meadowhall]]. Leeds currently has the third busiest [[Leeds railway station|railway station]]<ref>{{cite web|url=http://orr.gov.uk/__data/assets/pdf_file/0020/26129/estimates-of-station-usage-2016-17-key-facts.pdf |format=PDF |publisher=[[Office of Rail and Road]] |date=1 December 2017 |accessdate=21 March 2018 |title=Estimates of Station Usage 2016-17}}</ref> and the tenth busiest [[Leeds Bradford Airport|airport]] outside [[London]].<ref>{{cite web|url=http://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/UK-Airport-data/Airport-data-2017/|title=Airport data 2017 - UK Civil Aviation Authority|website=www.caa.co.uk}}</ref>
+
+==History==
+{{Main|History of Leeds}}
+
+===Toponymy===
+The name derives from the old [[Common Brittonic|Brythonic]] word ''Ladenses'' meaning "people of the fast-flowing river", in reference to the [[River Aire]] that flows through the city.<ref>{{cite book|author1=Hanks, Patrick|author2=Hodges, Flavia|author3=Mills, A. D.|author4=Room, Adrian|title=The Oxford Names Companion|date=2002|location=Oxford|publisher=the University Press|isbn=0198605617|page=1104}}</ref> This name originally referred to the forested area covering most of the [[Elmet|Brythonic kingdom of Elmet]], which existed during the 5th century into the early 7th century.<ref name="Fletcher">{{Cite book|last=Fletcher|first=J. S.|year=1919|title=The Story of English Towns: Leeds|publisher=Society for Promoting Christian Knowledge|location=London|oclc=221589888|url=https://archive.org/details/storyoftheenglis027638mbp|accessdate=22 July 2009}}</ref>
+
+[[Bede]] states in the fourteenth chapter of his ''[[Ecclesiastical History of the English People|Ecclesiastical History]]'', in a discussion of an altar surviving from a church erected by [[Edwin of Northumbria]], that it is located in ''...regione quae vocatur Loidis'' (Latin, "the region which is called Loidis"). An inhabitant of Leeds is locally known as a ''[[Loiner]]'', a word of uncertain origin.<ref name=loiner>{{cite web|url=http://www.bbc.co.uk/leeds/content/articles/2005/01/06/voices2005_loiner_feature.shtml |title=Loiners of the world unite! |publisher=BBC  |date=22 August 2005 |accessdate=27 September 2009}}</ref> The term ''Leodensian'' is also used, from the city's Latin name.
+
+The name has also been explained as a derivative of [[Welsh language|Welsh]] ''lloed'', meaning simply "a place".<ref>{{cite web|title=The place-names of England and Wales|url=https://archive.org/stream/placenamesofengl00john/placenamesofengl00john_djvu.txt|accessdate=17 July 2017}}</ref>
+
+===Economic development===
+[[File:The Mint, Granary Wharf, Leeds (5385775582).jpg|thumb|left|The [[Leeds and Liverpool Canal]] at [[Granary Wharf]]]]
+[[File:Inside the Corn Exchange 2 - Leeds.jpg|thumb|right|The [[Leeds Corn Exchange]] opened in 1864]]
+Leeds developed as a [[market town]] in the [[Middle Ages]] as part of the local agricultural economy. Before the [[Industrial Revolution]], it became a co-ordination centre for the manufacture of woollen cloth, and white [[broadcloth]] was traded at its [[1st White Cloth Hall|White Cloth Hall]].<ref name=cloth>{{Cite journal|title=Houses as Museums: The Case of the Yorkshire Wool Textile Industry |journal=Transactions of the Royal Historical Society |first=S.A. |last=Caunce |pages=329–343 |year=2003 |volume=13 |publisher=Royal Historical Society|ref=harv}}</ref>
+
+Leeds handled one sixth of England's export trade in 1770.<ref>{{Harvnb|Burt and Grady|1994|p=57}}</ref> Growth, initially in textiles, was accelerated by the building of the [[Aire and Calder Navigation]] in 1699 and the [[Leeds and Liverpool Canal]] in 1816.<ref>{{Harvnb|Fraser|1982|p=143}}</ref>
+
+The railway network constructed around Leeds, starting with the [[Leeds and Selby Railway]] in 1834, provided improved communications with national markets and, significantly for its development, an east-west connection with [[Manchester]] and the ports of [[Liverpool]] and [[Kingston upon Hull|Hull]] giving improved access to international markets.<ref name=transport_geo>{{Cite journal|title=Britain's national railway network: fit for purpose in the 21st century? |first=Russ |last=Haywood |volume=15 |issue=3 |year=2007 |pages=198–216 |journal=Journal of Transport Geography |publisher=Elsevier |doi=10.1016/j.jtrangeo.2006.02.015|ref=harv}}</ref> Alongside technological advances and industrial expansion, Leeds retained an interest in trading in agricultural commodities, with the [[Leeds Corn Exchange|Corn Exchange]] opening in 1864.
+
+[[File:Joseph Rhodes - Leeds from the Meadows.jpg|thumb|''Leeds from the Meadows'' by Joseph Rhodes, 1825.]]
+
+[[Marshall's Mill]] was one of the first of many factories constructed in Leeds from around 1790 when the most significant were woollen finishing and flax mills.<ref name="Fraser 1982 144">{{Harvnb|Fraser|1982|p=144}}</ref> Manufacturing diversified by 1914 to printing, engineering, chemicals and clothing manufacture.<ref>{{Harvnb|Fraser|1982|p=155}}</ref> Decline in manufacturing during the 1930s was temporarily reversed by a switch to producing military uniforms and munitions during World War II. However, by the 1970s, the clothing industry was in irreversible decline, facing cheap foreign competition.<ref name=suit_leeds>{{Cite book|title= Well suited: a history of the Leeds clothing industry, 1850–1990 |first=Katrina |last=Honeyman |authorlink=Katrina Honeyman|year=2000 |publisher=Oxford University Press |isbn= 0-19-920237-0}}</ref> The contemporary economy has been shaped by [[Leeds City Council]]'s vision of building a '24-hour European city' and 'capital of the north'.<ref name=imagine>{{Cite journal|title=Re-imaging a post-industrial city|first=Tony |last=Harcup |year=2000 |journal=[[City (journal)|City]] |volume=4 |publisher=Carfax |issue=2|ref=harv}}</ref> The city has developed from the decay of the post-industrial era to become a telephone banking centre, connected to the electronic infrastructure of the modern global economy.<ref name=imagine/> There has been growth in the corporate and legal sectors,<ref name=legal>{{cite web|url=http://www.ft.com/cms/s/77eaffe6-ef2a-11dc-8a17-0000779fd2ac.html |title=Legal services: Law firms have solid local roots and global ambitions |work=Financial Times |date=11 March 2008 |accessdate=26 September 2009}}</ref> and increased local affluence has led to an expanding retail sector, including the [[luxury goods]] market.<ref name=retail>{{cite web |url=http://www.leedsliveitloveit.com/retail |title=Sectors: Retail |author=Leeds, Live it, Love it |publisher=Marketing Leeds |accessdate=26 September 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20100104165034/http://leedsliveitloveit.com/retail |archivedate=4 January 2010  }}</ref>
+
+[[Leeds City Region|Leeds City Region Enterprise Zone]] was launched in April 2012 to promote development in four sites along the [[A63 road|A63]] East Leeds Link Road.<ref>{{cite news |url=http://www.insidermedia.com/insider/yorkshire/90850-/ |title=Work begins on Logic Leeds business park |publisher=Insider Media |date=23 May 2013 |accessdate=12 March 2015}}</ref>
+
+===Local government===
+{{Main|History of local government in Yorkshire}}
+{|class="wikitable"  style="float:left; font-size:85%; margin-left:10px; margin-right:10px; margin-top:0px;"
+|+'''Leeds (parish) population'''
+|-
+! style="text-align:center;"|1881
+|style="text-align:center;"|160,109
+|-
+! style="text-align:center;"|1891
+|style="text-align:center;"|177,523
+|-
+! style="text-align:center;"|1901
+|style="text-align:center;"|177,920
+|-
+! style="text-align:center;"|1911
+|style="text-align:center;"|259,394
+|-
+! style="text-align:center;"|1921
+|style="text-align:center;"|269,665
+|-
+! style="text-align:center;"|1931
+|style="text-align:center;"|482,809
+|-
+! style="text-align:center;"|1941
+|style="text-align:center;"|war*
+|-
+! style="text-align:center;"|1951
+|style="text-align:center;"|505,219
+|-
+! style="text-align:center;"|1961
+|style="text-align:center;"|510,676
+|-
+|style="font-size:smaller" colspan=2|<nowiki>*</nowiki>no census was held due to war
+|-
+|colspan="2" style="font-size:smaller; text-align:center;"|source: [[Census#United Kingdom|UK census]]<ref name=population_parish>{{cite vob |name=Leeds parish |population=http://www.visionofbritain.org.uk/data_cube_page.jsp?data_theme=T_POP&data_cube=N_TOT_POP&u_id=10443337&c_id=10001043&add=N |accessdate=25 September 2009}}</ref>
+|}
+Leeds was a manor and township in the large ancient parish of ''Leeds St Peter'', in the [[Skyrack]] [[Hundred (county division)|wapentake]] of the [[West Riding of Yorkshire|West Riding]] of [[Yorkshire]].<ref name=vision_parish>{{cite web |title=Relationships / unit history of LEEDS |url=http://www.visionofbritain.org.uk/relationships.jsp?u_id%3D10443337 |deadurl=yes |archive-url=https://web.archive.org/web/20110814071837/http://www.visionofbritain.org.uk/relationships.jsp?u_id=10443337 |archivedate=14 August 2011  |accessdate=2 February 2017}}</ref> The Borough of Leeds was created in 1207, when Maurice Paynel, lord of the manor, granted a charter to a small area of the manor, close to the river crossing, in what is now the city centre. Four centuries later, the inhabitants petitioned [[Charles I of England|Charles I]] for a charter of incorporation, which was granted in 1626. The new charter incorporated the entire parish, including all eleven townships, as the [[County Borough of Leeds|Borough of Leeds]] and withdrew the earlier charter. [[Improvement commissioners]] were set up in 1755 for paving, lighting, and cleansing of the main streets, including [[Briggate, Leeds|Briggate]] and further powers were added in 1790 to improve the water supply.<ref>{{cite web|url= http://www.leodis.net/discovery/discovery.asp?page=2003218_676159084&topic=2003218_372249783&subsection=200342_125637234|title=Briggate: Improvement Acts |publisher=Leeds City Council |work=Discovering Leeds |accessdate=27 September 2009}}</ref>
+
+[[File:Leeds Town Hall, General Election results.jpg|thumb|A crowd gathers outside Leeds Town Hall during the 1880 general elections.]]
+
+The borough corporation was reformed under the provisions of [[Municipal Corporations Act 1835]]. [[Leeds City Police|Leeds Borough Police]] force was formed in 1836, and [[Leeds Town Hall]] was completed by the corporation in 1858. In 1866, Leeds and each of the other townships in the borough became [[civil parish]]s. The borough became a [[county borough]] in 1889, giving it independence from the newly formed West Riding County Council and it gained [[City status in the United Kingdom|city status]] in 1893. In 1904 the Leeds parish absorbed [[Beeston, Leeds|Beeston]], [[Chapel Allerton]], [[Farnley, West Yorkshire|Farnley]], [[Headingley cum Burley]] and [[Potternewton]] from within the borough. In the twentieth century the county borough initiated a series of significant territorial expansions, growing from {{convert|21593|acres|km2}} in 1911 to {{convert|40612|acres|km2}} in 1961.<ref name=vision_cb>{{cite web |url=http://www.visionofbritain.org.uk/relationships.jsp?u_id%3D10108809%26c_id%3D10001043 |map=http://www.visionofbritain.org.uk/boundary_map_page.jsp?u_id=10108809&c_id=10001043 |title=Leeds MB/CB |deadurl=yes |archive-url=https://web.archive.org/web/20120213031954/http://www.visionofbritain.org.uk/relationships.jsp?u_id=10108809&c_id=10001043 |archivedate=13 February 2012  |accessdate=2 February 2017}}</ref> In 1912 the parish and county borough of Leeds absorbed [[Leeds Rural District]], consisting of the parishes of [[Roundhay]] and [[Seacroft]]; and [[Shadwell, West Yorkshire|Shadwell]], which had been part of Wetherby Rural District. On 1 April 1925, the parish of Leeds was expanded to cover the whole borough.<ref name=vision_parish/>
+
+The county borough was abolished on 1 April 1974, and its former area was combined with that of the municipal boroughs of [[Municipal Borough of Morley|Morley]] and [[Municipal Borough of Pudsey|Pudsey]]; the urban districts of [[Aireborough]], [[Horsforth]], [[Otley]], [[Garforth]] and [[Rothwell, West Yorkshire|Rothwell]]; and parts of the rural districts of [[Tadcaster Rural District|Tadcaster]], [[Wetherby Rural District|Wetherby]], and [[Wharfedale Rural District|Wharfedale]].<ref>{{Harvnb|Fraser|1982|p=459}}</ref> This area formed a metropolitan district in the county of [[West Yorkshire]]. It gained both borough and city status and is known as the [[City of Leeds]]. Initially, local government services were provided by [[Leeds City Council]] and [[West Yorkshire County Council]]. When the county council was abolished in 1986, the city council absorbed its functions, and some powers passed to organisations such as the [[West Yorkshire Metro|West Yorkshire Passenger Transport Authority]]. From 1988 two run-down and derelict areas close to the [[Leeds city centre|city centre]] were designated for regeneration and became the responsibility of [[Leeds Development Corporation]], outside the planning remit of the city council.<ref name=leeds_dc>{{cite web|url=http://www.communities.gov.uk/archived/general-content/citiesandregions/impacturban/ |title=Impact of Urban Development Corporations in Leeds, Bristol & Central Manchester |date=18 November 1998 |publisher=[[Department of the Environment, Transport and the Regions]] |accessdate=25 September 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20081211110418/http://www.communities.gov.uk/archived/general-content/citiesandregions/impacturban/ |archivedate=11 December 2008}}</ref> Planning powers were restored to the local authority in 1995 when the development corporation was wound up.
+
+===Suburban growth===
+[[File:Leeds 1866 by J Bartholemew edited.jpg|thumb|alt=This map shows central Leeds and (clockwise from top left) the developing suburbs of Hyde Park, Woodhouse, Sheepscar, New Leeds, Cross Green, Hunslet, Holbeck, Wortley, Armley and Burley.|1866 map of Leeds]]
+[[File:James Valentine The Briggate Leeds.jpg|thumb|19th-century [[Briggate, Leeds]]]]
+In 1801, 42% of the population of Leeds lived outside the township, in the wider borough. [[Cholera]] outbreaks in 1832 and 1849 caused the authorities to address the problems of drainage, sanitation, and water supply. Water was pumped from the River Wharfe, but by 1860 it was too heavily polluted to be usable. Following the Leeds Waterworks Act of 1867 three reservoirs were built at Lindley Wood, Swinsty, and Fewston in the Washburn Valley north of Leeds.<ref>{{Harvnb|Burt and Grady|1994|p=163}}</ref>
+
+Residential growth occurred in Holbeck and Hunslet from 1801 to 1851, but, as these townships became industrialised new areas were favoured for middle class housing.<ref>{{Harvnb|Fraser|1982|p=96}}</ref> Land south of the river was developed primarily for industry and secondarily for [[Back-to-back house|back-to-back]] workers' dwellings. The Leeds Improvement Act 1866 sought to improve the quality of working class housing by restricting the number of homes that could be built in a single terrace.<ref name=discover_house>{{cite web|url= http://www.leodis.net/discovery/discovery.asp?page=2003218_676159084&topic=2003218_372249783&subsection=200342_125637234 |publisher=Leeds City Council |work=Discovering Leeds |title=The Working Classes: Housing |accessdate=26 September 2009}}</ref>
+
+Holbeck and Leeds formed a continuous built-up area by 1858, with Hunslet nearly meeting them.<ref name="Fraser 1982 98">{{Harvnb|Fraser|1982|p=98}}</ref> In the latter half of the nineteenth century, population growth in Hunslet, Armley, and Wortley outstripped that of Leeds. When pollution became a problem, the wealthier residents left the industrial conurbation to live in Headingley, Potternewton and Chapel Allerton which led to a 50% increase in the population of Headingley and Burley from 1851 to 1861. The middle-class flight from the industrial areas led to development beyond the borough at Roundhay and Adel.<ref name="Fraser 1982 98"/> The introduction of the [[Leeds Tramway|electric tramway]] led to intensification of development in Headingley and Potternewton and expansion outside the borough into Roundhay.<ref>{{Harvnb|Fraser|1982|p=57}}</ref>
+
+Two private gas supply companies were taken over by the corporation in 1870, and the municipal supply provided street lighting and cheaper gas to homes. From the early 1880s, the Yorkshire House-to-House Electricity Company supplied electricity to Leeds until it was purchased by Leeds Corporation and became a municipal supply.<ref>{{Harvnb|Burt and Grady|1994|p=193}}</ref>
+
+[[Slum clearance]] and rebuilding began in Leeds during the [[interwar period]] when over 18,000 houses were built by the council on 24 estates in [[Cross Gates]], Middleton, Gipton, Belle Isle and Halton Moor. The slums of [[Quarry Hill, Leeds|Quarry Hill]] were replaced by the innovative Quarry Hill flats, which were demolished in 1975. Another 36,000 houses were built by private sector builders, creating suburbs in Gledhow, Moortown, Alwoodley, Roundhay, Colton, Whitkirk, [[Oakwood, Leeds|Oakwood]], Weetwood, and Adel. After 1949 a further 30,000 sub-standard houses were demolished by the council and replaced by 151 medium-rise and high-rise blocks of council flats in estates at Seacroft, Armley Heights, Tinshill, and Brackenwood.<ref>{{Harvnb|Unsworth and Stillwell|2004|p=77}}</ref>
+
+Leeds has seen great expenditure on regenerating the city, attracting in investments and flagship projects,<ref name=leeds_skyscraper>{{cite web|url= http://www.skyscrapernews.com/news.php?ref=565 |website=www.skyscrapernews.com |title=Light Shines on Leeds Skyscraper Bids |accessdate=24 May 2010}}</ref> as found in [[Leeds city centre]]. Many developments boasting luxurious penthouse apartments have been built close to the city centre.
+
+==Geography==
+[[File:Leeds in West Yorkshire.jpg|alt=This map shows the locations of Leeds (coloured pink) and the other four metropolitan boroughs of West Yorkshire (clockwise from Leeds: Wakefield, Kirklees, Calderdale and Bradford). County and borough boundaries are black, urban areas grey, motorways blue with white stripe, rivers and bodies of water light blue. An inset shows a map of Great Britain with the location of West Yorkshire highlighted.|thumb|right|Map of Leeds in West Yorkshire]]
+[[File:River Aire waterfront, Leeds 001.jpg|thumb|alt=The canalised River Aire flows from the Dark Arches under Leeds's main railway station towards the bottom of the picture. To the left of the river is the lock which links the river with the Leeds and Liverpool Canal. To the right is a riverside walk beneath modern buildings, and in the distance, beyond the railway viaduct and station, are more high-rise modern buildings located on the west side of the city centre.|River Aire in Leeds]]
+
+Leeds is located {{convert|169|mi|}} north-northwest of [[central London|London]],<ref>{{Cite web|url=https://ukdistance.com/route/leeds/london|title=Distance from Leeds to London|last=|first=|date=|website=ukdistance.com|archive-url=|archivedate=|dead-url=|accessdate=18 December 2018}}</ref> on the valley of the [[River Aire]] in the eastern foothills of the [[Pennines]]. The city centre lies in a narrow section of the Aire Valley at about {{convert|206|ft|0}} [[Metres above sea level|above sea level]]; while the district ranges from {{convert|1115|ft|0}} in the far west on the slopes of [[Ilkley Moor]] to about {{convert|33|ft|0}} where the rivers Aire and Wharfe cross the eastern boundary. The centre of Leeds is part of a continuously built-up area extending to Pudsey, Bramley, Horsforth, Alwoodley, Seacroft, Middleton and Morley.<ref name=UAmap>{{cite web|url=http://www.statistics.gov.uk/downloads/census2001/ks_urban_north_part_8.pdf |format=PDF |title=Census 2001:Key Statistics for urban areas in the North; Map 6 |authorlink=Office for National Statistics |publisher=statistics.gov.uk |accessdate=27 September 2009 |year=2001 |author=Office for National Statistics |work=[[United Kingdom Census 2001]] |deadurl=yes |archive-url=https://web.archive.org/web/20070109141704/http://www.statistics.gov.uk/downloads/census2001/ks_urban_north_part_8.pdf |archivedate=9 January 2007}}</ref>
+
+Leeds has the [[List of English districts by population|second-highest population]] of any local authority district in the UK (after [[Birmingham]]), and the [[List of English districts by area|second-greatest area]] of any English [[metropolitan borough|metropolitan district]] (after [[Metropolitan Borough of Doncaster|Doncaster]]), extending {{convert|15|mi|0|abbr=out}} from east to west, and {{convert|13|mi|0|abbr=out}} from north to south. The northern boundary follows the [[River Wharfe]] for several miles, but it crosses the river to include the part of Otley which lies north of the river.
+
+The city centre is less than twenty miles ({{convert|20|mi|abbr=out|disp=output only}}) from the [[Yorkshire Dales|Yorkshire Dales National Park]],<ref>{{cite web|url=http://www.yorkshire-forward.com/our-wonderful-region/our-cities/Leeds-the-facts |title=Leeds – the facts|publisher=Yorkshire Forward Government agency |accessdate=22 January 2009}}</ref> which has some of the most spectacular scenery and countryside in the UK.<ref>{{cite web|url=http://www.visitbritain.co.uk/destinations/England/englands-north-country/Yorkshire-Dales.aspx |title=Leeds – The Yorkshire Dales|publisher=Visit Britain (National UK Tourist Agency) |accessdate=22 January 2009}}</ref> Inner and southern areas of Leeds lie on a layer of coal measure sandstones forming the [[South Yorkshire Coalfield|Yorkshire Coalfield]]. To the north parts are built on older sandstone and gritstones and to the east it extends into the magnesian limestone belt.<ref name="Fraser 1982 144"/><ref name="Kendall & Wroot">{{cite book|last=Kendall|first=Percy Fry|last2=Wroot|first2=Herbert|others=|title=Geology of Yorkshire Part II|publisher=EP Publishing Ltd|location=East Ardsley, Wakefield|year=1972|pages=672–673|isbn=0-85409-762-7}}</ref><ref>{{cite web|url=http://nmrs.org.uk/mines/coal/yorkshire/index.html|accessdate=5 April 2016|title=Yorkshire Coalfield|publisher=Northern Mine Research Society}}</ref> The [[land use]] in the central areas of Leeds is overwhelmingly urban.<ref name=UAmap/>
+
+Attempts to define the exact geographic meaning of Leeds lead to a variety of concepts of its extent, varying by context include the area of the [[Leeds city centre|city centre]], the urban sprawl, the administrative boundaries, and the functional [[region]].<ref name="Fraser 1982 456">{{Harvnb|Fraser|1982|p=456}}</ref>
+{{quote|Leeds is much more a generalised concept place name in inverted commas, it is the city, but it is also the commuter villages and the region as well.|author=Brian Thompson|title=A History of Modern Leeds<ref name="Fraser 1982 456"/>}}
+
+[[Leeds city centre]] is contained within the [[Leeds Inner Ring Road]], formed from parts of the [[A58 road]], [[A61 road]], [[A64 road]], [[A643 road]] and the [[M621 motorway]]. [[Briggate, Leeds|Briggate]], the principal north-south shopping street, is pedestrianised and Queen Victoria Street, a part of the [[Victoria Quarter]], is enclosed under a glass roof. [[Millennium Square (Leeds)|Millennium Square]] is a significant urban focal point. The [[LS postcode area|Leeds postcode area]] covers most of the City of Leeds<ref name=postal_council>{{cite web|url=http://www.leeds.gov.uk/maps/leeds_pc.html |accessdate=26 September 2009 |title=Leeds Metropolitan District – Post Codes |publisher=Leeds City Council |deadurl=yes |archive-url=https://web.archive.org/web/20091212080431/http://www.leeds.gov.uk/maps/leeds_pc.html |archivedate=12 December 2009}}</ref> and is almost entirely made up of the Leeds [[post town]].<ref name=mail_guide>{{Cite book|publisher=Royal Mail Group |author=[[Royal Mail]] |year=2004 |title=Address Management Guide}}</ref> Otley, Wetherby, Tadcaster, Pudsey and Ilkley are separate post towns within the postcode area.<ref name=mail_guide/> Aside from the built up area of Leeds itself, there are a [[List of places in Leeds|number of suburbs and exurbs]] within the district.
+
+===Climate===
+[[File:Park Square and Leeds Town Hall - geograph.org.uk - 183544.jpg|left|thumb|Sunny early-June 2006 day at [[Park Square, Leeds|Park Square]]]]
+Leeds has a climate that is [[Oceanic climate|oceanic]] ([[Köppen climate classification|Köppen]]: ''Cfb''), and influenced by the [[Pennines]]. Summers are usually mild, with moderate rainfall, while winters are chilly, cloudy with occasional snow and frost. The nearest official weather recording station is at Bingley, some twenty kilometres away at a higher altitude.<ref>[https://www.metoffice.gov.uk/public/weather/climate/gcwfhf1w0 Met Office Bingley temperatures] Retrieved 3 March 2018</ref>
+
+July is the warmest month, with a mean temperature of {{convert|16|°C|0|abbr=on}}, while the coldest month is January, with a mean temperature of {{convert|3|°C|0|abbr=on}}. Temperatures above {{convert|30|°C|0|abbr=on}} and below {{convert|-10|°C|0|abbr=on}} are not very common but can happen occasionally. Temperatures at Leeds Bradford Airport fell to {{convert|-12.6|°C|1|abbr=on}} in December 2010<ref>{{cite web|url=http://www.examiner.co.uk/news/local-west-yorkshire-news/2010/12/03/huddersfield-temperature-verified-at-11-in-waterloo-last-night-plus-forecast-for-the-weekend-86081-27762073/ |title=Huddersfield temperature verified at −11 in Waterloo last night – plus forecast for the weekend – Local West Yorkshire News – News – Huddersfield Examiner |publisher=Examiner.co.uk |accessdate=5 August 2011}}</ref> and reached {{convert|31.8|°C|0|abbr=on}} at Leeds city centre in August 2003.<ref>{{cite web|url=http://www.tutiempo.net/en/Climate/LEEDS_WEATHER_CTR/08-2003/33470.htm |title=CLIMATE LEEDS WEATHER CTR – Historical August 2003 – Weather |publisher=Tutiempo.net |accessdate=5 August 2011}}</ref> The record temperature for Leeds is {{convert|34.4|°C|0|abbr=on}} during the early August 1990 heatwave.
+
+As is typical for many sprawling cities in areas of varying topography, temperatures can change depending on location. Average July and August daytime highs exceed {{convert|25.0|C|F}} (a value comparable to South East England) in a small area just to the south east of the city centre,<ref>{{cite web|url=http://www.metoffice.gov.uk/climate/uk/averages/8110_1km/MaxTemp_Average_1981-2010_7.gif|title=July Temperature Map|accessdate=20 October 2011}}</ref><ref>{{cite web|url=http://www.metoffice.gov.uk/climate/uk/averages/8110_1km/MaxTemp_Average_1981-2010_8.gif|title=August Temperature Map|accessdate=20 October 2011}}</ref> where the elevation declines to under {{convert|20|m|abbr=off}}. This is 2 degrees milder than the typical summer temperature at Leeds Bradford airport weather station (shown in the chart below), at an elevation of {{convert|208|m|abbr=off}}.
+
+Situated on the eastern side of the [[Pennines]], Leeds is among the driest cities in the United Kingdom, with an annual rainfall of {{convert|660|mm|2|abbr=on}}.
+
+Though extreme weather in Leeds is relatively rare, thunderstorms, blizzards, gale-force winds and even tornadoes have struck the city. The last reported tornado occurred on 14 September 2006, causing trees to uproot and signal failures at [[Leeds railway station|Leeds City railway station]].<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/england/west_yorkshire/5347064.stm |title=UK &#124; England &#124; West Yorkshire &#124; Tornado hits during freak storm |publisher=BBC News  |date=14 September 2006 |accessdate=5 August 2011}}</ref>
+
+{{Weather box
+|location = Leeds Bradford
+|metric first = Yes
+|single line = Yes
+|Jan high C = 5.8
+|Feb high C = 5.9
+|Mar high C = 8.7
+|Apr high C = 11.3
+|May high C = 15.0
+|Jun high C = 18.2
+|Jul high C = 19.9
+|Aug high C = 19.9
+|Sep high C = 17.3
+|Oct high C = 13.4
+|Nov high C = 8.8
+|Dec high C = 6.7
+|Jan low C = 0.3
+|Feb low C = 0.2
+|Mar low C = 1.6
+|Apr low C = 3.1
+|May low C = 5.5
+|Jun low C = 8.5
+|Jul low C = 10.4
+|Aug low C = 10.5
+|Sep low C = 8.7
+|Oct low C = 6.3
+|Nov low C = 2.9
+|Dec low C = 1.2
+|Jan precipitation mm = 61
+|Feb precipitation mm = 45
+|Mar precipitation mm = 52
+|Apr precipitation mm = 48
+|May precipitation mm = 54
+|Jun precipitation mm = 54
+|Jul precipitation mm = 51
+|Aug precipitation mm = 65
+|Sep precipitation mm = 57
+|Oct precipitation mm = 55
+|Nov precipitation mm = 57
+|Dec precipitation mm = 61
+|Jan precipitation days = 17.5
+|Feb precipitation days = 14.2
+|Mar precipitation days = 14.8
+|Apr precipitation days = 13.5
+|May precipitation days = 13.7
+|Jun precipitation days = 12.2
+|Jul precipitation days = 11.7
+|Aug precipitation days = 13.2
+|Sep precipitation days = 12.9
+|Oct precipitation days = 15.1
+|Nov precipitation days = 16.5
+|Dec precipitation days = 17.0
+|source =<ref name= wtclimate>{{cite web
+|url = http://wunderground.com
+|title = Leeds average weather data.
+|accessdate =14 November 2010
+|website=worldweather.wmo.int}}</ref><ref>{{cite web
+|website = www.world-climates.com
+|title=Average weather statistics for Leeds
+|accessdate =26 May 2011
+|url=http://www.world-climates.com/city-climate-leeds-west-yorkshire-uk-europe/
+|date=February 2011}}</ref>
+}}
+
+===Green belt===
+{{further|South and West Yorkshire Green Belt}}
+Leeds is within a [[Green belt (United Kingdom)|green belt]] region that extends into the wider surrounding counties and is in place to reduce [[urban sprawl]], prevent the settlements in the West Yorkshire conurbation from further convergence, protect the identity of outlying communities, encourage [[Brownfield land|brownfield]] reuse, and preserve nearby countryside. This is achieved by restricting inappropriate development within the designated areas, and imposing stricter conditions on permitted building.<ref name="belt1">{{cite web|title=Unitary Development Plan|url=https://www.leeds.gov.uk/your-council/planning/unitary-development-plan|website=www.leeds.gov.uk}}</ref>
+
+Over 60% of the Leeds district is green belt land and it surrounds the settlement, preventing further sprawl towards nearby communities. Larger outlying towns and villages are exempt from the green belt area. However, smaller villages, hamlets and rural areas are 'washed over' by the designation. The green belt was first adopted in 1960,<ref name="belt1"/> and the size in the borough in 2017 amounted to some {{convert|33,970|ha|km2+sqmi}}.<ref>{{cite web|title=Green belt statistics - GOV.UK|url=https://www.gov.uk/government/collections/green-belt-statistics|website=www.gov.uk}}</ref>
+
+A subsidiary aim of the green belt is to encourage recreation and leisure interests,<ref name="belt1"/> with rural landscape features, greenfield areas and facilities including Temple Newsam Park and House with golf course, Rothwell Country Park, Middleton Park, Kirkstall Abbey ruins and surrounding park, Bedquilts recreation grounds, Waterloo lake, Roundhay castle and park, and Morwick, Cobble and Elmete Halls.
+
+==Demography==
+{{Main|Demography of Leeds}}
+
+===Urban subdivision===
+{|class="wikitable"  style="float:right; font-size:85%; margin-left:10px;"
+|-
+|+ Leeds compared
+|-
+|colspan="5" style="text-align:center;"|[[File:Leeds urban subdivision in West Yorkshire urban area.png|250px|center|alt=A map of West Yorkshire showing the Leeds urban subdivision of the West Yorkshire Urban Area (which is made up of five councils) coloured green and the rest of the Urban area coloured blue-grey|Leeds urban subdivision<br />shown within the West Yorkshire urban area]]Leeds urban subdivision within<br />the West Yorkshire urban area
+|-
+! [[United Kingdom Census 2001|2001<br />UK Census]] ||Leeds<br />USD ||[[City of Leeds|Leeds<br />district]] ||[[West Yorkshire Urban Area|West<br />Yorks UA]] ||England (2011)
+|-
+|Population||443,247||715,402||1,499,465||53,012,456
+|-
+|White||88.4%||91.9%||85.5%||85.4%
+|-
+|Asian||6.4%||4.5%||11.2%||7.8%
+|-
+|Black||2.2%||1.4%||1.3%||3.5%
+|-
+!colspan="5" style="font-size:90%;"|Source: Office for National Statistics<ref name="2001ethnicdata">{{cite web|url=http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=8283&More=Y |title=KS06 Ethnic Group: Census 2001, Key Statistics for urban areas |publisher=National Statistics |accessdate=16 February 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20090804211441/http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=8283&More=Y |archivedate=4 August 2009  }}</ref><ref name="2001ethnicdataborough">{{cite web|url=http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=8296&More=Y |title=KS06 Ethnic group: Key Statistics for urban areas, summary results for local authorities|publisher=National Statistics |accessdate=16 February 2009}}</ref>
+|}{{Update|date=April 2016}}
+At the time of the [[United Kingdom Census 2001]], the Leeds urban subdivision occupied an area of {{convert|109|km2}} and had a population of&nbsp;443,247; making it the fourth-most populous urban subdivision within England and the fifth largest within the United Kingdom. The population density was {{convert|4066|PD/km2|PD/sqmi}}, slightly higher than the rest of the [[West Yorkshire Urban Area]]. It accounts for 20% of the area and 62% of the population of the City of Leeds. The population of the urban subdivision had a 100&nbsp;to&nbsp;93.1&nbsp;female–male ratio.<ref name=urban_pop>{{cite web|title=KS01 Usual resident population: Census 2001, Key Statistics for urban areas |publisher=Office for National Statistics |url=http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=8271&More=Y |date=7 February 2005 |accessdate=24 September 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20050311050212/http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=8271&More=Y |archivedate=11 March 2005  }}</ref> Of those over 16&nbsp;years old, 39.4% were single (never married) and 35.4% married for the first time.<ref name=marital_pop>{{cite web|title=KS04 Marital status: Census 2001, Key Statistics for urban areas |publisher=Office for National Statistics |url=http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=8276&More=Y |date=2 February 2005 |accessdate=24 September 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20090729074316/http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=8276&More=Y |archivedate=29 July 2009  }}</ref> The urban subdivision's 188,890&nbsp;households included 35% one-person, 27.9% married couples living together, 8.8% were co-habiting couples, and 5.7% single parents with their children. Leeds is the largest component of the West Yorkshire Urban Area<ref name=UAmap/> and is counted by [[Eurostat]] as part of the Leeds-Bradford [[larger urban zone]]. The Leeds [[travel to work area]] in 2001 included all of the City of Leeds, a northern strip of the City of Bradford, the eastern part of Kirklees, and a section of southern North Yorkshire; it occupies {{convert|751|km2}}.
+
+In 2011, the Leeds USD had a population of 474,632 and had an area of 112 square kilometres (70 square miles) with a population density of 4,238 people per square kilometre and 6,780 per square mile.<ref name="citypopulation.de">{{cite web|url=https://www.citypopulation.de/php/uk-england-yorkshireandthehumber.php?cityid=E35001333|title=Leeds (West Yorkshire, Yorkshire and the Humber, United Kingdom) - Population Statistics, Charts, Map, Location, Weather and Web Information|website=www.citypopulation.de}}</ref> It is bounded by, and physically attached to, the other towns of [[Garforth]] to the east, [[Morley, West Yorkshire|Morley]] to the southwest and [[Pudsey]] to the west, all being within the wider borough. 63% of the borough's population of 751,485 live in the USD, while it takes up only 21% of its area.
+
+{|class="wikitable"
+|-
+! Leeds compared !! Leeds USD !! Leeds City
+|-
+|White British ||73.9% ||81.1%
+|-
+|Asian ||10.7% ||7.7%
+|-
+|Black ||5.2% ||3.5%
+|}
+
+<ref>{{cite web|url=http://www.ukcensusdata.com/leeds-e08000035#sthash.F1KWadJm.dpbs|title=Leeds – UK Census Data 2011|publisher=}}</ref><ref>{{cite web|url=https://www.nomisweb.co.uk/census/2011/ks201ew|title=KS201EW (Ethnic group) – Nomis – Official Labour Market Statistics|publisher=}}</ref>
+
+In 2011, the Leeds USD (Urban Subdivision) had a total 'White' population of 79.1%<ref name="citypopulation.de"/> with this percentage including people from places such as mainland Europe and Ireland. This makes the USD about as multicultural as [[Salford, Greater Manchester|Salford]] in Greater Manchester. The USD is what is commonly regarded as being Leeds itself, however it is the wider borough that has been given city status.
+
+===Metropolitan district===
+At the time of the [[United Kingdom Census 2011|2011 UK Census]], the district had a total population of 751,500, representing a 5% growth since the previous census ten years earlier.<ref name="westyorkshireobservatory.org">http://www.westyorkshireobservatory.org/resource/view?resourceId=2661</ref> According to the 2001 UK Census, there were 301,614 households in Leeds; 33.3% were married couples living together, 31.6% were single-person households, 9.0% were [[cohabitation|co-habiting]] couples and 9.8% were single parents, following a similar trend to the rest of England.<ref name=household>{{cite web|title=Leeds Metropolitan Borough household composition (households) |publisher=Office for National Statistics |url=http://neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=7&b=276810&c=Leeds&d=13&e=16&g=382985&i=1001x1003x1004&o=1&m=0&r=1&s=1231357883004&enc=1&dsFamilyId=165 |accessdate=22 July 2009}}</ref> The population density was {{convert|1967|/km2|/sqmi|abbr=on}}<ref name=household/> and for every 100 females, there were 93.5 males.
+
+Leeds is a diverse city with over 75 ethnic groups, and with ethnic minorities representing just under 11.6% of the total population.<ref name="westyorkshireobservatory.org"/> According to figures from the [[United Kingdom Census 2011|2011 UK Census]], 85.0% of the population was [[White people|White]] (81.1% [[White British]], 0.9% [[Irish migration to Great Britain|White Irish]], 0.1% [[Gypsy (term)|Gypsy]] or [[Irish Traveller]], 2.9% [[Other White]]), 2.7% of [[Mixed (United Kingdom ethnicity category)|mixed race]] (1.2% White and Black Caribbean, 0.3% White and Black African, 0.7% White and Asian, 0.5% Other Mixed), 7.7% [[British Asian|Asian]] (2.1% [[British Indian|Indian]], 3.0% [[British Pakistanis|Pakistani]], 0.6% [[British Bangladeshi|Bangladeshi]], 0.8% [[British Chinese|Chinese]], 1.2% Other Asian), 3.5% [[Black British|Black]] (2.0% African, 0.9% [[British African-Caribbean people|Caribbean]], 0.6% [[Other Black]]), 0.5% [[British Arab|Arab]] and 0.6% of other ethnic heritage.<ref>{{cite web |url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks202ew.xls |title=2011 Census: Ethnic group, local authorities in England and Wales |publisher=ONS |accessdate=12 December 2012}}</ref>
+
+The majority of people in Leeds identify themselves as Christian.<ref name="Census Data">{{cite web|url=http://www.nomisweb.co.uk/census/2011/ks209ew |title=Leeds Census 2011}}</ref> The proportion of Muslims (3.0% of the population) is average for the country.<ref name="Census Data"/> Leeds has the third-largest community of Jews in the United Kingdom, after those of London and Manchester. The areas of [[Alwoodley]] and [[Moortown, Leeds|Moortown]] contain sizeable Jewish communities.<ref name=Freedman>M. Freedman (1988) "The Leeds Jewish Community" pp.&nbsp;161–174 ''in'' L. S. Tate (ed) ''Aspects of Leeds'' {{ISBN|1-871647-38-X}}</ref> 16.8% of Leeds residents in the 2001 census declared themselves as having "No Religion", which is broadly in line with the figure for the whole of the UK (also 8.1% "religion not stated"). The crime rate in Leeds is well above the national average, like many other English major cities.<ref name=crime_street>{{cite web|url=http://www.upmystreet.com/local/police-crime/figures/l/Leeds-4292.html |title=Crime figures in Leeds |deadurl=yes |archive-url=https://web.archive.org/web/20081009215103/http://www.upmystreet.com/local/police-crime/figures/l/Leeds-4292.html |archivedate=9 October 2008}}</ref><ref name=crime_stat>{{cite web|url=http://www.crimestatistics.org.uk/tool/Default.asp?region=7&force=28&cdrp=106&l1=0&l2=0&l3=0&sub=0&v=36|title= Crime Statistics for Leeds Apr 2005 – Mar 2006|publisher=[[Home Office]]}}</ref> In July 2006, the [[think tank]] [[Reform (think tank)|Reform]] calculated rates of crime for different offences and has related this to populations of major urban areas (defined as towns over 100,000 population). Leeds was 11th in this rating (excluding London boroughs, 23rd including London boroughs).<ref name="reform">{{cite web|url=http://www.reform.co.uk/filestore/pdf/Urban%20crime%20rankings,%20Reform,%20July%202006.pdf |archive-url=https://web.archive.org/web/20061007225256/http://www.reform.co.uk/filestore/pdf/Urban%20crime%20rankings%2C%20Reform%2C%20July%202006.pdf |dead-url=yes |archivedate= 7 October 2006 |title=Urban Crime Rankings |date=July 2006 }}</ref> Total recorded crime in Leeds fell by 45% between 2002/03 and 2011/12.<ref name="westyorkshireobservatory.org"/>
+
+The table below details the population of the current area of the district since 1801, including the percentage change since the last available census data.
+
+{|class="wikitable" style="width:40%; border:0; text-align:center; line-height:120%;"
+|+ [[Population growth]] in City of Leeds since 1801
+|-
+!  style="background:#9cc; color:navy; height:17px;"|Year
+! style="background:#fff; color:navy;"|1801
+! style="background:#fff; color:navy;"|1811
+! style="background:#fff; color:navy;"|1821
+! style="background:#fff; color:navy;"|1831
+! style="background:#fff; color:navy;"|1841
+! style="background:#fff; color:navy;"|1851
+! style="background:#fff; color:navy;"|1861
+! style="background:#fff; color:navy;"|1871
+! style="background:#fff; color:navy;"|1881
+! style="background:#fff; color:navy;"|1891
+! style="background:#fff; color:navy;"|1901
+! style="background:#fff; color:navy;"|1911
+! style="background:#fff; color:navy;"|1921
+! style="background:#fff; color:navy;"|1931
+! style="background:#fff; color:navy;"|1941
+! style="background:#fff; color:navy;"|1951
+! style="background:#fff; color:navy;"|1961
+! style="background:#fff; color:navy;"|1971
+! style="background:#fff; color:navy;"|1981
+! style="background:#fff; color:navy;"|1991
+! style="background:#fff; color:navy;"|2001
+! style="background:#fff; color:navy;"|2011
+|- style="text-align:center;"
+!  style="background:#9cc; color:navy; height:17px;"|Population
+|style="background:#fff; color:black;"|94,421
+|style="background:#fff; color:black;"|108,459
+|style="background:#fff; color:black;"|137,476
+|style="background:#fff; color:black;"|183,015
+|style="background:#fff; color:black;"|222,189
+|style="background:#fff; color:black;"|249,992
+|style="background:#fff; color:black;"|311,197
+|style="background:#fff; color:black;"|372,402
+|style="background:#fff; color:black;"|433,607
+|style="background:#fff; color:black;"|503,493
+|style="background:#fff; color:black;"|552,479
+|style="background:#fff; color:black;"|606,250
+|style="background:#fff; color:black;"|625,854
+|style="background:#fff; color:black;"|646,119
+|style="background:#fff; color:black;"|668,667
+|style="background:#fff; color:black;"|692,003
+|style="background:#fff; color:black;"|715,260
+|style="background:#fff; color:black;"|739,401
+|style="background:#fff; color:black;"|696,732
+|style="background:#fff; color:black;"|716,760
+|style="background:#fff; color:black;"|715,404
+|style="background:#fff; color:black;"|751,500
+|-
+!  style="background:#9cc; color:navy; height:17px;"|% change
+|style="background:#fff; color:black;"|–
+|style="background:#fff; color:black;"|+14.87
+|style="background:#fff; color:black;"|+26.75
+|style="background:#fff; color:black;"|+33.13
+|style="background:#fff; color:black;"|+21.40
+|style="background:#fff; color:black;"|+12.51
+|style="background:#fff; color:black;"|+24.48
+|style="background:#fff; color:black;"|+19.67
+|style="background:#fff; color:black;"|+16.44
+|style="background:#fff; color:black;"|+16.12
+|style="background:#fff; color:black;"|+9.73
+|style="background:#fff; color:black;"|+9.73
+|style="background:#fff; color:black;"|+3.23
+|style="background:#fff; color:black;"|+3.24
+|style="background:#fff; color:black;"|+3.49
+|style="background:#fff; color:black;"|+3.49
+|style="background:#fff; color:black;"|+3.36
+|style="background:#fff; color:black;"|+3.38
+|style="background:#fff; color:black;"|−5.77
+|style="background:#fff; color:black;"|+2.87
+|style="background:#fff; color:black;"|−0.19
+|style="background:#fff; color:black;"|+5.05
+|-
+|colspan="23" style="text-align:center;"|<small>Source: ''Vision of Britain''</small><ref>{{cite web|url=http://www.visionofbritain.org.uk/data_cube_table_page.jsp?data_theme=T_POP&data_cube=N_TPop&u_id=10057140&c_id=10001043&add=N |title=Leeds District: total population |publisher=Vision of Britain}} Retrieved on 19 December 2008.</ref>
+|}
+
+==Governance==
+{{see also|City of Leeds}}
+[[File:Civic Hall Leeds West Yorkshire.jpg|right|thumb|[[Leeds Civic Hall]] is the seat of local government.]]
+The [[City of Leeds]] is the [[Districts of England|local government district]] covering Leeds, and the local authority is [[Leeds City Council]]. The council is composed of 99 councillors, three for each of the district's [[wards of the United Kingdom|wards]]. Elections are held three years out of four, on the first Thursday of May. One third of the councillors are elected, for a four-year term, in each election. The council is currently controlled by [[Labour Party (UK)|Labour]]. [[West Yorkshire]] does not have a county council, so Leeds City Council is the primary provider of local government services for the city. The district is in the [[Yorkshire and the Humber]] region of England.
+
+Most of the district is an [[unparished area]]. In the unparished area, there is no lower tier of government. Outside the unparished area, there are 31 [[civil parish]]es, represented by [[Parish councils in England|parish councils]]. These are the lowest tier of local government<ref name=leeds_parish>{{cite web|url=http://www.leeds.gov.uk/Council_and_democracy/Councillors_democracy_and_elections/Parish_and_town_councils.aspx |title=Parish and Town Councils |publisher=Leeds City Council |accessdate=1 April 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20090405042856/http://www.leeds.gov.uk/Council_and_democracy/Councillors_democracy_and_elections/Parish_and_town_councils.aspx |archivedate= 5 April 2009  }}</ref> and absorb some limited functions from Leeds City Council in their areas.
+
+The district is represented by eight [[Member of Parliament|MP]]s, for the constituencies of [[Elmet and Rothwell (UK Parliament constituency)|Elmet and Rothwell]] ([[Alec Shelbrooke]], Conservative); [[Leeds Central (UK Parliament constituency)|Leeds Central]] ([[Hilary Benn]], Labour); [[Leeds East (UK Parliament constituency)|Leeds East]] ([[Richard Burgon]], Labour); [[Leeds North East (UK Parliament constituency)|Leeds North East]] ([[Fabian Hamilton]], Labour); [[Leeds North West (UK Parliament constituency)|Leeds North West]] ([[Alex Sobel]], Labour); [[Leeds West (UK Parliament constituency)|Leeds West]] ([[Rachel Reeves]], Labour); [[Morley and Outwood (UK Parliament constituency)|Morley and Outwood]] (constituency shared with [[City of Wakefield]]) ([[Andrea Jenkyns]], Conservative); and [[Pudsey (UK Parliament constituency)|Pudsey]] ([[Stuart Andrew]], Conservative). Leeds is within the [[Yorkshire and the Humber (European Parliament constituency)|Yorkshire and the Humber]] European constituency, which {{as of|May 2017|lc=on}} is represented by two [[United Kingdom Independence Party|UKIP]], two [[Labour Party (UK)|Labour]], and two [[Conservative Party (UK)|Conservative]] [[Member of the European Parliament|Members of the European Parliament]].
+
+In addition to other national governmental offices, the city is home to a large [[Department for Work and Pensions]] office building located in [[Quarry Hill, Leeds|Quarry Hill]], notable for its imposing design.
+
+==Economy==
+{{Main|Economy of Leeds}}
+[[File:Infirmary Street, Leeds 2012.jpg|thumb|Infirmary Street in the heart of Leeds' Financial District]]
+[[File:Leeds CBD at night.jpg|thumb|Central Business District at night.]]
+
+Leeds has the most diverse economy of all the UK's main employment centres and has seen the fastest rate of private sector jobs growth of any UK city and has the highest ratio of public to private sector jobs of all the UK's Core Cities. The city has the third-largest jobs total by local authority area with 480,000 in employment and self-employment at the beginning of 2015.<ref>{{cite web|url=http://www.leeds.gov.uk/Business/Pages/Leeds-economy.aspx#http://www.leeds.gov.uk/docs/Leeds%20economy%20at%20a%20glance%20%E2%80%93%20August%202016.pdf|title=Leeds economy|publisher=|deadurl=yes|archive-url=https://web.archive.org/web/20170118082315/http://www.leeds.gov.uk/Business/Pages/Leeds-economy.aspx#http://www.leeds.gov.uk/docs/Leeds%20economy%20at%20a%20glance%20%E2%80%93%20August%202016.pdf|archivedate=18 January 2017}}</ref> 24.7% were in public administration, education and health, 23.9% were in banking, finance and insurance and 21.4% were in distribution, hotels and restaurants. It is in the banking, finance and insurance sectors that Leeds differs most from the financial structure of the region and the nation.<ref>{{Harvnb|Unsworth and Stillwell|2004|p=169}}</ref> In 2011, the financial and services industry in Leeds was worth £2.1&nbsp;billion, the fifth-largest in the UK, behind London, Edinburgh, Manchester and Birmingham.<ref name="autogenerated2"/> Tertiary industries such as retail, [[call centre]]s, offices and media have contributed to a high rate of economic growth. The city also hosts the only subsidiary office of the [[Bank of England]] in the UK. In 2012 GVA for the city was recorded at £18.8&nbsp;billion,<ref>{{cite web |url=http://www.leeds.gov.uk/docs/LEH%2004%20Leeds%20Economy.pdf |title=Archived copy |accessdate=9 August 2014 |deadurl=yes |archive-url=https://www.webcitation.org/6MIIQzzCP?url=http://www.leeds.gov.uk/docs/LEH%2004%20Leeds%20Economy.pdf |archivedate=1 January 2014  }}</ref> with the entire [[Leeds City Region]] generating a £56&nbsp;billion economy.<ref name="leeds.gov.uk"/>
+[[File:Bridgewater place,Leeds.JPG|left|thumb|[[Bridgewater Place]]]]
+It is the largest centre outside London for financial and business services. Over the next ten years, the economy is forecast to grow by 25% with financial and business services set to generate over half of GVA growth over that period with Finance and business services accounting for 38% of total output. Other key sectors include retail, leisure and the visitor economy, construction, manufacturing and the creative and digital industries.<ref name="leeds.gov.uk"/>
+
+Leeds has over 30 national and international banks, many of whose northern or regional offices are based in the city. It is the headquarters for [[First Direct]] and [[Yorkshire Bank]], and has large [[Barclays]], [[HSBC]], [[Banco Santander|Santander]], [[Lloyds Banking Group]] and [[Royal Bank of Scotland Group|RBS Group]] operations.<ref name="locateinleeds.co.uk">[http://www.locateinleeds.co.uk/economy/financial-services/ Financial services |Leeds economy & relocation] {{Webarchive|url=https://web.archive.org/web/20130718234905/http://www.locateinleeds.co.uk/economy/financial-services/ |date=18 July 2013 }}. Locate in Leeds. Retrieved on 17 July 2013.</ref>
+
+The city is also an important centre for equity, venture and risk finance. Founded in Leeds, the venture capital provider, YFM Equity Partners, is now the UK's largest provider of risk capital to small and medium-sized enterprises.<ref name="locateinleeds.co.uk"/>
+
+Other major companies based in the city include [[William Hill (bookmaker)|William Hill]], [[International Personal Finance]], [[Asda]], [[Leeds Building Society]] and [[Northern Foods]]. [[Capita]] Group, [[KPMG]], [[Direct Line]], [[Aviva]], [[Yorkshire Building Society]], [[BT Group]], [[Telefónica Europe]] (otherwise known as O2) and [[TD Waterhouse]] all also have a considerable presence in the city.<ref name="locateinleeds.co.uk"/>
+
+There are around 150 law firms operating in Leeds, employing over 6,700 people. According to The UK Legal 500, "Leeds has a sophisticated and highly competitive legal market, second only to London."<ref name="ReferenceA">[http://www.locateinleeds.co.uk/economy/legal-services/ Legal services |Leeds economy & relocation] {{Webarchive|url=https://web.archive.org/web/20130718235516/http://www.locateinleeds.co.uk/economy/legal-services/ |date=18 July 2013 }}. Locate in Leeds. Retrieved on 17 July 2013.</ref>
+
+Specialist legal expertise to be found in Leeds includes corporate finance, corporate restructuring and insolvency, global project financing, trade and investment, commercial litigation, competition, construction, Private Finance Initiatives and Public Private Partnerships, tax, derivatives, IT, employment, pensions, intellectual property, sport and entertainment.<ref name="ReferenceA"/>
+
+The establishment of an Administrative Court in Leeds in April 2009 reinforced Leeds' position as one of the UK's key legal centres. The court previously sat only in London.<ref name="ReferenceA"/>
+
+Leeds is the UK's third-largest manufacturing centre and 50% of the UK's manufacturing base is within a two-hour drive of Leeds. With around 1,800 firms and 39,000 employees, Leeds manufacturing firms account for 8.8% of total employment in the city. The largest sub-sectors are engineering, printing and publishing, food and drink, chemicals and medical technology.<ref name="Leeds 2013"/>
+
+There is also an established creative industry in the city, particularly in the digital gaming sector. A number of large developers have studios in and around the city, including [[Activision]], developers of the mobile versions of the ''[[Call of Duty]]'' series, and [[Rockstar Leeds]], developers of the ''[[Grand Theft Auto]]'' series. In 2009 Leeds was the first city outside London to host the [[EGX (expo)|Eurogamer Expo]].
+
+[[File:Park Row - Leeds.jpg|thumb|Park Row in Leeds' Central Business District]]
+
+Office developments, also traditionally located in the inner area, have expanded south of the River Aire and total {{convert|11000000|sqft}} of space.<ref name=econ_leeds>{{cite web|url=http://www.leeds.gov.uk/files/Internet2007/2012/6/14%20city%20centre.pdf |title=The City Centre |work=Leeds Economy Handbook |publisher=Leeds City Council |accessdate=2 July 2011}}{{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}</ref> In the period from 1999 to 2008 £2.5bn of property development was undertaken in central Leeds; of which £711m has been offices, £265m retail, £389m leisure and £794m housing. Manufacturing and distribution uses accounts for £26m of new property development in the period. There are 130,100 jobs in the city centre, accounting for 31% of all jobs in the wider district. In 2007, 47,500 jobs were in finance and business, 42,300 in public services, and 19,500 in retail and distribution. 43% of finance sector jobs in the district are contained in Leeds city centre and 44% of those employed in the city centre live more than nine kilometres ({{convert|9|km|abbr=off|disp=output only}}) away.<ref name=econ_leeds/>
+
+Tourism is important to the Leeds economy, in 2009 Leeds was the eighth-most visited city in England by UK visitors.<ref>{{cite web|title=Top 20 Most visited English Cities and Towns in 2009 by UK Residents|url=http://www.enjoyengland.com/Images/top%20towns%202009_tcm21-190501.pdf|accessdate=7 September 2010|ref=harv|postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref> and the 13th-most visited city by overseas visitors.<ref>{{cite web|title=Top 20 Most Popular UK Cities for International Visitors|url=http://gouk.about.com/od/getawaysandshorthops/qt/top20.htm|accessdate=7 September 2010|ref=harv|postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref> Research by [[VisitEngland]] reported that the day visitor market to Leeds attracts 24.9&nbsp;million people each year, worth over £654&nbsp;million to the local economy.<ref>{{cite web|url=http://www.visitengland.org/insight-statistics/major-tourism-surveys/dayvisitors/GBDVS2011.aspx |title=Great Britain Day Visitors Survey 2011 : VisitEngland Corporate Site |publisher=Visitengland.org |date= |accessdate=12 March 2013}}</ref> In the 2017 [[Condé Nast Traveler]] survey of readers, Leeds rated 6th among The 15 Best Cities in the UK for visitors.<ref>{{cite web|url=http://www.cntraveller.com/gallery/best-cities-in-the-uk|title=The best cities in the UK|website=www.cntraveller.com}}</ref>
+
+In 2016, Leeds received 27.29 million leisure tourist visits generating over £1.6bn for the city, according to data from a STEAM survey. That was a 15.9% increase in revenue over 2015. A 9.7% increase in visits had been recorded since 2013.<ref>{{cite web|url=https://www.insidermedia.com/insider/yorkshire/increase-in-leeds-tourism-visitors|title=Increase in Leeds tourism visitors|first=Insider Media|last=Ltd|publisher=}}</ref> The industry supported over 19,000 full-time equivalent jobs in 2016.<ref>{{cite web|url=https://news.leeds.gov.uk/full-steam-ahead-for-leeds-visitor-economy/|title=Full steam ahead for Leeds visitor economy|publisher=}}</ref>
+
+In January 2011, Leeds was named as one of five "cities to watch" in a report published by [[Centre for Cities]].<ref>{{cite web|url=http://www.centreforcities.org/cities-outlook-2011-annual-index-reveals-uk-cities-best-placed-to-create-jobs-and-drive-economic-recovery.html |title=Cities Outlook 2011: Annual index reveals UK cities best placed to create jobs and drive economic recovery |publisher=Centre for Cities |date=24 January 2011 |accessdate=5 August 2011 |deadurl=yes |archive-url=https://web.archive.org/web/20110725152252/http://www.centreforcities.org/cities-outlook-2011-annual-index-reveals-uk-cities-best-placed-to-create-jobs-and-drive-economic-recovery.html |archivedate=25 July 2011}}</ref> The report shows that the average resident in Leeds earns £471 per week,<ref>{{cite web |url=http://www.centreforcities.org/assets/files/Cities%20Outlook%202011/11-01-31%20Earnings%20Cities%20Outlook%202011.pdf |title=Archived copy |accessdate=15 February 2011 |deadurl=yes |archive-url=https://web.archive.org/web/20110428035956/http://www.centreforcities.org/assets/files/Cities%20Outlook%202011/11-01-31%20Earnings%20Cities%20Outlook%202011.pdf |archivedate=28 April 2011  }}</ref> seventeenth nationally and 30.9% of Leeds residents had NVQ4+ high-level qualifications,<ref>{{cite web |url=http://www.centreforcities.org/assets/files/Cities%20Outlook%202011/11-01-31%20High%20level%20quals%20Cities%20Outlook%202011.pdf |title=Archived copy |accessdate=15 February 2011 |deadurl=yes |archive-url=https://web.archive.org/web/20110428072656/http://www.centreforcities.org/assets/files/Cities%20Outlook%202011/11-01-31%20High%20level%20quals%20Cities%20Outlook%202011.pdf |archivedate=28 April 2011  }}</ref> fifteenth nationally. Employment in Leeds was 68.8% in the period June 2012 to June 2013, which was lower than the national average, whilst unemployment was higher than the national average at 9.6% over the same time period.<ref>{{cite web|url=http://www.nomisweb.co.uk/reports/lmp/la/1946157127/report.aspx?town=Leeds#tabempunemp |title=ONS data – employment & unemployment |publisher=Nomisweb.co.uk |date= |accessdate=15 March 2014}}</ref> It also shows that Leeds will be the least affected major city by welfare cuts in 2014/2015, with welfare cuts of £125 per capita predicted, compared to £192 in Liverpool and £175 in Glasgow.<ref>{{cite web |url=http://www.centreforcities.org/assets/files/Cities%20Outlook%202011/11-01-31%20Welfare%20cuts%20Cities%20Outlook%202011.pdf |title=Archived copy |accessdate=15 February 2011 |deadurl=yes |archive-url=https://web.archive.org/web/20110428073250/http://www.centreforcities.org/assets/files/Cities%20Outlook%202011/11-01-31%20Welfare%20cuts%20Cities%20Outlook%202011.pdf |archivedate=28 April 2011  }}</ref> Leeds is overall less deprived than other large UK cities and average income is above regional averages.<ref name="westyorkshireobservatory.org"/>
+
+===Public sector===
+[[File:NHS England HQ.jpg|thumb|[[NHS England]] HQ.]]
+In Leeds, 108,000 people work in the public sector—24% of the workforce. The largest employers are Leeds City Council, with 33,000 staff, and the Leeds Teaching Hospitals NHS Trust, with 14,000 staff.<ref name="ReferenceB">[http://www.locateinleeds.co.uk/economy/public-sector/ Public sector |Leeds economy & relocation] {{Webarchive|url=https://web.archive.org/web/20130718230830/http://www.locateinleeds.co.uk/economy/public-sector/ |date=18 July 2013 }}. Locate in Leeds. Retrieved on 17 July 2013.</ref>
+
+Leeds has become a hub of public-sector health bodies. The [[Department of Health]], [[NHS England]], the [[Care Quality Commission]], [[NHS Digital]], and [[Public Health England]] all have large offices in Leeds. Europe's largest teaching hospital is also based in Leeds, and is home to the Yorkshire Cancer Centre, the largest of its kind in Europe.<ref>[http://www.leeds-city-guide.com/Body Information on Leeds – Facts and Figures]. Leeds City Guide. Retrieved on 17 July 2013.</ref>
+
+Key government departments and organisations in Leeds include the [[Department for Work and Pensions]], with over 3,000 staff, the Department of Health, with over 800 staff, [[HM Revenue and Customs]] with over 1,200 staff and the [[British Library]] with 1,100 staff.<ref name="ReferenceB"/>
+
+===Shopping===
+[[File:County Arcade Victoria Quarter Leeds.jpg|thumb|left|[[Victoria Quarter]], opened in 1900]]
+[[File:King-edward-street-leeds.jpg|thumb|left|King Edward Street]]
+[[File:Pinnacle, Leeds 16.jpg|thumb|[[Trinity Leeds]] is Leeds' largest shopping centre]]
+[[File:Opening day, Victoria Gate, Leeds (20th October 2016) 004.jpg|thumb|Left|[[Victoria Gate]] is Leeds' newest shopping centre]]
+
+The extensive retail area of Leeds is identified as the principal regional shopping centre for the whole of the Yorkshire and the Humber region with a catchment of 5.5&nbsp;million people offering a spend of £1.93&nbsp;billion annually.<ref>{{cite web|url=http://www.landsecuritiesretail.com/portfolio/Trinity-Leeds |title=Trinity Leeds, Leeds |publisher=Land Securities |date= |accessdate=23 March 2013}}</ref> There are a number of indoor shopping centres in the centre of the city, including the [[Merrion Centre, Leeds|Merrion Centre]], [[St John's Centre]], [[Schofields (department store)|The Core]], the [[Victoria Quarter]], [[The Light (Leeds)|The Light]], the [[Leeds Corn Exchange|Corn Exchange]], [[Trinity Leeds]], and [[Victoria Gate]].<ref>{{cite web|first=Matthew |last=Chapman |url=http://www.marketingmagazine.co.uk/sectors/retail/article/1130913/Trinity-Leeds-kicks-off-online-hype-ahead-2013-opening/ |title=Trinity Leeds kicks off online hype ahead of 2013 opening – Marketing news |publisher=Marketing magazine |date=10 May 2012 |accessdate=12 March 2013}}</ref> In total there are well over 1,000 retail stores, with a combined floorspace of {{convert|3660000|sqft}}.<ref name=econ_leeds/> in Leeds City Centre.
+
+The city centre has a large [[pedestrian zone]]. [[Briggate]] is the main shopping street where one can find many well-known British [[High Street]] stores, including [[Marks & Spencer]], [[House of Fraser]], [[Debenhams]], [[Topshop]], [[Costa Coffee]] and [[Harvey Nichols]]. Many companies have several stores within Central Leeds and the wider city. The [[Victoria Quarter]] is notable for its high-end luxury retailers and impressive architecture. 70 stores such as [[Louis Vuitton]], [[Vivienne Westwood]], [[Paul Smith (fashion designer)|Paul Smith]], [[Diesel (brand)|Diesel]] and anchor [[Harvey Nichols]] are contained within two iron-wrought Victorian arcades, and a new arcade formed by arcading Queen Victoria Street with the largest expanse of stained glass in Britain.<ref>[http://www.v-q.co.uk/57/section.aspx/alternate/7b1afff9a6d5458b922ca64234087f6f View Details (Popup) – VQ Website]. V-q.co.uk. Retrieved on 17 July 2013. {{webarchive |url=https://web.archive.org/web/20131101153425/http://www.v-q.co.uk/57/section.aspx/alternate/7b1afff9a6d5458b922ca64234087f6f |date=1 November 2013 }}</ref><ref>[http://www.uggaustralia.co.uk/leeds-store-opening/leeds-store-opening,en_GB,pg.html UGG® Australia comes to Leeds' Victoria Quarter]. UGG Australia. Retrieved on 17 July 2013.</ref>
+
+In the Churwell area of Leeds is the [[White Rose Shopping Centre]]. Opening in 1997, the centre has over 100 high street stores anchored by Debenhams, Marks & Spencer, Primark and Sainsbury's. Some stores have their only Leeds presence here and do not trade in Central Leeds, such as the Disney Store and Build-A-Bear workshop. Although the centre is below the average typical size for out of town shopping malls like the [[Trafford Centre]] or [[Meadowhall Centre|Meadowhall]] in nearby Yorkshire city [[Sheffield]], it remains popular with national and international chains. Of the 40,000 people who work in retailing in Leeds 75% work in places which are not located in the city centre. There are additional shopping centres located in the many villages that became part of the county borough and in the towns that were incorporated in the City of Leeds in 1974.<ref>{{Harvnb|Unsworth and Stillwell|2004|p=245}}</ref>
+
+On 21 March 2013, a large shopping and leisure complex called [[Trinity Leeds]] opened in the city centre. The modern and interactive retail space covers the old Burton Arcades and the former [[Trinity Leeds|Leeds Shopping Plaza]] with its main entrance from Briggate.<ref>{{cite web |url= http://www.landsecuritiesretail.com/portfolio/Trinity-Leeds |title=Trinity Leeds, Leeds &#124; Land Securities Retail Portfolio &#124; Land Securities Retail |year=2012 |accessdate=28 February 2012}}</ref>
+
+On 20 October 2016, the newest shopping destination called [[Victoria Gate]] opened its doors to the public. The new shopping mall houses a flagship [[John Lewis (department store)|John Lewis]] store, the largest outside London. Seventy-five per cent of the stores that opened in Victoria Gate were new to Leeds with many of those stores being the first outside of London.<ref>{{cite news|url=http://www.yorkshireeveningpost.co.uk/news/business/verdict-on-victoria-gate-launch-day-1-8192555|title=Verdict on Victoria Gate launch day|work=Yorkshire Evening Post}}</ref>
+
+==Landmarks==
+[[File:General Post Office, City Square, Leeds (former) (4824877432).jpg|thumb| [[Leeds City Square|The Old Post Office in Leeds City Square]]]]
+[[File:Kirkstall Abbey at sunset.jpg|thumb|[[Kirkstall Abbey]]. Founded {{circa}} 1152]]
+
+Leeds displays a variety of natural and built landmarks. Natural landmarks include such diverse sites as the gritstone outcrop of [[The Chevin|Otley Chevin]] and the [[Fairburn Ings RSPB reserve]]. The city's parks at [[Roundhay Park|Roundhay]] and [[Temple Newsam]] have long been owned and maintained by the council for the benefit of ratepayers and among the open spaces in the centre of Leeds are [[Millennium Square, Leeds|Millennium Square]], [[Leeds City Square|City Square]], [[Park Square, Leeds|Park Square]] and Victoria Gardens. This last is the site of the central city [[war memorial]]: there are 42 other war memorials in the suburbs, towns and villages in the district.<ref>{{cite web|url=http://www.leeds.gov.uk/Leisure_and_culture/Local_history_and_heritage/Memorial__maintenance.aspx |title=War memorials |work=Leeds City Council |accessdate=6 November 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20090303123545/http://www.leeds.gov.uk/Leisure_and_culture/Local_history_and_heritage/Memorial__maintenance.aspx |archivedate=3 March 2009}}</ref>
+
+The built environment embraces edifices of civic pride like [[Morley Town Hall]] and the trio of buildings in Leeds, [[Leeds Town Hall]], [[Leeds Corn Exchange|Corn Exchange]] and [[Leeds City Museum]] by the architect [[Cuthbert Brodrick]]. The two white buildings on the Leeds skyline are the Parkinson building of Leeds University and the [[Leeds Civic Hall|Civic Hall]], with golden owls adorning the tops of the latter's twin spires.<ref>
+{{cite web
+|url=http://www.leodis.net/display.aspx?resourceIdentifier=20031021_1594179&DISPLAY=FULL
+|title=Leodis – a photographic archive of Leeds – Display
+|publisher=Leeds City Council. Leodis
+|accessdate=6 November 2009
+}}
+</ref>
+
+[[Armley Mills]], [[Tower Works]], with its campanile-inspired towers, and the Egyptian-style [[Temple Works]] hark back to the city's industrial past, while the site and ruins of [[Kirkstall Abbey]] display the beauty and grandeur of [[Cistercian]] architecture. Notable churches are [[Leeds Minster]] (formerly Leeds Parish Church), [[St George's Church, Leeds|St George's Church]] and [[Leeds Cathedral]], in the city centre, and the [[Church of St John the Baptist, Adel]] and [[Bardsey, West Yorkshire|Bardsey]] Parish Church in quieter locations. Notable [[non-conformist]] chapels include the [[Salem Chapel, Leeds|Salem Chapel]], dating back to 1791 and notably the birthplace of Leeds United Football Club in 1919.<ref>{{cite web|title=aql's historic head office – the Salem Chapel|url=http://aql.com/news/198/|publisher=aql|accessdate=14 April 2012}}</ref><ref>{{cite web|title=Salem United Reformed Church: Historical Information|url=https://www.aql.com/documents/news/salem-blue-brochure.pdf|publisher=aql|accessdate=14 April 2012|page=6|format=PDF|date=November 2011|archive-url=https://web.archive.org/web/20120105052030/https://www.aql.com/documents/news/salem-blue-brochure.pdf|archivedate=5 January 2012|dead-url=yes}}</ref>
+
+Leeds is one of only a few UK cities outside of London to have a significant number of [[high-rise building]]s, the {{convert|112|m|adj=on}} tower of [[Bridgewater Place]], also known as ''The Dalek'', is part of a major office and residential development and the region's tallest building; it can be seen for miles around.<ref>
+{{cite web
+|url=http://www.skyscrapernews.com/buildings.php?id=734
+|title=Bridgewater Place, Leeds – Building No.&nbsp;734
+|publisher=skyscrapernews.com
+|accessdate=5 November 2009
+}}
+</ref> Bridgewater Place has been the subject of debate as its erection in 2007 caused significant [[wind tunnel]] effects, channeling strong wind currents across Victoria Road. There have been numerous injuries attributed to the inadequate architecture of this building<ref>{{cite web |url= https://www.bbc.co.uk/news/uk-england-leeds-21633206 |title= Bridgewater Place 'wind tunnel caused Leeds injuries' |publisher= BBC News |date= 10 February 2012}}</ref> and Water Lane is frequently closed when high winds are expected. [[Leeds City Council]] are undertaking construction work in an attempt to deflect the wind from street level and the building owners of Bridgewater Place agreed to pay to cover the public money being spent.<ref>{{cite web |url= https://www.bbc.co.uk/news/uk-england-leeds-38174624 |title= Leeds' Bridgewater Place owners to foot £900,000 wind bill |publisher= BBC News |date= 1 December 2016}}</ref> Among other Skyscrapers the 37-storey [[Sky Plaza]] to the north of the city centre stands on higher ground so that its {{convert|106|m}} is higher than Bridgewater Place.
+
+[[Elland Road]] (football) and [[Headingley Stadium]] (cricket and rugby) are well known to sports enthusiasts and the [[White Rose Centre]] is a well-known retail outlet. Headingley Carnegie Stadium is also home to Leeds Rhinos rugby team.
+
+[[File:Leedsskylineatnight.jpg|thumb|centre|upright=3.4|Leeds city centre, viewed from South Leeds at night]]
+
+==Transport==
+{{Main|Transport in Leeds}}
+Leeds has been identified as one of the most car-dependent cities in the UK.<ref>{{cite web |url=http://www.bettertransport.org.uk/files/car_dependency_scorecard_2.pdf |title=Archived copy |accessdate=1 December 2013 |deadurl=yes |archive-url=https://web.archive.org/web/20131203033123/http://www.bettertransport.org.uk/files/car_dependency_scorecard_2.pdf |archivedate=3 December 2013  }}</ref> In one 2012 study of 31 European cities, Leeds-Bradford was rated as the seventh-most grid-locked.<ref>{{cite web|url=http://www.thetelegraphandargus.co.uk/news/local/localbrad/9809113.Roads_in_Bradford_and_Leeds__most_congested_in_England_/ |title=Roads in Bradford and Leeds 'most congested in England' (From Bradford Telegraph and Argus) |publisher=Thetelegraphandargus.co.uk |date=11 July 2012 |accessdate=15 March 2014}}</ref><ref>{{cite web|url=http://www.wort.lu/fr/view/varsovie-marseille-milan-ou-bruxelles-des-villes-o-il-ne-faut-pas-etre-presse-4ffc0d3be4b096b452e28b74 |title=Varsovie, Marseille, Milan ou Bruxelles, des villes où il ne faut pas être pressé |publisher=Wort.lu |date= |accessdate=15 March 2014}}</ref> Drivers spend an average of 80 hours in congestion.<ref>{{cite web|url=http://www.itv.com/news/calendar/story/2012-10-11/congestion-in-leeds-and-bradford/ |title=Congestion in Leeds and Bradford – ITV News |publisher=Itv.com |date=11 October 2012 |accessdate=15 March 2014}}</ref> Measurements taken on some main roads in Leeds have revealed pollution levels over twice the legal limits.<ref>{{cite web|url=http://yorkshiretimes.co.uk/article/Government-Faces-Supreme-Court-Over-Leeds-Illegal-Air-Pollution |title=Yorkshire News: Government Faces Supreme Court Over Leeds' Illegal Air Pollution |publisher=Yorkshiretimes.co.uk |date= |accessdate=15 March 2014}}</ref>
+
+The main reason for these problems is the fact that unlike other cities in the UK similar in size to Leeds, such as [[Manchester]] and [[Sheffield]], Leeds does not have a rapid transport system (such as the [[Manchester Metrolink]] or [[Sheffield Supertram]]). Therefore, commuters tend to either drive or use buses, which can be delayed when the roads are congested. There were plans for a [[Leeds Supertram]] in the 1990s, and £500&nbsp;million in funding was to be provided; however, due to spiraling costs the plans were cancelled by the Transport Minister [[Alistair Darling]] in 2005, even though £40&nbsp;million had already been spent on the project. Hopes were renewed with the proposal for a £250&nbsp;million [[Trolleybuses in Leeds|New Generation Transport]] Trolleybus service in 2007; however, after a long wait and millions of pounds spent on inquiries, the plans were cancelled in May 2016 citing little value for money.<ref>{{cite news|url=http://www.yorkshireeveningpost.co.uk/news/transport/not-suitable-for-development-leeds-trolleybus-scheme-is-thrown-out-1-7907098 |title='Not suitable for development': Leeds trolleybus scheme is thrown out |work=Yorkshire Evening Post |date= |accessdate=12 August 2016}}</ref>
+
+Leeds will introduce a clean air zone from January 2020, which will charge the most polluting buses, coaches HGVs £50 a day to enter the city, while taxis and private hire vehicles which are not clean enough will be charged £12.50 a day. The proposals came after the government ordered the council to come up with ways to lower the air pollution in the city, which causes around 29,000 premature deaths in the UK.<ref>https://www.theguardian.com/uk-news/2018/oct/09/drivers-faced-with-50-daily-charge-in-leeds-to-cut-air-pollution</ref>
+
+===Road===
+[[File:Moor Road Underpass - geograph.org.uk - 1600451.jpg|thumb|M621 heading towards Central Leeds]]
+Leeds is the starting point of the [[A62 road|A62]], [[A63 road|A63]], [[A64 road|A64]], [[A65 road|A65]] and [[A660 road|A660]] roads, and is also situated on the [[A58 road|A58]] and [[A61 road|A61]]. The [[M1 motorway|M1]] and [[M62 motorway|M62]] intersect to its south and the [[A1(M) motorway|A1(M)]] passes to the east. Leeds is one of the principal hubs of the northern motorway network. Additionally, there is an urban motorway network; the radial [[M621 motorway|M621]] takes traffic into central Leeds from the M62 and M1. There is an [[Leeds Inner Ring Road|Inner Ring Road]] with part motorway status and an [[Leeds Outer Ring Road|Outer Ring Road]]. Part of the city centre<ref>{{cite web |url=http://www.leedsliveitloveit.com/downloads/maps/leeds_city_centre_map.pdf |title=leedsliveitloveit |publisher=leedsliveitloveit |date= |accessdate=15 March 2014 |deadurl=yes |archive-url=https://web.archive.org/web/20090325152134/http://www.leedsliveitloveit.com/downloads/maps/leeds_city_centre_map.pdf |archivedate=25 March 2009  }}</ref> is pedestrianised, and is encircled by the clockwise-only [[List of junctions on Leeds City Centre Loop Road|Loop Road]].
+[[File:Leeds city railway stration.jpg|thumb|[[Leeds railway station]]]]
+[[File:LBIA terminal 1.jpg|thumb|[[Leeds Bradford Airport|Leeds Bradford International Airport]]]]
+
+===Buses===
+[[File:Bus concourse (100075341).jpg|thumb|[[Leeds Bus Station]]]]
+Public transport in the Leeds area is coordinated and developed by [[West Yorkshire Metro]],<ref>{{cite web|url=http://www.wymetro.com/aboutmetro/whatwedo/WhatisMetro.htm|archive-url=https://archive.is/20121209092007/http://www.wymetro.com/aboutmetro/whatwedo/WhatisMetro.htm|dead-url=yes|archivedate=9 December 2012|title=What is Metro |publisher=Wymetro.com |accessdate=10 February 2009}}</ref> with service information provided by Leeds City Council<ref>{{cite web|url=http://www.leedstravel.info |title=Leeds Travel Info |accessdate=10 February 2009}}</ref> and West Yorkshire Metro. The primary means of public transport in Leeds are the bus services. The main provider is [[First Leeds]] and [[Arriva Yorkshire]] serves routes to the south of the city. Leeds City bus station is at Dyer Street and is used by bus services to towns and cities in Yorkshire, plus a small number of local services. Adjacent to it is the coach station for [[National Express Coaches|National Express]] coach services. Buses out of the city are mainly provided by First Leeds and Arriva Yorkshire. [[Harrogate Bus Company]] provides a service to [[Harrogate]] and [[Ripon]]. [[Keighley Bus Company]] provides a service to [[Shipley, West Yorkshire|Shipley]], [[Bingley]] and [[Keighley]]. The [[Yorkshire Coastliner]] service runs from Leeds to [[Bridlington]], [[Filey]], [[Scarborough, North Yorkshire|Scarborough]] and [[Whitby]] via [[York]] and [[Malton, North Yorkshire|Malton]]. [[Stagecoach in Hull]] provides a service to [[Kingston upon Hull|Hull]] via [[Goole]]. [[Stagecoach Yorkshire]] provides services to [[Barnsley]].
+
+===Rail===
+From [[Leeds railway station]] at New Station Street, [[West Yorkshire Metro]] trains operated by [[Northern (train operating company)|Northern]] run to Leeds' suburbs and onwards to all parts of Leeds City Region. The station is one of the busiest in England outside London, with over 900 trains and 50,000 passengers passing through every day.<ref>{{cite web|url=http://www.rail-reg.gov.uk/server/show/nav.1529 |title=Station usage – : Office of Rail Regulation |publisher=Rail-reg.gov.uk |accessdate=14 October 2008}}</ref> It provides national and international connections as well as services to local and regional destinations. The station itself has 17 platforms, making it the largest in England outside London.<ref>{{cite web|url=http://www.information-britain.co.uk/county97/townguideLeeds/ |title=A guide to Leeds. Leeds facilities, schools, general information, West Yorkshire |publisher=Information-britain.co.uk |accessdate=14 October 2008}}</ref>
+
+The city and metropolitan borough of Leeds is served by 16 railway stations and there are plans to open several more within the next 20 years.<ref>{{cite news |title=Plans for three new Leeds railway stations unveiled |url=http://www.railtechnologymagazine.com/Rail-News/plans-for-three-new-leeds-railway-stations-unveiled |accessdate=13 June 2018 |work=www.railtechnologymagazine.com |date=5 December 2016}}</ref>
+
+===Air===
+[[Leeds Bradford Airport|Leeds Bradford International Airport]] is located in [[Yeadon, West Yorkshire|Yeadon]], about {{convert|10|mi}} to the north-west of the city centre, and has both charter and scheduled flights to destinations within Europe plus Egypt, Tunisia, Turkey and the USA. There is a direct rail service from Leeds to [[Manchester Airport]]; however, there isn't one to the nearby Leeds Bradford Airport. [[Humberside Airport]] is {{convert|70|mi|0|abbr=out}} east of Leeds.
+
+==Recreation==
+[[File:Waterloo Lake Roundhay 07.jpg|thumb|right|Waterloo Lake in [[Roundhay Park]], one of the largest urban parks in Europe]]
+[[File:Temple Newsam.jpg|thumb|The Mansion at [[Temple Newsam]]]]
+
+===Walking===
+The [[Leeds Country Way]] is a waymarked circular walk of {{convert|62|mi}} through the rural outskirts of the city, never more than {{convert|7|mi|0}} from [[Leeds City Square|City Square]]. The [[Meanwood Valley Trail]] leads from [[Woodhouse Moor]] along [[Meanwood Beck]] to [[Golden Acre Park]]. The Leeds extension of the [[Dales Way]] follows the Meanwood Valley Trail before it branches off to head towards [[Ilkley]] and [[Windermere]]. Leeds is on the northern section of the [[Trans Pennine Trail]] for walkers and cyclists, and the towpath of the [[Leeds and Liverpool Canal]] is another popular walking and cycling route. [[The White Rose Way]] walking trail to [[Scarborough, North Yorkshire|Scarborough]] begins at City Square. In addition, there are many parks and public footpaths in both the urban and rural parts of Leeds, and [[The Ramblers]]' Association, [[Youth Hostels Association (England & Wales)|YHA]] and other walking organisations offer sociable walks. The Ramblers' Association publish various booklets of walks in and around Leeds.<ref>{{cite web|url=http://www.ramblersyorkshire.org/publications.html |title=RA website with walking booklets |deadurl=yes |archive-url=https://web.archive.org/web/20100227074159/http://www.ramblersyorkshire.org/publications.html |archivedate=27 February 2010}}</ref>
+
+===Parks and open spaces===
+Leeds has many large parks and open spaces. [[Roundhay Park]] is the largest park in the city, and is one of the largest city parks in Europe. The park has more than {{convert|700|acre|km2}}<ref>{{cite news |title=High-wire rope course plan ditched |url=https://www.bbc.co.uk/news/uk-england-leeds-38810848 |accessdate=13 June 2018 |work=BBC News |date=2017}}</ref> of parkland, lakes, woodland and gardens which are all owned by Leeds City Council. Other parks in the city include: Beckett Park, Bramley Fall Park, Cross Flatts Park, East End Park, [[Golden Acre Park]], Gotts Park,<ref>Leeds City Council, [https://www.leeds.gov.uk/leisure/parks-and-countryside/your-local-park/gotts-park Gotts Park], accessed 23 September 2018</ref> the gardens and grounds of [[Harewood House]], Horforth Hall Park, Meanwood Park, [[Middleton Park]], Potternewton Park, Pudsey Park,<ref>Leeds City Council, [https://www.leeds.gov.uk/leisure/parks-and-countryside/major-parks/pudsey-park Pudsey Park], accessed 23 September 2018</ref> [[Temple Newsam]], Western Flatts Park and [[Woodhouse Moor]]. There are many more smaller parks and open spaces scattered around the city, which makes Leeds one of the greenest cities in the United Kingdom in a 2017 survey. Leeds was ranked at number seven, just behind Sheffield, but ahead of Bradford, Manchester and Liverpool.<ref>{{cite news |title=How green is your city? UK's top 10 mapped and ranked |url=https://www.theguardian.com/cities/gallery/2017/jan/05/green-space-uk-largest-cities-mapped |accessdate=13 June 2018 |work=The Guardian |date=5 January 2017}}</ref>
+
+==Education==
+
+===Schools===
+{{Main|List of schools in Leeds}}
+At the time of the 2001 census Leeds had a population of 183,000 young people aged 0–19 of whom 110,000 were attending local authority schools.<ref>{{Harvnb|Unsworth and Stillwell|2004|p=148}}</ref> In 2008 Education Leeds, a non-profit company owned by Leeds City Council, provided for 220 primary schools, 39 secondary schools and 6 special inclusive learning centres.<ref>{{cite web|url=http://www.educationleeds.co.uk/documents/viewdoc.aspx?cid=16632|archive-url=https://web.archive.org/web/20110927175354/http://www.educationleeds.co.uk/documents/viewdoc.aspx?cid=16632|dead-url=yes|archivedate=27 September 2011|title=School Population Tables 2008.pdf|publisher=Education Leeds|accessdate=1 November 2009}}</ref> Under the government [[Building Schools for the Future]] initiative, Leeds secured £260m to transform 13 secondary schools into high achieving, e-confident, inclusive schools. The first three of these schools at [[Allerton High School]], [[Pudsey Grangefield School]] and [[The Rodillian Academy|Rodillian School]] were opened in September 2008.<ref>{{cite web|url=http://www.educationleeds.co.uk/bsf/bsfinleeds.html |title=Building Schools for the Future – BSF in Leeds |publisher=www.educationleeds.co.uk |accessdate=21 April 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20080511193639/http://www.educationleeds.co.uk/bsf/bsfinleeds.html |archivedate=11 May 2008 }}</ref> The demand for primary school places in Leeds has recently hit a 15-year peak, with an estimated 10,500 new starters this year.<ref>{{cite web|url=http://www.yorkshireeveningpost.co.uk/news/education/demand-for-leeds-primary-school-places-at-15-year-high-1-7799795|title=Demand for Leeds primary school places at 15-year high|work=Yorkshire Evening Post|accessdate=19 March 2016}}</ref> The city's oldest and largest private school is the [[Grammar School at Leeds]], which was legally re-created in 2005 following the merger of [[Leeds Grammar School]], established 1552, and [[Leeds Girls' High School]], established 1876. Other independent schools in Leeds include faith schools serving the Jewish<ref>{{cite web|url=http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/108110|title=Leeds Menorah School|work=Ofsted|accessdate=1 November 2009}}</ref> and Muslim<ref>{{cite web|url=http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/130274|title=New Horizons School|work=Ofsted|accessdate=1 November 2009}}</ref> communities.
+
+Leeds was one of a number of local authorities to try the [[Three-tier education|three-tier system]] with first, middle and secondary schools. It reverted to the two-tier system in 1992.
+
+===Further and higher education===
+[[File:Parkinson Building, Leeds University, England-12Sept2010.jpg|thumb|[[Parkinson Building]] at the [[University of Leeds]]|left]]
+[[File:Broadcasting Tower, Leeds, West Yorkshire.jpg|thumb|right|Broadcasting Tower at the [[Leeds Beckett University]]]]
+[[Further education]] in Leeds is provided by [[Elliott Hudson College]], [[Leeds City College]] (formed by a merger in 2009 and having over 60,000 students), [[Leeds College of Building]], and [[Notre Dame Catholic Sixth Form College]]. 
+{{clear|left}}
+Institutions providing higher education include:
+*The [[University of Leeds]], which received its charter in 1904 having developed from the Yorkshire College which was founded in 1874 and the Leeds School of Medicine of 1831;
+*[[Leeds Beckett University]] (formerly Leeds Polytechnic), which became a university in 1992 but can trace its roots to the [[Mechanics' Institutes|Mechanics' Institute]] of 1824;
+*[[Leeds Trinity University]], which began in 1966 as two teacher training colleges which merged in 1980 to form Trinity and All Saints College and became a university in 2012;
+*The [[University of Law]] (formerly the College of Law) which became a university in 2012 and moved to its current Leeds centre campus from [[York]] in 2014;
+*[[Leeds College of Music]];
+*[[Northern School of Contemporary Dance]];
+*The University Centre at Leeds City College;<ref>[http://www.leedscitycollege.ac.uk/centres/college-campuses/university-centre/ University Centre]</ref>
+*[[Leeds Arts University]], formerly Leeds College of Art, which was founded in 1846 as the Leeds School of Art, and became a university in 2017.
+
+The University of Leeds has about 31,000 students, of which 21,500 are full-time or sandwich undergraduate degree students,<ref>{{cite web|url=http://www.ucas.ac.uk/instit/i/l23.html |title=University of Leeds |work=UCAS |accessdate=5 March 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20080610123654/http://www.ucas.ac.uk/instit/i/l23.html |archivedate=10 June 2008}}</ref> Leeds Beckett University has 25,805<ref>{{cite web|url=http://www.leedsbeckett.ac.uk|title=Leeds Beckett University|date=9 March 2016|publisher=}}</ref> students of which 12,000 are full-time or sandwich undergraduate degree students and 2,100 full-time or sandwich HND students.<ref>{{cite web|url=http://www.ucas.ac.uk/instit/i/l27.html |title=Leeds Beckett University |work=UCAS |accessdate=5 March 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20080609104556/http://www.ucas.ac.uk/instit/i/l27.html |archivedate=9 June 2008}}</ref> Leeds Trinity University has just under 3,000 students.<ref>{{cite web|url=http://www.leedstrinity.ac.uk/ABOUTUS/Pages/default.aspx|title=About us|work=Leeds Trinity University College|accessdate=28 September 2009|deadurl=yes|archive-url=https://web.archive.org/web/20090925081903/http://www.leedstrinity.ac.uk/aboutus/Pages/default.aspx|archivedate=25 September 2009}}</ref> The city was voted the Best UK University Destination by a survey in ''[[The Independent]]'' newspaper.<ref name="cug">{{cite web|url=http://www.thecompleteuniversityguide.co.uk/single.htm?ipg=6537 |title=The Complete University Guide |publisher=The Complete University Guide |accessdate=5 August 2011}}</ref>
+
+==Culture==
+{{See also|Culture of Leeds}}
+
+===Art===
+[[File:Leeds. Henry Moore town - geograph.org.uk - 353135.jpg|thumb|Henry Moore Statue outside [[Leeds Art Gallery]] ]]
+Although the city's municipal art gallery did not open until 1888, the history of art practise and collecting has a long history in Leeds. [[J. M. W. Turner]] painted numerous scenes in and around the city,<ref>David Hill, ''Turner and Leeds'' (Leeds: Northern Arts Publications, 2008) p.1f</ref> and the city was home to one of Britain's largest collections of Pre-Raphaelite Art, owned by Thomas Plint, during the nineteenth century.<ref>Caroline Arscott, 'Without Distinction of Party' in Janet Wolff and John Seed (eds.)''The Culture of Capital'' (Manchester: Manchester University Press, 1988) p.135</ref> There was also an early history of holding large-scale public exhibitions in the city, most notably the series of 'Polytechnic Exhibitions' held regularly from 1839.<ref>Toshio Kusamitsu, 'Great Exhibitions before 1851' in ''History Workshop'', No. 9 (Spring, 1980), p.76f. See also Caroline Arscott, 'Without Distinction of Party' in Janet Wolff and John Seed (eds.)''The Culture of Capital'' (Manchester: Manchester University Press, 1988) p.135</ref>
+
+Leeds produced many notable artists and sculptors, including [[Kenneth Armitage]], [[John Atkinson Grimshaw]], [[Jacob Kramer]], [[Barbara Hepworth]], [[Henry Moore]], [[Edward Wadsworth]] and [[Joash Woodrow]], and was the centre for a particularly radical strain of British art. Before the First World War Leeds was the home of an unusual modernist arts organisation, called the [[Leeds Arts Club]], founded by [[Alfred Richard Orage|Alfred Orage]], which lasted from 1903 to 1923. Notable members included [[Jacob Kramer]], [[Herbert Read]], [[Frank Rutter]] and [[Michael Sadler (educationist)|Michael Sadler]]. As well as advocating a radical political agenda, supporting the [[Suffragette]]s, the [[Independent Labour Party]] and the [[Fabian Society]], and promoting the philosophy of [[Friedrich Nietzsche]], the Leeds Arts Club was almost unique in Britain as being an exponent of [[German Expressionism|German Expressionist]] ideas about art and culture. As a result, it staged very early British exhibitions of work by European expressionist artists, such as [[Wassily Kandinsky]], showing their work in the city as early as 1913,<ref>Tom Steele, ''Alfred Orage and the Leeds Arts Club'' (London: Orage Press, 2009)</ref> and produced its own English Expressionist artists, including Jacob Kramer and Bruce Turner.<ref>Michael Paraskos, ''The Yorkshire Art Exhibition'' (Scarborough: Scarborough Museum and Art Gallery, 2000); see also Michael Paraskos, ''English Expressionism'' (unpublished academic dissertation, University of Leeds, 1997)</ref>
+
+In the 1920s Leeds College of Art was the starting point for the careers of the sculptors [[Barbara Hepworth]] and [[Henry Moore]], and in the 1950s, and 1960s it was one of the leading centres for radical art education in Britain under the guidance of artists such as [[Harry Thubron]] and [[Thomas Hudson (painter)|Tom Hudson]], and the art historian [[Norbert Lynton]]. Their attempts to redefine what art education should mean in the post-[[World War II|Second World War]] period led the artist [[Patrick Heron]] to claim in 1971 in ''The Guardian'' newspaper that "Leeds is the most influential art school in Europe since the [[Bauhaus]]".<ref>Patrick Heron, 'Murder of the Art Schools', in ''The Guardian'' (UK newspaper), 12 October 1971, p.8</ref> This willingness to push at the boundaries of acceptable public behaviour from artists was also evident in 1966 when Leeds College of Art staged an exhibition of paintings by the Cypriot artist [[Stass Paraskos]], who taught at the College, which was raided by the police after allegations of obscenity.<ref>Norbert Lynton, ''Stass Paraskos'' (Mitcham: Orage Press, 2003) p.7f</ref>
+
+This radicalism continued into the 1970s when the higher education component of Leeds College of Art was split from the college to form the nucleus of the new multidisciplinary Leeds Polytechnic, now called [[Leeds Beckett University]]. Performance art had been taught earlier at Leeds College of Art, notably by the [[Fluxus]] artist [[Robin Page]] during his time as a tutor there in the mid-1960s, but in 1977 a performance art work hit the national news headlines when the students Pete Parkin and Derek Wain used an air pistol to shoot a line up of live [[budgerigar]]s in front of an audience at Leeds Polytechnic.<ref>Paul Rooney, ''Thin Air'' (Leeds: Leeds Metropolitan University, 2009) p.10f</ref>
+
+The [[University of Leeds]] was the ''alma mater'' of [[Herbert Read]], one of the leading international theorists of modern art from the mid-twentieth century,<ref>Michael Paraskos, 'Herbert Read and Leeds', in Benedict Read and David Thistlewood, ''Herbert Read: A British Vision of World Art'' (Leeds: Leeds City Art Gallery, 1993) p.25</ref> and also the teaching base for the [[Marxism|Marxist]] art historian [[Arnold Hauser]] from 1951 to 1985.<ref>Katharina Scherke, 'Arnold Hauser and the Social History of Art', in Peter Weibel, ''Beyond Art: A Third Culture: A Comparative Study in Cultures, Art and Science in 20th Century Austria and Hungary'' (Berlin: Springer, 2005) p.478</ref> Partly due to Herbert Read's connection with the University, from 1950 to 1970 the University was the host of one of the first [[artist-in-residence]] schemes in Britain, using funding from the then owner of [[Ashgate Publishing|Lund Humphries]] books, Peter Gregory. The Gregory Fellowships, as the residencies were known, were given to painters and sculptors for up to two years to allow them to develop their own work and influence the University in any way they saw fit. Amongst those holding the fellowships were [[Kenneth Armitage]], [[Reg Butler]], [[Dennis Creffield]] and [[Terry Frost]] and others. Parallel Gregory Fellowships also existed in music and poetry at the University.<ref>Hilary Diaper, 'The Gregory Fellowships', in Benedict Read and David Thistlewood, ''Herbert Read: A British Vision of World Art'' (Leeds: Leeds City Art Gallery, 1993) p.133f</ref>
+
+Leeds was also a centre for radical feminist art, with one of the first galleries in Britain dedicated to showing the work of women photographers, the Pavilion Gallery, opening in the city in 1983, and the [[University of Leeds]] School of Fine Art being a well-known centre for the development of feminist art history, under [[Griselda Pollock]], during the 1980s and 1990s. Possibly as a result of the strength of feminist art in Leeds, in November 1984 an exhibition of ceramics by students and staff at Leeds Polytechnic was attacked by a group of feminist activists who destroyed eight sculptures on display which they deemed to be degrading to women.<ref>John A. Walker, ''Art and Outrage'' (London: Pluto Press, 1999) pp. 134–138</ref> The University of Leeds's School of Fine Art also specialised in [[Art & Language]] conceptual art practice, under [[Terry Atkinson]], again in the 1980s and 1990s.<ref>James Charnley, ''Creative Licence: From Leeds College of Art to Leeds Polytechnic, 1963-1973'' (Cambridge: James Clarke and Co Ltd, 2015) p.254</ref>
+
+A major sculpture research centre and gallery, the [[Henry Moore Foundation|Henry Moore Institute]], is located alongside [[Leeds Art Gallery]] in the city centre, and in 2013 a new contemporary art centre, called [[The Tetley (Leeds)|The Tetley]], opened on the site of the former Tetley Brewery to the south of the city centre.
+
+In March 2017, ''[[The Times]]'' voted Leeds as the number one cultural place to live in Britain. This was ahead of London, [[Birmingham]], [[St Ives, Cornwall|St Ives]], [[Stratford-upon-Avon]] and [[Cheltenham]]. The citation notes that Leeds has [[Opera North]], the [[Northern Ballet]], and the [[West Yorkshire Playhouse]], amongst may other attractions that ranked it at number one.<ref>{{cite news|last1=Whateley|first1=Laura|title=20 best cultural places to live|work=The Times|issue=72171|date=15 March 2017|location=times2 supplement|pages=6–7|issn=0140-0460}}</ref>
+
+===Carnivals and festivals===
+[[File:Leeds West Indian Carnival.jpg|thumb|right|[[Leeds Carnival]]]]
+[[File:7.10.16 Light Night Leeds 088 (30096460721).jpg|thumb|[[Light Night]]: One of the UK’s largest annual arts and light festivals]]
+[[Leeds West Indian Carnival|Leeds Carnival]] is Western Europe's oldest West Indian Carnival, and the UK's third-largest after the Notting Hill and Nottingham Carnival.<ref>{{cite web|url=http://www.bbc.co.uk/leeds/features/get_together/carnival/2003_review.shtml |title=Leeds Get-together – Leeds West Indian Carnival |publisher=BBC  |accessdate=22 July 2009}}</ref><ref>{{cite web|url=http://www.leedscarnival.co.uk/ |title=Leeds West Indian Carnival |publisher=Leedscarnival.co.uk |date=7 August 2005 |accessdate=22 July 2009}}</ref> It attracts around 100,000 people over 2 days to the streets of Chapeltown and Harehills. There is a large procession that finishes at Potternewton Park, where there are stalls, entertainment and refreshments. The [[Reading and Leeds Festivals|Leeds Festival]], featuring some of the biggest names in rock and indie music, takes place every year in [[Bramham Park]]. The Leeds Asian Festival, formerly the Leeds [[Mela]], is held in Roundhay Park.<ref>{{Cite news|url=http://www.roundhaytoday.co.uk/roundhaypark/Roundhay-Park-hosts-Leeds-Asian.5531416.jp|title=Roundhay Park hosts Leeds Asian Festival|last=McTaggart|first=Susan|date=6 August 2009|work=Yorkshire Evening Post|accessdate=2 November 2009}}</ref> The [[Otley]] Folk Festival (patron: [[Nic Jones]]),<ref>{{cite web|url=http://www.otleyfolkfestival.com/|title=Otley Folk Festival website|accessdate=2 November 2009}}</ref> Walking Festival,<ref>{{cite web|url=http://www.chevintrek.co.uk/index.asp?function=WEBPAGE&page=3|title=Otley Walking Festival|work=Chevin Trek|accessdate=2 November 2009}}</ref> Carnival<ref>{{cite web|url=http://www.otley.co.uk/Carnival/index.htm|title=Otley Carnival|work=Otley Town Council|accessdate=2 November 2009}}</ref> and Victorian Christmas Fayre<ref>{{Cite news|url=http://www.wharfedaleobserver.co.uk/news/4683577.Otley_Victorian_Fayre_gets_injection_of_new_blood/|title=Otley Victorian Fayre gets injection of new blood|last=Jack|first=Jim|date=16 October 2009|work=Wharfedale & Airedale Observer|accessdate=2 November 2009}}</ref> are annual events. [[Light Night]] Leeds takes place each October,<ref>{{cite web|url=http://www.lightnight.co.uk/leeds/index.php|title=Light Night Leeds website|accessdate=2 November 2009}}</ref> and many venues in the city are open to the public for [[Heritage Open Days]] in September.<ref>{{cite web|url=http://www.leedscivictrust.org.uk/view.aspx?id=34 |title=Heritage Open Days |work=Leeds Civic Trust |accessdate=2 November 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20110527144859/http://www.leedscivictrust.org.uk/view.aspx?id=34 |archivedate=27 May 2011}}</ref> The [[Leeds International Piano Competition|Leeds International Pianoforte Competition]], established in 1963 by [[Fanny Waterman]] and [[Marion Stein]], has been held in the city every three years since 1963 and has launched the careers of many major concert pianists. The Leeds International Concert Season, which includes orchestral and choral concerts in [[Leeds Town Hall]] and other events, is the largest local authority music programme in the UK.<ref>{{cite web |url=http://www.leedsconcertseason.com/view.aspx?id=42 |title=Leeds International Concert Season website |publisher=Leedsconcertseason.com |accessdate=5 August 2011 |archive-url=https://web.archive.org/web/20110809121303/http://www.leedsconcertseason.com/view.aspx?id=42 |archivedate=9 August 2011 |dead-url=yes  }}</ref>
+
+The [[Leeds International Film Festival]] is the largest film festival in England outside London<ref>{{cite web|url=http://www.bbc.co.uk/leeds/films/2003/09/film_fest.shtml |title=Lights, camera, action |publisher=BBC  |date = September 2003|accessdate=22 July 2009}}</ref> and shows films from around the world. It incorporates the highly successful ''Leeds Young People's Film Festival'', which features exciting and innovative films made both for and by children and young people.<ref>{{cite web|url=http://www.leedsfilm.com/ |title=Leeds Film}}</ref> [[Garforth]] is host to the fortnight-long festival The [[Garforth Arts Festival]] which has been an annual event since 2005. The [[Chapel Allerton]] Arts Festival is a week-long music and arts event starting in 1998 and held the week after August Bank Holiday each year.<ref>{{cite web|author=Chapel Allerton Arts Festival |url=http://www.chapelallerton.org.uk |title=Chapel Allerton Arts Festival |publisher=Chapelallerton.org.uk |date=26 February 2014 |accessdate=15 March 2014}}</ref>
+The [[Leeds Festival Fringe]] is a week long-music festival created in 2010 to showcase local talent in the week prior to [[Reading and Leeds Festivals|Leeds Festival]].
+
+===Cinema===
+[[File:Louis Le Prince.jpg|thumb|[[Louis Le Prince]] ]]
+In October 1888 [[Louis Le Prince]] filmed moving picture sequences ''[[Roundhay Garden Scene]]'' and a ''[[Leeds Bridge]]'' street scene using his single-lens camera and [[Kodak|Eastman]]'s paper film.<ref name="nationalmediamuseum">{{cite web|url=http://www.nationalmediamuseum.org.uk/~/media/Files/NMeM/PDF/Collections/Cinematography/PioneersOfEarlyCinemaLouisLePrince.ashx|format=PDF|title=Pioneers of Early Cinema: 1, AIMÉ AUGUSTIN LE PRINCE (1841–1890?)|page=2|publisher=www.nationalmediamuseum.org.uk|quote=he developed a single-lens camera which he used to make moving picture sequences at the Whitley family home in Roundhay and of Leeds Bridge in October 1888. ... it has been claimed that a photograph of a drowned man in the Paris police archives is that of Le Prince.|accessdate=25 November 2012}}</ref> These were several years before the work of competing inventors such as [[Auguste and Louis Lumière]] and [[Thomas Edison]].
+Today, [[Leeds International Film Festival]]'s International Short Film Competition is named after Louis Le Prince.<ref>{{cite web|url=http://www.leedsfilm.com/shortfilm/|title=Leeds Short Film |accessdate=2 March 2016}}</ref> The 2015 documentary film ''[[The First Film]]'', which first aired at the [[Edinburgh International Film Festival]], documents Le Prince's pioneering status.<ref name="youngs">{{cite news|last1=Youngs|first1=Ian|title=Louis Le Prince, who shot the world's first film in Leeds|url=https://www.bbc.co.uk/news/entertainment-arts-33198686|accessdate=25 November 2016|work=BBC News|date=23 June 2015}}</ref>
+
+[[Wordsworth Donisthorpe]] who was also from Leeds, filmed the second-oldest-surviving film. It is not known if he and Louis Le Prince ever met but they both had a strong connection to the [[Leeds Philosophical and Literary Society]]. Donisthorpe's patent for a camera to capture the moving image pre dated Le Prince's by twelve years.{{citation needed|date=November 2016}}
+
+Leeds has a rich film exhibition culture. In addition to the Leeds International Film Festival and Leeds Young Film Festival, the city hosts numerous independent cinemas and pop-up venues for film screenings.<ref>{{cite web|url=http://www.leedsfilm.com/leedsfilmcity/|title=Leeds Film City|accessdate=27 May 2015}}</ref> [[The Cottage Road Cinema]] and [[Hyde Park Picture House, Leeds|Hyde Park Picture House]] have continuously been showing films since 1912 and 1914, respectively, which ranks them among the oldest still-running cinemas in the UK.<ref>{{cite web|url=http://www.cottageroad.co.uk/index.php|title=Cottage Road Cinema|accessdate=27 May 2015}}</ref>
+
+===Media===
+{{See also|Category:Television shows set in Leeds|Category:Films set in Leeds}}
+[[File:BBC Yorkshire, Leeds - geograph.org.uk - 1026004.jpg|left|thumb|alt=A quirky modern five-storey building with a large sign saying "BBC Yorkshire" in black above the second-floor windows on the white-fronted façade of the lower four floors can be seen on the far side of a dual-carriageway road with a barrier along the central reservation. At right-angles to the right of the building is a tall blue slab with the letters "BBC" in white at the top. The left side of the building is mostly brick-red with a few windows, but above it is a light blue windowless section. The roof above this and the grey fifth floor of the frontage curves gently down to the rear. A lone car is driving from left to right along the road; between it and the building, temporary boards have been erected in front of a building to the left. In the top left-hand corner of the picture, part of a tall many-windowed building can be seen.|[[BBC Yorkshire]] studios]] [[Yorkshire Post Newspapers]] Ltd, owned by [[Johnston Press]] plc, is based in the city, and produces a daily morning broadsheet, ''[[The Yorkshire Post]]'', and an evening paper, the ''[[Yorkshire Evening Post]]'' (YEP). The YEP has a website which includes a series of community pages which focus on specific areas of the city.<ref>{{cite news|title=Local pages |newspaper=Yorkshire Evening Post |url=http://www.yorkshireeveningpost.co.uk/custompages/CustomPage.aspx?pageID=71724 |accessdate=28 April 2008 |deadurl=yes |archive-url=https://web.archive.org/web/20080410071457/http://www.yorkshireeveningpost.co.uk/custompages/CustomPage.aspx?pageID=71724 |archivedate=10 April 2008}}</ref> The ''[[Wetherby News]]'' covers mainly areas within the north eastern sector of the district, and the ''[[Gazette & Observer|Wharfedale & Airedale Observer]]'', published in [[Ilkley]], covers the north west, both appearing weekly. The two largest universities both have [[Student publication|student newspapers]], the weekly ''[[The Gryphon|Leeds Student]]'' from the University of Leeds and the monthly ''[[Leeds Beckett Students' Union|The Met]]'' from Leeds Beckett University. ''[[The Leeds Guide]]'' was a fortnightly listings magazine, which was established in 1997 and ceased publication in 2012. Free publications include the ''Leeds Weekly News'', produced by Yorkshire Post Newspapers in four geographic versions and distributed to households in the main urban area of the city,<ref>{{cite web|url=http://www.britishpapers.co.uk/england-yorks/leeds-weekly-news/|title=Leeds Weekly News|work=British Newspapers Online|accessdate=29 October 2009}}</ref> and the regional version of ''[[Metro (British newspaper)|Metro]]'' which is distributed on buses and at railway stations.
+
+Regional television and radio stations have bases in the city; [[BBC]] Television and [[ITV (TV network)|ITV]] both have regional studios and broadcasting centres in Leeds. [[ITV Yorkshire]], formerly Yorkshire Television, broadcasts from [[the Leeds Studios]] on Kirkstall Road. There are a number of independent film production companies, including the not-for-profit cooperative Leeds Animation Workshop, founded in 1978; community video producers Vera Media and several small commercial production companies. [[BBC Radio Leeds]], [[Radio Aire]], [[Greatest Hits Radio]], [[Capital Yorkshire]], [[Heart Yorkshire|Heart Yorkshire]] and [[Yorkshire Radio]] broadcast from the city. [[LSRfm.com]], is based in [[Leeds University Union]], and regularly hosts outside broadcasts around the city. Many communities within Leeds now have their own local radio stations, such as [[East Leeds FM]] and [[Tempo FM]] for [[Wetherby]] and the surrounding areas.
+
+[[Made in Leeds]] is a local television station which launched across the city in 2014.<ref>{{cite web|title=Licensing Local Television – Statement|url=http://consumers.ofcom.org.uk/2013/02/ofcom-awards-leeds-local-tv-licence|publisher=Ofcom|accessdate=11 March 2013|deadurl=yes|archive-url=https://web.archive.org/web/20130430150031/http://consumers.ofcom.org.uk/2013/02/ofcom-awards-leeds-local-tv-licence/|archivedate=30 April 2013}}</ref> A privately owned television station: Leeds Television is run by volunteers and supported by professionals in the media industry.{{Citation needed|date=September 2010}}
+
+===Museums===
+[[File:Royal Armouries Leeds West Yorkshire.jpg|left|thumb|[[Royal Armouries Museum (Leeds)|Royal Armouries Museum]]]]
+[[File:Leeds-city-museum.jpg|thumb|[[Leeds City Museum]]]]
+[[File:Leeds Museum Discovery Centre 2017.jpg|thumb|right|Leeds Museum Discovery Centre]]
+A new [[Leeds City Museum]] opened in 2008<ref name="citymuseum">{{cite web|url=http://www.leeds.gov.uk/cityMuseum/ |title=Leeds City Museum website |deadurl=yes |archive-url=https://web.archive.org/web/20150610204006/http://www.leeds.gov.uk/cityMuseum/ |archivedate=10 June 2015}}</ref> in [[Millennium Square, Leeds|Millennium Square]]. [[Abbey House Museum]] is housed in the former gatehouse of [[Kirkstall Abbey]], and includes walk-through Victorian streets and galleries describing the history of the abbey, childhood, and Victorian Leeds. [[Leeds Industrial Museum at Armley Mills|Armley Mills Industrial Museum]] is housed in what was once the world's largest woollen mill,<ref>{{cite web|url=http://www.leeds.gov.uk/armleymills/ |title=Museum homepage, hosted on Leeds City Council website |deadurl=yes |archive-url=https://web.archive.org/web/20120701223227/http://www.leeds.gov.uk/armleymills/ |archivedate=1 July 2012}}</ref> and includes industrial machinery and railway locomotives. This museum also shows the first known moving pictures in the world which were taken in the city, by [[Louis Le Prince]], of a ''[[Roundhay Garden Scene]]'' and of ''[[Leeds Bridge]]'' in 1888. These short film clips can be found on YouTube.
+
+[[Thwaite Mills]] Watermill Museum is a fully restored 1820s water-powered mill on the [[River Aire]] to the east of the city centre. The [[Thackray Medical Museum|Thackray Museum]] is a museum of the history of medicine, featuring topics such as Victorian public health, pre-anaesthesia surgery, and safety in childbirth. It is housed in a former [[workhouse]] next to [[St James's University Hospital|St James's Hospital]]. The [[Royal Armouries Museum]] opened in 1996 in a dramatic modern building when this part of the national collection was transferred from the [[Tower of London]]. Nearby is the Leeds Museum Discovery Centre (formerly housed at the Leeds Museum Resource Centre in [[Yeadon, West Yorkshire|Yeadon]]),<ref name=NatArch>[http://discovery.nationalarchives.gov.uk/details/a/A13532222 National Archives] Leeds Museum Discovery Centre</ref> the major storage of items not currently on display in museums, and open to the public by appointment.<ref name=NatArch/><ref name=Discovery>[http://www.leeds.gov.uk/museumsandgalleries/Pages/discoverycentre.aspx Leeds Discovery Centre] website</ref>
+
+[[Leeds Art Gallery]] houses important collections of traditional and contemporary British art. It is closed for refurbishment until 13 October 2017.<ref name=LAG>[http://www.leeds.gov.uk/museumsandgalleries/Pages/Leeds-Art-Gallery.aspx www.leeds.gov.uk] Leeds art Gallery</ref> Smaller museums in Leeds include [[Otley Museum]]; [[Horsforth]] Village Museum;<ref>{{cite web|url=http://www.culture24.org.uk/yh000070|title=Horsforth Village Museum|work=Culture 24|accessdate=29 October 2009}}</ref> ULITA, an Archive of International Textiles;<ref>{{cite web|url=http://ulita.leeds.ac.uk/|title=ULITA|work=University of Leeds International Textiles Archive|accessdate=29 October 2009}}</ref> and the museum at [[Fulneck Moravian Settlement]].
+
+===Music, theatre and dance===
+{{Main|Music in Leeds|List of bands originating in Leeds}}
+Leeds is home to the refurbished [[Grand Theatre, Leeds|Grand Theatre]] where the only national opera company outside London, [[Opera North]], is based.<ref>{{cite web|url=https://www.operanorth.co.uk/news/a-tribute-to-the-earl-of-harewood-kbe|title=A tribute to The Earl of Harewood KBE|website=Opera North}}</ref> The [[Leeds City Varieties|City Varieties]] Music Hall is one of the UK's few remaining music halls, and famously hosted performances by [[Charlie Chaplin]] and [[Harry Houdini]]. It was also the venue of the BBC television programme ''[[The Good Old Days (UK TV series)|The Good Old Days]]''. The newest theatre, containing two auditoriums, is the [[Leeds Playhouse]], which had formerly been known as the West Yorkshire Playhouse.<ref>{{cite web|url=http://www.leeds.gov.uk/page.aspx?pageidentifier=3B5842A8B7FDADC980256E200033B9E1 |title=Leeds Grand Theatre |publisher=Leeds City Council |year=2009 |accessdate=13 December 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20081231100850/http://www.leeds.gov.uk/Page.aspx?pageIdentifier=3B5842A8B7FDADC980256E200033B9E1 |archivedate=31 December 2008 }}</ref><ref>{{cite web|url=http://www.cityvarieties.co.uk/information.asp |title=City Varieties – About the Music Hall |publisher=City Varieties |year=2009 |accessdate=13 December 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20090318153306/http://cityvarieties.co.uk/information.asp |archivedate=18 March 2009 }}</ref><ref>{{cite web|url=http://www.wyp.org.uk/content/the_playhouse/about_us.asp |title=WYPlayhouse: About us |publisher=West Yorkshire Playhouse |year=2009 |accessdate=13 December 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20100115224033/http://www.wyp.org.uk/content/the_playhouse/about_us.asp |archivedate=15 January 2010 }}</ref> Just south of [[Leeds Bridge]] once stood [[The Theatre, Leeds|The Theatre]] which hosted [[Sarah Siddons]] and [[Ching Lau Lauro]] in 1786 and 1834, respectively.<ref name="Leodis" >[http://www.leodis.net/discovery/discovery.asp?pageno=&page=2003218_251720608&topic=2003219_253704250&subsection=2003625_449382961 Leodis, Discovering Leeds: The Theatre] Retrieved 17 December 2013</ref><ref name="Playbill 22 Sep 1834" >Playbill for Theatre, Leeds, Monday 22 September 1834. See [[:File:Ching Lau Lauro 1834.jpg]]</ref>
+
+Leeds is also home to [[Phoenix Dance Theatre]], who were formed in the Harehills area of the city in 1981, and [[Northern Ballet Theatre]].<ref>{{cite web|url=http://www.northernballettheatre.co.uk/history.aspx |title=Northern Ballet Theatre : History |publisher=Northern Ballet Theatre |year=2009 |accessdate=13 December 2009}}</ref> In autumn 2010 the two companies moved into a purpose-built dance centre which is the largest space for dance outside London. It is also the only space for dance to house a national classical and a national contemporary dance company alongside each another.<ref>{{cite web|url=http://www.building-momentum.co.uk |title=Building Momentum |publisher=Building Momentum |accessdate=26 March 2010}}</ref>
+
+The [[First Direct Arena]]<ref>{{cite web|url=http://www.arenaleeds.com/ |title=Leeds Arena |publisher=Arenaleeds.com |accessdate=5 August 2011}}</ref> opened in September 2013. The 13,500-seater stadium is rapidly becoming the city's number one venue for live music, indoor sports and many other events. Concerts are also held at the O2 Academy, Elland Road, which has hosted groups such as Queen and Kaiser Chiefs, among others and at the universities. [[Roundhay Park]] in north Leeds has seen some of the world's biggest artists including [[Michael Jackson]], [[Madonna (entertainer)|Madonna]], [[Bruce Springsteen]] and [[Robbie Williams]].
+
+Popular musical acts originating from Leeds include [[Soft Cell]], [[Kaiser Chiefs]], [[The Pigeon Detectives]], [[The Wedding Present]], [[The Sunshine Underground]], [[The Sisters of Mercy]], [[Hadouken!]], [[Corinne Bailey Rae]], [[Dinosaur Pile-Up]], [[Pulled Apart by Horses]], [[Gang of Four (band)|Gang of Four]], [[Hood (band)|Hood]], [[The Rhythm Sisters]], [[Utah Saints]], [[Alt-J]] and [[Melanie B]] of the [[Spice Girls]].<ref>{{cite web|url=http://www.stereosociety.com/taintedlove.html |title=The making of Soft Cell's Tainted Love |publisher=www.stereosociety.com |year=2009 |accessdate=13 December 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20090421015305/http://stereosociety.com/taintedlove.html |archivedate=21 April 2009}}</ref><ref>{{Cite news |url= https://www.theguardian.com/technology/2006/dec/09/games.theguide1 |title=Tim Jonze on the retro games renaissance |work=The Guardian |location=UK |accessdate=3 March 2010  |date=8 December 2006}}</ref><ref>{{cite web|url=http://www.bbc.co.uk/southyorkshire/content/articles/2005/04/14/kaiser_chiefs_interview.shtml |title=Kaiser Chiefs interview |publisher=BBC  |accessdate=13 December 2009}}</ref><ref>{{cite web|url=https://www.rollingstone.com/news/story/6803009/gang_of_four_return |title=Gang of Four Return |date=30 December 2004 |first=David |last=Chiu |work=Rolling Stone |publisher=[[Jann Wenner]] |accessdate=12 March 2010}}</ref><ref>{{cite web|url=http://www.leedsmusicscene.net/article/6869/ |title=The Rhythm Sisters – biography, band news and reviews. (2967) |publisher=Leeds Music Scene|year=2009 |accessdate=13 December 2009}}</ref><ref>{{cite web|url=http://www.melaniebrown.com/about-2/ |title=Biography " Melanie Brown |publisher=Melanie Brown |year=2009 |accessdate=13 December 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20091108124309/http://www.melaniebrown.com/about-2/ |archivedate=8 November 2009}}</ref>
+[[File:The Leeds First Direct Arena.jpg|thumb|Leeds [[First Direct Arena]] ]]
+
+On [[Valentine's Day]] 1970, [[The Who]] performed and recorded their album ''[[Live at Leeds]]'' at the [[University of Leeds|Leeds University]] refectory. Since its initial reception, ''Live at Leeds'' has been cited by several [[music journalism|music critics]] as the best live rock recording of all time.<ref name=cohn>{{cite news|last=Cohn|first=Nik|authorlink=Nik Cohn|date=8 March 1970|at=Rock Recordings section, p. M2|url=https://www.nytimes.com/1970/03/08/archives/finally-the-full-force-of-the-who.html|title=Finally, the Full Force of the Who|newspaper=[[The New York Times]]|accessdate=2 July 2013}} {{subscription required}}</ref><ref name=carr>{{cite journal|last=Carr|first=Roy|date=January 2011|page=75|url=http://archive.classicrockmagazine.com/view/january-2011/75/the-who|archive-url=https://archive.is/20130825084114/http://archive.classicrockmagazine.com/view/january-2011/75/the-who|dead-url=yes|archivedate=25 August 2013|title=The Who|journal=[[Classic Rock (magazine)|Classic Rock]]|accessdate=25 August 2013}}</ref><ref name="Hyden">{{cite web|last=Hyden|first=Steven|authorlink=Steven Hyden|date=29 January 2003|url=http://www.popmatters.com/pm/review/who-liveatleeds2/|title=The Who: Live at Leeds|publisher=[[PopMatters]]|accessdate=2 July 2013}}</ref>
+
+===Nightlife===
+
+Leeds has the fourth largest student population in the country (over 200,000<ref>{{cite web|url=http://leedsliveitloveit.com/students/why-leeds |archive-url=https://web.archive.org/web/20120605224534/http://leedsliveitloveit.com/students/why-leeds |archivedate=5 June 2012 |title=What makes Leeds a great place to study? |work=leedsliveitloveit.com |date= |accessdate=12 March 2013}}</ref>), and is therefore one of the UK's hotspots for night-life. There are a large number of pubs, bars, nightclubs and restaurants, as well as a multitude of venues for live music. The full range of music tastes is catered for in Leeds. It includes the original home of the famous club nights Back 2 Basics, Speedqueen and [[Vague (club)|Vague]].<ref>{{cite web|url=http://www.leeds-city-guide.com/clubs |title=Leeds City Guide: Clubbing & Nightlife in Leeds}}</ref> Morley was the location of [[techno]] club The Orbit.<ref>{{cite web|url=http://www.realtimeart.net/NN/notorious.html |title=UK Techno – Notorious North |publisher=www.realtimeart.net |accessdate=17 September 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20050327061027/http://www.realtimeart.net/NN/notorious.html |archivedate=27 March 2005}}</ref> Leeds has a number of large 'super-clubs' and there is a selection of independent clubs such as [[Club Mission]] and [[Mint Club]], which is consistently ranked as one of the world's best clubs by DJ Magazine. Two other Leeds clubs, The Warehouse and The Garage, featured in the Top 100 Clubs list from 2013.<ref>{{cite web |url=http://www.top100clubs.com/ |title=DJmag.com |publisher=Top 100 clubs |accessdate=5 August 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110806192307/http://www.top100clubs.com/ |archivedate=6 August 2011  }}</ref>
+
+Leeds has a well established gay nightlife scene. The Bridge Inn and [[The New Penny]], both on [[The Calls|Call Lane]], have long been gay night spots.<ref>{{cite web|url=http://www.leeds-city-guide.com/gay |title=Leeds City Guide: Leeds Gay Scene}}</ref>
+
+Towards [[Millennium Square, Leeds|Millennium Square]] and the Civic or Northern Quarter, is a growing entertainment district providing for both students and weekend visitors. The square has many bars and restaurants and a large outdoor screen. Millennium Square is a venue for large seasonal events such as a [[Christmas market]], gigs and concerts, citywide parties and the Rhythms of the City Festival. It is adjacent to the Mandela Gardens, which were opened by [[Nelson Mandela]] in 2001. A number of public art features, fountains, a canal and greenery can be found here.
+
+Yorkshire has a great history of real ale,<ref>{{cite web |url=http://www.realalepubs.co.uk/area.asp?aid=3 |title=Yorkshire and Humberside |publisher=Real Ale Pubs |accessdate=5 August 2011 |deadurl=yes |archive-url=https://web.archive.org/web/20120410074039/http://www.realalepubs.co.uk/area.asp?aid=3 |archivedate=10 April 2012  }}</ref> but several bars near the railway station are fusing traditional beers with a modern bar. Popular bars such as this include The Hop, The Cross Keys and The Brewery Tap.
+
+==Sports==
+{{Main|Sport in Leeds}}
+[[File:Carnegie Pavilion, Headingley Stadium, Leeds during the second day of the England- Sri Lanka test (21st April 2014) 001.JPG|thumb|Right|Carnegie Pavilion at [[Headingley Stadium]]]]
+[[File:Elland_Road_Stadium_Leeds.jpg|thumb|left|[[Elland Road]] Stadium]]
+The city has teams representing all the major national sports. [[Leeds United FC]] is the city's main [[Association football|football]] club, additional clubs include Guiseley AFC and Farsley Celtic.
+[[Leeds United FC|Leeds United]] was formed in 1919 and plays at the 37,890-capacity [[Elland Road]] Stadium in [[Beeston, Leeds|Beeston]]. The team plays in the [[EFL Championship|Championship]] after they won promotion to the EFL Championship in 2009/10 by beating Bristol Rovers 2–1.
+[[Guiseley AFC|Guiseley]] was formed in 1909 and plays at the 4,000 capacity [[Nethermoor Park]] Stadium in [[Guiseley, Leeds|Guiseley]]. The team plays in the [[National League North]] they won promotion to the National League for the first time ever in 2014/15 after beating Chorley 2–3.
+[[Farsley Celtic FC|Farsley Celtic FC]] was formed in 1908 and plays in the [[Northern Premier League|Northern Premier League]] and their stadium is [[Throstle Nest]].
+
+[[Leeds Rhinos]] are the most successful [[rugby league]] team in Leeds. In 2009 they became first club to be [[Super League]] champions three seasons running, giving them their fourth Super League title.<ref>{{Cite news|url =http://news.bbc.co.uk/sport1/hi/rugby_league/8290503.stm |title = St Helens 10–18 Leeds Rhinos |work=BBC News  |date=10 October 2009 |accessdate=4 April 2010}}</ref>
+They play their home games at the [[Headingley Stadium|Headingley Carnegie Stadium]]. [[Hunslet RLFC|Hunslet]], based at the [[John Charles Centre for Sport]], play in [[Championship (rugby league)|Co-Operative Championship One]]. [[East Leeds ARLFC|East Leeds]] and [[Oulton Raiders]] play in the [[National Conference League]]. [[Bramley Buffaloes]] (previously [[Bramley RLFC|Bramley]]), and [[Leeds Akkies]] were members of the [[Rugby League Conference]].
+
+[[Yorkshire Carnegie]] are the foremost [[rugby union]] team in Leeds and they play at [[Headingley Stadium|Headingley Carnegie Stadium]]. They play in the [[RFU Championship]] having been relegated from The Guinness Premiership at the end of the 2010–11 season. [[Otley RUFC]] are a rugby union club based to the north of the city and compete in [[National League 2 North]], whilst [[Morley RFC]], located in [[Morley, West Yorkshire|Morley]] currently play in [[National League 2 North|National Division Three North]].
+
+[[Headingley]] stadium is home to [[Yorkshire County Cricket Club]] which is the most successful [[cricket]] team in England, with over 31 [[County Championship]] wins. Their main rivals are [[Lancashire]].
+
+Leeds City Athletic Club competes in the [[British Athletics League]] and UK Women's League as well as the Northern Athletics League.
+
+Leeds is home to a number of [[field hockey]] clubs that compete in the [[North Hockey Association|North Hockey League]], [[Yorkshire Hockey Association|Yorkshire Hockey Association League]] and [[British Universities and Colleges Sport|BUCS leagues]]. These include Leeds Hockey Club, [[Leeds Adel Carnegie Hockey Club]], the [[University of Leeds]] Hockey Club and [[Leeds Beckett University]] Hockey Club.<ref>{{cite web |url=http://www.leedshockey.co.uk/|title=Leeds Hockey Club|accessdate=30 January 2015}}</ref><ref>{{cite web |url=http://www.hockeyinleeds.co.uk|title=Leeds Adel Carnegie Hockey Club|accessdate=30 January 2015}}</ref><ref>{{cite web|url=http://sport.leeds.ac.uk/page.asp?section=411&sectionTitle=Hockey+%28M%29|archive-url=https://archive.is/20150130135003/http://sport.leeds.ac.uk/page.asp?section=411&sectionTitle=Hockey+(M)|dead-url=yes|archivedate=30 January 2015|title=Hockey (M) – Leeds University Sport|accessdate=30 January 2015}}</ref><ref>{{cite web|url=http://sport.leeds.ac.uk/page.asp?section=415&sectionTitle=Hockey+%28W%29|archive-url=https://archive.is/20150130134918/http://sport.leeds.ac.uk/page.asp?section=415&sectionTitle=Hockey+(W)|dead-url=yes|archivedate=30 January 2015|title=Hockey (W) – Leeds University Sport|accessdate=30 January 2015}}</ref><ref>{{cite web |url=http://www.leedsbeckett.ac.uk/sport/leeds-hockey.htm|title=Hockey – Sport & Active Lifestyles – Leeds Beckett University|accessdate=30 January 2015}}</ref>
+Leeds Hockey Club Men's 1s gained promotion at the end of the 2016/2017 season to become Leeds' first hockey team competing in a National League.<ref>{{cite web |url=http://www.englandhockey.co.uk/page_noside.asp?section=2343&sectionTitle=Fixtures%2C+Results+%26+Standings|title=England Hockey Premier Division and Conference Fixtures|accessdate=24 October 2017}}</ref>
+
+The City of Leeds Synchronised Swimming Club<ref>{{cite web|url=http://www.synchroleeds.org |title=The City of Leeds Synchronised Swimming Club |publisher=Synchroleeds.org |date= |accessdate=15 March 2014}}</ref> train at the [[John Charles Centre for Sport]] and are represented by swimmers throughout the whole of the North East. The club was founded in 2008 and only compete in National and International Competition.
+
+The city has a wealth of sports facilities including the [[Elland Road]] football stadium, a host stadium during the [[UEFA Euro 1996|1996 European Football Championship]]; the [[Headingley Stadium|Headingley Carnegie Stadiums]], adjacent stadia world-famous for both [[cricket]] and [[rugby league]] and the [[John Charles Centre for Sport]] with an [[List of long course swimming pools in the United Kingdom|Olympic-sized pool]] in its Aquatics Centre<ref>{{cite web|url=http://www.leeds.gov.uk/page.aspx?pageidentifier=92E3BE57BD5C06CD80256E1A00424F70#swim |title=Leeds City Council – John Charles Centre for Sport – Swim |accessdate=30 July 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20090611053528/http://www.leeds.gov.uk/page.aspx?pageidentifier=92E3BE57BD5C06CD80256E1A00424F70 |archivedate=11 June 2009}}</ref> and includes a multi-use stadium. Other facilities include the Leeds Wall (climbing) and Yeadon Tarn sailing centre. In 1929 the first Ryder Cup of Golf to be held on British soil was competed for at the Moortown Golf club in Leeds and Wetherby has a [[National Hunt racing|National Hunt]] [[Wetherby Racecourse|racecourse]].<ref>{{cite web|url=http://www.wetherbyracing.co.uk/ |title=Wetherby Racing – Horseracing, Hospitality, Conference Venue, Yorkshire |publisher=www.wetherbyracing.co.uk |accessdate=30 October 2009}}</ref> In the period 1928 to 1939 speedway racing was staged in Leeds on a track at the greyhound stadium known as Fullerton Park, adjacent to Elland Road. The track entered a team in the 1931 Northern league.
+[[File:Leeds Rhinos vs. Salford Red Devils, Headingley Stadium (21st April 2014) 013.JPG|thumb|Headingley Stadium, home of the [[Leeds Rhinos]]]]
+
+The [[2014 Tour de France]] Grand Départ took place from the Headrow in Leeds city centre on 5 July 2014.
+
+Leeds is well known for its divers and features some of the best diving facilities in the UK. ''City of Leeds Diving Club'' who train at the [[John Charles Centre for Sport]] has trained many athletes who have competed at international and [[Olympic Games|Olympic]] level, with [[Jack Laugher]] and [[Chris Mears (diver)|Chris Mears]] making history by becoming the first ever divers from Great Britain to win an Olympic gold medal, a feat they accomplished at the [[2016 Summer Olympics|2016 Rio Olympics]].
+
+===Teams===
+{|class="wikitable"
+|-
+! scope="col" |Club
+! scope="col" |League
+! scope="col" |Venue
+! scope="col" |Location
+! scope="col" |Established
+! scope="col" |Top flight championships
+|-
+! scope="row" style="font-weight: normal;" |[[Leeds Rhinos]]
+|[[Super League]] 
+|[[Headingley Stadium]]
+|[[Headingley]], Leeds
+|1870
+|11
+|-
+! scope="row" style="font-weight: normal;" |[[Hunslet RLFC|Hunslet]]
+|[[League 1 (rugby league)]] 
+|[[John Charles Centre for Sport]]
+|[[Hunslet]], Leeds.
+|1883
+|2
+|-
+! scope="row" style="font-weight: normal;" |[[Yorkshire Carnegie]]
+|[[RFU Championship]] Rugby Union
+|[[Headingley Stadium]]
+|[[Headingley]], Leeds
+|1991
+|0
+|-
+! scope="row" style="font-weight: normal;" |[[Yorkshire County Cricket Club]]
+|[[County Championship]] Cricket
+|[[Headingley Stadium]]
+|[[Headingley]], Leeds
+|1863
+|33
+|-
+! scope="row" style="font-weight: normal;" |[[Leeds United FC]]
+|[[The Football League Championship]] 
+|[[Elland Road]] Stadium
+|[[Beeston, Leeds]]
+|1919
+|-
+! scope="row" style="font-weight: normal;" |[[Guiseley A.F.C.]]
+|[[National League North]]
+|[[Nethermoor Park, Leeds]]
+|[[National League North]]
+|1909
+|-
+! scope="row" style="font-weight: normal;" |[[Farsley Celtic F.C]]
+|[[Northern Premier League Premier Division]] 
+|[[Throstle Nest]] Stadium
+|[[Pudsey]], Leeds
+|1908
+|}
+
+==Religion==
+{{see also|List of places of worship in the City of Leeds}}
+[[File:St Peter, Leeds (Leeds Parish Church) (5373648288).jpg|thumb|[[Leeds Minster]]]]
+
+The majority of people in Leeds identify themselves as Christian.<ref name="Census Data"/> Leeds does not have a [[Church of England]] Cathedral: it is in the [[Anglicanism|Anglican]] [[Anglican Diocese of Leeds|Diocese of Leeds]] (formerly in the [[Diocese of Ripon and Leeds]]), headed by the [[Anglican Bishop of Leeds|Bishop of Leeds]], which has cathedrals in [[Bradford Cathedral|Bradford]], [[Ripon Cathedral|Ripon]] and [[Wakefield Cathedral|Wakefield]] although the [[Bishop of Ripon and Leeds|Bishop]]'s residence has been in Leeds since 2008. The most important Anglican church is [[Leeds Minster]], although [[St George's Church, Leeds|St. George's]] has the largest congregation by far.{{citation needed|date=May 2011}} Leeds has a Roman Catholic [[Leeds Cathedral|Cathedral]], the [[Bishop|episcopal]] seat of the [[Roman Catholic Diocese of Leeds]]. Many other Christian denominations and new religious movements are established in Leeds, including [[Assemblies of God]], [[Baptists Together|Baptist]], [[Church of Christ, Scientist|Christian Scientist]], [[The Church of Jesus Christ of Latter-day Saints|Latter-day Saints]] ("LDS" or "[[Mormonism|Mormon]]"), [[Community of Christ]], [[Greek Orthodox Church|Greek Orthodox]], [[Jehovah's Witnesses]], [[Jesus Army]], [[Lutheranism|Lutheran]], [[Methodist Church of Great Britain|Methodist]], [[Moravian Church|Moravian]], [[Church of the Nazarene|Nazarene]], [[Newfrontiers]], [[Pentecostalism|Pentecostal]], [[The Salvation Army|Salvation Army]], [[Seventh-day Adventist Church|Seventh-day Adventist]], [[Religious Society of Friends|Society of Friends ("Quakers")]], [[General Assembly of Unitarian and Free Christian Churches|Unitarian]], [[United Reformed Church|United Reformed]], [[Association of Vineyard Churches|Vineyard]], an ecumenical Chinese church, [[Living Faith Church Worldwide|Winners' Chapel]] and several independent churches.<ref>{{cite web|url=http://www.leeds.ac.uk/chaplaincy/events/worship/churches1.php |author=Universities chaplaincy in Leeds |title=Student Guide to Churches in Leeds |accessdate=6 December 2007 |deadurl=yes |archive-url=https://web.archive.org/web/20071212114104/http://www.leeds.ac.uk/chaplaincy/events/worship/churches1.php |archivedate=12 December 2007}}</ref><ref>{{cite web|author=Yahoo |title=Churches in Leeds |url=http://uk.local.yahoo.com/West_Yorkshire/Leeds/Churches/uk100006150-s-26042.html |accessdate=7 December 2007}}</ref>
+[[File:SikhTempleLS7.jpg|thumb|left|alt=A large symmetrical two-storey building of yellow brick. The centre bay, incorporating the entrance, juts out. It has a large window with a semicircular top on the first floor and above is a golden onion dome on a blue base. At the ends of the frontage are hexagonal pilasters with small octagonal windowed pavilions and onion domes on top. Above the entrance is a white sign saying "The Sikh Temple" in blue. Each side has one two-storey and one one-storey window, and also yellow banners alongside the Temple's name. On each side of the entrance is a wooden seat, and strings of bunting are stretched across the scene.|Sikh Temple, Chapeltown Road]]
+[[File:HarehillsMosqueDome.jpg|thumb|right|Harehills Mosque]]
+The proportion of [[Muslim]]s in Leeds is slightly above average for the country (5.4% as of 2011).<ref name="Census Data"/> [[Mosque]]s can be found throughout the city, serving Muslim communities in [[Chapeltown, Leeds|Chapeltown]], [[Harehills]], [[Hyde Park, Leeds|Hyde Park]] and parts of [[Beeston, Leeds|Beeston]]. The largest mosque is [[Leeds Grand Mosque]] in Hyde Park.
+
+The [[Sikhism|Sikh]] community is represented by [[gurdwara]]s (temples) spread across the city, the largest being in [[Chapeltown, Leeds|Chapeltown]]. There is also a colourful religious annual procession, called the Nagar Kirtan, into [[Millennium Square, Leeds|Millennium Square]] in the city centre on 13–14 April to celebrate [[Vaisakhi]]—the Sikh New Year and the birth of the religion. It is estimated that around 3,000 Sikhs in Leeds take part in this annual event.
+
+Leeds' [[Jewish]] community is the third-largest in the United Kingdom,{{citation needed|date=March 2018}} after London and Greater Manchester. The areas of [[Alwoodley]] and [[Moortown, West Yorkshire|Moortown]] contain sizeable Jewish populations.<ref name="Freedman"/> There are eight active synagogues in Leeds.<ref>{{cite web|url=http://www.jewishgen.org/jcr-uk/Leeds.htm |title=JCR-UK – Leeds Jewish Community and Synagogues |publisher=Jewishgen.org |accessdate=14 October 2008}}</ref>
+
+The [[Hinduism|Hindu]] community in Leeds has a [[Hindu temple|temple]] (mandir) at [[Hyde Park, Leeds|Hyde Park]].<ref>{{cite web |url=http://www.leedsmandir.org.uk |title=Leeds Hindu Mandir – Welcome |publisher=Leedsmandir.org.uk |accessdate=22 July 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20090415025559/http://leedsmandir.org.uk/ |archivedate=15 April 2009  }}</ref> The temple has all the major Hindu deities and is dedicated to the Lord [[Mahavira]] of the [[Jainism|Jains]].<ref>{{cite web|url=http://www.yjf.org.uk |title=Home |publisher=Yjf.org.uk |accessdate=14 October 2008}}</ref>
+
+Various [[Buddhism|Buddhist]] traditions are represented in Leeds,<ref>{{cite web |url=http://www.communigate.co.uk/brad/leedsbuddhistgroup/page2.phtml |title=Buddhist organisations in: Leeds/Bradford areas P2 |publisher=Communigate.co.uk |accessdate=14 October 2008 |deadurl=yes |archive-url=https://web.archive.org/web/20081010191407/http://www.communigate.co.uk/brad/leedsbuddhistgroup/page2.phtml |archivedate=10 October 2008  }}</ref> including: [[Soka Gakkai]], [[Theravada]], [[Tibetan Buddhism|Tibetan]], [[Triratna Buddhist Community]] and [[Zen]]. The Buddhist community ([[Sangha (Buddhism)|sangha]]) comes together to celebrate the major festival of [[Vesak|Wesak]] in May.
+
+There is also a community of the [[Bahá'í Faith in England|Bahá'í Faith]] in Leeds.<ref>{{cite web|url=http://www.bahai.org.uk/leeds/index.htm |title=Leeds |work=Bahai Community of the UK |accessdate=14 July 2009 |deadurl=yes |archive-url=https://web.archive.org/web/20080829103813/http://www.bahai.org.uk/leeds/index.htm |archivedate=29 August 2008}}</ref>
+
+==Public services==
+Water supply and [[sewerage]] services in Leeds are provided by [[Yorkshire Water]], part of the [[Kelda Group]]. Prior to 1973 it had been provided by the Leeds Corporation. Leeds City Council has a target of 11MW of renewable energy from onshore wind by 2010 and an aspirational target of 75MW by 2020. There are currently no operational wind farms in Leeds, but a planning application by [[Banks Group|Banks Renewables Ltd]] for five turbines at Hook Moor near [[Micklefield]] was approved in 2011.<ref>{{cite news|title=Plans for Leeds' first wind farm approved|url=https://www.bbc.co.uk/news/uk-england-leeds-16116701|accessdate=2 September 2012|newspaper=BBC|date=9 December 2011}}</ref>
+[[File:Leeds central library 001.jpg|thumb|Leeds Central Library]]
+The area is policed by the [[West Yorkshire Police]]. The force has five policing districts covering the West Yorkshire area, one of which covers Leeds. The Leeds District Headquarters is located at Elland Road in the South of the City. In the North West of the City the main stations are [[Weetwood]] and Woodhouse Lane; in the North East the main stations are Stainbeck near [[Chapel Allerton]] and [[Killingbeck]]; in the South the main stations are Leeds Central located on Park Street in the city centre and the District Headquarters itself. Fire and rescue services are provided by the [[West Yorkshire Fire and Rescue Service]]. The fire stations in Leeds are: [[Cookridge]], [[Gipton]], [[Hunslet]], [[Stanks]], [[Moortown, Leeds|Moortown]], [[Stanningley]] and the "Leeds" fire station (near city centre, on Kirkstall Road).
+
+Health services are provided by the [[Leeds Teaching Hospitals NHS Trust]], Leeds Primary Care Trust<ref>{{cite web |url=http://www.leedspct.nhs.uk/ |title=The Leeds PCT – Welcome to the Leeds PCT |publisher=Leedspct.nhs.uk |accessdate=14 October 2008 |deadurl=yes |archive-url=https://web.archive.org/web/20081218064522/http://www.leedspct.nhs.uk/ |archivedate=18 December 2008  }}</ref> and Leeds and York Partnership NHS Foundation Trust<ref>{{cite web |url= http://www.leedspft.nhs.uk/home |title= Leeds Partnerships NHS Foundation Trust &#124; Home |year= 2012 |accessdate= 3 February 2012 |deadurl= yes |archive-url= https://web.archive.org/web/20090330185257/http://www.leedspft.nhs.uk/home |archivedate= 30 March 2009 }}</ref><ref>{{cite web |url=http://www.leedsmentalhealth.nhs.uk/ |title=Leeds Mental Health – Teaching NHS Trust |publisher=Leedsmentalhealth.nhs.uk |accessdate=14 October 2008 |deadurl=yes |archive-url=https://web.archive.org/web/20081014074304/http://www.leedsmentalhealth.nhs.uk/ |archivedate=14 October 2008  }}</ref> which provides mental health services. [[Leeds General Infirmary]] ("LGI") is a [[listed building]] with more recent additions and is in the city centre. [[St James's University Hospital]], known locally as "Jimmy's"<ref name="St James' Hospital/">[https://web.archive.org/web/20120204152805/http://www.leedsteachinghospitals.com/patients/aboutus/hospitals/st_james.php In the background section of page], additional text.</ref><ref>{{cite web|url=http://www.nosuch-research.co.uk/pdfs/PaperJimmys.pdf |title="Jimmy's": the rise of the docusoap and the fall of YTV|last=Gray |first=Nick |work="No Such" Research |date=31 January 2010 |accessdate=17 June 2010 |format=PDF |quote=What is "Jimmy's"? It's the local nickname of a hospital in Leeds, actually called St. James's University Hospital ...}} (paper by Deviser/Producer/Director of TV series)</ref> is to the north east of the city centre and is the largest teaching hospital in Europe. Other NHS hospitals are [[Chapel Allerton Hospital]], [[Seacroft Hospital]], [[Wharfedale Hospital]] in Otley, and Leeds Dental Institute. The new NHS Leeds Website provides information on NHS services in Leeds.<ref>{{cite web |url=http://www.leeds.nhs.uk/ |archive-url=https://web.archive.org/web/20010220190031/http://www.leeds.nhs.uk/ |dead-url=yes |archivedate=20 February 2001 |title=Welcome to NHS Leeds |publisher=Leeds.nhs.uk |accessdate=21 January 2010 }}</ref>
+
+[[West Yorkshire Joint Services]] provides analytical, archaeological, archives, ecology, materials testing and trading standards services in Leeds and the other four districts of West Yorkshire. It was created following the abolition of the county council in 1986 and expanded in 1997, and is funded by the five district councils, pro rata to their population. The Leeds site of the archives service is in the former public library at [[Sheepscar]], Leeds.<ref>{{cite web|url=http://www.wyjs.org.uk/|title=West Yorkshire Joint Services|accessdate=28 March 2009}}</ref>
+
+[[Leeds City Council]] is responsible for over 50 public libraries across the whole city, including 5 mobile libraries. The main [[Leeds Central Library|Central Library]] is located on the [[Headrow]] in the city centre.
+
+==See also==
+*{{Portal-inline|Leeds}}
+*[[List of people from Leeds]]
+
+==References and notes==
+{{Reflist|30em}}
+
+'''Bibliography'''
+{{Refbegin}}
+*{{Cite book|title = The Illustrated History of Leeds |last = Burt and Grady |publisher=Breedon Books |year =1994 |isbn = 9781873626351 |ref=harv}}
+*{{Cite book|title=A History of Modern Leeds |first=Derek |last= Fraser |publisher=Manchester University Press |year=1982 |isbn=978-0-7190-0781-1|ref=harv}}
+*{{Cite book|last=Unsworth and Stillwell |year=2004 |title=Twenty-First Century Leeds: Geographies of a Regional City |publisher=Leeds University Press |location=Leeds |isbn=0-85316-242-5|ref=harv}}
+{{Refend}}
+
+==External links==
+{{Commons|Leeds}}
+*{{Wikivoyage-inline|Leeds}}
+*[http://www.leedsinitiative.org/ 'Leeds Initiative'] Leeds Initiative city partnership.
+*[http://www.leeds.gov.uk/ Leeds City Council] Leeds City Council.
+
+{{City of Leeds}}
+{{West Yorkshire}}
+{{Core Cities Group}}
+{{UK cities}}
+{{Authority control}}
+
+{{DEFAULTSORT:Leeds}}
+[[Category:Leeds| ]]<!--please leave the empty space as standard-->
+[[Category:Leeds City Region]]
+[[Category:University towns in the United Kingdom]]
+[[Category:Market towns in West Yorkshire]]
+[[Category:Towns in West Yorkshire]]

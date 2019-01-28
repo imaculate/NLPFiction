@@ -1,0 +1,443 @@
+{{Use mdy dates|date=October 2018}}
+{{about|a type of boat or ship|the pharmacy benefit management company|Catamaran Corporation}}
+[[File:Bladef16-1up.jpg|thumb|right|A [[Formula 16 (sailing)|Formula 16]] beachable catamaran]]
+[[File:Salem Ferry.JPG|thumb|right|Powered catamaran passenger ferry at [[Salem, Massachusetts|Salem]], [[Massachusetts]], United States.]]
+<!----[[File:Katamaran-wiosla.jpg|thumb|right|Training catamaran for [[Sweep (rowing)|sweep-oar rowing]].]]---->
+
+A '''catamaran''' ({{IPAc-en|ˌ|k|æ|t|ə|m|ə|ˈ|r|æ|n}}) (informally, a "cat") is a [[multihull|multi-hulled]] [[watercraft]] featuring two parallel [[hull (watercraft)|hulls]] of equal size. It is a geometry-stabilized craft, deriving its stability from its wide [[beam (nautical)|beam]], rather than from a ballasted [[keel]] as with a [[monohull]] [[sailboat]].  Catamaran is from a [[Tamil language|Tamil]] word, ''kattumaran'', which means "logs tied together". 
+
+Catamarans typically have less hull volume, higher displacement, and shallower [[draft (hull)|draft]] (draught) than monohulls of comparable length. The two hulls combined also often have a smaller hydrodynamic [[drag (physics)|resistance]] than comparable monohulls, requiring less propulsive power from either sails or motors. The catamaran's wider stance on the water can reduce both [[Heeling (sailing)#Heeling|heeling]] and wave-induced motion, as compared with a monohull, and can give reduced wakes.
+
+Catamarans range in size from small ([[sailing]] or [[rowing]] vessels) to large (naval ships and [[Roll-on/roll-off|car ferries]]). The structure connecting a catamaran's two hulls ranges from a simple frame strung with webbing to support the crew to a bridging superstructure incorporating extensive cabin and/or cargo space.
+
+==History==
+Catamarans from [[Oceania]] and [[Maritime Southeast Asia]] became the inspiration for modern catamarans.
+
+===Oceanian and Asian catamarans===
+[[File:Priests traveling across kealakekua bay for first contact rituals.jpg|thumb|right|A Polynesian catamaran]]
+[[File:Succession of forms in the development of the Austronesian boat.png|left|320px|thumb|Succession of forms in the development of the [[Austronesian peoples|Austronesian]] boat (Mahdi, 1999)]]
+Catamaran-type vessels was one of the earliest technological innovations of the [[Austronesian peoples]]. Early researchers like Heine-Geldern (1932) and Hornell (1943) once believed that catamarans evolved from [[outrigger canoe]]s, but modern authors specializing in Austronesian cultures like Doran (1981) and Mahdi (1988) now believe it to be the opposite.<ref name="Mahdi1999"/><ref name="Doran1981"/><ref name="Doran1974"/>
+[[File:Herreshoff Duplex Catamaran sailing in the Thames River--1880.png|thumb|[[Nathanael Greene Herreshoff|Nathaniel Herreshoff]] catamaran, ''Duplex'', on the [[River Thames]]—built in 1877, was {{convert|31|ft|0|abbr=on}} long]]
+[[File:Hobie Cat 16.jpg|thumb|Hobie 16 beachable catamaran]]
+Two canoes bound together developed directly from minimal raft technologies of two logs tied together. Over time, the double-hulled canoe form developed into the asymmetric double canoe, where one hull is smaller than the other. Eventually the smaller hull became the prototype [[outrigger]], giving way to the single outrigger canoe, then to the reversible single outrigger canoe. Finally, the single outrigger types developed into the double outrigger canoe (or [[trimaran]]s).<ref name="Mahdi1999"/><ref name="Doran1981"/><ref name="Doran1974">{{cite journal |last1=Doran |first1=Edwin, Jr. |title=Outrigger Ages |journal=The Journal of the Polynesian Society |date=1974 |volume=83 |issue=2 |pages=130-140 |url=http://www.jps.auckland.ac.nz/document//Volume_83_1974/Volume_83%2C_No._2/Outrigger_ages%2C_by_Edwin_Doran_Jnr.%2C_p_130-140/p1}}</ref>
+
+This would also explain why older Austronesian populations in [[Island Southeast Asia]], [[Madagascar]], and the [[Comoros]] tend to favor double outrigger canoes, as it keeps the boats stable when [[tacking (sailing)|tacking]]. But they still have small regions where catamarans and single-outrigger canoes are still used. In contrast, more distant outlying descendant populations in [[Micronesia]] and [[Polynesia]] retained the double-hull and the single outrigger canoe types, but the technology for double outriggers never reached them (although it exists in western [[Melanesia]]). To deal with the problem of the instability of the boat when the outrigger faces leeward when tacking, they instead developed the [[shunting (sailing)|shunting]] technique in sailing, in conjunction with reversible single-outriggers.<ref name="Mahdi1999">{{cite book|author=Mahdi, Waruno |editor=Blench, Roger |editor2=Spriggs, Matthew|title =Archaeology and Language III: Artefacts languages, and texts|chapter =The Dispersal of Austronesian boat forms in the Indian Ocean|volume = 34|publisher =Routledge|series =One World Archaeology |year =1999|page=144-179|isbn =0415100542|url =https://s3.amazonaws.com/academia.edu.documents/35025241/Mahdi_1WrldArchaeo34_1999.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1547229726&Signature=PbpMYp5JiK5eUgci4tCQ8KNWZYs%3D&response-content-disposition=inline%3B%20filename%3DThe_Dispersal_of_Austronesian_boat_forms.pdf}}</ref><ref name="Doran1981">{{cite book |last1=Doran |first1=Edwin B. |title=Wangka: Austronesian Canoe Origins |date=1981 |publisher=Texas A&M University Press |isbn=9780890961070}}</ref><ref name="Doran1974"/><ref name="Beheim">{{cite journal |last1=Beheim |first1=B. A. |last2=Bell |first2=A. V. |title=Inheritance, ecology and the evolution of the canoes of east Oceania |journal=Proceedings of the Royal Society B: Biological Sciences |date=23 February 2011 |volume=278 |issue=1721 |pages=3089–3095 |doi=10.1098/rspb.2011.0060}}</ref><ref name="Hornell1932">{{cite journal |last1=Hornell |first1=James |title=Was the Double-Outrigger Known in Polynesia and Micronesia? A Critical Study |journal=The Journal of the Polynesian Society |date=1932 |volume=41 |issue=2 (162) |pages=131-143}}</ref>
+
+Despite their being the more "primitive form" of outrigger canoes, they were nonetheless effective, allowing seafaring Polynesians to [[Polynesian navigation|voyage to distant Pacific islands]].<ref>{{cite book|last=Kirch|first=Patrick|title=Hawaiki|publisher=Cambridge University Press|year=2001|page=80|isbn=978-0-521-78309-5}}</ref>
+
+Catamarans were seldom constructed in the West before the 19th century, but they were in wide use as early as the 5th century by the [[Tamils|Tamil people]] of [[Tamil Nadu]], [[South India]]. The word "catamaran" is derived from the Tamil word, ''kattumaram'' (கட்டுமரம்),   which means "logs bound together."<ref>{{cite book |last=Lück |first=Michael |date=2008 |title=The Encyclopedia of Tourism and Recreation in Marine Environments |url=https://books.google.com/books?id=Yuc2Aro6ukkC&pg=PA86&lpg=PA86&dq=tamil+catamaran+5th+century&source=bl&ots=ZOa-qhmr7S&sig=Pdhu2BN37qDZFthn4rdE0bYUf68&hl=en&sa=X&ved=0ahUKEwiupYiJlIzKAhXJ6yYKHXElDfQQ6AEIJjAC#v=onepage&q=tamil%20catamaran%205th%20century&f=false |location=Wallingford, UK |publisher=CABI |page=86 |isbn=978-1-84593-350-0}}</ref><ref name="dictionary">{{cite encyclopedia |title=Catamaran |encyclopedia=Dictionary.com Unabridged |url=http://dictionary.reference.com/browse/catamaran |year=2016 |publisher=Random House, inc.}}</ref> The 17th-century English adventurer and [[privateer]] [[William Dampier]] encountered the Tamil people of southeastern India during his first circumnavigation of the globe. He was the first to write in English about the watercraft he observed in use there. In his 1697 account of his trip, ''A New Voyage Round the World'', he wrote, {{quote|On the [[Malabar Coast|coast of Malabar]] they call them Catamarans. These are but one Log, or two, sometimes of a sort of light Wood ... so small, that they carry but one Man, whose legs and breech are always in the Water.<ref name = Dampier>{{cite book|last1=Dampier|first1=William|title=A New Voyage Round the World|date=1697|isbn=1933698047|url=http://gutenberg.net.au/ebooks05/0500461h.html}}</ref>}}
+
+The acquisition of the catamaran and [[outrigger canoe]] technology by the non-Austronesian peoples in Sri Lanka and southern India is due to the result of very early Austronesian colonization of the region that have since been assimilated, including the [[Maldives]] and [[Laccadive Islands]], estimated to have occurred around 1000 to 600 BCE and onwards. This is still evident in Sri Lankan and South Indian languages. For example, [[Tamil language|Tamil]] ''paṭavu'', [[Telugu language|Telugu]] ''paḍava'', and [[Kannada language|Kannada]] ''paḍahu'', all meaning "ship", are all derived from [[Proto-Hesperonesian|Proto&#8209;Hesperonesian]] ''*padaw'', "sailboat", with Austronesian cognates like [[Javanese language|Javanese]] ''[[perahu]]'', [[Kadazan language|Kadazan]] ''padau'', [[Maranao language|Maranao]] ''padaw'', [[Cebuano language|Cebuano]] ''[[paráw]]'', [[Samoan language|Samoan]] ''folau'', [[Hawaiian language|Hawaiian]] ''halau'', and [[Maori language|Maori]] ''wharau''.<ref name="Mahdi1999"/> Genetic studies on Maldivians have also identified Austronesian admixture.<ref>{{cite book |last= Maloney|first= C. |title= People of the Maldive Islands|publisher= Orient Longman Ltd, Madras |year= 1980 |isbn= 0-86131-158-2}}</ref><ref>{{cite book |last= Duckworth|first= Wynfrid L.H. |title=n the Anthropometric Data collected by Professor John Stanley Gardiner, F.R.S., in the Maldive Islands and Minicoy|publisher= [[Cambridge Philosophical Society]]|year= 1914}}</ref>
+
+===Development of modern catamarans===
+The first documented example of double-hulled craft in [[Early modern Europe|Europe]] was designed by [[William Petty]] in 1662 to sail faster, in shallower waters, in lighter wind, and with fewer crew than other vessels of the time. However, the unusual design met with skepticism and was not a commercial success.<ref>{{cite web|url=http://royalsociety.org/exhibitions/350years/twin-hulled-ship/ |title=Model of a twin-hulled ship - William Petty |publisher=Royal Society |date= |accessdate=2014-08-08}}</ref><ref>{{cite web|date=September 22, 2000 |url=http://www.timeshighereducation.co.uk/story.asp?storyCode=153561&sectioncode=26 |title=Sailing with an Achilles' keel &#124; General |publisher=Times Higher Education |accessdate=2014-08-08}}</ref>
+
+The design remained relatively unused in the West for almost 160 years until the early 19th-century, when the Englishman Mayflower F. Crisp built a two-hulled merchant ship in [[Yangon|Rangoon, Burma]]. The ship was christened ''Original''. Crisp described it as "a fast sailing fine sea boat; she traded during the monsoon between Rangoon and the Tenasserim Provinces for several years".<ref>{{cite book|author=Bertie Reginald Pearn|title=A History of Rangoon|publisher=Corporation of Rangoon|year=1938|page=136}}</ref><ref>{{cite book|author=M. F. Crisp|title=A treatise on marine architecture, elucidating the theory of the resistance of water : illustrating the form, or model best calculated to unite velocity, buoyancy, stability, strength, etc., in the same vessel : and finally, adducing the theory of the art of shipbuilding.|location=Maulmein|publisher=American Baptist mission press|year=1849|page=94|url=http://babel.hathitrust.org/cgi/pt?id=nyp.33433008070769;view=1up;seq=7}}</ref>
+
+Later that century, the American [[Nathanael Herreshoff]] constructed a double-hulled sailing boat of his own design (US Pat. No. 189,459).<ref>{{cite web|url=https://www.google.com/patents/US189459|date=April 10, 1877|title=US Patent Number 189459: Improvement in construction of sailing-vessels|author=[[Nathanael Herreshoff]]}}</ref> The craft, ''Amaryllis'', raced at her maiden regatta on June 22, 1876, and performed exceedingly well. Her debut demonstrated the distinct performance advantages afforded to catamarans over the standard monohulls. It was as a result of this event, the Centennial Regatta of the New York Yacht Club, that catamarans were barred from regular sailing classes, and this remained the case until the 1970s.<ref name=ban>{{cite web|url=http://www.ulstc.org/Herreshoff.html |title=The Spirit of the Times, November 24, 1877 (reprint) |author=L. Francis Herreshoff |publisher=Marine Publishing Co., Camden, Maine |accessdate=2014-12-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20080124161749/http://www.ulstc.org/Herreshoff.html |archivedate=January 24, 2008 }}</ref>
+
+In 1936 [[Eric de Bisschop]] built a Polynesian "double canoe" in [[Hawaii]] and sailed it home to a hero's welcome in France. In 1939, he published his experiences in a book, ''Kaimiloa'', which was translated into English in 1940.<ref>''The Voyage of the Kaimiloa'', London, 1940 (translated from French: ''Kaimiloa : D'Honolulu à Cannes par l'Australie et Le Cap, à bord d'une double pirogue polynésienne''), Editions Plon, Paris, 1939 (''Au delà des horizons lointains 1'').</ref>
+
+The Prout Brothers, Roland and Francis, experimented with catamarans in 1949 and converted their 1935 boat factory in [[Canvey Island]], Essex (England), to catamaran production in 1954. Their Shearwater catamarans won races easily against the monohulls. ''Yellow Bird,'' a 1956-built Shearwater, raced successfully by Francis Prout in the 1960s, is in the collection of the [[National Maritime Museum Cornwall]].<ref>
+{{cite book
+ | last = Bird
+ | first = Vanessa
+ | title = Classic Classes
+ | page = 65
+ | publisher = A&amp;C Black
+ | date = 2013
+ | isbn = 9781408158906
+ | url = https://books.google.com/books?id=6dAtAAAAQBAJ&pg=PA65&dq=Prout+catamaran&hl=en&sa=X&ved=0ahUKEwju0drBlsrKAhUomYMKHUybATwQ6AEIQDAF#v=onepage&q=Prout%20catamaran&f=false
+ | access-date = 2016-01-27}}</ref>
+
+In the mid-twentieth century, [[beachcat]]s became a widespread category of sailing catamarans, owing to their ease of launching and mass production. In California, a maker of [[surfboard]]s, [[Hobie Alter]], produced the {{convert|250|lb|kg|adj=on}} [[Hobie cat#Hobie 14|Hobie 14]] in 1967, and two years later the larger and even more successful [[Hobie 16]]. As of 2016, the Hobie 16 was still being produced with more than 100,000 having been manufactured.<ref>{{cite web|title=Hobie 16 2012 Class Report 2012|url=http://www.sailing.org/tools/documents/H162012ClassReport-%5B11980%5D.pdf|accessdate=2015-10-01}}</ref>
+
+The [[Tornado (sailboat)|Tornado catamaran]] was designed by three Englishmen for a crew of two in 1967 as an Olympic catamaran candidate. At the Olympic Catamaran Trials of the International Yacht Racing Union, IYRU, it outperformed the other challengers for the role and was selected for the multihull discipline in the [[Olympic Games]] from 1976 through 2008. It was redesigned in 2000 and remains one of the fastest double-handed catamaran models.<ref>
+{{cite web
+ | url = http://www.tornado-class.org/the-class/tornado-class-history/
+ | title = A Brief Tornado History—The Story of the Tornado, the Olympic Catamaran
+ | last = Forbes
+ | first = John 
+ | last2 = Young
+ | first2 = Jim 
+ | date = 2003
+ | publisher = International Tornado Class Association 
+ | accessdate = 2016-01-27}}</ref>
+
+Australia became the site of builders of large transport catamarans—[[Incat]] in 1977<ref>
+{{cite web
+ | url = http://www.incat.com.au/domino/incat/incatweb.nsf/v-title/History?OpenDocument
+ | title = History
+ | date = 2016
+ | publisher = Incat
+ | access-date = 2016-01-27
+ | deadurl = yes
+ | archiveurl = https://web.archive.org/web/20131005012304/http://www.incat.com.au/domino/incat/incatweb.nsf/v-title/History?OpenDocument
+ | archivedate = October 5, 2013
+ | df = mdy-all
+ }}</ref> and [[Austal Ships|Austal]] in 1988<ref>
+{{cite web
+ | url = http://australia.austal.com/our-story-1
+ | title = Our story
+ | date = 2016
+ | publisher = Austal
+ | access-date = 2016-01-27}}</ref>—each building civilian [[Ferry|ferries]] and [[Navy|naval]] vessels.
+
+The largest ship ever built in terms of [[gross tonnage]], the [[Pioneering Spirit (ship)|''Pioneering Spirit'']], incorporates a catamaran design.<ref>{{Cite web|url=http://www.ship-technology.com/projects/pioneering-spirit-heavy-lift-construction-vessel/|title=Pioneering Spirit Heavy Lift Construction Vessel|website=Ship Technology|access-date=2017-06-08}}</ref>
+
+==Performance characteristics==
+Catamarans have two distinct primary performance characteristics that distinguish them from displacement monohull vessels: lower resistance to passage through the water and greater stability (initial resistance to capsize). Choosing between a monohull and catamaran configuration includes considerations of carrying capacity, speed, and efficiency.
+
+===Resistance===
+At low to moderate speeds, a lightweight catamaran hull experiences resistance to passage through water that is approximately proportional to the square of its speed. A displacement monohull, by comparison, experiences resistance that is at least the cube of its speed. This means that a catamaran would require four times the power in order to double its speed, whereas a monohull would require eight times the power to double its speed, starting at a slow speed.<ref name=Garrett/> For powered catamarans, this implies smaller power plants (although two are typically required). For sailing catamarans, [[Forces on sails#Reactive forces on sailing craft|low forward resistance]]<ref>
+{{Cite book
+ | last = Yang
+ | first = C.
+ | last2 = Löhner
+ | first2 = R.
+ | last3 = Soto
+ | first3 = O.
+ | title = Practical Design of Ships and Other Floating Structures: Eighth International Symposium
+ | place = China
+ | publisher = Elsevier
+ | volume = 1
+ | editor-last = Wu
+ | editor-first = You-Sheng
+ | editor2 = Guo-Jun Zhou
+ | editor3 = Wei-Cheng Cui
+ | chapter = Optimization of a wave-cancellation multihull using CFD tools 
+ | date = August 22, 2001
+ | isbn = 9780080539355}}</ref> allows the sails to [[Forces on sails#Lift predominant .28attached flow.29|derive power from attached flow]],<ref name=Weitner>
+{{Cite journal
+ | last = Weltner
+ | first = Klaus
+ | title = A comparison of explanations of the aerodynamic lifting force
+ | journal = American Journal of Physics
+ | volume = 55
+ | issue = 1
+ | pages = 52
+ |date=January 1987
+ | doi=10.1119/1.14960
+}}</ref> their most efficient mode—analogous to a wing—leading to the use of [[wingsail]]s in racing craft.<ref name=Sail>
+{{cite magazine
+ | last = Nielsen
+ | first =  Peter 
+ | title = Have Wingsails Gone Mainstream?
+ | magazine = Sail Magazine
+ | publisher = Interlink Media
+ | date = May 14, 2014
+ | url = http://www.sailmagazine.com/boats/have-wingsails-gone-mainstream
+ | accessdate = 2015-01-24 }}</ref>
+
+===Stability===
+Catamarans rely primarily on form stability to resist heeling and capsize.<ref name=Garrett>{{cite book
+ | last = Garrett
+ | first = Ross
+ | title = The Symmetry of Sailing: The Physics of Sailing for Yachtsmen
+ | publisher = Sheridan House, Inc.
+ | date = January 1, 1996 
+ | page = 133
+ | url = https://books.google.com/books?id=0VLXORumEF4C&lpg=PA73&dq=catamaran%20hull%20resistance&pg=PA133#v=onepage&q=catamaran&f=false
+ | isbn = 9781574090000}}</ref> Comparison of heeling stability of a rectangular-cross section [[monohull]] of beam, ''B'', compared with two catamaran hulls of width ''B''/2, separated by a distance, 2×''B'', determines that the catamaran has an initial resistance to heeling that is seven times that of the monohull.<ref>{{cite book
+ | last = Biran
+ | first = Adrian
+ | last2 = Pulido
+ | first2 = Ruben Lopez 
+ | title = Ship Hydrostatics and Stability
+ | publisher = Butterworth-Heinemann
+ | edition = 2
+ | year = 2013
+ | page = 67
+ | url = https://books.google.com/books?id=LostoMz5ZpMC&pg=PA66&dq=catamaran+stability&hl=en&sa=X&ved=0ahUKEwj-4cG14s3KAhVB6iYKHTN7DIUQ6AEIMDAA#v=onepage&q=catamaran%20stability&f=false
+ | isbn = 0080982905 }}</ref> Compared with a monohull, a cruising catamaran sailboat has a high initial resistance to heeling and capsize—a fifty-footer requires four times the force to initiate a capsize than an equivalent monohull.<ref name = Offshore>
+{{cite book
+ | last = Howard
+ | first = Jim
+ | last2 = Doane
+ | first2 = Charles J.
+ | title = Handbook of Offshore Cruising: The Dream and Reality of Modern Ocean Cruising
+ | publisher = Sheridan House, Inc
+ | date = 2000
+ | location =
+ | pages = 36–8
+ | url = https://books.google.com/books?id=NB4uFQuUlnEC&lpg=PP1&dq=handbook%20of%20offshore%20cruising&pg=PA38#v=onepage&q=capsize&f=false
+ | access-date = 2016-01-27
+ | isbn = 1574090933 }}<!-- This ref listed total pages instead of a specific page; the best support I could find for the assertion of four times the force is in figure 5.1 on p. 38, showing approx. 200,000 ft. pounds max stability for a 50 foot catamaran vs approx. 50,000 ft. pounds max stability for a 50 foot monohull. --></ref>
+
+===Tradeoffs===
+One measure of the trade-off between speed and carrying capacity is the [[Froude number#Ship hydrodynamics|displacement Froude number (Fn<sub>V</sub>)]],<ref>{{Cite book | last=Newman | first=John Nicholas | authorlink=John Nicholas Newman | title=Marine hydrodynamics | year=1977 | publisher=[[MIT Press]] | location=Cambridge, Massachusetts  | isbn=0-262-14026-8 |page=28}}.</ref> compared with ''calm water transportation efficiency''.<ref name = Watson/> Fn<sub>V</sub> applies when the waterline length is too speed-dependent to be meaningful—as with a planing hull.<ref>
+{{cite journal
+ | last = Wilson
+ | first = F.W.
+ | last2 = Vlars
+ | first2 = P.R.
+ | author-link =
+ | title = Operational Characteristics Comparisons
+ | journal = AIAA 6th Marine Systems Conference
+ | page = 11
+ | publisher = American Institute of Aeronautics and Astronautics
+ | location =
+ | date = September 1981
+ | language =
+ | url = https://books.google.com/books?id=QboKAQAAMAAJ&q=%22displacement+Froude+number%22&dq=%22displacement+Froude+number%22&hl=en&sa=X&ved=0ahUKEwjB7vGz5YDTAhWkxYMKHYFCBPYQ6AEIGjAA
+ | access-date = 2017-03-31 }}</ref> It uses a reference length,  the cubic root of the volumetric displacement of the hull, ''V'', where ''u'' is the relative flow velocity between the sea and ship, and ''g'' is [[Gravitational constant|acceleration due to gravity]]:
+:<math>\mathrm{Fn_V} = \frac{u}{\sqrt{gV^{1/3}}}</math>
+
+''Calm water transportation efficiency'' of a vessel is proportional to the full-load [[Displacement (ship)|displacement]] and the maximum calm-water speed, divided by the corresponding power required.<ref>
+{{cite journal
+ | last = Eames
+ | first = Michael C.
+ | title = Advances is Naval Architecture for Surface Naval Ships
+ | journal = Proceedings
+ | pages = 31
+ | publisher = Royal Institution of Naval Architects
+ | location = London
+ | date = April 15, 1980
+ | url = http://cradpdf.drdc-rddc.gc.ca/PDFS/zbd89/p36271.pdf
+ | access-date = 2016-01-31 }}</ref>
+
+Large merchant vessels have a Fn<sub>V</sub> between one and zero, whereas higher-performance powered catamarans may approach 2.5—denoting a ''higher speed'' per unit volume for ''catamarans''. Each type of vessel has a corresponding calm water transportation efficiency, with large transport ships being in the range of 100–1,000, compared with 11-18 for transport catamarans—denoting a ''higher efficiency'' per unit of payload for ''monohulls''.<ref name = Watson>
+{{cite book
+ | last = Watson
+ | first = D. G. M.
+ | title = Practical Ship Design
+ | publisher = Gulf Professional Publishing
+ | series = Elsevier Ocean Engineering Book Series
+ | volume = 1
+ | edition = Revised
+ | date = 2002
+ | pages = 47–48
+ | quote = See Fig. 2.1 'Slender' and 'Swath' figures.
+ | url = https://books.google.com/books?id=L4W1XZ9Lf8cC&pg=PA48&dq=wave+piercing+catamaran+design&hl=en&sa=X&ved=0ahUKEwjeiNeJm8_KAhVKKCYKHeV-CfEQ6AEIIjAB#v=onepage&q=wave%20piercing%20catamaran%20design&f=false
+ | isbn = 0080440541 }}</ref><!--See chart on P. 47 for catamaran numbers. Look for SWATH: You'll be in the right neighborhood. The transport ship value is on P. 48.-->
+
+==Sailing catamarans==
+[[File:AC72 New Zealand Aotearoa San Francisco 01.jpg|thumb|Emirates Team New Zealand's AC72 ''Aotearoa'' on foils in San Francisco Bay]]
+[[File:Catamaran de croisière Lagoon 560.JPG|thumb|A cruising catamaran.]]
+[[File:Gitana 13.jpg|thumb|[[Gitana 13]], an ocean-racing catamaran.]]
+Sailing catamarans have been noted for incorporating technological advances over traditional monohull craft. These include [[hydrofoil|foils]] that lift racing catamarans out of the water, capacious and stable cruising vessels, and racers that have achieved average speeds on the open ocean, comparable to much larger vessels.
+
+===Sport===
+Recreational and sport catamarans typically are designed to have a crew of two and be launched and landed from a beach. Most have a trampoline on the bridging structure, a rotating mast and full-length battens on the mainsail. Performance versions often have trapezes to allow the crew to hike out and counterbalance capsize forces during strong winds on certain points of sail.<ref>
+{{cite book
+ | last = Berman
+ | first = Phil
+ | title = Catamaran Sailing: From Start to Finish
+ | publisher = W. W. Norton & Co. Inc
+ | date = March 1982
+ | pages = <!-- 209   ... probably number of pages in book -->
+ | isbn = 978-0393000849}}</ref>
+
+For the [[33rd America's Cup]], both the defender and the challenger built {{convert|90|ft|m|adj=on}} long multihulls. [[Société Nautique de Genève]], defending with team [[Alinghi]], sailed a catamaran. The challenger, BMW Oracle Racing, used a trimaran, replacing its soft sail rig with a towering [[wing sail]]—the largest sailing wing ever built. In the waters off [[Valencia]], Spain in February 2010, the BMW Oracle Racing trimaran with its powerful wing sail proved to be superior. This represented a break from the traditional monohulls that had always been sailed in previous [[America's Cup]] series.<ref>
+{{cite news
+ | agency = Associated Press
+ | title = BMW Oracle wins America's Cup
+ | publisher = ESPN
+ | date = February 14, 2010
+ | url = http://sports.espn.go.com/oly/news/story?id=4913750
+ | access-date = 2016-01-27}}</ref>
+
+On San Francisco Bay, the [[2013 America's Cup]] was sailed in {{convert|72|ft|m|adj=on}} long [[AC72]] catamarans (craft set by the rules for the 2013 America's Cup). Each yacht employed [[Sailing hydrofoil|hydrofoil]]s and a wing sail. The regatta was won 9-8 by [[Oracle Team USA]] against the challenger, [[Emirates Team New Zealand]], in fifteen matches because Oracle Team USA had started the regatta with a two-point penalty.<ref>{{cite web|url = https://www.bbc.co.uk/sport/0/sailing/24274103|title=Ben Ainslie's USA beat Team New Zealand in decider|date=September 26, 2013|work=BBC Sport|accessdate=September 26, 2013}}</ref><ref>{{cite web|url =http://www.nydailynews.com/news/national/oracle-team-usa-completes-historic-america-cup-comeback-article-1.1467496|title=Oracle Team USA completes greatest comeback in America's Cup history, defeating Emirates New Zealand|date=September 25, 2013|work=New York Daily News|accessdate=September 26, 2013}}</ref>
+
+===Cruising===
+Cruising sailors must make trade-offs among volume, useful load, speed, and cost in choosing a boat. Choosing a catamaran offers increased speed at the expense of reduced load per unit of cost. Howard and Doane describe the following tradeoffs between cruising monohulls and catamarans:<ref name="Offshore" /> A long-distance, offshore cruising monohull may be as short as {{convert|30|ft|m}} for a given crew complement and supporting supplies, whereas a cruising catamaran would need to be {{convert|40|ft|m}} to achieve the same capacity. In addition to greater speed, catamarans draw less water than do monohulls—little as {{convert|3|ft|m}}—and are easier to beach. Catamarans are harder to tack and take up more space in a marina. Cruising catamarans entail added expense for having two engines and two rudders. Tarjan adds that cruising catamarans boats can maintain a comfortable {{convert|300|nmi|mi km}} per day passage, with the racing versions recording well over {{convert|400|nmi|mi km}} per day. In addition, they do not heel more than 10-12 degrees, even at full speed on a reach.<ref>
+{{cite book|url=https://books.google.com/books?id=RgHZ2hnnmEEC&printsec=frontcover&dq=Powered+cruising+catamaran&hl=en&sa=X&ved=0ahUKEwiN3rOQ-8XKAhUGdj4KHXReAUUQ6AEIMDAA#v=onepage&q=Characteristics&f=false|title=Catamarans: The Complete Guide for Cruising Sailors|last=Tarjan|first=Gregor|date=2007|publisher=McGraw Hill|isbn=9780071596220|page=|access-date=2016-01-25}}</ref>
+
+===Ocean racing===
+Yachting has seen the development of multihulls over {{convert|100|ft|m}} in length. "[[The Race (yachting race)|The Race]]" helped precipitate this trend; it was a circumnavigation challenge which departed from Barcelona, Spain, on New Year's Eve, 2000. Because of the prize money and prestige associated with this event, four new catamarans (and two highly modified ones) over {{convert|100|ft|m}} in length were built to compete. The largest, ''[[PlayStation (yacht)|PlayStation]]'', owned by [[Steve Fossett]], was {{convert|125|ft|m}} long and had a mast which was {{convert|147|ft|m}} above the water. Virtually all of the new mega-cats were built of pre-preg [[carbon fiber]] for strength and the lowest possible weight. The top speeds of these boats can approach {{convert|50|kn|mph km/h}}. The Race was won by the {{convert|33.50|m|abbr=on}}-long catamaran ''[[Club Med (yacht)|Club Med]]'' skippered by [[Grant Dalton]]. It went round the globe in 62 days at an average speed of {{convert|18|kn|mph km/h}}.<ref>
+{{cite book
+ | last = Zimmermann
+ | first = Tim
+ | title = The Race: Extreme Sailing and Its Ultimate Event: Nonstop, Round-the-World, No Holds Barred
+ | publisher = Houghton Mifflin Harcourt
+ | date = 2004
+ | page = 
+ | url = https://books.google.com/books?id=WI7U45COn1EC&pg=PT128&dq=catamaran&hl=en&sa=X&ved=0ahUKEwiuuPnYl8rKAhVCt4MKHWXSCLgQ6AEINzAC#v=onepage&q=catamaran&f=false
+ | isbn = 0547347065 }}</ref>
+
+==Powered catamarans==
+[[File:2010 09 05 Planit Solar 1.JPG|thumb|''[[Tûranor PlanetSolar]]'', a wave-piercing solar-powered cruising catamaran in [[Hamburg, Germany]]]]
+[[File:STA70273.JPG|thumb|right|The ''[[HSC Stena Voyager]]'' a catamaran passenger ferry]]
+[[File:USNS Spearhead (JHSV-1) - 1.jpg|thumb|right|[[Spearhead-class joint high speed vessel|US Naval Ship ''Spearhead'' (JHSV-1)]] during sea trials in 2012]]
+[[File:Small waterplane area twin hull swath1 large.jpg|thumb|A SWATH ship has twin hulls (blue) that remain completely submerged.]]
+[[File:US Navy 031104-N-0000S-001 High Speed Vessel Two (HSV 2) Swift is participating in the West African Training Cruise.jpg|thumb|[[HSV-2 Swift]], a wave-piercing catamaran]]
+A catamaran configuration fills a niche for powered vessels, where speed and sea-kindliness is favored over bulk capacity. In larger vessels, this niche favors car ferries and military vessels for patrol or operation in the littoral zone. Two advances over the traditional catamaran are the ''small-waterplane-area twin hull'' (SWATH) and the ''wave-piercing'' configuration—the latter having become a widely favored design.
+
+===Cruising===
+An outgrowth of the popularity of cruising sailing catamarans are powered catamarans, which share many of the amenities found in a sail cruising catamaran.  The saloon typically spans two hulls wherein are found the staterooms and engine compartments. As with sailing catamarans, this configuration minimizes boat motion in a seaway.<ref>
+{{cite magazine
+ | last = Sass
+ | first =  George, Jr. 
+ | title = Lagoon Power 43—An exceptional first powerboat from a builder of sailing cats.
+ | magazine = Yachting
+ | date = October 3, 2007
+ | url = http://www.yachtingmagazine.com/lagoon-power-43
+ | access-date = 2016-01-25}}</ref>
+
+The Swiss-registered [[Wave-piercing hull|wave-piercing]] catamaran, ''[[Tûranor PlanetSolar]]'', which was launched in March 2010, is the world's largest [[solar energy|solar powered]] boat. It completed a [[circumnavigation]] of the globe in 2012.<ref name="Gieffers">{{cite web|title=Ankunft in Monaco: Solarboot schafft Weltumrundung in 584 Tagen |language=German | first=Hanna |last=Gieffers |work=[[Spiegel Online]] |date=May 4, 2012 | accessdate=May 5, 2012 |url=http://www.spiegel.de/reise/aktuell/planetsolar-solarboot-kehrt-von-weltreise-zurueck-a-831418.html}}</ref>
+
+===Passenger transport===
+The 1970s saw the introduction of catamarans as a [[High-speed craft|high-speed]] [[ferry|ferries]], as pioneered by [[Westermoen Hydrofoil]] in [[Mandal, Norway|Mandal]], Norway, which launched the [[Westamaran]] design in 1973.<ref>
+{{cite web
+ | url = http://www.classicfastferries.com/cff/pdf/cff_2003_7.pdf
+ | title = First Westamaran Revisited
+ | date = October 7, 2003
+ | publisher = Classic Fast Ferries
+}},</ref> The ''[[HSC Stena Voyager|Stena Voyager]]'' was an example of a large, fast ferry, typically traveling at a speed of {{convert|46|mph|km/h}}, although it was capable of doing over {{convert|70|mph|km/h}}.<ref>
+{{cite news
+ | last = Bowen
+ | first = David
+ | title = Forget the tunnel; all the talk on the high seas is of {{convert|50|mph|0|abbr=on}} super ferries. And Britain doesn't make any of them
+ | newspaper = The Independent
+ | location = London
+ | date = May 4, 1996
+ | url = https://www.independent.co.uk/news/business/forget-the-tunnel-all-the-talk-on-the-high-seas-is-of-50mph-super-ferries-and-britain-doesnt-make-1345677.html
+ | access-date = 2016-01-29}}</ref>
+
+===Military===
+[[Military Sealift Command]] currently operates several [[Spearhead-class joint high speed vessel|Expeditionary Fast Transport]] catamarans which are owned by the U.S. Navy.<ref>{{Cite web|title = Strategic Sealift (PM3)|url = http://www.msc.navy.mil/PM3/|website = www.msc.navy.mil|accessdate = 2015-11-01|deadurl = yes|archiveurl = https://web.archive.org/web/20080627195734/http://www.msc.navy.mil/PM3/|archivedate = June 27, 2008|df = mdy-all}}</ref> These are employed for the high speed transport of military cargo and are able to get into shallow ports due to their small draft.
+
+The [[Makar-class survey catamaran|''Makar''-class]] is a class of two large catamaran-hull survey ships built for the [[Indian Navy]]. As of 2012, one vessel, [[INS Makar (J31)]], was in service and the second was under construction.<ref>{{cite news|title=INS Makar commissioned into the Indian Navy|url=http://articles.economictimes.indiatimes.com/2012-09-21/news/34002314_1_indian-navy-surveys-western-naval-command|accessdate=September 1, 2013|newspaper=Economic Times|date=September 21, 2012}}</ref>
+
+First launched in 2004 at Shanghai, the [[Houbei class missile boat]] of the [[People's Liberation Army Navy]] (PLAN) utilizes a catamaran hull designed to accommodate the vessel's stealth features.<ref name="Wired">{{cite web |url=https://www.wired.com/dangerroom/2011/08/china-builds-warships/2/ |title=China Builds Fleet of Small Warships While U.S. Drifts |last=Axe|first=David |date=August 4, 2011|publisher=Wired.com|accessdate=2012-02-04}}</ref>
+
+===SWATH===
+{{main|Small-waterplane-area twin hull}}
+The [[small-waterplane-area twin hull]] (SWATH) configuration reduces wave-generating resistance by moving displacement volume below the waterline, using a pair of tubular, submarine-like hulls, connected by pylons to the bridge deck with a narrow waterline cross-section. The submerged hulls are minimally affected by waves.<ref name = Misra/> The SWATH form was invented by Canadian [[Frederick G. Creed]], who presented his idea in 1938 and was later awarded a British patent for it in 1946. It was first used in the 1960s and 1970s as an evolution of catamaran design for use as oceanographic research vessels or [[submarine]] rescue ships.<ref>
+{{cite book
+ | last = Helfers
+ | first = John
+ | title = The Unauthorized Dan Brown Companion
+ | publisher = Kensington Publishing Corp.
+ | date = 2006
+ | pages = 271
+ | url = https://books.google.com/books?id=_v1QMucvtUYC&pg=PA271&dq=SWATH+Frederick+G.+Creed&hl=en&sa=X&ved=0ahUKEwjEh7PnxsvKAhXGKB4KHe5FABcQ6AEIRjAJ#v=onepage&q=SWATH%20Frederick%20G.%20Creed&f=false
+ | access-date = 2016-01-27
+ | isbn = 0806535806 }}</ref> In 1990, the US Navy commissioned the construction of a SWATH ship to test the configuration.<ref>
+{{cite book
+ | title = Jane's high-speed marine craft
+ | publisher = Jane's Information Group
+ | edition = 24
+ | date = 1991
+ | page = 
+ | url = https://books.google.com/books?id=5XQZAQAAIAAJ&q=SWATH+Thomas+G.+Lang&dq=SWATH+Thomas+G.+Lang&hl=en&sa=X&ved=0ahUKEwiZkOWsxcvKAhWJFx4KHfopDGcQ6AEILDAB
+ | access-date = 2016-01-27
+ | isbn = 0710612664 }}</ref>
+
+SWATH vessels compare with conventional powered catamarans of equivalent size, as follows:<ref name = Misra>
+{{cite book
+ | last = Misra
+ | first = Suresh Chandra
+ | title = Design Principles of Ships and Marine Structures
+ | publisher = CRC Press
+ | date = 2015
+ | page =
+ | url = https://books.google.com/books?id=8o_wCgAAQBAJ&dq=SWATH+ship&source=gbs_navlinks_s
+ | access-date = 2016-01-27
+ | isbn = 1482254476 }}</ref>
+*Larger wetted surface, which causes higher skin friction drag.
+*Significant reduction in wave-induced drag, with the configuration of struts and submerged hull structures.
+*Lower water plane area significantly reduces pitching and heaving in a seaway.
+*No possibility of planing.
+*Higher sensitivity to loading, which may bring the bridge structure closer to the water.
+
+===Wave-piercing===
+[[Wave-piercing hull|Wave-piercing]] catamarans employ a low-buoyancy bow on each hull that is pointed at the water line and rises aft, up to a level, to allow each hull to pierce waves, rather than ride over them. This allows higher speeds through waves than for a conventional catamaran. They are distinguished from SWATH catamarans, in that the buoyant part of the hull is not tubular. The spanning bridge deck may be configured with some of the characteristics of a normal V-hull, which allows it to penetrate the crests of waves.<ref>
+{{cite book
+ | last = Husick
+ | first = Charles B.
+ | title = Chapman  Piloting, Seamanship and Small Boat Handling
+ | publisher = Sterling Publishing Company, Inc.
+ | page = 16
+ | date = 2009
+ | url = https://books.google.com/books?id=S4FwbS8StvEC&pg=PA16&dq=wave-piercing+catamaran&hl=en&sa=X&ved=0ahUKEwiP6fOh-sfKAhXLbT4KHb9SCEUQ6AEIOjAI#v=onepage&q=wave-piercing%20catamaran&f=false
+ | access-date = 2016-01-26
+ | isbn = 9781588167446 }}</ref>
+
+Wave-piercing catamaran designs have been employed for yachts,<ref>
+{{cite magazine
+ | last = Caprio
+ | first = Dennis
+ | title = Loomes 83
+ | magazine = Yachting
+ | volume = 190
+ | number = 1
+ | pages = 81–84
+ | issn = 0043-9940
+ | date = July 2001
+ | url = https://books.google.com/books?id=2ERAe-BngWsC&pg=PA81&dq=wave-piercing+catamaran&hl=en&sa=X&ved=0ahUKEwjc34mqp8jKAhWDNT4KHR-SDlw4ChDoAQgsMAM#v=onepage&q=wave-piercing%20catamaran&f=false
+ | access-date = 2016-01-26}}
+</ref> passenger ferries,<ref>
+{{cite book
+ | last = Yun
+ | first = Liang
+ | last2 = Bliault
+ | first2 = Alan
+ | title = High Performance Marine Vessels
+ | publisher = Springer Science & Business Media
+ | date = July 8, 2014
+ | page = 206
+ | url = https://books.google.com/books?id=3wcDzNJpXf0C&lpg=PA355&dq=wave-piercing%20catamaran&pg=PA206#v=onepage&q=passenger%20ferries&f=false
+ | access-date = 2016-01-26
+ | isbn = 978-1-4614-0868-0 }}
+</ref> and military vessels.<ref>
+{{cite news
+ | last = Brumley
+ | first = Jeff
+ | title = Unusual ship visits Mayport after 6-month deployment to African waters
+ | newspaper = Florida Times-Union
+ | location = Jacksonville
+ | date = October 5, 2011
+ | url = http://jacksonville.com/news/florida/2011-10-05/story/unusual-ship-visits-mayport-after-6-month-deployment-african-waters
+ | access-date = 2016-01-26}}
+</ref>
+
+==Whitewater catamarans==
+{{unreferenced section|date = February 2018}}
+[[File:Katamarans in Russia.jpg|thumb|right|Catamarans for whitewater sports. Picture was taken in Altai, Russia]]
+The catamarans for whitewater sports are widely spread in [[Post-Soviet states|post-Soviet countries]]. They consists of two inflatable hulls connected with a lattice scaffold. The frame of the tourist catamaran can be made of both - aluminum (duralumin) pipes, and from felled tree trunks. The inflatable part has two layers - airtight balloon with inflation holes and shell made of dense tissue, protecting the balloon from mechanical damage. 
+
+Advantages of such catamarans are light weight, compactness and convenience in transportation (the whole product is packed in one pack-backpack, suitable for air traffic standards), the speed of assembly (10-15 minutes for the inflation). Landing on such a catamaran can be a raft-type, as well as a sports knee-type.
+
+{{clear}}
+
+==See also==
+*[[Cobra Catamaran]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Further reading==
+*{{cite book
+|url=https://books.google.com/books?id=KYUDAAAACAAJ&dq=Aero-hydrodynamics+of+Sailing|title=Aero-Hydrodynamics of Sailing
+|isbn=1-888671-18-1
+|last= Marchaj
+|first=C. A.
+|publisher=Tiller Publishing
+}}
+*{{cite book
+|url=https://books.google.com/books?id=Z7JIAAAACAAJ&dq=Sail+Performance|title=Sail Performance
+|isbn=0-07-141310-3
+|last= Marchaj
+|first=C. A.
+|publisher=McGraw Hill
+|page=400 <!-- actual page or number of pages in book? -->
+}}{{dead link|date=October 2016}}
+*{{cite book
+|url=https://books.google.com/books?id=uLz2IAAACAAJ&dq=seaworthiness|title=Seaworthiness:The Forgotten Factor
+|isbn=1-888671-09-2
+|last= Marchaj
+|first=C. A.
+|publisher=Tiller Publishing
+|page=372 <!-- actual page or number of pages in book? -->
+}}{{dead link|date=October 2016}}
+
+{{Sailing Vessels and Rigs}}
+
+[[Category:Naval architecture]]
+[[Category:Shipbuilding]]
+[[Category:Catamarans|*]]
+[[Category:Multihulls]]
+[[Category:Ship types]]
+[[Category:Nautical terminology]]
+[[Category:Austronesian culture]]

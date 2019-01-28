@@ -1,0 +1,636 @@
+{{Redirect|Annapolis}}
+{{About|the state capital|the unincorporated community in Howard County|Annapolis Junction, Maryland}}
+{{Use mdy dates|date=December 2013}}
+{{Short description|Capital of Maryland}}
+{{Infobox settlement
+|name                     = Annapolis, Maryland
+|official_name            = City of Annapolis
+|settlement_type          = [[List of capitals in the United States|State capital city]]
+|image_skyline            = Some Annapolis commercial strip.jpg
+|imagesize                = 250px
+|image_caption            = Downtown Annapolis, Maryland
+|image_flag               = Flag of Annapolis, Maryland.png
+|image_shield             = annapolisCOA.png
+|nicknames                 = "America's Sailing Capital," "Sailing Capital of the World," "Naptown," "Crabtown on the Bay"
+|motto                    = "Vixi Liber Et Moriar"<br />(''"I have lived, and I shall die, free"'')
+|image_map                = Anne Arundel County Maryland Incorporated and Unincorporated areas Annapolis Highlighted.svg
+|mapsize                  =
+|map_caption              = Location within Anne Arundel County
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA Maryland#USA
+| pushpin_label = Annapolis
+| pushpin_map_caption = Location within Maryland##Location within the United States
+|pushpin_relief           = 1
+|coordinates              = {{coord|38|58|23|N|76|30|04|W|region:US-MD|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{US}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name1        = {{flag|Maryland|size=23px}}
+|subdivision_name2        = {{flagicon image|Flag of Anne Arundel County, Maryland.png|size=23px}} [[Anne Arundel County, Maryland|Anne Arundel]]
+|established_title        = Founded
+|established_date         = 1649
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1708
+|named_for = [[Anne, Queen of Great Britain|Princess Anne of Denmark & Norway]]
+|government_type          = 
+|leader_title             = [[Mayor of Annapolis|Mayor]]
+|leader_name              = [[Gavin Buckley]] ([[Democratic Party (United States)|D]])
+|leader_title1            = [[City Council]]
+|leader_name1             = {{Collapsible list
+|title                    = Council members|bullets=yes
+|frame_style              = border:none; padding: 0;
+|list_style               = text-align:left;display:yes;
+   |1 =  Eleanor "Elly" Tierney ([[Democratic Party (United States)|D]])
+   |2 = Fred Paone ([[Republican Party (United States)|R]])
+   |3 = Rhonda Pindell Charles ([[Democratic Party (United States)|D]])
+   |4 = Sheila Finlayson ([[Democratic Party (United States)|D]])
+   |5 = Marc Rodriguez ([[Democratic Party (United States)|D]])
+   |6 = Shaneka Henson ([[Democratic Party (United States)|D]])
+   |7 = Rob Savidge ([[Democratic Party (United States)|D]])
+   |8 = Ross H. Arnett III ([[Democratic Party (United States)|D]])
+  }}<ref>{{cite web
+   |url=http://www.msa.md.gov/msa/mdmanual/37mun/annapolis/html/a.html
+   |title=Municipalities: Annapolis
+   |date=January 9, 2014
+   |publisher=Maryland State Archives
+   |work=Maryland Manual On-Line
+   |accessdate=January 24, 2014
+}}</ref>
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2017 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2017_Gazetteer/2017_gaz_place_24.txt|publisher=United States Census Bureau|accessdate=Jan 2, 2019}}</ref>
+|area_magnitude           = 1 E7
+|area_total_km2           = 21.01
+|area_total_sq_mi         = 8.11
+|area_land_km2            = 18.67
+|area_land_sq_mi          = 7.21
+|area_water_km2           = 2.34
+|area_water_sq_mi         = 0.91
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+<!-- Population -->
+|area_metro_sq_mi         = 
+|elevation_m              = 12
+|elevation_ft             = 39
+|population_total         = 38394
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="QuickFacts" />
+|population_density_km2   = 2106.24
+|population_density_sq_mi = 5455.19
+|population_est           = 39321
+|pop_est_as_of            = 2017
+|population_urban         = 
+|population_metro         = 
+|population_demonym       = Annapolitan<ref>{{cite book|last=Garner|first=Bryan|title=Garner's Modern American Usage|year=2009|publisher=Oxford University Press|isbn=9780195382754|page=238|url=https://books.google.com/books?id=mVcJqKs1isUC&vq=annapolis&source=gbs_navlinks_s|edition=3}}</ref>
+|population_note          = 
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 21401-21405, 21409, 21411-21412
+|area_codes                = [[Area code 410|410]], [[Area code 443|443]]
+|website                  = [http://www.annapolis.gov/ www.annapolis.gov]
+|footnotes                = 
+|timezone                 = [[Eastern Time Zone|EST]]
+|utc_offset = −5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = −4
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-01600
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0595031
+|blank2_name              = [[Maryland highway system|Highways]]
+|blank2_info              = [[Interstate 97 in Maryland|I-97]], [[U.S. Route 50 in Maryland|US 50]], [[U.S. Route 301 in Maryland|US 301]], [[Maryland Route 2|MD 2]], [[Maryland Route 70|MD 70]], [[Maryland Route 178|MD 178]], [[Maryland Route 450|MD 450]], [[Maryland Route 665|MD 665]]
+|pop_est_footnotes = <ref name="USCensusEst2017"/>
+|unit_pref = Imperial
+}}
+
+'''Annapolis''' ({{IPAc-en|ə|ˈ|n|æ|p|əl|ᵻ|s}}) is the capital of the U.S. state of [[Maryland]], as well as the [[county seat]] of [[Anne Arundel County, Maryland|Anne Arundel County]]. Situated on the [[Chesapeake Bay]] at the mouth of the [[Severn River (Maryland)|Severn River]], {{convert|25|mi|km}} south of [[Baltimore]] and about {{convert|30|mi|km|sigfig=1}} east of [[Washington, D.C.]], Annapolis is part of the [[Baltimore–Washington metropolitan area]]. Its population was measured at 38,394 by the [[2010 United States Census|2010 census]].
+
+This city served as the seat of the [[Confederation Congress]] (former Second [[Continental Congress]]) and temporary national capital of the United States in 1783–1784. At that time, General [[George Washington]] came before the body convened in the new [[Maryland State House]] and [[George Washington's resignation as commander-in-chief|resigned his commission as commander]] of the [[Continental Army]]. A month later, the Congress ratified the [[Treaty of Paris (1783)|Treaty of Paris]] of 1783, ending the [[American Revolutionary War]], with [[Kingdom of Great Britain|Great Britain]] recognizing the independence of the United States.
+The city and state capitol  was also the site of the [[Annapolis Convention (1786)|1786 Annapolis Convention]], which issued a call to the states to send delegates for the [[Constitutional Convention (United States)|Constitutional Convention]] to be held the following year in [[Philadelphia, Pennsylvania|Philadelphia]]. Over 220 years later, the [[Annapolis Conference|Annapolis Peace Conference]], was held in 2007. Annapolis is the home of [[St. John's College (Annapolis/Santa Fe)|St. John's College]], founded 1696; the [[United States Naval Academy]], established 1845, is adjacent to the city limits.<!--USN is not in the Annapolis city limits: https://www.annapolis.gov/DocumentCenter/View/6004/ZoningStreetIndex2016?bidId=-->
+
+==History==
+
+===Colonial and early United States (1649–1808)===
+[[File:Annapolis Old Treasury Building from 1735 by D Ramey Logan.jpg|thumb|The "Old Treasury Building" on State Circle (adjacent to the [[Maryland State House]]) was built in 1735 and is the oldest standing government building in Annapolis.]]
+[[File:View of Annapolis in 1797 (NYPL b12612010-423603).tiff|thumb|''View of Annapolis in 1797'', [[New York Public Library]]]]
+A settlement in the [[Province of Maryland]] named "Providence" was founded on the north shore of the [[Severn River (Maryland)|Severn River]] on the middle [[Western Shore of Maryland|Western Shore]] of the [[Chesapeake Bay]] in 1649 by [[Puritan]] exiles from [[Colony of Virginia|the Province/Dominion of Virginia]] led by third Proprietary Governor [[William Stone (Maryland governor)|William Stone]] (1603–1660). The settlers later moved to a better-protected harbor on the south shore. The settlement on the south shore was initially named "Town at Proctor's," then "Town at the Severn," and later "[[Anne Arundel]]'s Towne" (after Lady [[Anne Arundell|Ann Arundell]] (1616-1649), the wife of [[Cecil Calvert, 2nd Baron Baltimore|Cecilus Calvert, second Lord Baltimore]], who died soon afterwards).<ref name="Annals">{{cite book|url=https://books.google.com/books/about/Annals_of_Annapolis.html?id=ycoLAAAAYAAJ|title=Annals of Annapolis|editor=David Ridgely|publisher=Cushing & Brother|year=1841|pages=34, 35}}</ref>
+
+In 1654, after the [[Third English Civil War]], [[Parliamentary]] forces assumed control of the Maryland colony and Stone went into exile further south across the [[Potomac River]] in [[Virginia]]. Per orders from [[Charles Calvert, 5th Baron Baltimore|Charles Calvert, fifth Lord Baltimore]], Stone returned the following spring at the head of a [[Cavalier]] royalist force, loyal to the  [[King of England]].  On March 25, 1655, in what is known as the [[Battle of the Severn]] (first colonial naval battle in [[North America]]), Stone was defeated, taken prisoner, and replaced by [[Josias Fendall|Lt. Gen. Josias Fendall]] (1628–1687) as fifth Proprietary [[Governor of Maryland|Governor]]. Fendall governed Maryland during the latter half of the [[English Commonwealth|Commonwealth]] period in [[England]]. In 1660, he was replaced by [[Phillip Calvert (governor)|Phillip Calvert]] (1626–1682) as fifth/sixth [[Governor of Maryland]], after the [[restoration (Colonies)|restoration]] of [[Charles II of England|Charles II]] (1630–1685) as [[King of England|King]] in [[Kingdom of England|England]].
+
+In 1694, soon after the overthrow of the Catholic government of second Royal Governor [[Thomas Lawrence (Governor of Maryland)|Thomas Lawrence]] (1645-1714), then third Royal Governor [[Francis Nicholson]] (1655-1727/28, served 1694-1698), moved the capital of the royal colony, the [[Province of Maryland]], to Anne Arundel's Towne and renamed the town Annapolis after [[Anne, Queen of Great Britain|Princess Anne of Denmark and Norway]], soon to be the [[queen regnant|Queen Anne]] of [[Kingdom of Great Britain|Great Britain]] (1665-1714, reigned 1702-1714). Annapolis was incorporated as a city in 1708.<ref>{{cite journal|last=Huston|first=John W.|title=Annapolis: an eighteenth-century analysis|journal=Conspectus of History|year=1977|volume=1|issue=4|page=49|url=http://libx.bsu.edu/cdm4/document.php?CISOROOT=/ConspectusH&CISOPTR=139&REC=1}}</ref>
+
+17th-century Annapolis was little more than a village, but it grew rapidly for most of the 18th century until the [[American Revolutionary War]] as a political and administrative capital, a [[port of entry]], and a major center of the [[Atlantic slave trade]].<ref>{{cite book|last1=McWilliams|first1=Jane W.|title=Annapolis, City on the Severn: A History|date=2011|publisher=Johns Hopkins University Press}}</ref> The ''[[Maryland Gazette]]'', which became an important weekly journal, was founded there by Jonas Green<ref>{{cite web|url=http://www.bsos.umd.edu/ANTH/aia/Green%20Print%20Shop.htm |title=Green Print Shop |publisher=Archaeology in Annapolis |author=William J. Cochran |year=2001 |deadurl=yes |archiveurl=https://web.archive.org/web/20081205195420/http://www.bsos.umd.edu/ANTH/aia/Green%20Print%20Shop.htm |archivedate=December 5, 2008 }}</ref><ref>{{cite web
+   |url=https://www.loc.gov/rr/news/18th/104.html
+   |title=Eighteenth-Century American Newspapers in the Library of Congress
+   |date= July 1, 2005
+   |publisher=The Library of Congress
+}}</ref> in 1745; in 1769 a theatre was opened; during this period also the commerce was considerable, but declined rapidly after Baltimore, with its deeper harbor, was made a port of entry in 1780.<ref name="EB1911">{{EB1911|inline=y|wstitle=Annapolis, Maryland |volume=2 |pages=63–64}} Endnotes:
+* D. Ridgely, ''Annals of Annapolis from 1649 until the War of 1812'' (Baltimore, 1841)
+* S. A. Shafer, "Annapolis, Ye Ancient City," in L. P. Powell's ''Historic Towns of the Southern States'' (New York, 1900)
+* W. Eddis, ''Letters from America'' (London, 1792).</ref> Water trades such as oyster-packing, boatbuilding and sailmaking became the city's chief industries. Annapolis is home to a large number of recreational boats that have largely replaced the seafood industry in the city.
+
+[[Alexander Hamilton (Maryland doctor)|Dr. Alexander Hamilton]] (1712–1756) was a Scottish-born doctor and writer who lived and worked in Annapolis.  Leo Lemay says his 1744 travel diary ''Gentleman's Progress: The Itinerarium of Dr. Alexander Hamilton'' is "the best single portrait of men and manners, of rural and urban life, of the wide range of society and scenery in colonial America." <ref>J.A. Leo Lemay, ''Men of Letters in Colonial Maryland'' (1972) p 229.</ref>
+
+[[File:General George Washington Resigning his Commission.jpg|thumb|right|Painting by [[John Trumbull]] of ''[[General George Washington Resigning His Commission]]'' on December 23, 1783, in the Maryland State House]]
+Annapolis became the temporary capital of the United States after the signing of the [[Treaty of Paris (1783)|Treaty of Paris]] in 1783. Congress was in session in the [[Maryland State House|state house]] from November 26, 1783 to June 3, 1784, and it was in Annapolis on December 23, 1783, that [[George Washington in the American Revolution|General]] [[George Washington|Washington]] resigned his commission as commander-in-chief of the Continental Army.<ref name="EB1911"/>
+
+[[File:John Shaw Flag (Red First).svg|thumb|right|200px|John Shaw Flag (red-first variation)]]
+[[File:John Shaw Flag (White First).svg|thumb|right|200px|John Shaw Flag (white-first variation)]]
+For the 1783 Congress, the Governor of Maryland commissioned John Shaw, a local cabinet maker, to create an American flag. The flag is slightly different from other designs of the time. The blue field extends over the entire height of the hoist. Shaw created two versions of the flag: one which started with a red stripe and another that started with a white one.<ref>{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2009/06/12/AR2009061203917.html|title=A Corrected Replica of the Flag From Maryland's 1783 State House Will Be Raised|work=The Washington Post|date=June 13, 2009|author=Mike Peed}}</ref><ref>{{cite web|url=http://msa.maryland.gov/msa/mdstatehouse/pdf/shawflag.pdf|title=A John Shaw Flag for the Maryland State House|publisher=Maryland State Archives|accessdate=January 29, 2014}}</ref>
+
+In 1786, delegates from all states of the Union were invited to meet in Annapolis to consider measures for the better regulation of commerce. Delegates from only five states—[[New York (state)|New York]], [[Pennsylvania]], [[Virginia]], [[New Jersey]], and [[Delaware]]—actually attended the convention, known afterward as the "[[Annapolis Convention (1786)|Annapolis Convention]]." Without proceeding to the business for which they had met, the delegates passed a resolution calling for another convention to meet at [[Philadelphia]] in the following year to amend the Articles of Confederation. The Philadelphia convention drafted and approved the Constitution of the United States, which is still in force.<ref name="EB1911"/>
+
+<br />
+
+=== Civil War era (1849 – late 1800s) ===
+On April 24, 1861, the midshipmen of the Naval Academy relocated their base in Annapolis and were temporarily housed in Newport, Rhode Island until October 1865.<ref>{{Cite journal|last=Munch|first=Vincent A.|date=March 2001|title=NewsLibrary2001145NewsLibrary. Internet URL: http://www.newslibrary.com: Media Stream 2000.  Price: $1.95 per article (minimum) Date last accessed: 21 November 2000|url=http://dx.doi.org/10.1108/rr.2001.15.3.17.145|journal=Reference Reviews|volume=15|issue=3|pages=17–17|doi=10.1108/rr.2001.15.3.17.145|issn=0950-4125}}</ref>
+
+In 1861, the first of three camps that were built for holding paroled soldiers was created on the campus of [[St. John's College (Annapolis/Santa Fe)|St. John's College]]. The second location of [[Camp Parole, Annapolis|Camp Parole]] would house over 20,000 and would be located where Forest Drive is currently. The third and final location was finished in late 1863 and would be placed near the Elkridge Railroad, as to make transportation of soldiers and resources easier before and allowing the camp to grow to its highest numbers.<ref>{{Cite web|url=http://dx.doi.org/10.3886/icpsr04555|title=Current Population Survey, August 2005: Veterans Supplement|date=2008-04-04|website=ICPSR Data Holdings|access-date=2018-12-09}}</ref> This area just west of the city is still referred to as [[Parole, Maryland|Parole]]. The soldiers who did not survive were buried in the [[Annapolis National Cemetery]].<ref>{{Cite web|url=https://www.hmdb.org/marker.asp?marker=66303|title=Camp Parole Historical Marker|website=www.hmdb.org|access-date=2018-12-09}}</ref>
+
+=== Contemporary Era ===
+In 1900, Annapolis had a population of 8,585.
+
+On December 21, 1906, Henry Davis was lynched in the city. He was suspected of assaulting a local woman. Nobody was ever tried for the crime.
+
+During World War II, shipyards in Annapolis built a number of PT Boats, and military vessels such as minesweepers and patrol boats were built in Annapolis during the Korean and Vietnam wars. It was at Annapolis in July 1940 that [[Grand Duchess Charlotte of Luxembourg]] arrived in exile during World War II.
+
+In the summer of 1984, the Navy Marine Corps Memorial Stadium in Annapolis hosted soccer games as part of the [[1984 Summer Olympics|XXIII Olympiad]].
+
+During September 18–19, 2003, [[Hurricane Isabel]] created the largest storm surge known in Annapolis's history, cresting at 7.58 ft (2.31 m). Much of downtown Annapolis was flooded and many businesses and homes in outlying areas were damaged. The previous record was 6.35 feet (1.94 m) during a hurricane in 1933, and 5.5 ft (1.7 m) during [[Hurricane Hazel]] in 1954.
+
+From mid-2007 through December 2008, the city celebrated the 300th anniversary of its 1708 Royal Charter, which established democratic self-governance. The many cultural events of this celebration were organized by Annapolis Charter 300.
+
+On June 28th, 2018, at the Capital Gazette, a gunman opened fire, killing five journalists and injuring two more. The perpetrator of the [[Capital Gazette shooting]] was Jarrod Ramos.<ref>{{Cite news|url=https://www.nytimes.com/2018/06/29/us/jarrod-ramos-annapolis-shooting.html|title=Maryland Shooting Suspect Had Long-Running Dispute With Newspaper|last=Williams|first=Timothy|date=2018-06-29|work=The New York Times|access-date=2018-12-09|last2=Harmon|first2=Amy|language=en-US|issn=0362-4331}}</ref>
+
+====2007 Annapolis Conference====
+{{Main|Annapolis Conference}}
+As announced by [[United States Secretary of State]] [[Condoleezza Rice]], Annapolis was the venue for a Middle East summit dealing with the [[Israeli–Palestinian peace process]], with the participation of Israeli Prime Minister [[Ehud Olmert]], Palestinian President [[Mahmoud Abbas]] ("[[Abu Mazen]]") and various other leaders from the region. The conference was held on Monday, November 26, 2007.
+
+==Notable institutions==
+[[File:Maryland State House from Church Circle.JPG|thumb|right|Maryland State House as seen from Church Circle]]
+
+===The State House===
+The [[Maryland State House]] is the oldest in continuous legislative use in the United States. Construction started in 1772, and the Maryland legislature first met there in 1779. It is topped by the largest wooden dome built without nails in the country. The Maryland State House housed the workings of the United States government from November 26, 1783, to August 13, 1784, and the [[Treaty of Paris (1783)|Treaty of Paris]] was ratified there on January 14, 1784, so Annapolis became the first peacetime capital of the U.S.<ref>{{cite web
+   |url=http://www.hometownannapolis.com/tour_statehouse.html
+   |title=The State House and its Dome
+   |publisher= Capital Gazette Communications, Inc.
+   |year=2008
+   |accessdate=October 18, 2008
+| archiveurl= https://web.archive.org/web/20081015215214/http://hometownannapolis.com/tour_statehouse.html| archivedate= October 15, 2008 | deadurl= no}}</ref><ref name="State House">{{cite web|url=http://msa.maryland.gov/msa/mdstatehouse/html/story.html|title=History of the State House and Its Dome|publisher=Maryland State Archives|accessdate=January 29, 2014}}</ref>
+
+It was in the Maryland State House that [[George Washington]] famously resigned his commission before the [[Continental Congress]] on December 23, 1783.<ref name="State House" />
+
+===United States Naval Academy===
+[[File:bfc annapolis md usna bancroft hall 01w.jpg|thumb|right|US Naval Academy, [[Bancroft Hall]] (c. 1908)]]
+The [[United States Naval Academy]] was founded in 1845 on the site of [[Fort Severn]], and now occupies an area of land [[Land reclamation|reclaimed]] from the [[Severn River (Maryland)|Severn River]] next to the [[Chesapeake Bay]]. The Annapolis area was the home of a [[VLF]]-transmitter called [[NSS Annapolis]], which was used by the United States Navy to communicate with its Atlantic submarine fleet. Students that attend the Naval Academy are enrolled in school for four years with a following five year commitment to serving in the Marine Corps or Navy. There is a typical average of around 4,500 students enrolled.
+
+===St. John's College===
+[[St. John's College (Annapolis/Santa Fe)|St. John's College]] is a non-sectarian private college that was once supported by the state. It was opened in 1789 as the successor of King William's School, which was founded by an act of the Maryland legislature in 1696 and was opened in 1701. Its principal building, McDowell Hall, was originally to be the governor's mansion; although £4,000 was appropriated to build it in 1742, it was not completed until after the War of Independence.<ref name="EB1911" /><ref>{{cite web|url=http://www.stjohnscollege.edu/about/history.shtml|title=A Brief History of St. John’s College|publisher=St. John's College|accessdate=January 29, 2014}}</ref>
+
+St. John's has a second campus in [[Santa Fe, New Mexico|Sante Fe, New Mexico]]. Students are able to choose between the two campuses and switch at any point in their education. The curriculum of St. John's relies heavily on the use of literature with their Great Books Curriculum, which focuses on texts of Western Civilization. Each year, students are required to participate in a seminar-style course to discuss the assigned works. This program has been highlighted as one that is unique to St. John's and requires the students to become well-versed through reading about political science, philosophy, math, language, and many more topics.
+
+===Theater===
+Annapolis has a thriving community theater scene which includes two venues in the historic district.
+
+On East Street, [[Colonial Players]] produces approximately six shows a year in its 180-seat theater. ''[[A Christmas Carol]]'' has been a seasonal tradition in Annapolis since it opened at the Colonial Players theater in 1981. Based on the play by [[Charles Dickens]], the 90-minute production by the Colonial Players is an original musical adaptation, with play and lyrics by Richard Wade and music by Dick Gessner. Colonial Players, Inc. is a nonprofit organization founded in 1949. Its first production, ''[[The Male Animal]]'', was performed in 1949 at the Annapolis Recreation Center on Compromise Street. In 1955, the organization moved to its venue in a former automotive repair shop on East Street.<ref>{{cite news|url=http://www.mdtheatreguide.com/2012/12/theatre-review-a-christmas-carol-at-colonial-players-of-annapolis/|title=Theatre Review: ‘A Christmas Carol’ at Colonial Players of Annapolis|work=MD Theatre Guide|author=Rebecca Wyrick|date=December 12, 2012}}</ref><ref>{{cite web|url=http://thecolonialplayers.org/index.php/about-cp/about-cp-page|title=Our History|publisher=The Colonial Players, Inc.|accessdate=January 27, 2014}}</ref>
+
+During the warmer months, [[Annapolis Summer Garden Theatre]] presents three shows on its outdoor stage, which is visible from the City Dock. A nonprofit organization, Annapolis Summer Garden Theatre has been providing "theatre under the stars" since 1966, when it performed ''[[You Can't Take It with You (play)|You Can't Take It with You]]'' and ''[[Brigadoon]]'' at Carvel Hall Hotel. It began leasing its site at 143 Compromise Street, the former location of the Shaw Blacksmith Shop, in 1967, and became owner of the property in 1990.<ref>{{cite web|url=http://www.summergarden.com/ourhistory.html |title=About Us: Our History |publisher=Annapolist Summer Garden Theatre |accessdate=January 27, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20131208070139/http://summergarden.com/ourhistory.html |archivedate=December 8, 2013 |df=mdy }}</ref><ref>{{cite news|url=http://www.mdtheatreguide.com/2013/08/theatre-review-into-the-woods-at-annapolis-summer-garden-theatre/|title=Theatre Review: ‘Into the Woods’ at Annapolis Summer Garden Theatre|work=MD Theatre Guide|author=Danielle Angeline|date=August 8, 2013}}</ref><ref>{{cite web|url=http://www.summergarden.com/theatre.html |title=About Our Theatre |publisher=Annapolis Summer Garden Theatre |accessdate=January 27, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20131208072239/http://summergarden.com/theatre.html |archivedate=December 8, 2013 |df=mdy }}</ref>
+
+The Naval Academy Masqueraders, a theater group at the United State Naval Academy, produces one "main-stage show" each fall and student-directed one-act plays in the spring. Founded in 1847, the Masqueraders is the oldest extracurricular activity at the
+Naval Academy. Its shows, performed in Mahan Hall, are selected to support the Academy's English curriculum.<ref>{{cite news|url=http://www.baltimorenewsjournal.com/2013/11/15/naval-academy-masqueraders-opening-performance-tonight-of-oscar-wildes-the-importance-of-being-earnest/ |title=Naval Academy Masquerader’s opening performance tonight |work=Baltimore News Journal |date=November 15, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131121224515/http://www.baltimorenewsjournal.com/2013/11/15/naval-academy-masqueraders-opening-performance-tonight-of-oscar-wildes-the-importance-of-being-earnest/ |archivedate=November 21, 2013 |df=mdy }}</ref>
+
+The King William Players, a student theater group at [[St. John's College (Annapolis/Santa Fe)|St. John's College]], holds two performances each semester in the college's Francis Scott Key Auditorium. Admission is usually free and open to the public.<ref>{{cite web|url=http://www.stjohnscollege.edu/events/AN/theater.shtml |title=Annapolis Theater: King William Players |publisher=St. Johns College |accessdate=January 27, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140221184911/http://www.stjohnscollege.edu/events/AN/theater.shtml |archivedate=February 21, 2014 |df=mdy }}</ref>
+
+===Museums, historical sites, and monuments===
+[[File:Annapolis Harbor alongside Dock Street by D Ramey Logan.jpg|thumb|upright=1.2|Over Annapolis Harbor & Dock Street]]
+[[File:Maryland World War II Memorial.jpg|thumb|right|upright=1.2|Maryland World War II Memorial]]
+The [[Banneker-Douglass Museum]], located in the historic Mount Moriah Church at 87 Franklin Street, documents the history of African Americans in Maryland. Since its opening on February 24, 1984, the museum has provided educational programs, rotating exhibits, and a research facility. Admission is free.<ref>{{cite web|url=http://www.bdmuseum.com/|title=Banneker-Douglass Museum 30th Anniversary|date=November 7, 2013|publisher=Maryland Commission on African American History and Culture}}</ref>
+
+[[U.S. Naval Academy Museum|Preble Hall]], named for [[Edward Preble]], houses the U.S. Naval Academy Museum, founded in 1845. Its Beverley R. Robinson Collection contains 6,000 prints depicting European and American naval history from 1514 through World War II. It is also home to one of the world's best ship model collections, donated by [[Henry Huttleston Rogers]]. Rogers's donation was the impetus for the construction of Preble Hall. The museum has approximately 100,000 visitors each year.<ref>{{cite web|url=http://www.usna.edu/Museum/|title=USNA Museum|publisher=U.S. Naval Academy|accessdate=January 29, 2014}}</ref>
+
+The [[Hammond-Harwood House]], located at 19 Maryland Avenue, was built in 1774 for Matthias Hammond, a wealthy Maryland farmer. Its design was adapted by [[William Buckland (architect)|William Buckland]] from [[Andrea Palladio]]'s [[Villa Pisani]] to accommodate American Colonial regional preferences. Since 1940, when the house was purchased from St. John's College by the Hammond-Harwood House Association, it has served as a museum exhibiting a collection of John Shaw furniture and [[Charles Willson Peale]] paintings. Its exterior and interior preserve the original architecture of a mansion from the late Colonial period.<ref>{{cite web|url=http://www.hammondharwoodhouse.org/index.php?id=33|title=The Palladian Connection|publisher=Hammond-Harwood House Association, Inc|accessdate=January 28, 2014}}</ref><ref>{{cite web|url=http://www.hammondharwoodhouse.org/|title=Visit Hammond-Harwood|publisher=Hammond-Harwood House Association, Inc|accessdate=January 28, 2014}}</ref>
+
+The [[Kunta Kinte]]-[[Alex Haley]] memorial, located at the head of the city's harbor, commemorates the arrival point of Alex Haley's African ancestor, Kunta Kinte, whose story is related in Haley's book ''Roots''. A sculpture group at the memorial site portrays Alex Haley seated, reading from a book to three children. The final phase of the memorial's construction was completed in 2002.<ref>{{cite web|url=http://www.kuntakinte.com/memorial.html |title=The Kunta Kinte-Alex Haley Memorial |accessdate=January 27, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140701185019/http://www.kuntakinte.com/memorial.html |archivedate=July 1, 2014 |df=mdy }}</ref>
+
+The [[Paca House and Garden]] encompasses an 18th-century Georgian mansion constructed by [[William Paca]], a signer of the Declaration of Independence. The property includes a terraced garden that has been restored to its colonial-era design.<ref>{{cite web|url=http://mht.maryland.gov/nr/NRDBDetail.aspx?HDID=66&COUNTY=&SEARCHTYPE=propertySearch&PROPNAME=paca&STREETNAME=&CITYNAME=&KEYWORD= |title=Governor William Paca House and Garden |publisher=Maryland Historical Trust |accessdate=January 29, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20141126235644/http://mht.maryland.gov/nr/NRDBDetail.aspx?HDID=66&COUNTY=&SEARCHTYPE=propertySearch&PROPNAME=paca&STREETNAME=&CITYNAME=&KEYWORD= |archivedate=November 26, 2014 |df= }}</ref>
+
+Annapolis often serves as the end point for the 3,000-mile annual transcontinental [[Race Across America]] bicycle race.
+
+To the north of the state house is a monument to [[Thurgood Marshall]], the first black justice of the [[US Supreme Court]] and formerly a Maryland lawyer who won many important [[civil rights]] cases.
+
+Located just before the Naval Academy Bridge is the World War II Memorial, which was constructed in 1998 to symbolize the sacrifice made by the 275,000 citizens from Maryland who joined the service to fight in the war. The memorial is composed of 48 granite columns to represent the 48 states at the time of the war surrounding an amphitheater in which are the names of 6,454 men who gave their lives in the war. Directly behind the memorial are both the Maryland, and United States flags, and a star shaped column with a seven sided base to represent Maryland being the seventh state in the Union.<ref>{{Cite news|url=|title=Around Maryland|last=|first=|date=1995|work=The Washington Post|access-date=}}</ref>
+
+==Geography and climate==
+[[File:Annapolis Maryland.jpg|thumb|left|Early-March 2002 astronaut photography of Annapolis Maryland taken from the International Space Station (ISS)]]
+Located {{convert|25|mi}} south of Baltimore and {{convert|30|mi}} east of Washington D.C., Annapolis is the closest state capital to the national capital.<ref>{{cite web|url=http://msa.maryland.gov/msa/mdmanual/01glance/html/capital.html|title=Annapolis|work=Maryland Manual On-Line|publisher=Maryland State Archives|accessdate=January 24, 2014}}</ref>
+
+The city is a part of the Atlantic Coastal Plain, and is relatively flat, with the highest point being only {{convert|50|ft}} above sea level.
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|8.10|sqmi|sqkm|2}}, of which {{convert|7.18|sqmi|sqkm|2}} is land and {{convert|0.92|sqmi|sqkm|2}} is water.<ref name="QuickFacts">{{cite web|title=Annapolis (city), Maryland 2010|url=http://quickfacts.census.gov/qfd/states/24/2401600.html|work=State & County QuickFacts|publisher=[[United States Census Bureau]]|accessdate=January 24, 2014}}</ref><ref name="USA">{{cite web|url=http://www.usa.com/annapolis-md.htm|title=Annapolis, MD|work=USA.com|accessdate=January 24, 2014}}</ref>
+
+Annapolis lies within the [[humid subtropical climate]] zone ([[Köppen climate classification|Köppen]] ''Cfa''), with hot, humid summers, cool winters, and generous precipitation year-round. Low elevation and proximity to the Chesapeake Bay give the area more moderate spring and summertime temperatures and slightly less extreme winter lows than locations further inland, such as Washington, D.C.
+
+{{Weather box
+|location = Annapolis, Maryland (1981–2010 normals)
+|single line = Y
+|Jan high F = 42.7
+|Feb high F = 45.5
+|Mar high F = 53.2
+|Apr high F = 63.9
+|May high F = 72.9
+|Jun high F = 81.6
+|Jul high F = 85.8
+|Aug high F = 84.0
+|Sep high F = 76.9
+|Oct high F = 66.3
+|Nov high F = 56.9
+|Dec high F = 46.8
+|year high F =64.8
+|Jan low F = 29.1
+|Feb low F = 30.7
+|Mar low F = 36.9
+|Apr low F = 45.8
+|May low F = 55.6
+|Jun low F = 66.4
+|Jul low F = 71.2
+|Aug low F = 69.1
+|Sep low F = 62.8
+|Oct low F = 50.5
+|Nov low F = 41.8
+|Dec low F = 31.9
+|year low F =49.4
+|Jan record high F =  77
+|Feb record high F =  75
+|Mar record high F =  85
+|Apr record high F =  91
+|May record high F =  91
+|Jun record high F = 100
+|Jul record high F = 103
+|Aug record high F = 102
+|Sep record high F =  93
+|Oct record high F =  90
+|Nov record high F =  78
+|Dec record high F =  72
+|Jan record low F =  5
+|Feb record low F =  3
+|Mar record low F = 14
+|Apr record low F = 24
+|May record low F = 38
+|Jun record low F = 49
+|Jul record low F = 59
+|Aug record low F = 56
+|Sep record low F = 44
+|Oct record low F = 30
+|Nov record low F = 18
+|Dec record low F =  9
+|precipitation colour = green
+|Jan precipitation inch = 3.32
+|Feb precipitation inch = 2.94
+|Mar precipitation inch = 4.53
+|Apr precipitation inch = 3.66
+|May precipitation inch = 4.20
+|Jun precipitation inch = 4.17
+|Jul precipitation inch = 4.56
+|Aug precipitation inch = 3.88
+|Sep precipitation inch = 4.76
+|Oct precipitation inch = 3.89
+|Nov precipitation inch = 3.80
+|Dec precipitation inch = 3.56
+|year precipitation inch =
+|unit precipitation days = 0.01 in
+|Jan precipitation days =  9.4
+|Feb precipitation days =  9.2
+|Mar precipitation days = 11.2
+|Apr precipitation days = 11.2
+|May precipitation days = 11.0
+|Jun precipitation days =  9.5
+|Jul precipitation days = 10.3
+|Aug precipitation days =  8.8
+|Sep precipitation days =  7.8
+|Oct precipitation days =  7.8
+|Nov precipitation days =  9.1
+|Dec precipitation days =  9.8
+|source 1 = NOAA: Temperature data at the Naval Academy 1945–61 and 2004–present,<ref name = NOWData >
+{{cite web
+  |url = http://www.nws.noaa.gov/climate/xmacis.php?wfo=lwx
+  |title = NowData – NOAA Online Weather Data
+  |publisher = [[National Oceanic and Atmospheric Administration]]
+  |accessdate = 2015-08-10}}</ref><ref name="NCDC 1">{{cite web
+  | url = ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USW00013752.normals.txt
+  | title=Station Name: MD ANNAPOLIS NAF
+  | publisher=National Oceanic and Atmospheric Administration
+  | accessdate =February 28, 2013
+}}</ref> precipitation data<ref name = "NCDC 2">{{cite web
+  | url = ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USC00180193.normals.txt
+  | title=Station Name: MD ANNAPOLIS POLICE BRKS
+  | publisher=National Oceanic and Atmospheric Administration
+  | accessdate =February 28, 2013
+}}</ref>
+}}
+
+==Demographics==
+[[File:Annapolis street.jpg|thumb|upright|left|Downtown Annapolis's Main Street in September 2004]]
+[[File:Annapolis Maryland sign by D Ramey Logan.jpg|thumb|Annapolis Maryland Sign]]
+{{US Census population
+|1820= 2260
+|1830= 2623
+|1840= 2792
+|1850= 3011
+|1860= 4529
+|1870= 5744
+|1880= 6642
+|1890= 7604
+|1900= 7657
+|1910= 8262
+|1920= 8518
+|1930= 9803
+|1940= 9542
+|1950= 10047
+|1960= 23385
+|1970= 30095
+|1980= 31740
+|1990= 33187
+|2000= 35838
+|2010= 38394
+|estyear=2017
+|estimate=39321
+|estref=<ref name="USCensusEst2017">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2017.html|title=Population and Housing Unit Estimates|accessdate=March 24, 2018}}</ref>
+|footnote=[https://www.census.gov/prod/www/abs/decennial/ U.S. Decennial Census]
+}}
+
+===2010 census===
+As of the census<ref name="FactFinder">{{cite web|title=American FactFinder|url=http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml|publisher=[[United States Census Bureau]]|accessdate=January 25, 2013}}</ref> of 2010, there were 38,394 people, 16,136 households, and 8,776 families residing in the city. The population density was {{convert|5347.4|PD/sqmi|PD/km2|1}}. There were 17,845 housing units at an average density of {{convert|2485.4|/sqmi|/km2|1}}. The racial makeup of the city was 60.1% [[White (U.S. Census)|White]], 26.0% [[African American (U.S. Census)|African American]], 0.3% [[Native American (U.S. Census)|Native American]], 2.1% [[Asian (U.S. Census)|Asian]], 9.0% from [[Race (U.S. Census)|other races]], and 2.6% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 16.8% of the population.
+
+There were 16,136 households, of which 26.6% had children under the age of 18 living with them, 35.3% were married couples living together, 14.9% had a female householder with no husband present, 4.2% had a male householder with no wife present, and 45.6% were non-families. 35.0% of all households were made up of individuals and 11.1% had someone living alone who was 65 years of age or older. The average household size was 2.34 and the average family size was 3.02.
+
+The median age in the city was 36 years. 20.8% of residents were under the age of 18; 9.9% were between the ages of 18 and 24; 31.1% were from 25 to 44; 25.3% were from 45 to 64; and 13% were 65 years of age or older. The gender makeup of the city was 47.8% male and 52.2% female.
+
+===2000 census===
+As of the census<ref name="GR2">{{cite web|url=http://factfinder2.census.gov |publisher=[[United States Census Bureau]] |accessdate=2008-01-31 |title=American FactFinder |deadurl=yes |archiveurl=https://web.archive.org/web/20130911234518/http://factfinder2.census.gov/ |archivedate=September 11, 2013 |df=mdy }}</ref> of 2000, there were 35,838 people, 15,303 households, and 8,676 families residing in the city. The population density was 5,326.0 people per square mile (2,056.0/km²). There were 16,165 housing units at an average density of 2,402.3 per square mile (927.4/km²). The racial makeup of the city was 62.66% [[White (U.S. Census)|White]], 31.44% Black or [[African American (U.S. Census)|African American]], 0.17% [[Native American (U.S. Census)|Native American]], 1.81% [[Asian (U.S. Census)|Asian]], 0.03% [[Pacific Islander (U.S. Census)|Pacific Islander]], 2.22% from other races, and 1.67% from two or more races. 8.42% of the population were [[Hispanics in the United States|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race.
+
+There were 15,303 households, out of which 24.5% had children under the age of 18 living with them, 36.6% were married couples living together, 16.3% had a female householder with no husband present, and 43.3% were non-families. 32.9% of all households were made up of individuals and 9.2% had someone living alone who was 65 years of age or older. The average household size was 2.30 and the average family size was 2.93.
+
+In the city, the population was spread out with 21.7% under the age of 18, 9.3% from 18 to 24, 33.4% from 25 to 44, 23.7% from 45 to 64, and 11.9% who were 65 years of age or older. The median age was 36 years. For every 100 females, there were 90.0 males. For every 100 females age 18 and over there were 86.8 males age 18 and over.
+
+The median income for a household in the city was $49,243, and the median income for a family was $56,984 (these figures had risen to $70,140 and $84,573 respectively, according to {{as of|2007|alt=a 2007 estimate}}).<ref>[http://factfinder.census.gov/servlet/ADPTable?_bm=y&-context=adp&-qr_name=ACS_2007_3YR_G00_DP3YR3&-ds_name=ACS_2007_3YR_G00_&-tree_id=3307&-redoLog=true&-_caller=geoselect&-geo_id=16000US2401600&-format=&-_lang=en Census.gov] {{webarchive |url=https://web.archive.org/web/20091021183243/http://factfinder.census.gov/servlet/ADPTable?_bm=y&-context=adp&-qr_name=ACS_2007_3YR_G00_DP3YR3&-ds_name=ACS_2007_3YR_G00_&-tree_id=3307&-redoLog=true&-_caller=geoselect&-geo_id=16000US2401600&-format=&-_lang=en |date=October 21, 2009 }}</ref> Males had a median income of $39,548 versus $30,741 for females. The per capita income for the city was $27,180. About 9.5% of families and 12.7% of the population were living in poverty, of which 20.8% were under age 18 and 10.4% were age 65 or over.
+{{wide image|Annapolis Maryland wide by D Ramey Logan with Grant Jensen.jpg|900px|Annapolis, Maryland }}
+
+==Economy==
+According to the City's 2009 Comprehensive Annual Financial Report,<ref>[http://www.annapolis.gov/government/departments/finance/cafr/cafr2009/StatDemog.pdf City of Annapolis CAFR] {{webarchive |url=https://web.archive.org/web/20110426222442/http://www.annapolis.gov/government/departments/finance/cafr/cafr2009/StatDemog.pdf |date=April 26, 2011 }}</ref> the top employers in the city, excluding state and local government, are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+| 1
+|[[Anne Arundel Medical Center]]
+|2,800
+|-
+|2
+|[[United States Naval Academy]]
+|2,052
+|-
+|3
+|[[ARINC]]
+|1,100
+|-
+|4
+|[[The Home Depot]]
+|852
+|-
+|5
+|[[C&P Telephone|Verizon Maryland]]
+|844
+|-
+|6
+|[[TeleCommunication Systems]]
+|500
+|-
+|7
+|[[Constellation (An Exelon Company)|Constellation]]
+|412
+|-
+|8
+|[[Northrop Grumman]] Mission Systems
+|200
+|-
+|9
+|[[AT&T Inc.]]
+|365
+|-
+|10
+|[[MedAssurant]]
+|300
+|}
+
+==Transportation==
+
+===Bus===
+The Annapolis Department of Transportation (ADOT) provides bus service with eight routes, collectively branded [[Annapolis Transit]]. The system serves the city with recreational areas, shopping centers, educational and medical facilities, and employment hubs. ADOT also offers transportation for the elderly and persons with disabilities.<ref>[http://www.ci.annapolis.md.us/info.asp?page=1368 Annapolis.md.us] {{webarchive |url=https://web.archive.org/web/20100107045034/http://www.ci.annapolis.md.us/info.asp?page=1368 |date=January 7, 2010 }}</ref> Several [[Maryland Transit Administration]] commuter buses also allow for access to Baltimore or Washington, D.C.
+
+===Railway===
+Annapolis is the only capital city in America east of the [[Mississippi River]] without rail transport of any sort.{{citation needed|date=December 2017}} From 1840 to 1968, Annapolis was connected to the outside world by railroad. The [[Washington, Baltimore and Annapolis Railroad]] (WB&A) operated two electrified [[interurban]] lines that brought passengers into the city from both the South and the North. The southern route ran down King George Street and Main Street, leading directly to the statehouse, while the northern route entered town via [[Glen Burnie]]. In 1935, the WB&A went bankrupt due to the effects of the [[Great Depression]] and suspended service along its southern route, while the newly created [[Baltimore and Annapolis Railroad]] (B&A) retained service on the northern route. Steam trains of the [[Baltimore and Ohio Railroad]] also occasionally operated over the line to Annapolis, primarily for special Naval Academy movements. Passenger rail service on the B&A was eventually discontinued in 1950; freight service ceased in 1968 after the dilapidated trestle crossing the [[Severn River (Maryland)|Severn River]] was condemned. The tracks were eventually dismantled in 1976.<ref>{{Schwieterman-Leaves-Eastern|pages=109–113}}</ref>
+
+==Government==
+
+===City government===
+[[File:Annapolis City Hall 2.JPG|thumb|Annapolis City Hall]]
+Annapolis is governed via the [[weak mayor]] system. The city council consists of eight aldermen who are elected from single member wards. The mayor is elected directly in a citywide vote.  Since 2008, several aldermen have introduced unsuccessful charter amendments to institute a  [[council-manager]] system, a move opposed by both Democratic mayor [[Joshua J. Cohen]] and his Republican successor [[Mike Pantelides]].<ref>{{cite web|url=http://baltimore.cbslocal.com/2013/11/10/annapolis-council-to-consider-stripping-republican-mayor-elects-power/|title=Annapolis Council To Consider Stripping Republican Mayor-Elect’s Power|publisher=}}</ref><ref>{{cite web|url=http://www.wbaltv.com/politics/calls-for-weakmayor-system-in-annapolis-come-days-after-election/22917016|title=Calls for weak-mayor system in Annapolis come days after election|author=Lisa Robinson|date=April 15, 2012|work=WBAL-TV}}</ref>
+
+===State government===
+The [[Maryland General Assembly|state legislature]], [[Governor of Maryland|governor's office]], and [[Maryland Court of Appeals|appellate courts]] are located in Annapolis. While Annapolis is the state's only [[Capital city|capital]], some administrative offices, including a number of [[cabinet-level departments]], are based in [[Baltimore]].
+
+==Education==
+Annapolis is served by the [[Anne Arundel County Public Schools]] system. Founded in 1896, [[Annapolis High School (Maryland)|Annapolis High School]] has an internationally recognized [[International Baccalaureate|IB International Program]].
+
+Public schools that serve students in the Annapolis area:
+
+* Annapolis High
+* Annapolis Middle
+* Bates Middle
+* Annapolis Elementary
+* Eastport Elementary
+* Georgetown East Elementary
+* Germantown Elementary
+* Hillsmere Elementary
+* Mills‐Parole Elementary
+* Rolling Knolls Elementary
+* Tyler Heights Elementary
+* West Annapolis Elementary
+
+St. Anne's School of Annapolis, Aleph Bet Jewish Day School, [[Annapolis Area Christian School]], St. Martins Lutheran School, [[Severn School]], and [[Indian Creek School]] are private schools in the Annapolis area. The [[Key School]], located on a converted farm in the neighborhood of Hillsmere, has also served Annapolis for over 50 years. Anne Arundel County's alternative school which has around 160 students ranging grades 6-9, [[Mary E. Moss Academy]], is also in the Annapolis area.<ref>{{Cite web|url=http://www.aacps.org/site/default.aspx?PageID=2373|title=Contacts|website=www.aacps.org|language=en|access-date=2018-12-09}}</ref>
+
+==Sports==
+On March 9, 2010, the [[Chesapeake Bayhawks]] of [[Major League Lacrosse]] moved from Washington D.C. to the Annapolis area, at [[Navy–Marine Corps Memorial Stadium]]. In [[2013 Major League Lacrosse season|2013]], the Bayhawks won the league's championship, the [[Steinfeld Cup]], for the fifth time.<ref>{{cite web|url=http://insidelacrosse.com/news/2010/08/22/major-league-lacrosse-bayhawks-top-long-island-earn-2010-mll-championship |title=Major League Lacrosse: Bayhawks top Long Island to earn 2010 MLL Championship |work=Inside Lacrosse |deadurl=yes |archiveurl=https://web.archive.org/web/20101217220821/http://insidelacrosse.com/news/2010/08/22/major-league-lacrosse-bayhawks-top-long-island-earn-2010-mll-championship |archivedate=December 17, 2010 }}</ref>
+
+==Parks and recreation==
+The city is home to [[Quiet Waters Park (Maryland)|Quiet Waters Park]], a 340-acre regional park run by Anne Arundel County. The park has water access, a playground area, over six miles of paved trails, and ice skating rink, and a dog beach.<ref>{{Cite web|url=https://www.aacounty.org/departments/recreation-parks/parks-explorer/index.html|title=Explore The County's Parks {{!}} Anne Arundel County, MD|website=www.aacounty.org|access-date=2018-12-09}}</ref>
+
+=== Community Parks ===
+
+* Bayhead Park
+* Bestgate Park
+* Broad Creek Park
+* Broadneck Park
+* Browns Wood Park
+* Generals Highway Corridor Park
+* Jones and Anne Catharine Park
+* Peninsula Park
+* Whitmore Park
+* While H. Bates Heritage Park
+
+==Publications==
+''[[The Capital]]'' covers the news of Annapolis and Anne Arundel County
+See also: [[List of newspapers in Maryland in the 18th-century]]: Annapolis
+
+==Notable people==
+
+=== Government and Politics ===
+
+* [[Sally Brice-O'Hara]] (1953-) – graduate of [[Annapolis High School (Maryland)|Annapolis High school]], 27th [[Vice Commandant of the United States Coast Guard|Vice-Commandant]] of the [[United States Coast Guard|U.S. Coast Guard]][[Annapolis, Maryland#cite%20note-55|<sup>[55]</sup>]]
+* [[Charles Carroll (barrister)|Charles Carroll]] (1723–1783) – [[Continental Congressman]] from Maryland[[Annapolis, Maryland#cite%20note-Marquis%201607-1896-53|<sup>[53]</sup>]]
+* [[Charles Carroll of Carrollton]] (1737–1832) – [[United States Senator]], Signer of [[United States Declaration of Independence]][[Annapolis, Maryland#cite%20note-Marquis%201607-1896-53|<sup>[53]</sup>]]
+* [[Peter K. Cullins]] (1928–2012) – [[United States Navy|U.S. Navy]] admiral
+* [[Henry Winter Davis]] (1817–1865) – [[United States Representative]] from Maryland[[Annapolis, Maryland#cite%20note-Marquis%201607-1896-53|<sup>[53]</sup>]]
+* [[Jon Eubanks]] – [[Republican Party (United States)|Republican]] member of [[Arkansas House of Representatives]] from [[Logan County, Arkansas|Logan County]]; graduate of [[Annapolis High School (Maryland)|Annapolis high school]][[Annapolis, Maryland#cite%20note-59|<sup>[59]</sup>]]
+* [[John Hall (Maryland)|John Hall <sup>(born)</sup>]] (1729–1797) – delegate to the [[Continental Congress]] from Maryland[[Annapolis, Maryland#cite%20note-Marquis%201607-1896-53|<sup>[53]</sup>]]
+* [[Alexander Contee Hanson|Alexander Contee Hanson <sup>(born)</sup>]] (1786–1819) – United States Congressman and Senator from Maryland[[Annapolis, Maryland#cite%20note-Marquis%201607-1896-53|<sup>[53]</sup>]]
+* [[Samuel M. Harrington|Samuel M. Harrington <sup>(born)</sup>]] (1882–1948) – [[United States Marine Corps|USMC]] [[Brigadier general (United States)|Brigadier General]]
+* [[Reverdy Johnson|Reverdy Johnson <sup>(born)</sup>]] (1796–1876) – [[United States Senator]] from Maryland and [[Attorney General of the United States]][[Annapolis, Maryland#cite%20note-Marquis%201607-1896-53|<sup>[53]</sup>]]
+* [[William Duhurst Merrick|William Duhurst Merrick <sup>(born)</sup>]] (1818–1889) – lawyer, professor at [[George Washington University]], and United States Senator from Maryland[[Annapolis, Maryland#cite%20note-Marquis%201607-1896-53|<sup>[53]</sup>]]
+* [[William Paca]] (1740–1799) – Signer of United States Declaration of Independence[[Annapolis, Maryland#cite%20note-64|<sup>[64]</sup>]]
+
+=== Athletes ===
+
+* [[Bill Belichick|Bill Belichick <sup>(former resident)</sup>]] (1952–) – graduate of Annapolis High School, head coach of the [[New England Patriots]][[Annapolis, Maryland#cite%20note-54|<sup>[54]</sup>]]
+* [[Donald Brown (defensive back)|Donald Brown]] (1963-) – pro football player
+* [[Debbie Meyer|Debbie Meyer <sup>(born)</sup>]] (1952-) – 3-time Olympic swimming gold medalist[[Annapolis, Maryland#cite%20note-63|<sup>[63]</sup>]]
+* [[Travis Pastrana]] – X-Games athlete, former NASCAR driver
+* [[Mark Teixeira|Mark Teixeira <sup>(born)</sup>]] (1980-) – retired professional baseball player for [[New York Yankees]][[Annapolis, Maryland#cite%20note-67|<sup>[67]</sup>]]
+
+=== The Arts ===
+
+* [[John Henry Alexander|John Henry Alexander <sup>(born)</sup>]] (1812–1867) – scientist, businessman, and author[[Annapolis, Maryland#cite%20note-Marquis%201607-1896-53|<sup>[53]</sup>]]
+* [[John Beale Bordley]] (1727–1804) – government official, farmer, and author[[Annapolis, Maryland#cite%20note-Marquis%201607-1896-53|<sup>[53]</sup>]]
+* [[James M. Cain|James M. Cain <sup>(born)</sup>]] (1892–1977) – author of [[Double Indemnity (novel)|''Double Indemnity'']], ''[[Mildred Pierce]]'' and [[The Postman Always Rings Twice (novel)|''The Postman Always Rings Twice'']][[Annapolis, Maryland#cite%20note-56|<sup>[56]</sup>]]
+* [[Michele Carey|Michele Carey <sup>(born)</sup>]] (1943-) – actress, [[El Dorado (1966 film)|''El Dorado'']], ''[[Live a Little, Love a Little]]''
+* [[Robert Duvall|Robert Duvall <sup>(former resident)</sup>]] – actor [[Annapolis, Maryland#cite%20note-58|<sup>[58]</sup>]]
+* [[Barbara Kingsolver|Barbara Kingsolver <sup>(born)</sup>]] (1955-) – novelist and poet[[Annapolis, Maryland#cite%20note-officialbio-60|<sup>[60]</sup>]]
+* [[Iris Krasnow]] (1954-) – author, journalism professor, and keynote speaker[[Annapolis, Maryland#cite%20note-live-61|<sup>[61]</sup>]]
+* [[Christian Siriano]] – fashion designer and winner of the [[Project Runway (season 4)|fourth season]] of ''[[Project Runway]]''[[Annapolis, Maryland#cite%20note-Sheer-65|<sup>[65]</sup>]]
+* [[Thorne Smith]] (1892–1934) – author of [[Topper (novel series)|''Topper'']]
+* [[Stan Stearns]] (1935−2012) – photographer of the iconic image of a three-year-old [[John F. Kennedy, Jr.]] saluting the coffin of his father, US President [[John F. Kennedy]], at [[State funeral of John F. Kennedy|his father's funeral]].[[Annapolis, Maryland#cite%20note-nytimes-66|<sup>[66]</sup>]]
+* [[Leo Strauss]] (1899–1973) – German-born Jewish political philosopher who specialized in the study of classical philosophy; spent his last three years of life teaching at St. John's in Annapolis
+
+==Neighborhoods and suburbs==
+{{colbegin}}
+* Admiral Heights<ref name=realestate>{{cite web | url = http://www.gberkinshaw.com/annapolis-communities.php | title = Annapolis Area Neighborhoods and Communities | work = Annapolis Real Estate | first = Georgie | last = Berkinshaw | publisher = Coldwell Banker Residential Brokerage | date = | access-date = May 20, 2017}}</ref>
+* [[Arnold, Maryland|Arnold]]
+* [[Arundel on the Bay, Maryland|Arundel on the Bay]]<ref name=realestate />
+* [[Cape St. Claire, Maryland|Cape St. Claire]]<ref name=realestate />
+* [[Crofton, Maryland|Crofton]]<ref name="capitalgazette.com">http://www.capitalgazette.com/sports/high_school_sports/</ref>
+* [[Crownsville, Maryland|Crownsville]]
+* Eastport<ref name=MainStreetAnnapolis-map>{{cite map | url = https://mdbiznews.commerce.maryland.gov/wp-content/uploads/2013/03/Walk-Annapolis-banner_1.jpg | format = JPG | title = Walk Annapolis map | author = MainStreet Annapolis Partnership | publisher = MainStreet Annapolis Partnership | date = | access-date = May 20, 2017}}</ref><ref>{{cite web | url = http://www.visitannapolis.org/discover/interests/eastport | title = Eastport: A Different Side of Annapolis| work = visitANNAPOLIS | publisher = Visit Annapolis & Anne Arundel County | date = | access-date = May 20, 2017}}</ref><ref>{{cite web | url = http://www.themre.org/ | title = Home | work = The Maritime Republic of Eastport | publisher = Maritime Republic of Eastport | date = | access-date = May 20, 2017}}</ref>
+* [[Edgewater, Maryland|Edgewater]]<ref name=realestate/>
+* Highland Beach<ref name=realestate/>
+* [[Gambrills, Maryland|Gambrills]]<ref name="capitalgazette.com"/>
+* [[Hillsmere Shores]]<ref name=realestate />
+* [[Londontowne, Maryland|Londontowne]]<ref>{{cite web | url = http://www.visitannapolis.org/discover/interests/historic-london-town | title = Historic London Town: Where the Past Meets the Present | work = visitANNAPOLIS | publisher = Visit Annapolis & Anne Arundel County | date = | access-date = May 20, 2017}}</ref>
+* Main Street and City Dock<ref name=MainStreetAnnapolis-map/><ref>{{cite web | url = http://www.visitannapolis.org/discover/interests/main-street | title = Main Street: It’s All Here | work = visitANNAPOLIS | publisher = Visit Annapolis & Anne Arundel County | date = | access-date = May 20, 2017}}</ref><ref>{{cite web | url = http://www.visitannapolis.org/discover/interests/city-dock | title = City Dock: Quintessential Annapolis | work = visitANNAPOLIS | publisher = Visit Annapolis & Anne Arundel County | date = | access-date = May 20, 2017}}</ref>
+* [[Millersville, Maryland|Millersville]]<ref name="capitalgazette.com"/>
+* [[United States Naval Academy|Naval Academy]]<ref>{{cite web | url = http://www.visitannapolis.org/discover/interests/united-states-naval-academy | title = United States Naval Academy: One of Annapolis' Longest Standing Institutions | work = visitANNAPOLIS | publisher = Visit Annapolis & Anne Arundel County | date = | access-date = May 20, 2017}}</ref><ref>{{cite web | url = http://mht.maryland.gov/nr/NRDetail.aspx?NRID=5&FROM=NRNHLList.aspx | title = United States Naval Academy | work = Maryland's National Register Properties | publisher = Maryland Historical Trust | date = 2015 | access-date = May 20, 2017}}</ref>
+* [[Odenton, Maryland|Odenton]]<ref name="capitalgazette.com"/>
+* [[Parole, Maryland|Parole]]
+* [[Riva, Maryland|Riva]]
+* St. Margaret’s<ref name=realestate /><ref>{{cite web | url = http://www.st-margarets.org/history-and-archives.html | title = History/Archives | publisher = St. Margaret's Church | date = | access-date = May 20, 2017}}</ref>
+* [[Maryland State House|State Circle]] and Maryland Avenue<ref name=MainStreetAnnapolis-map/><ref>{{cite web | url = http://www.visitannapolis.org/discover/interests/state-circle | title = State Circle/Maryland Avenue: Nothing says Annapolis quite like State Circle & Maryland Avenue | work = visitANNAPOLIS | publisher = Visit Annapolis & Anne Arundel County | date = | access-date = May 20, 2017}}</ref>
+* West Annapolis<ref name=MainStreetAnnapolis-map/><ref name=realestate />
+* West Street / Arts District<ref name=MainStreetAnnapolis-map/><ref>{{cite web | url = http://www.visitannapolis.org/discover/interests/arts-district | title = Arts District | work = visitANNAPOLIS | publisher = Visit Annapolis & Anne Arundel County | date = | access-date = May 20, 2017}}</ref>
+{{colend}}
+
+==Sister cities==
+Annapolis is a [[sister city]] of these municipalities:<ref>{{cite web|url=http://www.ci.annapolis.md.us/info.asp?page=12653 |title=Sister City Program |publisher=City of Annapolis |year=2002 |accessdate=September 2, 2009 }}{{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+<!-- NOTE: Please DO NOT DELETE sovereign country names-->
+* {{flagdeco|Estonia}} [[Tallinn]], Estonia
+* {{flagdeco|United Kingdom}} [[Newport, Pembrokeshire|Newport]] ([[Pembrokeshire]]), Wales, United Kingdom
+* {{flagdeco|United Kingdom}} [[Dumfries]], Scotland, United Kingdom
+* {{flagdeco|Ireland}} [[Wexford]], [[County Wexford]], Ireland<!--Leinster as a province does not serve an administrative function-->
+* {{flagdeco|Canada}} [[Annapolis Royal]], [[Nova Scotia]], Canada
+* {{flagdeco|Sweden}} [[Karlskrona]], Sweden
+* {{flagdeco|United States}} [[Redwood City, California]], U.S.
+* {{flagdeco|Brazil}} [[Niterói]], [[Rio de Janeiro (state)|Rio de Janeiro State]], Brazil
+{{S-start}}
+{{s-bef|before=[[Princeton, New Jersey|Princeton]]}}
+{{s-ttl|title=Capital of the United States|years=1783–1784}}
+{{s-aft|after=[[Trenton, New Jersey|Trenton]]}}
+{{S-end}}
+
+==See also==
+* {{Portal-inline|size=tiny|Annapolis}}
+* [[Music of Annapolis]]
+* [[WNAV]]
+* [[WRNR-FM]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* Eric L. Goldstein, ''Traders and Transports: The Jews of Colonial Maryland'' (Baltimore: Jewish Historical Society of Maryland, 1993);
+
+==External links==
+{{commonscat|Annapolis, Maryland}}
+* {{wikivoyage-inline|Annapolis}}
+* {{osmrelation|133571}}
+* [http://www.annapolis.gov/ Annapolis official website]
+* [http://www.usna.edu/ United States Naval Academy]
+* [https://web.archive.org/web/20070317070941/http://www.stjohnscollege.edu/asp/home.aspx St.Johns College]
+* {{Cite AmCyc|wstitle=Annapolis (Maryland)|display=Annapolis, a city of Anne Arundel county, Md|short=x}}
+* {{Cite NIE|wstitle=Annapolis (Maryland)|display=Annapolis. The capital of Maryland|short=x}}
+
+{{Geographic Location 2
+ | Center    = Annapolis
+ | North     =  [[Arnold, Maryland|Arnold]]<br />{{jct|state=MD|MD|2}}
+ | Northeast = [[Cape Saint Claire, Maryland|Cape Saint Claire]]<br />{{jct|state=MD|MD|179}}
+ | East      = [[Kent Island, Maryland|Kent Island]]<br />{{jct|state=MD|US|50}}
+ | ENE       =
+ | Southeast = [[Arundel on the Bay, Maryland|Arundel on the Bay]]<br />Forest Drive
+ | Southwest = [[Davidsonville, Maryland|Davidsonville]]<br />{{jct|state=MD|MD|214}}
+ | South     = [[Edgewater, Maryland|Edgewater]]<br />{{jct|state=MD|MD|2}}
+ | WSW       =
+ | West      = [[Bowie, Maryland|Bowie]]<br />{{jct|state=MD|US|50}}
+ | WNW       =
+ | Northwest =[[Crownsville, Maryland|Crownsville]]<br />{{jct|state=MD|I|97}}
+}}
+
+{{S-start}}
+{{Succession box
+|before=[[St. Mary's City, Maryland|Saint Mary's City]]
+|title=Capital of Maryland
+|years=1695-Present
+|after=incumbent
+}}
+{{S-end}}
+
+{{Annapolis}}
+{{Maryland}}
+{{Anne Arundel County, Maryland}}
+{{County Seats of Maryland}}
+{{United States state capitals}}
+{{Location of US capital}}
+{{Northeast US}}
+
+{{Authority control}}
+
+[[Category:Annapolis, Maryland]]
+[[Category:Cities in Maryland]]
+[[Category:Cities in Anne Arundel County, Maryland]]
+[[Category:County seats in Maryland]]
+[[Category:Populated places on the Chesapeake Bay]]
+[[Category:1649 establishments in Maryland]]
+[[Category:Cities in the Baltimore–Washington metropolitan area]]
+[[Category:Populated coastal places in Maryland]]
+[[Category:Populated places established in 1649]]
+[[Category:Former capitals of the United States]]

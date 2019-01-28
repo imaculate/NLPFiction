@@ -1,0 +1,52 @@
+{{Infobox Historic Site
+  | image = Benjamin Franklin National Memorial.jpg
+  | caption = The monument in 2007
+  | location = [[Philadelphia]], [[Pennsylvania]], U.S.
+  | governing_body = [[National Park Service]]
+  | visitation_num = 171,033
+  | visitation_year = 2009
+  | designation1 = NMEM
+  | designation1_date = October 25, 1972<ref name=THOMAS>{{citation|url=http://thomas.loc.gov/cgi-bin/cpquery/T?&report=sr147&dbname=109&|publisher=THOMAS (Library of Congress)|title=Benjamin Franklin National Memorial Commemoration Act of 2005|accessdate=14 June 2016}}</ref>
+  | website = [https://www.fi.edu/exhibit/benjamin-franklin-memorial/ Benjamin Franklin Memorial]
+}}
+The '''Benjamin Franklin National Memorial''', located in the rotunda of [[The Franklin Institute]] science museum in [[Philadelphia, Pennsylvania]], U.S., features a colossal statue of a seated [[Benjamin Franklin]], American writer, inventor, and statesman. The {{convert|20|ft|adj=on}}-tall memorial, was sculpted by [[James Earle Fraser (sculptor)|James Earle Fraser]] between 1906 and 1911<ref name=SIRIS/> and dedicated in 1938.<ref name=THOMAS/> With a weight of {{convert|30|ST}} the statue rests on a {{convert|92|ST|adj=on}} pedestal of white Seravezza marble. It is the focal piece of the Memorial Hall of the Franklin Institute, which was designed by [[John T. Windrim|John Windrim]] and modeled after the [[Roman Pantheon]]. The statue and Memorial Hall were designated as the Benjamin Franklin National Memorial in 1972. It is the primary location memorializing Benjamin Franklin in the U.S.<ref name=SIRIS>{{citation|url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=13070LH9B1624.10747&profile=ariall&source=~!siartinventories&view=subscriptionsummary&uri=full=3100001~!307281~!0&ri=10&aspect=Keyword&menu=search&ipp=20&spp=20&staffonly=&term=benjamin+franklin&index=.GW&uindex=&oper=&term=james+earle+fraser&index=.AW&uindex=&aspect=Keyword&menu=search&ri=10#focus|title=Benjamin Franklin, (sculpture)|publisher=Smithsonian Institution Research Information System (SIRIS)|accessdate=14 June 2016}}</ref>
+
+==History==
+[[Congress of the United States|Congress]] designated the [[national memorial]] on October 25, 1972 (Public Law 92-551).  Unlike most national memorials, the statue is not listed on the [[National Register of Historic Places]].  The national memorial is an affiliated area of the [[National Park Service]], assigned to [[Independence National Historical Park]] through a Memorandum of Agreement entered into on November 6, 1973.  Under terms of the agreement, the Institute owns and maintains the publicly accessible memorial, and the Park Service includes the memorial in official publications and otherwise cooperates with the Institute in all appropriate and mutually agreeable ways on behalf of the memorial.
+
+Public Law 109-153 (December 30, 2005) authorizes the [[United States Secretary of the Interior|Secretary of the Interior]] to make available to the Institute up to $10,000,000 in matching grants for the rehabilitation of the memorial and for the development of related exhibits.  This appropriation commemorates the 300th anniversary of Franklin's birth on January 17, 1706.<ref>[http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_cong_public_laws&docid=f:publ153.109 Public Law 109-153]</ref>
+
+In 2008, the Memorial underwent a $3.8-million restoration, which included installation of a multi-media presentation about Philadelphia's most famous citizen, now featured in the 3½-minute show "Benjamin Franklin Forever". The memorial's new digital projection, theatrical lighting, and audio effects are fully utilized in a program that introduces Franklin as a curious tinkerer, and demonstrates his profound impact on the world as a premiere international citizen, statesman, civic leader, and scientist. The refurbishment also included improved acoustics, state-of-the-art LED lighting upgrades, and restoration and re-gilding of the oculus to its original brilliance. Throughout the day, quotes from Franklin are projected onto the walls, and graphic panels highlighting his life and accomplishments provide visitors with a still greater appreciation of this Founding Father.<ref>{{cite web|url=http://www.pewtrusts.org/news_room_detail.aspx?id%3D38186 |title=Archived copy |accessdate=2012-02-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20110703142323/http://www.pewtrusts.org/news_room_detail.aspx?id=38186 |archivedate=2011-07-03 |df= }}</ref>
+
+Admission to the National Memorial is free.
+
+The memorial prominently appears in the movie ''[[National Treasure (film)|National Treasure]].''
+
+==See More==
+{{Portal|Philadelphia}}
+*[[Benjamin Franklin House]], in [[London]], [[England]], the only surviving home of Benjamin Franklin, now a museum.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20060213041505/http://photo.itc.nps.gov/storage/images/frme/frme-Thumb.00001.html National Park Service images of Benjamin Franklin National Memorial]
+* [https://web.archive.org/web/20060513095149/http://www.doi.gov/ocl/2004/S1852.htm Statement by NPS Dept. Director Durand concerning financial assistance for the Ben. Franklin Nat'l Memorial]
+* [http://www.nationalcowboymuseum.org/research/r_a_fras.html James Earle Fraser biography]
+
+{{Benjamin Franklin|state=expanded}}
+{{Protected areas of Pennsylvania}}
+
+[[Category:Franklin Institute]]
+[[Category:History of Philadelphia]]
+[[Category:National Register of Historic Places in Philadelphia]]
+[[Category:National Memorials of the United States]]
+[[Category:Protected areas established in 1972]]
+[[Category:Monuments and memorials in Philadelphia]]
+[[Category:Statues of Benjamin Franklin]]
+[[Category:1911 sculptures]]
+[[Category:Marble sculptures in Pennsylvania]]
+[[Category:Independence National Historical Park]]
+[[Category:Greek Revival architecture in Pennsylvania]]
+[[Category:1972 establishments in Pennsylvania]]
+[[Category:Protected areas of Philadelphia]]

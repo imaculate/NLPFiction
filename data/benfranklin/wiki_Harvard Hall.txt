@@ -1,0 +1,19 @@
+{{refimprove|date=June 2015}}
+'''Harvard Hall''' is a [[Harvard University]] classroom building in [[Harvard Yard]], [[Cambridge, Massachusetts]].
+
+The present Harvard Hall replaces an earlier structure which burned on January 24, 1764, destroying 4,500 of the College Library's 5,000 books as well as its collection of "philosophical apparatus" (scientific instruments). The [[Massachusetts General Court]], which had been meeting in Harvard Hall to escape a [[smallpox]] epidemic in [[Boston]], took responsibility for the fire and funded reconstruction. Thanks to generous donors such as [[Thomas Hollis V]] and [[John Hancock]], within two years the new Harvard Hall housed a library larger than that the College had before the fire.<ref>http://library.harvard.edu/university-archives/featured-item/11_HarvardHallFire</ref>  [[Thomas Dawes]], who also built [[Hollis Hall]] at Harvard, was the master builder.
+
+Under the specific advice of [[Benjamin Franklin]], a new collection of scientific instruments and electrical demonstration equipment was acquired (mostly in London) to replace the apparatus that had been lost in the fire.  The collection he assembled would later become part of the [[Harvard Collection of Historical Scientific Instruments]], now on public display in the [[Harvard Science Center]].<ref name="Tomase">{{cite news|last1=Tomase|first1=Jennifer|title=Harvard Gazette: 'A How-To Guide' explores Ben Franklin's 'can-do' legacy|url=http://news.harvard.edu/gazette/2006/06.01/10-franklin.html|accessdate=2016-08-09|work=Harvard University Gazette|date=June 1, 2006}}</ref>
+
+{{Coord|42|22|29.5|N|71|7|5.5|W|display=title}}
+
+==References==
+{{Reflist}}
+
+{{Harvard}}
+
+[[Category:Harvard University buildings]]
+[[Category:Harvard Square]]
+
+
+{{Massachusetts-struct-stub}}

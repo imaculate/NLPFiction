@@ -1,0 +1,167 @@
+{{short description|18th and 19th-century American painter}}
+{{Other people|Benjamin West}}
+{{Use mdy dates|date=March 2015}}
+{{Infobox artist
+| bgcolour      = #6495ED 
+| name          = Benjamin West
+| image         = BenjaminWestNGA.gif
+| imagesize     = 200px
+| caption       = ''Self Portrait of Benjamin West'', c. 1763
+| birth_name    =
+| birth_date    = {{birth date|1738|10|10|mf=y}}
+| birth_place   = [[Springfield Township, Delaware County, Pennsylvania|Springfield]], [[Province of Pennsylvania]]
+| death_date    = {{death date and age|1820|3|11|1738|10|10|mf=y}}
+| death_place   = London, United Kingdom
+| nationality   =
+| field         = [[Historical painting]]
+| training      =
+| movement      =
+| works         =
+| patrons       = [[William Henry (delegate)|William Henry]]<br />[[George III of the United Kingdom|King George III]]
+| influenced by =
+| influenced    =
+| awards        =
+}}
+'''Benjamin West''' {{post-nominals|country=GBR|size=100%|PRA}} (October 10, 1738 – March 11, 1820) was an [[United States|American]] [[history painter]] around and after the time of the [[American Revolution|American War of Independence]] and the [[Seven Years' War]]. He was the second president of the [[Royal Academy of Arts|Royal Academy]] in London, serving from 1792 to 1805 and 1806 to 1820.
+He was offered a [[knight]]hood by the British Crown, but declined it, believing that he should instead be made a [[Peerage|peer]].<ref>"[https://www.royalacademy.org.uk/art-artists/name/benjamin-west-pra Benjamin West PRA (1738 - 1820)]", royalacademy.org.uk. Retrieved 31 December 2018.</ref> He said that "Art is the representation of human beauty, ideally perfect in design, graceful and noble in attitude."<ref>{{cite book|last1=Shinn|first1=Earl|title=The World's Art from the International Exhibition|date=1880|publisher=A.W. Lovering|url=https://books.google.ca/books?id=S6tBAAAAYAAJ}}</ref>
+
+==Early life==
+[[File:House that Benjamin West was born in.png|thumb|House that Benjamin West was born in, drawn by John Sartain in 1837]]
+{{external media | width = 210px | align = right | headerimage=[[File:Agrippina Landing at Brundisium with the Ashes of Germanicus by Benjamin West.jpeg|210px]]
+ | video1 =[http://www.racollection.org.uk/ixbin/indexplus?record=ART309&_IXFILE_=templates/pages/kiosk/video3.html Introducing Benjamin West], [[Royal Academy of Art]]<ref name="RAA A">{{cite web | title =Introducing Benjamin West | work = | publisher =[[Royal Academy of Art]] | date = | url =http://www.racollection.org.uk/ixbin/indexplus?record=ART309&_IXFILE_=templates/pages/kiosk/video3.html | accessdate =February 19, 2013 }}</ref>
+ | video2 =[https://www.youtube.com/watch?v=qAr5YJyawSA Lecture 7. Benjamin West's Agrippina Landing at Brundisium with the Ashes of Germanicus],  57:08, [[Yale University]] | accessdate = April 6, 2015
+}}
+West was born in [[Springfield Township, Delaware County, Pennsylvania|Springfield, Pennsylvania]], in [[Benjamin West Birthplace| a house]] that is now in the borough of [[Swarthmore, Pennsylvania|Swarthmore]] on the campus of [[Swarthmore College]],<ref>[http://www.explorepahistory.com/hmarker.php?markerId=624 Benjamin West] Explore Pennsylvania</ref> as the tenth child of an innkeeper and his wife. The family later moved to [[Newtown Square, Pennsylvania]], where his father was the proprietor of the [[Square Tavern]], still standing in that town. West told the novelist [[John Galt (novelist)|John Galt]], with whom, late in his life, he collaborated on a memoir, ''The Life and Studies of Benjamin West'' (1816, 1820) that, when he was a child, [[Native Americans in the United States|Native Americans]] showed him how to make paint by mixing some clay from the river bank with bear grease in a pot. Benjamin West was an [[autodidact]]; while excelling at the arts, "he had little [formal] education and, even when president of the Royal Academy, could scarcely spell".<ref>Hughes, Robert (1997). ''American Visions: The Epic History of Art in America''. Alfred A. Knopf. p. 70. {{ISBN|0-679-42627-2}}</ref> One day his mother left him alone with his little sister Sally. Benjamin discovered some bottles of ink and began to paint Sally’s portrait. When his mother came home, she noticed the painting, picked it up and said, “Why, it’s Sally!” and kissed him. Later, he noted, "My mother's kiss made me a painter."<ref>[https://books.google.com/books?id=jKx4FGf_HAYC&pg=PA176&lpg=PA176&dq=%22My+mother%27s+kiss+made+me+a+painter.%22+harper&source=bl&ots=scOdigCy9c&sig=Y_jMgsq8p9-jEHvFeyV9ONJZaOU&hl=en&sa=X&ved=2ahUKEwj85c7CpavfAhXs44MKHd42B3IQ6AEwAHoECAUQAQ#v=onepage&q=%22My%20mother's%20kiss%20made%20me%20a%20painter.%22%20harper&f=false p. 176] of African-American Orators: A Bio-critical Sourcebook, by Richard W. Leeman, 1996.</ref> [[File:Benjamin West, English (born America) - Benjamin Franklin Drawing Electricity from the Sky - Google Art Project.jpg|thumb|right|''Benjamin Franklin Drawing Electricity from the Sky'' c. 1816 at the [[Philadelphia Museum of Art]]]]
+
+From 1746 to 1759, West worked in Pennsylvania, mostly painting portraits.  While West was in [[Lancaster, Pennsylvania|Lancaster]] in 1756, his patron, a gunsmith named [[William Henry (delegate)|William Henry]], encouraged him to paint a ''Death of Socrates'' based on an engraving in [[Charles Rollin]]'s ''Ancient History.'' His resulting composition, which significantly differs from the source, has been called "the most ambitious and interesting painting produced in colonial America".<ref>Allen Staley, "Benjamin West," in ''Benjamin West: American Painter at the English Court'' (Baltimore, 1989), 28. For more on this painting, see Scott Paul Gordon, "Martial Art: Benjamin West's ''Death of Socrates'', Colonial Politics, and the Puzzles of Patronage," ''William and Mary Quarterly'' 65, 1 (2008): 65–100.</ref> [[William Smith (Anglican priest)|Dr William Smith]], then the [[provost (education)|provost]] of the [[College of Philadelphia]], saw the painting in Henry's house and decided to become West's patron, offering him education and, more importantly, connections with wealthy and politically connected Pennsylvanians.  During this time West met [[John Wollaston (painter)|John Wollaston]], a famous painter who had immigrated from London. West learned Wollaston's techniques for painting the shimmer of silk and satin, and also adopted some of "his mannerisms, the most prominent of which was to give all his subjects large almond-shaped eyes, which clients thought very chic".<ref>Hughes (1997), ''American Visions'', p. 71</ref>
+
+West was a close friend of [[Benjamin Franklin]], whose portrait he painted. Franklin was the godfather of West's second son, Benjamin.
+
+==Italian "Grand Tour"==
+Sponsored by Smith and [[William Allen (loyalist)|William Allen]], then reputed to be the wealthiest man in [[Philadelphia]], West traveled to [[Italy]] in 1760 in the company of the Scot William Patoun, a painter who later became an art collector. In common with many artists, architects, and lovers of the fine arts at that time he conducted a [[Grand Tour]]. West expanded his repertoire by copying works of Italian painters such as [[Titian]] and [[Raffaello Santi|Raphael]] direct from the originals.
+In Rome he met a number of international [[Neoclassicism|neo-classical]] artists including German-born [[Anton Rafael Mengs]], Scottish [[Gavin Hamilton (artist)|Gavin Hamilton]], and Austrian [[Angelica Kauffman]].<ref>{{cite book|author=Lister, Raymond|publisher=Cambridge University Press|year=1989|isbn=978-0521356879|title=British Romantic Painting}}</ref>
+
+==England==
+[[File:James Smith - Benjamin West - Google Art Project.jpg|thumb|left|''Self-Portrait'' ([[National Portrait Gallery (United States)|National Portrait Gallery]] in [[Washington, D.C.]])]]
+In August 1763, West arrived in England,<ref name=galt1>Galt, vol. 2, p. 1</ref>  on what he initially intended as a visit on his way back to America.<ref name=galt1/>  In fact, he never returned to America.  He stayed for a month at Bath with William Allen, who was also in the country, and visited his half-brother Thomas West at [[Reading, Berkshire|Reading]] at the urging of his father. In London he was introduced to [[Richard Wilson (painter)|Richard Wilson]] and his student [[Joshua Reynolds]].<ref>Galt, vol. 2, p. 2</ref> He moved into a house in Bedford Street, [[Covent Garden]]. The first picture he painted in England ''Angelica and Medora'', along with a portrait of [[Robert Monckton|General Monckton]],<ref>[https://www.bbc.co.uk/arts/yourpaintings/paintings/lieutenant-general-the-honourable-robert-monckton-1726178183060 BBC – Your Paintings – Lieutenant-General The Honourable Robert Monckton]</ref> and his ''Cymon and Iphigenia'', painted in Rome, were shown at the exhibition in Spring Gardens in 1764.
+
+In 1765 he married Elizabeth Shewell, an American to whom he became engaged in Philadelphia, at [[St Martin-in-the-Fields]].<ref name=cyclo/>
+
+[[William Markham (bishop)|Dr Markham]], then Headmaster of [[Westminster School]], introduced West to [[Samuel Johnson]], [[Edmund Burke]],<ref>Galt, vol. 2, pp. 6–7</ref>   [[Thomas Newton|Thomas Newton, Bishop of Bristol]], [[James Johnson (Bishop of Worcester)|James Johnson, Bishop of Worcester]], and [[Robert Hay Drummond]], Archbishop of York. All three prelates commissioned work from him.<ref>Galt, vol. 2, p. 9</ref> In 1766 West proposed a scheme to decorate [[St Paul's Cathedral]] with paintings. It was rejected by [[Richard Terrick|the Bishop of London]], but his idea of painting an altarpiece for [[St Stephen Walbrook]] was accepted.<ref name=galt15/> At around this time he also received acclaim for his classical subjects, such as ''Orestes and Pylades''  and ''The Continence of Scipio''.<ref name=galt15>Galt, p. 15</ref><ref>Now in the collections of the Tate Gallery and the Fitzwilliam Museum respectively</ref>
+[[File:Benjamin West by Gilbert Stuart 1783-84.jpg|thumb|right|As painted by [[Gilbert Stuart]] in 1783–84]]
+
+Benjamin West was known in England as the "American Raphael". His Raphaelesque painting of ''Archangel Michael Binding the Devil'' is in the collection of [[Trinity College, Cambridge]].<ref>{{cite web|title=Trinity College, University of Cambridge|url=https://www.bbc.co.uk/arts/yourpaintings/paintings/search/located_at/trinity-college-cambridge-5846_locations|publisher=BBC Your Paintings|access-date=February 12, 2018|archive-url=https://archive.is/20140511164255/http://www.bbc.co.uk/arts/yourpaintings/paintings/search/located_at/trinity-college-cambridge-5846_locations|archive-date=May 11, 2014|dead-url=yes|df=mdy-all}}</ref>
+
+===Royal patronage===
+
+Drummond tried to raise subscriptions to fund an annuity for West, so that he could give up portraiture and devote himself entirely to more ambitious compositions. Having failed in this, he tried—with greater success—to convince King George III to patronise West.<ref>Galt, vol. 2, p. 20</ref>  West was soon on good terms with the king, and the two men conducted long discussions on the state of art in England, including the idea of the establishment of a Royal Academy.<ref>Galt, vol. 2, pp. 33–34</ref> The academy came into being in 1768, with West one of the primary leaders of an opposition group formed out of the existing [[Society of Artists of Great Britain]]. Joshua Reynolds was its first president. In a story related by Henry Angelo I (1756–1835) in his book of reminiscences, the actor [[David Garrick]], who was a friend of Angelo's father, the Italian sword master [[Domenico Angelo]], memorably sketched for the teenaged Henry the following exchange: one day the painter [[Francesco Zuccarelli]], on one of his visits to Domenico, got into a dispute with his fellow royal academician [[Johan Zoffany]] about the merit of West's 1769 painting ''The Departure of Regulus'', his first commission for the king.  Zuccarelli exclaimed, "Here is a painter who promises to rival [[Nicolas Poussin]]", while Zoffany tauntingly replied, "A figo for Poussin, West has already beaten him out of the field."<ref>Angelo (1828), pp. 360–61.</ref>
+
+In 1772, King George appointed him historical painter to the court<ref>{{cite book | last1 = Birmingham Museum of Art | authorlink1 = Birmingham Museum of Art | title = Birmingham Museum of Art: Guide to the Collection | publisher = Giles | year = 2010 | location = London | page = 104 | url = http://www.birminghammuseumstore.org/gutoco.html | accessdate = July 19, 2011 | isbn = 978-1-904832-77-5 | deadurl = yes | archiveurl = https://web.archive.org/web/20110910171202/http://www.birminghammuseumstore.org/gutoco.html | archivedate = September 10, 2011 | df = mdy-all }}</ref> at an annual fee of £1,000.<ref name=cyclo/>  He painted a series of eight large canvases showing exfrom the life of [[Edward III of England|Edward III]] for St George's Hall at [[Windsor Castle]],<ref>{{cite book|last=Black|first=Jeremy|title=Culture in Eighteenth-Century England: A Subject for Taste|year=2007|publisher=Continuum|location=London|isbn=9781852855345|pages=36|url=https://books.google.com/books?id=TmVK_LYCXqoC&pg=PA36&lpg=PA36&dq}}</ref>  and proposed a cycle of 36 works on the theme of "the progress of revealed religion" for a chapel at the castle, of which 28 were eventually executed.<ref name=cyclo/> He also painted nine portraits of members of the royal family,<ref name=cyclo/>  including two of the king himself. He was [[Surveyor of the King's Pictures]] from 1791 until his death.
+
+===''The Death of General Wolfe''===
+[[File:Benjamin West 005.jpg|thumb|upright=1.4| |''[[The Death of General Wolfe]],'' 1770]]
+He painted his most famous, and possibly most influential painting, ''[[The Death of General Wolfe]]'', in 1770 and it exhibited at the Royal Academy in 1771.  The painting became one of the most frequently reproduced images of the period.  It returned to the [[French and Indian War]] setting of his ''[[General Johnson Saving a Wounded French Officer from the Tomahawk of a North American Indian]]'' of 1768.
+
+West became known for his large scale [[history painting]]s, which use expressive figures, colours and compositional schemes to help the spectator to identify with the scene represented. West called this "[[epic (genre)|epic]] representation". His 1778 work ''[[The Battle of the Boyne (painting)|The Battle of the Boyne]]'' portrayed [[William III of England|William of Orange]]'s victory at the [[Battle of the Boyne]] in 1690, and strongly influenced subsequent images of William. In 1806 he produced ''[[The Death of Nelson (West painting)|The Death of Nelson]]'', to commemorate [[Horatio Nelson]]'s death at the [[Battle of Trafalgar]].
+
+===Later religious painting===
+[[File:St Paul Birmingham east window.jpg|thumb|The east window at [[St Paul's Church, Birmingham|St Paul's Church]], Birmingham]]
+[[St Paul's Church, Birmingham|St Paul's Church]], in the Jewellery Quarter, Birmingham, has an important enamelled [[stained glass]] east window made in 1791 by [[Francis Eginton]], modelled on an [[altarpiece]] painted c. 1786 by West, now in the [[Dallas Museum of Art]].<ref>{{cite web |url=http://collections.dallasmuseumofart.org/ |title=Dallas Museum of Art, accession number 1990.232 |publisher=Collections.dallasmuseumofart.org |date= |accessdate=September 7, 2012 |archive-url=https://web.archive.org/web/20121025015356/http://collections.dallasmuseumofart.org/ |archive-date=October 25, 2012 |dead-url=yes |df=mdy-all }}</ref><ref>{{cite web |url=http://www.saintpaulbrum.org/explore.php |title=St Paul's website – Features of St Paul's Church |publisher=Saintpaulbrum.org |date= |accessdate=September 7, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121115084050/http://www.saintpaulbrum.org/explore.php |archivedate=November 15, 2012 |df=mdy-all }}</ref> It shows the [[Conversion of Paul]]. He was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]] in 1791.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter W|url=http://www.amacad.org/publications/BookofMembers/ChapterW.pdf|publisher=American Academy of Arts and Sciences|accessdate=July 28, 2014}}</ref>
+
+West is also well known for his huge work in the Chapel of St Peter and St Paul which now forms part of the [[Old Royal Naval College]] in Greenwich, London.  His work, ''The Preservation of St Paul after a Shipwreck at Malta'', measures 25&nbsp;ft by 14&nbsp;ft and illustrates the Acts of the Apostles: 27 & 28.  West also provided the designs for the other paintings executed by Biaggio Rebecca in the Chapel.
+
+Following a loss of royal patronage at the beginning of the 19th century, West began a series of large-scale religious works.  The first, ''Christ Healing the Sick'' was originally intended as a gift to [[Pennsylvania Hospital]] in Philadelphia; instead he sold it to the British Institution for £3,000, which in turn presented it to the National Gallery.<ref name=cyclo/><ref>This first version was transferred to the Tate Gallery where it was destroyed in a flood in 1928.</ref> West then made a copy to send to Philadelphia. The success of the picture led him to paint a series of even larger works, including his ''Death on the Pale Horse'', exhibited in 1817.<ref name=cyclo>{{cite book|chapter=West, Benjamin|title=The English Cyclopædia. Biography – Volume VI|editor=Knight, Charles|publisher=Bradbury and Evans|location=London|year=1858}}</ref>
+
+===Royal Academy===
+Though initially snubbed by Sir Joshua Reynolds, founding President of the Royal Academy, and by some other Academicians who felt he was over-ambitious, West was elected President of the Royal Academy on the death of Reynolds in 1792. He resigned in 1805, to be replaced by a fierce rival, architect [[James Wyatt]]. However West was again elected President the following year, and served until his death.
+
+===Pupils===
+Many American artists studied under him in London, including [[Ralph Earl]] and later his son, [[Ralph Eleaser Whiteside Earl]], [[Samuel Morse]], [[Robert Fulton]], [[Charles Willson Peale]], [[Rembrandt Peale]], [[Matthew Pratt]], [[Gilbert Stuart]], [[John Trumbull]], [[Washington Allston]], [[Thomas Sully]],<ref>{{cite web
+  | title = The Joseph Downs Collection
+  | publisher = Winterthur Library
+  | url = http://findingaid.winterthur.org/html/HTML_Finding_Aids/COL0394.htm
+  | accessdate = March 24, 2008}}</ref> [[John Green (painter)|John Green]], and [[Abraham Delanoy]].<ref name="SaundersMiles1987">{{cite book|author1=Richard H. Saunders|author2=Ellen Gross Miles|author3=National Portrait Gallery (Smithsonian Institution)|title=American colonial portraits, 1700–1776|url=https://books.google.com/books?id=45_uAAAAMAAJ|year=1987|publisher=Published by the Smithsonian Institution Press for the National Portrait Gallery|isbn=978-0-87474-695-2}}</ref>
+
+===Death===
+West died at his house in Newman Street, London,  on March 11, 1820, and was buried in St Paul's Cathedral.<ref name=cyclo/>
+
+==Gallery==
+<gallery widths="200px" heights="200px">
+File:Robert Moncton Martinique.jpg|''[[Robert Monckton]]'', 1762
+File:Benjamin West - Pylades and Orestes Brought as Victims before Iphigenia - Google Art Project.jpg|''Pylades and Orestes Brought as Victims before Iphigenia'', 1766
+File:Treaty of Penn with Indians by Benjamin West.jpg|''Treaty of Penn with Indians'', 1772
+File:Benjamin West - Isaac's servant tying the bracelet on Rebecca's arm - Google Art Project.jpg|''Isaac's Servant Tying the Bracelet on Rebecca's Arm'', 1775
+File:1777, West, Benjamin, Two Officers and a Groom in a Landscape.jpg|''Two Officers and a Groom in a Landscape'', 1777, [[Princeton University Art Museum]]
+File:Dr Richard Price, DD, FRS - Benjamin West.jpg|Welsh moral philosopher [[Richard Price]], 1784
+File:Benjamin West - Alexander III of Scotland Rescued from the Fury of a Stag by the Intrepidity of Colin Fitzgerald ('The Death of the Stag') - Google Art Project.jpg|''Death of a Stag'' or ''Alexander III of Scotland Rescued from the Fury of a Stag by the Intrepidity of Colin Fitzgerald'', 1786
+File:King Lear and Cordelia (West, 1793).jpg|''[[King Lear]] and Cordelia'', 1793
+File:1797, West, Benjamin, The Woman Clothed with the Sun Fleeth from the Persecution of the Dragon.jpg|''[[Woman of the Apocalypse|The Woman]] Clothed with the Sun Fleeth from the Persecution of the Dragon'', c. 1797, [[Princeton University Art Museum]]
+File:Benjamin West - Joshua passing the River Jordan with the Ark of the Covenant - Google Art Project.jpg|''Joshua passing the River Jordan with the Ark of the Covenant'',  1800
+File:Benjamin West - Cupid and Psyche.jpg|''[[Cupid and Psyche]]'', 1808
+File:Benjamin west omnia vincit amor 1809.jpg|''Omnia Vincit Amor'', 1809
+File:Benjamin West - John Eardley Wilmot - Google Art Project.jpg|''[[John Eardley Wilmot]]'', 1812
+File:Benjamin West - Self-Portrait - Google Art Project.jpg|''Self-Portrait'', 1819
+File:Treaty of Paris by Benjamin West 1783.jpg|Painting of the American delegations at the Treaty of Paris. The British delegation refused to pose, and the painting was never completed, 1783–1784.
+</gallery>
+
+==Works==
+* ''John Sedley'', [https://archive.org/stream/americanpainters00sheriala#page/64/mode/2up view]
+* ''Portrait of a Gentleman'', [https://archive.org/stream/americanpainters00sheriala#page/66/mode/2up view]
+* ''Presentation of the Queen of Sheba at the Court of King Solomon'', [https://archive.org/stream/americanpainters00sheriala#page/68/mode/2up view]
+* ''The Envoys Returning from the Promised Land'', [https://archive.org/stream/americanpainters00sheriala#page/68/mode/2up view]
+
+==References==
+
+{{Reflist}}
+
+==Sources==
+*{{cite book|last1=Angelo|first1=Henry|title=Reminiscences of Henry Angelo, with memoirs of his late father and friends, including numerous original anecdotes and curious traits of the most celebrated characters that have flourished during the last eighty years|date=1828|format=Vol. 1|publisher=H. Colburn|location=London}}
+* John Galt: [https://archive.org/stream/lifestudiesofben00galt#page/n9/mode/2up ''The life and studies of Benjamin West ... prior to his arrival in England'';] Publisher: Moses Thomas,  Philadelphia (1816)
+* John Galt: [https://archive.org/stream/lifestudiesandw00galtgoog#page/n8/mode/2up ''The Life, Studies, and Works of Benjamin West, Esq., President of the Royal Academy of London''] Publisher: Printed for T. Cadell and W. Davies. (1820)
+* John Galt: [https://archive.org/stream/progressgenius00galtiala#page/n7/mode/2up The progress of genius : or authentic memoirs of the early life of Benjamin West]. Abridged for the use of young persons. Publisher: Leonard C. Bowles.  Boston (1832)
+* [[John Galt (novelist)|John Galt]], ''The Life and Studies of Benjamin West, Esq.'' (1816).
+* Helmut von Erffa and Allen Staley, ''The Paintings of Benjamin West'' (New Haven, 1986).
+* Ann Uhry Abrams, ''The Valiant Hero: Benjamin West and Grand-Style History Painting'' (Washington, 1985).
+* [[James Thomas Flexner]], "Benjamin West's American Neo-Classicism," ''New-York Historical Society Quarterly'' 36, 1 (1952), 5–41, rept. in ''America's Old Masters'' (New York, 1967), 315–40.
+* Susan Rather. Benjamin West, John Galt, and the Biography of 1816. The Art Bulletin, Vol. 86, No. 2 (Jun. 2004), pp.&nbsp;324–45
+* Sherman, Frederic Fairchild, ''American Painters of Yesterday and Today'', 1919, Priv. print in New York. Chapter: Benjamin West:https://archive.org/stream/americanpainters00sheriala#page/62/mode/2up
+
+==External links==
+{{Commons+cat|Benjamin West}}
+{{EB1911 poster|West, Benjamin}}
+*{{cite DNB|wstitle=West, Benjamin |short=x}}
+*[http://findingaid.winterthur.org/html/HTML_Finding_Aids/COL0394.htm The Winterthur Library] Overview of an archival collection on Benjamin West.
+*[http://www.racollection.org.uk/ixbin/indexplus?record=ART309&_IXFILE_=templates/pages/kiosk/video3.html Royal Academy Collections website] Loyd Grossman talking about West's work
+*[http://www.getty.edu/vow/ULANFullDisplay?find=west%2C+ben*&role=&nation=&prev_page=1&subjectid=500026989 Union List of Artist Names, Getty Vocabularies.] ULAN Full Record Display for Benjamin West. Getty Vocabulary Program, [[Getty Research Institute]]. Los Angeles, California.
+* The [http://www2.hsp.org/collections/manuscripts/w/West3149.html Benjamin West Drawings Collection], including 33 of his drawings and sketches, is available for research use at the [[Historical Society of Pennsylvania]].
+*[http://gildedage2.omeka.net/exhibits/show/highlights/artists/west Documenting the Gilded Age: New York City Exhibitions at the Turn of the 20th Century]. A [[New York Art Resources Consortium]] project. Annotations and a pencil sketch of a West painting in an exhibition catalog.
+*{{Art UK bio}}
+
+{{s-start}}
+{{s-culture}}
+{{s-bef |before=[[Joshua Reynolds]]}}
+{{s-ttl |title=[[Royal Academy#Presidents (P.R.A.)|President of the Royal Academy]] |years=1792–1805}}
+{{s-aft |after=[[James Wyatt]]}}
+{{s-bef |before=[[James Wyatt]]}}
+{{s-ttl |title=[[Royal Academy#Presidents (P.R.A.)|President of the Royal Academy]] |years=1806–1820}}
+{{s-aft |after=[[Thomas Lawrence|Sir Thomas Lawrence]]}}
+{{s-end}}
+{{Benjamin West}}
+{{Authority control}}
+
+{{DEFAULTSORT:West, Benjamin}}
+[[Category:18th-century American painters]]
+[[Category:American male painters]]
+[[Category:19th-century American painters]]
+[[Category:18th-century English painters]]
+[[Category:English male painters]]
+[[Category:19th-century English painters]]
+[[Category:Royal Academicians]]
+[[Category:1738 births]]
+[[Category:1820 deaths]]
+[[Category:Surveyors of the Queen's Pictures]]
+[[Category:American history painters]]
+[[Category:People from Delaware County, Pennsylvania]]
+[[Category:People of colonial Pennsylvania]]
+[[Category:American portrait painters]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]

@@ -1,0 +1,27 @@
+'''Kenneth Whyld''' (6 March 1926 – 11 July 2003) was a [[United Kingdom|British]] [[chess]] author and researcher, best known as the co-author (with [[David Vincent Hooper|David Hooper]]) of ''[[The Oxford Companion to Chess]]'', a single-volume chess reference work in English.
+
+Whyld was a strong amateur chess player, taking part in the [[British Chess Championship]] in 1956 and winning the county championship of [[Nottinghamshire]]. He subsequently made his living in [[information technology]] while writing books on chess and researching its history.
+
+As well as ''[[The Oxford Companion to Chess]]'', Whyld was the author of other reference works such as ''Chess: The Records'' (1986), an adjunct to the ''[[Guinness Book of Records]]'' and the comprehensive ''The Collected Games of [[Emanuel Lasker]]'' (1998). He also researched more esoteric subjects, resulting in works such as ''Alekhine Nazi Articles'' (2002) on articles in favour of the Nazi Party supposedly written by world chess champion [[Alexander Alekhine]], and the bibliographies ''Fake Automata in Chess'' (1994) and ''Chess Columns: A List'' (2002).
+
+From 1978 until his death in 2003, Whyld wrote the "Quotes and Queries" column in the ''[[British Chess Magazine]]''.
+
+Shortly after Whyld's death, the Ken Whyld Association was established with the aim of compiling a comprehensive chess bibliography in database form and promoting chess history.
+
+Whyld's library was later sold to the [[Musée Suisse du Jeu]], located on the shores of [[Lake Geneva]] in [[Switzerland]] (as reported in [http://www.gadycosteff.com/eg/eg.html number 152] of ''[[EG (magazine)|EG]]'').
+
+==External links==
+*[https://web.archive.org/web/20030802085139/http://bcmchess.co.uk/news/obitwhyld.html Tributes from the British Chess Magazine website]
+*[http://www.chesscafe.com/text/collasker.txt Review of ''The Collected Games of Emanuel Lasker'']
+*[http://seagaard.dk/review/eng/bo_history/mor_alekhine_nazi_articles.asp?KATID=BO&ID=BO-History&PUBID=MOR&AUTID=118 Review of ''Alekhine Nazi Articles'']
+*[http://www.kwabc.org/ The Ken Whyld Association]
+
+{{Authority control}}
+{{DEFAULTSORT:Whyld, Ken}}
+[[Category:1926 births]]
+[[Category:2003 deaths]]
+[[Category:British chess players]]
+[[Category:British chess writers]]
+[[Category:Chess historians]]
+
+{{England-chess-bio-stub}}

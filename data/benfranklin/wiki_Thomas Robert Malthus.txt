@@ -1,0 +1,258 @@
+{{Redirect|Malthus|the demon|Malthus (demon)}}
+{{Use dmy dates|date=August 2012}}
+{{Use British English|date=August 2012}}
+{{Infobox economist
+|school_tradition = [[Classical economics]]
+|image = Thomas Robert Malthus Wellcome L0069037 -crop.jpg
+|image_size = 225px
+|caption = Portrait by [[John Linnell (painter)|John Linnell]]
+|name = Thomas Robert Malthus
+|honorific_suffix = {{postnominals|country=GBR|size=100%|FRS}}
+|birth_date = 13/14 February 1766
+|birth_place = [[Westcott, Surrey|Westcott]], [[Surrey]], England
+|death_date = {{Death date and age|1834|12|23|1766|2|13|df=y}}
+|death_place = [[Bath, Somerset|Bath]], [[Somerset]], England
+|nationality = British
+|alma_mater = [[Jesus College, Cambridge]]
+|field = [[Demography]], [[macroeconomics]]
+|influences = [[David Ricardo]], [[Jean Charles Léonard de Sismondi]]
+|influenced = [[Charles Darwin]], [[John Maynard Keynes]], [[Alfred Russel Wallace]], [[Thanos]]
+|contributions = [[Malthusian growth model]]
+}}
+
+'''Thomas Robert Malthus''' {{postnominals|country=GBR|FRS}} ({{IPAc-en|ˈ|m|æ|l|θ|ə|s}}; 13 February 1766&nbsp;– 23 December 1834)<ref>Several sources give Malthus's date of death as 15 December  1834. See [http://www.retrobibliothek.de/retrobib/seite.html?id=110865 ''Meyers Konversationslexikon''] (Leipzig, 4th edition, 1885–1892), [http://homepages.caverock.net.nz/~kh/bobperson.html "Biography"] by Nigel Malthus (the memorial transcription reproduced in this article). But article in {{cite EB1911|wstitle=Malthus, Thomas Robert |volume=17 |page=515 |short=x}} gives 23 December 1834.</ref> was an English cleric and scholar, influential in the fields of [[political economy]] and [[demography]].<ref name="Petersen, William 1979">Petersen, William. 1979. ''Malthus''. Heinemann, London. 2nd ed 1999.</ref> Malthus himself used only his middle name, Robert.<ref name="ReferenceA">{{acad|id=MLTS784TR|name=Malthus, Thomas Robert}}</ref>
+
+In his 1798 book ''[[An Essay on the Principle of Population]]'', Malthus observed that an increase in a nation's food production improved the well-being of the populace, but the improvement was temporary because it led to population growth, which in turn restored the original per capita production level. In other words, mankind had a propensity to utilize [[Abundance (economics)|abundance]] for population growth rather than for maintaining a high standard of living, a view that has become known as the "[[Malthusian trap]]" or the "Malthusian spectre".  Populations had a tendency to grow until the lower class suffered hardship and want and greater susceptibility to [[famine]] and [[disease]], a view that is sometimes referred to as a [[Malthusian catastrophe]]. Malthus wrote in opposition to the popular view in 18th-century Europe that saw society as improving and in principle as perfectible.<ref>Geoffrey Gilbert, introduction to Malthus T.R. 1798. ''An Essay on the Principle of Population''. Oxford World's Classics reprint. viii in Oxford World's Classics reprint.</ref> He saw [[population growth]] as being inevitable whenever conditions improved, thereby precluding real progress towards a [[utopia]]n society: "The power of population is indefinitely greater than the power in the earth to produce subsistence for man".<ref name="Malthus T.R 1798. p13">Malthus T.R. 1798. ''An Essay on the Principle of Population''. Chapter 1, p. 13 in Oxford World's Classics reprint.</ref> As an Anglican cleric, Malthus saw this situation as divinely imposed to teach virtuous behaviour.<ref name=bowler>{{cite book|author=Bowler, Peter J.|title=Evolution: the history of an idea|publisher=University of California Press|location=Berkeley|year=2003|pages=104–05|isbn=0-520-23693-9}}
+</ref> Malthus wrote:
+{{quote|That the increase of population is necessarily limited by the means of subsistence,<br>That population does invariably increase when the means of subsistence increase, and,<br>That the superior power of population is repressed by moral restraint, vice and misery.<ref>Malthus T.R. 1798. ''An Essay on the Principle of Population'', in Oxford World's Classics reprint. p. 61, end of Chapter VII</ref>}}
+Malthus criticized the [[English Poor Laws|Poor Laws]] for leading to inflation rather than improving the well-being of the poor.<ref>Malthus T.R. 1798. ''An Essay on the Principle of Population''. Chapter V, pp. 39–45. in Oxford World's Classics reprint.</ref> He supported taxes on grain imports (the [[Corn Laws]]), because food security was more important than maximizing wealth.<ref>Geoffrey Gilbert, introduction to Malthus T.R. 1798. ''An Essay on the Principle of Population''. Oxford World's Classics reprint. xx.</ref> His views became influential, and controversial, across economic, political, social and scientific thought. Pioneers of [[evolutionary biology]] read him, notably [[Charles Darwin]] and [[Alfred Russel Wallace]].<ref>Browne, Janet 1995. ''Charles Darwin: Voyaging''. Cape, London. pp. 385–90</ref><ref>Raby P. 2001. ''Alfred Russel Wallace: a life''. Princeton. pp. 21, 131</ref> He remains a much-debated writer.
+
+==Early life and education==
+The sixth <ref>{{Cite web|url=https://www.encyclopedia.com/people/social-sciences-and-law/economics-biographies/thomas-robert-malthus|title=Malthus, Thomas Robert|accessdate=2019-01-04}}</ref>child of Henrietta Catherine (Graham) and Daniel Malthus,<ref>{{Cite web|url=http://homepages.caverock.net.nz/~kh/bobperson.html|title=Malthus TRM Biography|accessdate=2010-02-13}}</ref><ref>http://www.encyclopedia.com/topic/Thomas_Robert_Malthus.aspx</ref> Robert Malthus grew up in The Rookery, a country house in [[Westcott, Surrey|Westcott]], near [[Dorking]] in [[Surrey]]. Thomas was bullied from an early age because of his syndactyly, or webbed feet. This sparked his controversial ideas about eugenics. Petersen describes Daniel Malthus as "a gentleman of good family and independent means... [and] a friend of [[David Hume]] and [[Jean-Jacques Rousseau]]".<ref>Petersen, William. 1979. ''Malthus''. Heinemann, London. 2nd ed 1999. p. 21</ref> The young Malthus received his education at home in [[Bramcote]], [[Nottinghamshire]], and then at the [[Warrington Academy]] from 1782. Warrington was a [[dissenting academy]], which closed in 1783; Malthus continued for a period to be tutored by [[Gilbert Wakefield]] who had taught him there.<ref name="Godwin1997">{{cite book|author=John Avery|title=Progress, Poverty and Population: Re-Reading Condorcet, Godwin and Malthus|url=https://books.google.com/books?id=ZA0lNlvbh0sC&pg=PA56|accessdate=14 June 2013|year=1997|publisher=Frank Cass|isbn=978-0-7146-4750-0|pages=56–57}}</ref>
+
+Malthus entered [[Jesus College, Cambridge]] in 1784. There he took prizes in English declamation, [[Latin]] and [[Greek language|Greek]], and graduated with honours, Ninth [[Wrangler (University of Cambridge)|Wrangler]] in [[mathematics]]. His tutor was [[William Frend (reformer)|William Frend]].<ref name="Godwin1997"/><ref>Petersen, William. 1979. ''Malthus''. Heinemann, London. 2nd ed 1999. p. 28</ref> He took the [[Master of Arts|MA]] degree in 1791, and was elected a [[Fellow#Oxford, Cambridge and Dublin|Fellow]] of Jesus College two years later.<ref name="ReferenceA"/> In 1789, he [[ordination|took orders]] in the [[Church of England]], and became a [[curate]] at Oakwood Chapel (also Okewood) in the parish of [[Wotton, Surrey]].<ref>{{cite book|author=Thomas Robert Malthus|title=T.R. Malthus: The Unpublished Papers in the Collection of Kanto Gakuen University|url=https://books.google.com/books?id=-AgghdjSxQEC&pg=PA54|accessdate=14 June 2013|year=1997|publisher=Cambridge University Press|isbn=978-0-521-58138-7|page=54 note 196}}</ref>
+
+==Population growth==
+{{details|Malthusian catastrophe}}
+[[File:Malthus - Essay on the principle of population, 1826 - 5884843.tif|thumb|''Essay on the principle of population'', 1826]]
+Malthus came to prominence for his 1798 essay on [[population growth]]. In it, he argued that population multiplies [[Geometric progression|geometrically]] and food [[Arithmetic progression|arithmetically]]; therefore, whenever the food supply increases, population will rapidly grow to eliminate the abundance. Between 1798 and 1826 he published six editions of ''[[An Essay on the Principle of Population]]'', updating each edition to incorporate new material, to address criticism, and to convey changes in his own perspectives on the subject. He wrote the original text in reaction to the optimism of his father and his father's associates (notably Rousseau) regarding the future improvement of society. Malthus also constructed his case as a specific response to writings of [[William Godwin]] (1756–1836) and of the [[Marquis de Condorcet]] (1743–1794).
+
+The ''Essay'' gave rise to the '''Malthusian controversy''' during the next decades. The content saw an emphasis on the [[birth rate]] and [[marriage rates]]. The '''neo-Malthusian controversy''', or related debates of many years later, has seen a similar central role assigned to the numbers of children born.<ref>{{cite book|author=G. Talbot Griffith|title=Population Problems of the Age of Malthus|url=https://books.google.com/books?id=NkUoqtdA4oAC&pg=PA97|accessdate=14 June 2013|date=9 December 2010|publisher=Cambridge University Press|isbn=978-0-521-17863-1|page=97}}</ref>
+
+In 1799 Malthus made a European tour with [[William Otter]], a close college friend, travelling part of the way with [[Edward Daniel Clarke]] and John Marten Cripps, visiting Germany, Scandinavia and Russia. Malthus used the trip to gather population data. Otter later wrote a ''Memoir'' of Malthus for the second (1836) edition of his ''Principles of Political Economy''.<ref>{{cite DNB|wstitle=Otter, William|volume=42}}</ref><ref>{{cite ODNB|id=20935|title=Otter, William|first=Arthur|last=Burns}}</ref> During the [[Peace of Amiens]] of 1802 he travelled to France and Switzerland, in a party that included his relation and future wife Harriet.<ref>{{cite book|author1=Jean-Antoine-Nicolas de Caritat Condorcet (marquès de)|author2=William Godwin|author3=Thomas Robert Malthus|title=Progress, Poverty and Population: Re-Reading Condorcet, Godwin and Malthus|url=https://books.google.com/books?id=ZA0lNlvbh0sC&pg=PA64|accessdate=14 June 2013|year=1997|publisher=Routledge|isbn=978-0-7146-4750-0|page=64}}</ref> In 1803 he became rector of [[Walesby, Lincolnshire]].<ref name="ReferenceA"/>
+
+==Academic==
+In 1805 Malthus became Professor of History and Political Economy at the [[East India Company College]] in [[Hertfordshire]].<ref>Malthus T. R. 1798. ''An Essay on the Principle of Population''. Oxford World's Classics reprint: xxix Chronology.</ref> His students affectionately referred to him as "Pop", "Population", or "web-toe" Malthus.
+
+At the end of 1816 the proposed appointment of [[Graves Champney Haughton]] to the College was made a pretext by Randle Jackson and [[Joseph Hume]] to launch an attempt to close it down. Malthus wrote a pamphlet defending the College, which was reprieved by the East India Company in 1817.<ref>{{cite book|author=Thomas Robert Malthus|title=T.R. Malthus: The Unpublished Papers in the Collection of Kanto Gakuen University|url=https://books.google.com/books?id=-AgghdjSxQEC&pg=PA120|accessdate=14 June 2013|year=1997|publisher=Cambridge University Press|isbn=978-0-521-58138-7|page=120 notes}}</ref> In 1818 Malthus became a Fellow of the [[Royal Society]].
+
+==Malthus–Ricardo debate on political economy==
+During the 1820s there took place a setpiece intellectual discussion within the proponents of [[political economy]], often called the "Malthus–Ricardo debate", after the leading figures of Malthus and [[David Ricardo]], a theorist of [[free trade]], both of whom had written books with the title ''Principles of Political Economy''. Under examination were the nature and methods of political economy itself, while it was simultaneously under attack from others.<ref>{{cite book|author=[[Mary Poovey]]|title=A History of the Modern Fact: Problems of Knowledge in the Sciences of Wealth and Society|url=https://books.google.com/books?id=Cf7ProAtFBkC&pg=PA295|accessdate=14 June 2013|date=1 December 1998|publisher=University of Chicago Press|isbn=978-0-226-67525-1|page=295}}</ref> The roots of the debate were in the previous decade. In ''The Nature of Rent'' (1815), Malthus had dealt with [[economic rent]], a major concept in classical economics. Ricardo defined a theory of rent in his ''Principles of Political Economy and Taxation'' (1817): he regarded rent as value in excess of real production—something caused by ownership rather than by free trade. Rent therefore represented a kind of negative money that landlords could pull out of the production of the land, by means of its scarcity.<ref>''On The Principles of Political Economy and Taxation'', London: John Murray, Albemarle-Street, by David Ricardo, 1817 (third edition 1821)&nbsp;– Chapter 6, On Profits: paragraph 28, "Thus, taking the former ..." and paragraph 33, "There can, however ..."</ref> Contrary to this concept, Malthus proposed rent to be a kind of [[economic surplus]].{{citation needed|date=June 2015}}
+
+The debate developed over the economic concept of a [[general glut]], and the possibility of failure of [[Say's Law]]. Malthus laid importance on [[economic development]] and the persistence of [[disequilibrium (economics)|disequilibrium]].<ref name="S193">Sowell, pp. 193–4.</ref> The context was the post-war depression; Malthus had a supporter in [[William Blake (economist)|William Blake]], in denying that [[capital accumulation]] (saving) was always good in such circumstances, and [[John Stuart Mill]] attacked Blake on the fringes of the debate.<ref>{{cite book|author=[[Donald Winch]]|title=Riches and Poverty: An Intellectual History of Political Economy in Britain, 1750–1834|url=https://books.google.com/books?id=JiWojsCk0_8C&pg=PA365|accessdate=14 June 2013|date=26 January 1996|publisher=Cambridge University Press|isbn=978-0-521-55920-1|page=365}}</ref>
+
+Ricardo corresponded with Malthus from 1817 and his ''Principles''. He was drawn into considering political economy in a less restricted sense, which might be adapted to legislation and its multiple objectives, by the thought of Malthus. In his own work ''Principles of Political Economy'' (1820), and elsewhere, Malthus addressed the tension, amounting to conflict, he saw between a narrow view of political economy, and the broader moral and political plane.<ref name="ColliniWinch1983">{{cite book|author1=[[Stefan Collini]]|author2=[[Donald Winch]]|author3=[[John Wyon Burrow]]|title=That Noble Science of Politics: A Study in Nineteenth Century Intellectual History|url=https://books.google.com/books?id=E688AAAAIAAJ&pg=PA65|accessdate=14 June 2013|year=1983|publisher=CUP Archive|isbn=978-0-521-27770-9|page=65}}</ref> [[Leslie Stephen]] wrote:
+
+<blockquote>If Malthus and Ricardo differed, it was a difference of men who accepted the same first principles. They both professed to interpret [[Adam Smith]] as the true prophet, and represented different shades of opinion rather than diverging sects.<ref name="Stephen2006">{{cite book|author=[[Leslie Stephen]]|title=The English Utilitarians|url=https://books.google.com/books?id=-QKLMdbt5JIC&pg=PA238|accessdate=14 June 2013|date=1 March 2006|publisher=Continuum International Publishing Group|isbn=978-0-8264-8816-9|page=238|volume=1}}</ref></blockquote>
+
+After Ricardo's death in 1823, Malthus became isolated among the younger British political economists, who tended to think he had lost the debate.{{Citation needed|date=May 2017}}It is now considered that the different purposes seen by Malthus and Ricardo for political economy affected their technical discussion, and contributed to the lack of compatible definitions.<ref name="S193"/> For example, [[Jean-Baptiste Say]] used a definition of production based on [[goods and services]] and so queried the restriction of Malthus to "goods" alone.<ref>{{cite book|author=Samuel Hollander|title=Jean-Baptiste Say and the Classical Canon in Economics: The British Connection in French Classicism|url=https://books.google.com/books?id=IZdF-SECz9cC&pg=PA170|accessdate=14 June 2013|date=14 January 2005|publisher=Taylor & Francis|isbn=978-0-203-02228-3|page=170}}</ref>
+
+In terms of public policy, Malthus was a supporter of the protectionist [[Corn Laws]] from the end of the [[Napoleonic Wars]]. He emerged as the only economist of note to support duties on imported grain.<ref>Geoffrey Gilbert, introduction to Malthus T.R. 1798. ''An Essay on the Principle of Population''. Oxford World's Classics reprint. xx in Oxford World's Classics reprint. xx</ref> He changed his mind after 1814. By encouraging domestic production, Malthus argued, the Corn Laws would guarantee British [[self-sufficiency]] in food.<ref>Cannan E. 1893. ''A History of the Theories of Production and Distribution in English Political Economy from 1776 to 1848''. Kelly, New York.</ref>
+
+==Later life==
+Malthus was a founding member of the [[Political Economy Club]] in 1821; there [[John Cazenove]] tended to be his ally, against Ricardo and Mill.<ref>{{cite book|author=Thomas Robert Malthus|title=Principles of Political Economy|url=https://books.google.com/books?id=qjs1DUxjFr8C&pg=PR58|accessdate=14 June 2013|year=1989|publisher=Cambridge University Press|isbn=978-0-521-24775-7|page=lxviii}}</ref> He was elected in the beginning of 1824 as one of the ten royal associates of the [[Royal Society of Literature]]. He was also one of the first fellows of the [[Statistical Society]], founded in March 1834. In 1827 he gave evidence to a committee of the House of Commons on emigration.<ref name="DNB">{{cite DNB|wstitle=Malthus, Thomas Robert|volume=36}}</ref>
+
+In 1827, he published ''Definitions in Political Economy, preceded by an inquiry into the rules which ought to guide political economists in the definition and use of their terms; with remarks on the deviation from these rules in their writings.''<ref>{{cite book|last1=Malthus|first1=Thomas Robert|title=Definitions in Political Economy|date=1827|publisher=John Murray|location=London}}</ref> The first chapter put forth "Rules for the Definition and Application of Terms in Political Economy". In chapter 10, the penultimate chapter, he presented 60 numbered paragraphs putting forth terms and their definitions that he proposed, following those rules, should be used in discussing political economy. This collection of terms and definitions is remarkable for two reasons: first, Malthus was the first economist to explicitly organize, define, and publish his terms as a coherent glossary of defined terms; and second, his definitions were, for the most part, well-formed definitional statements.
+Between these chapters, he criticized several contemporary economists—[[Jean-Baptiste Say]], [[David Ricardo]], [[James Mill]], [[John Ramsay McCulloch]], and [[Samuel Bailey]]—for sloppiness in choosing, attaching meaning to, and using their technical terms.<ref name="Definitions in Political Economy">{{cite book|last1=Malthus|first1=Thomas Robert|title=Definitions in Political Economy|date=2016|publisher=Berkeley Bridge Press|location=McLean|isbn=978-1-945208-01-0|url=http://www.politics-prose.com/book/9781945208010}}</ref>
+
+McCulloch was the editor of ''The Scotsman'' of Edinburgh; he replied cuttingly in a review printed on the front page of his newspaper in March, 1827.<ref>{{cite journal|last1=McCulloch|first1=John Ramsay|title=A Review of Definitions in Political Economy by the Rev. T. R. Malthus|journal=The Scotsman|date=1827-03-10|page=1}}</ref> He implied that Malthus wanted to dictate terms and theories to other economists. McCulloch clearly felt his ox gored, and his review of ''Definitions'' is largely a bitter defence of his own ''Principles of Political Economy'',<ref>{{cite book|last1=McCulloch|first1=John Ramsay|title=The Principles of Political Economy|date=1825|publisher=William & Charles Tait|location=Edinburgh}}</ref> and his counter-attack "does little credit to his reputation", being largely "personal derogation" of Malthus.<ref>Morton Paglin's "Introduction" to: {{cite book|last1=Malthus|first1=Thomas Robert|title=Definitions in Political Economy|date=1986|publisher=Augustus M. Kelley|location=Fairfield, New Jersey|page=xiii}}</ref> The purpose of Malthus's ''Definitions'' was terminological clarity, and Malthus discussed appropriate terms, their definitions, and their use by himself and his contemporaries. This motivation of Malthus's work was disregarded by McCulloch, who responded that there was nothing to be gained "by carping at definitions, and quibbling about the meaning to be attached to" words. Given that statement, it is not surprising that McCulloch's review failed to address the rules of chapter 1 and did not discuss the definitions of chapter 10; he also barely mentioned Malthus's critiques of other writers.<ref name="Definitions in Political Economy"/>
+
+In spite of this, in the wake of McCulloch's scathing review, the reputation of Malthus as economist dropped away, for the rest of his life.<ref name="Huzel2006">{{cite book|author=James P. Huzel|title=The Popularization of Malthus in Early Nineteenth-Century England: Martineau, Cobbett And the Pauper Press|url=https://books.google.com/books?id=uPNic3dUOacC&pg=PA38|accessdate=14 June 2013|date=1 January 2006|publisher=Ashgate Publishing, Ltd.|isbn=978-0-7546-5427-8|page=38}}</ref> On the other hand, Malthus did have supporters: [[Thomas Chalmers]], some of the [[Oriel Noetics]], [[Richard Jones (economist)|Richard Jones]] and [[William Whewell]] from Cambridge.<ref>{{cite book|author=Donald Winch|title=Riches and Poverty: An Intellectual History of Political Economy in Britain, 1750–1834|date=26 January 1996|publisher=Cambridge University Press|isbn=978-0-521-55920-1|pages=371–72}}</ref>
+
+Malthus died suddenly of [[heart disease]] on 23 December 1834, at his father-in-law's house. He was buried in [[Bath Abbey]].<ref name="DNB"/> His portrait,<ref>Painted by [[John Linnell (painter)|Linnell]], and seen here in a cropped and scanned monochrome version.</ref> and descriptions by contemporaries, present him as tall and good-looking, but with a [[cleft lip and palate]].<ref>Hodgson, M.H. 2004. Malthus, Thomas Robert (1766–1834). In Rutherford D (ed) ''Biographical Dictionary of British Economists''. Continuum, Bristol.</ref> The cleft palate affected his speech: such [[birth defects]] had occurred before amongst his relatives.<ref>Martineau, Harriet 1877. ''Autobiography''. 3 vols, Smith, Elder, London. vol 1, p. 327.</ref>
+
+==Family==
+On 13 March 1804, Malthus married Harriet, daughter of John Eckersall of Claverton House, near Bath. They had a son and two daughters. His firstborn, son Henry, became vicar of [[Effingham, Surrey]], in 1835, and of [[Donnington, West Sussex|Donnington, Sussex]], in 1837; he married Sofia Otter (1807–1889), daughter of [[William Otter|Bishop William Otter]], and died in August 1882, aged 76. His middle child, Emily, died in 1885, outliving her parents and siblings. The youngest, Lucille, died unmarried and childless in 1825, months before her 18th birthday.<ref name="DNB"/>
+
+==''An Essay on the Principle of Population''==
+{{Main|An Essay on the Principle of Population}}
+Malthus argued in his ''Essay'' (1798) that population growth generally expanded in times and in regions of plenty until the size of the population relative to the primary resources caused distress:
+{{quote|Yet in all societies, even those that are most vicious, the tendency to a virtuous attachment [i.e., marriage] is so strong that there is a constant effort towards an increase of population. This constant effort as constantly tends to subject the lower classes of the society to distress and to prevent any great permanent amelioration of their condition.|Malthus, T.&nbsp;R. 1798. ''An Essay on the Principle of Population.'' Chapter II, p. 18 in [[Oxford World's Classics]] reprint.}}
+
+Malthus argued that two types of checks hold population within resource limits: ''positive'' checks, which raise the death rate; and ''preventive'' ones, which lower the birth rate. The positive checks include hunger, disease and war; the preventive checks: [[birth control]], postponement of marriage and [[celibacy]].<ref>Geoffrey Gilbert, introduction to Malthus T.R. 1798. ''An Essay on the Principle of Population''. Oxford World's Classics reprint. viii</ref>
+
+The rapid increase in the global population of the past century exemplifies Malthus's predicted population patterns; it also appears to describe socio-demographic dynamics of complex [[pre-industrial society|pre-industrial societies]]. These findings are the basis for neo-malthusian modern mathematical models of ''long-term historical dynamics''.<ref>See, e.g., [[Peter Turchin]] 2003; [http://cliodynamics.info/PDF/Turchin_Korotayev_SEH_2006.pdf Turchin and Korotayev 2006] {{webarchive|url=https://web.archive.org/web/20120229202712/http://cliodynamics.info/PDF/Turchin_Korotayev_SEH_2006.pdf |date=29 February 2012 }}; Peter Turchin et al. 2007; [[Korotayev]] et al. 2006.</ref>
+
+Malthus wrote that in a period of resource abundance, a population could double in 25 years. However, the margin of abundance could not be sustained as population grew, leading to checks on population growth:
+{{quote|If the subsistence for man that the earth affords was to be increased every twenty-five years by a quantity equal to what the whole world at present produces, this would allow the power of production in the earth to be absolutely unlimited, and its ratio of increase much greater than we can conceive that any possible exertions of mankind could make it ... yet still the power of population being a power of a superior order, the increase of the human species can only be kept commensurate to the increase of the means of subsistence by the constant operation of the strong law of necessity acting as a check upon the greater power.|Malthus T. R. 1798. ''An Essay on the Principle of Population''. Chapter 2, p. 8<ref name="Oxford World's Classics reprint">Oxford World's Classics reprint</ref>}}In later editions of his essay, Malthus clarified his view that if society relied on human misery to limit population growth, then sources of misery (''e.g.'', hunger, disease, and war) would inevitably afflict society, as would volatile economic cycles. On the other hand, "preventive checks" to population that limited birthrates, such as later marriages, could ensure a higher standard of living for all, while also increasing economic stability.<ref>Essay (1826), I:2. See also A:1:17</ref> Regarding possibilities for freeing man from these limits, Malthus argued against a variety of imaginable solutions, such as the notion that agricultural improvements could expand without limit.{{citation needed|date=June 2015}}
+
+Of the relationship between population and economics, Malthus wrote that when the population of laborers grows faster than the production of food, real wages fall because the growing population causes the [[cost of living]] (''i.e.'', the cost of food) to go up. Difficulties of raising a family eventually reduce the rate of population growth, until the falling population again leads to higher real wages.
+
+In the second and subsequent editions Malthus put more emphasis on ''moral restraint'' as the best means of easing the poverty of the lower classes."<ref>Geoffrey Gilbert, introduction to Malthus T.R. 1798. ''An Essay on the Principle of Population''. Oxford World's Classics reprint, p. xviii</ref>
+
+===Editions and versions===
+* 1798: ''An Essay on the Principle of Population, as it affects the future improvement of society with remarks on the speculations of Mr. Godwin, M. Condorcet, and other writers.''. Anonymously published.
+* 1803: Second and much enlarged edition: ''An Essay on the Principle of Population; or, a view of its past and present effects on human happiness; with an enquiry into our prospects respecting the future removal or mitigation of the evils which it occasions''. Authorship acknowledged.
+* 1806, 1807, 1816 and 1826: editions 3–6, with relatively minor changes from the second edition.
+* 1823: Malthus contributed the article on ''Population'' to the supplement of the [[Encyclopædia Britannica]].
+* 1830: Malthus had a long extract from the 1823 article reprinted as ''A summary view of the Principle of Population''.<ref>dates from Malthus T.R. 1798. ''An Essay on the Principle of Population''. Oxford World's Classics reprint: xxix Chronology.</ref>
+
+==Other works==
+
+===1800: ''The present high price of provisions''===
+In this work, his first published pamphlet, Malthus argues against the notion prevailing in his locale that the greed of intermediaries caused the high price of provisions. Instead, Malthus says that the high price stems from the [[Poor Laws]], which "increase the parish allowances in proportion to the price of corn." Thus, given a limited supply, the Poor Laws force up the price of daily necessities. But he concludes by saying that in time of scarcity such Poor Laws, by raising the price of corn more evenly, actually produce a ''beneficial'' effect.<ref>1800: ''The present high price of provisions'', paragraph 26</ref>
+
+===1814: ''Observations on the effects of the Corn Laws''===
+Although government in Britain had regulated the prices of grain, the [[Corn Laws]] originated in 1815. At the end of the Napoleonic Wars that year, [[Parliament of the United Kingdom|Parliament]] passed legislation banning the importation of foreign corn into Britain until domestic corn cost 80 shillings per [[hundredweight|quarter]].{{clarify|date=April 2018}} The high price caused the cost of food to increase and caused distress among the working classes in the towns. It led to serious rioting in London and to the [[Peterloo Massacre]] in [[Manchester]] in 1819.<ref>Hirst F. W. 1925. ''From Adam Smith to Philip Snowden: a history of free trade in Great Britain''. Unwin, London. p88</ref><ref>Also: "The Corn Laws... safeguarded farmers from the consequences of their wartime euphoria, when farms had changed hands at the fanciest prices, loans and mortgages had been accepted on impossible terms." Eric Hobsbawm 1999. ''Industry and Empire: the birth of the Industrial Revolution'', p. 175<!-- ISBN needed --></ref>
+
+In this pamphlet, printed during the parliamentary discussion, Malthus tentatively supported the free-traders. He argued that given the increasing cost of growing British corn, advantages accrued from supplementing it from cheaper foreign sources.
+
+===1820: ''Principles of political economy''===
+In 1820 Malthus published ''[[Principles of Political Economy (Malthus)|Principles of Political Economy]]''.
+1836: Second edition, posthumously published. Malthus intended this work to rival Ricardo's ''Principles'' (1817).<ref>See {{Cite journal|last=Malthus|first=Thomas Robert|year=1820|title=Principles of Political Economy Considered with a View of their Practical Application|edition=1|publisher=John Murray|publication-date=1820|publication-place=London|url=https://books.google.com/books?id=b_dBAAAAcAAJ&pg=PR1|accessdate=7 December 2012}}</ref> It, and his 1827 ''Definitions in political economy'', defended [[Jean Charles Léonard de Sismondi|Sismondi]]'s views on "general glut" rather than Say's Law, which in effect states "there can be no general glut".{{citation needed|date=June 2015}}
+
+===Other publications===
+* 1807. ''A letter to Samuel Whitbread, Esq. M.P. on his proposed Bill for the Amendment of the Poor Laws''. Johnson and Hatchard, London.
+* 1808. Spence on Commerce. ''Edinburgh Review'' '''11''', January, 429–448.
+* 1808. Newneham and others on the state of Ireland. ''Edinburgh Review'' '''12''', July, 336–355.
+* 1809. Newneham on the state of Ireland, ''Edinburgh Review'' '''14''' April, 151–170.
+* 1811. Depreciation of paper currency. ''Edinburgh Review'' '''17''', February, 340–372.
+* 1812. Pamphlets on the bullion question. '' Edinburgh Review'' '''18''', August, 448–470.
+* 1813. ''A letter to the Rt. Hon. Lord Grenville''. Johnson, London.
+* 1817. ''Statement respecting the East-India College''. Murray, London.
+* 1821. Godwin on Malthus. ''Edinburgh Review'' '''35''', July, 362–377.
+* 1823. ''The Measure of Value, stated and illustrated''
+* 1823. Tooke&nbsp;– On high and low prices. ''[[Quarterly Review]]'', '''29''' (57), April, 214–239.
+* 1824. Political economy. ''Quarterly Review'' '''30''' (60), January, 297–334.
+* 1829. On the measure of the conditions necessary to the supply of commodities. ''Transactions of the Royal Society of Literature of the United Kingdom''. '''1''', 171–180. John Murray, London.
+* 1829. On the meaning which is most usually and most correctly attached to the term ''Value of a Commodity''. ''Transactions of the Royal Society of Literature of the United Kingdom''. '''2''', 74–81. John Murray.
+
+==Reception and influence==
+{{details|An Essay on the Principle of Population#Reception and influence}}
+Malthus developed the theory of demand-supply mismatches that he called [[Overproduction|gluts]]. Discounted at the time, this theory foreshadowed later works of an admirer, [[John Maynard Keynes]].<ref>{{cite book|author1=Steven G. Medema|author2=Warren J. Samuels|title=The History of Economic Thought: A Reader|url=https://books.google.com/books?id=uY3TITTPxTIC&pg=PA291|accessdate=14 June 2013|year=2003|publisher=Routledge|isbn=978-0-415-20550-4|page=291}}</ref>
+
+The vast bulk of continuing commentary on Malthus, however, extends and expands on the "Malthusian controversy" of the early 19th century.
+
+==In popular culture==
+{{In popular culture|date=January 2018}}
+* [[Ebenezer Scrooge]] from ''[[A Christmas Carol]]'' by [[Charles Dickens]], represents the perceived ideas of Malthus,<ref>{{cite book | last=Dickens |first=Charles |title=A Christmas carol in prose |page=14 |publisher=Bradword, Evans |year=1845 |url=https://books.google.com/books?id=MlMHAAAAQAAJ }}</ref> famously illustrated by his explanation as to why he refuses to donate to the poor and destitute: "If they would rather die they had better do it, and decrease the surplus population". In general, Dickens had some Malthusian concerns (evident in ''[[Oliver Twist]]'', ''[[Hard Times (novel)|Hard Times]]'' and other novels), and he concentrated his attacks on [[Utilitarianism]] and many of its proponents, like [[Jeremy Bentham|Bentham]], whom he thought of, along with Malthus, as unjust and inhumane people.<ref>{{cite book|last=Paroissien|first=David|title=A companion to Charles Dickens|url=https://books.google.com/books?id=rATJ49kDnj8C&pg=PA160&dq#v|year=2008|publisher=John Wiley and Sons|isbn=1-4051-3097-0}}</ref>
+* In [[Aldous Huxley]]'s novel, ''[[Brave New World]]'', people generally regard fertility as a nuisance, as ''in vitro'' breeding has enabled the society to maintain its population at precisely the level the controllers want. The women, therefore, carry [[contraceptives]] with them at all times in a "Malthusian belt".
+* Malthus and his ideas feature prominently in [[Adolfo Bioy Casares]]'s novel ''[[The Invention of Morel]]''
+* In [[Robert A. Heinlein]]'s novel ''[[The Moon Is a Harsh Mistress]]'', Professor Bernardo de la Paz asks Manuel "Mannie" Garcia O'Kelly-Davis if he has read Malthus. After Mannie tells him he doesn't think so the Professor tells him to read Malthus but not until after their diplomatic work is over since "too many facts hamper a diplomat, especially an honest one." The Professor calls Malthus "a depressing man" and warns Mannie "it is never safe to laugh at Dr. Malthus; he always has the last laugh."
+*In [[George R. R. Martin]]'s science fiction fix-up novel ''[[Tuf Voyaging]]'', a planet struggling with overpopulation is named "S'uthlam", an anagram for Malthus.
+* In the television show ''[[Wiseguy]]'', [[Kevin Spacey]] played Mel Proffitt, a self-professed "Malthusian" who quotes Thomas Malthus and keeps a bust of his likeness on display.
+*In the show ''[[Sliders]]'', episode "Luck of the Draw", the gang slides to an Earth where Malthus’ theories are taken seriously and population is controlled through a lottery.
+* At the end of ''[[Urinetown]]'', a [[musical theatre|Broadway musical]] about a [[dystopia]] where, in response to a devastating [[drought]], people too poor to pay for restroom usage are killed as a means of population control, Officer Lockstock cries "Hail, Malthus!" and is echoed by the cast before the last chords of the [[finale (music)|finale]] play.
+* In the video game ''[[Victoria: An Empire Under the Sun]]'' the player can research the technology "Malthusian Thought" as a benefit to their country.
+* The video game ''[[Hydrophobia (video game)|Hydrophobia]]'' tells about some [[eco-terrorists]] who name themselves "Malthusians" because their ideology is based on Malthus' theories.
+*In [[Marvel Studios|Marvel]]'s film ''[[Avengers: Infinity War]]'', the main villain called [[Thanos]] appears to be motivated by Malthusian views about population growth.<ref>{{Cite news|url=https://www.news18.com/news/movies/avengers-infinity-war-thanos-the-malthusian-purple-dude-is-the-best-villain-of-mcu-1732007.html|title=Avengers: Infinity War-Thanos, the Malthusian Purple Dude is the Best Villain of MCU|work=News18|access-date=2018-04-27}}</ref><ref>{{Cite news|url=https://www.theatlantic.com/entertainment/archive/2018/04/avengers-infinity-war-marvel-review/558983/|title='Avengers: Infinity War' Is an Extraordinary Juggling Act|last=Orr|first=Christopher|work=The Atlantic|access-date=2018-04-27|language=en-US}}</ref>
+
+==Epitaph==
+[[File:Epitaph of Thomas Malthus.jpg|thumb|right|The [[epitaph]] of Rev. Thomas Robert Malthus, just inside the entrance to [[Bath Abbey]].]]
+
+The epitaph of Malthus in Bath Abbey reads [with commas inserted for clarity]:
+<blockquote>Sacred to the memory of the Rev THOMAS ROBERT MALTHUS, long known to the lettered world by his admirable writings on the social branches of political economy, particularly by his essay on population.</blockquote>
+<blockquote>One of the best men and truest philosophers of any age or country, raised by native dignity of mind above the misrepresentation of the ignorant and the neglect of the great, he lived a serene and happy life devoted to the pursuit and communication of truth, supported by a calm but firm conviction of the usefulness of his labours, content with the approbation of the wise and good.</blockquote> 
+<blockquote>His writings will be a lasting monument of the extent and correctness of his understanding.</blockquote> 
+<blockquote>The spotless integrity of his principles, the equity and candour of his nature, his sweetness of temper, urbanity of manners and tenderness of heart, his benevolence and his piety are still dearer recollections of his family and friends.</blockquote>
+<blockquote>Born February 14, 1766 - Died 29 December 1834.</blockquote>
+
+==See also==
+{{Portal|Sustainable development}}
+* [[Cornucopian]]ism: a counter-Malthusian school of thought
+* [[Exponential growth]]
+* [[Food Race]], a related idea from [[Daniel Quinn]]
+* ''[[The Limits to Growth]]'', from the [[Club of Rome]]
+* [[Hong Liangji]], China's "Malthus"
+* [[Malthusian trap]]
+* [[Malthusian growth model]]
+* [[Malthusian equilibrium]]
+* [[Malthusianism]]
+* [[National Security Study Memorandum 200]]
+* [[Human overpopulation|Overpopulation]]
+* [[World population]]
+* [[Observations Concerning the Increase of Mankind, Peopling of Countries, etc.]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{DNB|wstitle=Malthus, Thomas Robert|volume=36}}
+* Dupâquier, J. 2001. Malthus, Thomas Robert (1766–1834). ''[[International Encyclopedia of the Social & Behavioral Sciences]]'', 9151–56. [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B7MRM-4MT09VJ-4S9&_rdoc=91&_hierId=151000072&_refWorkId=21&_explode=151000072&_fmt=summary&_orig=na&_docanchor=&_idxType=SC&view=c&_ct=148&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=685fb8a1cd6de6058530507b5b86695f Abstract.]
+* Elwell, Frank W. 2001. ''A commentary on Malthus's 1798 Essay on Population as social theory''. Mellon Press.
+* Evans, L.T. 1998. ''Feeding the ten billion&nbsp;– plants and population growth''. Cambridge University Press. Paperback, 247 pages.
+* Klaus Hofmann: Beyond the Principle of Population. Malthus’ Essay. In: The European Journal of the History of Economic Thought. Bd. 20 (2013), H. 3, S. 399–425, {{doi|10.1080/09672567.2012.654805}}.
+* [[Samuel Hollander|Hollander, Samuel]] 1997. ''The Economics of Thomas Robert Malthus''. University of Toronto Press. Dedicated to Malthus by the author. {{ISBN|0-521-64685-5}}.
+* James, Patricia 1979. ''Population Malthus: his life and times''. London: Routledge and Kegan Paul.
+* Malthus, Thomas Robert. ''Definitions in Political Economy''. Edited by Alexander K Bocast. Critical edition. McLean: Berkeley Bridge Press, 2016. {{ISBN|978-1-945208-01-0}}.
+* Peterson, William 1999. ''Malthus, founder of modern demography'' 2nd ed. Transaction. {{ISBN|0-7658-0481-6}}.
+* Rohe, John F., ''A Bicentennial Malthusian Essay: conservation, population and the indifference to limits'', Rhodes & Easton, Traverse City, MI. 1997
+* Sowell, Thomas, ''The General Glut Controversy Reconsidered'', Oxford Economic Papers New Series, Vol. 15, No. 3 (Nov., 1963), pp.&nbsp;193–203. Published by: Oxford University Press. Stable URL: https://www.jstor.org/stable/2661714
+* {{cite book|last=Spiegel|first=Henry William|authorlink=Henry William Spiegel|title=The growth of economic thought|edition=3|origyear=1971|year=1991|publisher=Duke University Press|location=Durham|isbn=0-8223-0965-3|pages=868}}
+
+==Further reading==
+{{Refbegin}}
+* Bashford, Alison, and Joyce E. Chaplin. ''The New Worlds of Thomas Robert Malthus: Rereading the Principle of Population'' (Princeton University Press, 2016). vii + 353 pp. [https://books.google.com/books?id=sKrPCgAAQBAJ excerpt]; also  [http://eh.net/?s=New+Worlds+of+Thomas+Robert+Malthus online review]
+* Elwell, Frank W. 2001. ''A Commentary on Malthus' 1798 Essay on Population as social theory'' E. Mellen Press, Lewiston, NY. {{ISBN|0-7734-7669-5}}.
+* [[Robert L. Heilbroner|Heilbroner, Robert]], ''The Worldly Philosophers&nbsp;– the lives, times, and ideas of the great economic thinkers''. (1953)  [https://www.cliffsnotes.com/literature/w/the-worldly-philosophers/about-the-worldly-philosophers commentary]
+* {{Cite book |last= Mayhew |first= Robert J. |year= 2014 |title= Malthus: The Life and Legacies of an Untimely Prophet |location= Cambridge, MA |publisher= [[Belknap Press]] |isbn= 978-0-674-72871-4 }}
+* [https://web.archive.org/web/20060113213030/http://www.npg.org/projects/malthus/malthus_index.htm Negative Population Growth organization]: a collection of essays for the Malthus Bicentenary
+* [https://web.archive.org/web/20081020110110/http://www.naf.org.au/papers.htm National Academics Forum, Australia]: a collection of essays for the Malthus Bicentenary Conference, 1998
+* ''Conceptual origins of Malthus's Essay on Population'', facsimile reprint of 8 Books in 6 volumes, edited by Yoshinobu Nanagita ({{ISBN|978-4-902454-14-7}}) www.aplink.co.jp/ep/4-902454-14-9.htm
+* National Geographic Magazine, June 2009 article, "The Global Food Crisis,"[http://ngm.nationalgeographic.com/2009/06/cheap-food/bourne-text/4]
+{{Refend}}
+
+==External links==
+{{Wikisource author}}
+{{Wikiquote}}
+* {{Gutenberg author | id=Malthus,+T.+R.+(Thomas+Robert) }}
+* {{Internet Archive author |sname=Thomas Robert Malthus}}
+* {{Librivox author |id=5203}}
+* {{cite book|last=Malthus|first=Thomas Robert|editor1-last=Gilbert|editor1-first=Geoffrey|title=An Essay on the Principle of Population|url=https://books.google.com/books?id=Yxoe-sEcHNgC|accessdate=2010-02-12|series=Oxford world's classics|year=1999|publisher=Oxford University Press|isbn=978-0-19-283747-9|pages=208}}
+* {{CathEncy|wstitle=Theories of Population}}
+* ''[https://web.archive.org/web/20051231111031/http://www.unfpa.org/intercenter/food/morefood.htm More Food for More People But Not For All, and Not Forever]'' United Nations Population Fund website [Not found]
+* [http://www.garretthardinsociety.org/articles_pdf/feast_of_malthus.pdf The Feast of Malthus] by [[Garrett Hardin]] in ''The Social Contract'' (1998)
+* [http://desip.igc.org/malthus The International Society of Malthus]
+* [http://human-nature.com/dm/chap2.html Online chapter "Malthus and the Evolutionists: The Common Context of Biological and Social Theory"] from ''Darwin's Metaphor: Nature's Place in Victorian Culture'' by Professor Robert M. Young (1985, 1988, 1994). Cambridge University Press.
+* {{Cite book |title=Thomas Robert Malthus (1766–1834) |url=http://www.econlib.org/library/Enc/bios/Malthus.html |work=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}<!-- This particular entry is an original essay not available from other sources. -->
+* {{findagrave|21117}}
+
+{{Classical economists}}
+{{History of economic thought}}
+{{Authority control}}
+
+{{DEFAULTSORT:Malthus, Thomas Robert}}
+[[Category:1766 births]]
+[[Category:1834 deaths]]
+[[Category:18th-century English writers]]
+[[Category:18th-century male writers]]
+[[Category:19th-century economists]]
+[[Category:19th-century English writers]]
+[[Category:Alumni of Jesus College, Cambridge]]
+[[Category:Anglican writers]]
+[[Category:British demographers]]
+[[Category:Christian writers]]
+[[Category:Classical economists]]
+[[Category:18th-century English Anglican priests]]
+[[Category:English economists]]
+[[Category:English essayists]]
+[[Category:English male non-fiction writers]]
+[[Category:English non-fiction writers]]
+[[Category:English religious writers]]
+[[Category:English scientists]]
+[[Category:English theologians]]
+[[Category:Fellows of Jesus College, Cambridge]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Green thinkers]]
+[[Category:History of evolutionary biology]]
+[[Category:Male essayists]]
+[[Category:Non-fiction environmental writers]]
+[[Category:British East India Company people]]
+[[Category:People from Mole Valley (district)]]
+[[Category:18th-century economists]]
+[[Category:Proto-evolutionary biologists]]
+[[Category:Sustainability advocates]]
+[[Category:18th-century essayists]]
+[[Category:19th-century essayists]]
+[[Category:19th-century male writers]]
+[[Category:People from Bramcote]]

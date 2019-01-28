@@ -1,0 +1,354 @@
+{{Other uses}}
+{{Use British English|date=June 2015}}
+{{Use dmy dates|date=August 2011}}
+{{Infobox UK place
+ |official_name = St Andrews
+ |country = Scotland
+ |static_image_name = St Andrews from Regulus tower - geograph.org.uk - 254003.jpg
+ |static_image_width = 280
+ |static_image_caption = St Andrews, seen from the top of St Rule's Tower
+ |population = 16,801
+ |population_ref = <ref name="auto">{{Cite web|url=http://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/special-area-population-estimates/settlements-and-localities/mid-2012/list-of-tables|title=Estimated population of settlements by broad age groups, mid-2012 (table 2a)|last=|first=|date=|website=|publisher=National Records of Scotland|access-date=11 June 2016}}</ref>
+ |os_grid_reference = NO507168
+ |map_type =Scotland
+ |coordinates = {{coord|56.3404|-2.7955|display=inline,title}}
+ |post_town = ST ANDREWS
+ |postcode_area = KY
+ |postcode_district = KY16
+ |dial_code= 01334
+ |constituency_westminster = [[North East Fife (UK Parliament constituency)|North East Fife]]
+ |gaelic_name = Cill Rìmhinn
+ |scots_name = Saunt Aundraes
+ |unitary_scotland = [[Fife]]
+ |lieutenancy_scotland = [[Fife]]
+ |constituency_scottish_parliament = [[North East Fife (Scottish Parliament constituency)|North East Fife]]
+ }}
+
+'''St Andrews''' ({{lang-la|S. Andrea(s)}};{{refn|Variously ''Sancto Andrea'', ''civitas Sancti Andrea'', ''urbs Sancti Andreæ'', ''urbs Sancti Andree'', ''Sanctus Andrea'', &c.}} {{lang-sco|Saunt Aundraes}};<ref>{{cite web|url=http://www.scotslanguage.com/books/view/1/823/Names+in+Scots+-+Places+in+Scotland|title=Scotslanguage.com - Names in Scots - Places in Scotland|publisher=}}</ref> {{lang-gd|Cill Rìmhinn}})<ref>{{cite web|url=http://www.gaelicplacenames.org/databasedetails.php?id=1078|title=Ainmean-Àite na h-Alba (AÀA) – Gaelic Place-names of Scotland|website=www.gaelicplacenames.org}}</ref> is a town on the east coast of [[Fife]] in [[Scotland]], 10 miles (16&nbsp;km) southeast of [[Dundee]] and 30 miles (50&nbsp;km) northeast of [[Edinburgh]]. St Andrews has a recorded population of 16,800 in 2011, making it Fife's fourth largest settlement and [[List of towns and cities in Scotland by population|45th most populous settlement in Scotland]].
+
+The town is home to the [[University of St Andrews]], the third oldest university in the [[English-speaking world]] and the oldest in [[Scotland]].<ref>{{Cite web|url=https://www.st-andrews.ac.uk/about/history/|title=History {{!}} University of St Andrews|website=www.st-andrews.ac.uk|access-date=2016-06-11}}</ref> According to some rankings, it is ranked as the third best university in the [[United Kingdom]], behind [[Oxbridge]].<ref>{{Cite web|url=https://www.telegraph.co.uk/education/universityeducation/11153780/The-top-10-universities-in-the-UK-2015.html|title=The top 10 universities in the UK 2015|website=Telegraph.co.uk|access-date=2016-03-16}}</ref><ref>{{Cite news|url=https://www.theguardian.com/education/ng-interactive/2015/may/25/university-league-tables-2016|title=University league tables 2016|last=Osborn|first=Matt|date=2015-05-25|last2=Franklin|first2=Will|newspaper=The Guardian|language=en-GB|issn=0261-3077|last3=Osborn|first3=Matt|last4=Franklin|first4=Will|access-date=2016-03-16}}</ref> The University is an integral part of the burgh and during term time students make up approximately one third of the town's population.{{Citation needed|date=March 2016}} 
+
+The town is named after [[Andrew the Apostle|Saint Andrew]] the [[Twelve apostles|Apostle]]. There has been an important church in St Andrews since at least the 747 AD when it was mentioned in the Annals of Tigernach, and a bishopric since at least the 11th century.{{Citation needed|date=March 2016}} The settlement grew to the west of [[St Andrew's Cathedral, St Andrews|St Andrews cathedral]] with the southern side of the Scores to the north and the Kinness burn to the south. The burgh soon became the ecclesiastical capital of Scotland, a position which was held until the [[Scottish Reformation]]. The famous [[cathedral]], the largest in Scotland, now lies in ruins.
+
+St Andrews is also known worldwide as the "[[home of golf]]". This is in part because [[The Royal and Ancient Golf Club of St Andrews]], founded in 1754, which until 2004<ref>{{Cite journal|date=2017-09-15|title=The Royal and Ancient Golf Club of St Andrews|url=https://en.wikipedia.org/w/index.php?title=The_Royal_and_Ancient_Golf_Club_of_St_Andrews&oldid=800820074|journal=Wikipedia|language=en}}</ref> exercised legislative authority over the game worldwide (except in the United States and Mexico). It is also because the famous [[St Andrews Links]] (acquired by the town in 1894) are the most frequent venue for [[The Open Championship]], the oldest of [[golf]]'s four [[Men's major golf championships|major championships]]. Visitors travel to St Andrews in great numbers for several courses ranked amongst the finest in the world, as well as for the sandy beaches.
+
+The Martyrs Memorial, erected to the honour of [[Patrick Hamilton (martyr)|Patrick Hamilton]], [[George Wishart]], and other martyrs of the [[Protestant Reformation|Reformation]] epoch, stands at the west end of the Scores on a cliff overlooking the sea. The civil parish has a population of 18,421 (in 2011).<ref name= KS101SC>Census of Scotland 2011, Table KS101SC – Usually Resident Population, publ. by National Records of Scotland. Web site http://www.scotlandscensus.gov.uk/ retrieved March 2016. See “Standard Outputs”, Table KS101SC, Area type: Civil Parish 1930</ref>
+
+The town also contains numerous museums, a botanic garden and an aquarium.
+
+== Name ==
+The earliest recorded name of the area is ''Cennrígmonaid''. This is [[Old Irish|Old Gaelic]] and composed of the elements ''cenn'' (head, peninsula), ''ríg'' (king) and ''monaid'' (moor). This became ''Cell Rígmonaid'' (''cell'' meaning church) and was Scoticised to ''Kilrymont''. The modern Gaelic spelling is ''Cill Rìmhinn''. The name ''St Andrews'' derives from the town's claim to be the resting place of bones of the apostle [[Andrew the Apostle|Andrew]]. According to legend, [[St Regulus]] (or Rule) brought the relics to Kilrymont, where a shrine was established for their safekeeping and veneration while Kilrymont was renamed in honour of the saint.<ref>Gifford,J., ''The Buildings of Scotland:Fife'' (Yale UP, 1988), p. 357.</ref> This is the origin of a third name for the town ''Kilrule''.
+
+== History ==
+[[File:Hill & Adamson (Scottish, active 1843 - 1848) - St. Regulus Tower and the East Gable of St. Andrews from the Northwest. - Google Art Project.jpg|thumbnail|left|St Andrews Cathedral in 1845]]
+The first inhabitants who settled on the estuary fringes of the rivers [[River Tay|Tay]] and [[River Eden, Fife|Eden]] during the mesolithic (middle stone age) came from the plains in Northern Europe between 10,000 and 5,000 BCE.<ref name="Lamont-Brown pp1–2">Lamont-Brown ''St Andrews – City by The Northern Sea'' pp.1–2.</ref> This was followed by the nomadic people who settled around the modern town around 4,500 BCE as farmers clearing the area of woodland and building monuments.<ref name="Lamont-Brown pp1–2" />
+
+In the mid-eighth century a monastery was established by the Pictish king [[Oengus I]], traditionally associated with the relics of [[Andrew the Apostle|Saint Andrew]], a number of bones supposed to be the saints's arm, kneecap, three fingers and a tooth believed to have been brought to the town by St Regulus.<ref name="Gifford p357">Gifford ''Buildings of Scotland – Fife'' p.357.</ref> In AD 877, king [[Causantín mac Cináeda]] (Constantine I or II) built a new church for the Culdees at St Andrews and later the same year was captured and executed (or perhaps killed in battle) after defending against Viking raiders.<ref>Raymond Lamont-Brown, ''St Andrews: City by the Northern Sea'' (Edinburgh: Berlinn, 2006), 9.</ref>
+
+In AD 906, the town became the seat of the bishop of Alba, with the boundaries of the see being extended to include land between the [[River Forth]] and [[River Tweed]].<ref name="Lamont-Brown p16">Lamont-Brown ''St Andrews – City by The Northern Sea'' p.16.</ref> In 940 [[Constantine III of Scotland|Constantine III]] abdicated and took the position of abbot of the monastery of St Andrews.<ref>Gifford, Buildings of Scotland:Fife p.357</ref>
+
+[[File:The Martyrs Memorial, the Scores, St. Andrews Scotland.JPG|thumb|upright|The Martyrs Memorial]]
+The establishment of the present town began around 1140 by Bishop Robert on an L-shaped vill, possibly on the site of the ruined [[St Andrews Castle]].<ref name="Lamont-Brown p71">Lamont-Brown ''Fife in History and Legend'' p.71.</ref> According to a charter of 1170, the new burgh was built to the west of the Cathedral precinct, along Castle Street and possibly as far as what is now known as North Street.<ref name="Gifford p357" /> This means that the lay-out may have led to the creation of two new streets (North Street and South Street) from the foundations of the new St Andrews [[Cathedral]] filling the area inside a two-sided triangle at its apex.<ref name="Gifford p357" /> The northern boundary of the burgh was the southern side of the Scores (the street between North Street and the sea) with the southern by the Kinness Burn and the western by the West Port.<ref name="Gifford p359">Gifford ''The Buildings of Scotland: Fife'' p.359.</ref> The burgh of St Andrews was first represented at the great council at [[Scone Palace]] in 1357.<ref name="Gifford p359" />
+
+St Andrews, in particular the large cathedral built in 1160, was the most important centre of pilgrimage in medieval Scotland and one of the most important in Europe. Pilgrims from all over Scotland came in large numbers hoping to be blessed, and in many cases to be cured, at the shrine of Saint Andrew. The presence of the pilgrims brought about increased trade and development.<ref>Omand,D. (ed.) ''The Fife Book'', Birlinn Ltd, 2000, p.118</ref> Recognised as the ecclesiastical capital of Scotland, the town now had vast economic and political influence within Europe as a cosmopolitan town.<ref name="Cook p3">Cook ''Old St Andrews'' p.3.</ref> In 1559, the town fell into decay after the violent [[Scottish Reformation]] and the [[Wars of the Three Kingdoms]] losing the status of ecclesiastical capital of Scotland.<ref name="Lamont-Brown p76">Lamont-Brown ''Fife in History and Legend'' p.76.</ref> Even the University of St Andrews was considering relocating to [[Perth, Scotland|Perth]] around 1697 and 1698.<ref name="Cook p3" /> Under the authorisation of the [[bishop of St Andrews]], the town was made a burgh of barony in 1614. [[Royal Burgh]] was then granted as a charter by King [[James I of England|James VI]] in 1620.<ref name="Lamont-Brown p19">Lamont-Brown ''St Andrews –City by The Northern Sea'' p.19.</ref><ref name="Omand p109">Omand ''The Fife Book'' p.109.</ref> In the 18th century, the town was still in decline, but despite this the town was becoming known for having links 'well known to golfers'.<ref name="Cook p3" /> By the 19th century, the town began to expand beyond the original medieval boundaries with streets of new houses and town villas being built.<ref name="Cook p3" /> Today, St Andrews is served by education, golf and the tourist and conference industry.<ref name="Cook p3" />
+
+== Governance ==
+{{further information|History of local government in Scotland}}
+[[File:St Andrews Town Hall.jpg|thumb|upright|St Andrews Town Hall]]
+St Andrews is represented by several tiers of elected government. The Royal Burgh of St Andrews Community Council, meeting on the first Monday of the month in the Council Chamber of the Town Hall, forms the lowest tier of governance whose statutory role is to communicate local opinion to local and central government. The current Chairman is Mr Callum MacLeod.
+
+Fife Council, the unitary [[local authority]] for St Andrews, based in [[Glenrothes]] is the [[Executive (government)|executive]], [[Deliberation|deliberative]] and [[legislative]] body responsible for [[local government in Scotland|local governance]].<ref name="devolvedmatters">{{cite web|url=http://www.scotlandoffice.gov.uk/what-we-do/reserved-and-devolved-matters.html |title=Reserved and devolved matters |publisher=Scotland Office |accessdate=6 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20081021065923/http://www.scotlandoffice.gov.uk/what-we-do/reserved-and-devolved-matters.html |archivedate=21 October 2008 }}</ref> The [[Scottish Parliament]] is responsible for [[devolution|devolved matters]] such as [[education in Scotland|education]], [[health in Scotland|health]] and [[Scots law|justice]] while [[reserved matters]] are dealt with by the [[Parliament of the United Kingdom of Great Britain and Northern Ireland]].<ref name="devolvedmatters" />
+
+The first parliament to take place in the town was in 1304, when King [[Edward I of England|Edward I]] came to be received by [[Bishop William de Lamberton]] as overlordship of Scotland. As many as 130 landowners turned up to witness the event ranging from Sir John of Combo to Sir William Murray of Fort.<ref name="Lamont-Brown p188">Lamont-Brown ''St Andrews – The City By The Northern Sea'' p.188.</ref> In the early days of the [[Acts of Union 1707|union of 1707]], St Andrews elected one member of parliament along with [[Cupar]], [[Perth, Scotland|Perth]], [[Dundee]] and [[Forfar]].<ref name="Lamont-Brown p190">Lamont-Brown ''St Andrews – The City By The Northern Sea'' p.190.</ref> The first elected parliament was introduced on 17 November 1713 as St Andrews Burgh, which merged with [[Anstruther]], the result of a reform bill in 1832.<ref name="Lamont-Brown p190" /> The act of reformation seats in 1855, would find one MP sitting for St Andrews Burgh (which would include Anstruther Easter, Anstruther Wester, [[Crail]], Cupar, [[Kilrenny]] and Pittenweem).<ref name="Lamont-Brown p190" /> Prior to 1975 the town was governed by a council, [[provost (civil)|provost]] and [[baillie]]s. In 1975, St Andrews came under Fife Regional Council and North East Fife District Council. The latter was abolished when a single-tier authority was introduced in 1996 as Fife Council based in [[Glenrothes]].
+
+St Andrews forms part of the [[North East Fife (UK Parliament constituency)|North East Fife]] constituency, electing one [[Member of Parliament]] (MP) to the [[House of Commons of the United Kingdom|House of Commons]] of the Parliament of the United Kingdom by the first past the post system. The constituency is represented by [[Stephen Gethins]], [[Member of Parliament|MP]] of the [[Scottish National Party]].<ref>{{cite web|url=https://www.bbc.co.uk/news/politics/constituencies/S14000049|title=Fife North East|work=bbc.co.uk|accessdate=8 May 2015}}</ref> For the purposes of the [[Scottish Parliament]], St Andrews forms part of the [[North East Fife (Scottish Parliament constituency)|North East Fife]] constituency. The North East Fife Scottish Parliament (or ''Holyrood'') constituency created in 1999 is one of nine within the Mid Scotland and Fife electoral region. Each constituency elects one [[Member of the Scottish Parliament]] (MSP) by the first past the post system of election, and the region elects seven additional members to produce a form of proportional representation. The seat was won at the [[Scottish Parliament election, 2016|2016 Scottish Parliament Election]] by [[Willie Rennie]], for the [[Scottish Liberal Democrats]].<ref name="Roderick Campbell MSP">{{cite web|url=http://www.parliament.scot/msps/currentmsps/willie-rennie-msp.aspx|title=Willie Rennie MSP|last=|first=|date=|website=|publisher=Scottish Parliament|access-date=|accessdate=6 September 2016}}</ref><ref name="North East Fife results">{{cite web|url=https://www.bbc.co.uk/news/election-2016-scotland-36219201|title=Holyrood 2016: Liberal Democrat leader Willie Rennie takes seat from SNP|last=|first=|date=|website=|publisher=BBC News|access-date=|accessdate=6 September 2016}}</ref>
+
+At EU level, St Andrews is part of the pan-Scotland [[Scotland (European Parliament constituency)|European Parliament constituency]] which elects seven [[Members of the European Parliament]] (MEP)s using the [[d'Hondt method]] of [[party-list proportional representation]].<ref name="list of MEPs">{{cite web |url=http://www.europarl.europa.eu/meps/en/search.html?country=GB |title=List of MEPs |publisher=European Parliament |accessdate=8 November 2015}}</ref> Scotland returns two [[Labour Party (UK)|Labour]] MEPs, two [[Scottish National Party|SNP]] MEPs, one [[Conservative Party (UK)|Conservative and Unionist]] MEP and one [[UK Independence Party|UKIP]] MEP, to the [[European Parliament]].<ref name="list of MEPs" />
+
+== Demography ==
+{| class="toccolours" style="float: right; margin:0 0 0.5em 1em; font-size: 90%; text-align:center;"
+|+'''St Andrews compared according to [[United Kingdom Census 2001|UK Census 2001]]'''<ref name="St Andrews population">{{cite web|url=http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Population&mainLevel=Locality&mainText=St+Andrews&mainTextExplicitMatch=false&compLevel=CountryProfile&compText=&compTextExplicitMatch=null|title=Comparative Populartion: St Andrews Locality Scotland|publisher=scrol.co.uk|author=|year=2001|accessdate=1 March 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20120223142815/http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Population&mainLevel=Locality&mainText=St+Andrews&mainTextExplicitMatch=false&compLevel=CountryProfile&compText=&compTextExplicitMatch=null|archivedate=23 February 2012|df=dmy-all}}</ref><ref name="FifePopulation">{{cite web|url=http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Population&mainLevel=CouncilArea&mainArea=Fife&mainText=&mainTextExplicitMatch=false&compLevel=CountryProfile&compText=&compTextExplicitMatch=null|title=Comparative Population Profile: Fife Council Area Scotland|publisher=scrol.gov.uk|author=|year=2001|accessdate=1 March 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20090823051313/http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Population&mainLevel=CouncilArea&mainArea=Fife&mainText=&mainTextExplicitMatch=false&compLevel=CountryProfile&compText=&compTextExplicitMatch=null|archivedate=23 August 2009|df=dmy-all}}</ref><ref name="St Andrews Employment">{{cite web|url=http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Employment&mainLevel=Locality&mainText=St+Andrews&mainTextExplicitMatch=false&compLevel=CountryProfile&compText=&compTextExplicitMatch=null|title=Comparative Employment Profile: St Andrews Locality Scotland|publisher=scrol.gov.uk|author=|year=2001|accessdate=1 March 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20120223142852/http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Employment&mainLevel=Locality&mainText=St+Andrews&mainTextExplicitMatch=false&compLevel=CountryProfile&compText=&compTextExplicitMatch=null|archivedate=23 February 2012|df=dmy-all}}</ref><ref name="FifeEmployment">{{cite web|url=http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Employment&mainLevel=CouncilArea&mainArea=Fife&mainText=&mainTextExplicitMatch=false&compLevel=CountryProfile&compText=&compTextExplicitMatch=null|title=Comparative Employment Profile: Fife Locality Scotland|publisher=scrol.gov.uk|author=|year=2001|accessdate=1 March 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20090823045845/http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Employment&mainLevel=CouncilArea&mainArea=Fife&mainText=&mainTextExplicitMatch=false&compLevel=CountryProfile&compText=&compTextExplicitMatch=null|archivedate=23 August 2009|df=dmy-all}}</ref>
+|-
+!
+!style="padding:2px;"|St Andrews
+!style="padding:2px;"|Fife
+!style="padding:2px;"|Scotland
+|-
+! style="text-align:left;"|Total population
+|14,209||349,429||5,062,011
+|-
+! style="text-align:left;"|[[British nationality law|Foreign born]]
+|11.60%||1.18%||1.10%
+|-
+! style="text-align:left;"|Over 75 years old
+|10.51%||7.46%||7.09%
+|-
+! style="text-align:left;"|Unemployed
+|1.94%||3.97%||4.0%
+|}
+
+According to the 2001 census, St Andrews had a total population of 14,209.<ref name="St Andrews population" /> The population increased to around 16,680 in 2008<ref name="Population Estimate">{{cite web |url=http://www.gro-scotland.gov.uk/files2/stats/population-estimates/08mye-localities-table2.xls |title=Mid-2008 Population Estimates – Localities in order of size |publisher=General Register Office for Scotland |year=2008 |accessdate=8 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100702235600/http://www.gro-scotland.gov.uk/files2/stats/population-estimates/08mye-localities-table2.xls |archivedate=2 July 2010 |df=dmy-all }}</ref> and 16,800 in 2012<ref name="auto"/> The demographic make-up of the population is much in line with the rest of Scotland. The age group from 16 to 29 forms the largest portion of the population (37%).<ref name="St Andrews population" /> The median age of males and females living in St Andrews was 29 and 34 years respectively, compared to 37 and 39 years for those in the whole of Scotland.<ref name="St Andrews population" />
+
+The place of birth of the town's residents was 87.78% United Kingdom (including 61.80% from Scotland), 0.63% Republic of Ireland, 4.18% from other European Union countries, and 7.42% from elsewhere in the world.<ref name="St Andrews population" /> The economic activity of residents aged 16–74 was 23.94% in full-time employment, 8.52% in part-time employment, 4.73% self-employed, 1.94% unemployed, 31.14% students with jobs, 9.08% students without jobs, 13.24% retired, 2.91% looking after home or family, 2.84% permanently sick or disabled, and 1.67% economically inactive for other reasons.<ref name="St Andrews Employment" />
+
+In 2016, St Andrews was reported to be home to the "Most Expensive Street in Scotland", with average house prices in The Scores in excess of 2 million pounds.<ref>{{cite news|title=Scotland's most expensive street now at home of golf|url=https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-38404268|accessdate=23 December 2016|publisher=BBC|date=23 December 2016}}</ref>
+
+== Weather and climate ==
+[[File:Sunset, St. Andrews by Sam Bough, 1856.JPG|thumb|Sunset, St. Andrews by [[Sam Bough]], 1856]]
+[[File:View from St Salvator's Tower.jpg|thumb|right|View from St Salvator's Tower]]
+
+St Andrews has a [[temperate]] [[maritime climate]], which is relatively mild despite its northerly [[latitude]]. Winters are not as cold as one might expect, considering that Moscow and [[Labrador]] in Newfoundland lie on the same latitude. Daytime temperatures can fall below freezing and average around 4&nbsp;°C. However, the town is subject to strong winds. Night-time frosts are common; however, snowfall is more rare.
+The nearest official Met Office weather station for which data are available is at Leuchars, about {{convert|3.3|mi|km}} northwest of St Andrews town centre.
+
+The absolute maximum temperature is {{convert|30.8|C|F}}, recorded in August 1990.<ref>{{cite web
+|url=http://eca.knmi.nl/utils/monitordetail.php?seasonid=14&year=1990&indexid=TXx&stationid=1830
+|title=1990 maximum
+|accessdate=22 March 2011}}</ref> In a typical year, the warmest day<ref>{{cite web
+|url=http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1971-2000&indexid=TXx&stationid=1830
+|title=1971-00 average annual warmest day
+|accessdate=22 March 2011}}</ref> should reach {{convert|26.1|C|F}} and a total of 2 days<ref>{{cite web
+|url=http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1971-2000&indexid=SU&stationid=1830
+|title=>25c days
+|accessdate=22 March 2011}}</ref> should record a temperature of {{convert|25.1|C|F}} or above. The warmest calendar month (since 1960) was July 2006,<ref>{{cite web
+|url=http://www.climate-uk.com/monthly/0607.htm
+|title=July 2006 temperature
+|accessdate=22 March 2011}}</ref> with a mean temperature of {{convert|16.8|C|F}} (mean maximum of {{convert|21.6|C|F}}, mean minimum of {{convert|11.9|C|F}})
+
+The absolute minimum temperature (since 1960) stands at {{convert|-14.5|C|F}} recorded during February 1972,<ref>{{cite web
+|url=http://eca.knmi.nl/utils/monitordetail.php?seasonid=8&year=1972&indexid=TNn&stationid=1830
+|title=Feb 1972 minimum
+|accessdate=22 March 2011}}</ref> although in an 'average' year, the coldest night should only fall to {{convert|-8.3|C|F}}.<ref>{{cite web
+|url=http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1971-2000&indexid=TNn&stationid=1830
+|title=Annual average coldest night
+|accessdate=22 March 2011}}</ref> Typically, just short of 60 nights a year will experience an air frost. The coldest calendar month (since 1960) was December 2010,<ref>{{cite web
+|url=http://www.climate-uk.com/monthly/1012.htm
+|title=December 2010 temperature
+|accessdate=22 March 2011}}</ref> with a mean temperature of {{convert|-0.8|C|F}} (mean maximum {{convert|1.9|C|F}}, mean minimum {{convert|-3.5|C|F}} )
+
+Rainfall, at little more than 650&nbsp;mm per year makes St Andrews one of the driest parts of Scotland, shielded from Atlantic weather systems by several mountain ranges. Over 1&nbsp;mm of rain is recorded on just under 117 days of the year.
+
+Sunshine, averaging in excess of 1,500 hours a year is amongst the highest for Scotland, and comparable to inland parts of Southern England. St Andrews is about the furthest north annual levels of above 1500 hours are encountered.
+
+All averages refer to the 1971–2000 observation period.
+
+{{Weather box
+|location = Leuchars, elevation 10&nbsp;m, 1971–2000, extremes 1960-
+|collapsed =
+|metric first = y
+|single line = y
+|Jan record high C = 14.2
+|Feb record high C = 15.2
+|Mar record high C = 21.4
+|Apr record high C = 23.1
+|May record high C = 24.1
+|Jun record high C = 29.1
+|Jul record high C = 29.1
+|Aug record high C = 30.8
+|Sep record high C = 26.6
+|Oct record high C = 23.2
+|Nov record high C = 17.1
+|Dec record high C = 14.9
+|year record high C = 30.84
+|Jan high C = 6.3
+|Feb high C = 6.9
+|Mar high C = 9.0
+|Apr high C = 11.0
+|May high C = 13.6
+|Jun high C = 16.8
+|Jul high C = 19.0
+|Aug high C = 18.9
+|Sep high C = 16.2
+|Oct high C = 12.8
+|Nov high C = 9.0
+|Dec high C = 7.0
+|year high C = 12.2
+|Jan low C = 0.4
+|Feb low C = 0.6
+|Mar low C = 1.8
+|Apr low C = 3.2
+|May low C = 5.6
+|Jun low C = 8.4
+|Jul low C = 10.5
+|Aug low C = 10.3
+|Sep low C = 8.4
+|Oct low C = 5.7
+|Nov low C = 2.4
+|Dec low C = 1.1
+|year low C = 4.9
+|Jan record low C = −13.7
+|Feb record low C = −14.5
+|Mar record low C = −11.7
+|Apr record low C = −5.8
+|May record low C = −3.0
+|Jun record low C = 0.0
+|Jul record low C = 2.4
+|Aug record low C = 2.2
+|Sep record low C = -0.9
+|Oct record low C = −3.8
+|Nov record low C = −10.2
+|Dec record low C = −13.1
+|year record low C = −14.5
+|Jan precipitation mm = 68.6
+|Feb precipitation mm = 45.8
+|Mar precipitation mm = 49.5
+|Apr precipitation mm = 43.9
+|May precipitation mm = 49.5
+|Jun precipitation mm = 51.1
+|Jul precipitation mm = 46.8
+|Aug precipitation mm = 47.2
+|Sep precipitation mm = 61.7
+|Oct precipitation mm = 66.4
+|Nov precipitation mm = 57.3
+|Dec precipitation mm = 66.2
+|year precipitation mm = 653.9
+|Jan sun = 58.9
+|Feb sun = 76.6
+|Mar sun = 119.0
+|Apr sun = 152.1
+|May sun = 195.0
+|Jun sun = 191.1
+|Jul sun = 190.7
+|Aug sun = 173.9
+|Sep sun = 133.2
+|Oct sun = 105.4
+|Nov sun = 77.4
+|Dec sun = 49.9
+|year sun = 1523.2
+|source 1 = Met Office<ref>{{cite web
+ |url         = http://www.metoffice.gov.uk/climate/uk/averages/19712000/sites/leuchars.html
+ |title       = Climate Normals and extremes
+ |publisher   = Met Office
+ |accessdate  = 22 Mar 2011
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20111019064706/http://www.metoffice.gov.uk/climate/uk/averages/19712000/sites/leuchars.html
+ |archivedate = 19 October 2011
+ |df          = dmy-all
+}}</ref>
+|date=Mar 2011
+}}
+
+== Transport ==
+The [[St Andrews Railway]] provided a connection to the main [[Edinburgh to Aberdeen Line]] at [[Leuchars railway station]]. This service was ended in 1969. The [[St Andrews Rail Link]] project aims at realising a new high-speed twin-cord mainline rail link via Cupar to the south and west and via Leuchars to the north.
+
+Nowadays, the only public transport to reach trains at Leuchars or to connect other towns in [[Fife]] is the [[Stagecoach Group|Stagecoach]] bus station located near the town centre. Route 99 (and its alternate routes 99A, 99B, 99C, 99D) connects St Andrews to [[Dundee]] via [[Leuchars]] with buses up to every ten minutes.
+
+== Landmarks ==
+{{Main article|St Andrew's Cathedral, St Andrews|St Andrews Castle}}
+[[File:West Port in St Andrews.jpg|thumb|right|West Port]]
+
+St Andrews was once bounded by several "ports" (the [[Scots language|Lowland Scots]] word for a town gate). Two are still extant: So'gait port (South Street, now called West Port) and the Sea Yett (as The Pends terminates to the harbour). The Category A listed<ref name="West Port listing">{{cite web |url=http://hsewsf.sedsh.gov.uk/hslive/hsstart?P_HBNUM=40723 |title=West Port, St Andrews – Listed Building Report |publisher=[[Historic Scotland]] |accessdate=2 August 2011}}</ref> West Port is one of few surviving town "Ports" in Scotland.<ref name="Walker and Ritchie p79">Walker and Ritchie ''Fife, Perthshire and Angus'' p.79.</ref> The towers were influenced by those seen at the base of the Netherbow Port in [[Edinburgh]].<ref name="Pride pp124–126">Pride ''Kingdom of Fife'' pp.124–126.</ref> The central archway which displays semi-octagonal "rownds" and "battling" is supported by corbelling and neatly moulded passageways. Side arches and relief panels were added to the port, during the reconstruction between 1843–1845.<ref name="Pride pp124–126" />
+
+[[File:Holy Trinity Church, St Andrews.jpg|thumb|left|The tower of [[Holy Trinity Church, St Andrews|Holy Trinity]]]] The Category A listed<ref name="Holy Trinity listing">{{cite web |url=http://hsewsf.sedsh.gov.uk/hslive/hsstart?P_HBNUM=40633 |title=Holy Trinity Church (Town Kirk), St Andrews – Listed Building Report |publisher=Historic Scotland |accessdate=2 August 2011}}</ref> [[Holy Trinity Church, St Andrews|Holy Trinity]] (also known as the Holy Trinity Parish Church or "town kirk") is the most historic church in St Andrews.<ref name="Lamont-Brown p171">Lamont-Brown ''St Andrews – City by The Northern Sea'' p.171.</ref> The church was initially built on land, close to the south-east gable of the Cathedral, around 1144, and was dedicated in 1234 by Bishop [[David de Bernham]]. It then moved to a new site on the north side of South Street between 1410–1412 by bishop Warlock.<ref name="Pride pp124–126" /><ref name="Lamont-Brown p171" /> Much of the architecture feature of the church was lost in the re-building by Robert Balfour between 1798–1800.<ref name="Fife Regional Council p46">Fife Regional Council ''Medieval Abbeys and Historic Churches in Fife'' p.46.</ref> The church was later restored to a (more elaborately decorated) approximation of its medieval appearance between 1907–1909 by MacGregor Chambers.<ref name="Pride pp124–126" /><ref name="Cook p14">Cook ''Old St Andrews'' p.14.</ref> 
+
+[[File:ViewFromTheTop.JPG|thumb|right|View of the cathedral grounds from the top of St Rule's Tower.]] To the east of the town centre, lie the ruins of the Category A listed<ref name="St Andrew's Cathedral listing">{{cite web |url=http://hsewsf.sedsh.gov.uk/hslive/hsstart?P_HBNUM=40585 |title=St Andrews Cathedral, St Andrews – Listed Building Report |publisher=Historic Scotland |accessdate=2 August 2011}}</ref> [[St Andrew's Cathedral, St Andrews|St Andrew's Cathedral]].<ref name="Fife Regional Council p22">Fife Regional Council ''Medieval Abbeys and Historic Churches in Fife'' p.22.</ref> This was at one time Scotland's largest building, originated in the priory of Canons Regular founded by Bishop Robert Kennedy. The Category A listed<ref name="St Rule's Tower listing">{{cite web |url=http://hsewsf.sedsh.gov.uk/hslive/hsstart?P_HBNUM=40588 |title=St Rule's Tower, St Andrews – Listed Building Report |publisher=Historic Scotland |accessdate=2 August 2011}}</ref> St Rule's Church, to the south-east of the medieval cathedral is said to date from around 1120 and 1150, being the predecessor of the cathedral.<ref name="Walker and Ritchie pp130–132">Walker and Ritchie ''Fife, Perthshire and Angus'' pp.130–132.</ref> The tall square tower, part of the church, was built to hold the relics of [[St Andrew]] and became known as the first cathedral in the town.<ref name="Walker and Ritchie pp130–132" /><ref name="Lamont-Brown pp70–72">Lamont-Brown ''Fife in History and Legend'' pp.70–72.</ref> After the death of Bishop Robert Kennedy, a new cathedral began in 1160 by Bishop Arnold (his successor) on a site adjacent to St Rule's Church.<ref name="Walker and Ritchie pp130–132" /><ref name="Lamont-Brown pp70–72" /> Work on the cathedral was finally completed and consecrated in 1318 by [[Bishop William de Lamberton]] with [[Robert de Brus|Robert the Bruce]] (1306–29) present at the ceremony.<ref name="Walker and Ritchie pp130–132" /><ref name="Lamont-Brown pp70–72" /> [[File:The ruins of St Andrews Castle.jpg|thumb|left|The ruins of [[St Andrews Castle]]]]
+
+The ruins of the Category A listed<ref name="St Andrews Castle listing">{{cite web |url=http://hsewsf.sedsh.gov.uk/hslive/hsstart?P_HBNUM=40599 |title=St Andrews Castle, St Andrews – Listed Building Report |publisher=Historic Scotland |accessdate=2 August 2011}}</ref>
+[[St Andrews Castle]] are situated on a cliff-top to the north of the town.<ref name="Walker and Ritchie pp115–116">Walker and Ritchie ''Fife, Perthshire and Angus'' pp.115–116.</ref><ref name="Pride p121">Pride ''Kingdom of Fife'' p.121.</ref> The castle was first erected around 1200 as the residence, prison and fortress of the bishops of the diocese. Several reconstructions occurred in subsequent centuries, most notably due to damage incurred in the [[Wars of Scottish Independence]].
+
+[[File:St A's Bandstand.jpg|thumb|right| St Andrew's bandstand]]
+
+The castle was occupied, besieged and stormed during [[The Rough Wooing]] and was severely damaged in the process.
+
+The majority of the castle seen today dates to between 1549 and 1571. The work was commissioned by [[John Hamilton (archbishop of St Andrews)]] in a renaissance style which made the building a comfortable, palatial residence while still remaining well-fortified.<ref name="Walker and Ritchie pp115–116" />
+After the Reformation, the castle passed to several owners, who could not maintain its structure and the building deteriorated into a ruin.
+The castle is now administered by [[Historic Scotland]]
+
+The [[apse]] of the [[Dominican Order|Dominican]] [[friary]], [[Blackfriars, St Andrews|Blackfriars]], can still be seen on South Street (between Madras College and Bell Street).<ref>{{Canmore |num=34336 |desc=St Andrews, South Street, Blackfriars' Chapel |access-date=4 August 2010}}</ref> Other defunct religious houses that existed in the medieval town, though less visible, have left traces, as for instance the [[St Nicholas Hospital, St Andrews|leper hospital]] at [[St Nicholas Hospital, St Andrews|St Nicholas farmhouse]] (The Steading) between Albany Park and the East Sands leisure centre.<ref>{{Canmore |num=34312 |desc=St Andrews, St Nicholas Farm |access-date=4 August 2010}}</ref>
+
+== Education ==
+[[File:Madras College.JPG|thumb|right|Original building of [[Madras College]] on South Street]]
+Today, St Andrews is home to one secondary school, one private school and three primary schools.<ref name="list of primary schools">{{cite web |url=http://www.fifedirect.org.uk/topics/index.cfm?startRow=101&OBJECTID=xxx&ORDERBY=location&FUSEACTION=Facility%2EList&SUBJECTID=0AB411F8%2D508B%2DDE79%2D478BA07C673E89C9 |title=list of primary schools in Fife |publisher=Fife Council |accessdate=5 March 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20120220011114/http://www.fifedirect.org.uk/topics/index.cfm?startRow=101&OBJECTID=xxx&ORDERBY=location&FUSEACTION=Facility.List&SUBJECTID=0AB411F8-508B-DE79-478BA07C673E89C9 |archivedate=20 February 2012 |df=dmy-all }}</ref>
+Canongate Primary School, which opened in 1972 is located off the Canongate, beside the [[St Andrews Botanic Garden]]. The school roll was recorded in February 2008 as 215.<ref name="Cannongate Primary School">{{cite web |url=http://www.fifedirect.org.uk/atoz/index.cfm?fuseaction=facility.display&facid=CEFA5EC0-5DB7-404F-97AA571607B8AD98 |title=Cannongate Primary School |publisher=Fife Council |accessdate=8 March 2010}}</ref> Lawhead Primary School, which opened in 1974 is on the western edge of the town. The school roll was recorded in September 2009 as 181.<ref name="Lawhead Primary School">{{cite web |url=http://www.fifedirect.org.uk/atoz/index.cfm?fuseaction=facility.display&facid=003A0E36-40C7-4D1D-A9A7AAECD602137B |title=Lawhead Primary School |publisher=Fife Council |accessdate=8 March 2010}}</ref> Greyfriars Primary School
+
+[[Madras College]] is the sole secondary school in the town. The school which opened to pupils in 1833 was based on a Madras system – founded and endowed by Dr Andrew Bell (1755–1832), a native of the town.<ref name="Lamont-Brown pp177–178">Lamont-Brown ''St Andrews – A City By The Northern Sea'' pp177–178</ref><ref name="Cook p13">Cook ''Old St Andrews'' p.13.</ref> Prior to the opening, Bell was interested in the demand for a school which was able to teach both poor and privileged children on one site.<ref name="Lamont-Brown pp177–178" /> The high reputation of the school meant that many children came from throughout Britain to be taught there, often lodging with masters or residents in the town.<ref name="Lamont-Brown pp177–178" /> The school is now located on two campuses – Kilrymont and South Street (incorporating the original 1833 building). Pupils in S1-S3 are served by Kilrymont and S4-S6 by South Street.<ref name="Madras College">{{cite web |url=http://www.fifedirect.org.uk/atoz/index.cfm?fuseaction=facility.display&facid=02594B20-2A48-48EB-8CAA25FCCAE0DFEB |title=Madras College info, fifedirect |publisher=Fife Council |accessdate=21 February 2009}}</ref>
+
+Plans to build a replacement for Madras College on a single site have been ongoing since 2006. Originally, the school were in negotiations with the [[University of St Andrews]] for a joint new build at Lang Lands on land owned by the University. The plans, which were scrapped in August 2011, would have seen the school share the University's playing fields.<ref name="Council's Madras Plan">{{cite news |last=Johnston |first=Kristen |title=Council's Madras plan 'fails pupils' |page=1&7 |publisher=''The Courier'' |date=9 January 2012}}</ref> In October 2011, a scoring exercise drawn up by the council to decide the best location for the new Madras College was put before parents, staff and the local community to ask for their views. A £40 million redevelopment of the Kilrymont building proved to be most popular and was officially given the go-ahead in November 2011.<ref name="New Madras College">{{cite news |title=New Madras College options to be considered by committee |publisher=Fife Council |date=28 October 2011}}</ref><ref name="Madras decision spark outrage">{{cite news |title=Madras College decision spark outrage in St Andrews |publisher=''St Andrews Herald'' |date=18 November 2011}}</ref> This decision was met with controversy from parents, staff and the local community.<ref name="Madras decision spark outrage" /> Work on the new school to date has yet to start, following a decision from a group of senior councillors to analyse the other potential sites than push ahead with the controversial redevelopment.<ref name="Kilrymont plan on ice">{{cite news |last=Alexander |first=Michael |title=Madras College families facing yet more uncertainty after Kilrymont plan put on ice |publisher=''The Courier'' |date=8 June 2012}}</ref> This means that the new school, which was expected to be open for August 2015, has now been delayed until at least 2017.<ref name="Madras decision spark outrage" /><ref name="Kilrymont plan on ice" />
+
+[[File:St Andrews University Classics Building.jpg|thumb|left|The [[University of St Andrews]] Classics Building, Swallowgate]]
+
+The private school known as [[St Leonards School]] was initially established as the St Andrews School for girls company in 1877. The present name was taken in 1882 when a move to St Leonards House was made.<ref name="Lamont-Brown pp183–185">Lamont-Brown ''St Andrews – City By The Northern Sea'' pp183–185.</ref> The school is now spread across thirty acres between Pends Road and Kinnesburn.<ref name="Lamont-Brown pp183–185" /> A private school for boys was also set up in 1933 as [[New Park School|New Park]]. The operations of the school merged with the middle and junior sections of St Leonards to become St Leonards-New Park in 2005.<ref name="Lamont-Brown pp183–185" />
+
+The [[University of St Andrews]] which is the [[List of oldest universities in continuous operation|third oldest English-speaking university]] and the [[Ancient universities of Scotland|oldest university in Scotland]] was founded between 1410 and 1413.<ref name="Lamont-Brown p83">Lamont-Brown ''Fife in History and Legend'' p.83.</ref> A charter for the university was issued by Bishop [[Henry Wardlaw]] between 1411 and 1412 and this was followed by [[Avignon Pope Benedict XIII]] granting university status to award degrees to students in 1413.<ref name="Pride pp124–126" /><ref name="Lamont-Brown p83" /> The school initially started out as a society for learned men in the fields of canon law, the arts and divinity.<ref name="Lamont-Brown p83" /> The chapel and college of St John the Evangelist became the first building to have ties with the university in 1415.<ref name="Pride pp124–126" /> The two original colleges to be associated with the university were St Salvator in 1450 by Bishop [[James Kennedy (bishop)|James Kennedy]] and St Leonard in 1512 by archbishop [[Alexander Stewart (Archbishop of St Andrews)|Alexander Stewart]] and prior [[James Hepburn (bishop)|James Hepburn]].<ref name="Pride pp124–126" />
+
+== Sport and recreation ==
+
+=== Golf ===
+{{Main article|Old Course at St Andrews|Golf in Scotland}}
+[[File:18th Green and Clubhouse.jpg|thumb|right|The [[Old Course at St Andrews]]]]
+St Andrews is known widely as the "home of golf".<ref name="Pride p118">Pride ''Kingdom of Fife'' p.118.</ref> According to the earliest surviving document from 1552, the "playing at golf" on the links adjacent to the "water of eden" was granted permission by Archbishop Hamilton.<ref name="Pride p118" /> The most famous golf course in the town is the Old Course, purchased by the town council in 1894.<ref name="Lamont-Brown p85" /> The course which dates back to medieval times, is an [[The Open Championship|Open Championship]] course – which was first staged in 1873.<ref name="Cook p3" /><ref name="Lamont-Brown pp224–227">Lamont-Brown ''Fife in History and Legend'' pp.224–227.</ref> Famous winners at St Andrews have included: [[Old Tom Morris]] (1861, 1862, 1867 and 1874), [[Bobby Jones (golfer)|Bobby Jones]] (1927 and 1930 [[British Amateur]]), [[Jack Nicklaus]] (1970 and 1978) and [[Tiger Woods]] (2000 and 2005).<ref name="Lamont-Brown pp224–227" /><ref name="Cook p39">Cook ''Old St Andrews'' p.39.</ref> According to [[Jack Nicklaus]], "if a golfer is going to be remembered, he must win at St Andrews".<ref name="Lamont-Brown pp224–227" /> There are seven golf courses in total – Old, New, Jubilee, Eden, Strathtyrum, Balgove and the Castle -
+surrounding the western approaches of the town.<ref name="Lamont-Brown p85">Lamont-Brown ''St Andrews – City by The Northern Sea'' p.85.</ref><ref name="Lamont-Brown pp224–227" /> The seventh golf course (the Castle) was added in 2007 at [[Kinkell Braes]], designed by David McLay Kidd.<ref name="Lamont-Brown pp224–227" />
+
+Other leisure facilities in the town include a canoe club;<ref>http://canoe.st-andrews.ac.uk{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> [[St Andrews United F.C.|junior football team]];
+rugby club (known as [[Madras College FP RFC|Madras Rugby Club]]);
+tennis club; university sports centre and a links golf driving range. The East Sands Leisure Centre, which opened in 1988, sits on the outskirts of the town as the town's swimming pool with gym facilities. The University of St Andrews have expressed plans to provide a new multimillion-pound leisure centre to replace East Sands.<ref name="East Sands">{{cite web |url=http://www.fifetoday.co.uk/st-andrews-news/What-does-future-hold-for.3662337.jp |title=What does the future hold for St Andrews leisure centre? |publisher=St Andrew Citizen |date=10 January 2008 |accessdate=4 March 2009}}</ref>
+
+=== West Sands Beach ===
+[[File:West Sands Beach, St Andrews - geograph.org.uk - 1803950.jpg|thumbnail|West Sands, looking towards St Andrews]]
+
+West Sands Beach in St Andrews, Scotland,<ref name="British Beaches">{{cite web|title=British Beaches|url=http://www.britishbeaches.info/st-andrews-west-sands-fife|accessdate=20 May 2013}}</ref><ref name="Trip Advisor">{{cite web|title=Trip Advisor|url=http://www.tripadvisor.co.uk/Attraction_Review-g186533-d570777-Reviews-West_Sands-St_Andrews_Fife_Scotland.html|accessdate=20 May 2013}}</ref><ref name="Keep Scotland Beautiful">{{cite web|title=Keep Scotland Beautiful|url=http://coastal.keepscotlandbeautiful.org/scottish-beach.asp?beach=35|accessdate=20 May 2013}}</ref><ref name="Fife.gov">{{cite web|title=Fife.gov|url=http://www.fife.gov.uk/atoz/index.cfm?fuseaction=facility.display&facid=f34f9dce-399d-4c02-97a10d6ac5118c4c|accessdate=20 May 2013}}</ref> served as the set for the opening scene in the movie [[Chariots of Fire]].<ref name="Keep Scotland Beautiful" /><ref name="Fife.gov" /><ref name="YouTube CoF">{{cite web|title=Youtube – Chariots of Fire opening scene|url=https://www.youtube.com/watch?v=TLbWBlB2aWA|accessdate=20 May 2013}}</ref><ref name="BBC Cof">{{cite news|title=Chariots of Fire legacy keeps on running in St Andrews|url=https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-18262315|accessdate=20 May 2013|newspaper=BBC News site|date=31 May 2012}}</ref> This scene was reenacted during the [[2012 Olympics]] torch relay.<ref name="Mirrow Torch Relay">{{cite news|title=Chariots of Fire beach scene re-enacted on Olympic Torch relay|url=https://www.mirror.co.uk/news/uk-news/chariots-of-fire-beach-scene-re-enacted-880530|accessdate=20 May 2013|newspaper=The Mirror|date=13 June 2012}}</ref><ref name="Metro Torch Relay">{{cite news|title=Olympic Torch relay gets Chariots of Fire treatment on West Sands beach|url=http://metro.co.uk/2012/06/13/olympic-torch-relay-gets-chariots-of-fire-treatment-on-west-sands-beach-466076/|accessdate=20 May 2013|newspaper=Metro|date=13 June 2012}}</ref> The beach was also featured in the [[2012 Summer Olympics Opening Ceremony]]<ref name="High Speed Dirt – West Sands St Andrews">{{cite web|title=High Speed Dirt – West Sands St Andrews|url=http://www.highspeeddirt.co.uk/news-features/turf/west-sands-st-andrews/|accessdate=20 May 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20121024053424/http://www.highspeeddirt.co.uk/news-features/turf/west-sands-st-andrews/|archivedate=24 October 2012|df=dmy-all}}</ref><ref name="You Tube OG">{{cite web|title=You Tube – Rowan Atkinson Sequence – Opening Ceremony – London 2012 Olympic Games|url=https://www.youtube.com/watch?v=CwzjlmBLfrQ|accessdate=20 May 2013}}</ref>
+
+The {{convert|2|mi|km|adj=mid|-long|0}} beach is adjacent to the famous St Andrews Links golf course.<ref>[http://coastal.keepscotlandbeautiful.org/scottish-beach.asp?beach=35 West Sands Beach in St Andrews, Scotland], ''Keep Scotland Beautiful''</ref> Sand dunes on the beach, which have long protected the golf course, are themselves in danger of eroding away, and are the subject of a restoration project.<ref>{{cite web|url=http://coastal.keepscotlandbeautiful.org/scottish-beach.asp?beach=35|title=Beach Awards - Keep Scotland Beautiful|website=coastal.keepscotlandbeautiful.org}}</ref>
+
+== Places of interest ==
+
+=== Lade Braes Walk ===
+[[File:Law Mill, Lade Braes, St Andrews, Fife.JPG|thumb|Remains of Law Mill at the head of the Lade Braes Walk in St Andrews, Fife]]
+
+The Lade Braes Walk is a scenic public footpath of about {{convert|1+1/2|mi|km}} that follows the route of a medieval mill [[Leat|lade]] through St Andrews.<ref name="Lade Braes">{{cite web|title=Lade Braes|url=http://www.ladebraes.net/|accessdate=16 May 2014}}</ref> The walk starts in the town centre near Madras College and runs roughly westward, through Cockshaugh Park to Law Mill.<ref name="Lade Braes Walk - The Sinner's Guide to St Andrews">{{cite web|title=Lade Braes Walk – The Sinner's Guide to St Andrews|url=http://www.thesinner.net/guide/Lade_Braes_Walk|accessdate=16 May 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140517151555/http://www.thesinner.net/guide/Lade_Braes_Walk|archivedate=17 May 2014|df=dmy-all}}</ref> The lade's function was to transport water from a higher upstream point on the Kinness Burn to the [[water mill]] in the grounds of [[St Andrews Cathedral Priory]] where it arrived at an elevated level simply by following the contours of the land. It may have been built before 1144.<ref name="Smart p179">Smart, RN (1991). ''Notes on the Water Mills of St Andrews (1989) in 'Three Decades of Historical Notes' (ed. M Innes & J Whelan)'' p.179.</ref> In the late 19th century, the lade was covered over and the area from Cockshaugh Park to Law Mill was landscaped and planted with trees.<ref name="History of the Lade Braes">{{cite web|title=History of the Lade Braes|url=http://www.ladebraes.net/lade-braes-history/|accessdate=2 June 2014}}</ref> The remains of Law Mill, its grain drying kiln and [[water wheel]] are a category C [[listed buildings|listed building]].<ref name="Buildings at Risk Register, Law Mill">{{cite web|title=Buildings at Risk Register, Law Mill|url=http://www.buildingsatrisk.org.uk/details/916217|accessdate=16 May 2014}}</ref> A Brae is an old Scots word for the high ground adjoining a river bank.<ref>{{Cite web|url=http://www.dsl.ac.uk/entry/snd/brae_n1|title=Dictionary of the Scots Language :: SND :: Brae n.1|website=www.dsl.ac.uk|access-date=2017-03-14}}</ref>
+
+=== Museum of the University of St Andrews ===
+The [[Museum of the University of St Andrews]] is a small museum dedicated to the history of the University of St Andrews. The museum, which is free to enter, looks at the University's foundation, student life at the University, and innovative ideas and inventions associated with staff, students, and alumni. The museum also shows a range of temporary exhibitions on different themes. Highlights of the displays include the University's three medieval maces, which are rare examples of ornate ceremonial University maces from the 15th century, and a large astrolabe dating from 1575.<ref>Ian Carradice, MUSA Guide Book (2008), pp.1-13</ref>
+
+=== St Andrews Botanic Garden ===
+The [[St Andrews Botanic Garden]] is an 18-acre [[botanical garden]] in the Cannongate suburb to the south of the town. It contains more than 8000 species of native and exotic plants. These are laid out in zones of woodland, meadow, shrubbery, herbaceous bedding, a large rockery and a series of ponds. There are also vegetable and herb gardens, and several large greenhouses, one of which contains a [[butterfly house]].<ref>{{Cite web|url=https://www.standrewsbotanic.org/|title=St Andrews Botanic Garden {{!}} Home|website=St Andrews Botanic Garden|language=en|access-date=2018-04-15}}</ref>
+
+===St Andrews Museum===
+The [[St Andrews Museum]] is a municipal museum focusing on the history of the town of St Andrews in St Andrews established in 1991 it is located in Kinburn Park. It holds a collection of objects of historical value that are related to the town from the earliest times up to the twentieth century.<ref>{{Cite news|url=https://www.visitscotland.com/info/see-do/st-andrews-museum-p251001|title=St Andrews Museum, St Andrews – Museums|last=|first=|date=|work=Visit Scotland|access-date=2018-04-15|archive-url=|archive-date=|dead-url=|language=en}}</ref> It is located in the historic Kinburn house named after the [[Battle of Kinburn (1855)|Battle of Kindurn]] during the Crimean war.
+
+=== St Andrews Aquarium ===
+The St Andrews Aquarium is located on the cliff foot of the Scores overlooking West Sands. As well as over 100 fish species on display there are also penguins and meerkats.<ref>{{Cite web|url=https://www.standrewsaquarium.co.uk/|title=St Andrews Aquarium|website=www.standrewsaquarium.co.uk|language=en-US|access-date=2018-04-16}}</ref>
+
+== International relations ==
+As of St. Andrew's Day 2015, the town is formally twinned with the French medieval town of [[Loches]], with whom it had previously shared a cultural exchange for over 2 decades.<ref>{{cite web|url=http://www.fifetoday.co.uk/news/local-headlines/st-andrews-twinning-pact-signed-in-saint-s-celebrations-1-3966433|title=St Andrews twinning pact signed in saint’s celebrations|publisher=}}</ref>
+
+== See also ==
+* [[All Saints Church, St Andrews]]
+* [[Bishop of St Andrews]]
+* [[Celtic art]] – Pictish stones at St Andrews.
+* [[The New Picture House]]
+* [[St Nicholas Hospital, St Andrews]]
+* [[St Andrews Community Hospital]]
+* [[University of St Andrews]]
+* [[St Andrews Botanic Garden]]
+
+== References ==
+
+=== Notes ===
+{{reflist|2}}
+
+=== Bibliography ===
+* {{EB1911|wstitle=St Andrews}}
+* {{cite book |last=Lamont-Brown |first=Raymond |year=2002 |title=Fife in History and Legend |isbn=0-85976-567-9 |location=[[Edinburgh]] |publisher=John Donald}}
+* {{cite book |last=Lamont-Brown |first=Raymond |year=2006 |title=St Andrews:city by the northern sea |isbn=1-84158-450-9 |location=Edinburgh |publisher=Birlinn Publishing}}
+* {{cite book |last=Omand |first=Donald |year=2000 |title=The Fife Book}}
+* {{cite book |last=Pride |first=Glen L. |year=1999 |title=The Kingdom of Fife |edition=2nd |isbn=1-873190-49-2 |location=Edinburgh |publisher=Rutland Press}}
+
+== External links ==
+{{Sister project links|voy=St Andrews}}
+* [http://www.standrewscc.net/ Royal Burgh of St Andrews Community Council]
+* [http://www.standrews.co.uk/ The Official Tourist Portal for St Andrews]
+* [http://www.standrews.org.uk/ St Andrews Links]
+* Engraving of a [http://digital.nls.uk/74582368 view of St Andrews] by [[James Fittler]] in the digitised copy of [http://digital.nls.uk/scotia-depicta/ Scotia Depicta, or the antiquities, castles, public buildings, noblemen and gentlemen's seats, cities, towns and picturesque scenery of Scotland], 1804 at [[National Library of Scotland]]
+* [http://www.ladebraes.net/ The Lade Braes]
+
+{{St Andrews}}
+{{Bishops of St Andrews}}
+{{World Heritage Site 'Tentative List' applicants in Scotland}}
+
+{{Authority control}}
+
+[[Category:St Andrews| ]]
+[[Category:Royal burghs]]
+[[Category:Towns in Fife]]
+[[Category:University towns in Scotland]]
+[[Category:Parishes in Fife]]

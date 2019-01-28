@@ -1,0 +1,793 @@
+{{short description|physical phenomena associated with the presence and flow of electric charge}}
+{{Other uses}}
+{{redirect|Electric}}
+{{pp-semi|small=yes}}
+[[File:Lightning3.jpg|thumb|alt=Multiple lightning strikes on a city at night|[[Lightning]] is one of the most dramatic effects of electricity.]]
+{{Electromagnetism|cTopic=Electricity}}
+
+'''Electricity''' is the set of  [[physics|physical]] [[Phenomenon|phenomena]] associated with the presence and motion of matter that has a property of [[electric charge]]. In early days, electricity was considered as being not related to  [[magnetism]].  Later on, many experimental results and the development of [[Maxwell's equations]] indicated that both electricity and magnetism are from a single phenomenon: [[electromagnetism]].  Various common phenomena are related to electricity, including [[lightning]], [[static electricity]], [[electric heating]], [[electric discharge]]s and many others.
+
+The presence of an electric charge, which can be either positive or negative, produces an [[electric field]]. The movement of [[Electric charge|electric charges]] is an [[electric current]] and produces a [[magnetic field]].
+
+When a charge is placed in a location with a non-zero electric field, a force will act on it. The magnitude of this force is given by [[Coulomb's law]]. Thus, if that charge were to move, the electric field would be doing [[Work (physics)|work]] on the electric charge. Thus we can speak of [[electric potential]] at a certain point in space, which is equal to the work done by an external agent in carrying a unit of positive charge from an arbitrarily chosen reference point to that point without any acceleration and is typically measured in [[volt]]s.
+
+Electricity is at the heart of many modern technologies, being used for:
+* '''[[electric power]]''' where electric current is used to energise equipment;
+* '''[[electronics]]''' which deals with [[electrical circuit]]s that involve [[Passivity (engineering)|active electrical components]] such as [[vacuum tube]]s, [[transistor]]s, [[diode]]s and [[integrated circuit]]s, and associated passive interconnection technologies.
+
+Electrical phenomena have been studied since antiquity, though progress in theoretical understanding remained slow until the seventeenth and eighteenth centuries. Even then, practical applications for electricity were few, and it would not be until the late nineteenth century that [[Electrical engineering|electrical engineers]] were able to put it to industrial and residential use. The rapid expansion in electrical technology at this time transformed industry and society, becoming a driving force for the [[Second Industrial Revolution]]. Electricity's extraordinary versatility means it can be put to an almost limitless set of applications which include [[motive power|transport]], [[HVAC|heating]], [[electric light|lighting]], [[Telecommunication|communications]], and [[computation]]. Electrical power is now the backbone of modern industrial society.<ref>
+{{Citation
+| first = D.A. | last = Jones
+| title = Electrical engineering: the backbone of society
+| journal = Proceedings of the IEE: Science, Measurement and Technology
+| pages = 1–10
+| volume = 138
+| issue = 1
+| doi = 10.1049/ip-a-3.1991.0001
+| year = 1991}}
+</ref>
+
+== History ==
+[[File:Thales.jpg|thumb|upright|alt=A bust of a bearded man with dishevelled hair|[[Thales]], the earliest known researcher into electricity]]
+{{Main|History of electromagnetic theory|History of electrical engineering}}
+{{See also|Etymology of electricity}}
+
+Long before any knowledge of electricity existed, people were aware of shocks from [[electric fish]]. [[Ancient Egypt]]ian texts dating from [[28th century BC|2750 BCE]] referred to these fish as the "Thunderer of the [[Nile]]", and described them as the "protectors" of all other fish. Electric fish were again reported millennia later by [[ancient Greek]], [[Roman Empire|Roman]] and [[Islamic geography|Arabic naturalists]] and [[Islamic medicine|physicians]].<ref>{{citation|title=Review: Electric Fish|first=Peter|last=Moller|journal=BioScience|volume=41|issue=11|date=December 1991|pages=794–96 [794]|doi=10.2307/1311732|jstor=1311732|publisher=American Institute of Biological Sciences|last2=Kramer|first2=Bernd}}</ref> Several ancient writers, such as [[Pliny the Elder]] and [[Scribonius Largus]], attested to the numbing effect of [[electric shock]]s delivered by [[Electric catfish|catfish]] and [[electric ray]]s, and knew that such shocks could travel along conducting objects.<ref name=Electroreception>
+{{citation
+| first = Theodore H. | last = Bullock
+| title = Electroreception
+| pages = 5–7
+| publisher = Springer
+| year = 2005
+| isbn = 0-387-23192-7}}
+</ref> Patients suffering from ailments such as [[gout]] or [[headache]] were directed to touch electric fish in the hope that the powerful jolt might cure them.<ref name=morris>
+{{citation
+| first = Simon C. | last = Morris
+| title = Life's Solution: Inevitable Humans in a Lonely Universe
+| pages = 182–85
+| publisher = Cambridge University Press
+| year = 2003
+| isbn = 0-521-82704-3}}</ref> Possibly the earliest and nearest approach to the discovery of the identity of [[lightning]], and electricity from any other source, is to be attributed to the [[Arabs]], who before the 15th century had the [[Arabic language|Arabic]] word for lightning ''ra‘ad'' ({{script|ar|رعد}}) applied to the [[electric ray]].<ref name="EncyclopediaAmericana">''The [[Encyclopedia Americana]]; a library of universal knowledge'' (1918), [[New York City|New York]]: Encyclopedia Americana Corp</ref>
+
+Ancient cultures around the [[Mediterranean Sea|Mediterranean]] knew that certain objects, such as rods of [[amber]], could be rubbed with cat's fur to attract light objects like feathers. [[Thales of Miletus]] made a series of observations on [[static electricity]] around 600 BCE, from which he believed that friction rendered amber [[magnetic]], in contrast to minerals such as [[magnetite]], which needed no rubbing.<ref name=stewart>
+{{Citation
+| first = Joseph | last= Stewart
+| title = Intermediate Electromagnetic Theory
+| publisher = World Scientific
+| year = 2001
+| page = 50
+| isbn = 981-02-4471-1}}
+</ref><ref>
+{{Citation
+| first = Brian | last = Simpson
+| title = Electrical Stimulation and the Relief of Pain
+| publisher = Elsevier Health Sciences
+| year = 2003
+| pages = 6–7
+| isbn =0-444-51258-6}}
+</ref><ref>
+{{cite web
+|url=http://data.perseus.org/citations/urn:cts:greekLit:tlg0004.tlg001.perseus-eng1:1.1
+|author=Diogenes Laertius
+|title=Lives of Eminent Philosophers, Book 1 Chapter 1 [24]
+|quote=Aristotle and Hippias affirm that, arguing from the magnet and from amber, he attributed a soul or life even to inanimate objects.
+|editor=R.D. Hicks
+|website=Perseus Digital Library
+|publisher=Tufts University
+|access-date=5 February 2017}}
+</ref><ref>
+{{cite web
+|url=http://classics.mit.edu/Aristotle/soul.1.i.html#244
+|author=Aristotle
+|title=De Animus (On the Soul) Book 1 Part 2 (B4 verso)
+|quote=Thales, too, to judge from what is recorded about him, seems to have held soul to be a motive force, since he said that the magnet has a soul in it because it moves the iron.
+|translator=J.A. Smith
+|website=The Internet Classics Archive
+|editor=Daniel C. Stevenson
+|access-date=5 February 2017}}
+</ref> Thales was incorrect in believing the attraction was due to a magnetic effect, but later science would prove a link between magnetism and electricity. According to a controversial theory, the [[Parthia]]ns may have had knowledge of [[electroplating]], based on the 1936 discovery of the [[Baghdad Battery]], which resembles a [[galvanic cell]], though it is uncertain whether the artifact was electrical in nature.<ref>
+{{Citation
+| first = Arran | last = Frood
+| title = Riddle of 'Baghdad's batteries'
+| publisher = BBC
+| date = 27 February 2003
+| accessdate = 2008-02-16
+| url = http://news.bbc.co.uk/1/hi/sci/tech/2804257.stm}}
+</ref>
+[[File:Franklin-Benjamin-LOC.jpg|thumb|left|upright|alt=A half-length portrait of a bald, somewhat portly man in a three-piece suit.|[[Benjamin Franklin]] conducted extensive research on electricity in the 18th century, as documented by [[Joseph Priestley]] (1767) ''History and Present Status of Electricity'', with whom Franklin carried on extended correspondence.]]
+
+Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist [[William Gilbert (astronomer)|William Gilbert]] wrote ''[[De Magnete]]'', in which he made a careful study of electricity and magnetism, distinguishing the [[lodestone]] effect from static electricity produced by rubbing amber.<ref name=stewart/> He coined the [[New Latin]] word ''electricus'' ("of amber" or "like amber", from ἤλεκτρον, ''elektron'', the [[Ancient Greek|Greek]] word for "amber") to refer to the property of attracting small objects after being rubbed.<ref>
+{{Citation
+| first = Brian | last = Baigrie
+| title = Electricity and Magnetism: A Historical Perspective
+| publisher = Greenwood Press
+| year = 2007
+| pages = 7–8
+| isbn = 0-313-33358-0}}
+</ref> This association gave rise to the English words "electric" and "electricity", which made their first appearance in print in [[Thomas Browne]]'s ''[[Pseudodoxia Epidemica]]'' of 1646.<ref>
+{{Citation
+| first = Gordon | last = Chalmers
+| title = The Lodestone and the Understanding of Matter in Seventeenth Century England
+| journal = Philosophy of Science
+| year = 1937
+| volume = 4
+| issue = 1
+| pages = 75–95
+| doi = 10.1086/286445}}</ref>
+
+Further work was conducted in the 17th and early 18th centuries by [[Otto von Guericke]], [[Robert Boyle]], [[Stephen Gray (scientist)|Stephen Gray]] and [[C. F. du Fay]].<ref name="guarnieri 7-1">{{Cite journal|last=Guarnieri|first=M.|year=2014|title=Electricity in the age of Enlightenment|journal=IEEE Industrial Electronics Magazine|volume=8|issue=3|pages=60–63|doi=10.1109/MIE.2014.2335431|ref=harv}}</ref> Later in the 18th century, [[Benjamin Franklin]] conducted extensive research in electricity, selling his possessions to fund his work. In June 1752 he is reputed to have attached a metal key to the bottom of a dampened kite string and flown the kite in a storm-threatened sky.<ref>
+{{citation
+| first = James | last = Srodes
+| title = Franklin: The Essential Founding Father
+| pages = 92–94
+| year = 2002
+| publisher = Regnery Publishing
+| isbn = 0-89526-163-4}} It is uncertain if Franklin personally carried out this experiment, but it is popularly attributed to him.</ref> A succession of sparks jumping from the key to the back of his hand showed that [[lightning]] was indeed electrical in nature.<ref>{{Citation
+| last = Uman
+| first = Martin
+| authorlink = Martin A. Uman
+| title = All About Lightning
+| publisher = Dover Publications
+| year = 1987
+| url = http://ira.usf.edu/CAM/exhibitions/1998_12_McCollum/supplemental_didactics/23.Uman1.pdf
+|format=PDF| isbn = 0-486-25237-X}}</ref> He also explained the apparently paradoxical behavior<ref>{{Citation
+| last=Riskin
+| first=Jessica
+| title=Poor Richard’s Leyden Jar: Electricity and economy in Franklinist France
+| year=1998
+| url=http://www.stanford.edu/dept/HPS/poorrichard.pdf
+| page=327
+}}</ref> of the [[Leyden jar]] as a device for storing large amounts of electrical charge in terms of electricity consisting of both positive and negative charges.<ref name="guarnieri 7-1"/>
+
+[[File:M Faraday Th Phillips oil 1842.jpg|thumb|upright|alt=Half-length portrait oil painting of a man in a dark suit |[[Michael Faraday]]'s discoveries formed the foundation of electric motor technology]]
+
+In 1791, [[Luigi Galvani]] published his discovery of [[bioelectromagnetics]], demonstrating that electricity was the medium by which [[neuron]]s passed signals to the muscles.<ref name="guarnieri 7-2">{{Cite journal|last=Guarnieri|first=M.|year=2014|title=The Big Jump from the Legs of a Frog|journal=IEEE Industrial Electronics Magazine|volume=8|issue=4|pages=59–61, 69|doi=10.1109/MIE.2014.2361237|ref=harv}}</ref><ref name=kirby>
+{{citation
+| first = Richard S. | last = Kirby
+| title = Engineering in History
+| pages = 331–33
+| year = 1990
+| publisher = Courier Dover Publications
+| isbn = 0-486-26412-2}}
+</ref><ref name="guarnieri 7-1"/> [[Alessandro Volta]]'s battery, or [[voltaic pile]], of 1800, made from alternating layers of zinc and copper, provided scientists with a more reliable source of electrical energy than the [[electrostatic machine]]s previously used.<ref name="guarnieri 7-2"/><ref name=kirby/> The recognition of [[electromagnetism]], the unity of electric and magnetic phenomena, is due to [[Hans Christian Ørsted]] and [[André-Marie Ampère]] in 1819–1820. [[Michael Faraday]] invented the [[electric motor]] in 1821, and [[Georg Ohm]] mathematically analysed the electrical circuit in 1827.<ref name=kirby/> Electricity and magnetism (and light) were definitively linked by [[James Clerk Maxwell]], in particular in his "[[On Physical Lines of Force]]" in 1861 and 1862.<ref>Berkson, William (1974) [https://books.google.com/books?id=hMc9AAAAIAAJ&pg=PA148&dq=maxwell+on+physical+lines+of+force#v=onepage&q=maxwell%20on%20physical%20lines%20of%20force&f=false Fields of force: the development of a world view from Faraday to Einstein] p.148. Routledge, 1974</ref>
+
+While the early 19th century had seen rapid progress in electrical science, the late 19th century would see the greatest progress in [[electrical engineering]]. Through such people as [[Alexander Graham Bell]], [[Ottó Bláthy]], [[Thomas Edison]], [[Galileo Ferraris]], [[Oliver Heaviside]], [[Ányos Jedlik]], [[William Thomson, 1st Baron Kelvin]], [[Charles Algernon Parsons]], [[Werner von Siemens]], [[Joseph Swan]], [[Reginald Fessenden]], [[Nikola Tesla]] and [[George Westinghouse]], electricity turned from a scientific curiosity into an essential tool for modern life.
+
+In 1887, [[Heinrich Hertz]]<ref name=uniphysics/>{{rp|843–44}}<ref name="Hertz1887">{{cite journal | first=Heinrich|last= Hertz|title=''Ueber den Einfluss des ultravioletten Lichtes auf die electrische Entladung''|journal= [[Annalen der Physik]] |volume=267|issue=8|pages=S. 983–1000|year=1887|doi=10.1002/andp.18872670827|bibcode=1887AnP...267..983H}}</ref> discovered that [[electrode]]s illuminated with ultraviolet light create [[electric spark]]s more easily. In 1905, [[Albert Einstein]] published a paper that explained experimental data from the [[photoelectric effect]] as being the result of light energy being carried in discrete quantized packets, energising electrons. This discovery led to the [[quantum]] revolution. Einstein was awarded the [[Nobel Prize in Physics]] in 1921 for "his discovery of the law of the photoelectric effect".<ref>{{cite web |title=The Nobel Prize in Physics 1921 |publisher=Nobel Foundation |url=http://nobelprize.org/nobel_prizes/physics/laureates/1921/index.html |accessdate=2013-03-16}}</ref> The photoelectric effect is also employed in [[photocell]]s such as can be found in [[solar panel]]s and this is frequently used to make electricity commercially.
+
+The first [[solid-state electronics|solid-state device]] was the "[[cat's-whisker detector]]" first used in the 1900s in radio receivers. A whisker-like wire is placed lightly in contact with a solid crystal (such as a [[germanium]] crystal) to detect a [[radio]] signal by the contact junction effect.<ref>[http://encyclopedia2.thefreedictionary.com/solid+state "Solid state"], ''The Free Dictionary''</ref> In a solid-state component, the [[Electric current|current]] is confined to solid elements and compounds engineered specifically to switch and amplify it. Current flow can be understood in two forms: as negatively charged [[electron]]s, and as positively charged electron deficiencies called [[electron hole|holes]]. These charges and holes are understood in terms of quantum physics. The building material is most often a crystalline [[semiconductor]].<ref>John Sydney Blakemore, ''Solid state physics'', pp. 1–3, Cambridge University Press, 1985 {{ISBN|0-521-31391-0}}.</ref><ref>Richard C. Jaeger, Travis N. Blalock, ''Microelectronic circuit design'', pp. 46–47, McGraw-Hill Professional, 2003 {{ISBN|0-07-250503-6}}.</ref>
+
+The solid-state device came into its own with the invention of the [[transistor]] in 1947. Common solid-state devices include [[transistor]]s, [[microprocessor]] chips, and [[Random-access memory|RAM]]. A specialized type of RAM called [[flash memory|flash RAM]] is used in [[USB flash drive]]s and more recently, [[solid-state drive]]s to replace mechanically rotating magnetic disc [[hard disk drive]]s. Solid state devices became prevalent in the 1950s and the 1960s, during the transition from [[vacuum tube]]s to semiconductor [[diode]]s, [[transistor]]s, [[integrated circuit]] (IC) and the [[light-emitting diode]] (LED).
+
+==Concepts==
+
+===Electric charge===
+{{Main|Electric charge}}
+{{See also|electron|proton|ion}}
+
+[[File:Electroscope.svg|thumb|upright|alt=A clear glass dome has an external electrode which connects through the glass to a pair of gold leaves. A charged rod touches the external electrode and makes the leaves repel.|Charge on a [[gold-leaf electroscope]] causes the leaves to visibly repel each other]]
+
+The presence of charge gives rise to an electrostatic force: charges exert a [[force]] on each other, an effect that was known, though not understood, in antiquity.<ref name=uniphysics>
+{{Citation
+| first = Francis | last = Sears
+| title = University Physics, Sixth Edition
+| publisher = Addison Wesley
+| year = 1982
+| isbn = 0-201-07199-1|display-authors=etal}}
+</ref>{{rp|457}} A lightweight ball suspended from a string can be charged by touching it with a glass rod that has itself been charged by rubbing with a cloth. If a similar ball is charged by the same glass rod, it is found to repel the first: the charge acts to force the two balls apart. Two balls that are charged with a rubbed amber rod also repel each other. However, if one ball is charged by the glass rod, and the other by an amber rod, the two balls are found to attract each other. These phenomena were investigated in the late eighteenth century by [[Charles-Augustin de Coulomb]], who deduced that charge manifests itself in two opposing forms. This discovery led to the well-known axiom: ''like-charged objects repel and opposite-charged objects attract''.<ref name=uniphysics/>
+
+The force acts on the charged particles themselves, hence charge has a tendency to spread itself as evenly as possible over a conducting surface. The magnitude of the electromagnetic force, whether attractive or repulsive, is given by [[Coulomb's law]], which relates the force to the product of the charges and has an [[inverse-square]] relation to the distance between them.<ref>"The repulsive force between two small spheres charged with the same type of electricity is inversely proportional to the square of the distance between the centres of the two spheres." Charles-Augustin de Coulomb, ''Histoire de l'Academie Royal des Sciences'', Paris 1785.</ref><ref name=Duffin>
+{{Citation
+| first = W.J. | last = Duffin
+| title = Electricity and Magnetism, 3rd edition
+| publisher = McGraw-Hill
+| year = 1980
+| isbn = 0-07-084111-X}}
+</ref>{{RP|35}}  The electromagnetic force is very strong, second only in strength to the [[strong interaction]],<ref>
+{{citation
+| last = National Research Council
+| title = Physics Through the 1990s
+| pages = 215–16
+| year = 1998
+| publisher = National Academies Press
+| isbn = 0-309-03576-7}}
+</ref> but unlike that force it operates over all distances.<ref name=Umashankar>
+{{citation
+| first = Korada | last = Umashankar
+| title = Introduction to Engineering Electromagnetic Fields
+| pages = 77–79
+| year = 1989
+| publisher = World Scientific
+| isbn = 9971-5-0921-0}}
+</ref> In comparison with the much weaker [[gravitational force]], the electromagnetic force pushing two electrons apart is 10<sup>42</sup> times that of the [[gravitation]]al attraction pulling them together.<ref name=hawking>
+{{Citation
+| first = Stephen | last = Hawking
+| title = A Brief History of Time
+| publisher = Bantam Press
+| page = 77
+| year = 1988
+| isbn = 0-553-17521-1}}</ref>
+
+Study has shown that the origin of charge is from certain types of [[subatomic particle]]s which have the property of electric charge. Electric charge gives rise to and interacts with the [[electromagnetic force]], one of the four [[fundamental force]]s of nature. The most familiar carriers of electrical charge are the [[electron]] and [[proton]]. Experiment has shown charge to be a [[conserved quantity]], that is, the net charge within an electrically isolated system will always remain constant regardless of any changes taking place within that system.<ref>
+{{Citation
+| first = James | last = Trefil
+| title = The Nature of Science: An A–Z Guide to the Laws and Principles Governing Our Universe
+| publisher = Houghton Mifflin Books
+| page = 74
+| year = 2003
+| isbn = 0-618-31938-7}}
+</ref> Within the system, charge may be transferred between bodies, either by direct contact, or by passing along a conducting material, such as a wire.<ref name=Duffin/>{{rp|2–5}} The informal term [[static electricity]] refers to the net presence (or 'imbalance') of charge on a body, usually caused when dissimilar materials are rubbed together, transferring charge from one to the other.
+
+The charge on electrons and protons is opposite in sign, hence an amount of charge may be expressed as being either negative or positive. By convention, the charge carried by electrons is deemed negative, and that by protons positive, a custom that originated with the work of [[Benjamin Franklin]].<ref>
+{{Citation
+| first = Jonathan | last = Shectman
+| title = Groundbreaking Scientific Experiments, Inventions, and Discoveries of the 18th Century
+| publisher = Greenwood Press
+| pages = 87–91
+| year = 2003
+| isbn = 0-313-32015-2}}
+</ref> The amount of charge is usually given the symbol ''Q'' and expressed in [[coulomb]]s;<ref>
+{{Citation
+| first = Tyson | last = Sewell
+| title = The Elements of Electrical Engineering
+| publisher = Lockwood
+| page = 18
+| year = 1902}}. The ''Q'' originally stood for 'quantity of electricity', the term 'electricity' now more commonly expressed as 'charge'.</ref> each electron carries the same charge of approximately −1.6022×10<sup>−19</sup>&nbsp;[[coulomb]]. The proton has a charge that is equal and opposite, and thus +1.6022×10<sup>−19</sup>&nbsp; coulomb. Charge is possessed not just by [[matter]], but also by [[antimatter]], each [[antiparticle]] bearing an equal and opposite charge to its corresponding particle.<ref>
+{{Citation
+| first = Frank | last = Close
+| title = The New Cosmic Onion: Quarks and the Nature of the Universe
+| publisher = CRC Press
+| page = 51
+| year = 2007
+| isbn = 1-58488-798-2}}
+</ref>
+
+Charge can be measured by a number of means, an early instrument being the [[gold-leaf electroscope]], which although still in use for classroom demonstrations, has been superseded by the electronic [[electrometer]].<ref name=Duffin/>{{rp|2–5}}
+
+===Electric current===
+{{Main|Electric current}}
+
+The movement of electric charge is known as an [[electric current]], the intensity of which is usually measured in [[ampere]]s. Current can consist of any moving charged particles; most commonly these are electrons, but any charge in motion constitutes a current. Electric current can flow through some things, [[electrical conductor]]s, but will not flow through an [[electrical insulator]].<ref>Shock and Awe: The Story of Electricity – Jim Al-Khalili BBC Horizon</ref>
+
+By historical convention, a positive current is defined as having the same direction of flow as any positive charge it contains, or to flow from the most positive part of a circuit to the most negative part. Current defined in this manner is called [[conventional current]]. The motion of negatively charged electrons around an [[electric circuit]], one of the most familiar forms of current, is thus deemed positive in the ''opposite'' direction to that of the electrons.<ref>
+{{Citation
+| first = Robert | last = Ward
+| title = Introduction to Electrical Engineering
+| publisher = Prentice-Hall
+| page = 18
+| year = 1960}}
+</ref> However, depending on the conditions, an electric current can consist of a flow of [[charged particle]]s in either direction, or even in both directions at once. The positive-to-negative convention is widely used to simplify this situation.
+
+[[File:Lichtbogen 3000 Volt.jpg|thumb|left|alt=Two metal wires form an inverted V shape. A blindingly bright orange-white electric arc flows between their tips.|An [[electric arc]] provides an energetic demonstration of electric current]]
+The process by which electric current passes through a material is termed [[electrical conduction]], and its nature varies with that of the charged particles and the material through which they are travelling. Examples of electric currents include metallic conduction, where electrons flow through a [[Electrical conductor|conductor]] such as metal, and [[electrolysis]], where [[ion]]s (charged [[atom]]s) flow through liquids, or through [[plasma (physics)|plasmas]] such as electrical sparks. While the particles themselves can move quite slowly, sometimes with an average [[drift velocity]] only fractions of a millimetre per second,<ref name=Duffin/>{{rp|17}} the [[electric field]] that drives them itself propagates at close to the [[speed of light]], enabling electrical signals to pass rapidly along wires.<ref>
+{{Citation
+| first = L. | last = Solymar
+| title = Lectures on electromagnetic theory
+| publisher = Oxford University Press
+| page = 140
+| year = 1984
+| isbn = 0-19-856169-5}}
+</ref>
+
+Current causes several observable effects, which historically were the means of recognising its presence. That water could be decomposed by the current from a voltaic pile was discovered by [[William Nicholson (chemist)|Nicholson]] and [[Anthony Carlisle|Carlisle]] in 1800, a process now known as [[electrolysis]]. Their work was greatly expanded upon by [[Michael Faraday]] in 1833. Current through a [[electrical resistance|resistance]] causes localised heating, an effect [[James Prescott Joule]] studied mathematically in 1840.<ref name=Duffin/>{{rp|23–24}} One of the most important discoveries relating to current was made accidentally by [[Hans Christian Ørsted]] in 1820, when, while preparing a lecture, he witnessed the current in a wire disturbing the needle of a magnetic compass.<ref name=berkson>
+{{Citation
+| first = William | last = Berkson
+| title = Fields of Force: The Development of a World View from Faraday to Einstein
+| publisher = Routledge
+| page = 370
+| year = 1974
+| isbn = 0-7100-7626-6}} Accounts differ as to whether this was before, during, or after a lecture.</ref> He had discovered [[electromagnetism]], a fundamental interaction between electricity and magnetics. The level of electromagnetic emissions  generated by [[electric arc]]ing is high enough to produce [[electromagnetic interference]], which can be detrimental to the workings of adjacent equipment.<ref>{{cite web | title = Lab Note #105 ''EMI Reduction – Unsuppressed vs. Suppressed'' | publisher = Arc Suppression Technologies | date = April 2011 | url = http://www.arcsuppressiontechnologies.com/arc-suppression-facts/lab-app-notes/| accessdate = March 7, 2012}}</ref>
+
+In engineering or household applications, current is often described as being either [[direct current]] (DC) or [[alternating current]] (AC). These terms refer to how the current varies in time. Direct current, as produced by example from a [[Battery (electricity)|battery]] and required by most [[Electronics|electronic]] devices, is a unidirectional flow from the positive part of a circuit to the negative.<ref name=bird>
+{{citation
+| first = John | last = Bird
+| title = Electrical and Electronic Principles and Technology, 3rd edition
+| publisher = Newnes
+| year = 2007
+| isbn = 9781417505432}}
+</ref>{{rp|11}} If, as is most common, this flow is carried by electrons, they will be travelling in the opposite direction. Alternating current is any current that reverses direction repeatedly; almost always this takes the form of a [[sine wave]].<ref name=bird/>{{rp|206–07}} Alternating current thus pulses back and forth within a conductor without the charge moving any net distance over time. The time-averaged value of an alternating current is zero, but it delivers energy in first one direction, and then the reverse. Alternating current is affected by electrical properties that are not observed under [[steady state]] direct current, such as [[inductance]] and [[capacitance]].<ref name=bird/>{{rp|223–25}} These properties however can become important when circuitry is subjected to [[transient response|transients]], such as when first energised.
+
+===Electric field===
+{{Main|Electric field}}
+{{See also|Electrostatics}}
+
+The concept of the electric [[Field (physics)|field]] was introduced by [[Michael Faraday]]. An electric field is created by a charged body in the space that surrounds it, and results in a force exerted on any other charges placed within the field. The electric field acts between two charges in a similar manner to the way that the gravitational field acts between two [[mass]]es, and like it, extends towards infinity and shows an inverse square relationship with distance.<ref name=Umashankar/> However, there is an important difference. Gravity always acts in attraction, drawing two masses together, while the electric field can result in either attraction or repulsion. Since large bodies such as planets generally carry no net charge, the electric field at a distance is usually zero. Thus gravity is the dominant force at distance in the universe, despite being much weaker.<ref name=hawking/>
+
+[[File:VFPt image charge plane horizontal.svg|thumb|Field lines emanating from a positive charge above a plane conductor]]
+
+An electric field generally varies in space,<ref>Almost all electric fields vary in space. An exception is the electric field surrounding a planar conductor of infinite extent, the field of which is uniform.</ref> and its strength at any one point is defined as the force (per unit charge) that would be felt by a stationary, negligible charge if placed at that point.<ref name=uniphysics/>{{rp|469–70}} The conceptual charge, termed a '[[test charge]]', must be vanishingly small to prevent its own electric field disturbing the main field and must also be stationary to prevent the effect of [[magnetic field]]s. As the electric field is defined in terms of [[force]], and force is a [[Euclidean vector|vector]], so it follows that an electric field is also a vector, having both [[Magnitude (mathematics)|magnitude]] and [[Direction (geometry)|direction]]. Specifically, it is a [[vector field]].<ref name=uniphysics/>{{rp|469–70}}
+
+The study of electric fields created by stationary charges is called [[electrostatics]]. The field may be visualised by a set of imaginary lines whose direction at any point is the same as that of the field. This concept was introduced by Faraday,<ref name="elec_princ_p73">
+{{citation
+| last = Morely & Hughes
+| title = Principles of Electricity, Fifth edition
+| page = 73
+| isbn = 0-582-42629-4}}</ref> whose term '[[Line of force|lines of force]]' still sometimes sees use. The field lines are the paths that a point positive charge would seek to make as it was forced to move within the field; they are however an imaginary concept with no physical existence, and the field permeates all the intervening space between the lines.<ref name="elec_princ_p73"/> Field lines emanating from stationary charges have several key properties: first, that they originate at positive charges and terminate at negative charges; second, that they must enter any good conductor at right angles, and third, that they may never cross nor close in on themselves.<ref name=uniphysics/>{{rp|479}}
+
+A hollow conducting body carries all its charge on its outer surface. The field is therefore zero at all places inside the body.<ref name=Duffin/>{{rp|88}} This is the operating principal of the [[Faraday cage]], a conducting metal shell which isolates its interior from outside electrical effects.
+
+The principles of electrostatics are important when designing items of [[high voltage|high-voltage]] equipment. There is a finite limit to the electric field strength that may be withstood by any medium. Beyond this point, [[electrical breakdown]] occurs and an [[electric arc]] causes flashover between the charged parts. Air, for example, tends to arc across small gaps at electric field strengths which exceed 30&nbsp;kV per centimetre. Over larger gaps, its breakdown strength is weaker, perhaps 1&nbsp;kV per centimetre.<ref name=hv_eng>
+{{Citation
+| first = M.S.| last = Naidu
+| first2 = V.| last2 = Kamataru
+| title = High Voltage Engineering
+| publisher = Tata McGraw-Hill
+| page = 2
+| year = 1982
+| isbn = 0-07-451786-4}}
+</ref> The most visible natural occurrence of this is [[lightning]], caused when charge becomes separated in the clouds by rising columns of air, and raises the electric field in the air to greater than it can withstand. The voltage of a large lightning cloud may be as high as 100&nbsp;MV and have discharge energies as great as 250&nbsp;kWh.<ref>
+{{Citation
+| first = M.S.| last = Naidu
+| first2 = V.| last2 = Kamataru
+| title = High Voltage Engineering
+| publisher = Tata McGraw-Hill
+| pages = 201–02
+| year = 1982
+| isbn = 0-07-451786-4}}
+</ref>
+
+The field strength is greatly affected by nearby conducting objects, and it is particularly intense when it is forced to curve around sharply pointed objects. This principle is exploited in the [[lightning conductor]], the sharp spike of which acts to encourage the lightning stroke to develop there, rather than to the building it serves to protect<ref name="Nahin2002">{{cite book|author=Paul J. Nahin|authorlink=Paul J. Nahin|title=Oliver Heaviside: The Life, Work, and Times of an Electrical Genius of the Victorian Age|date=9 October 2002|publisher=JHU Press|isbn=978-0-8018-6909-9}}</ref>{{rp|155}}
+
+===Electric potential===
+{{Main|Electric potential}}
+{{See also|Voltage|Battery (electricity)}}
+[[File:Panasonic-oxyride.jpg|thumb|alt=Two AA batteries each have a plus sign marked at one end.|A pair of [[AA battery|AA cells]]. The +&nbsp;sign indicates the polarity of the potential difference between the battery terminals.]]
+
+The concept of electric potential is closely linked to that of the electric field. A small charge placed within an electric field experiences a force, and to have brought that charge to that point against the force requires [[Mechanical work|work]]. The electric potential at any point is defined as the energy required to bring a unit test charge from an [[infinity|infinite distance]] slowly to that point. It is usually measured in [[volt]]s, and one volt is the potential for which one [[joule]] of work must be expended to bring a charge of one [[coulomb]] from infinity.<ref name=uniphysics/>{{rp|494–98}} This definition of potential, while formal, has little practical application, and a more useful concept is that of [[electric potential difference]], and is the energy required to move a unit charge between two specified points. An electric field has the special property that it is ''[[Conservative force|conservative]]'', which means that the path taken by the test charge is irrelevant: all paths between two specified points expend the same energy, and thus a unique value for potential difference may be stated.<ref name=uniphysics/>{{rp|494–98}} The volt is so strongly identified as the unit of choice for measurement and description of electric potential difference that the term [[voltage]] sees greater everyday usage.
+
+For practical purposes, it is useful to define a common reference point to which potentials may be expressed and compared. While this could be at infinity, a much more useful reference is the [[Earth]] itself, which is assumed to be at the same potential everywhere. This reference point naturally takes the name [[Ground (electricity)|earth]] or [[Ground (electricity)|ground]]. Earth is assumed to be an infinite source of equal amounts of positive and negative charge, and is therefore electrically uncharged—and unchargeable.<ref>
+{{Citation
+| first = Raymond A. | last = Serway
+| title = Serway's College Physics
+| publisher = Thomson Brooks
+| page = 500
+| year = 2006
+| isbn = 0-534-99724-4}}
+</ref>
+
+Electric potential is a [[scalar (physics)|scalar quantity]], that is, it has only magnitude and not direction. It may be viewed as analogous to [[height]]: just as a released object will fall through a difference in heights caused by a gravitational field, so a charge will 'fall' across the voltage caused by an electric field.<ref>
+{{Citation
+| first = Sue | last = Saeli
+| title = Using Gravitational Analogies To Introduce Elementary Electrical Field Theory Concepts
+| url = http://physicsed.buffalostate.edu/pubs/PHY690/Saeli2004GEModels/older/ElectricAnalogies1Nov.doc
+| accessdate = 2007-12-09
+| bibcode = 2007PhTea..45..104S
+| last2 = MacIsaac
+| first2 = Dan
+| volume = 45
+| year = 2007
+| pages = 104
+| journal = The Physics Teacher
+| doi = 10.1119/1.2432088
+| issue = 2}}
+</ref> As relief maps show [[contour line]]s marking points of equal height, a set of lines marking points of equal potential (known as [[equipotential]]s) may be drawn around an electrostatically charged object. The equipotentials cross all lines of force at right angles. They must also lie parallel to a [[electrical conductor|conductor]]'s surface, otherwise this would produce a force that will move the charge carriers to even the potential of the surface.
+
+The electric field was formally defined as the force exerted per unit charge, but the concept of potential allows for a more useful and equivalent definition: the electric field is the local [[gradient]] of the electric potential. Usually expressed in volts&nbsp;per&nbsp;metre, the vector direction of the field is the line of greatest slope of potential, and where the equipotentials lie closest together.<ref name=Duffin/>{{rp|60}}
+
+===Electromagnets===
+{{Main|Electromagnets}}
+[[File:Electromagnetism.svg|thumb|left|alt=A wire carries a current towards the reader. Concentric circles representing the magnetic field circle anticlockwise around the wire, as viewed by the reader.|Magnetic field circles around a current]]
+
+Ørsted's discovery in 1821 that a [[magnetic field]] existed around all sides of a wire carrying an electric current indicated that there was a direct relationship between electricity and magnetism. Moreover, the interaction seemed different from gravitational and electrostatic forces, the two forces of nature then known. The force on the compass needle did not direct it to or away from the current-carrying wire, but acted at right angles to it.<ref name=berkson/> Ørsted's slightly obscure words were that "the electric conflict acts in a revolving manner." The force also depended on the direction of the current, for if the flow was reversed, then the force did too.<ref>
+{{Citation
+| first = Silvanus P. | last = Thompson
+| title = Michael Faraday: His Life and Work
+| publisher = Elibron Classics
+| page = 79
+| year = 2004
+| isbn = 1-4212-7387-X}}
+</ref>
+
+Ørsted did not fully understand his discovery, but he observed the effect was reciprocal: a current exerts a force on a magnet, and a magnetic field exerts a force on a current. The phenomenon was further investigated by [[André-Marie Ampère|Ampère]], who discovered that two parallel current-carrying wires exerted a force upon each other: two wires conducting currents in the same direction are attracted to each other, while wires containing currents in opposite directions are forced apart.<ref name="elec_princ_92-93">
+{{citation
+| last = Morely & Hughes
+| title=Principles of Electricity, Fifth edition
+| pages=92–93}}</ref> The interaction is mediated by the magnetic field each current produces and forms the basis for the international [[Ampere#Definition|definition of the ampere]].<ref name="elec_princ_92-93"/>
+
+[[File:Electric motor cycle 3.png|thumb|alt=A cut-away diagram of a small electric motor|The electric motor exploits an important effect of electromagnetism: a current through a magnetic field experiences a force at right angles to both the field and current]]
+This relationship between magnetic fields and currents is extremely important, for it led to Michael Faraday's invention of the [[electric motor]] in 1821. Faraday's [[homopolar motor]] consisted of a [[permanent magnet]] sitting in a pool of [[Mercury (element)|mercury]]. A current was allowed through a wire suspended from a pivot above the magnet and dipped into the mercury. The magnet exerted a tangential force on the wire, making it circle around the magnet for as long as the current was maintained.<ref name=iet_faraday>
+{{Citation
+ |last=Institution of Engineering and Technology
+ |authorlink=Institution of Engineering and Technology
+ |title=Michael Faraday: Biography
+ |url=http://www.iee.org/TheIEE/Research/Archives/Histories&Biographies/Faraday.cfm
+ |accessdate=2007-12-09
+ |deadurl=yes
+ |archiveurl=https://web.archive.org/web/20070703063432/http://www.iee.org/TheIEE/Research/Archives/Histories%26Biographies/Faraday.cfm
+ |archivedate=2007-07-03
+ |df=
+}}
+</ref>
+
+Experimentation by Faraday in 1831 revealed that a wire moving perpendicular to a magnetic field developed a potential difference between its ends. Further analysis of this process, known as [[electromagnetic induction]], enabled him to state the principle, now known as [[Faraday's law of induction]], that the potential difference induced in a closed circuit is proportional to the rate of change of [[magnetic flux]] through the loop. Exploitation of this discovery enabled him to invent the first [[electrical generator]] in 1831, in which he converted the mechanical energy of a rotating copper disc to electrical energy.<ref name=iet_faraday/> [[Faraday's disc]] was inefficient and of no use as a practical generator, but it showed the possibility of generating electric power using magnetism, a possibility that would be taken up by those that followed on from his work.
+
+===Electrochemistry===
+[[File:Volta-and-napoleon.PNG|thumb|right|[[Italy|Italian]] [[physicist]] [[Alessandro Volta]] showing his ''"[[Battery (electricity)|battery]]"'' to [[France|French]] [[emperor]] [[Napoleon I of France|Napoleon Bonaparte]] in the early 19th century.]]
+{{main|Electrochemistry}}
+The ability of chemical reactions to produce electricity, and conversely the ability of electricity to drive chemical reactions has a wide array of uses.
+
+Electrochemistry has always been an important part of electricity. From the initial invention of the Voltaic pile, [[electrochemical cell]]s have evolved into the many different types of batteries, electroplating and electrolysis cells. [[Aluminium]] is produced in vast quantities this way, and many portable devices are electrically powered using rechargeable cells.
+
+===Electric circuits===
+{{Main|Electric circuit}}
+[[File:Ohms law voltage source.svg|thumb|A basic [[electric circuit]]. The [[voltage source]] ''V'' on the left drives a [[Current (electricity)|current]] ''I'' around the circuit, delivering [[electrical energy]] into the [[resistor]] ''R''. From the resistor, the current returns to the source, completing the circuit.]]
+
+An electric circuit is an interconnection of electric components such that electric charge is made to flow along a closed path (a circuit), usually to perform some useful task.
+
+The components in an electric circuit can take many forms, which can include elements such as [[resistor]]s, [[capacitor]]s, [[switch]]es, [[transformer]]s and [[electronics]]. [[Electronic circuit]]s contain [[active component]]s, usually [[semiconductor]]s, and typically exhibit [[non-linear]] behaviour, requiring complex analysis. The simplest electric components are those that are termed [[passivity (engineering)|passive]] and [[linear]]: while they may temporarily store energy, they contain no sources of it, and exhibit linear responses to stimuli.<ref name=Alexander>{{Citation  | last = Alexander  | first = Charles  | last2 = Sadiku  | first2 = Matthew  | title = Fundamentals of Electric Circuits  | publisher = McGraw-Hill  | year = 2006  | edition = 3, revised  |isbn = 9780073301150}}</ref>{{rp|15–16}}
+
+The [[resistor]] is perhaps the simplest of passive circuit elements: as its name suggests, it [[Electrical resistance|resists]] the current through it, dissipating its energy as heat. The resistance is a consequence of the motion of charge through a conductor: in metals, for example, resistance is primarily due to collisions between electrons and ions. [[Ohm's law]] is a basic law of [[circuit theory]], stating that the current passing through a resistance is directly proportional to the potential difference across it. The resistance of most materials is relatively constant over a range of temperatures and currents; materials under these conditions are known as 'ohmic'. The [[ohm]], the unit of resistance, was named in honour of [[Georg Ohm]], and is symbolised by the Greek letter Ω. 1&nbsp;Ω is the resistance that will produce a potential difference of one volt in response to a current of one amp.<ref name=Alexander/>{{rp|30–35}}
+
+The [[capacitor]] is a development of the Leyden jar and is a device that can store charge, and thereby storing electrical energy in the resulting field. It consists of two conducting plates separated by a thin [[Insulator (electricity)|insulating]] [[dielectric]] layer; in practice, thin metal foils are coiled together, increasing the surface area per unit volume and therefore the [[capacitance]]. The unit of capacitance is the [[farad]], named after [[Michael Faraday]], and given the symbol ''F'': one farad is the capacitance that develops a potential difference of one volt when it stores a charge of one coulomb. A capacitor connected to a voltage supply initially causes a current as it accumulates charge; this current will however decay in time as the capacitor fills, eventually falling to zero. A capacitor will therefore not permit a [[steady state]] current, but instead blocks it.<ref name=Alexander/>{{rp|216–20}}
+
+The [[inductor]] is a conductor, usually a coil of wire, that stores energy in a magnetic field in response to the current through it. When the current changes, the magnetic field does too, [[electromagnetic induction|inducing]] a voltage between the ends of the conductor. The induced voltage is proportional to the [[Time derivative|time rate of change]] of the current. The constant of proportionality is termed the [[inductance]]. The unit of inductance is the [[Henry (unit)|henry]], named after [[Joseph Henry]], a contemporary of Faraday. One henry is the inductance that will induce a potential difference of one volt if the current through it changes at a rate of one ampere per second. The inductor's behaviour is in some regards converse to that of the capacitor: it will freely allow an unchanging current, but opposes a rapidly changing one.<ref name=Alexander/>{{rp|226–29}}
+
+===Electric power===
+{{main|electric power}}
+Electric power is the rate at which [[electric energy]] is transferred by an [[electric circuit]]. The [[SI]] unit of [[power (physics)|power]] is the [[watt (unit)|watt]], one [[joule]] per [[second]].
+
+Electric power, like [[power (physics)|mechanical power]], is the rate of doing [[work (electrical)|work]], measured in [[watt]]s, and represented by the letter ''P''. The term ''wattage'' is used colloquially to mean "electric power in watts."  The electric power in [[watt]]s produced by an electric current ''I'' consisting of a charge of ''Q'' coulombs every ''t'' seconds passing through an [[electric potential]] ([[voltage]]) difference of ''V'' is
+:<math>P = \text{work done per unit time} = \frac {QV}{t} = IV \,</math>
+where
+:''Q'' is electric charge in [[coulomb]]s
+:''t'' is time in seconds
+:''I'' is electric current in [[ampere]]s
+:''V'' is electric potential or voltage in [[volt]]s
+
+[[Electricity generation]] is often done with [[electric generator]]s, but can also be supplied by chemical sources such as [[electric batteries]] or by other means from a wide variety of sources of energy. Electric power is generally supplied to businesses and homes by the [[electric power industry]]. Electricity is usually sold by the [[kilowatt hour]] (3.6 MJ) which is the product of power in kilowatts multiplied by running time in hours.  Electric utilities measure power using [[electricity meter]]s, which keep a running total of the electric energy delivered to a customer. Unlike fossil fuels, electricity is a low [[entropy]] form of energy and can be converted into motion or many other forms of energy with high efficiency.<ref>Environmental Physics By Clare Smith 2001</ref>
+
+===Electronics===
+{{main|electronics}}
+[[File:Arduino ftdi chip-1.jpg|thumb|[[Surface-mount technology|Surface mount]] electronic components]]
+Electronics deals with [[electrical circuit]]s that involve [[active component|active electrical components]] such as [[vacuum tube]]s, [[transistor]]s, [[diode]]s, [[optoelectronics]], [[sensor]]s and [[integrated circuit]]s, and associated passive interconnection technologies. The [[nonlinear]] behaviour of active components and their ability to control electron flows makes amplification of weak signals possible and electronics is widely used in [[information processing]], [[telecommunications]], and [[signal processing]]. The ability of electronic devices to act as [[switch]]es makes digital information processing possible. Interconnection technologies such as [[circuit board]]s, electronics packaging technology, and other varied forms of communication infrastructure complete circuit functionality and transform the mixed components into a regular working [[system]].
+
+Today, most electronic devices use [[semiconductor]] components to perform electron control. The study of semiconductor devices and related technology is considered a branch of [[solid state physics]], whereas the design and construction of [[electronic circuit]]s to solve practical problems come under [[electronics engineering]].
+
+===Electromagnetic wave===
+{{main|Electromagnetic wave}}
+Faraday's and Ampère's work showed that a time-varying magnetic field acted as a source of an electric field, and a time-varying electric field was a source of a magnetic field. Thus, when either field is changing in time, then a field of the other is necessarily induced.<ref name=uniphysics/>{{rp|696–700}} Such a phenomenon has the properties of a [[wave]], and is naturally referred to as an [[electromagnetic wave]]. Electromagnetic waves were analysed theoretically by [[James Clerk Maxwell]] in 1864. Maxwell developed a set of equations that could unambiguously describe the interrelationship between electric field, magnetic field, electric charge, and electric current. He could moreover prove that such a wave would necessarily travel at the [[speed of light]], and thus light itself was a form of electromagnetic radiation. [[Maxwell's Laws]], which unify light, fields, and charge are one of the great milestones of theoretical physics.<ref name=uniphysics/>{{rp|696–700}}
+
+Thus, the work of many researchers enabled the use of electronics to convert signals into [[radio frequency|high frequency]] oscillating currents, and via suitably shaped conductors, electricity permits the transmission and reception of these signals via radio waves over very long distances.
+
+==Production and uses==
+
+===Generation and transmission===
+{{Main|Electricity generation}}
+{{See also|Electric power transmission|Mains electricity}}
+[[File:Gorskii 04414u.jpg|thumb|upright=1.35|Early 20th-century alternator made in [[Budapest]], [[Hungary]], in the power generating hall of a [[hydroelectric]] station (photograph by [[Prokudin-Gorsky]], 1905–1915).]]
+
+In the 6th century BC, the Greek philosopher [[Thales of Miletus]] experimented with amber rods and these experiments were the first studies into the production of electrical energy. While this method, now known as the [[triboelectric effect]], can lift light objects and generate sparks, it is extremely inefficient.<ref name=batteries>
+{{citation
+| first = Ronald | last = Dell
+| first2 = David | last2 = Rand
+| title = Understanding Batteries
+| pages = 2–4
+| year = 2001
+| publisher = Royal Society of Chemistry
+| isbn = 0-85404-605-4
+| bibcode = 1985STIN...8619754M
+| volume = 86
+| journal = Unknown}}
+</ref> It was not until the invention of the voltaic pile in the eighteenth century that a viable source of electricity became available. The voltaic pile, and its modern descendant, the [[Battery (electricity)|electrical battery]], store energy chemically and make it available on demand in the form of electrical energy.<ref name=batteries/> The battery is a versatile and very common power source which is ideally suited to many applications, but its energy storage is finite, and once discharged it must be disposed of or recharged. For large electrical demands electrical energy must be generated and transmitted continuously over conductive transmission lines.
+
+Electrical power is usually generated by electro-mechanical [[electrical generator|generators]] driven by [[steam]] produced from [[fossil fuel]] combustion, or the heat released from nuclear reactions; or from other sources such as [[kinetic energy]] extracted from wind or flowing water. The modern [[steam turbine]] invented by [[Charles Algernon Parsons|Sir Charles Parsons]] in 1884 today generates about 80 percent of the [[electric power]] in the world using a variety of heat sources. Such generators bear no resemblance to Faraday's homopolar disc generator of 1831, but they still rely on his electromagnetic principle that a conductor linking a changing magnetic field induces a potential difference across its ends.<ref>
+{{citation
+| first = Peter G. | last = McLaren
+| title = Elementary Electric Power and Machines
+| pages = 182–83
+| year = 1984
+| publisher = Ellis Horwood
+| isbn = 0-85312-269-5}}
+</ref> The invention in the late nineteenth century of the [[transformer]] meant that electrical power could be transmitted more efficiently at a higher voltage but lower current. Efficient [[electrical transmission]] meant in turn that electricity could be generated at centralised [[power station]]s, where it benefited from [[economies of scale]], and then be despatched relatively long distances to where it was needed.<ref name=Patterson_p44-48>
+{{citation
+| first = Walter C. | last = Patterson
+| title = Transforming Electricity: The Coming Generation of Change
+| pages = 44–48
+| year = 1999
+| publisher = Earthscan
+| isbn = 1-85383-341-X}}
+</ref><ref>
+{{citation
+ |last=Edison Electric Institute
+ |title=History of the Electric Power Industry
+ |url=http://www.eei.org/industry_issues/industry_overview_and_statistics/history
+ |accessdate=2007-12-08
+ |archiveurl=https://web.archive.org/web/20071113132557/http://www.eei.org/industry_issues/industry_overview_and_statistics/history
+ |archivedate=November 13, 2007
+ |deadurl=yes
+ |df=
+}}
+</ref>
+
+[[File:Parque eólico La Muela.jpg|thumb|left|alt=A wind farm of about a dozen three-bladed white wind turbines.|[[Wind power]] is of increasing importance in many countries]]
+Since electrical energy cannot easily be stored in quantities large enough to meet demands on a national scale, at all times exactly as much must be produced as is required.<ref name=Patterson_p44-48/> This requires [[Electric utility|electricity utilities]] to make careful predictions of their electrical loads, and maintain constant co-ordination with their power stations. A certain amount of generation must always be held in [[Operating reserve|reserve]] to cushion an electrical grid against inevitable disturbances and losses.
+
+Demand for electricity grows with great rapidity as a nation modernises and its economy develops. The United States showed a 12% increase in demand during each year of the first three decades of the twentieth century,<ref>
+{{Citation
+| last = Edison Electric Institute
+| title = History of the U.S. Electric Power Industry, 1882–1991
+| url=http://www.eia.doe.gov/cneaf/electricity/chg_stru_update/appa.html
+| accessdate = 2007-12-08}}
+</ref> a rate of growth that is now being experienced by emerging economies such as those of India or China.<ref>
+{{Citation
+ |last=Carbon Sequestration Leadership Forum
+ |title=An Energy Summary of India
+ |url=http://www.cslforum.org/india.htm
+ |accessdate=2007-12-08
+ |archiveurl=https://web.archive.org/web/20071205080916/http://www.cslforum.org/india.htm
+ |archivedate=2007-12-05
+ |deadurl=yes
+ |df=
+}}
+</ref><ref>
+{{Citation
+| last = IndexMundi
+| title = China Electricity – consumption
+| url=http://www.indexmundi.com/china/electricity_consumption.html
+| accessdate = 2007-12-08}}
+</ref> Historically, the growth rate for electricity demand has outstripped that for other forms of energy.<ref name=NRC1986>
+{{Citation
+| last= National Research Council
+| authorlink = United States National Research Council
+| title = Electricity in Economic Growth
+| publisher = National Academies Press
+| year = 1986
+| isbn = 0-309-03677-1}}
+</ref>{{rp|16}}
+
+[[Environmental concerns with electricity generation]] have led to an increased focus on generation from [[Renewable energy|renewable sources]], in particular from [[wind power|wind]] and [[hydropower]]. While debate can be expected to continue over the environmental impact of different means of electricity production, its final form is relatively clean.<ref name=NRC1986/>{{rp|89}}
+
+===Applications===
+[[File:Gluehlampe 01 KMJ.png|thumb|upright|The [[incandescent light bulb|light bulb]], an early application of electricity, operates by [[Joule heating]]: the passage of [[current (electricity)|current]] through [[Electrical resistance|resistance]] generating heat]]
+Electricity is a very convenient way to transfer energy, and it has been adapted to a huge, and growing, number of uses.<ref>
+{{Citation
+| first = Matthew | last = Wald
+| title = Growing Use of Electricity Raises Questions on Supply
+| newspaper = New York Times
+| url= https://query.nytimes.com/gst/fullpage.html?res=9C0CE6DD1F3AF932A15750C0A966958260
+| date = 21 March 1990
+| accessdate = 2007-12-09}}</ref> The invention of a practical [[incandescent light bulb]] in the 1870s led to [[lighting]] becoming one of the first publicly available applications of electrical power. Although electrification brought with it its own dangers, replacing the naked flames of gas lighting greatly reduced fire hazards within homes and factories.<ref>
+{{Citation
+| first = Peter | last = d'Alroy Jones
+| title = The Consumer Society: A History of American Capitalism
+| page = 211
+| publisher = Penguin Books}}
+</ref> Public utilities were set up in many cities targeting the burgeoning market for electrical lighting. In the late 20th century and in modern times, the trend has started to flow in the direction of deregulation in the electrical power sector.<ref>
+{{cite web
+  | url = https://www.en-powered.com/blog/the-bumpy-road-to-energy-deregulation  | title = The Bumpy Road to Energy Deregulation
+  | publisher = EnPowered  | date = 2016-03-28}}
+</ref>
+
+The resistive [[Joule heating]] effect employed in filament light bulbs also sees more direct use in [[electric heating]]. While this is versatile and controllable, it can be seen as wasteful, since most electrical generation has already required the production of heat at a power station.<ref>
+{{Citation
+| first = Charles and Penelope | last = ReVelle
+| title = The Global Environment: Securing a Sustainable Future
+| publisher = Jones & Bartlett
+| page = 298
+| year = 1992
+| isbn = 0-86720-321-8}}
+</ref> A number of countries, such as Denmark, have issued legislation restricting or banning the use of resistive electric heating in new buildings.<ref>{{Citation|last=Danish Ministry of Environment and Energy |work=Denmark's Second National Communication on Climate Change |title=F.2 The Heat Supply Act |url=http://glwww.mst.dk/udgiv/Publications/1997/87-7810-983-3/html/annexf.htm |accessdate=2007-12-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20080108011443/http://glwww.mst.dk/udgiv/Publications/1997/87-7810-983-3/html/annexf.htm |archivedate=January 8, 2008 }}
+</ref> Electricity is however still a highly practical energy source for heating and [[refrigeration]],<ref>
+{{Citation
+| first = Charles E. | last = Brown
+| title = Power resources
+| publisher = Springer
+| year = 2002
+| isbn = 3-540-42634-5}}
+</ref> with [[air conditioning]]/[[heat pump]]s representing a growing sector for electricity demand for heating and cooling, the effects of which electricity utilities are increasingly obliged to accommodate.<ref>
+{{Citation
+ |first       = B.
+ |last        = Hojjati
+ |first2      = S.
+ |last2       = Battles
+ |title       = The Growth in Electricity Demand in U.S. Households, 1981–2001: Implications for Carbon Emissions
+ |url         = http://www.eia.doe.gov/emeu/efficiency/2005_USAEE.pdf
+ |accessdate  = 2007-12-09
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20080216100857/http://www.eia.doe.gov/emeu/efficiency/2005_USAEE.pdf
+ |archivedate = 2008-02-16
+ |df          =
+}}
+</ref>
+
+Electricity is used within [[telecommunication]]s, and indeed the [[electrical telegraph]], demonstrated commercially in 1837 by [[William Fothergill Cooke|Cooke]] and [[Charles Wheatstone|Wheatstone]], was one of its earliest applications. With the construction of first [[First Transcontinental Telegraph|intercontinental]], and then [[Transatlantic telegraph cable|transatlantic]], telegraph systems in the 1860s, electricity had enabled communications in minutes across the globe. [[Optical fibre]] and [[Communications satellite|satellite communication]] have taken a share of the market for communications systems, but electricity can be expected to remain an essential part of the process.
+
+The effects of electromagnetism are most visibly employed in the [[electric motor]], which provides a clean and efficient means of motive power. A stationary motor such as a [[winch]] is easily provided with a supply of power, but a motor that moves with its application, such as an [[electric vehicle]], is obliged to either carry along a power source such as a battery, or to collect current from a sliding contact such as a [[Pantograph (rail)|pantograph]]. Electrically powered vehicles are used in public transportation, such as electric buses and trains,<ref>
+{{Citation
+| title = Public Transportation
+| newspaper = Alternative Energy News
+| date = 2010-03-10
+| url = http://www.alternative-energy-news.info/technology/transportation/public-transit/}}
+</ref> and an increasing number of battery-powered [[electric car]]s in private ownership.
+
+Electronic devices make use of the [[transistor]], perhaps one of the most important inventions of the twentieth century,<ref>
+{{Citation
+| first = Dennis F. | last = Herrick
+| title = Media Management in the Age of Giants: Business Dynamics of Journalism
+| publisher = Blackwell Publishing
+| year = 2003
+| isbn = 0-8138-1699-8}}
+</ref> and a fundamental building block of all modern circuitry. A modern [[integrated circuit]] may contain several billion miniaturised transistors in a region only a few centimetres square.<ref>
+{{Citation
+| first = Saswato R.| last = Das
+| title = The tiny, mighty transistor
+| newspaper = Los Angeles Times
+| date = 2007-12-15
+| url = http://www.latimes.com/news/opinion/la-oe-das15dec15,0,4782957.story?coll=la-opinion-rightrail}}
+</ref>
+
+==Electricity and the natural world==
+
+===Physiological effects===
+{{Main|Electric shock}}
+A voltage applied to a human body causes an electric current through the tissues, and although the relationship is non-linear, the greater the voltage, the greater the current.<ref name=tleis>
+{{Citation
+| first = Nasser | last = Tleis
+| title = Power System Modelling and Fault Analysis
+| publisher = Elsevier
+| year = 2008
+| pages = 552–54
+| isbn = 978-0-7506-8074-5}}
+</ref> The threshold for perception varies with the supply frequency and with the path of the current, but is about 0.1&nbsp;mA to 1&nbsp;mA for mains-frequency electricity, though a current as low as a microamp can be detected as an [[electrovibration]] effect under certain conditions.<ref>
+{{Citation
+| first = Sverre | last = Grimnes
+| title = Bioimpedance and Bioelectricity Basic
+| publisher = Academic Press
+| year = 2000
+| pages = 301–09
+| isbn = 0-12-303260-1}}
+</ref> If the current is sufficiently high, it will cause muscle contraction, [[fibrillation]] of the heart, and [[burn|tissue burns]].<ref name=tleis/> The lack of any visible sign that a conductor is electrified makes electricity a particular hazard. The pain caused by an electric shock can be intense, leading electricity at times to be employed as a method of [[torture]]. Death caused by an electric shock is referred to as [[electric shock|electrocution]]. Electrocution is still the means of [[capital punishment|judicial execution]] in some jurisdictions, though its use has become rarer in recent times.<ref>
+{{Citation
+| first = J.H. | last = Lipschultz
+| first2 = M.L.J.H. | last2 = Hilt
+| title = Crime and Local Television News
+| publisher = Lawrence Erlbaum Associates
+| year = 2002
+| page = 95
+| isbn = 0-8058-3620-9}}
+</ref>
+
+===Electrical phenomena in nature===
+{{main|Electrical phenomena}}
+[[File:Electric-eel2.jpg|thumb|The electric eel, ''Electrophorus electricus'']]
+Electricity is not a human invention, and may be observed in several forms in nature, a prominent manifestation of which is [[lightning]]. Many interactions familiar at the macroscopic level, such as [[touch]], [[friction]] or [[chemical bond]]ing, are due to interactions between electric fields on the atomic scale. The [[Earth's magnetic field]] is thought to arise from a [[dynamo theory|natural dynamo]] of circulating currents in the planet's core.<ref>
+{{citation
+|first=Thérèse |last=Encrenaz
+|title=The Solar System
+|page=217
+|publisher=Springer
+|isbn=3-540-00241-3
+|year=2004}}
+</ref> Certain crystals, such as [[quartz]], or even [[sugar]], generate a potential difference across their faces when subjected to external pressure.<ref name=crystallography>
+{{citation
+|first=José |last=Lima-de-Faria
+|first2=Martin J.| last2= Buerger
+|title=Historical Atlas of Crystallography
+|journal=Zeitschrift für Kristallographie
+|volume=209
+|issue=12
+|page=67
+|publisher=Springer
+|isbn=0-7923-0649-X
+|year=1990|bibcode=1994ZK....209.1008P
+|doi=10.1524/zkri.1994.209.12.1008a
+}}
+</ref> This phenomenon is known as [[piezoelectricity]], from the [[Greek language|Greek]] ''piezein'' (πιέζειν), meaning to press, and was discovered in 1880 by [[Pierre Curie|Pierre]] and [[Jacques Curie]]. The effect is reciprocal, and when a piezoelectric material is subjected to an electric field, a small change in physical dimensions takes place.<ref name=crystallography/>
+
+[[Bioelectrogenesis#Bioelectrogenesis_in_microbial_life|§Bioelectrogenesis in microbial life]] is a prominent phenomenon in soils and sediment ecology resulting from [[anaerobic respiration]]. The [[microbial fuel cell]] mimics this ubiquitous natural phenomenon. 
+
+Some organisms, such as [[shark]]s, are able to detect and respond to changes in electric fields, an ability known as [[electroreception]],<ref name=Biodynamics>
+{{citation
+| first = Vladimir & Tijana | last = Ivancevic
+| title = Natural Biodynamics
+| page = 602
+| publisher = World Scientific
+| year = 2005
+| isbn = 981-256-534-5}}
+</ref> while others, termed [[electrogenic]], are able to generate voltages themselves to serve as a predatory or defensive weapon.<ref name=Electroreception/> The order [[Gymnotiformes]], of which the best known example is the [[electric eel]], detect or stun their prey via high voltages generated from modified muscle cells called [[electrocytes]].<ref name=Electroreception/><ref name=morris/> All animals transmit information along their cell membranes with voltage pulses called [[action potential]]s, whose functions include communication by the nervous system between [[neuron]]s and [[muscle]]s.<ref name="neural science">
+{{citation
+| first = E. | last = Kandel
+| first2 = J.| last2 = Schwartz
+| first3 = T. | last3 = Jessell
+| title = Principles of Neural Science
+| pages = 27–28
+| year = 2000
+| publisher = McGraw-Hill Professional
+| isbn = 0-8385-7701-6}}
+</ref> An electric shock stimulates this system, and causes muscles to contract.<ref>{{citation
+| first = Paul | last = Davidovits
+| title = Physics in Biology and Medicine
+| pages = 204–05
+| year = 2007
+| publisher = Academic Press
+| isbn = 978-0-12-369411-9}}</ref> Action potentials are also responsible for coordinating activities in certain plants.<ref name="neural science"/>
+
+==Cultural perception==
+In 1850, [[William Gladstone]] asked the scientist [[Michael Faraday]] why electricity was valuable. Faraday answered, “One day sir, you may tax it.”<ref name="The Conversation">{{Citation|last=Jackson|first=Mark|url=http://theconversation.com/theoretical-physics-like-sex-but-with-no-need-to-experiment-19409|title=Theoretical physics – like sex, but with no need to experiment|publisher=The Conversation|date=4 November 2013}}</ref>
+
+In the 19th and early 20th century, electricity was not part of the everyday life of many people, even in the industrialised [[Western world]]. The [[popular culture]] of the time accordingly often depicts it as a mysterious, quasi-magical force that can slay the living, revive the dead or otherwise bend the laws of nature.<ref name="Van Riper 69">{{Citation|last=Van Riper|first=A. Bowdoin|title=Science in popular culture: a reference guide|publisher=[[Greenwood Press]]|location=Westport|year=2002|pages=69|isbn=0-313-31822-0}}</ref> This attitude began with the 1771 experiments of [[Luigi Galvani]] in which the legs of dead frogs were shown to twitch on application of [[galvanism|animal electricity]]. "Revitalization" or resuscitation of apparently dead or drowned persons was reported in the medical literature shortly after Galvani's work. These results were known to [[Mary Shelley]] when she authored ''[[Frankenstein]]'' (1819), although she does not name the method of revitalization of the monster. The revitalization of monsters with electricity later became a stock theme in horror films.
+
+As the public familiarity with electricity as the lifeblood of the [[Second Industrial Revolution]] grew, its wielders were more often cast in a positive light,<ref name="Van Riper 71">Van Riper, op.cit., p. 71.</ref> such as the workers who "finger death at their gloves' end as they piece and repiece the living wires" in [[Rudyard Kipling]]'s 1907 poem ''[[Sons of Martha]]''.<ref name="Van Riper 71" /> Electrically powered vehicles of every sort featured large in adventure stories such as those of [[Jules Verne]] and the ''[[Tom Swift]]'' books.<ref name="Van Riper 71" /> The masters of electricity, whether fictional or real—including scientists such as [[Thomas Edison]], [[Charles Steinmetz]] or [[Nikola Tesla]]—were popularly conceived of as having wizard-like powers.<ref name="Van Riper 71" />
+
+With electricity ceasing to be a novelty and becoming a necessity of everyday life in the later half of the 20th century, it required particular attention by popular culture only when it ''stops'' flowing,<ref name="Van Riper 71" /> an event that usually signals disaster.<ref name="Van Riper 71" /> The people who ''keep'' it flowing, such as the nameless hero of [[Jimmy Webb]]’s song "[[Wichita Lineman]]" (1968),<ref name="Van Riper 71" /> are still often cast as heroic, wizard-like figures.<ref name="Van Riper 71" />
+
+==See also==
+{{Portal|Energy|Electronics|Electricity}}
+* [[Ampère's circuital law]], connects the direction of an electric current and its associated magnetic currents.
+* [[Electric potential energy]], the potential energy of a system of charges
+* [[Electricity market]], the sale of electrical energy
+* [[Hydraulic analogy]], an analogy between the flow of water and electric current
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{citation
+| first1=Mahmood
+| last1=Nahvi
+| first2=Edminister
+| last2=Joseph
+| title=Electric Circuits
+| year=1965
+| publisher=McGraw-Hill
+| isbn=9780071422413 }}
+* {{citation
+| first=Percy | last = Hammond
+| title=Electromagnetism for Engineers
+| year=1981
+| publisher=Pergamon
+| isbn=0-08-022104-1
+| bibcode=1951Natur.168....4G
+| volume=168
+| pages=4
+| journal=Nature
+| doi=10.1038/168004b0
+| issue=4262 }}
+* {{citation
+| first=A.| last = Morely
+| first2=E.| last2 = Hughes
+| title=Principles of Electricity
+| edition = 5th
+| year=1994
+| publisher=Longman
+| isbn=0-582-22874-3}}
+* {{citation
+| first = M.S.| last = Naidu
+| first2 = V.| last2 = Kamataru
+| title = High Voltage Engineering
+| publisher = Tata McGraw-Hill
+| year = 1982
+| isbn = 0-07-451786-4}}
+* {{citation
+| first = James| last = Nilsson
+| first2 = Susan | last2 = Riedel
+| title = Electric Circuits
+| publisher = Prentice Hall
+| year = 2007
+| isbn = 978-0-13-198925-2}}
+* {{citation
+| first = Walter C. | last = Patterson
+| title = Transforming Electricity: The Coming Generation of Change
+| year = 1999
+| publisher = Earthscan
+| isbn = 1-85383-341-X}}
+* Benjamin, P. (1898). [https://books.google.com/books?id=VLsKAAAAIAAJ A history of electricity (The intellectual rise in electricity) from antiquity to the days of Benjamin Franklin]. New York: J. Wiley & Sons.
+
+==External links==
+{{Commonscat-inline|Electricity}}
+{{Wiktionary}}
+* [http://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_1.html ''Basic Concepts of Electricity''] chapter from [http://www.ibiblio.org/kuphaldt/electricCircuits/DC/index.html ''Lessons In Electric Circuits Vol 1 DC''] book and [http://www.ibiblio.org/kuphaldt/electricCircuits/ series].
+* [https://books.google.com/books?id=n-MDAAAAMBAJ&pg=PA772&dq=Popular+Mechanics+1931+curtiss#v=onepage&q&f=true "One-Hundred Years of Electricity", May 1931, Popular Mechanics]
+* [http://www.hometips.com/hyhw/electrical/electric.html Illustrated view of how an American home's electrical system works]
+* [http://www.worldstandards.eu/electricity/plugs-and-sockets/ Electricity around the world]
+* [http://amasci.com/miscon/elect.html Electricity Misconceptions]
+* [https://web.archive.org/web/20151201064159/http://www.micro.magnet.fsu.edu/electromag/java/diode/index.html Electricity and Magnetism]
+* [http://steverose.com/Articles/UnderstandingBasicElectri.html Understanding Electricity and Electronics in about 10 Minutes]
+* [http://water.worldbank.org/water/publications/water-electricity-and-poor-who-benefits-utility-subsidies/ World Bank report on Water, Electricity and Utility subsidies]
+
+{{Good article}}
+{{Polarization states}}
+{{Footer energy}}
+{{Authority control}}
+
+[[Category:Electricity| ]]

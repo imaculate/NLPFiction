@@ -1,0 +1,80 @@
+{{Infobox person
+|name          = Peter Folger
+|image         = 
+|image_size    =
+|alt           = 
+|caption       = 
+|birth_name    =
+|birth_date    = 1617
+|birth_place   = England
+|death_date    = 1690 (aged 72–73)
+|death_place   = [[Nantucket]], [[Massachusetts]], [[British America]]
+|body_discovered = 
+|death_cause   =
+|resting_place = Founders Burial Ground, Nantucket
+|resting_place_coordinates = {{Coord|41.286|-70.133|type:landmark|display=inline}}
+|residence     = 
+|nationality   = [[England|English]]
+|ethnicity     = 
+|citizenship   = 
+|known_for     =  
+|education     = 
+|employer      = 
+|occupation    = Poet and [[Interpreter]]
+|home_town     = 
+|salary        = 
+|networth      = 
+|height        = 
+|weight        = 
+|religion      = 
+|spouse        = [[Mary Morrell Folger]]
+|partner       = 
+|children      = 
+|parents       = John Folger Jr.<br>Meribah Gibbs
+|relations     = [[Benjamin Franklin]] (grandson)
+|signature     = 
+|signature_alt = 
+|website       = 
+|box_width     = 
+}}
+
+'''Peter Folger''' or '''Foulger''' (1617&nbsp;–1690) was a poet and an [[interpreter]] of the [[Native Americans in the United States|American Indian]] language for the first settlers of [[Nantucket]]. He was instrumental in the colonization of Nantucket Island in the [[Massachusetts]] colony. He was the maternal grandfather of [[Benjamin Franklin]].<ref>{{cite book
+|pages=543 |title=The Life of Benjamin Franklin |first1=Benjamin |last1=Franklin |first2=Jared|last2=Sparks|first3=William|last3=Temple|last4=Franklin| first5=G. F.|last5= Storm|first6=Joseph|last6=Andrews |year=1856 |location=Boston |publisher=Whitman, Niles, and Hall}}</ref>
+
+A Baptist missionary, teacher, and surveyor, his dealings with the native population promoted harmony between the Native Americans and European settlers.
+
+==Life==
+Peter Folger was born in 1617 in England, the son of John Folger Jr. (b. c. 1594) and Meribah Gibbs.<ref>[https://books.google.ca/books?id=3JQK3D3y2XgC&pg=PA740&dq=Meribah+Gibbs+John+Folger&hl=en&sa=X&ved=0ahUKEwjnwsGsg8nWAhVCzlQKHeG_CwsQ6AEIFDAA]</ref> He came to America in 1635, settling initially in [[Watertown, Massachusetts]], and later moving to [[Martha's Vineyard]],<ref>{{cite book|last=Trent|first=William Peterfield|author2=Benjamin Willis Wells|title=Colonial Prose and Poetry |publisher=Thomas Y. Crowell & co.|year=1903|pages=111|url=https://books.google.com/books?id=MTH_udTDkcAC&pg=PA111&dq=peter+folger}}</ref><!---There is nothing in THIS source that says that he was born in Norwich or who his parents were----> where he worked as a teacher and surveyor. In 1644, he married [[Mary Morrell Folger|Mary Morrell]], whom he met on the voyage from England.<ref>{{cite book|url=https://books.google.com/books?id=ALIUAAAAYAAJ&pg=PA269&dq=peter+folger&as_brr=3|title=New England Historical and Genealogical Register, Vol 16|last=|first=|publisher=Samuel G. Drake|year=1862|isbn=|location=|pages=269}}</ref> 
+
+At the Vineyard, Folger supported himself by teaching school and surveying land. He was hired by Governor [[Thomas Mayhew]] and his son Thomas Mayhew Jr. to convert the [[Native Americans in the United States|Native American]] population to Christianity, during which time he learned to speak the native language. He was a Baptist in faith, and as such was told not to visit with the Puritans on the mainland. Rev. [[Experience Mayhew]], in a letter to John Gardner, Esquire, dated 1694, states that when Thomas Mayhew, Jr. left for England in 1657, he left the care of his church and mission to Peter Folger.<ref>{{cite web|last1=Cutter|first1=William|title=American Biography: A New Cyclopedia, Volume 12|url=https://books.google.com/books?id=vWoKAQAAMAAJ&pg=PA95&lpg=PA95&dq=peter+Folger+++thomas+mayhew&source=bl&ots=OZ3GjQP_s_&sig=V4wiCWPy_3JuQHmg1iOTrTWMu70&hl=en&sa=X&ei=S5JcVYm4I8uMNtDMgagO&ved=0CDUQ6AEwAw#v=onepage&q=peter%20Folger%20%20%20thomas%20mayhew&f=false}}</ref>
+
+From time to time between 1659 and 1662, Folger journeyed to Nantucket in order to survey it for the proprietors. In 1663 Folger moved to Nantucket full-time, having been granted a half a share of land by the proprietors, where he was a surveyor, an Indian interpreter, and clerk in the courts. Shortly thereafter, Folger's daughter, Abiah, was born, later to become the mother of [[Benjamin Franklin]],<ref>{{cite book|last=Worron|first=Harriet B.|title="Trustum" and His Grandchildren|year=1881|url=https://books.google.com/books?id=yLkpc0vsrrwC&pg=PA36&dq=peter+folger}}</ref> who referred to him fondly in his autobiography.
+
+Folger died at [[Nantucket]], Massachusetts, in 1690 and is buried in the Founders Burial Ground.<ref name="Founders Burial Ground">{{cite web|url=https://www.nha.org/library/cemeteries/infofounders.htm |title=Nantucket Founders Burial Ground Information |website=Nantucket Historical Association |accessdate=February 14, 2017}}</ref> His wife Mary Morrill Folger lived until 1704.<ref name="Sparks">{{cite book|author=Jared Sparks|title=The Works of Benjamin Franklin: Containing Several Political and Historical Tracts Not Included in Any Former Edition, and Many Letters, Official and Private, Not Hitherto Published; with Notes and a Life of the Author|url=https://books.google.com/books?id=w1sOAAAAYAAJ&pg=PA543|year=1844|publisher=C. Tappan|page=543}}</ref>
+
+==Works==
+* ''A Looking Glass for the Times, or the Former Spirit of New England Revived in this Generation'' (1675)
+* ''A Denunciation of War''
+
+==References==
+{{reflist}}
+
+==Sources==
+* The New England Historical and Genealogical Register, Volume 16. By New England Historic Genealogical Society
+* American Marriages Before 1699 [database on-line]. Provo, UT, US: Ancestry.com Operations Inc, 1997.  Original data: Clemens, William Montgomery. American Marriage Records Before 1699. Pompton Lakes, NJ, US: Biblio Co., 1926.
+
+{{Authority control}}
+
+{{Benjamin Franklin}}
+
+{{DEFAULTSORT:Folger, Peter}}
+[[Category:1690 deaths]]
+[[Category:People from Nantucket, Massachusetts]]
+[[Category:People from Martha's Vineyard, Massachusetts]]
+[[Category:1617 births]]
+[[Category:Kingdom of England emigrants to the Thirteen Colonies]]
+[[Category:Franklin family]]
+[[Category:People from Watertown, Massachusetts]]
+[[Category:People from Norwich]]
+[[Category:People of colonial Massachusetts]]
+[[Category:Burials in Massachusetts]]

@@ -1,0 +1,610 @@
+{{Use American English|date=December 2016}}
+{{Use mdy dates|date=December 2016}}
+{{Infobox organization
+| name = Society of the Cincinnati
+| named_after = [[Lucius Quinctius Cincinnatus]]
+| image = Order of cincinnati.jpg
+| caption = Order of Cincinnati
+| motto = {{nowrap|{{native phrase|la|"Omnia reliquit servare republicam"|italics=off}}}}<br />{{small|"He left everything to save the republic"}}
+| established = {{start date and age|1783|05|13}}
+| founder = [[Major general (United States)|Major-General]] [[Henry Knox]]
+| founding_location = [[Newburgh, New York|Newburgh]], [[New York (state)|New York]]
+| type = [[Patriotism|Patriotic]]-[[Genealogy|Hereditary]] [[Voluntary association|society]]
+| headquarters = [[Larz Anderson House|Anderson House]], [[Washington, D.C.]]
+| coords = {{coord|38.9107011|N|77.0477045|W|region:US-DC_type:landmark|display=inline}}
+| region_served = [[United States]] and [[France]]
+| language = [[English language|English]]<!---NOTE: Just English, don't add "American English"--->
+| leader_title = [[President (corporate title)|President General]]
+| leader_name = Jonathan Tufts Woods 
+| leader_title2 = [[Vice president|Vice President General]]
+| leader_name2 = William Pless Lunger
+| leader_title3 = [[Secretary (title)|Secretary General]]
+| leader_name3 = John Christopher Harvey
+| leader_title4 = [[Treasurer|Treasurer General]]
+| leader_name4 = Frank Keech Turner, Jr.
+| key_people = [[Executive director|Executive Director]] Jack Duane Warren, Jr.
+| main_organ = Triennial Meeting
+| website = {{URL|societyofthecincinnati.org}}
+}}
+The '''Society of the Cincinnati''' is a [[lineage society|hereditary society]] with branches in the [[United States]] and [[France]], founded in 1783, to preserve the ideals and fellowship of officers of the [[Continental Army]] who served in the [[American Revolutionary War|Revolutionary War]].  <!-- The city of [[Cincinnati, Ohio]], then a small village, shares its name with the Society.-->  Now in its third century, the Society promotes the public interest in the [[American Revolution|revolution]] through its library and museum collections, publications, and other activities. It is the oldest hereditary society in the United States. The Society does not allow women to join, though there is a partnership society called [[Daughters of the Cincinnati]] which permits all female descendants of Continental officers.
+
+==Origins==
+{{More footnotes|section|date=June 2010}}
+<!-- Deleted image removed: [[Image:Knox at 28.jpg|thumb|200px|left|General Henry Knox, Chief of Artillery under George Washington with his Society of Cincinnati medal|{{deletable image-caption|1=Wednesday, July 1, 2009}}]] -->
+[[File:Society of the Cincinnati membership certificate.jpg|166px|thumb|upright=2|Society of the Cincinnati membership certificate<ref>Text: "Be it known that — is a Member of the Society of the Cincinnati, instituted by the Officers of the American Army, at the Period of its Dissolution, as well as to commemorate the great Event which gave Independence to North America, as for the laudable Purpose of inculcating the Duty of laying down in Peace Arms assumed for public Defence, and of uniting in Acts of brotherly Affection, and Bonds of perpetual Friendship the Members constituting the same. In Testimony whereof I, the President of the said Society, have hereunto set my Hand at — in the State of — this — Day of — Year of our Lord One Thousand Eight Hundred and — and in the Year of the Independence of the United States. By order, — Secretary."</ref>]]
+[[File:Society of the Cincinnati eagle.PNG|166px|right|thumb|Society of the Cincinnati eagle of [[Tadeusz Kościuszko]]]]
+
+The Society is named after [[Lucius Quinctius Cincinnatus]], who left his farm to accept a term as [[Roman consul|Roman Consul]] and served as [[Roman dictator|Magister Populi]] (with temporary powers similar to that of a modern-era dictator).  He assumed lawful dictatorial control of [[Roman Republic|Rome]] to meet a war emergency. When the battle was won, he returned power to the [[Roman Senate|Senate]] and went back to plowing his fields. The Society's motto reflects that ethic of selfless service: ''Omnia reliquit servare rempublicam'' ("He relinquished everything to save the Republic").<ref name=Lewis1900>Lewis, Alonzo Norton. ''The Venerable and Illustrious Order of the Cincinnati : "Omnia reliquit servare rempublicam." : 1783-1900 : History of the Connecticut State Society'', Hartford, Conn., 1900.</ref> The Society has had three goals: "To preserve the rights so dearly won; to promote the continuing union of the states; and to assist members in need, their widows, and their orphans."
+
+The concept of the Society of the Cincinnati was that of [[Major General (United States)|Major General]] [[Henry Knox]].<ref>[[#chernow|Chernow, 2010]], p.444</ref> The first meeting of the Society was held in May 1783 at a dinner at [[Mount Gulian]] (Verplanck House) in [[Fishkill, New York]], before the British [[Evacuation Day (New York)|evacuation from New York City]]. The meeting was chaired by [[Lieutenant Colonel (United States)|Lieutenant Colonel]] [[Alexander Hamilton]], and the participants agreed to stay in contact with each other after the war.<ref>[[#puls|Pils, 2008]], p. 184</ref> Membership was generally limited to [[Officer (armed forces)|officers]] who had served at least three years in the [[Continental Army]] or [[Continental Navy|Navy]]; it included officers of the [[Military history of France|French Army]] and [[History of the French Navy|Navy]] above certain [[Military rank|ranks]].  Officers in the Continental Line who died during the War were also entitled to be recorded as members, and membership would devolve to their eldest male heir.  Members of the considerably larger fighting forces comprising the Colonial Militias and [[Minutemen]] were not entitled to join the Society.
+
+Within 12 months of the founding, a constituent Society had been organized in each of the [[Thirteen Colonies|13 states]] and in [[France]]. Of about 5,500 men originally eligible for membership, 2,150 had joined within a year. [[Louis XVI of France|King Louis XVI]] ordained the '''French Society of the Cincinnati''', which was organized on July 4, 1784 ([[Independence Day (United States)|Independence Day]]). Up to that time, the King of France had not allowed his officers to wear any foreign decorations, but he made an exception in favor of the badge of the Cincinnati.
+
+Later in the 18th century, the Society's rules adopted a system of [[primogeniture]] wherein membership was passed down to the eldest son after the death of the original member. Present-day hereditary members generally must be descended from an officer who served in the Continental Army or Navy for at least three years, from an officer who died or was killed in service, or from an officer serving at the close of the [[American Revolution|Revolution]].  Each officer may be represented by only one descendant at any given time, following the rules of [[primogeniture]].  (The rules of eligibility and admission are controlled by each of the 14 Constituent Societies to which members are admitted. They differ slightly in each society, and some allow more than one descendant of an eligible officer.)  The requirement for primogeniture made the society controversial in its early years, as the new states quickly did away with laws supporting primogeniture as remnants of the English feudal system.
+
+[[George Washington]] was elected the first President General of the Society. He served from December 1783 until his death in 1799. The second President General was [[Alexander Hamilton]]. Upon Hamilton's death the third President General of the Society was [[Charles Cotesworth Pinckney]].
+
+The society's members have included notable military and political leaders, including 23 signers of the [[United States Constitution]].
+
+===Original members===
+(Not a complete list.)
+[[Image:Hamiltontrumbull-crop.jpg|100px|thumb|[[Alexander Hamilton]]]]
+[[File:Maréchal de Rochambeau.jpg|100px|thumb|[[Jean-Baptiste Donatien de Vimeur, comte de Rochambeau]]]]
+[[File:John Paul Jones by Charles Wilson Peale, c1781.jpg|right|thumb|100px|[[John Paul Jones]]]]
+[[Image:PUTNAM exb.jpg|thumb|right|100px|[[Rufus Putnam]]]]
+[[Image:Thomas Truxtun.jpg|thumb|100px|right|[[Thomas Truxtun]]]]
+[[File:DZiegler.jpg|thumb|100px|[[David Ziegler]]]]
+[[Image:ArthurStClairOfficialPortrait.jpg|thumb|100px|[[Arthur St. Clair]]]]
+[[File:Lt. Col. Francis Tennille.jpg|thumb|100px|[[Francis Tennille]]]]
+[[Image:Lachlan McIntosh.jpg|thumb|100px|General [[Lachlan McIntosh]]]]
+[[Image:RichardVarick.jpg|thumb|100px|[[Richard Varick]]]]
+[[Image:PeterGansevoortByStuart.jpeg|thumb|100px|[[Peter Gansevoort]] A 1794 oil painting by [[Gilbert Stuart]]]]
+[[File:HoratioGatesByStuart crop.jpg|thumb|100px|[[Horatio Gates]] a 1794 painting by [[Gilbert Stuart]]]]
+
+====New Hampshire====
+[[Joseph Cilley (state senator)|Joseph Cilley]], [[Henry Dearborn]], [[Nicholas Gilman]], [[John Sullivan (general)|John Sullivan]], [[James Reed (soldier)|James Reed]].
+
+====Massachusetts====
+Stephen Abbot, [[Jeduthan Baldwin]], [[John Brooks (governor)|John Brooks]], [[Henry Burbeck]], [[David Cobb (Massachusetts)|David Cobb]], [[John Crane (soldier)|John Crane]], [[Thomas Humphrey Cushing]], [[William Eustis]], [[Constant Freeman]], [[John Greaton]], [[Africa Hamlin]], [[William Heath]], [[William Hull]], [[Thomas Hunt (soldier)|Thomas Hunt]], [[Henry Knox]], [[Henry Jackson (general)|Henry Jackson]], [[Michael Jackson (American Revolution)|Michael Jackson]], [[Simon Larned]], [[Benjamin Lincoln]], [[Samuel Nicholson]], [[William North]], [[Rufus Putnam]], William Shepard, [[William Stacy]], [[Benjamin Tupper]], Elisha Horton, Abraham Williams, John Yeomans, Dr. Abijah Richardson.
+<ref>The Institution and Proceedings of the Society of the Cincinnati</ref>
+
+====Rhode Island====
+[[Israel Angell]], [[William Barton (soldier)|William Barton]], [[Archibald Crary]], [[Nathanael Greene]], [[Moses Hazen]], Daniel Jackson, [[William Jones (governor)|William Jones]], [[Daniel Lyman]], [[Coggeshall Olney]], [[Jeremiah Olney]], [[Stephen Olney]], [[Henry Sherburne (colonel)|Henry Sherburne]], [[Silas Talbot]], [[William Tew]], [[Simeon Thayer]], [[James Mitchell Varnum]], [[Abraham Whipple]], Joseph Arnold.
+
+====Connecticut====
+[[Abraham Baldwin]], [[Joel Barlow]], [[Zebulon Butler]], [[Henry Champion (general)|Henry Champion]], [[John Chester (Connecticut)|John Chester]], [[Jonathan Hart]], [[David Humphreys (soldier)|David Humphreys]], [[Ebenezer Huntington]], [[Jedediah Huntington]], [[Jacob Kingsbury]], [[John Mansfield]], [[Joseph Spencer]], [[Benjamin Tallmadge]], [[Jonathan Trumbull, Jr.]], John Wyllys, [[Palgrave Wyllys]], Amos Walbridge (major)
+
+====New York====
+[[Aaron Burr]], [[George Clinton (vice president)|George Clinton]], [[James Clinton]], [[John Doughty]], [[Nicholas Fish]], [[Peter Gansevoort]], [[Alexander Hamilton]], [[Rufus King]], Joseph Hardy, [[John Lamb (general)|John Lamb]] (general), [[Morgan Lewis (governor)|Morgan Lewis]], [[Henry Beekman Livingston]], [[Alexander McDougall]], [[Charles McKnight]], [[David Olyphant]], [[Philip Schuyler]], [[John Morin Scott]], [[William Stephens Smith]], [[John Stagg Jr]], [[Ebenezer Stevens]],<ref>3.^"John Austin Stevens, Founder, First President". SonsOfTheRevolution.org (New York: Sons of the Revolution in the State of New York Inc.). 2009. Retrieved January 4, 2010. "John Austin Stevens, Founder, First President". FrauncesTavernMuseum.org (New York: Sons of the Revolution in the State of New York Inc.). 2002-9. Retrieved 2010-01-04.</ref> [[Silas Talbot]], [[Benjamin Tallmadge]], [[Philip Van Cortlandt]], [[Henry Vanderburgh]]<ref>{{Citation|title=Henry Vanderburgh|date=2018-07-23|url=https://en.wikipedia.org/w/index.php?title=Henry_Vanderburgh&oldid=851657338|work=Wikipedia|language=en|access-date=2018-10-21}}</ref>, Cornelius Van Dyck,<ref name=OrigMem>The Society of the Cincinnati, Original Members http://genealogytrails.com/main/societyofthecincinnati.html#ORIGINALMEMBERS Retrieved 22 NOV 2016</ref> John Van Dyck,<ref name=OrigMem/> [[Richard Varick]], [[William Scudder]], [[Dr. Caleb Sweet]],<ref>{{cite web|author=Kim Torp |url=http://genealogytrails.com/main/societyofthecincinnati.html#NY |title=THE SOCIETY OF THE CINCINNATI - History, Constitution, First Officers, First Members - presented by Genealogy Trails |publisher=Genealogytrails.com |date=February 6, 2007 |accessdate=November 2, 2013}}</ref> Maj.Gen. [[Baron von Steuben]], Lt.Col., Bernardus Swartwout, Cornelius Swartwout, BG [[Philip Van Cortlandt]],<ref>{{cite book|url=https://books.google.com/books?id=L5YLAAAAIAAJ&pg=PA305&lpg=PA305&dq=swartwout+society+of+the+cincinnati+in+New+york&source=bl&ots=WLbteuPeUF&sig=PGIVF8xemoK3-A6Nl4p8dCNxNH4&hl=en&sa=X&ei=wF2AUo-9K7OjsQSAyYD4Aw&ved=0CC8Q6AEwAQ#v=onepage&q=swartwout%20society%20of%20the%20cincinnati%20in%20New%20york&f=false |title=Institution of the Society of the Cincinnati: Formed by the Officers of the ... - John Schuyler |publisher=Books.google.com |date= |accessdate=December 4, 2013}}</ref> (Baron) Frederick Von Weisenfels.
+
+====New Jersey====
+James Anderson, Abraham Appleton, [[James Francis Armstrong]], Daniel Baldwin, Jeremiah Ballard, William Barton, [[John Beatty (Continental Congress)|John Beatty]], John Bishop, John Blair, [[Joseph Bloomfield]], Absalom Bonham, James Bonnell, Seth Bowen, Nathaniel Bowman, [[David Brearley]], Almarin Brooks, Jeremiah Bruen, Joseph Buck, [[William Burnet (physician)|William Burnet]], Eden Burrowes, John Burrowes, [[Lambert Cadwalader]], George Walker Campbell, Jabez Campfield, Samuel Conn, John Conway, Richard Cox, John Noble Cumming, Ephraim Darby, [[Elias Dayton]], [[Jonathan Dayton]], Cyrus De Hart, Nathaniel Donnell, Lewis Ford Dunham, [[Ebenezer Elmer]], Eli Elmer, Peter Faulkner, Chilion Ford, Mahlon Ford, [[David Forman (general)|David Forman]], Jonathan Forman, James Giles, Luther Halsey, Jacob Harris, James Heard, John Heard, [[William Helms]], Samuel Hendry, John Hollinshead, John Holmes, Jonathan Holmes, John Hopper, John Howell, [[Richard Howell]], Andrew Hunter, Jacob Hyer, William Kersey, Abraham Kinney, John Kinney, [[Shepard Kollock]], Derick Lane, Nathaniel Leonard, Richard Lloyd, Francis Luce, Absalom Martin, Giles Mead, Alexander Mitchell, [[Aaron Ogden]], [[Matthias Ogden]], [[Benajah Osmun]], John Peck, Robert Pemberton, [[William Sanford Pennington]], Jonathan Phillips, Jacob Piatt, William Piatt, John Polhemus, Samuel Reading, Anthony Reckless, John Reed, John Reed, John Reucastle, Jonathan Rhea, John Ross, Cornelius Riker Sedam, Samuel C. Seeley, [[Israel Shreve]], Samuel Moore Shute, William Shute, Jonathan Snowden, [[Oliver Spencer]], Moses Sprowl, Ebenezer Stockton, Abraham Stout, Wessel Ten Broeck Stout, Edmund Disney Thomas, William Tuttle, George Walker, Abel Weymen, Ephraim Lockhart Whitlock.<ref>{{cite web|url=https://archive.org/details/societyofcincinn00sociiala|title=The Society of the Cincinnati in the state of New Jersey|first=|last=Society of the Cincinnati in the State of New Jersey|date=April 28, 1898|publisher=Trenton : The J. L. Murphy publishing company, printers|via=Internet Archive}}</ref>
+
+====Pennsylvania====
+[[John Armstrong, Jr.]], [[Joshua Barney]], [[John Barry (naval officer)|John Barry]], William Bingham, [[Thomas Boude]], [[Daniel Brodhead III|Daniel Brodhead]], [[David Brooks (politician)|David Brooks]], [[Edward Butler (soldier)|Edward Butler]], [[Richard Butler (general)|Richard Butler]], [[Thomas Butler (soldier)|Thomas Butler]], [[William Butler (colonel)|William Butler]], [[Thomas S. Crago|Thomas Craig]], [[Richard Dale]], James Gilchrist, [[Edward Hand]], [[Josiah Harmar]], [[Thomas Hartley]], Stewart Herbert, Richard Humpton, [[William Irvine (general)|William Irvine]], Francis Johnston, [[John Paul Jones]], [[Robert Magaw]], [[Thomas Mifflin]], [[John Peter Gabriel Muhlenberg]], [[Alexander Murray (1755-1821)|Alexander Murray]], [[Lewis Nicola]], [[Samuel Nicholas]], Zebulon Pike, [[Thomas Proctor (general)|Thomas Proctor]], [[Arthur St. Clair]], [[William Thompson (general)|William Thompson]], [[Anthony Wayne]], [[Baron von Steuben]], [[Isaac Van Horne]], Jacob Bower.
+
+====Delaware====
+Daniel Jenifer Adams, Enoch Anderson, Joseph Anderson, Thomas Anderson, William Anderson, [[Caleb Prew Bennett]], James Campbell, John Driskill, Henry Duff, Reuben Gilder, [[David Hall (Delaware governor)|David Hall]], Joseph Hossman, John Vance Hyatt, Peter Jacquett, Jr., James Jones, Charles Kidd, David Kirkpatrick, [[Robert Kirkwood|Robert Henry Kirkwood]], [[Henry Latimer (senator)|Henry Latimer]], John Learmonth, William McKennan, [[Allen McLane|Allen (Allan) McLane]], Stephen McWilliam, [[Nathaniel Mitchell]], George Monro, James Moore, [[John Patten (American politician)|John Patten]], John Platt, Charles Pope, George Purvis, Edward Roche, Ebenezer Augustus Smith, [[James Tilton]], Nathaniel Twinning, Joseph Vaughan, William Adams (son of Nathan Adams), and Joseph Haslet (son of [[John Haslet]]).
+
+====Maryland====
+[[Lloyd Beall]], Joshua Burgess, [[Josias Carvel Hall]], [[Mordecai Gist]], [[John Gunby]], [[Thomas Lancaster Lansdale]],<ref>{{cite book|title=Register of the Society of the Cincinnati of Maryland|year=1897|publisher=Order of the Society|location=[[Baltimore, Maryland]]|page=78|url=https://books.google.com/books?id=31RKAAAAYAAJ&dq=%22lancaster%20Lansdale%22&pg=PA78#v=onepage&q&f=false}}</ref> [[James Lingan]], [[Daniel Morgan]], [[Nathaniel Ramsey]], [[William Smallwood]], [[Tench Tilghman]], [[Otho Williams]], Richard Pindell (surgeon),<ref>{{cite book|title=Register of the Society of the Cincinnati of Maryland|year=1897|publisher=Order of the Society|location=[[Baltimore, Maryland]]|page=96|url=https://books.google.com/books?id=31RKAAAAYAAJ&pg=PA96#v=onepage&q&f=false}}</ref> [[Joshua Barney]].
+
+====Virginia====
+Charter members from Virginia include:<ref>{{cite journal|jstor=4242109|title=Virginia Society of the Cincinnati|journal=The Virginia Magazine of History and Biography|volume=6|date=July 1898|pages=22–29|publisher=Virginia Historical Society}}</ref>
+[[Richard Clough Anderson Sr.]], George Baylor, [[Francis T. Brooke]], [[Abraham Buford]], [[Nicholas Cabell]], William Overton Callis, [[Edward Carrington]], [[Louis de Corny]], John Cropper, [[William Davies (Virginia)|William Davies]], [[Christian Febiger]], [[Horatio Gates]], John Gibson, [[William Grayson]], [[John W. Green|John Green]], [[Charles Harrison (general)|Charles Harrison]], [[William Heth]], Peter Higgins, [[Samuel Hopkins (congressman)|Samuel Hopkins]], [[Henry Lee III]], [[John Crittenden, Sr.]], [[Charles S. Lewis|Charles Lewis]], [[George Mathews (Georgia)|George Mathews]], [[James Monroe]], [[Daniel Morgan]], [[John Muhlenberg]], [[John Neville (general)|John Neville]], [[Thomas Overton]], Major Charles Pelham, [[Thomas Posey]], [[Major John Pryor]], [[William Russell (Virginia)|William Russell]], [[Alexander Skinner (surgeon)|Alexander Skinner]], [[Richard Taylor (colonel)|Richard Taylor]], [[John Ward (Society of the Cincinnati)|John Ward]], [[John Watts (sailor)|John Watts]], [[George Washington]], [[George Augustine Washington]], [[George Weedon]], David Williams, Willis Wilson, [[James Wood (governor)|James Wood]], [[William Russell (Virginia)|Brigadier General William Russell]].
+
+====North Carolina====
+[[William Lee Alexander]], James Armstrong, John Armstrong, Thomas Armstrong, John Baptist Ashe, Samuel Ashe, Jr., Peter Bacot, Benjamin Bailey, Kedar Ballard, Robert Bell, [[Jacob Blount]], Reading Blount, Adam Boyd, Joseph Blyth(e), Gee Bradley, Alexander Brevard, Joseph Brevard, William Bush, Thomas Callender, John Campbell, James Campen, Benjamin Carter, [[Thomas Clark (North Carolina)|Thomas Clark]], John Clendennen, Benjamin Coleman, John Craddock, Anthony Crutcher, John Daves, Samuel Denny, Charles Dixon, Tilghman Dixon, Wynn Dixon, George Doherty, Thomas Donoho, Thomas Evans, [[Richard Fenner]], Robert Fenner, William Ferebee, Thomas Finney, John Ford (Foard), James Furgus (Fergus), Charles Gerrard (Garrard), Francis Graves, James West Green, Joshua Hadley, Clement Hall, [[Selby Harney]], Robert Hays, John Hill, Thomas Hogg, Hardy Holmes, [[Robert Howe (Continental Army officer)|Robert Howe]], John Ingles, Curtis Ivey, Abner Lamb, Nathaniel Lawrence, Nehemiah Long, Archibald Lytle, William Lytle, William Maclean (McLane), William McClure, James McDougall, John McNees, Griffith John McRee, Joseph Monfort, James Moore, Henry Murfree, John Nelson, Thomas Pasture (Pasteur), [[William Polk (colonel)|William Polk]], Robert Raiford, Jesse Read, John Read (Reed), Joseph Thomas Rhodes, William Sanders (Saunders), Anthony Sharp(e), Daniel Shaw, Stephen Slade, John Slaughter, Jesse Steed, John Summers, [[Jethro Sumner]], James Tate, Howell Tatum, James Tatum, James Thackston, Nathaniel Williams, William Williams, and Edward Yarborough.
+
+====South Carolina====
+[[Isaac Huger]], James Kennedy, [[Charles Lining]], [[William Moultrie]], [[Thomas Pinckney]]
+
+====Georgia====
+[[James Armstrong (Georgia)|James Armstrong]], [[Samuel Elbert]], [[George Mathews (Georgia)|George Mathews]], [[John Milton (Georgia politician)|John Milton]], [[Francis Tennille]].
+
+====France====
+[[Jean Baptiste, marquis de Traversay|Jean Baptiste de Traversay]], [[Maxime Julien Émeriau de Beauverger]], [[Pierre L'Enfant]], [[Louis-René Levassor de Latouche Tréville]], [[Paul François Ignace de Barlatier de Mas]], [[Gilbert du Motier, marquis de Lafayette|Gilbert du Motier]], [[Louis Marc Antoine de Noailles]], [[Georges René Le Peley de Pléville]], [[Charles Armand Tuffin, marquis de la Rouërie|Charles Armand Tuffin]], [[Jean Gaspard Vence]], [[Alexandre-Théodore-Victor, comte de Lameth|Alexandre-Théodore-Victor]], [[Jean-Baptiste Donatien de Vimeur, comte de Rochambeau|Jean-Baptiste Donatien de Vimeur]], [[Joseph de Cambis]] [[Claude Henri de Rouvroy, comte de Saint-Simon|Henri de Saint-Simon]].
+
+====Sweden====
+Count [[Axel von Fersen the Younger|Axel von Fersen]], Baron [[Curt von Stedingk]]. (Members of the French Society.)
+
+====Polish–Lithuanian Commonwealth====
+[[Tadeusz Kościuszko]]
+<ref>Gov. John Brown Francis Papers, Courtesy of Henry A.L.Brown{{Ephraim Bowen, Jr.]]</ref>
+
+==Insignia==
+[[Image:Order of the cincinnati.gif|right|thumb|100px|Society of the Cincinnati eagle, drawing from B.J. Lossing's ''Pictoral Field Book of the Revolution'']]
+On June 19, 1783, the General Society of the Cincinnati adopted the [[bald eagle]] as its insignia.  It is one of America's first post-revolution symbols and an important piece of American [[iconography]].  It is the second official American emblem to use the bald eagle, following the [[Great Seal of the United States]].  The insignia may have been derived from the same discourse that produced the seal.
+
+The suggestion of the bald eagle as the Cincinnati insignia was made by [[Major (United States)|Major]] [[Pierre L'Enfant]], a French officer who joined the American Army in 1777, served in the [[United States Army Corps of Engineers|Corps of Engineers]], and became one of the first members of the Society.  He observed that "[t]he Bald Eagle, which is unique to this continent, and is distinguished from those of other climates by its white head and tail, appears to me to deserve attention."<ref>Autograph letter signed. Pierre L'Enfant to Baron de Steuben, June 10, 1783. Society of the Cincinnati Archives, Washington, D.C.</ref>  In 1783, L'Enfant was commissioned to travel to France to have the first Eagle badges made, based on his design. (L'Enfant later planned and partially laid out the city of [[Washington, D.C.]])
+
+The [[medallion]]s at the center of the Cincinnati American Eagle depict, on the [[Obverse and reverse|obverse]], Cincinnatus receiving his sword from Roman senators and, on the [[Obverse and reverse|reverse]], Cincinnatus at his plow being crowned by the figure of [[Pheme]] (a [[personification]] of [[celebrity|fame]]).  The Society's colors, light blue and white, symbolize the fraternal bond between the [[Franco-American relations|United States and France]].
+
+A specially commissioned "Eagle" worn by President General George Washington was presented to [[Gilbert du Motier, marquis de La Fayette|Marquis de Lafayette]] in 1824 [[Visit of the Marquis de Lafayette to the United States (1824-25)|during his grand tour of the United States]].  This badge remained in possession of the Lafayette family<ref>{{cite web |url=http://www.maineantiquedigest.com/stories/index.html?id=216 |title=Sotheby's to Sell Badge Owned by Washington and Lafayette |publisher=Maine Antique Digest}}</ref> until sold at auction on December 11, 2007, for 5.3 million [[United States dollar|USD]] by Lafayette's great-great granddaughter.  Together with what are believed to be the original ribbon and red leather box, the badge was purchased by the [[Josée and René de Chambrun Foundation]] for display in Lafayette's bedroom at Chateau La Grange, his former home, thirty miles east of [[Paris]]; it may also be displayed at [[Mount Vernon]], Washington's former home in Virginia.<ref>{{cite news |url=http://www.usrarecoininvestments.com/coin_articles/odd_lafayette_medal.htm |title=Washington medal sells in NYC for $5.3M |agency=Associated Press |date=December 11, 2007}}</ref>  This was one of three eagles known to have been owned by Washington, who most often wore the "[[diamond]] eagle," a diamond-encrusted badge given him by the French ''matelots'' ([[sailor]]s).  That diamond eagle continues to be passed down to each President General of the Society of the Cincinnati as part of his induction into office.
+
+The Cincinnati Eagle is displayed in various places of public importance, including in [[Fountain Square, Cincinnati|Fountain Square]] in Cincinnati (named for the Society), [[Ohio]], alongside the [[Flag of the United States|American]] and municipal flags. The flag of the Society displays blue and white stripes and a dark blue [[Canton (heraldry)|canton]] (containing a circle of 14 stars around the Cincinnati Eagle, representing the fourteen subsidiary societies, one each in the thirteen original States and France) in the upper corner next to the hoist.  Refer to the [[Society of the Cincinnati#Later activities|section below]] for the city's historical connection to the Cincinnati.
+
+On ceremonial occasions, members may wear their badges on their American military uniforms.<ref>{{cite web|url=http://www.gpo.gov/fdsys/pkg/USCODE-2010-title10/pdf/USCODE-2010-title10-subtitleA-partII-chap57-sec1123.pdf |format=PDF |title=Title 10 - Armed Forces |page=707 |publisher=Gpo.gov |accessdate=August 11, 2015}}</ref>
+
+==Criticism==
+When news of the foundation of the society spread, judge [[Aedanus Burke]] published several pamphlets under the pseudonym ''Cassius'' where he criticized the society as an attempt at reestablishing a hereditary nobility in the new republic.<ref>Doyle, 2009, p. 102ff.</ref> The pamphlets, entitled ''An Address to the Freemen of South Carolina'' (January 1783) and ''Considerations on the Society or Order of Cincinnati'' (October 1783) sparked a general debate that included prominent names, including [[Thomas Jefferson]]<ref>Doyle, 2009, p. 114ff.</ref> and [[John Adams]].<ref>Doyle, 2009, p. 133ff.</ref> The criticism voiced concern about the apparent creation of an hereditary elite; membership eligibility is inherited through [[primogeniture]], and generally excluded [[Enlisted rank|enlisted men]] and [[militia]] officers, unless they were placed under "State Line" or "Continental Line" forces for a substantial time period, and their descendants. [[Benjamin Franklin]] was among the Society's earliest critics.  He was concerned about the creation of a quasi-[[Order (decoration)|noble order]], and of the Society's use of the eagle in its emblem, as evoking the traditions of [[heraldry]] and the English aristocracy. In a letter to his daughter [[Sarah Franklin Bache|Sarah Bache]] written on January 26, 1784, Franklin commented on the ramifications of the Cincinnati:
+
+<blockquote>I only wonder that, when the united Wisdom of our Nation had, in the Articles of Confederation, manifested their Dislike of establishing Ranks of Nobility, by Authority either of the Congress or of any particular State, a Number of private persons should think proper to distinguish themselves and their Posterity, from their fellow Citizens, and form an Order of ''hereditary Knights'', in direct Opposition to the solemnly declared Sense of their Country.<ref>{{cite book|last1=Sparks|first1=Jared|title=The Works of Benjamin Franklin: Containing Several Political and Historical Tracts Not Included in Any Former Edition, and Many Letters, Official and Private, Not Hitherto Published; with Notes and a Life of the Author, Volume 10|date=1844|publisher=Charles Tappan|location=Louisville, Kentucky|page=58|url=https://books.google.com/books?id=8jVP_HZMIDQC&pg=PA58&lpg=PA58&dq=%22Dislike+of+establishing+Ranks+of+Nobility%22&source=bl&ots=DkTwc1Oz4z&sig=HaaIlgQhmwecdKVXE7bsuvvkn50&hl=en&sa=X&ved=0ahUKEwjh7eTLtaDXAhVEWxoKHRbyAooQ6AEIKTAB#v=onepage&q=%22Dislike%20of%20establishing%20Ranks%20of%20Nobility%22&f=false}}</ref></blockquote>
+The influence of the Cincinnati members, former officers, was another concern. When delegates to the [[Philadelphia Convention|Constitutional Convention]] were debating the method of choosing a [[President of the United States|president]], [[James Madison]] (the secretary of the Convention) reported the following speech of [[Elbridge Gerry]] of [[Massachusetts]]:
+<blockquote>A popular election in this case is radically vicious. The ignorance of the people would put it in the power of some one set of men dispersed through the Union & acting in Concert to delude them into any appointment. He observed that such a Society of men existed in the Order of the Cincinnati. They are respectable, United, and influential. They will in fact elect the chief Magistrate in every instance, if the election be referred to the people. [Gerry's] respect for the characters composing this Society could not blind him to the danger & impropriety of throwing such a power into their hands.<ref>[http://www.yale.edu/lawweb/avalon/debates/725.htm "The Debates in the Federal Convention of 1787, reported by James Madison", 25 July 1787] {{webarchive|url=https://web.archive.org/web/20060829141408/http://www.yale.edu/lawweb/avalon/debates/725.htm |date=August 29, 2006 }}, Yale Law School</ref></blockquote>
+
+The debate spread to France on account of the eligibility of French veterans from the Revolutionary War. In 1785 [[Honoré Gabriel Riqueti, comte de Mirabeau]] was approached by Franklin, who was at the time stationed in Paris and suggested to him to write something about the society directed at the French public.<ref>Doyle, 2009, p. 122.</ref> Mirabeau was provided with Burke's pamphlets and Franklin's letter to his daughter, and from this, with the help of [[Nicolas Chamfort]], created his own enlarged version entitled ''Considérations sur l'Ordre de Cincinnatus'' which was published in London November that year, an English translation carried out by [[Samuel Romilly]] followed, of which an American edition was published in 1786.<ref>Doyle, 2009, p. 123.</ref>
+
+Following this public debate and criticism, George Washington, who had been unaware of the particulars of the charter when he agreed to become president of the society, began to have doubts about the benefit of the society. He had in fact considered abolishing the society on its very first general meeting May 4, 1784.<ref>Doyle, 2009, p. 115-16.</ref> However, in the mean time Major L'Enfant had arrived bringing his designs of the diplomas and medals, as well as news of the success of the society in France, which made an abolishment of the society impossible. Washington instead at the meeting launched an ultimatum, that if the clauses about heredity were not abandoned, he would resign from his post as president of the society. This was accepted, and furthermore informal agreement was made not to wear the eagles in public, so as not to resemble European chivalrous orders. A new charter, the so-called ''Institution'', was printed, which omitted among others the disputed clauses about heredity. This was sent to the local chapters for approval, and it was approved in all of them except for the chapters in New York, New Hampshire and Delaware. However, when the public furor about the society had died down, the new ''Institution'' was rescinded, and the original reintroduced, including the clauses about heredity.<ref>Doyle, 2009, p. 117-18.</ref>
+
+The French chapter, who had obtained official permission to form from the king [[Louis XVI of France]], also abolished heredity, but never reintroduced it, and thus the last members were approved February 3, 1792, shortly before the French monarchy was disbanded.<ref>Doyle, 2009, p. 131.</ref>
+
+==Later activities==
+===City development by early members===
+The members of the Cincinnati were among those developing many of America's first and largest cities to the west of the Appalachians, most notably [[Cincinnati, Ohio]] and [[Pittsburgh, Pennsylvania]].
+
+The first governor of the [[Northwest Territory]], [[Arthur St. Clair]], was a member of the Society. He renamed a small settlement "Cincinnati" to honor the Society and to encourage settlement by Society members. Among them were Captain Jacob Piatt, who settled across the river from Cincinnati in northern Kentucky on land granted to him for his service during the War. Captain [[David Ziegler]] was the first Mayor of Cincinnati.
+
+Lt. [[Ebenezer Denny]] (1761–1822), an original Pennsylvanian Cincinnatus, was elected the first mayor of the incorporated city of Pittsburgh in 1816. Pittsburgh developed from [[Fort Pitt (Pennsylvania)|Fort Pitt]], which had been commanded since 1777-1783 by four men who were founding members of the Society.
+
+[[Richard Varick]] was a [[Mayor of New York City]].
+
+===Public awareness===
+Today's Society supports efforts to increase public awareness and memory of the ideals and actions of the men who created the American Revolution and an understanding of American history, with an emphasis on the period from the outset of the Revolution to the War of 1812. At its headquarters at Anderson House in Washington, DC, the Society holds manuscript, portrait, and model collections pertaining to events of and military science during this period.<ref>{{cite web |url=http://societyofthecincinnati.org/collections/library/about |title=The Society of the Cincinnati|publisher=Societyofthecincinnati.org |accessdate=September 2, 2012}}</ref> Members of the Society have contributed to endow professorships, lecture series, awards, and educational materials in relation to the United States' representative democracy.<ref>{{cite web |url=http://societyofthecincinnati.org/about/purpose/vision |title=The Society of the Cincinnati: Strategic Vision |publisher=Societyofthecincinnati.org|accessdate=September 2, 2012}}</ref> The definition and acceptance of membership has remained with the constituent societies rather than with the General Society in Washington.
+
+The Society maintains a tradition of service in American government, especially in the federal executive branch.  Members of the society have served in the Armed Forces, the State Department and other parts of the executive branch.
+
+===Membership rules===
+Over the years, membership rules have continued as first established. They provide for approving the application of a collateral heir if the direct male line dies out. Membership has been expanded in some state societies to include descendants of those who died during the war, but it remains limited.
+
+An officer of the Continental army during the Revolutionary War can generally be represented in the Society of The Cincinnati by only one descendant at a time. The only U.S. President who was a true hereditary member was [[Franklin Pierce]]. The General Society no longer admits honorary members. [[Andrew Jackson]] and [[Zachary Taylor]] were honorary members before becoming presidents. Other presidents became honorary members while in office, and after leaving office.
+Each of the fourteen constituent societies has honorary members, but these men cannot designate an heir (referred to as a successor member).<ref>{{cite web|url=http://www.societyofthecincinnati.org/about/membership|title=Society of the Cincinnati - About Membership}}</ref>
+
+===Cox Book Prize===
+The Society of the Cincinnati Prize recognizes the author of an outstanding work that advances understanding of the American Revolution and its legacy. Established in 1989 as a triennial award, the prize is now presented annually. <ref name="CBP" >{{cite web |title=Cox Book Prize |url=https://www.societyofthecincinnati.org/scholarship/coxbookprize/ |website=The Society of the Cincinnati |accessdate=16 January 2019}}</ref>
+
+Since 1989, the authors awarded this prize are as follows:<ref name="CBP" />
+*1989 - '''[[Bernard Bailyn]]''', ''Voyagers to the West: A Passage in the Peopling of America on the Eve of the Revolution''
+*1992 - '''[[P. D. G. Thomas]]''', ''Tea Party to Independence: The Third Phase of the American Revolution''
+*1995 - '''[[Stanley M. Elkins]] and [[Eric L. McKitrick]]''', ''The Age of Federalism''
+*1998 - '''[[Jack N. Rakove]]''', ''Original Meanings: Politics and Ideas in the Making of the Constitution''
+*2001 - '''[[Saul Cornell]]''', ''The Other Founders: Anti-Federalism and the Dissenting Tradition in America''
+*2004 - '''[[Elizabeth Fenn]]''', ''Pox Americana: The Great Smallpox Epidemic of 1775-1782''
+*2007 - '''[[Alan Taylor (historian)|Alan Taylor]]''', ''The Divided Ground: Indians, Settlers, and the Northern Borderland of the American Revolution''
+*2010 - '''Matthew H. Spring''', ''With Zeal and With Bayonets Only: The British Army on Campaign in North America, 1775-1783''
+*2013 - '''Benjamin L. Carp''', ''Defiance of the Patriots: The Boston Tea Party and the Making of America''
+*2018 - '''[[Eric Hinderaker]]''', ''Boston's Massacre''
+
+==Headquarters==
+{{main article|Larz Anderson House}}
+[[Image:anderson dinner.jpg|thumb|The Society makes Anderson House and its ballroom available for private events.]]
+The Society is headquartered in the '''Anderson House''', also known as '''Larz Anderson House''', at 2118 [[Massachusetts Avenue (Washington, D.C.)|Massachusetts Avenue]], [[Northwest, Washington, D.C.|NW]] in the [[Dupont Circle, Washington, D.C.|Dupont Circle]] neighborhood of [[Washington, D.C.]] The Anderson House also serves as a Society museum and research library. It is located on the [[Embassy Row]] section, near international embassies.
+
+Anderson House was built between 1902 and 1905 as the winter residence of [[Larz Anderson]], an American diplomat, and his wife, [[Isabel Weld Perkins]], an author and [[American Red Cross]] volunteer.  The architects Arthur Little and Herbert Browne of [[Boston]] designed Anderson House in the [[Beaux-Arts architecture|Beaux-Arts]] style.  Anderson House was listed on the [[National Register of Historic Places]] in 1971 and was further designated a [[National Historic Landmark]] in 1996.<ref name="nhlsum">{{cite web|url=http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=1168&ResourceType=Building|title=Anderson House|accessdate=February 22, 2009|work=National Historic Landmark summary listing|publisher=[[National Park Service]]|deadurl=yes|archiveurl=https://web.archive.org/web/20090421202024/http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=1168&ResourceType=Building|archivedate=April 21, 2009|df=mdy-all}}</ref><ref name="nris">{{NRISref|2007a}}</ref>
+
+The Society's museum collections include portraits, armaments, and personal artifacts of Revolutionary War soldiers; commemorative objects; objects associated with the history of the Society and its members, including Society of the Cincinnati china and insignia; portraits and personal artifacts of members of the Anderson family; and artifacts related to the history of the house, including the [[U.S. Navy]]'s occupation of it during [[World War II]].
+
+==Library==
+The library of the Society of the Cincinnati collects, preserves, and makes available for research printed and manuscript materials relating to the military and naval history of the eighteenth century and early nineteenth century, with a particular concentration on the people and events of the [[American Revolution]] and the War of 1812.  The collection includes a variety of modern and rare materials including official military documents, contemporary accounts and discourses, manuscripts, maps, graphic arts, literature, and many works on naval art and science.  In addition, the library is the home to the archives of the Society of the Cincinnati as well as a collection of material relating to Larz and Isabel Anderson.  The library is open to researchers by appointment.
+
+==American Independence Museum==
+The Society of the Cincinnati in the State of New Hampshire owns and operates through a board of governors the [[American Independence Museum]] in [[Exeter, New Hampshire]].  The American Independence Museum is a private, not-for-profit institution whose mission is to provide a place for the study, research, education and interpretation of the American Revolution and of the role that New Hampshire, Exeter, and the Gilman family played in the founding of the new republic. Museum collections include two rare drafts of the U.S. Constitution, an original [[Dunlap Broadside]] of the United States Declaration of Independence, as well as an original [[Badge of Military Merit]], awarded by George Washington to soldiers demonstrating extraordinary bravery.  Exhibits highlight the Society of the Cincinnati, the nation’s oldest veterans’ society, and its first president, George Washington.  Permanent collections include American furnishings, ceramics, silver, textiles and military ephemera.  See below for a link to the museum.
+
+==Affiliations==
+*[[American Philosophical Society]]: many Cincinnati were among its first board members and contributors; the modern societies maintain informal, collegial relationships only
+
+==Notable original members==
+{{Div col|colwidth=22em}}
+*General [[George Washington]] &ndash; President of the United States and President General of the Society.
+*King [[Louis XVI]] of France
+*Lieutenant General the [[Comte de Rochambeau]]
+*Lieutenant General Claude-Anne, Marquis de Saint-Simon 
+*Chaplain and United States Senator [[Abraham Baldwin]]
+*Chaplain and Minister to France [[Joel Barlow]]
+*Captain [[Joshua Barney]], United States Navy (USN)
+*Commodore [[John Barry (naval officer)|John Barry]], USN
+*Colonel [[William Barton (soldier)|William Barton]]
+*Captain and U.S. Representative [[Thomas Boude]]
+*Colonel and Delegate to the U.S. Constitutional Convention [[David Brearly]]
+*Surgeon's Mate [[Isaac Bronson]]
+*Lieutenant and U.S. Representative [[David Brooks (politician)|David Brooks]]
+*Major General and Governor [[John Brooks (governor)|John Brooks]]
+*Brigadier General [[Henry Burbeck]]
+*Lieutenant Colonel, Senator and Vice President [[Aaron Burr]]
+*Captain [[David Bushnell]] &ndash; builder of the submarine [[Turtle (submersible)|''Turtle'']]
+*Major General [[Richard Butler (general)|Richard Butler]]
+*Lieutenant Colonel and Congressman [[Edward Carrington]] 
+*Brigadier General, Governor and Vice President [[George Clinton (vice president)|George Clinton]]
+*Brevet Major General [[James Clinton]]
+*Captain [[Richard Dale]], USN
+*Captain [[Luke Day]]
+*Major General and Secretary of War [[Henry Dearborn]]
+*Congressman [[Ebenezer Denny]]
+*Lieutenant Colonel [[John Doughty]]
+*Surgeon and Secretary of War [[William Eustis]]
+*Colonel [[Christian Febiger]]
+*Major [[Nicholas Fish]]
+*Brigadier General [[Peter Gansevoort]]
+*Major General [[Horatio Gates]]
+*Captain [[Nicholas Gilman]]
+*Colonel [[William Grayson]]
+*Major General [[Nathanael Greene]]
+*Major General [[Alexander Hamilton]] (President General)
+*Brevet Brigadier General [[Josiah Harmar]]
+*Major General [[Robert Howe (Continental Army officer)|Robert Howe]]
+*Brigadier General [[Isaac Huger]]
+*Major [[David Humphreys (soldier)|David Humphreys]]
+*Colonel [[Thomas Hunt (soldier)|Thomas Hunt]]
+*Major General [[Henry Jackson (general)|Henry Jackson]]
+*Brevet Brigadier General [[Michael Jackson (American Revolution)|Michael Jackson]]
+*Major [[William Jackson (secretary)|William Jackson]]
+*Captain [[John Paul Jones]], USN
+*Captain [[William Jones (governor)|William Jones]], USMC
+*Brigadier General [[Tadeusz Kościuszko]]
+*Major General [[Henry Knox]] (Secretary General)
+*Major General the [[Marquis de La Fayette]]
+*Major General [[Henry Lee III]] ("Light Horse Harry")
+*Major [[Pierre L'Enfant]]
+*Major General and Governor [[Morgan Lewis (governor)|Morgan Lewis]] (President General)
+*Major General [[Benjamin Lincoln]]
+*Captain [[James Lingan]]
+*Brevet Brigadier General and Governor [[George Mathews (Georgia)|George Mathews]]
+*Major and US Marshal [[Allen McLane]]
+*Surgeon [[Charles McKnight]]
+*Brigadier General [[Lachlan McIntosh]]
+*Lieutenant Colonel [[James Monroe]], President of the United States
+*Major, Secretary of State of Georgia [[John Milton (Georgia politician)]], Secretary of the Society in Georgia
+*Brigadier General [[Daniel Morgan]]
+*Captain [[Alexander Murray (1755–1821)|Alexander Murray]], USN
+*Major [[Samuel Nicholas]], USMC
+*Captain [[John Nicholson (naval officer)|John Nicholson]], USN
+*Captain [[Samuel Nicholson]], USN
+*Brigadier General and Senator [[William North]]
+*Major, Governor and Senator [[Aaron Ogden]] (President General)
+*Brigadier General [[Andrew Pickens (governor)|Andrew Pickens]]
+*Major General [[Charles C. Pinckney]] (President General)
+*Major General [[Thomas Pinckney]] (President General)
+*Brevet Major William Popham (Last original member to become President General)
+*Major General, Senator and Governor [[Thomas Posey]]
+*Brigadier General [[Rufus Putnam]]
+*Lieutenant Colonel [[Nathaniel Ramsey]]
+*Major General and Senator [[Philip Schuyler]]
+*Major General and Congressman [[William Shepard]]
+*Colonel [[Henry Sherburne (colonel)|Henry Sherburne]]
+*Surgeon [[Alexander Skinner (surgeon)|Alexander Skinner]]
+*Major General [[William Smallwood]]
+*Lieutenant Colonel [[William Stephens Smith]]
+*Major General [[Arthur St. Clair]]
+*Lieutenant Colonel [[William Stacy]]
+*Major General [[John Sullivan (general)|John Sullivan]]
+*Captain [[Silas Talbot]], USN
+*Brevet Lieutenant Colonel and Congressman [[Benjamin Tallmadge]]
+*Lieutenant Colonel [[Richard Taylor (colonel)|Richard Taylor]] &ndash; Father of President Zachary Taylor
+*Lieutenant Colonel [[Tench Tilghman]]
+*Lieutenant Colonel [[Jonathan Trumbull, Jr.]] &ndash; Aide to General Washington and Governor of Connecticut
+*Brigadier General and Congressman [[Philip Van Cortlandt]]
+*Brigadier General [[James Mitchell Varnum]]
+*Colonel [[Axel von Fersen the Younger]]
+*Lieutenant Colonel [[Curt von Stedingk]] (French Army)
+*Major General [[Baron Von Steuben]]
+*Colonel [[Richard Varick]] &ndash; Mayor of [[New York City]]
+*Major General [[Anthony Wayne]]
+*Captain [[Abraham Whipple]], USN
+*Brigadier General [[Otho Holland Williams]]
+*Major [[David Ziegler]]
+{{div col end}}
+
+==Notable hereditary members==
+===Military and naval officers===
+{{Div col|colwidth=22em}}
+*General [[John K. Waters]] - Career Army officer.
+*Admiral [[Hilary P. Jones]] - Commander of the United States Battle Fleet.
+*Admiral [[John S. McCain, Sr.]] - Admiral during World War II and grandfather of former U.S. Senator [[John McCain]].
+*Admiral [[John S. McCain, Jr.]] - Commander of [[United States Pacific Command]] during the [[Vietnam War]], and father of U.S. Senator [[John McCain]]. The two McCains are the only father-and-son four-star admirals in U.S. Navy history.
+*Admiral [[Cameron McRae Winslow]] - Admiral during World War I.
+*Lieutenant General [[Ridgely Gaither]] - Career Army officer.
+*Lieutenant General, Governor and Senator [[Wade Hampton III]]
+*Major General [[Silas Casey]] - Civil War general.
+*Major General [[Thomas L. Crittenden]] - Civil War general.
+*Major General [[Henry Alexander Scammell Dearborn|Henry A. S. Dearborn]] - President General of the Society and congressman.
+*Major General [[William B. Franklin]] - Veteran of the Mexican War and the Civil War.
+*Major General Edgar Erskine Hume - President General of the Society.
+*Major General [[Edwin Vose Sumner, Jr.]] - Civil War and Spanish–American War veteran.
+*Rear Admiral [[Charles Henry Davis]] - Mexican and Civil War veteran.
+*Rear Admiral [[Henry Thatcher]] - Grandson of Major General [[Henry Knox]] and Civil War veteran.
+*Rear Admiral [[Nathan Crook Twining]]
+*Brevet Major General [[Nicholas Longworth Anderson]]
+*Brevet Major General [[Henry Jackson Hunt]] - Union general in the Civil War.
+*Brigadier General [[William Bancroft]] - Mayor of Cambridge, Massachusetts and general during the Spanish–American War.
+*Brigadier General [[Thomas Lincoln Casey]] - Army engineer who oversaw completion of the [[Washington Monument]].
+*Brigadier General [[Thomas L. Crittenden]] - Civil War general.
+*Brigadier General and President [[Franklin Pierce]] (Only president of the United States to be a hereditary member.)
+*Brigadier General [[Cornelius Vanderbilt III]] - World War I veteran.
+*Brevet Brigadier General [[Hazard Stevens]] - [[Medal of Honor]] recipient.
+*Captain [[Alfred Brooks Fry]], USNR - Marine engineer.
+*Lieutenant Colonel [[Frederick Lippitt]] - Philanthropist.
+*Lieutenant Colonel [[Benjamin Kendrick Pierce]] - Elder brother of President Franklin Pierce and veteran of the War of 1812, Seminole War and the Mexican War.
+*Major [[Archibald Butt]] - Presidential military aide who died on the ''[[Titanic]]''.
+*Major [[Asa Bird Gardiner]] - Secretary General of the Society.
+*Major [[Cornelius Vanderbilt IV]] - Newspaper editor.
+{{div col end}}
+
+===Government officials===
+{{Div col|colwidth=22em}}
+*President [[Franklin Pierce]]
+*Rt. Hon. Sir [[Winston Churchill]] KG, CH, FRS - Hereditary member of the Connecticut society; his great-grandson, Duncan Sandys, is currently an hereditary member of the Massachusetts Society.
+*Secretary of State, Senator and Governor [[Hamilton Fish]] - Long-time President General of the Society.
+*Secretary of War [[Newton D. Baker]] 
+*Supreme Court Justice [[Oliver Wendell Holmes, Jr.]]
+*Supreme Court Justice [[Stanley Forman Reed]]
+*Governor and United States Senator [[William Bulkeley]] - Governor of Connecticut and president of [[Aetna]] Insurance Company.
+*Governor [[DeWitt Clinton]] - Governor of New York, U.S. Senator and Mayor of New York City.
+*Governor [[Wilbur L. Cross]]
+*Governor [[Elisha Dyer, Jr.]] - Governor of Rhode Island.
+*Governor [[Wade Hampton III]] - Governor of South Carolina. 
+*Governor [[William W. Hoppin]] - Governor of Rhode Island.
+*Governor [[Charles Warren Lippitt]] - Governor of Rhode Island.
+*Governor [[Robert Milligan McLane]] - Governor of Maryland and ambassador to France.
+*Governor [[LeBaron Bradford Prince]] - Governor of New Mexico Territory.
+*Governor [[Thomas Stockton]] - Governor of Delaware.
+*Governor and Senator [[George Peabody Wetmore]]
+*Ambassador [[Larz Anderson]] - Socialite and diplomat.
+*Ambassador [[Robert W. Bingham]]
+*Minister [[Nicholas Fish II]] - Minister to Belgium.
+*Senator [[Warren R. Austin]]
+*Senator [[Chauncey Depew]] - Founder of the [[Pilgrims Society]].
+*Senator [[Charles Mathias]] - United States Senator from Maryland.
+*Senator [[Claiborne Pell]] - Long serving senator from Rhode Island.
+*Senator [[Hugh Scott|Hugh Doggett Scott, Jr.]] - Congressman and United States senator from Pennsylvania.
+*Senator [[Charles Sumner]] - Abolitionist senator from Massachusetts.
+*Congressman [[Horace Binney]]
+*Congressman [[Hamilton Fish II]]
+*Chief Justice of the South Carolina Supreme Court [[Milledge Lipscomb Bonham]]
+{{div col end}}
+
+===Others===
+{{Div col|colwidth=22em}}
+*[[Henry L. P. Beckwith]] - Heraldist, historian and genealogist (currently living and self-listed).
+*[[John Nicholas Brown I]] - Book collector and philanthropist.
+*The Honorable [[John Nicholas Brown II|John Nicholas Brown]] - Philanthropist.
+*[[Benjamin Apthorp Gould]] - Astronomer.
+*Reverend [[Alexander Hamilton (priest)|Alexander Hamilton]] - great-grandson of [[Alexander Hamilton]]
+*Commodore [[Arthur Curtiss James]] - Investor and yachtsman.
+*[[Lewis Cass Ledyard]] - Lawyer and socialite.
+*Lieutenant Colonel [[Frederick Lippitt]] - Philanthropist.
+*[[Alfred Lee Loomis]] - Scientist and inventor.
+*Louis Lasher Lorillard - Tobacco heir.
+*[[Louis Alphonse, Duke of Anjou]] - Claimant to the French throne.  (Representing King [[Louis XVI]].)
+*[[Sylvanus Albert Reed]] - Aeronautical engineer.
+*The Right Reverend [[James DeWolf Perry]] - Presiding bishop of the [[Episcopal Church (United States)|Episcopal Church]].
+*The Right Reverend [[William Stevens Perry]] - Episcopal bishop of Iowa.
+{{div col end}}
+
+==Notable honorary members==
+Since its inception, the Society of the Cincinnati has allowed for honorary members to be admitted who have distinguished themselves in military or public service.
+
+===Presidents of the United States===
+{{Div col|colwidth=22em}}
+*[[Andrew Jackson]]
+*[[Zachary Taylor]]
+*[[James Buchanan]]
+*[[Ulysses S. Grant]]
+*[[Grover Cleveland]]
+*[[Benjamin Harrison]]
+*[[William McKinley]]
+*[[Theodore Roosevelt]]
+*[[Woodrow Wilson]]
+*[[Warren Harding]]
+*[[Herbert Hoover]]
+*[[Franklin D. Roosevelt]]
+*[[Harry S Truman]]
+*[[Ronald Reagan]]
+*[[George H. W. Bush]]
+{{div col end}}
+Note - Every president who served in the eras of 1885 to 1923 (38 years) and from 1929 to 1953 (24 years) was an honorary member of the Society.  Presidents George Washington and James Monroe were original members of the Society and President Franklin Pierce was an hereditary member. Zachary Taylor was admitted as an honorary member of the New York Society in 1847, and could have been a hereditary member of the Virginia Society by right of his father, Lieutenant Colonel [[Richard Taylor (colonel)|Richard Taylor]] (d. 1826), had it been active at the time of his father's death.
+
+===Nobel Peace Prize recipients===
+*[[Theodore Roosevelt]] (1906)
+*[[Elihu Root]] (1912)
+*[[Woodrow Wilson]] (1919)
+*[[Cordell Hull]] (1945)
+*[[George Marshall]] (1953)
+
+===Nobel Prize for Literature recipient===
+*[[Winston Churchill]] (1953) (hereditary member)
+
+===Navy officers===
+{{Div col|colwidth=22em}}
+*[[Admiral of the Navy]] [[George Dewey]]
+*[[Fleet admiral (United States)|Fleet Admiral]] [[William D. Leahy]]
+*Fleet Admiral [[Ernest J. King]]
+*Fleet Admiral [[Chester W. Nimitz]]
+*Fleet Admiral [[William Halsey]]
+*Admiral [[David G. Farragut]]
+*Admiral [[David Dixon Porter]]
+*Admiral [[William S. Sims]]
+*Admiral [[Arleigh Burke]]
+*Admiral [[James L. Holloway III]]
+*Rear Admiral [[Caspar F. Goodrich]]
+*Rear Admiral [[Samuel E. Morison]]
+*Rear Admiral [[Alan Shepard]]
+*Rear Admiral [[Charles Stewart (1778–1869)|Charles Stewart]]
+*Commodore [[William Bainbridge]]
+*Commodore [[Stephen Decatur]]
+*Commodore [[Isaac Hull]]
+*Commodore [[Thomas Macdonough]]
+*Commodore [[Matthew C. Perry]]
+*Commodore [[Oliver Hazard Perry]]
+*Captain [[Jesse Elliott]]
+*Captain [[Thomas Truxton]]
+*Captain [[Lewis Warrington]]
+{{div col end}}
+
+===Marine Corps officers===
+{{Div col|colwidth=22em}}
+*General [[Lemuel C. Shepherd, Jr.]]
+*Major General [[John A. Lejeune]]
+{{div col end}}
+
+===Army officers===
+{{Div col|colwidth=22em}}
+*General of the Armies [[John J. Pershing]]
+*General of the Army [[George C. Marshall]]
+*General of the Army [[Douglas MacArthur]]
+*General of the Army [[Omar Bradley]]
+*General [[William T. Sherman]]
+*General [[Philip H. Sheridan]]
+*General [[Peyton C. March]]
+*General [[Mark Wayne Clark|Mark Clark]]
+*General [[Lucius D. Clay]]
+*General [[Matthew B. Ridgway]]
+*General [[Norman Schwarzkopf]]
+*General [[William Westmoreland]]
+*Lieutenant General [[John M. Schofield]]
+*Lieutenant General [[Nelson A. Miles]]
+*Lieutenant General [[Willard W. Scott, Jr.]]
+*Brevet Lieutenant General [[Winfield Scott]]
+*Major General [[Jacob Brown]]
+*Major General [[George G. Meade]]
+*Major General [[Lewis Morris]]
+*Major General [[John E. Wool]]
+*Major General [[Winfield Scott Hancock]]
+*Major General [[Oliver O. Howard]]
+*Major General [[Hugh L. Scott]]
+*Major General [[Leonard Wood]]
+*Brevet Major General [[Robert Anderson (Civil War)|Robert Anderson]]
+*Brevet Major General [[George Cadwalader]]
+*Brevet Major General [[Galusha Pennypacker]]
+*Brevet Major General [[Nathan Towson]]
+*Brevet Major General [[Alexander S. Webb]]
+*Brevet Major General [[William Jenkins Worth]]
+*Brigadier General and Sears Roebuck Chairman [[Robert E. Wood]]
+*Brevet Brigadier General, Ambassador to France and Medal of Honor Recipient [[Horace Porter]]
+*Colonel [[Samuel Miles]]
+{{div col end}}
+
+===Government officials===
+{{Div col|colwidth=22em}}
+*Secretary of War [[Newton D. Baker]]
+*Secretary of State [[James F. Byrnes]]
+*Postmaster General [[Benjamin Franklin]]
+*Secretary of the Army [[Gordon Gray (politician)|Gordon Gray]]
+*Secretary of State [[Cordell Hull]]
+*Secretary of State and Senator [[Elihu Root]]
+*Secretary of State and Senator [[Daniel Webster]]
+*Attorney General [[Elliot L. Richardson]]
+*Governor [[Colgate Darden]]
+*Governor [[John Franklin Fort]]
+*Governor [[Charles Dean Kimball]]
+*Governor [[Jonathan Trumbull]]
+*Senator [[Frederick Theodore Frelinghuysen]]
+*Senator [[Henry A. du Pont]]
+*Governor and Senator [[Theodore F. Green]]
+*Senator [[Rufus King]]
+*Senator [[Henry Cabot Lodge, Jr.]]
+*Senator [[Gouverneur Morris]]
+*Senator [[Leverett Saltonstall]]
+*Senator [[William Paine Sheffield, Sr.]]
+*Congressman [[Perry Belmont]]
+*Congressman [[Charles S. Dewey]]
+*Congressman [[William Paine Sheffield, Jr.]]
+*Delegate [[William Floyd]]
+*Ambassador [[Amory Houghton]]
+*Ambassador [[Francis L. Kellogg]]
+*Lieutenant Governor [[Stephen Van Rensselaer]]
+*Lieutenant Governor [[Pierre Van Cortlandt]]
+*Chancellor [[Robert R. Livingston (chancellor)|Robert R. Livingston]]
+*Justice [[James T. Mitchell]]
+*Judge [[Hardy Cross Dillard]]
+*Judge [[Charles G. Garrison]]
+*Mayor [[Louis R. Cheney]]
+*FBI Director [[J. Edgar Hoover]]
+*Commissary General [[John Barker Church]].
+{{div col end}}
+
+===Civilians===
+{{Div col|colwidth=22em}}
+*Columbia University President [[Nicholas M. Butler]]
+*Industrialist [[Pierre S. du Pont]]
+*Yale President [[Timothy Dwight IV]]
+*Yale President [[Timothy Dwight V]]
+*Professor [[John B. Hattendorf]]
+*Architect [[George Champlin Mason, Sr.]]
+*Philanthropist [[John D. Rockefeller, Jr.]]
+*Banker and Socialite [[William Watts Sherman]]
+*Yale President [[Ezra Stiles]]
+*Sculptor [[William Greene Turner]]
+{{div col end}}
+
+===Foreigners===
+{{Div col|colwidth=22em}}
+*King of the Belgians [[Albert I of Belgium|Albert I]]
+*Comte Ferdinand de Chalendar
+*Marshal of France [[Ferdinand Foch]]
+*King [[Gustaf VI Adolf of Sweden]]
+*President of France [[Emile Loubet]]
+*Marshal of France [[Robert Nivelle]]
+*Marshal of France [[Henri-Philippe Petain]]
+{{div col end}}
+
+==See also==
+{{portal|American Revolutionary War|Genealogy|Society}}
+* [[Military Order of Foreign Wars]]
+* [[Military Order of the Loyal Legion of the United States]]
+* [[Order of the Founders and Patriots of America]]
+* [[Sons of Union Veterans of the Civil War]]
+* [[Sons of the American Revolution]]
+* [[Sons of the Revolution]]
+
+==Notes==
+
+{{Reflist|30em}}
+
+==Bibliography==
+* Buck, William Bowen. "The Society of the Cincinnati in the State of New Jersey." The John L. Murphy Publishing Company, Printers for the Society of the Cincinnati in the State of New Jersey, 1898.
+* {{cite book |last=Callahan  |first=North |title=Henry Knox: General Washington's General |authorlink= |publisher=Rinehart |year=1958 |url=https://books.google.com/books?id=kZYBAAAAMAAJ&source=gbs_navlinks_s |ref=callahan}}
+* {{cite book |last=Chernow |first=Ron |authorlink=Ron Chernow |title=Washington: A Life |publisher=Penguin Press |year=2010 |isbn=978-1-59420-266-7 |url=https://books.google.com/books?id=r3-rsrDiE5cC&vq=putnam |ref=chernow}}* Davis, Curtis Carroll. "Revolution's Godchild: The Birth, Death, and Regeneration of the Society of the Cincinnati in North Carolina." The University of North Carolina Press for the North Carolina Society of the Cincinnati, 1976.
+* {{cite book|last1=Doyle|first1=William|title=Aristocracy and its enemies in the age of revolution|chapter=Chapter 4: "Aristocracy Avoided: America and the Cincinnati" (pages 86–137)|date=2009|publisher=Oxford University Press|isbn=978-0199559855}}
+* Hill, Steven.  "The Delaware Cincinnati:  1783-1988."  Dorrance & Company, Inc. for the Delaware Cincinnati Charitable Trust, 1988.
+* Hoey, Edwin. "A New and Strange Order of Men," ''American Heritage''. (v. 19, issue 5) August 1968.
+* Hünemörder, Markus. ''The Society of the Cincinnati: Conspiracy and Distrust in Early America.'' Berghahn Books, 2006.
+* Lossing, Benson John ''Pictoral Fieldbook of the Revolution.'' Volume I. 1850.
+* Metcalf, Bryce. "Original Members and Other Officers Eligible to the Society of the Cincinnati." Shenandoah Publishing House, Inc., 1938.
+* Myers, Minor. "Liberty Without Anarchy: A History of the Society of the Cincinnati." University of Virginia Press, 1983.
+* Olson, Lester C. ''Benjamin Franklin's Vision of American Community: A Study in Rhetorical Iconology.''  University of South Carolina Press, 2004.
+* {{cite book |last=Puls |first=Mark  |title= Henry Knox: Visionary General of the American Revolution|authorlink= |publisher=St. Martin's Press |year=2008 |isbn=978-0-2306-1142-9 |url=https://books.google.com/books?id=Xf5Kmmp-yycC&vq=cincinnatus |ref=puls}}
+* Warren, Winslow. ''The Society of the Cincinnati: A History of the General Society of the Cincinnati with the Institution of the Order'', Massachusetts Society of the Cincinnati, 1929.
+
+==External links==<!-- Please do not put individual state society webpages or others not directly related to the National Society in this section. It would quickly become too unwieldy. Thank you. -->
+{{Commons category|Society of the Cincinnati}}
+{{Americana Poster|Cincinnati, Society of the|Society of the Cincinnati}}
+<!--Please:
+1)Follow the [[WP:EL]] guideline where possible and consider discussing on the talk page;
+2)Do not turn these bullets into headers! They expand the TOC too much-->
+; Official
+*{{Official website|http://www.societyofthecincinnati.org/}}
+; General information
+*[http://www.independencemuseum.org American Independence Museum]
+*[https://web.archive.org/web/20030408010357/http://www.foundationcenter.org/grantmaker/cincinnati/ Daughters of the Cincinnati]
+*[http://www.mountgulian.org/ Mount Gulian Historic Site]
+*[http://politicalgraveyard.com/group/soc-cincinnati.html Society of the Cincinnati Politician members] at [[The Political Graveyard]]
+
+<br/><!--this break is to put visual space between the last information and the following template if needed-->
+
+{{Navboxes
+|title=Articles related to the Society of the Cincinnati
+|list1=
+{{George Washington}}
+{{Alexander Hamilton}}
+}}
+{{Authority control}}
+
+[[Category:1783 establishments in New York (state)]]
+[[Category:501(c)(3) nonprofit organizations]]
+[[Category:American Revolution veterans and lineage organizations]]
+[[Category:Continental Army officers|*]]
+[[Category:Continental Navy officers|*]]
+[[Category:French military personnel of the American Revolutionary War|*]]
+[[Category:Libraries in Washington, D.C.]]
+[[Category:Non-profit organizations based in Washington, D.C.]]
+[[Category:Organizations established in 1783]]

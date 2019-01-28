@@ -1,0 +1,347 @@
+{{Use mdy dates|date=October 2015}}
+{{Infobox Political post
+|post            = Ambassador
+|body            = the United States to France<br>''Ambassadeur des États-Unis en France''
+|nativename      =
+|insignia        = US Department of State official seal.svg
+|insigniasize    = 120
+|insigniacaption = Seal of the United States Department of State
+|department      =
+|image           = Jamie D. McCourt.jpg
+|alt             = 
+|incumbent       = [[Jamie McCourt]]
+|incumbentsince  = December 18, 2017
+|style           = 
+|residence       = [[Hôtel de Pontalba]]
+|nominator       = The [[President of the United States]]
+|appointer           = The [[President of the United States|President]]
+|appointer_qualified = with [[United States Senate|Senate]] [[advice and consent]]
+|termlength      = 
+|inaugural       = [[Benjamin Franklin]]<br/><small>as Envoy</small>
+|formation       = 1778
+|last            =
+|abolished       =
+|succession      = 
+|deputy          = 
+|salary          = 
+|website         = [https://fr.usembassy.gov/ U.S. Embassy – Paris]
+}}
+
+The '''United States Ambassador to France''' is the official representative of the President of the United States to the President of France. The United States has maintained diplomatic relations with France since the [[American Revolution]]. Relations were upgraded to the higher [[Diplomatic rank|rank]] of Ambassador in 1893. The diplomatic relationship has continued through France's five republics, two empires, and three monarchies. Since 2006 the ambassador to France has also served as the [[List of ambassadors of the United States to Monaco|ambassador to Monaco]]
+
+== List of United States Chiefs of Mission in France ==
+
+=== Ministers to the Court of Versailles (1778–1792) ===
+
+Relations between the United States and the French Court of Versailles were established in 1778 with the signing of the [[Treaty of Amity and Commerce (United States–France)|Treaty of Amity and Commerce]].  As a republic, the United States was not entitled to send an ambassador. Instead, relations were maintained at the lower [[diplomatic rank]] of ''Minister''. The position was formally known as the ''Minister Plenipotentiary from the United States of America at the Court of Versailles''.
+
+{| class="wikitable sortable" style="font-size:90%; text-align:center; width:100%;"
+|-
+! colspan=2 | Name
+! style="width:20%;" | Appointment
+! style="width:20%;" | Presentation
+! style="width:20%;" | Termination
+! class="unsortable" style="width:20%;" | Notes
+|-
+|-
+| [[File:BenFranklinDuplessis.jpg|50px|Benjamin Franklin]]
+| {{sortname|Benjamin|Franklin}}
+| {{dts|September 14, 1778}}
+| {{dts|March 23, 1779}}
+| {{dts|May 17, 1785}}
+|
+|-
+| [[File:Thomas Jefferson by Rembrandt Peale 1805 cropped.jpg|50px]]
+| {{sortname|Thomas|Jefferson}}
+| {{dts|March 10, 1785}}
+| {{dts|May 17, 1785}}
+| {{dts|September 26, 1789}}
+|
+|-
+| [[File:Portrait of William Short.jpg|50px]]
+| {{sortname|William|Short|William Short (American ambassador)}}
+| {{dts|April 20, 1790}}
+| {{dts|June 14, 1790}}
+| {{dts|May 15, 1792}}
+|
+|-
+| [[File:Gouverneur Morris 1789.jpg|50px]]
+| {{sortname|Gouverneur|Morris}}
+| {{dts|January 12, 1792}}
+| {{dts|June 3, 1792}}
+| {{dts|April 9, 1794}}
+| {{small|Remained as Minister after the First Republic was proclaimed.  Mission terminated when the French government requested his recall.}}
+|-
+|}
+
+=== Ministers to the First Republic (1792–1804) ===
+
+{| class="wikitable sortable" style="font-size:90%; text-align:center; width:100%;"
+|-
+! colspan=2 | Name
+! style="width:20%;" | Appointment
+! style="width:20%;" | Presentation
+! style="width:20%;" | Termination
+! class="unsortable" style="width:20%;" | Notes
+|-
+|-
+| [[File:James Monroe by John Vanderlyn, 1816 - DSC03228.JPG|50px|James Monroe]]
+| {{sortname|James|Monroe}}
+| {{dts|May 28, 1794}}
+| {{dts|August 15, 1794}}
+| {{dts|December 9, 1796}}
+|-
+| [[File:CharlesCPinckney crop.jpg|50px]]
+| {{sortname|Charles Cotesworth|Pinckney}}
+| {{dts|September 9, 1796}}
+| Not presented
+| {{dts|February 5, 1797}}
+|
+|-
+|}
+
+Diplomatic relations were broken in 1796 due to French anger at U.S. neutrality in the [[War of the First Coalition]].  After the [[French Directory|Directory]] refused to accept [[Charles Cotesworth Pinckney]]'s credentials, a commission was appointed to negotiate with the French Republic.  The members of the commission — Pinckney, [[John Marshall]], and [[Elbridge Gerry]] — were all accredited with the rank of ''Envoy Extraordinary and Minister Plenipotentiary''.<ref>{{cite book|last1=Pinckney|first1=Charles Cotesworth|last2=Gerry|first2=Elbridge|last3=Marshall|first3=John|title=Authentic Copies of the Correspondence of Charles Cotesworth Pinckney, John Marshall, and Elbridge Gerry, Esqrs. Envoys Extraordinary and Ministers Plenipotentiary to the Republic of France: As Presented to Both Houses of Congress, April 3, 1798, by His Excellency John Adams|date=1798|publisher=J. Derrett|page=62|language=en|quote=The undersigned Envoys Extraordinary and Ministers Plenipotentiary of the United States of America to the French Republic, had the honour of announcing to you officially, on the 6th of October, their arrival at Paris, and of presenting to you on the 8th, a copy of their letters of credence.}}</ref>  French officials demanded a bribe before they would commence negotiations, scuttling the mission in the [[XYZ Affair]].  Hostilities culminated in the outbreak of the [[Quasi-War]] between the U.S. and France.  Diplomatic relations were restored with the [[Convention of 1800]].
+
+{| class="wikitable sortable" style="font-size:90%; text-align:center; width:100%;"
+|-
+! colspan=2 | Name
+! style="width:20%;" | Appointment
+! style="width:20%;" | Presentation
+! style="width:20%;" | Termination
+! class="unsortable" style="width:20%;" | Notes
+|-
+|-
+| [[File:Robert R Livingston, attributed to Gilbert Stuart (1755-1828).jpg|50px]]
+| {{sortname|Robert R.|Livingston|Robert R. Livingston (chancellor)}}
+| {{dts|October 2, 1801}}
+| {{dts|December 6, 1801}}
+| {{dts|November 18, 1804}}
+| {{small|Remained as Minister after Napoleon Bonaparte was proclaimed emperor.}}
+|-
+|}
+
+[[James Monroe]] was accredited Minister Plenipotentiary to the French Republic in 1803 to negotiate the [[Louisiana Purchase]].<ref>{{cite web |title=Image 906 of James Monroe Papers: Series 1, General Correspondence, 1758-1839; 1796 Mar. 22-1803 Oct. 8 (Reel 2) |url=https://www.loc.gov/resource/mss33217.002/?sp=906 |website=The Library of Congress |language=en}}</ref> However, Robert Livingston remained chief of mission.
+
+=== Ministers to the First Empire (1804–1814) ===
+
+{| class="wikitable sortable" style="font-size:90%; text-align:center; width:100%;"
+|-
+! colspan=2 | Name
+! style="width:20%;" | Appointment
+! style="width:20%;" | Presentation
+! style="width:20%;" | Termination
+! class="unsortable" style="width:20%;" | Notes
+|-
+|-
+| [[File:John Armstrong Jr Rembrandt Peale.jpg|50px]]
+| {{sortname|John|Armstrong|John Armstrong, Jr.}}
+| {{dts|June 30, 1804}}
+| {{dts|November 18, 1804}}
+| {{dts|September 14, 1810}}
+|
+|-
+| [[File:Joel Barlow - Project Gutenberg eText 13220.png|50px]]
+| {{sortname|Joel|Barlow}}
+| {{dts|February 27, 1811}}
+| {{dts|November 17, 1811}}
+| {{dts|December 26, 1812}}
+| {{small|Died in [[Żarnowiec, Silesian Voivodeship|Żarnowiec]] during the [[French invasion of Russia|French retreat from Moscow]].}}
+|-
+| [[File:WilliamHCrawford.jpg|50px]]
+| {{sortname|William H.|Crawford}}
+| {{dts|April 9, 1813}}
+| {{dts|December 14, 1813}}<br/>{{dts|August 16, 1814}}
+| {{dts|April 26, 1815}} to {{dts|April 30, 1815}}
+| {{small|Reaccredited to the Court of Versailles.}}
+|-
+|}
+
+=== Ministers to the Court of Versailles (1814–1830) ===
+
+The [[Congress of Vienna]] standardized the system of [[diplomatic rank]]s. The United States continued to send a ''Minister'', who was officially credentialed as an ''Envoy Extraordinary and Minister Plenipotentiary''.
+
+{| class="wikitable sortable" style="font-size:90%; text-align:center; width:100%;"
+|-
+! colspan=2 | Name
+! style="width:20%;" | Appointment
+! style="width:20%;" | Presentation
+! style="width:20%;" | Termination
+! class="unsortable" style="width:20%;" | Notes
+|-
+| [[File:AlbertGallatin.jpeg|50px]]
+| {{sortname|Albert|Gallatin}}
+| {{dts|February 28, 1815}}
+| {{dts|July 16, 1816}}
+| {{dts|May 16, 1823}}
+|
+|-
+| [[File:Senator James Brown of Louisiana (1766-1835).jpg|50px]]
+| {{sortname|James|Brown|James Brown (Louisiana politician)}}
+| {{dts|December 9, 1823}}
+| {{dts|April 13, 1824}}
+| {{dts|June 28, 1829}}
+|
+|-
+| [[File:WilliamCRives.png|50px]]
+| {{sortname|William Cabell|Rives}}
+| {{dts|April 18, 1829}}
+| {{dts|October 25, 1829}}<br/>{{dts|January 14, 1831}}
+| {{dts|September 27, 1832}}
+| {{small|Reaccredited to the Kingdom of France.}}
+|-
+|}
+
+=== Ministers to the Kingdom of France (1830–1848)===
+
+{| class="wikitable sortable" style="font-size:90%; text-align:center; width:100%;"
+|-
+! colspan=2 | Name
+! style="width:20%;" | Appointment
+! style="width:20%;" | Presentation
+! style="width:20%;" | Termination
+! class="unsortable" style="width:20%;" | Notes
+|-
+| [[File:Edward Livingston, U.S. Secretary of State.jpg|50px]]
+| {{sortname|Edward|Livingston}}
+| {{dts|May 29, 1833}}
+| {{dts|September 30, 1833}}
+| {{dts|April 29, 1835}}
+|
+|-
+| [[File:LewisCass.png|50px]]
+| {{sortname|Lewis|Cass}}
+| {{dts|October 4, 1836}}
+| {{dts|December 1, 1836}}
+| {{dts|November 12, 1842}}
+|
+|-
+| [[File:William Rufus DeVane King 1839 portrait.jpg|50px]]
+| {{sortname|William R.|King}}
+| {{dts|April 9, 1844}}
+| {{dts|July 1, 1844}}
+| {{dts|September 15, 1846}}
+|
+|-
+| [[File:Richard Rush engraving.png|50px]]
+| {{sortname|Richard|Rush}}
+| {{dts|March 3, 1847}}
+| {{dts|July 31, 1847}}<br/>{{dts|April 26, 1848}}
+| {{dts|October 8, 1849}}
+| {{small|Reaccredited to the Second Republic.}}
+|-
+|}
+
+=== Ministers to the Second Republic (1848–1852) ===
+
+{| class="wikitable sortable" style="font-size:90%; text-align:center; width:100%;"
+|-
+! colspan=2 | Name
+! style="width:20%;" | Appointment
+! style="width:20%;" | Presentation
+! style="width:20%;" | Termination
+! class="unsortable" style="width:20%;" | Notes
+|-
+| [[File:WilliamCRives.png|50px]]
+| {{sortname|William Cabell|Rives}}
+| {{dts|July 20, 1849}}
+| {{dts|November 8, 1849}}<br/>{{dts|January 10, 1853}}
+| {{dts|May 12, 1853}}
+| {{small|Reaccredited to the Second Empire.}}
+|-
+|}
+
+=== Ministers to France ===
+
+{{Expand list|date=January 2012}}
+
+* [[John Y. Mason]]: 1853–1859
+* [[Charles J. Faulkner]]: 1860–1861
+* [[William L. Dayton]]: 1861–1864
+* [[John Bigelow]]: 1864–1866
+* [[John Adams Dix]]: 1866–1869
+* [[Elihu B. Washburne]]: 1869–1877
+* [[Edward F. Noyes]]: 1877–1881
+* [[Levi P. Morton]]: 1881–1885
+* [[Robert Milligan McLane]]: 1885–1889
+* [[Whitelaw Reid]]: 1889–1892
+* [[T. Jefferson Coolidge]]: 1893–1893
+
+=== Ambassadors to the Third Republic ===
+
+* [[James Biddle Eustis]]: 1893–1897<ref>{{cite web|url=https://history.state.gov/about/faq/ambassadors-and-chiefs-of-mission|title=Ambassadors and Chiefs of Mission – FAQs – About Us – Office of the Historian|publisher=}}</ref>
+* [[Horace Porter]]: 1897–1905
+* [[Robert Sanderson McCormick]]: 1905–1907
+* [[Henry White (diplomat)|Henry White]]: 1907–1909
+* [[Robert Bacon]]: 1909–1912
+* [[Myron T. Herrick]]: 1912–1914
+* [[William Graves Sharp]]: 1914–1919
+* [[Hugh Campbell Wallace]]: 1919–1921
+* [[Myron T. Herrick]]: 1921–1929
+* [[Walter E. Edge]]: 1929–1933
+* [[Jesse I. Straus|Jesse Isidor Straus]]: 1933–1936
+* [[William C. Bullitt]]: 1936–1940
+* [[William D. Leahy]]: 1941–1942
+**After Leahy left, [[S. Pinkney Tuck]] served as interim [[Chargé d'affaires]] until France severed diplomatic relations with the U.S. on November 8, 1942, the date of [[Operation Torch]]
+
+=== Ambassadors to the Fourth Republic ===
+
+* [[Jefferson Caffery]]: December 30, 1944 – 1949
+**The Embassy in Paris had been opened to the public December 1, 1944, with Ambassador Caffery in charge pending presentation of his letter of credence.
+* [[David K. E. Bruce]]: 1949–1952
+* [[James C. Dunn]]: 1952–1953
+* [[C. Douglas Dillon]]: 1953–1957
+* [[Amory Houghton]]: 1957–1961
+* [[James M. Gavin]]: 1961–1962
+
+=== Ambassadors to the Fifth Republic ===
+[[File:Sargent Shriver 1961.jpg|175px|thumb|R. Sargent Shriver]]
+* [[Charles E. Bohlen]]: 1962–1968
+* [[Sargent Shriver|Robert Sargent Shriver, Jr.]]: 1968–1970
+* [[Arthur K. Watson]]: 1970–1972
+* [[John N. Irwin, II]]: 1973–1974
+* [[Kenneth Rush]]: 1974–1977
+* [[Arthur A. Hartman]]: 1977–1981
+* [[Evan Griffith Galbraith]]: 1981–1985
+* [[Joe M. Rodgers]]: 1985–1989
+* [[Walter Curley]]: 1989–1993
+* [[Pamela Harriman]]: 1993–1997
+* [[Felix Rohatyn]]: 1997–2000
+* [[Howard H. Leach]]: 2001–2005
+* [[Craig Roberts Stapleton]]: 2005–2009
+* [[Charles Rivkin]]: 2009–2013<ref>{{Cite web | url=https://www.nytimes.com/2009/08/17/world/europe/17iht-envoy.html | title=New U.S. Envoy Takes Up Post | first=Brian | last=Knowlton | work=The New York Times | date=August 16, 2009 | accessdate= August 31, 2009}}</ref><ref>{{ cite web | url=http://france.usembassy.gov/ambassador.html | title=Ambassador Charles Rivkin permanently departed post on Tuesday, November 19, 2013 following his nomination by President Obama to serve as Assistant Secretary of the State Department's Bureau of Economic and Business Affairs | accessdate=January 29, 2014 | deadurl=yes | archiveurl=https://web.archive.org/web/20140201060924/http://france.usembassy.gov/ambassador.html | archivedate=February 1, 2014 | df=mdy-all }}</ref>
+**Mark A. Taplin (''[[ad interim]]''): 2013–2014<ref name="charge d'affairs">{{cite web|title=Our Charge D'Affairs Ad Interim |url=http://france.usembassy.gov/dcm.html|publisher=US Embassy to France|accessdate=May 2, 2014}}</ref> 
+* [[Jane D. Hartley]]: 2014–2017
+**Uzra Zeya (''[[Chargé d'affaires]]''): 2017
+**Brent Hardt (''[[Chargé d'affaires]]''): 2017
+* [[Jamie McCourt|Jamie D. McCourt]]: 2017–present
+
+==See also==
+{{portal|Government of the United States|Paris}}
+* [[List of French ambassadors to the United States]]
+* [[Embassy of the United States, Paris]]
+* [[France – United States relations]]
+* [[Foreign relations of France]]
+* [[Ambassadors of the United States]]
+
+==References==
+{{reflist|30em}}
+
+{{StateDept}}
+
+==Further reading==
+* Willson, Beckles. ''America's Ambassadors to France (1777-1927): A Narrative of Franco-American Diplomatic Relations'' (1928).
+==External links==
+* [http://fr.usembassy.gov/ United States Embassy in Paris official site]
+* [https://www.state.gov/p/eur/ci/fr/ United States Department of State: France]
+* [https://history.state.gov/departmenthistory/people/chiefsofmission/france United States Department of State: Chiefs of Mission for France]
+* [https://www.state.gov/r/pa/ei/bgn/3842.htm United States Department of State: Background notes on France]
+* [http://repository.library.georgetown.edu/handle/10822/552595 Interview with 1984 U.S. Ambassador to France] from the [https://repository.library.georgetown.edu/handle/10822/552494/browse?type=title Dean Peter Krogh Foreign Affairs Digital Archives]
+
+{{Ambassadors of the United States}}
+{{Benjamin Franklin}}
+
+{{DEFAULTSORT:United States Ambassador To France}}
+[[Category:Ambassadors of the United States to France| ]]
+[[Category:Lists of ambassadors of the United States|France]]
+[[Category:Lists of ambassadors to France]]
+[[Category:France–United States relations]]

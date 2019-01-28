@@ -1,0 +1,923 @@
+{{Infobox official post
+|post            = Governor
+|body            = the<br>Commonwealth of Pennsylvania
+|insignia        = Seal of the Governor of Pennsylvania.svg
+|insigniasize    = 110px
+|insigniacaption = Seal of the Governor
+|flag            = Flag of the Governor of Pennsylvania.svg
+|flagborder      = yes
+|flagcaption     = Flag of the Governor
+|style           = {{ublist|[[Governor]]<br>{{small|(informal)}}|[[The Honourable#United States of America|The Honorable]]<br>{{small|(formal)}}}}
+|status          = {{ublist|[[Head of State]]|[[Head of Government]]}}
+|image           = Governor Tom Wolf official portrait 2015 (cropped2).jpg
+|imagesize       = 200px
+|incumbent       = [[Tom Wolf]]
+|incumbentsince  = January 20, 2015
+|residence       = [[Pennsylvania Governor's Residence|Governor's Residence]]
+|termlength      = Four years<br /><small>renewable once</small>
+|inaugural       = [[Thomas Mifflin]]
+|formation       = December 21, 1790
+|deputy          = [[Lieutenant Governor of Pennsylvania]]
+|salary          = $187,256 (2013)<ref>{{cite web | url=http://knowledgecenter.csg.org/kc/content/csg-releases-2013-governor-salaries | title=CSG Releases 2013 Governor Salaries | publisher=The Council of State Governments | date=June 25, 2013 | accessdate=November 23, 2014 }}</ref>
+|website         = [http://www.governor.pa.gov/ governor.pa.gov]
+}}
+The '''Governor of the Commonwealth of Pennsylvania''' is the head of the [[executive branch]] of [[Government of Pennsylvania|Pennsylvania's state government]]<ref>PA Constitution article IV, § 2</ref> and serves as the [[commander-in-chief]] of the [[U.S. state|state's]] [[Pennsylvania National Guard|military forces]].<ref>PA Constitution article IV, § 7</ref>
+
+The [[Governor (United States)|governor]] has a duty to enforce state laws, and the power to approve or [[veto]] [[bill (proposed law)|bills]] passed by the [[Pennsylvania Legislature]]<ref>PA Constitution article IV, § 15</ref> and to convene the legislature.<ref>PA Constitution article IV, § 12</ref> The governor may grant pardons except in cases of [[impeachment]], but only when recommended by the Board of Pardons.<ref>PA Constitution article IV, § 9</ref>
+
+There have been seven presidents and 46 governors of Pennsylvania, with two governors serving non-consecutive terms, totaling 55 terms in both offices. The longest term was that of the first governor, [[Thomas Mifflin]], who served three full terms as governor in addition to two years as president. The shortest term belonged to [[John C. Bell, Jr.|John Bell]], who served only 19 days as acting governor after his predecessor resigned. The current governor is [[Democratic Party (United States)|Democrat]] [[Tom Wolf]], whose term began on January 20, 2015.
+
+==Governors==
+Pennsylvania was one of the original [[thirteen colonies]], and was admitted as a state on December 12, 1787. Prior to declaring its independence, Pennsylvania was a [[Province of Pennsylvania|colony]] of the [[Kingdom of Great Britain]]; see the list of [[List of colonial governors of Pennsylvania|colonial governors]] for the pre-statehood period.
+
+===Presidents of the Supreme Executive Council===
+The first [[Pennsylvania Constitution of 1776|Pennsylvania constitution in 1776]] created the [[Supreme Executive Council]] as the state's executive branch, with the [[President of Pennsylvania|President of the Commonwealth of Pennsylvania]] as its head.<ref>1776 Constitution § 3</ref> The president was chosen annually by the council, though with no specific term dates.<ref>1776 Constitution § 19</ref>
+
+The original 1776 constitution created the position of "vice-president", though no provision was made if the office of president became vacant, which occurred four times later. Contemporary sources continue to label the chief executive in such times as the vice president, without any notion of succeeding to the presidency. One acting president, [[George Bryan]], was subsequently recognized later as a full-fledged governor, due to his acting as president for over six months.
+
+{| class="wikitable" style="text-align:center;"
+|-
+! #
+! Portrait
+! President
+! Took office
+! Left office
+! Vice President
+|-
+|1
+|[[File:Thomas Wharton (1735 - 1778), by Charles Willson Peale (1741 - 1827).jpg|75px]]
+|[[Thomas Wharton Jr.]]
+|March 5, 1777
+|May 23, 1778<br /><ref group="note" name="died">Died in office.</ref>
+|[[George Bryan]]
+|-
+|2
+|[[File:GeorgeBryan.jpg|75px]]
+|[[George Bryan]]
+|May 23, 1778
+|December 1, 1778
+|''acting as president''<br /><ref group="note">As Vice President of the Supreme Executive Council, acted as president. Four vice presidents acted as president at various times; however, Bryan's lengthy term has caused his term to since be recognized as being equivalent to president. Contemporary sources listed him only as vice president, acting out the duties of president.</ref>
+|-
+|rowspan="3"|3
+|rowspan="3"|[[File:Joseph Reed by Pierre Eugène du Simitière.jpg|75px]]
+|rowspan="3"|[[Joseph Reed (politician)|Joseph Reed]]
+|rowspan="3"|December 1, 1778
+|rowspan="3"|November 15, 1781
+|[[George Bryan]]<br /><ref group="note" name="vp-resigned">Resigned; no reason was recorded by the Supreme Executive Council.</ref>
+|-
+|[[Matthew Smith (Pennsylvania statesman)|Matthew Smith]]<br /><ref group="note" name="vp-resigned" />
+|-
+|[[William Moore (statesman)|William Moore]]
+|-
+|4
+|[[File:Blank.gif|75px]]
+|[[William Moore (statesman)|William Moore]]
+|November 15, 1781
+|November 7, 1782
+|[[James Potter]]
+|-
+|rowspan="3"|5
+|rowspan="3"|[[File:John Dickinson portrait.jpg|75px]]
+|rowspan="3"|[[John Dickinson]]
+|rowspan="3"|November 7, 1782
+|rowspan="3"|October 18, 1785
+|[[James Ewing (Pennsylvania statesman)|James Ewing]]
+|-
+|[[James Irvine (Pennsylvania statesman)|James Irvine]]<br /><ref group="note" name="vp-resigned" />
+|-
+|[[Charles Biddle]]
+|-
+|rowspan="3"|6
+|rowspan="3"|[[File:Benjamin Franklin by Joseph Duplessis 1778.jpg|75px]]
+|rowspan="3"|[[Benjamin Franklin]]
+|rowspan="3"|October 18, 1785
+|rowspan="3"|November 5, 1788
+|[[Charles Biddle]]
+|-
+|[[Peter Muhlenberg]]<br /><ref group="note" name="vp-resigned" />
+|-
+|[[David Redick]]
+|-
+|7
+|[[File:Thomas Mifflin.jpg|75px]]
+|[[Thomas Mifflin]]
+|November 5, 1788
+|December 21, 1790
+|[[George Ross (Pennsylvania statesman)|George Ross]]
+|}
+
+===Governors of the Commonwealth of Pennsylvania===
+[[File:Five PA-Governors.jpg|thumb|right|Five governors of the Commonwealth of Pennsylvania who  have served since 1995, (left to right): [[Mark Schweiker]], [[Tom Ridge]], [[Tom Wolf]], [[Tom Corbett]] and [[Ed Rendell]] (January 2015), pose in front of the south facade of the [[Pennsylvania State Capitol]] on the [[Susquehanna River]] front in [[Harrisburg, Pennsylvania|Harrisburg]] at a gubernatorial inauguration]]
+
+The 1790 constitution abolished the council and replaced the president with a governor,<ref>1790 Constitution article II, § 1</ref> and established a three-year term for governor commencing on the third Tuesday of the December following the election, with governors not allowed to serve more than nine out of any twelve years.<ref>1790 Constitution article IV, § 3</ref> The 1838 constitution moved the start of the term to the third Tuesday of the January following the election, and allowed governors to only serve six out of any nine years.<ref>1838 Constitution article II, § 3</ref> The 1874 constitution lengthened the term to four years, and prohibited governors from succeeding themselves.<ref>1874 Constitution article IV, § 3</ref> The current constitution of 1968 changed this to allow governors to serve two consecutive terms.<ref>PA Constitution article IV, § 3</ref> There are no limits on the number of terms a governor may serve in total as long as there is a four-year break after a second term.
+
+Under the earlier  1968 constitution, [[Milton Shapp]] was the first governor to serve 2 terms, and [[Tom Corbett]] was the first incumbent governor to lose a re-election bid.
+
+If the office of governor becomes vacant through death, resignation, or conviction on impeachment, the [[Lieutenant Governor of Pennsylvania|lieutenant governor]] becomes governor for the remainder of the term; if the office is only temporarily vacant due to disability of the governor, the lieutenant governor only acts out the duties of governor.<ref>PA Constitution article IV, § 13</ref> Should both offices be vacant, the [[president pro tempore|president ''"pro tempore"'']] of the state senate becomes governor.<ref>PA Constitution article IV, § 14</ref> The position of a lieutenant  governor was created in the 1874 constitution; prior to then, the speaker of the senate would act as governor in cases of vacancy. Originally, the lieutenant governor could only act as governor; it was not until the 1968 constitution that the lieutenant governor could actually become the sitting governor in that fashion. The office of governor has been vacant for an extended period once before, a 17-day gap in 1848 between the resignation of the previous governor and the swearing in of his acting successor. Governors and lieutenant governors are elected on the same [[political party]] [[ticket (election)|ticket]].<ref>{{cite web | url=http://www.thegreenpapers.com/slg/executive.phtml | title=Executive Branch of the Several States | publisher=The Green Papers | accessdate=April 30, 2008}}</ref>
+
+; Parties
+{{legend2|{{Anti-Masonic Party (United States)/meta/color}}|[[Anti-Masonic Party (United States)|Anti-Masonic]] (1) | border=1px solid #aaaaaa}}
+{{legend2|{{Democratic Party (United States)/meta/color}}|[[Democratic Party (United States)|Democratic]] (12) | border=1px solid #aaaaaa}}
+{{legend2|{{Democratic-Republican Party (United States)/meta/color}}|[[Democratic-Republican Party (United States)|Democratic-Republican]] (6) | border=1px solid #aaaaaa}}
+{{legend2|#ffffff | None (1) | border=1px solid #aaaaaa}}
+{{legend2|{{Republican Party (United States)/meta/color}}|[[Republican Party (United States)|Republican]] (26) | border=1px solid #aaaaaa}}
+{{legend2|{{Whig Party (United States)/meta/color}}|[[Whig Party (United States)|Whig]] (2) | border=1px solid #aaaaaa}}
+
+{| class="wikitable" style="text-align:center;"
+|-
+! #
+! colspan="3" | Governor
+! Took office
+! Left office
+! Party
+! colspan="2" | [[Lieutenant Governor of Pennsylvania|Lt. Governor]]<br /><ref group="note">The office of lieutenant governor was not created until the 1873 Constitution, first being filled in 1875.</ref>
+! Terms<br /><ref group="note">The fractional terms of some governors are not to be understood absolutely literally; rather, they are meant to show single terms during which multiple governors served, due to resignations, deaths and the like.</ref>
+|-
+|1
+|[[File:Thomas Mifflin.jpg|75px]]
+|&nbsp;
+|[[Thomas Mifflin]]
+|December 21, 1790
+|December 17, 1799
+|None<br /><ref group="note">The [[Federalist Party (United States)|Federalist Party]] nominated Mifflin, but he himself carried no party label.</ref>
+|rowspan="17" colspan="2"|None
+|3<br /><ref group="note">Mifflin was elected governor three times under the 1790 Constitution, having previously been elected once as President of the Supreme Executive Council.</ref>
+|-
+|2
+|[[File:ThomasMcKean3.jpg|75px]]
+|style="background: {{Democratic-Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Thomas McKean]]
+|December 17, 1799
+|December 20, 1808
+|[[Democratic-Republican Party|Democratic-<br />Republican]]
+|3
+|-
+|3
+|[[File:SimonSnyder.jpg|75px]]
+|style="background: {{Democratic-Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Simon Snyder]]
+|December 20, 1808
+|December 16, 1817
+|Democratic-<br />Republican
+|3
+|-
+|4
+|[[File:WFindley.jpg|75px]]
+|style="background: {{Democratic-Republican Party (United States)/meta/color}};"|&nbsp;
+|[[William Findlay (governor)|William Findlay]]
+|December 16, 1817
+|December 19, 1820
+|Democratic-<br />Republican
+|1
+|-
+|5
+|[[File:Joseph Hiester.jpg|75px]]
+|style="background: {{Democratic-Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Joseph Hiester]]
+|December 19, 1820
+|December 16, 1823
+|Democratic-<br />Republican
+|1
+|-
+|6
+|[[File:Shulze.jpg|75px]]
+|style="background: {{Democratic-Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John Andrew Shulze]]
+|December 16, 1823
+|December 15, 1829
+|Democratic-<br />Republican
+|2
+|-
+|7
+|[[File:George Wolf.jpg|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[George Wolf]]
+|December 15, 1829
+|December 15, 1835
+|Democratic
+|2
+|-
+|8
+|[[File:Joseph Ritner-Governor of Pennsylvania.JPG|75px]]
+|style="background: {{Anti-Masonic Party (United States)/meta/color}};"|&nbsp;
+|[[Joseph Ritner]]
+|December 15, 1835
+|January 15, 1839
+|[[Anti-Masonic Party|Anti-Masonic]]
+|1<br /><ref group="note">Ritner was the last to serve before the 1838 constitution limited governors to serving six years out of any nine years; that constitution also changed the term to commence the next January from the election, extending Ritner's term by a month.</ref>
+|-
+|9
+|[[File:DavidRittenhousePorter.jpg|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[David R. Porter]]
+|January 15, 1839
+|January 21, 1845
+|[[Democratic Party (United States)|Democratic]]
+|2<br /><ref group="note">First governor to serve under the 1838 constitution.</ref>
+|-
+|10
+|[[File:Francis R. Shunk Governor of Pennsylvania.tif|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Francis R. Shunk]]
+|January 21, 1845
+|July 9, 1848
+|Democratic
+|{{frac|1|1|2}}<br /><ref group="note">Resigned due to illness; he died of [[tuberculosis]] only 11 days later.</ref>
+|-
+|—
+|
+|&nbsp;
+|''Office vacant''
+|July 9, 1848
+|July 26, 1848
+|—
+|—<br /><ref group="note">Following [[Francis R. Shunk]]'s resignation, an [[interregnum]] of 17 days occurred before the speaker of the state senate, [[William F. Johnston]], was sworn in.</ref>
+|-
+|11
+|[[File:W F Johnston.jpg|75px]]
+|style="background: {{Whig Party (United States)/meta/color}};"|&nbsp;
+|[[William F. Johnston]]
+|July 26, 1848
+|January 20, 1852
+|[[Whig Party (United States)|Whig]]
+|{{frac|1|1|2}}<br /><ref group="note">As speaker of the state senate, filled unexpired term, and was subsequently elected governor in his own right.</ref>
+|-
+|12
+|[[File:William Bigler.jpg|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[William Bigler]]
+|January 20, 1852
+|January 16, 1855
+|Democratic
+|1
+|-
+|13
+|[[File:James Pollock Pennsylvania Governor.jpg|75px]]
+|style="background: {{Whig Party (United States)/meta/color}};"|&nbsp;
+|[[James Pollock]]
+|January 16, 1855
+|January 19, 1858
+|Whig
+|1
+|-
+|14
+|[[File:WilliamPacker.jpg|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[William F. Packer]]
+|January 19, 1858
+|January 15, 1861
+|Democratic
+|1
+|-
+|15
+|[[File:Andrew Curtin2.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Andrew Gregg Curtin]]
+|January 15, 1861
+|January 15, 1867
+|[[Republican Party (United States)|Republican]]
+|2
+|-
+|16
+|[[File:Gearysfmayor.jpeg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John W. Geary]]
+|January 15, 1867
+|January 21, 1873
+|Republican
+|2
+|-
+|rowspan="2"|17
+|rowspan="2"|[[File:JohnFHartranft.jpg|75px]]
+|rowspan="2" style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|rowspan="2"|[[John F. Hartranft]]
+|rowspan="2"|January 21, 1873
+|rowspan="2"|January 21, 1879
+|rowspan="2"|Republican
+|&nbsp;
+|None
+|rowspan="2"|2<br /><ref group="note">First governor under the 1874 constitution, which prevented governors from succeeding themselves and lengthened terms to four years. Since Hartranft was originally elected under the previous constitution, he was allowed to succeed himself. Hartranft's first term was shortened from three to two years to fit the electoral schedule of the new constitution.</ref>
+|-
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John Latta (Lieutenant Governor)|John Latta]]
+|-
+|18
+|[[File:Henry M. Hoyt - Brady-Handy.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Henry M. Hoyt]]
+|January 21, 1879
+|January 16, 1883
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Charles Warren Stone]]
+|1
+|-
+|19
+|[[File:RobertEPattison.png|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Robert E. Pattison]]
+|January 16, 1883
+|January 18, 1887
+|Democratic
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Chauncey Forward Black]]
+|1
+|-
+|20
+|[[File:J A Beaver.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[James A. Beaver]]
+|January 18, 1887
+|January 20, 1891
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[William T. Davies]]
+|1
+|-
+|''19''
+|[[File:RobertEPattison.png|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Robert E. Pattison]]
+|January 20, 1891
+|January 15, 1895
+|Democratic
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Louis Arthur Watres]]
+|1
+|-
+|21
+|[[File:Daniel H Hastings.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Daniel H. Hastings]]
+|January 15, 1895
+|January 17, 1899
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Walter Lyon (Pennsylvania)|Walter Lyon]]
+|1
+|-
+|22
+|[[File:William Alexis Stone.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[William A. Stone]]
+|January 17, 1899
+|January 20, 1903
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John P. S. Gobin]]
+|1
+|-
+|23
+|[[File:Portrait of Samuel W. Pennypacker.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Samuel W. Pennypacker]]
+|January 20, 1903
+|January 15, 1907
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[William M. Brown]]
+|1
+|-
+|24
+|[[File:Edwin S Stuart 1909.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Edwin Sydney Stuart]]
+|January 15, 1907
+|January 17, 1911
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Robert S. Murphy]]
+|1
+|-
+|25
+|[[File:JohnKTener.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John K. Tener]]
+|January 17, 1911
+|January 19, 1915
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John Merriman Reynolds]]
+|1
+|-
+|26
+|[[File:MartinGBrumbaugh.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Martin Grove Brumbaugh]]
+|January 19, 1915
+|January 21, 1919
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Frank B. McClain]]
+|1
+|-
+|27
+|[[File:William Cameron Sproul.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[William Cameron Sproul]]
+|January 21, 1919
+|January 16, 1923
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Edward E. Beidleman]]
+|1
+|-
+|28
+|[[File:Gifford Pinchot 3c03915u.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Gifford Pinchot]]
+|January 16, 1923
+|January 18, 1927
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[David J. Davis]]
+|1
+|-
+|29
+|[[File:John Stuchell Fisher.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John Stuchell Fisher]]
+|January 18, 1927
+|January 20, 1931
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Arthur James (politician)|Arthur James]]
+|1
+|-
+|''28''
+|[[File:Gifford Pinchot 3c03915u.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Gifford Pinchot]]
+|January 20, 1931
+|January 15, 1935
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Edward C. Shannon]]
+|1
+|-
+|30
+|[[File:GeorgeHEarle.jpg|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[George Howard Earle III]]
+|January 15, 1935
+|January 17, 1939
+|Democratic
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Thomas Kennedy (unionist)|Thomas Kennedy]]
+|1
+|-
+|31
+|
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Arthur James (politician)|Arthur James]]
+|January 17, 1939
+|January 19, 1943
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Samuel S. Lewis]]
+|1
+|-
+|32
+|[[File:EdwardMartinPA.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Edward Martin (Pennsylvania politician)|Edward Martin]]
+|January 19, 1943
+|January 2, 1947
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John C. Bell, Jr.]]
+|{{frac|1|2}}<br />{{#tag:ref|Resigned to take an elected seat in the [[United States Senate]]. While official sources state Martin resigned on January 3, most contemporary sources reported his resignation as occurring on January 2.<ref>{{cite news | title=Martin Quits Today as Penna. Governor; Bell to Take Over | newspaper=Gettysburg Times | date=January 2, 1947 | accessdate=April 30, 2008 | url=http://www.newspaperarchive.com/LandingPage.aspx?type=glpnews&search=martin%201947%20governor&img=\\na0004\281030\3006548.html}}</ref><ref>{{cite book | last=Stevens | first=Sylvester Kirby | year=1964 | title=Pennsylvania: Birthplace of a Nation | page=375 | publisher=Random House | location=New York}}</ref>|group="note"}}
+|-
+|33
+|[[File:Blank.gif|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John C. Bell Jr.]]
+|January 2, 1947
+|January 21, 1947
+|Republican
+|&nbsp;
+|''vacant''
+|{{frac|1|2}}<br /><ref group="note">As lieutenant governor, acted as governor for unexpired term.</ref>
+|-
+|34
+|[[File:James Henderson Duff.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[James H. Duff]]
+|January 21, 1947
+|January 16, 1951
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Daniel B. Strickler]]
+|1
+|-
+|35
+|<!-- [[WP:NFCC]] violation: [[File:Governorjohnfine.jpg|75px]] -->
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[John S. Fine]]
+|January 16, 1951
+|January 18, 1955
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Lloyd H. Wood]]
+|1
+|-
+|36
+|<!-- [[WP:NFCC]] violation: [[File:Governorgeorgeleader.jpg|75px]] -->
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[George M. Leader]]
+|January 18, 1955
+|January 20, 1959
+|Democratic
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Roy E. Furman]]
+|1
+|-
+|37
+|[[File:David L. Lawrence.jpg|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[David L. Lawrence]]
+|January 20, 1959
+|January 15, 1963
+|Democratic
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[John Morgan Davis]]
+|1
+|-
+|38
+|[[File:William Scranton.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[William Scranton]]
+|January 15, 1963
+|January 17, 1967
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Raymond P. Shafer]]
+|1
+|-
+|39
+|[[File:GovShaferMay67 N2.tif|75px]] <!-- [[WP:NFCC]] violation: [[File:Raymond_P._Shafer.jpg|75px]] -->
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Raymond P. Shafer|Ray Shafer]]
+|January 17, 1967
+|January 19, 1971
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Raymond J. Broderick]]
+|1
+|-
+|40
+|[[File:Milton Shapp.jpg|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Milton Shapp]]
+|January 19, 1971
+|January 16, 1979
+|Democratic
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Ernest P. Kline]]
+|2<br /><ref group="note">First governor under the 1968 constitution, and thus eligible to succeed himself.</ref>
+|-
+|41
+|[[File:Dick Thornburgh.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Dick Thornburgh]]
+|January 16, 1979
+|January 20, 1987
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[William Scranton, III]]
+|2
+|-
+|42
+|[[File:Bob Casey 1986.jpg|75px]]
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Bob Casey Sr.]]
+|January 20, 1987
+|January 17, 1995
+|Democratic
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Mark Singel]]
+|2<br /><ref group="note">On June 14, 1993, Casey transferred executive authority to Lieutenant Governor Singel, and later that day underwent a heart-liver transplant operation. Singel acted as governor until Casey resumed the powers and duties of the office six months later on December 13, 1993. Because Casey never officially resigned, Singel was only an acting governor.</ref>
+|-
+|43
+|[[File:Tom Ridge (cropped).jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Tom Ridge]]
+|January 17, 1995
+|October 5, 2001
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Mark Schweiker]]
+|{{frac|1|1|2}}<br /><ref group="note">Resigned to be Director of the [[Office of Homeland Security]].</ref>
+|-
+|44
+|[[File:Mark S Schweiker 2001.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Mark Schweiker]]
+|October 5, 2001
+|January 21, 2003
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Robert Jubelirer]]
+|{{frac|1|2}}<br /><ref group="note">As lieutenant governor, filled unexpired term.</ref>
+|-
+|rowspan="2"|45
+|rowspan="2"|[[File:Ed Rendell ID2004 crop (cropped).JPG |75px]]
+|rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|rowspan="2"|[[Ed Rendell]]
+|rowspan="2"|January 21, 2003
+|rowspan="2"|January 18, 2011
+|rowspan="2"|Democratic
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Catherine Baker Knoll]]<ref group="note">Died in office.</ref>
+|rowspan="2"|2
+|-
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Joe Scarnati]]<ref group="note">As president pro tempore of the state senate, acted as lieutenant governor.</ref>
+|-
+|46
+|[[File:Governor Corbett cropped portrait May 2014.jpg|75px]]
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Tom Corbett]]
+|January 18, 2011
+|January 20, 2015
+|Republican
+|style="background: {{Republican Party (United States)/meta/color}};"|&nbsp;
+|[[Jim Cawley]]
+|1
+|-
+|rowspan="2"|47
+|rowspan="2"|[[File:Governor Tom Wolf official portrait 2015 (cropped2).jpg|75px]]
+|rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|rowspan="2"|[[Tom Wolf]]
+|rowspan="2"|January 20, 2015
+|rowspan="2"|Incumbent
+|rowspan="2"|Democratic
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[Mike Stack]]
+|rowspan="2"|2
+|-
+|style="background: {{Democratic Party (United States)/meta/color}};"|&nbsp;
+|[[John Fetterman (politician)|John Fetterman]]
+|-
+|}
+
+==Other high offices held==
+This is a table of other governorships, congressional and other federal offices, and ranking diplomatic positions in foreign countries held by Pennsylvania governors. All representatives and senators mentioned represented Pennsylvania except where noted.
+:{{small|†&nbsp;Denotes those offices from which the governor resigned to take the governorship.}}
+
+{| class="wikitable"
+|-
+!rowspan="2"|Governor
+!rowspan="2"|Gubernatorial term
+!colspan="2"|[[United States Congress|U.S. Congress]]
+!rowspan="2"|Other offices held
+!rowspan="2"|Source
+|-
+
+![[United States House of Representatives|House]]
+![[United States Senate|Senate]]
+|-
+| [[Joseph Reed (politician)|Joseph Reed]]
+| style="text-align:center;"|1778–1781
+|
+|
+| [[Continental Congress|Delegate to the Continental Congress]]; elected to the U.S. House but declined his seat.
+| style="text-align:center;"|<ref>{{cite web | url=http://www.archives.upenn.edu/people/1700s/reed_jos.html | title=Joseph Reed | publisher=University of Pennsylvania Archives and Records Center | accessdate=July 13, 2010 | archive-url=https://web.archive.org/web/20100613140853/http://www.archives.upenn.edu/people/1700s/reed_jos.html | archive-date=2010-06-13 | dead-url=yes | df= }}</ref>
+|-
+|[[John Dickinson (delegate)|John Dickinson]]
+| style="text-align:center;"|1782–1785
+|
+|
+|[[List of Governors of Delaware|President of Delaware]], Delegate to the Continental Congress from Delaware, Delegate to the Continental Congress from Pennsylvania
+| style="text-align:center;"|<ref>{{cite web | url=http://www.state.de.us/facts/history/dicknbio.htm | title=John Dickinson | work=Delaware's Governors | publisher=State of Delaware | accessdate=July 9, 2010}}</ref>
+|-
+|[[Benjamin Franklin]]
+| style="text-align:center;"|1785–1788
+|
+|
+|[[United States Ambassador to France|Minister to France]], [[United States Ambassador to Sweden|Minister to Sweden]]
+| style="text-align:center;"|<ref>{{cite web | url=https://history.state.gov/departmenthistory/people/franklin-benjamin | title=Benjamin Franklin (1706-1790) | publisher=U.S. Department of State | accessdate=July 9, 2010}}</ref>
+|-
+|[[Thomas Mifflin]]
+| style="text-align:center;"|1790–1799
+|
+|
+|[[President of the Continental Congress]]
+| style="text-align:center;"|<ref>{{cite web | url=http://www.history.army.mil/books/RevWar/ss/mifflin.htm | title=Thomas Mifflin | publisher=U.S. Army | accessdate=July 9, 2010}}</ref>
+|-
+|[[Thomas McKean]]
+| style="text-align:center;"|1799–1808
+|
+|
+|[[List of Governors of Delaware|President of Delaware]], President of the Continental Congress
+| style="text-align:center;"|<ref>{{cite web | url=http://www.state.de.us/facts/history/delgov1.htm | title=Delaware's Governors | publisher=State of Delaware | accessdate=July 9, 2010}}</ref>
+|-
+|[[Simon Snyder]]
+| style="text-align:center;"|1808–1817
+|
+|
+|Some records say he was elected to the U.S. Senate, but some only say state senate. The [[Biographical Directory of the United States Congress]] has no record of a U.S. Senate term.
+| style="text-align:center;"|<ref>{{cite book | last=Wagenseller | first=George Washington | title=Snyder County Annals Volume 1 | year=1919 | publisher=The Middleburgh Post | location=Middleburgh, Pennsylvania | url=https://books.google.com/?id=r0J72_VrGQgC&pg=PA8&lpg=PA8&dq=simon+snyder+senate | page=8 }}</ref>
+|-
+|[[William Findlay (governor)|William Findlay]]
+| style="text-align:center;"|1817–1820
+|
+| style="text-align:center;"|S
+|
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000120 | title=Findlay, John | work=[[Biographical Directory of the United States Congress]] | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=July 9, 2010}}</ref>
+|-
+|[[Joseph Hiester]]
+| style="text-align:center;"|1820–1823
+| style="text-align:center;"|H†
+|
+|
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000574 | title=HIESTER, Joseph | work=Biographical Directory of the United States Congress | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=April 30, 2008}}</ref>
+|-
+|[[George Wolf]]
+| style="text-align:center;"|1829–1835
+| style="text-align:center;"|H†
+|
+|
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000673 | title=WOLF, George | work=Biographical Directory of the United States Congress | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=April 30, 2008}}</ref>
+|-
+|[[William Bigler]]
+| style="text-align:center;"|1852–1855
+|
+| style="text-align:center;"|S
+|
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000459 | title=Bigley, William | work=Biographical Directory of the United States Congress | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=July 9, 2010}}</ref>
+|-
+|[[James Pollock]]
+| style="text-align:center;"|1855–1858
+| style="text-align:center;"|H
+|
+|
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=P000416 | title=Pollock, James | work=Biographical Directory of the United States Congress | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=July 9, 2010}}</ref>
+|-
+|[[Andrew Gregg Curtin]]
+| style="text-align:center;"|1861–1867
+| style="text-align:center;"|H
+|
+|[[United States Ambassador to Russia|Ambassador to Russia]]
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001004 | title=Curtin, Andrew Gregg | work=Biographical Directory of the United States Congress | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=July 9, 2010}}</ref>
+|-
+|[[John W. Geary]]
+| style="text-align:center;"|1867–1876
+|
+|
+|[[List of Governors of Kansas|Governor of Kansas Territory]]
+| style="text-align:center;"|<ref>{{cite web | url=http://www.kshs.org/people/governors.htm | title=Kansas Governors | publisher=Kansas State Historical Society | accessdate=July 9, 2010}}</ref>
+|-
+|[[William A. Stone]]
+| style="text-align:center;"|1899–1903
+| style="text-align:center;"|H†
+|
+|
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000966 | title=STONE, William Alexis | work=Biographical Directory of the United States Congress | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=April 30, 2008}}</ref>
+|-
+|[[John K. Tener]]
+| style="text-align:center;"|1911–1915
+| style="text-align:center;"|H†
+|
+|
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000123 | title=TENER, John Kinley | work=Biographical Directory of the United States Congress | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=April 30, 2008}}</ref>
+|-
+|[[George Howard Earle III]]
+| style="text-align:center;"|1935–1939
+|
+|
+|[[United States Ambassador to Austria|Ambassador to Austria]]†
+| style="text-align:center;"|<ref>{{cite web | url=https://photos.state.gov/libraries/austria/19452/pdfs/formerambassadors.pdf | title=Former U.S. Ambassadors to Austria | publisher=U.S. Department of State | accessdate=July 9, 2010}}</ref>
+|-
+|[[Edward Martin (Pennsylvania politician)|Edward Martin]]
+| style="text-align:center;"|1943–1947
+|
+| style="text-align:center;"|S
+|
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000177 | title=Martin, Edward | work=Biographical Directory of the United States Congress | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=July 9, 2010}}</ref>
+|-
+|[[James H. Duff]]
+| style="text-align:center;"|1947–1951
+|
+| style="text-align:center;"|S
+|
+| style="text-align:center;"|<ref>{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=D000516 | title=Duff, James Henderson | work=Biographical Directory of the United States Congress | publisher=Clerk of the United States House of Representatives and Historian of the United States Senate | accessdate=July 9, 2010}}</ref>
+|-
+|[[William Scranton]]
+| style="text-align:center;"|1963–1967
+| style="text-align:center;"|H
+|
+|[[United States Ambassador to the United Nations|Ambassador to the United Nations]]
+| style="text-align:center;"|<ref>{{cite web
+ |url         = http://archive.usun.state.gov/ambassadors/history/scranton.html
+ |archiveurl  = https://www.webcitation.org/6GgCZJB0I?url=http://archive.usun.state.gov/ambassadors/history/scranton.html
+ |archivedate = May 17, 2013
+ |title       = History of USUN Ambassadors
+ |publisher   = United States Mission to the U.N.
+ |accessdate  = July 9, 2010
+ |deadurl     = yes
+ |df          = 
+}}</ref>
+|-
+|[[Dick Thornburgh]]
+| style="text-align:center;"|1979–1987
+|
+|
+|[[United States Attorney General|U.S. Attorney General]]
+| style="text-align:center;"|<ref>{{cite web | url=http://www.library.pitt.edu/thornburgh/biography.html | title=
+Dick Thornburgh | work=The Dick Thornburgh Papers | publisher=University of Pittsburgh | accessdate=July 9, 2010}}</ref>
+|-
+|[[Tom Ridge]]
+| style="text-align:center;"|1995–2001
+| style="text-align:center;"|H
+|
+|[[United States Secretary of Homeland Security|U.S. Secretary of Homeland Security]]
+| style="text-align:center;"|<ref name="DHS">{{cite web | url=https://www.dhs.gov/xabout/history/editorial_0586.shtm | title=Tom Ridge, Homeland Security Secretary 2003 - 2005 | publisher=Division of Homeland Security | accessdate=July 9, 2010}}</ref>
+|}
+
+==The Governor's Residence==
+{{see also|Pennsylvania Governor's Residence}}
+
+See Also [https://web.archive.org/web/20150924070714/http://www.pennsylvaniapoliticals.com/governors-residence.html Governor's Residence via Pennsylvania Politicals]
+
+From [http://www.pennsylvaniapoliticals.com Pennsylvania Politicals]: Pennsylvania has never used the name "mansion" to describe the governor's official home. Even when the first bill was proposed to purchase a home, the word mansion was not used. Rather, the home was and is designated as a "residence." Even during the 79 years that [https://web.archive.org/web/20150924070721/http://www.pennsylvaniapoliticals.com/keystone-hall.html Keystone Hall] was used, it was known simply as that, Keystone Hall. Even today, the home located at 2035 North Front Street  is officially known as "The Governor's Residence" not "The Governor's Mansion." The distinction may be both psychological and historical. It may help to remind the governor that he lives in the people's house. It may also remind the electorate that the we, as citizens, own the home and allow the individuals we choose to reside there only temporarily.
+
+As early as 1852, the Pennsylvania House of Representatives proposed funds for "the erection of a dwelling for the residence of the Governor of this Commonwealth." Six years later, on January 18, 1858, Governor Pollock signed the bill authorizing funds for the purchase of a building suitable for the governor. By 1861 and the start of the Civil War, Governor Curtin found the home to be too small to handle the full load of war-related business. Funds were authorized to purchase 313 North Front Street. Governor Curtin and family moved into the residence in 1864.
+
+Twenty years later, the neighboring home was purchased, joined together, and a faux façade was built. Keystone Hall was now a fully functioning residence for the governor. By 1959, the home had fallen into such disrepair that the home was sold and demolished the following year. (The governors used the State House at Indiantown Gap during this period.) [[Arthur James (politician)|Arthur James]] proposed a new governors residence in 1941. He wanted a grand house built in the William & Mary (Williamsburg) style architecture. However, it took over 25 years for his idea to come to fruition. In 1968, the current residence opened to welcome the Ray Shafer family. It has been the home of the governor ever since.
+
+==Living former U.S. governors of Pennsylvania==
+{{As of|2018|1}}, there are five former U.S. governors of Pennsylvania who are currently living at this time, the oldest U.S. governor of Pennsylvania being [[Dick Thornburgh]] (served 1979–1987, born 1932). The most recent death of a former U.S. governor of Pennsylvania was that of [[William Scranton]] (served 1963–1967, born 1917), on July 28, 2013. The most recently serving U.S. governor of Pennsylvania to die was [[Bob Casey Sr.]], (served 1987–1995) on May 30, 2000.
+
+{| class="wikitable"
+|-
+! Governor
+! Gubernatorial term
+! Date of birth (and age)
+
+|-
+|[[Dick Thornburgh]]
+| style="text-align:center;"|1979–1987
+|{{birth date and age|1932|7|16}}
+|-
+|[[Tom Ridge]]
+| style="text-align:center;"|1995–2001
+|{{birth date and age|1945|8|26}}
+|-
+|[[Mark S. Schweiker|Mark Schweiker]]
+| style="text-align:center;"|2001–2003
+|{{birth date and age|1953|1|31}}
+|-
+|[[Ed Rendell]]
+| style="text-align:center;"|2003–2011
+|{{birth date and age|1944|1|5}}
+|-
+|[[Tom Corbett]]
+| style="text-align:center;"|2011–2015
+|{{birth date and age|1949|6|17}}
+|}
+
+==See also==
+*[[List of Pennsylvania gubernatorial elections]]
+*[http://www.pennsylvaniapoliticals.com Pennsylvania Politicals]
+*[[List of colonial governors of Pennsylvania]]
+
+==Notes==
+{{reflist|group="note"|2}}
+
+==References==
+;General
+{{refbegin}}
+* {{cite web|url=http://www.nga.org/portal/site/nga/menuitem.8fd3d12ab65b304f8a278110501010a0?submit=Submit&State=PA |title=Governors Database: Pennsylvania |accessdate=April 1, 2008 |year=2008 |work=National Governors Association |publisher=[[National Governors Association]] |deadurl=yes |archiveurl=https://web.archive.org/web/20110316235502/http://www.nga.org/portal/site/nga/menuitem.8fd3d12ab65b304f8a278110501010a0?submit=Submit&State=PA |archivedate=March 16, 2011 }}
+{{refend}}
+
+;Constitutions
+{{refbegin}}
+* {{cite web | url=http://sites.state.pa.us/PA_Constitution.html | title=Constitution of the Commonwealth of Pennsylvania | publisher=Commonwealth of Pennsylvania | year=1968 | accessdate=April 21, 2008}}
+* {{cite web|url=http://www.constitutionpartypa.com/PA%20Constitution/CONSTITUTION%20OF%20PA%201874.pdf |title=1874 Constitution of the Commonwealth of Pennsylvania |publisher=Constitution Party of Pennsylvania |accessdate=July 13, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100415022920/http://www.constitutionpartypa.com/PA%20Constitution/CONSTITUTION%20OF%20PA%201874.pdf |archivedate=April 15, 2010 }}
+* {{cite web|url=http://www.constitutionpartypa.com/PA%20Constitution/CONSTITUTION%20OF%20PENNSYLVANIA%201838.pdf |title=1838 Constitution of the Commonwealth of Pennsylvania |publisher=Constitution Party of Pennsylvania |accessdate=July 13, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100415022943/http://www.constitutionpartypa.com/PA%20Constitution/CONSTITUTION%20OF%20PENNSYLVANIA%201838.pdf |archivedate=April 15, 2010 }}
+* {{cite web|url=http://www.constitutionpartypa.com/PA%20Constitution/1790%20PA%20Constitution.pdf |title=1790 Constitution of the Commonwealth of Pennsylvania |publisher=Constitution Party of Pennsylvania |accessdate=2008-04-21 |deadurl=yes |archiveurl=https://web.archive.org/web/20100415022434/http://www.constitutionpartypa.com/PA%20Constitution/1790%20PA%20Constitution.pdf |archivedate=April 15, 2010 }}
+* {{cite web|url=http://www.constitutionpartypa.com/PA%20Constitution/1776%20Constitution%20of%20Pennsylvania.pdf |title=1776 Constitution of the Commonwealth of Pennsylvania |publisher=Constitution Party of Pennsylvania |accessdate=July 13, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100415022429/http://www.constitutionpartypa.com/PA%20Constitution/1776%20Constitution%20of%20Pennsylvania.pdf |archivedate=April 15, 2010 }}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+{{commons category | Governors of Pennsylvania}}
+* [http://www.governor.pa.gov/ Office of the Governor of Pennsylvania]
+* [http://www.pennsylvaniapoliticals.com Pennsylvania Politicals]
+
+{{Governors and Presidents of Pennsylvania}}
+{{Lists of US Governors}}
+{{Pennsylvania}}
+{{Benjamin Franklin}}
+{{Pennsylvania statewide elected officials}}
+{{Pennsylvania year nav}}
+{{featured list}}
+
+{{DEFAULTSORT:Pennsylvania, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Pennsylvania|*]]
+[[Category:Lists of Pennsylvania politicians|Governors]]
+[[Category:Commonwealth constitutional officers of Pennsylvania|Governor]]

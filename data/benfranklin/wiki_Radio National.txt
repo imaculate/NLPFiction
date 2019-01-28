@@ -1,0 +1,168 @@
+{{Use dmy dates|date=April 2011}}
+{{Infobox radio station
+|name        = ABC Radio National
+|image       = ABC-Radio-National.svg
+|image_size  = 250px
+|city        = 
+|area        = [[Australia]]
+|branding    = 
+|slogan      = 
+|frequency   = Various ([[FM broadcasting|FM]] and [[AM broadcasting|AM]]), [[Digital audio broadcasting|DAB+]], [[internet radio|online]]
+|airdate     = {{start date|1923|12|05|df=yes}}
+|share       = 
+|share as of = 
+|share source = 
+|format      = [[All-news radio|News]], [[talk radio|talk]]
+|language    = English
+|power       = 
+|erp         = 
+|haat        = 
+|class       = 
+|facility_id = 
+|coordinates = <!-- {{coord|}} -->
+|callsign_meaning = '''RN''' - Radio National
+|former_callsigns = 
+|former_frequencies = 
+|affiliations = 
+|operator     = 
+|owner        = [[Australian Broadcasting Corporation]]
+|licensee     = 
+|sister_stations = [[ABC Classic FM]], [[ABC Local Radio]], [[ABC NewsRadio]], [[Triple J]]
+|webcast     = [https://radio.abc.net.au/stations/RN/live Live stream]
+|website     = {{URL|abc.net.au/radionational/}}
+}}
+'''ABC Radio National''', known on-air as '''RN''', is an Australia-wide [[Public Service Broadcasting]] radio network run by the [[Australian Broadcasting Corporation]]. 
+
+Radio National broadcasts national programming in subjects that include news and [[current affairs (news format)|current affairs]], the arts, social issues, science, drama and comedy. Some programs are relayed on [[Radio Australia]], the ABC's international international broadcasting service which was transmitted on [[Shortwave radio|shortwave]] until January 2017.<ref>{{Cite web|url=http://about.abc.net.au/press-releases/shortwave-radio/|title=ABC Exits Shortwave Radio Transmission|last=|first=|date=|website=About the ABC|language=en-AU|archive-url=|archive-date=|dead-url=|access-date=2018-12-05}}</ref>
+
+Radio National currently has 327 transmitter sites and covers over 98% of the permanently inhabited areas of [[Australia]].{{citation needed|date=April 2011}} Remote areas are served by satellite service.
+
+All radio programs are available for live [[streaming media|streaming]] over the Internet, and most (excluding drama, poetry and music) as audio-on-demand, or for download as [[MP3]]s for at least four weeks after broadcast. Some programs are available as [[MP3]]s going back to 2005, when Radio National commenced podcasting.
+
+==History==
+[[File:Joseph Lyons radio broadcast.jpg|thumb|right|Prime Minister [[Joseph Lyons]] preparing to make a broadcast on 2FC Sydney.]]
+From 1928, the [[National Broadcasting Service]], as part of the federal [[Postmaster-General's Department]], gradually took over responsibility for all the existing stations that were sponsored by public licence fees ("A" Class licences). The outsourced [[Australian Broadcasting Company]] supplied programs from 1929. In 1932 a commission was established, merging the original ABC company and the National Broadcasting Service. It is from this time that Radio National dates as a distinct network within the ABC, in which a system of program relays was developed during the subsequent decades<!--Can someone check the period of development?--> to link stations spread across the nation.
+
+Radio National's Sydney station 2FC<ref>2FC radio mast at Willoughby http://naa16.naa.gov.au/rs_images/ShowImage.php?B=3025014&S=1&T=P [[National Archives of Australia]] circa. 1920 Retrieved 2008-12-18</ref> first test broadcast on 5 December 1923 and officially went to air on 9 January 1924. 2FC stood for Farmer and Company, the original owner of the station before the ABC took it over.
+
+The origins of the other stations in the network were: 
+
+:'''3AR''' [[Melbourne]] – 26 January 1924 "Associated Radio Company of Australia", organized by Esmond Laurence Kiernan and others.<ref>[http://www.parliament.vic.gov.au/onthisday/decade.cfm?d=1920 On This Day] Vic Parliament</ref><ref>[http://radiodx.com/spdxr/aussie_callsigns.htm Aussie Callsigns] {{webarchive|url=https://web.archive.org/web/20061023033957/http://radiodx.com/spdxr/aussie_callsigns.htm |date=23 October 2006 }} at RadioDX</ref>
+:'''5CL''' [[Adelaide]] – 20 November 1924 "Central Broadcasters Ltd"
+:'''7ZL''' [[Hobart]] – 17 December 1924
+:'''4QG''' [[Brisbane]] – 27 July 1925 "Queensland Government" (operated by the Queensland Radio Service, an agency within the Office of the Chief Secretary)
+:'''6WN''' [[Perth]] – 5 October 1938 "Wanneroo"
+:'''2CY''' [[Canberra]] – 23 December 1938
+:'''2NA''' [[Newcastle, New South Wales|Newcastle]] – 20 December 1943
+
+The first transmitters for 2FC, 5CL and 4QG were made by [[Amalgamated Wireless Australasia Limited|AWA]] with power of 5 kW (note that until about 1931 in Australia, transmitter powers were defined in terms of DC input to final amplifier, typically about 3 times that of the power into the antenna; thus power today would be stated as about 1.7 kW). They used a MT7A valve for the final high power RF stage and a MT7B for the modulator. The power supply was 12,000 volts from three phase power rectified by MR7 valves. Note also that 4QG commenced with a 500 Watt transmitter which continued for about 6 months until the 5 kW unit was commissioned.<ref>{{cite book|title=Australian Radio the Technical Story 1923-83|author=Winston T. Muscio|year=1984|publisher=Kangaroo Press|isbn=0-949924-82-2|page=66}}</ref>
+
+The radio transmitters for 3AR and 2FC were upgraded to 10 kW in a contract let in 1938 to [[Standard Telephones and Cables|STC]]. The transmitters were designed by Charles Strong in London, and were notable in using negative feedback to ensure a high quality flat frequency response.<ref>{{cite book|title=Australian Radio the Technical Story 1923-83|author=Winston T. Muscio|year=1984|publisher=Kangaroo Press|isbn=0-949924-82-2|page=68}}</ref>
+
+From 1947 until the mid-1980s, "Radio 2" (as it came to be known) was broadcast to the major metropolitan centres, with a large broadcast footprint in adjacent areas due to the powerful [[AM broadcasting|AM]] transmitters in use. It contained most of the ABC's national programming.
+
+The power level of 2FC and 3AR was upgraded to 50 kW in the early 1950s. The transmitters for these were housed in the same building as the radio 1 network. They were manufactured by STC. The final stage contained three parallel 3J/261E air cooled [[triode]]s running in [[class C amplifier]] at 90% efficiency. These were driven by a class B push-pull modulator with the same type of valves.<ref>{{cite book|title=Australian Radio the Technical Story 1923-83|author=Winston T. Muscio|year=1984|publisher=Kangaroo Press|isbn=0-949924-82-2|page=76}}</ref> That of 5CL had to wait until late 1961, when a new joint facility with 5AN was opened at [[Reynella, South Australia|Pimpala]].
+
+In the 1970s, the network's program format began to take on a more serious tone, a style which continues to this day. Art critic Peter Timm later remarked that the network is  "virtually the only non-print media forum for art in this country."<ref>Timms, Peter. ''What's wrong with contemporary art?'' 2004, UNSW Press, {{ISBN|0-86840-407-1}}, p. 102</ref>
+
+In the early 1980s the broadcast footprint was extended with the construction of the first of over 300 regional FM transmitters (including community re-broadcast sites). In 1985, the ABC renamed "Radio 2" as "Radio National".
+
+Since 1990, all Radio National stations have had the same callsign format, Radio National preceded by the appropriate number for the state or territory, sometimes followed by the locality (e.g., "2RN Sydney", "3RN Melbourne").
+
+As a result of cuts in the 1996–97 budget, Radio National was hit with a reduction of a million dollars in its funding<!--more helpful to know the percentage reduction-->, with a significant impact on programming.<ref>[http://www.aph.gov.au/library/pubs/budget/1996-97/1996-97BR04.HTM Budget Review 1996-97] {{webarchive|url=https://web.archive.org/web/20120215161347/http://www.aph.gov.au/library/pubs/budget/1996-97/1996-97BR04.HTM |date=15 February 2012 }} Parliament House</ref>
+
+In January 2012 Radio National was rebranded as RN, partly in recognition of the stations growing digital audience. RN has also been used as shorthand for the station's name by many presenters going back several years. The stations tagline, which has changed regularly over the years, was also changed to "Your World Unfolding" to mesh with the station's new logo and visual identity.
+
+In January 2017 the schedule has been reduced in scope due to loss of staff and programmes.
+
+== Current and Past Programs ==
+''The times shown relate to Radio National's schedules in the [[eastern states of Australia]]''. ''Pre-recorded shows are broadcast on time delay in the centre and west.''
+
+Full program guides for all regions are published on the RN website.<ref>{{cite web|url=http://www.abc.net.au/radionational/guide/|title=Guide - ABC Radio National (Australian Broadcasting Corporation)|website=Radio National|language=en-AU|accessdate=5 March 2017}}</ref>
+
+=== News ===
+*''[[AM (Australian radio series)|AM]]'', ''[[The World Today (Australian radio program)|The World Today]]'', ''[[PM (Australian radio program)|PM]]'': in-depth news and analysis (Monday to Fridays at 07:10, 12:00, and 17:00)
+*''[[Correspondents Report]]'': in-depth news and analysis (Sundays at 07:10, repeated Mondays at 05:00)
+*''Asia Pacific'': current regional affairs in the Asia Pacific region, from ABC Radio Australia (Tuesday to Saturday at 00:05 and 05:00)
+
+====News and analysis====
+*''[[Radio National Breakfast|Breakfast]]'': "comprehensive coverage and analysis of national and international events - serious, fun, topical and diverse" hosted by [[Fran Kelly]] (Mondays–Fridays, 06:00 to 09:00; includes ''AM'' at 07:10)
+*''RN Drive'': "With fresh perspectives and intelligent analysis ''RN Drive'' goes behind the headlines to bring you original insights into major stories and events." Hosted by Patricia Karvelas  (Mondays–Fridays, 18:00 to 19:30)
+*''[[Bush Telegraph]]'': "an entertaining look at rural and regional issues around Australia" (Mondays–Fridays 11:00) ended in 2014
+*''Background Briefing'' ABC Radio's agenda-setting current affairs investigative program (Sundays 09:00 repeated Tuesdays 19:00, Wednesdays 04:00)
+*''[[Counterpoint (Radio National)|Counterpoint]]'' hosted by [[Amanda Vanstone]] (Mondays 16:00, repeated Fridays 13:00)
+*''The Health Report'': appealing to "both specialist and mainstream audiences by applying a broad definition of health, and seeing health and medicine within social, scientific and political contexts" and hosted by Dr [[Norman Swan]] (Mondays 08:30, repeated Tuesdays 00:30)
+*''The Law Report'': "Breaking legal stories across Australia and overseas, analysing law reform, legal education, test cases, miscarriages of justice and examining legal culture" (Mondays 17:30, repeated Tuesdays 05:30)
+*''[[Life Matters]]'', a "guide to a better life for you, those you love and the place you call home" (Mondays–Fridays 09:00 and repeated the following morning at 04:00)
+*''[[Late Night Live]]'', hosted by [[Phillip Adams]] (Mondays–Thursdays 22:00–23:00 and repeated the following afternoon at 16:00)
+
+=== Arts and music ===
+::''Note that most of these programmes have been shut down in 2017''
+*''Poetica'': poetry featured and produced for radio (Saturdays 15:00, repeated Thursdays 15:00) Canceled 2014 
+*''The Live Set'': live music performances (Fridays 20:00 repeated Sundays 16:00) Canceled 
+*''The Music Show'': started in 1991 as ''In Tempo 91'' with presenter [[Andrew Ford (composer)|Andrew Ford]]. Latest developments in music, featured music and interviews with performers/composers (Saturdays 10:00–12:00 and 20:00–22:00)
+*''[[Sound Quality (radio program)|Sound Quality]]'': latest new music in the genre of electronica and others hosted by [[Tim Ritchie]], former [[Triple J|JJJ]] announcer and DJ (Fridays 23:00) Canceled 
+*''The Daily Planet'' : "a unique window into the world's diverse, traditional and innovative musics ... Good players don't put music into little boxes, so we don't either" Presented by Lucky Oceans (Mondays–Thursdays 23:00-12:00) Canceled 
+*''The Weekend Planet'': Ranges across the world’s most eloquent, individual, intimate, inventive beautiful music. Each edition is highly diverse, but has a particular focus. Surprising connections abound. Amazingly rich playlists. Presented by Doug Spencer (Saturdays and Sundays 22:00)(Show terminated 25/Jan/2015 following Govt mandated cutbacks)
+*''Books and Arts Daily'': Interviews with writers, critics, artists, performers and musicians from Australia and around the world, presented by Michael Cathcart (Monday to Fridays 10:00)
+*''Into the Music'': Exploring and celebrating all aspects of music. Ranging across the history of music, the lives and experiences of musicians and the practices of music-making. Presented by Sarah Kanowski as part of ''Weekend Arts'' (Saturdays 16:05) Canceled 
+*''By Design'': Exploring design to make life easier and more interesting Canceled -in part replaced by Blueprint for Living 
+*''Blueprint For Living''  a weekly rummage through the essential cultural ingredients—design, architecture, food, travel, fashion—for a good life
+*''Weekend Arts'': Conversations on writing, poetry, performance, visual art & film, presented by Sarah Kanowski (Monday to Fridays 10:00)
+
+===Religion===
+Radio National's religion unit provides reporting and analysis on religious and ethical issues for Australia. Following its ABC charter obligations, this unit forms a key part of the ABC's religion output, and is unique in providing the independent analysis of a public broadcaster.<ref name="abcreligion">{{cite web|title=ABC Religion|url=http://abc.net.au/religion/default.htm|website=abc.net.au|publisher=[[Australian Broadcasting Corporation]]|accessdate=12 February 2016}}</ref>
+*''Encounter'': "a radio documentary series exploring connections between religion and life" (Sundays 07:10, repeated Wednesdays 19:00) Cancelled
+*''Religion and Ethics Report'': "a weekly window into the world of religious affairs and ethical issues in Australia and around the globe" (Wednesday 17:30, repeated Thursdays 05.30 and Friday 11:00)<ref>{{cite web|url = http://www.abc.net.au/radionational/programs/religionandethicsreport/about/|title = Religion and Ethics Report &ndash; About Us|year = 2018|accessdate = 1 August 2018|publisher = Radio National, [[Australian Broadcasting Commission]]}}</ref>
+*''The Rhythm Divine'' : "a musical journey through the world of belief" (Fridays 21:00, repeated Sundays 05:00)
+*''The Spirit Of Things'': "an adventure into religion and spirituality, exploring contemporary values and beliefs" (Sundays 18:00, repeated Tuesdays 13:00 and Wednesdays 02:00)
+
+=== Society and culture ===
+*''All In The Mind'' presented by Lynne Malcolm, investigates the mental universe, the mind, brain and behaviour (Sundays 17:00, Mondays 13:00), in three-month seasons with  ''The Body Sphere''
+*''The Body Sphere'' presented by Amanda Smith, investigates the mental universe, the mind, brain and behaviour (Sundays 17:00, Mondays 13:00), in three-month seasons with ''All In The Mind''
+*''360documentaries'': "the best radio features and documentaries from Australia and around the world" (Sundays 10:00, repeated Fridays 14:00)
+*''[[Big Ideas (Australia)|Big Ideas]]'' deals with concepts of global importance (Mondays to Thursdays 20:00)
+*''[[The Philosopher's Zone]]'': your guide through the strange thickets of logic, metaphysics and ethics, presented by Joe Gelonesi. (Sundays 17:35, Mondays 13:35)
+*''The Minefield'': a guide through the ethical and moral minefield of modern life Wednesdays 11:30 hosted by [[Waleed Aly]] and Scott Stephens
+
+=== Science ===
+*''The Science Show'': recent developments in the field of science, presented by [[Robyn Williams]] (Saturdays 12:10–13:00, repeated Mondays 19:10–20:00, Tuesdays 4:00)
+*''[[The Naked Scientists]]'': is a round up of breaking science news and themed episodes exploring key issues in science, presented by [[Chris Smith (doctor)|"Naked Scientist" Dr Chris Smith]] (Fridays at 22:10-23:00, repeated Sundays 04:10-05:00)
+*''[[William of Ockam|Ockham]]'s Razor'': a weekly opinion piece presented by Robyn Williams (Sundays 7:45)*
+*''All In The Mind'' presented by Lynne Malcolm, investigates the mental universe, the mind, brain and behaviour (Sundays 17:00, Mondays 13:00), in three-month seasons with  ''The Body Sphere''
+
+==2008 program schedule controversy==
+In 2008, controversial programming changes once more raised the issue of funding cuts to the public broadcaster.<ref>{{cite web|url=http://theland.farmonline.com.au/news/metro/national/general/abc-flagship-radio-shows-axed/1334972.aspx|title=ABC flagship radio shows axed|work=Land|publisher=Farm Online|date=16 October 2008|accessdate=1 April 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110706103944/http://theland.farmonline.com.au/news/metro/national/general/abc-flagship-radio-shows-axed/1334972.aspx|archivedate=6 July 2011|df=dmy}}</ref><ref>{{cite web|url=http://www.canberratimes.com.au/news/local/news/general/anger-as-abc-axes-specialist-programs-from-radio-national/1335009.aspx|title=Anger as ABC axes specialist programs from Radio National|work=Canberra Times|publisher=Fairfax|date=16 October 2008|accessdate=1 April 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20111004151524/http://www.canberratimes.com.au/news/local/news/general/anger-as-abc-axes-specialist-programs-from-radio-national/1335009.aspx|archivedate=4 October 2011|df=dmy-all}}</ref><ref>{{cite web|url=http://www.abc.net.au/news/stories/2008/10/15/2392185.htm|title=Programs axed amid Radio National reshuffle|work=ABC News|publisher=ABC|date=15 October 2008|accessdate=1 April 2011}}</ref><ref>[http://www.abc.net.au/services/podcasting/subject_Religion.htm] {{webarchive|url=https://web.archive.org/web/20081102060818/http://www.abc.net.au/services/podcasting/subject_Religion.htm|date=2 November 2008}}</ref> Presenter [[Stephen Crittenden]] leaked confidential Radio National programming changes in an unscheduled live broadcast before the start of his show, vehemently criticising his superiors.<ref>[http://mpegmedia.abc.net.au/rn/podcast/current/audioonly/rrt_20081015.mp3]{{dead link|date=April 2011}}</ref> {{Wikiquote|Epitaphs|"... spells the death of religion at the ABC."}} Stephen Crittenden was suspended for his outburst, amid criticism from some colleagues for his unprofessionalism and praise from others for his outspokeness.<ref>[http://www.news.com.au/entertainment/story/0,26278,24526865-10388,00.html]  {{webarchive|url=https://web.archive.org/web/20081022082408/http://www.news.com.au/entertainment/story/0%2C26278%2C24526865-10388%2C00.html |date=22 October 2008 }}</ref> His unscripted comments were cut from Radio National's podcast and transcript of the program, but the subsequent comment by religious commentator Paul Collins on crikey.com reiterated Crittenden's fears.<ref>{{cite web|url=http://www.crikey.com.au/Media-Arts-and-Sports/20081015-What-are-they-doing-to-Radio-National-God-help-us.html?source=kwoff|archive-url=https://archive.is/20120904041900/http://www.crikey.com.au/Media-Arts-and-Sports/20081015-What-are-they-doing-to-Radio-National-God-help-us.html?source=kwoff|dead-url=yes|archive-date=4 September 2012|title=What are they doing to Radio National? God help us!|publisher=Crikey|date=15 October 2008|accessdate=1 April 2011}}</ref> Crittenden was eventually reinstated as a reporter in the flagship investigative program ''Background Briefing'' after an independent investigation resulted in a confidential settlement with the presenter.<ref>{{cite news|url=http://blogs.theaustralian.news.com.au/mediadiary/index.php/australianmedia/comments/religion_reporter_stephen_crittenden_still_on_air_but_not_live/|title=The Australian|access-date=8 February 2016|archive-url=https://web.archive.org/web/20090503155054/http://blogs.theaustralian.news.com.au/mediadiary/index.php/australianmedia/comments/religion_reporter_stephen_crittenden_still_on_air_but_not_live|archive-date=3 May 2009|dead-url=yes|df=dmy-all}}</ref> However his program, and the other eight cancelled or merged were not re-instated that year.
+
+Another casualty of the controversy was head of ABC Radio [[Sue Howard]], who was dismissed in 2009, partly for the perception that the controversy was mishandled.<ref>{{cite web|first=Margaret|last=Simons|url=http://www.crikey.com.au/Media-Arts-and-Sports/20081217-Sue-Howard.html|title=Goodbye Sue Howard, hello ABC restructure?|publisher=Crikey|date=17 December 2008|accessdate=1 April 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20081222064854/http://www.crikey.com.au/Media-Arts-and-Sports/20081217-Sue-Howard.html|archivedate=22 December 2008|df=dmy-all}}</ref>
+
+Eventually in 2012 a new Religion and Ethics report was re-launched, hosted by [[Andrew West (broadcaster)|Andrew West]]. The Media Report was also relaunched, hosted by veteran broadcaster and former Life Matters host [[Richard Aedy]].<ref>{{cite web|url=http://www.abc.net.au/radionational/features/2012-lineup/3686336|title=Radio National announces new 2012 lineup|publisher=Radio National|date=23 January 2012|accessdate=17 July 2012|archive-url=https://web.archive.org/web/20120726081229/http://www.abc.net.au/radionational/features/2012-lineup/3686336|archive-date=26 July 2012|dead-url=yes|df=dmy-all}}</ref> The Media Report was however canceled again in 2015.<ref>{{cite news|title=The Weekly Beast: ABC Radio National dumps Richard Aedy's Media Report|url=https://www.theguardian.com/media/2015/nov/19/the-weekly-beast-abc-radio-national-dumps-richard-aedys-media-report|accessdate=5 March 2017|work=The Guardian|date=19 November 2015}}</ref>
+
+==2017 Music programme and staff removal==
+In late 2016, the new head of the ABC, [[Michelle Guthrie]], defended the removal of staff and programmes from the Radio National 2017 schedule.<ref>{{cite web|url=https://www.theguardian.com/media/2016/dec/09/jaws-drop-at-abc-as-michelle-guthrie-defends-radio-national-cuts|title=Jaws drop at ABC as Michelle Guthrie defends Radio National cuts - Weekly Beast|first=Amanda|last=Meade|date=8 December 2016|website=the Guardian}}</ref><ref>{{cite web|url=https://www.theguardian.com/media/2016/nov/16/radio-national-to-lose-eight-staff-as-abc-cuts-several-programs-from-2017-schedule|title=Radio National to lose eight staff as ABC cuts several programs from 2017 schedule|first=Amanda|last=Meade|date=15 November 2016|website=the Guardian}}</ref><ref>{{cite web|url=https://www.theguardian.com/media/2016/dec/07/abc-board-demands-director-of-radio-explain-radio-national-cuts|title=ABC board demands director of radio explain Radio National cuts|first=Amanda|last=Meade|date=7 December 2016|website=the Guardian}}</ref>
+
+==See also==
+*[[List of radio stations in Australia]]
+*[[Radio New Zealand National]]
+*[[Timeline of Australian radio]]
+*[[BBC Radio 4]]
+*[[Bald Hills Radiator]], ABC's AM radio transmission centre in Brisbane
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://abc.net.au/rn ABC Radio National]
+*[http://www.abc.net.au/radionational/frequency/ Frequencies] from Radio National
+*[https://web.archive.org/web/20090810061559/http://www.pool.org.au/ Pool], Radio National's collaborative media space
+*Visit the [[National Film and Sound Archive]]'s [http://nfsa.gov.au/collection/radio/women-in-radio/ Women in Radio] collection for more information about the history of women in radio in Australia.
+
+{{Australian Broadcasting Corporation}}
+{{ABC Radio and Regional Content}}
+{{National radio networks in Australia}}
+
+[[Category:Australian Broadcasting Corporation radio]]
+[[Category:Australian radio networks]]
+[[Category:News and talk radio stations in Australia]]
+[[Category:Public radio in Australia]]
+[[Category:Radio stations established in 1923]]

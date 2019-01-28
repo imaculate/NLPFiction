@@ -1,0 +1,797 @@
+{{Other uses|Charleston (disambiguation)}}
+{{distinguish|Charleston, West Virginia|North Charleston, South Carolina}}
+{{pp-move-vandalism|small=yes}}
+{{pp-move-indef}}
+
+{{Use mdy dates|date=July 2013}}
+{{Infobox settlement
+|name                     = Charleston, South Carolina
+|official_name            = City of Charleston
+|motto                    = ''Ædes Mores Juraque Curat'' ([[Latin]] for {{nowrap|"She Guards Her Temples, Customs, and Laws"){{efn|The female figure is sometimes glossed as [[Athena]],<ref>{{citation |title=Charleston Footprints |contribution=Enlightening Latin |contribution-url=http://www.charlestonfootprints.com/charleston-blog/enlightening-latin/2014/01/28/ |url=http://www.charlestonfootprints.com |date=28 January 2014 |last=Trouche |first=Michael}}</ref> although the official explanation is that she is a [[personification]] of Charleston itself.<ref name=seal>{{citation |last=Schultz |first=Rebecca |contribution=The Seal of the City of Charleston |contribution-url=http://www.charleston-sc.gov/DocumentCenter/View/4251 |title=''Official website'' |publisher=City of Charleston |url=http://www.charleston-sc.gov}}</ref> Similarly, although ''{{lang|la|{{linktext|aedes}}}}'' properly refers to temples and originally referred to the churches depicted on the seal, the official gloss is that it intends the city's "buildings".}}}}
+|settlement_type          = [[City]]
+|nickname                 = "The Holy City"<ref>{{cite web|title=Why is Charleston Called the Holy City?|url=http://www.ahoycharleston.com/why-is-charleston-called-the-holy-city/|website=Ahoy Charleston|publisher=Charleston Harbor Tours|accessdate=28 February 2017}}</ref>
+|named_for                = [[Charles II of England]]
+|imagesize = 300px
+|image_caption            = <small>Clockwise from top-left: Rainbow Row, Arthur Ravenel Jr. Bridge, cobblestone street, McLeod Plantation, battery, Fort Sumter </small>
+|image_skyline            = File:Charleston SC Collage-1.jpg 
+|image_flag               = Flag of Charleston, South Carolina.svg
+|image_seal               = CharlestonSCseal.png
+|pushpin_map              = South Carolina#USA
+|pushpin_label            = Charleston
+|mapsize                  = 250px
+|pushpin_map_caption      = Location within South Carolina##Location within the United States
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type2        = [[U.S. state|State]]
+|subdivision_name2        = [[South Carolina]]
+|subdivision_type3        = [[Colony|Historic colony]]
+|subdivision_name3        = [[Province of South Carolina|Colony of South Carolina]]
+|subdivision_type4        = [[List of counties in South Carolina|Counties]]
+|subdivision_name4        = [[Charleston County, South Carolina|Charleston]], [[Berkeley County, South Carolina|Berkeley]]
+|government_type  =[[Mayor–council]]
+|leader_party             = [[independent (United States)|I]]
+|leader_title             = [[List of mayors of Charleston, South Carolina|Mayor]]
+|leader_name              = [[John Tecklenburg]]
+|established_date         = 1670
+|area_total_km2           = 330.2
+|area_land_km2            = 282.3
+|area_water_km2           = 47.9
+|area_water_percent       = 14.51
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 134875
+|pop_est_as_of            = 2017
+|population_total         = 120083
+|population_rank          = SC: [[List of cities and towns in South Carolina|1st]]; US: [[List of United States cities by population|198th]]
+|population_density_km2   = 444.9
+|population_urban         = 548,404 (US: [[List of United States urban areas|76th]])
+|population_blank1_title  = [[List of metropolitan areas of the United States|MSA]] (2015)
+|population_blank1        = 744,526 (US: [[List of Metropolitan Statistical Areas|75th]])
+|population_blank2_title  = [[Demonym]]
+|population_blank2        = Charlestonian
+|timezone                 = [[Eastern Time Zone|EST]]
+|utc_offset               = -5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST           = -4
+|postal_code_type         = [[ZIP code|ZIP code(s)]]
+|postal_code              = 29401, 29403, 29405, 29407, 29409, 29412, 29414, 29424, 29425, 29455, 29492
+|area_code                = [[Area codes 843 and 854|843 and 854]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|elevation_m              = 6
+|elevation_ft             = 20
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 45-13330
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1221516<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=October 1, 2016|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.charleston-sc.gov}}
+|coordinates              = {{coord|32|47|00|N|79|56|00|W|region:US-SC|display=inline,title}}
+}}
+
+[[File:Charleston, SC, waterfront IMG 4553.JPG|upright=0.9|right|thumb|The downtown Charleston waterfront on [[The Battery (Charleston)|The Battery]]]]
+'''Charleston''' is the oldest and largest city in the [[U.S. state]] of [[South Carolina]], the [[county seat]] of [[Charleston County, South Carolina|Charleston County]],<ref name="GR6">{{cite web|url=http://www.naco.org/Counties/Pages/FindACounty.aspx |accessdate=2011-06-07 |title=Find a County |publisher=National Association of Counties |deadurl=yes |archiveurl=https://web.archive.org/web/20110531210815/http://www.naco.org/Counties/Pages/FindACounty.aspx |archivedate=May 31, 2011 |df=mdy }}</ref> and the principal city in the [[Charleston-North Charleston-Summerville, SC MSA|Charleston–North Charleston–Summerville Metropolitan Statistical Area]].<ref>As defined by the U.S. Office of Management and Budget, for use by the U.S. Census Bureau for statistical purposes only.</ref> The city lies just south of the geographical midpoint of South Carolina's coastline and is located on [[Charleston Harbor]], an inlet of the Atlantic Ocean formed by the confluence of the [[Ashley River (South Carolina)|Ashley]], [[Cooper River (South Carolina)|Cooper]], and [[Wando River|Wando]] rivers. Charleston had an estimated population of 134,875 in 2017.<ref name="CensusCity">{{cite web|title=Charleston city, South Carolina|url=https://www.census.gov/quickfacts/table/PST045215/4513330|publisher=[[United States Census Bureau]]|accessdate=October 1, 2016}}</ref> The estimated population of the Charleston metropolitan area, comprising [[Berkeley County, South Carolina|Berkeley]], [[Charleston County, South Carolina|Charleston]], and [[Dorchester County, South Carolina|Dorchester]] counties, was 761,155 residents in 2016, the third-largest in the state and the [[List of primary statistical areas of the United States|78th-largest metropolitan statistical area]] in the United States.
+
+Charleston was founded in 1670 as Charles Town, honoring [[Charles II of England|King Charles{{nbsp}}II]] of [[kingdom of England|England]]. Its initial location at Albemarle Point on the west bank of the Ashley River (now [[Charles Towne Landing]]) was abandoned in 1680 for its present site, which became the fifth-largest city in [[British North America|North America]] within ten years. Despite its size, it remained [[Municipal corporation|unincorporated]] throughout the colonial period; its government was handled directly by a colonial legislature and a governor sent by London. Election districts were organized according to [[Anglicanism|Anglican]] parishes, and some social services were managed by Anglican wardens and vestries. Charleston adopted its present spelling with its incorporation as a [[City (United States)|city]] in 1783 at the close of the [[American Revolution|Revolutionary War]]. Population growth in the interior of South Carolina influenced the removal of the state government to [[Columbia, South Carolina|Columbia]] in 1788, but the port city remained among the ten largest cities in the United States through the [[1840 U.S. Census|1840 census]].<ref>{{cite web|url=https://www.census.gov/population/documentation/twps0027/tab07.txt|title=Population of the 100 Largest Urban Places: 1840|deadurl=yes|archiveurl=https://web.archive.org/web/20080420110123/http://www.census.gov/population/documentation/twps0027/tab07.txt|archivedate=April 20, 2008|df=mdy-all}}</ref> Historians estimate that "nearly half of all Africans brought to America arrived in Charleston", most at Gadsden's Wharf.<ref>[https://www.nytimes.com/2018/03/28/arts/charleston-international-african-american-museum.html Michael Kimmelman, "Charleston Needs That African American Museum. And Now."], ''New York Times'', 29 March 2018; accessed 29 March 2018</ref> The only major antebellum American city to have a majority-[[Slavery in the United States|enslaved]] population, Charleston was controlled by an oligarchy of white [[planter (American South)|planters]] and merchants who successfully forced the [[United States government|federal government]] to revise its [[Tariff of Abominations|1828]] and [[Tariff of 1832|1832 tariffs]] during the [[Nullification Crisis]] and launched the [[American Civil War|Civil War]] in 1861 by seizing [[Charleston Arsenal|the Arsenal]], [[Castle Pinckney]], and [[Battle of Fort Sumter|Fort Sumter]] from their federal garrisons.
+
+Known for its rich history, well-preserved architecture, distinguished restaurants, and hospitable people, Charleston is a popular tourist destination. It has received numerous accolades, including "America's Most Friendly [City]" by ''[[Travel + Leisure]]'' in 2011 and in 2013 and 2014 by ''[[Condé Nast Traveler]]'',<ref>{{cite news|url=http://www.cnn.com/2013/08/07/travel/unfriendly-cities/index.html?sr=fb080713unfriendlycity1p|title=Which are the world's friendliest and unfriendliest cities?|accessdate=2013-08-07 |work=CNN}}</ref><ref>{{cite web|title=What are the world's friendliest/unfriendliest cities?|url=http://www.cntraveler.com/daily-traveler/2014/08/the-2014-friendliest-and-unfriendliest-cities-in-the-world|website=CNN}}</ref> and also "the most polite and hospitable city in America" by ''[[Southern Living]]'' magazine.<ref>{{cite web|url=https://books.google.com/books?id=vTURBAAAQBAJ&pg=PA64 |title=Another Ladies' Night |author=|date=|work=google.al|accessdate=September 4, 2015}}</ref> In 2016, Charleston was ranked the "World's Best City" by ''[[Travel + Leisure]]''.<ref>{{cite web|url=http://www.travelandleisure.com/worlds-best/cities#charleston |title=World’s Best Cities &#124; Travel + Leisure |website=Travelandleisure.com |date=2016-07-06 |accessdate=2017-05-30}}</ref>
+
+==Geography==
+[[File:Charlestonriversmap.png|right|thumb|Map showing the major rivers of Charleston and the Charleston Harbor watershed]]
+
+The city proper consists of six distinct districts.
+*'''Downtown''', or sometimes referred to as '''The Peninsula''', is Charleston's center city separated by the Ashley River to the west and the Cooper River to the east.
+*'''[[West Ashley]]''', residential area to the west of Downtown bordered by the Ashley River to the east and the Stono River to the west.
+*'''[[Johns Island, South Carolina|Johns Island]]''', far western limits of Charleston home to the [[Angel Oak]], bordered by the Stono River to the east, Kiawah River to the south and [[Wadmalaw Island]] to the west.
+*'''[[James Island (South Carolina)|James Island]]''', popular residential area between Downtown and the town of [[Folly Beach, South Carolina|Folly Beach]] where the [[McLeod Plantation]] is located.
+*'''Cainhoy Peninsula''', far eastern limits of Charleston bordered by the Wando River to the west and Nowell Creek to the east.
+*'''[[Daniel Island]]''', fast-growing residential area to the north of downtown, east of the Cooper River and west of the Wando River.
+
+===Topography===
+{{see also|Charleston Harbor}}
+The incorporated city fit into {{convert|4|-|5|sqmi|sp=us}} as late as the [[First World War]],{{sfnp|''EB''|1878|p=428}}{{sfnp|''EB''|1911|p=943}} but has since greatly expanded, crossing the [[Ashley River (South Carolina)|Ashley River]] and encompassing [[James Island (South Carolina)|James Island]] and some of [[Johns Island (South Carolina)|Johns Island]]. The city limits also have expanded across the Cooper River, encompassing [[Daniel Island]] and the [[Cainhoy]] area. The present city has a total area of {{convert|330.2|km2|order=flip}}, of which {{convert|282.2|km2|order=flip}} is land and {{convert|47.9|km2|order=flip}} is covered by water. [[North Charleston]] blocks any expansion up the peninsula, and [[Mt Pleasant, South Carolina|Mount Pleasant]] occupies the land directly east of the Cooper River.
+
+[[Charleston Harbor]] runs about {{convert|7|miles|sp=us|0}} southeast to the Atlantic with an average width of about {{convert|2|miles|sp=us}}, surrounded on all sides except its entrance. [[Sullivan's Island]] lies to the north of the entrance and [[Morris Island]] to the south. The entrance itself is about {{convert|1|mi|sp=us|0}} wide; it was originally only {{convert|18|ft|sp=us|0}} deep, but began to be enlarged in the 1870s.{{sfnp|''EB''|1878|p=428}} The tidal rivers ([[Wando River|Wando]], Cooper, [[Stono River|Stono]], and Ashley) are evidence of a [[Submergent coastline|submergent]] or drowned coastline. There is a submerged river delta off the mouth of the harbor and the Cooper River is deep.
+
+===Climate===
+[[File:Building wrecked by Hugo.jpg|upright=1.15|left|thumb|Damage left from [[Hurricane Hugo]] in 1989]]
+Charleston has a [[humid subtropical climate]] ([[Köppen climate classification]] ''Cfa''), with mild winters, hot, humid summers, and significant rainfall all year long. Summer is the wettest season; almost half of the annual rainfall occurs from June to September in the form of [[thundershower]]s. Fall remains relatively warm through the middle of November. Winter is short and mild, and is characterized by occasional rain. Measurable snow (≥{{convert|0.1|in|cm|abbr=on|disp=or}}) only occurs several times per decade at the most however freezing rain is more common; a snowfall/freezing rain event on January 3, 2018 was the first such event in Charleston since December 26, 2010.<ref name="NWS Charleston, SC (CHS)"/> However, {{convert|6.0|in|cm|abbr=on}} fell at the airport on December 23, 1989, the largest single-day fall on record, contributing to a single-storm and seasonal record of {{convert|8.0|in|cm|abbr=on}} snowfall.<ref name="NWS Charleston, SC (CHS)"/>
+
+The highest temperature recorded within city limits was {{convert|104|°F|0}} on June 2, 1985, and June 24, 1944, and the lowest was {{convert|7|°F|0}} on [[Great Blizzard of 1899|February 14, 1899]]. At the airport, where official records are kept, the historical range is {{convert|105|°F|0}} on August 1, 1999, down to {{convert|6|°F|0}} on [[January 1985 Arctic outbreak|January 21, 1985]].<ref name="NWS Charleston, SC (CHS)"/> Hurricanes are a major threat to the area during the summer and early fall, with several severe hurricanes hitting the area—most notably [[Hurricane Hugo]] on September 21, 1989 (a [[Saffir-Simpson hurricane scale|category 4]] storm). The dewpoint in June to August ranges from {{convert|19.9|to|21.9|°C|1|order=flip}}.<ref name="WMO 1961–90 KCHS"/>
+
+{{Charleston, South Carolina weatherbox|collapsed=Y}}
+
+===Metropolitan Statistical Area===
+The [[Charleston, South Carolina metropolitan area|Charleston–North Charleston–Summerville Metropolitan Statistical Area]] consists of three counties: [[Charleston County, South Carolina|Charleston]], [[Berkeley County, South Carolina|Berkeley]], and [[Dorchester County, South Carolina|Dorchester]]. As of the 2013 U.S. Census, the metropolitan statistical area had a total population of 712,239 people. [[North Charleston, South Carolina|North Charleston]] is the second-largest city in the Charleston–North Charleston–Summerville Metropolitan Statistical Area and ranks as the third-largest city in the state; [[Mount Pleasant, South Carolina|Mount Pleasant]] and [[Summerville, South Carolina|Summerville]] are the next-largest cities. These cities combined with other incorporated and unincorporated areas along with the city of Charleston form the [[United States Urban Areas & Urban Clusters|Charleston-North Charleston Urban Area]] with a population of 548,404 {{As of|2010|lc=y}}.<ref>{{cite web|url=https://www.census.gov/geo/www/ua/ua2k.txt |title=List of Populations of Urbanized Areas |publisher=U.S. Census Bureau |deadurl=yes |archiveurl=https://www.webcitation.org/68OJFtype?url=http://www.census.gov/geo/www/ua/ua2k.txt |archivedate=June 13, 2012 |accessdate=2012-06-13 |df=mdy }}</ref> The metropolitan statistical area also includes a separate and much smaller urban area within Berkeley County, [[Moncks Corner, South Carolina|Moncks Corner]] (with a 2000 population of 9,123).
+
+The traditional parish system persisted until the [[Reconstruction Era]], when counties were imposed.{{citation needed|date=July 2015}} Nevertheless, traditional parishes still exist in various capacities, mainly as public service districts. When the city of Charleston was formed, it was defined by the limits of the Parish of St. Philip and St. Michael, now also includes parts of St. James' Parish, St. George's Parish, St. Andrew's Parish, and St. John's Parish, although the last two are mostly still incorporated rural parishes.
+
+==History==
+[[File:Pink-house-charleston-sc1.jpg|thumb|upright=0.9|[[Pink House (Charleston, South Carolina)|The Pink House]], the oldest stone building in Charleston, was built of Bermudian limestone at 17 Chalmers Street, between 1694 and 1712]]
+{{Main|History of Charleston, South Carolina|Timeline of Charleston, South Carolina}}
+
+===Colonial era (1670–1786)===
+[[File:Indians NW of South Carolina.jpg|thumb|upright=0.9|A {{circa|lk=no|1724}} English copy of a [[Catawba people|Catawba]] map of the [[Indigenous peoples of the Southeastern Woodlands|tribes]] between "Charlestown" (''left'') and "[[Province of Virginia|Virginie]]" (''right'') following the displacements of a century of [[Population history of indigenous peoples of the Americas#Depopulation from disease|disease]], [[Slavery among the indigenous peoples of the Americas|enslavement]], and the 1715–7 [[Yamasee War]].]]
+After [[Charles II of England|Charles{{nbsp}}II]] was [[English Restoration|restored]] to the [[Monarchy of England|English throne]] in 1660, he granted the [[Colonial charters in the Thirteen Colonies|chartered]] [[Province of Carolina]] to eight of his loyal friends, known as the [[Lords Proprietors]], on March 24, 1663. It took seven years before the group arranged for settlement expeditions. In 1670, [[List of colonial governors of South Carolina|Governor]] [[William Sayle]] brought over several shiploads of settlers from [[Bermuda]], which lies due east of Charleston although closer to [[Cape Hatteras, North Carolina|Cape Hatteras]] in [[North Carolina]], and [[Barbados]] in the eastern Caribbean.<ref>{{cite web |url=http://www.carolana.com/Carolina/Settlement/barbadian_settlers.html |url-access= |title=Carolina - The Barbadian Settlers, et.al. |last=Lewis |first=J.D. |year=2007 |website=CAROLINA.COM |archive-url= |archive-date= |dead-url= |access-date=January 6, 2018 |quote=Charles Town and surrounding areas were first settled by folks from Barbados and Bermuda }}</ref><ref>{{cite web |url=https://www.oxfordbibliographies.com/view/document/obo-9780199730414/obo-9780199730414-0293.xml |url-access= |title=Barbados in the Atlantic World |last=Roberts |first=Justin |date=April 26, 2018 |orig-year= |publisher=Oxford University Press |doi=10.1093/OBO/9780199730414-0293 |doi-broken-date= |archive-url= |archive-date= |dead-url= |access-date=January 6, 2018 |quote= |ref= }}</ref> These settlers established Charles Town at Albemarle Point on the west bank of the Ashley River a few miles northwest of the present-day city center.{{sfnp|''EB''|1911|p=944}} Charles Town became English-speaking America's first comprehensively planned town with governance, settlement, and development to follow a visionary plan known as the [[Grand Model for the Province of Carolina|Grand Model]] prepared for the Lords Proprietors by [[John Locke]].<ref>Wilson, Thomas D. ''The Ashley Cooper Plan: The Founding of Carolina and the Origins of Southern Political Culture''. p. 12.</ref> Because the [[Fundamental Constitutions of Carolina|Carolina's Fundamental Constitutions]] was never ratified, however, Charles Town was never incorporated during the colonial period. The [[British Crown]] did not approve the one attempt to do so in the 1720s.<ref name=ed125/> Instead, [[local ordinance]]s were passed by the provincial government, with day-to-day administration handled by the [[Churchwarden|wardens]] and [[Vestry|vestries]] of [[St. Philip's Episcopal Church (Charleston, South Carolina)|St{{nbsp}}Philip's]] and [[St. Michael's Episcopal Church (Charleston, South Carolina)|St{{nbsp}}Michael's]] [[Anglican Communion|Anglican]] [[List of counties in South Carolina#Parishes|parishes]].{{sfnp|''EB''|1911|p=944}}<ref name=ed125/>
+
+At the time of contact, the area was inhabited by the [[Cusabo]] [[Indigenous peoples of the Southeastern Woodlands|Indians]]. The settlers declared war on them in October 1671. The Charlestonians initially allied with the [[Westo]], a slaving northern tribe that had grown powerful trading for guns with the colonists in [[Province of Virginia|Virginia]]. The Westo had made enemies of nearly every other tribe in the region, however, and the English turned on them in 1679. Destroying the Westo by 1680, the settlers were able to use their improved relations with the Cusabo and other tribes to trade, recapture [[runaway slaves]], and engage in slaving raids of [[Spanish Empire|Spanish]]-allied areas.<ref>{{citation |last=Gallay |first=Alan |date=2002 |title=The Indian Slave Trade: The Rise of the English Empire in the American South 1670–1717 |publisher=Yale University Press |location=New Haven |isbn=0-300-10193-7}}</ref>
+
+The [[Anthony Ashley Cooper, 1st Earl of Shaftesbury|Earl of Shaftesbury]], one of the Lords Proprietors, proclaimed that it would soon become a "great port towne".{{citation needed|date=October 2016}} Instead, the initial settlement quickly dwindled away and disappeared while another village—established by the settlers on Oyster Point at the confluence of the Ashley and Cooper Rivers around 1672{{sfnp|''EB''|1911|p=944}}—thrived; this settlement formally replaced the original Charles Town in 1680.{{sfnp|''EB''|1878|p=429}} (The original site is now commemorated as [[Charles Towne Landing]].) Not only was this location more defensible, but it also offered access to a fine natural harbor, which accommodated trade with the [[British West Indies|West Indies]]. The new town was the 5th-largest in North America by 1690.<ref>{{cite web|url=http://www.scottishritecalifornia.org/charleston_time_line.htm|title=Charleston Time Line|accessdate=9 July 2007|deadurl=yes|archiveurl=https://web.archive.org/web/20070806100339/http://www.scottishritecalifornia.org/charleston_time_line.htm|archivedate=August 6, 2007|df=mdy-all}}</ref> On Carolina's southern coast, transportation between the early communities by river and sea was so convenient that Charleston was the only [[court of law|court]] needed until the late 1750s,<ref name=ed125>{{harvp|Edgar|1998|p=[https://books.google.com/books?id=EFSbwGk2szgC&pg=PA125 125]}}</ref> but difficulty in transport and communications with the north meant its settlers were effectively independent of Charles Town as late as the governorship of [[Philip Ludwell]]; even then, the north was controlled through an appointed deputy governor. On December 7, 1710, the Lords Proprietors decided to separate the [[Province of North Carolina]] from Charles Town's government, although they continued to own and control both regions.
+
+A [[History of smallpox|smallpox]] outbreak hit in 1698, followed by an earthquake in February 1699 whose ensuing fire destroyed about a third of the town. During rebuilding,<ref>{{cite web|url=http://xroads.virginia.edu/~ma97/danforth/thesis/mainframe.html |title=A Charleston Love Story |website=Xroads.virginia.edu |date=2000-10-17 |accessdate=2017-05-30}}</ref> a [[yellow fever]] outbreak killed about 15% of the remaining inhabitants. Charles Town suffered between 5 and 8 major [[yellow fever]] outbreaks over the first half of the 18th century. It developed a deserved reputation as one of the least healthy locations in [[British North America]] for whites, although mistaken observations over the period led some doctors to think that blacks had a natural immunity to the disease. Both black and white locals appear to have developed a general immunity to the disease by 1750, with future outbreaks (lasting until 1871) tending to kill only new arrivals, prompting its local name as "stranger's fever".<ref>{{cite book |editor-last=Edgar |editor-first=Walter B. |last=McCandless |first=Peter |date=2006 |location=Columbia |publisher=University of South Carolina Press |url=http://charlestoncurrents.com/2016/04/history-yellow-fever/ |title=Yellow Fever}}</ref> [[Malaria]] — locally known as "country fever" since yellow fever was largely confined to Charles Town and the coast — was endemic. Although it did not have the high fatalities of yellow fever, it caused much illness and was also a major health problem through most of the city's history before dying out in the 1950s after use of pesticides.<ref>{{cite book |editor-last=Edgar |editor-first=Walter B. |last=McCandless |first=Peter |date=2006 |location=Columbia |publisher=University of South Carolina Press |url=http://charlestoncurrents.com/2015/03/malaria/ |title=Malaria}}</ref>
+
+[[File:CharlestonSC1733.jpg|thumb|left|upright=0.9|[[Herman Moll]]'s 1733 ''Town and Harbour of Charles Town in South Carolina'', showing the town's defensive walls.]]
+Charles Town was fortified according to a plan developed in 1704 under [[List of colonial governors of South Carolina|Governor]] [[Nathaniel Johnson (politician)|Nathaniel Johnson]]. The early settlement was often subject to attack from sea and land. Both [[Spanish Empire|Spain]] and [[French Colonial Empire|France]] contested England's claims to the region. [[Native Americans in the United States|Native Americans]] and [[pirate]]s both raided it, though the [[Yamasee War]] of the 1710s did not quite reach it.
+
+On September 5–6, 1713 (Julian) a violent Hurricane passed over Charles Town. The [[Circular Congregational Church]] manse was damaged during the storm in which church records were lost. Much of Charles Town was flooded as " the Ashley and Cooper rivers became one". At least seventy lives were lost. The storm was more sever to the North of Charles Town. This storm created a new inlet of [[Currituck County, North Carolina|Currituck]] five miles south of the existing one which later became the accepted dividing line border between North Carolina and Virginia.<ref>{{Cite web|url=http://www.circularchurch.org/history|title=A Brief History of the Circular Church|website=Circular Congregational Church|access-date=2018-11-14}}</ref><ref>{{Cite web|url=http://www.usdeadlyevents.com/1713-sep-16-17-hurricane-charleston-and-vicinity-south-carolina-70/|title=1713 — Sep 16-17, Hurricane, Charleston and vicinity, South Carolina — 70 – Deadliest American Disasters and Large-Loss-of-Life Events|website=www.usdeadlyevents.com|language=en-US|access-date=2018-11-14}}</ref>
+
+Charles Town was besieged by the pirate "[[Blackbeard]]" for several days in May 1718; his pirates plundered merchant ships and seized the passengers and crew of the ''Crowley''. Blackbeard released his hostages and left in exchange for a chest of medicine from [[Robert Johnson (governor)|Governor Robert Johnson]].<ref name="D. Moore. 1997 pp. 31">D. Moore. (1997) "A General History of Blackbeard the Pirate, the Queen Anne's Revenge and the Adventure". In Tributaries, Volume VII, 1997. pp. 31–35. (North Carolina Maritime History Council)</ref>
+
+Around 1719, the town's name began to be generally written Charlestown{{sfnp|''EB''|1911|p=944}} and, excepting those fronting the Cooper River, the old walls were largely removed over the next decade. Charlestown was a center for inland colonization of [[Province of South Carolina|South Carolina]], but remained the southernmost point of English settlement on the American mainland until the [[Province of Georgia]] was established in 1732. The first settlers primarily came from England and its colonies on [[Barbados]] and [[Bermuda]]. The latter planters brought African slaves with them who had been purchased in the islands. Early immigrants to the city included [[Huguenot|Protestant French]], Scottish, Irish, and Germans, as well as [[History of the Jews in Charleston, South Carolina|hundreds of Jews]], predominately [[Sephardi]] from England and the Netherlands.<ref name=ed61>{{harvp|Edgar|1998|p=[https://books.google.com/books?id=EFSbwGk2szgC&pg=PA61 61]}}</ref> As late as 1830, Charleston's Jewish community was the largest and wealthiest [[Judaism in the United States|in America]].<ref name=ed61/><ref>{{citation |contribution-url=http://www.harvardmagazine.com/on-line/0103137.html |contribution=A 'Portion of the People' |url=http://www.harvardmagazine.com |title=Harvard Magazine |publisher=Harvard University}}</ref> Because of the struggles of the [[English Reformation]] and particularly because the [[Papal States|papacy]] long recognized [[James II of England|James{{nbsp}}II]]'s [[James Francis Edward Stuart|son]] as the rightful [[king of England]], [[king of Scotland|Scotland]], and [[king of Ireland|Ireland]], [[Roman Catholicism in the United States of America|Roman Catholics]] were prohibited from settling in South Carolina throughout the colonial period. ([[Catholic emancipation]] did not proceed in earnest until after the onset of the [[American Revolution]].)
+
+By 1708, however, the majority of the colony's population were [[black African]]s. They had been brought to Charlestown on the [[Middle Passage]], first as "servants" and then as [[slavery in the United States|slave]]s. Of the estimated 400,000 Africans transported to North America for sale as slaves, 40% are thought to have landed at [[Sullivan's Island]] off Charlestown, a "hellish [[Ellis Island]] of sorts",{{citation needed|date=May 2018}} where they were held in a structure of {{convert|16|ft}} by {{convert|30|ft}} called the [[lazaretto]] or pest-house for a minimum of 10 days.<ref name=Ball>{{cite book
+|last=Ball
+|first=Edward
+|title=Slaves in the Family
+|publisher=[[Farrar, Straus and Giroux]]
+|year=2014
+|isbn=9780374534455}}</ref>{{rp|89}} This structure was demolished at the end of the 18th century.<ref name=Ball />{{rp|89}} As there is no official monument, the writer [[Toni Morrison]] organized a privately funded commemorative bench.<ref name="egerton">[https://www.nytimes.com/2014/02/26/opinion/abolitionist-or-terrorist.html?_r=1 Douglas Egerton, Opinion: "Abolitionist or Terrorist?"], ''[[The New York Times]]'', 25 February 2014, accessed 5 November 2014</ref> The [[Kongo people|Bakongo]], [[Ambundu|Mbundu]], [[Wolof (people)|Wolof]], [[Mende people|Mende]], and [[Malinke]] peoples formed the largest groups of Africans brought through here.<ref>[http://www.yale.edu/glc/gullah/02.htm Joseph A. Opala] {{webarchive|url=https://web.archive.org/web/20140904032047/http://www.yale.edu/glc/gullah/02.htm |date=September 4, 2014 }}; ''The Gullah People and Their African Heritage'' by William S. Pollizer, pp. 32–33</ref> [[Free people of color]] also arrived from the [[West Indies]], where wealthy whites took black consorts and color lines were (especially early on) looser among the working class.<ref name="johnson">{{cite book|author1=Michael P. Johnson|author2=James L. Roark|title=Black Masters: A Free Family of Color in the Old South|url=https://books.google.com/books?id=n_rkAgAAQBAJ&pg=PA405|year=1986|publisher=W. W. Norton & Company|isbn=978-0-393-24548-6|page=405}}</ref> In 1767 Gadsden's Wharf was constructed at the city port on the Cooper River; it ultimately extended 840 feet and was able to accommodate six ships at a time. Many slaves were sold from here.<ref name="iaam">[https://iaamuseum.org/history/gadsdens-wharf/ History: Gadsden's Wharf], International African American Museum; accessed 29 March 2018</ref> Devoted to plantation agriculture, the state of South Carolina had a black majority from the colonial period until after the [[Great Migration (African American)|Great Migration]] of the early 20th century.
+
+[[File:CharlestonSC RainbowRow 500px.jpg|thumb|upright=0.9|[[Rainbow Row]]'s 13 houses along East Bay Street formed the commercial center of the town from the [[Colonial history of the United States|colonial period]] through the early 20th century.]]
+At the foundation of the town, the principal items of commerce were [[longleaf pine|pine]] [[timber]] and [[Pitch (resin)|pitch]] for [[Sailing ship|ships]] and [[Tobacco in the United States|tobacco]]. The early economy developed around the [[deerskin]] trade, in which colonists used alliances with the [[Cherokee]] and [[Muscogee|Creek]] peoples to secure the raw material used for Europeans' [[buckskin (leather)|buckskin]] pants, gloves, and bookbindings. Records show an average annual export of 54,000 skins for the years from 1699 to 1715. During the height of the trade from 1739 to 1761, {{convert|5,239,350|lb|abbr=on|sp=us}} of deerskin were exported through Charlestown, representing between 0.5–1.25 million deer.{{citation needed|date=October 2016}} To a lesser extent, [[beaver]] [[beaver pelt|pelts]] were also exported. At the same time, Indians were used to enslave one another. From 1680 to 1720, approximately 40,000 native men, women, and children were sold through the port, principally to the West Indies but also to [[Boston, MA|Boston]] and other cities in [[British North America]].<ref name=jpd>{{citation |contribution-url=http://ldhi.library.cofc.edu/exhibits/show/james_poyas_daybook_eighteenth/historical-context-settlement- |title=The James Poyas Daybook: An Account of a Charles Town Merchant, 1760–1765 |publisher=Lowcountry Digital History Initiative |url=http://ldhi.library.cofc.edu/exhibits/show/james_poyas_daybook_eighteenth/introduction |contribution=Settlement, Trade, and Conflicts in Colonial South Carolina}}</ref> The Lowcountry planters did not keep Indian slaves, considering them too prone to escape or revolt, and instead used the proceeds of their sale to purchase black African slaves for their own [[plantation]]s.<ref name=gisc>{{citation |contribution=The Great Indian Slave Caper |contribution-url=http://www.common-place-archives.org/vol-03/no-01/reviews/hall.shtml |title=Common-Place: The Interactive Journal of Early American Life |url=http://www.common-place.org |volume=[http://www.common-place-archives.org/vol-03/no-01/ Vol. III, No. 1] |date=October 2002 |publisher=American Antiquarian Society |location=[[Worcester, MA|Worcester]]}}</ref> The slaveraiding—and the European firearms it introduced—helped destabilize [[Spanish Empire|Spanish]] [[Spanish Florida|Florida]] and [[French colonial empire|French]] [[French Louisiana|Louisiana]] in the 1700s during the [[War of the Spanish Succession]].<ref name=gisc/> But it also provoked the [[Yamasee War]] of the 1710s that nearly destroyed the colony, after which they largely abandoned the Indian slave trade.<ref name=jpd/>
+
+The area's unsuitability for [[Tobacco in the United States|tobacco]] prompted the [[Lowcountry]] [[Planter (American South)|planters]] to experiment with other [[cash crop]]s. The profitability of growing rice led the planters to pay premiums for slaves from the "Rice Coast" who knew its cultivation; their descendants make up the [[Gullah]].<ref>{{citation |contribution-url=http://glc.yale.edu/sites/default/files/files/South%20Carolina%20Rice%20Plantations.pdf |contribution=South Carolina Rice Plantations |url=http://glc.yale.edu/gullah-rice-slavery-and-sierra-leone-american-connection |title=The Gullah: Rice, Slavery, and the Sierra Leone-American Connection |last=Opala |first=Joseph A. |publisher=Yale University Gilder Lehrman Center for the Study of Slavery, Resistance, and Abolition |location=New Haven |date=2016}}</ref> Slaves imported from the Caribbean showed the planter George Lucas's daughter Eliza how to raise and [[indigo dye|use]] [[Indigofera tinctoria|indigo]] for [[Natural dye|dyeing]] in 1747. Within three years, British subsidies and high demand had already made it a leading export.<ref>''The Gullah People and Their African Heritage'', by William S. Pollitzer; pp. 91–92.</ref>
+
+Throughout this period, the slaves were sold aboard the arriving ships or at ad hoc gatherings in town's taverns.<ref name=ed67/> Runaways and minor rebellions prompted the [[Security Act of 1739|1739 Security Act]] requiring all white men to carry weapons at all times (even to church on Sundays), but before it had fully taken effect, the Cato or [[Stono Rebellion]] broke out. The white community had recently been decimated by a [[malaria]] outbreak and the rebels killed about 25 white people before being stopped by the colonial militia; the rebellion resulted in whites killing 35 to 50 black people.<ref>{{cite book |editor-first=Ballard C. |editor-last=Campbell |editor-link=Ballard C. Campbell |title=Disasters, Accidents, and Crises in American History: A Reference Guide to the Nation's Most Catastrophic Events |year=2008 |publisher=Facts on File |location=New York |isbn=978-0-8160-6603-2 |pages=22–23 |first=Marjoleine |last=Kars |chapter=1739 – Stono Rebellion |chapterurl=https://books.google.com/books/?id=VitlO1mWxzAC&pg=PA1760 }}</ref><ref>{{cite book |first=Herbert |last=Aptheker |authorlink=Herbert Aptheker |title=American Negro Slave Revolts |year=1983 |origyear=1943 |edition=Fifth |publisher=International Publishers |location=New York |isbn=978-0-7178-0605-8 |pages=187–189 }}</ref>
+
+The planters attributed the violence to recently imported Africans and agreed to a 10-year moratorium on slave importation through Charlestown, relying on the communities they already possessed. The [[Negro Act of 1740|1740 Negro Act]] also tightened controls, requiring one white for every ten blacks on any plantation and banning slaves from assembling together, growing their own food, earning money, or learning to read. [[African drum|Drums]] were banned owing to Africans' use of them for signaling, although slaves continued to be permitted string and other instruments.{{sfnp|Diouf|1998|p=[https://books.google.com/books?id=2VGoAAAAQBAJ&pg=PA273 273]}} When the moratorium expired and Charlestown reopened to the slave trade in 1750, the memory of the Stono Rebellion meant that traders avoided purchasing slaves from the [[Kingdom of Congo|Congo]] and [[Portuguese Angola|Angola]].
+
+By the mid-18th century, Charlestown, described as "the Jerusalem of American slavery, its capital and center of faith",<ref name=Ball />{{rp|89}} was the hub of the Atlantic trade of England's [[southern colonies]]. Even with the decade-long moratorium, its customs processed around 40% of the African slaves brought to North America between 1700 and 1775.<ref name=ed67>{{harvp|Edgar|1998|p=[https://books.google.com/books?id=EFSbwGk2szgC&pg=PA67 67]}}</ref> and about half up until the end of the African trade. From 1767, many were sold from the newly constructed [[Gadsden's Wharf]], where six slave ships at a time could tie up. The [[Plantations in the American South|plantations]] and the [[Plantation economy|economy]] based on them made this the wealthiest city in [[British North America]]<ref>{{citation |contribution=Building Boom |contribution-url=https://books.google.com/books?id=G5VoBAAAQBAJ&pg=PT59 |p=[https://books.google.com/books?id=G5VoBAAAQBAJ&pg=PT59 59] |editor-last=Sullivan |editor-first=Mark |date=2015 |publisher=Fodor's Travel |title=Charleston, with Hilton Head and the Lowcountry, ''4th ed.'' |location=New York}}</ref> and the largest in population south of [[Philadelphia]]. In 1770, the city's 11,000 inhabitants—half slaves—made it the 4th-largest port after [[Boston, MA|Boston]], [[New York City|New York]], and Philadelphia. The elite used this wealth to create cultural and social development. America's first theater building was constructed here in 1736; it was later replaced by today's Dock Street Theater.{{citation needed|date=October 2016}} St{{nbsp}}Michael's was erected in 1753.{{sfnp|''EB''|1878|p=429}} Benevolent societies were formed by the [[Huguenot]]s, free people of color,{{efn|The Brown Fellowship Society, initially a [[burial society]], operated from 1790 to 1945.}} Germans, and Jews. The [[Charleston Library Society|Library Society]] was established in 1748 by well-born young men who wanted to share the financial cost to keep up with the scientific and philosophical issues of the day. This group also helped establish the town's [[College of Charleston|college]] in 1770, the first in the colony. Until it was acquired by the state university system in 1970, the [[College of Charleston]] was the oldest municipally supported college in the United States.
+
+===American Revolution (1776–1783)===
+[[File:CharlestownSC1780.jpg|thumb|left|upright=0.9|Charlestown and environs in 1780]]
+Delegates for the [[Continental Congress]] were elected in 1774, and South Carolina declared its independence from Britain on the steps of the [[Exchange and Provost|Exchange]]. 
+As part of the [[Southern theater of the American Revolutionary War|Southern theater]] of the [[American Revolution]], the British attacked the town in force three times,{{sfnp|''EB''|1878|p=429}} generally assuming that the settlement had a large base of [[Loyalist (American Revolution)|Loyalist]]s who would rally to their cause once given some military support.<ref>{{citation |title=Fusiliers |first=Mark |last=Urban}}</ref> The loyalty of the white southerners had largely been forfeited, however, by British legal cases (such as the 1772 [[Somerset v Stewart|Somerset case]] which marked the prohibition of slavery in [[England and Wales]]; a significant milestone in the [[Abolitionist]] struggle) and military tactics (such as [[Dunmore's Proclamation]] in 1775) that promised the emancipation of the planter's slaves; these efforts did however, unsurprisingly win the allegiance of thousands of [[Black Loyalists]].
+
+The [[Battle of Sullivan's Island]] saw the British fail to capture a partially constructed [[Fort Moultrie|palmetto palisade]] from [[William Moultrie|Col. Moultrie]]'s [[2nd South Carolina Regiment|militia regiment]] on June 28, 1776. The [[Liberty Flag]] used by Moultrie's men formed the basis of the later [[South Carolina flag]], and the victory's anniversary continues to be commemorated as [[Carolina Day]].
+
+Making the capture of Charlestown their chief priority, the British sent [[Henry Clinton (American War of Independence)|Gen. Clinton]], who began his [[siege of Charleston]] on April 1, 1780 with about 14,000 troops and 90 ships.{{sfnp|McCandless|2011|p=[https://books.google.com/books?id=NMrqxrLAHUgC&pg=PA89 89]}} Bombardment began on March 11. The rebels, led by Gen. [[Benjamin Lincoln]], had about 5,500 men and inadequate fortifications to repel the forces against them. After the British cut his supply lines and lines of retreat at the battles of [[Battle of Monck's Corner|Monck's Corner]] and [[Battle of Lenud's Ferry|Lenud's Ferry]], Lincoln's surrender on May 12 became the greatest [[List of American Revolutionary War battles|American defeat of the war]].{{citation needed|date=January 2017}}
+
+The British continued to hold Charlestown for over a year following [[Siege of Yorktown|their defeat at Yorktown]] in 1781, although they alienated local elites by refusing to restore full civil government. [[Nathanael Greene|General Nathanael Greene]] had entered the state after Cornwallis's [[Battle of Guilford Courthouse|pyrrhic victory]] at [[Guilford Courthouse]] and kept the area under a kind of siege. [[Alexander Leslie (British Army officer)|General Alexander Leslie]], commanding Charlestown, requested a truce in March 1782 to purchase food for his garrison and the town's inhabitants. Greene refused and formed a brigade under [[Mordecai Gist]] to oppose British forays. One such foray in August led to a [[Battle of the Combahee River|British victory]] at the [[Combahee River]], but Charlestown was finally evacuated in December 1782. Gen. Greene presented the leaders of the town with the [[Moultrie Flag]].
+
+From the summer of 1782, French planters fleeing the [[Haitian Revolution]] began arriving in the port with their slaves.{{sfnp|McCandless|2011|p=[https://books.google.com/books?id=NMrqxrLAHUgC&pg=PA80 80]}} The [[Yellow Fever Epidemic of 1793|major outbreak of yellow fever]] that occurred in [[Philadelphia, Pennsylvania|Philadelphia]] the next year probably spread there from an epidemic these refugees brought to Charleston, although it was not publicly reported at the time. Over the 19th century, the health officials and newspapers of the town came under repeated criticism from Northerners, fellow Southerners, and one another for covering up epidemics as long as possible in order to keep up the city's maritime traffic.<ref name=mcc116>{{harvp|McCandless|2011|p=[https://books.google.com/books?id=NMrqxrLAHUgC&pg=PA116 116 ff.]}}</ref> The distrust and mortal risk meant that between July and October each year communication nearly shut down between the city and the surrounding countryside, which was less susceptible to yellow fever.{{sfnp|McCandless|2011|p=[https://books.google.com/books?id=NMrqxrLAHUgC&pg=PA113 113]}}
+
+===Antebellum era (1783–1861)===
+[[File:Old-slave-mart-facade-sc1.jpg|thumb|Former German Fire Co. Engine House and [[Charleston Old Slave Mart|Old Slave Mart Museum]] built 1859, 8 & 6 Chalmers St., respectively]]
+[[File:Edmondston-Alston_with_carriage_tour.jpg|thumb|[[Edmondston-Alston House]] (built 1828) by the Battery with carriage tour]]
+[[File:Charlestonhome.jpg|thumb|Charleston home near [[the Battery (Charleston)|the Battery]]]]
+The spelling Charleston was adopted in 1783{{sfnp|''EB''|1878|p=429}}<ref>{{cite web|url=http://statelibrary.sc.libguides.com/sc-information/sc-counties#Charleston|title=SC Counties – South Carolina Information – LibGuides at South Carolina State Library|author=|date=|work=libguides.com|accessdate=September 4, 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20160225134258/http://statelibrary.sc.libguides.com/sc-information/sc-counties#Charleston|archivedate=February 25, 2016|df=mdy-all}}</ref> as part of the city's formal incorporation.{{sfnp|''EB''|1911|p=944}}
+
+Although [[Columbia, South Carolina|Columbia]] replaced it as the state capital in 1788, Charleston became even more prosperous as [[Eli Whitney]]'s 1793 invention of the [[cotton gin]] sped the processing of the crop over 50 times. The development made [[short-staple cotton]] profitable and opened the upland [[Piedmont (United States)|Piedmont]] region to slave-based cotton plantations, previously restricted to the Sea Islands and Lowcountry. [[United Kingdom of Great Britain and Ireland|Britain]]'s [[Industrial Revolution#Textile manufacture|Industrial Revolution]]—initially built upon its [[Textile industry#Industrial revolution|textile industry]]—took up the extra production ravenously and cotton became Charleston's major export commodity in the 19th century. The Bank of South Carolina, the second-oldest building in the nation to be constructed as a bank, was established in 1798. Branches of the [[First Bank of the United States|First]] and [[Second Bank of the United States]] were also located in Charleston in 1800 and 1817.
+
+Throughout the [[Antebellum South|Antebellum Period]], Charleston continued to be the only major American city with a majority-slave population.<ref name=macky28/>{{efn|[[Savannah, Georgia|Savannah]], [[Antebellum Georgia|Georgia]], and [[Richmond, Virginia|Richmond]], [[Antebellum Virginia|Virginia]], came closest, reaching 40% at times.<ref name=macky28>{{harvp|McInnis|2005|p=[https://books.google.com/books?id=a8g3CwAAQBAJ&pg=PA28 28]}}</ref>}} The city widespread use of slaves as workers was a frequent subject of writers and visitors: a merchant from Liverpool noted in 1834 that "almost all the working population are Negroes, all the servants, the carmen & porters, all the people who see at the stalls in Market, and most of the Journeymen in trades".<ref name=macky48>{{harvp|Thompson|2015|p=[https://books.google.com/books?id=Cs27BwAAQBAJ&pg=PP48 48]}}</ref> American traders had been prohibited from equipping the [[Atlantic slave trade]] [[Slave Trade Act of 1794|in 1794]] and all importation of slaves was banned [[Act Prohibiting Importation of Slaves|in 1808]], but American ships long refused to permit [[Blockade of Africa|British inspection]], and smuggling remained common. Much more important was the domestic slave trade, which boomed as the Deep South was developed in new cotton plantations. As a result of the trade, there was a forced migration of more than one million slaves from the Upper South to the Lower South in the antebellum years. During the early 19th century, the first dedicated slave markets were founded in Charleston, mostly near Chalmers & State streets.<ref name=ed67/> Many domestic slavers used Charleston as a port in what was called the coastwise trade, traveling to such ports as Mobile and New Orleans.
+
+Slave ownership was the primary marker of class and even the town's freedmen and [[free people of color]] typically kept slaves if they had the wealth to do so.<ref>Kroger, Larry Black. ''Slaveowners: Free Black Slave Masters in South Carolina, 1790–1860''. University of South Carolina Press, 1995.</ref> Visitors commonly remarked on the sheer number of blacks in Charleston and their seeming freedom of movement,<ref>{{harvp|Thompson|2015|p=[https://books.google.com/books?id=Cs27BwAAQBAJ&pg=PP49 49]}}</ref> though in fact—mindful of the [[Stono Rebellion]] and the [[Haitian Revolution|violent slave revolution]] that established [[Haiti]]—the whites closely regulated the behavior of both slaves and free people of color. Wages and hiring practices were fixed, identifying badges were sometimes required, and even work songs were sometimes censored.<ref>{{harvp|Thompson|2015|pp=[https://books.google.com/books?id=Cs27BwAAQBAJ&pg=PP49 49–50]}}</ref> Punishment was handled out of sight by the city's Work House, whose fees netting the municipal government thousands a year.<ref name=macky225>{{harvp|McInnis|2005|p=[https://books.google.com/books?id=a8g3CwAAQBAJ&pg=PA225 225 ff]}}</ref> In 1820, a state law mandated that each individual act of [[manumission|freeing a slave]] henceforth legislative approval, effectively halting the practice.<ref name=bernews/>
+
+The effects of slavery were pronounced on white society as well. The high cost of 19th-century slaves and their high rate of return combined to institute an oligarchic society controlled by about ninety interrelated families, where 4% of the free population controlled half of the wealth, and the lower half of the free population—unable to compete with owned or rented slaves—held no wealth at all.<ref name=macky28/> The white middle class was minimal: Charlestonians generally disparaged hard work as the lot of slaves.<ref name=macky29>{{harvp|McInnis|2005|p=[https://books.google.com/books?id=a8g3CwAAQBAJ&pg=PA29 29]}}</ref> All the slaveholders taken together held 82% of the city's wealth and almost all non-slaveholders were poor.<ref name=macky28/> [[Frederick Law Olmsted|Olmsted]] considered their civic elections "entirely contests of money and personal influence" and the oligarchs dominated civic planning:{{refn|[[Frederick Law Olmsted|Olmsted]],<ref>{{citation |last=Olmsted |first=Frederick Law |title=mcJourney in the Seaboard Slave States}}</ref> cited in McInnis.<ref name=macky28/>}} the lack of public parks and amenities was noted, as was the abundance of private gardens in the wealthy's walled estates.{{sfnp|''EB''|1878|p=428}}
+
+In the 1810s, the town's churches intensified their discrimination against their black parishioners, culminating in [[Bethel Methodist Church (Charleston, South Carolina)|Bethel Methodist]]'s 1817 construction of a [[hearse]] house over its black burial ground. 4,376 black Methodists joined [[Morris Brown]] in establishing [[Hampstead Church]], the [[African Methodist Episcopal]] church now known as [[Emanuel African Methodist Episcopal Church|Mother Emanuel]].<ref name=eame>{{citation |last=Curtis |first=Nancy C. |title=Black Heritage Sites: An African American Odyssey and Finder's Guide |url=https://books.google.com/books?id=Rk7NPRm_nB0C |contribution-url=https://books.google.com/books?id=Rk7NPRm_nB0C&pg=PA194 |contribution=Emanuel African Methodist Episcopal Church |publisher=[[American Library Association]] |year=1996 |isbn=978-0-838-90643-9 |location=Chicago |oclc=45885630}}</ref><ref name=longtrouble/> State and city laws prohibited black literacy, limited black worship to daylight hours, and required a majority of any church's parishioners be white. In June 1818, 140 black church members at Hampstead Church were arrested and eight of its leaders given fines and ten lashes; police raided the church again in 1820 and leaned on it in 1821.<ref name=longtrouble>{{citation |contribution=The Long, Troubled History of Charleston's Emanuel AME Church |contribution-url=https://newrepublic.com/article/122070/long-troubled-history-charlestons-emanuel-ame-church |title=The New Republic |date=18 June 2015 |issn=0028-6583 |first=Douglas R. |last=Egerton}}</ref>
+
+In 1822, members of the church, led by [[Denmark Vesey]], a lay preacher<ref name=longtrouble/> and carpenter who had bought his freedom after winning a lottery, planned an [[Denmark Vesey's Rebellion|uprising and escape]] to [[Haiti]]—initially for [[Bastille Day]]—that failed when one slave revealed the plot to his master.{{efn|A monument to Vesey as a freedom fighter was long opposed by Charleston's white community but was finally begun in 2010 after a compromise placed it in [[Hampton Park (Charleston)|Hampton Park]], out of the historic district and far from the original proposed site in [[Marion Square]].<ref name=bernews>{{citation |title=Bernews |url=http://bernews.com |contribution-url=http://bernews.com/2011/01/row-over-statue-to-bermudians-slave/ |contribution=Row over Statue to Bermudian's Slave |date=3 January 2011}}</ref>}} Over the next month, the city's intendant (mayor) [[James Hamilton Jr.]] organized a militia for regular patrols, initiated a secret and [[extrajudicial]] tribunal to investigate, and hanged 35 and exiled 35<ref name=longtrouble/> or 37 slaves to [[Spanish Empire|Spanish]] [[Spanish Cuba|Cuba]] for their involvement.<ref name=frazier>{{harvp|Frazier & al.|2016|p=[https://books.google.com/books?id=Z7o7CwAAQBAJ&pg=PA70 70]}}</ref> In a sign of Charleston's antipathy to [[Abolitionism in the United States|abolitionists]], a white co-conspirator pled for leniency from the court on the grounds that his involvement had been motivated only by greed and not by any sympathy with the slaves' cause.<ref>{{citation |last=Rubio |first=Philip |contribution=Though He Had a White Face, He Was a Negro in Heart: Examining the White Men Convicted of Supporting the 1822 Denmark Vesey Slave Insurrection |title=South Carolina Historical Magazine |date=January 2012 |volume=Vol. 113 |issue=No. 1 |pp=50–67}}</ref> Governor [[Thomas Bennett Jr.]] had pressed for more compassionate and Christian treatment of slaves but his own had been found involved Vesey's planned uprising. Hamilton was able to successfully campaign for more restrictions on both free and enslaved blacks: South Carolina required free black sailors to be imprisoned while their ships were in Charleston Harbor though international treaties eventually required the United States to quash the practice; free blacks were banned from returning to the state if they left for any reason;<ref name=road>{{citation |first=William H. |last=Freehling |title=The Road to Disunion: Secessionists at Bay 1776–1854 |location=Oxford |publisher=Oxford University Press |date=1990 |pp=253–70}}</ref> slaves were given a 9:15&nbsp;pm curfew; the city razed Hampstead Church to the ground<ref name=frazier/><ref name=road/> and erected a [[South Carolina State Arsenal|new arsenal]]. This structure later was the basis of [[The Citadel, The Military College of South Carolina|the Citadel]]'s first campus. The AME congregation built a new church but in 1834 the city banned it and all black worship services, following [[Nat Turner]]'s [[Nat Turner's slave rebellion|1831 rebellion]] in Virginia.<ref>{{citation |contribution='Mother Emanuel' A.M.E. Church History |contribution-url=http://www.emanuelamechurch.org/churchhistory.php |title=''Official website'' |location=Charleston |publisher=Emanuel African Methodist Episcopal Church |date=2016}}</ref> The estimated 10% of slaves who came to America as [[Islam in the United States|Muslims]]<ref>{{citation |last=Robertson |first=David M. |title=Denmark Vesey: The Buried Story of America's Largest Slave Rebellion and the Man who Led It |p=[https://books.google.com/books?id=c_98WSvh6s8C&pg=PA37 37] |url=https://books.google.com/books?id=c_98WSvh6s8C |publisher=Alfred A. Knopf |location=New York |date=1999|isbn=9780307483737 }}</ref> never had a separate [[mosque]]. Slaveholders sometimes provided them with beef rations in place of pork in recognition of religious traditions.<ref>{{citation |last=Diouf |first=Sylviane Anna |title=Servants of Allah: African Muslims Enslaved in the Americas |p=[https://books.google.com/books?id=2VGoAAAAQBAJ&pg=PA121 121] |url=https://books.google.com/books?id=2VGoAAAAQBAJ |location=New York |publisher=New York University Press |date=1998|isbn=9781479830510 }}</ref>
+
+In 1832, South Carolina passed an ordinance of [[Nullification (U.S. Constitution)|nullification]], a procedure by which a state could, in effect, repeal a federal law; it was directed against the most recent [[tariff]] acts. Soon, federal soldiers were dispensed to Charleston's forts, and five [[United States Coast Guard cutter]]s were detached to Charleston Harbor "to take possession of any vessel arriving from a foreign port, and defend her against any attempt to dispossess the Customs Officers of her custody until all the requirements of law have been complied with." This federal action became known as the Charleston incident. The state's politicians worked on a compromise law in Washington to gradually reduce the tariffs.<ref>{{cite book |last=Willoughby |first=Malcolm F. |authorlink = |title =The U.S. Coast Guard in World War II |publisher =[[United States Naval Institute]] |volume = |edition = |date =1957 |location =[[Annapolis, Maryland]] |page =4 |isbn =}}</ref>
+
+On 27 April 1838, a massive fire broke out around 9:00 in the evening. It raged until noon the next day, damaging over 1,000 buildings, a loss estimated at $3 million at the time. In efforts to put the fire out, all the water in the city pumps was used up. The fire ruined businesses, several churches, a new theater, and the entire market except for the fish section. Most famously, Charleston's Trinity Church was burned. Another important building that fell victim was the new hotel that had been recently built. Many houses were burnt to the ground. The damaged buildings amounted to about one-fourth of all the businesses in the main part of the city. The fire rendered penniless many who were wealthy. Several prominent store owners died attempting to save their establishments. When the many homes and business were rebuilt or repaired, a great cultural awakening occurred. In many ways, the fire helped put Charleston on the map as a great cultural and architectural center. Previous to the fire, only a few homes were styled as Greek Revival; many residents decided to construct new buildings in that style after the conflagration. This tradition continued and made Charleston one of the foremost places to view [[Greek Revival]] architecture. The [[Gothic Revival]] also made a significant appearance in the construction of many churches after the fire that exhibited picturesque forms and reminders of devout European religion.<ref>{{cite web|url=https://historyengine.richmond.edu/episodes/view/3531 |title=History Engine: Tools for Collaborative Education and Research &#124; Episodes |website=Historyengine.richmond.edu |date= |accessdate=2017-05-30}}</ref>
+
+By 1840, the Market Hall and Sheds, where fresh meat and produce were brought daily, became a hub of commercial activity. The [[slave trade]] also depended on the port of Charleston, where ships could be unloaded and the slaves bought and sold. The legal importation of African slaves had ended in 1808, although smuggling was significant. However, the domestic trade was booming. More than one million slaves were transported from the [[Upland South|Upper South]] to the [[Deep South]] in the antebellum years, as cotton plantations were widely developed through what became known as the [[Black Belt (region of Alabama)|Black Belt]]. Many slaves were transported in the [[coastwise slave trade]], with slave ships stopping at ports such as Charleston.
+
+===Civil War (1861–1865)===
+{{Main|Charleston in the American Civil War}}
+[[File:SouthBatteryCharleston1863.jpg|thumb|right|upright=0.9|Two 10" [[Columbiad]]s guarding [[The Battery (Charleston)|the Battery]] in 1863.]]
+[[File:charleston sc 1865.jpg|thumb|upright=0.9|The ruins of Charleston in 1865, following major fires in 1861 and at the evacuation of the Confederates.]]
+[[File:DofC Monument in Charleston SC.jpg|right|thumb|The 1932 monument in [[the Battery (Charleston)|the Battery]] honoring the Confederate defenders of [[Fort Sumter]].]]
+Following [[1860 US presidential election|the election]] of [[Abraham Lincoln]], the [[South Carolina General Assembly]] voted on December 20, 1860 to [[secession|secede]] from the [[Union (American Civil War)|Union]]. On December 27, [[Castle Pinckney]] was surrendered by its garrison to the state militia and, on January 9, 1861, [[The Citadel, The Military College of South Carolina|Citadel]] cadets opened fire on the USS{{nbsp}}''[[Star of the West]]'' as it entered Charleston Harbor.
+
+The first full battle of the [[American Civil War]] occurred on April 12, 1861 when shore batteries under the command of [[Pierre G. T. Beauregard|General Beauregard]] opened fire on the {{nowrap|[[US Army]]-}}held [[Fort Sumter]] in Charleston harbor.{{sfnp|''EB''|1878|p=429}} After a 34-hour bombardment, [[Major Robert Anderson]] surrendered the fort.
+
+On December 11, 1861, an enormous fire burned over {{convert|500|acre|sp=us}} of the city.
+
+Union control of the sea permitted the repeated bombardment of the city, causing vast damage.<ref name=symonds/> Although Admiral Du Pont's naval assault on the town's forts in April 1863 failed,{{sfnp|''EB''|1878|p=429}} the Union navy's blockade shut down most commercial traffic. Over the course of the war, some [[Blockade runners of the American Civil War|blockade runners]] got through but not a single one made it into or out of the Charleston Harbor between August 1863 and March 1864.<ref name=symonds>Craig L. Symonds, ''The Civil War at Sea'' (2009) p. 57</ref> The early submarine ''[[H. L. Hunley (submarine)|H.L. Hunley]]'' made a night attack on the {{USS|Housatonic|1861|6}} on February 17, 1864.<ref>{{cite web|url=http://www.history.navy.mil/branches/org12-3.htm |title=H. L. Hunley, Confederate Submarine |publisher=History.navy.mil |accessdate=September 17, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20071014220553/http://www.history.navy.mil/branches/org12-3.htm |archivedate=October 14, 2007 |df= }}</ref>
+
+General Gillmore's land assault in July 1864 was unsuccessful{{sfnp|''EB''|1878|p=429}} but the fall of [[Columbia, South Carolina|Columbia]] and advance of [[General William T. Sherman]]'s army through the state prompted the Confederates to evacuate the town on February 17, 1865, burning the public buildings, cotton warehouses, and other sources of supply before their departure.{{sfnp|''EB''|1878|p=429}} [[Union Army|Union troops]] moved into the city within the month.{{sfnp|''EB''|1878|p=429}} The War Department recovered what federal property remained and also confiscated the campus of the [[Citadel Military Academy]] and used it as a federal garrison for the next 17 years. The facilities were finally returned to the state and reopened as a military college in 1882 under the direction of Lawrence E. Marichak.
+
+===Postbellum (1865–1945)===
+After the defeat of the Confederacy, federal forces remained in Charleston during [[Reconstruction Era|Reconstruction]]. The war had shattered the city's prosperity, but the African-American population surged (from 17,000 in 1860 to over 27,000 in 1880) as freedmen moved from the countryside to the major city.<ref name="strickland">[http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=4870&context=etd Jeffrey G. Strickland, ''Ethnicity And Race In The Urban South: German Immigrants And African-Americans In Charleston, South Carolina During Reconstruction'', 2003, p. 11, Electronic Theses, Treatises and Dissertations. Paper 1541] {{webarchive|url=https://web.archive.org/web/20141028004634/http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=4870&context=etd |date=October 28, 2014 }}</ref> Blacks quickly left the [[Southern Baptist Church]] and resumed open meetings of the [[African Methodist Episcopal Church|African Methodist Episcopal]] and [[AME Zion]] churches. They purchased dogs, guns, liquor, and better clothes—all previously banned—and ceased yielding the sidewalks to whites.<ref name="strickland"/> Despite the efforts of the state legislature to halt manumissions, Charleston had already had a large class of free people of color as well. At the onset of the war, the city had 3,785 free people of color, many of mixed race, making up about 18% of the city's black population and 8% of its total population. Many were educated and practiced skilled crafts;<ref name="johnson"/> they quickly became leaders of South Carolina's [[Republican Party (United States)|Republican Party]] and its legislators. Men who had been free people of color before the war comprised 26% of those elected to state and federal office in South Carolina from 1868 to 1876.<ref>E. Horace Fitchett, "The Traditions of the Free Negro in Charleston, South Carolina", ''Journal of Negro History'', XXV (April 1940), p. 139</ref><ref>[https://books.google.com/books?id=LIqiqdeHMscC&pg=PA43 Thomas Holt, ''Black Over White: Negro Political Leadership in South Carolina During Reconstruction''], University of Illinois Press, 1979, p.43</ref>
+
+By the late 1870s, industry was bringing the city and its inhabitants back to a renewed vitality; new jobs attracted new residents.{{sfnp|''EB''|1878|p=429}} As the city's commerce improved, residents worked to restore or create community institutions. In 1865, the [[College of Charleston|Avery Normal Institute]] was established by the [[American Missionary Association]] as the first free secondary school for Charleston's African American population. [[William Tecumseh Sherman|Gen. Sherman]] lent his support to the conversion of the United States Arsenal into the Porter Military Academy, an educational facility for former soldiers and boys left orphaned or destitute by the war. Porter Military Academy later joined with Gaud School and is now a [[university-preparatory school]], [[Porter-Gaud School]].
+
+In 1875, blacks made up 57% of the city's and 73% of the county's population.<ref name="meeks"/> With leadership by members of the antebellum free black community, historian Melinda Meeks Hennessy described the community as "unique" in being able to defend themselves without provoking "massive white retaliation", as occurred in numerous other areas during [[Reconstruction Era|Reconstruction]].<ref name="meeks">[https://www.jstor.org/stable/27567894 Melinda Meeks Hennessy, "Racial Violence During Reconstruction: The 1876 Riots in Charleston and Cainhoy"], ''South Carolina Historical Magazine'', Vol. 86, No. 2, (April 1985), 104–106 {{subscription required|via JSTOR}}</ref> In the 1876 election cycle, two major riots between black Republicans and white Democrats occurred in the city, in September and the day after the election in November, as well as a violent incident in Cainhoy at an October joint discussion meeting.<ref name="meeks"/>
+
+Violent incidents occurred throughout the Piedmont of the state as white insurgents struggled to maintain [[white supremacy]] in the face of social changes after the war and granting of citizenship to freedmen by federal constitutional amendments. After former Confederates were allowed to vote again, election campaigns from 1872 on were marked by violent intimidation of blacks and Republicans by white Democratic [[paramilitary]] groups, known as the [[Red Shirts (Southern United States)|Red Shirts]]. Violent incidents took place in Charleston on King Street in September 6 and in nearby Cainhoy on October 15, both in association with political meetings before the 1876 election. The Cainhoy incident was the only one statewide in which more whites were killed than blacks.<ref name="foley">[http://www.screconstruction.org/Reconstruction/Sites_of_violence/Entries/1876/10/16_Cainhoy_Riot.html Reconstruction as Armed Insurgency: Cainhoy] {{webarchive|url=https://web.archive.org/web/20141106211013/http://www.screconstruction.org/Reconstruction/Sites_of_violence/Entries/1876/10/16_Cainhoy_Riot.html |date=November 6, 2014 }}, ''South Carolina during Reconstruction'', 2010–2012, accessed 27 October 2014</ref> The Red Shirts were instrumental in suppressing the black Republican vote in some areas in 1876 and narrowly electing [[Wade Hampton III|Wade Hampton]] as governor, and taking back control of the state legislature. Another riot occurred in Charleston the day after the election, when a prominent Republican leader was mistakenly reported killed.<ref name="meeks"/>
+
+In the early 20th century strong political machines emerged in the city  reflecting economic, class, racial, and ethnic tensions. The factions nearly all opposed U.S. Senator [[Benjamin Tillman|Ben Tillman]] who repeatedly attacked and ridiculed the city in the name of upstate poor farmers. Well organized factions within the Democratic Party in Charleston gave the voters clear choices and played a large role in state politics.<ref>Doyle W. Boggs, "Charleston Politics, 1900-1930: An Overview," ''Proceedings of the South Carolina Historical Association'' 49 (1979) 1-13.</ref>
+
+On August 31, 1886, [[1886 Charleston earthquake|Charleston was nearly destroyed]] by an earthquake. The shock was estimated to have a [[moment magnitude scale|moment magnitude]] of 7.0 and a maximum [[Mercalli intensity scale|Mercalli intensity]] of X (''Extreme''). It was felt as far away as [[Boston]] to the north, [[Chicago]] and [[Milwaukee]] to the northwest, as far west as [[New Orleans]], as far south as [[Cuba]], and as far east as [[Bermuda]]. It damaged 2,000 buildings in Charleston and caused $6 million worth of damage (${{Inflation|US-CAP|6|1886}} million in {{Inflation-year|US-CAP}} dollars), at a time when all the city's buildings were valued around  $24 million (${{Inflation|US-CAP|24|1886}} million in {{Inflation-year|US-CAP}} dollars).
+
+Investment in the city continued. The [[William Enston Home]], a planned community for the city's aged and infirm, was built in 1889. An elaborate public building, the United States Post Office and Courthouse, was completed by the federal government in 1896 in the heart of the city. The Democrat-dominated state legislature passed a new constitution in 1895 that [[Disfranchisement after Reconstruction era|disfranchised blacks]], effectively excluding them entirely from the political process, a second-class status that was maintained for more than six decades in a state that was majority-black until about 1930.
+
+Charleston's tourism boom began in earnest following the publication of [[Albert Simons]] and [[Samuel Lapham VI|Samuel Lapham]]'s ''Architecture of Charleston''<ref>{{citation |last=Simons |first=Albert |last2=Lapham |first2=Samuel VI |ref={{harvid|Simons & al.|1927}} |publisher=Press of the American Institute of Architects |title=Charleston, S.C. |series=The Octagon ''Library of Early American Architecture'', Vol. I |date=1927}}.</ref> in the 1920s.<ref>{{citation |last=Horton |first=Tom |title=History's Lost Moments, ''Vol. V'' |p=[https://books.google.com/books?id=thPUBAAAQBAJ&pg=PA182 182] |date=2014 |publisher=Trafford |location= |contribution=Touring Charleston Back in 1912}}</ref>
+
+===Contemporary era (1945–present)===
+[[File:PHOTOGRAMMETRIC IMAGE- SOUTH FRONT ELEVATION, INCLUDES -28 SOUTH BATTERY - James E. Spear House, 30 South Battery Street, Charleston, Charleston County, SC HABS SC,10-CHAR,360-7.tif|thumb|right|upright=0.9|A Charleston street]]
+
+Charleston languished economically for several decades in the 20th century, though the large federal military presence in the region helped to shore up the city's economy.
+
+The Charleston Hospital Strike of 1969, in which mostly black workers protested discrimination and low wages, was one of the last major events of the [[civil rights movement]]. It attracted [[Ralph Abernathy]], [[Coretta Scott King]], [[Andrew Young]], and other prominent figures to march with the local leader, Mary Moultrie. Its story is recounted in [[Tom Dent]]'s book ''Southern Journey'' (1996).
+
+[[Joseph P. Riley Jr.]] was elected mayor in the 1970s, and helped advance several cultural aspects of the city. Riley worked to revive Charleston's economic and cultural heritage. The last 30 years of the 20th century had major new investments in the city, with a number of municipal improvements and a commitment to historic preservation to restore the city's unique fabric. There was an effort to preserve working-class housing of African Americans on the historic peninsula, but the neighborhood has gentrified, with rising prices and rents. From 1980 to 2010, the peninsula's population has shifted from two-thirds black to two-thirds white; in 2010 residents numbered 20,668 whites to 10,455 blacks.<ref name="slade">[http://www.postandcourier.com/news/racial-shift-charleston-peninsula-s-makeup-reverses-in-years-with/article_69581977-ef00-5f6c-b969-edb7104344bb.html David Slade, "RACIAL SHIFT: Charleston peninsula's makeup reverses in 30 years, with blacks leaving for suburbs, area becoming two-thirds white"], ''The Post and Courier'', 28 March 2011; accessed 10 November 2016</ref> Many African Americans have moved to the less-expensive suburbs in these decades.<ref name="slade"/>
+
+The city's commitments to investment were not slowed down by Hurricane Hugo and continue to this day. The eye of Hurricane Hugo came ashore at Charleston Harbor in 1989, and though the worst damage was in nearby [[McClellanville, South Carolina|McClellanville]], three-quarters of the homes in Charleston's historic district sustained damage of varying degrees. The hurricane caused over $2.8 billion in damage. The city was able to rebound fairly quickly after the hurricane and has grown in population, reaching an estimated 124,593 residents in 2009.<ref name="charlestoncity.info">{{cite web|url=http://www.charlestoncity.info/shared/docs/0/2010_population_estimates.pdf|archive-url=https://web.archive.org/web/20110721192558/http://www.charlestoncity.info/shared/docs/0/2010_population_estimates.pdf|dead-url=yes|archive-date=2011-07-21|title=Century V City of Charleston Population 2010 Estimates|format=PDF}}</ref>
+
+In 1993, the city was further impacted economically by the end of the [[Cold War]] when a decision of the [[Base Realignment and Closure Commission]] (BRAC) directed that '''[[Charleston Naval Shipyard|Naval Base Charleston]]''' be closed and that its surface ships and nuclear-powered submarines be relocated to other homeports, primarily [[Naval Station Norfolk]], Virginia and [[Naval Station Mayport]], Florida.  Pursuant to BRAC action, Naval Base Charleston was closed on April 1, 1996, although some activities remain under the cognizance of [[Naval Support Activity Charleston]], now part of [[Joint Base Charleston]].<ref>|http://www.northcharleston.org/Visitors/Attractions/Greater-Charleston-Naval-Base-Memorial/Naval-Base-History.aspx</ref>
+
+On June 17, 2015, 21-year-old [[Dylann Roof]] entered the historic [[Emanuel African Methodist Episcopal Church]] and sat in on part of a Bible study before shooting and [[Charleston church shooting|killing nine people]].<ref name="WashingtonPost-Shooting-2015">{{cite news|last1=Bever|first1=Lindsey|last2=Costa|first2=Robert|title=9 dead in shooting at historic Charleston African American church. Police chief calls it 'hate crime.'|url=https://www.washingtonpost.com/news/morning-mix/wp/2015/06/17/white-gunman-sought-in-shooting-at-historic-charleston-african-ame-church/|accessdate=June 18, 2015|work=[[The Washington Post]]|date=June 17, 2015}}</ref> Senior pastor [[Clementa C. Pinckney|Clementa Pinckney]], who also served as a [[South Carolina Senate|state senator]], was among those killed during the attack. The deceased also included congregation members Susie Jackson, 87; Rev. Daniel Simmons Sr., 74; Ethel Lance, 70; Myra Thompson, 59; Cynthia Hurd, 54; Rev. Depayne Middleton-Doctor, 49; Rev. Sharonda Coleman-Singleton, 45; and Tywanza Sanders, 26.<ref name="NBCNews-Shooting-2015">{{cite news|last1=Johnson|first1=M. Alex|title='This Was a Hate Crime': Nine People Killed at Historic South Carolina Church|url=http://www.nbcnews.com/news/us-news/multiple-people-shot-historic-south-carolina-church-n377436|accessdate=June 18, 2015|work=[[NBC News]]|date=June 17, 2015}}</ref> The attack garnered national attention, and sparked a debate on historical racism, [[Confederate States of America|Confederate]] symbolism in Southern states, and gun violence, in part based on Roof's online postings. On July 10, 2015, the [[Confederate battle flag]] was removed from the [[South Carolina State House]]. A memorial service on the campus of the [[College of Charleston]] was attended by President [[Barack Obama]], [[Michelle Obama]], Vice President [[Joe Biden]], [[Jill Biden]], and Speaker of the House [[John Boehner]].
+
+On June 17, 2018, the Charleston City Council apologized for its role in the slave trade. It also acknowledged wrongs committed against African Americans by slavery and Jim Crow laws.<ref>{{cite news
+|title=Charleston Apologizes for City’s Role in Slave Trade
+|first=Melissa
+|last=Gomez
+|date=June 19, 2018
+|newspaper=[[New York Times]]
+|url=https://www.nytimes.com/2018/06/19/us/charleston-slavery-apology.html}}</ref>
+
+==Demographics==
+{{US Census population
+|1790= 16359
+|1800= 18824
+|1810= 24711
+|1820= 24780
+|1830= 30289
+|1840= 29261
+|1850= 42985
+|1860= 40522
+|1870= 48956
+|1880= 49984
+|1890= 54955
+|1900= 55807
+|1910= 58833
+|1920= 67957
+|1930= 62265
+|1940= 71275
+|1950= 70174
+|1960= 60288
+|1970= 66945
+|1980= 69779
+|1990= 80414
+|2000= 96650
+|2010= 120083
+|estyear=2017
+|estimate=138036
+|estref=<ref name="USCensusEst2017">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2017.html|title=Population and Housing Unit Estimates|accessdate=June 9, 2017}}</ref>
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|url=https://www.census.gov/prod/www/decennial.html|title=U.S. Decennial Census|publisher=Census.gov|accessdate=June 5, 2013|deadurl=yes|archiveurl=https://www.webcitation.org/6YSasqtfX?url=http://www.census.gov/prod/www/decennial.html|archivedate=May 12, 2015|df=mdy }}</ref><br />2016 Estimate<ref name="CensusCity"/>
+}}
+
+In 2010, the [[Race (U.S. Census)|racial makeup]] of Charleston was 70.2% White, 25.4% African American, 1.6% Asian, and 1.5% of two or more races; in addition, 2.9% of the population was Hispanic or Latino, of any race.<ref>{{cite web |url=http://quickfacts.census.gov/qfd/states/45/4513330.html |title=Archived copy |accessdate=2014-07-10 |deadurl=yes |archiveurl=https://web.archive.org/web/20140710102707/http://quickfacts.census.gov/qfd/states/45/4513330.html |archivedate=July 10, 2014 |df=mdy-all }}</ref>
+
+===Language===
+Given Charleston's high concentration of African Americans who spoke the [[Gullah language]], a [[creole language]] that developed on the Sea Islands and in the Low Country, the local speech patterns were also influenced by this community. Today, Gullah is still spoken by many African American residents.{{citation needed|date=January 2017}} However, rapid development since 1980, especially on the surrounding Sea Islands, has attracted residents from outside the area and led to a decline in Gullah's prominence.
+
+The traditional educated Charleston accent has long been noted in the state and throughout the South. It is typically heard in wealthy white families who trace their families back generations in the city. It has ingliding or monophthongal long mid-vowels, raises ''ay'' and ''aw'' in certain environments, and is [[rhotic and non-rhotic accents|nonrhotic]]. [[Sylvester Primer]] of the [[College of Charleston]] wrote about aspects of the local dialect in his late 19th-century works: "Charleston Provincialisms" (1887) <ref name="primer">[https://archive.org/details/jstor-456019 "Charleston Provincialisms" (1887)], Pub. Modern Language Association of America, Vol. iii, Internet Archive and Early Journal Content on JSTOR, accessed 5 November 2014</ref> and "The Huguenot Element in Charleston's Provincialisms", published in a German journal. He believed the accent was based on the English as it was spoken by the earliest settlers, therefore derived from Elizabethan England and preserved with modifications by Charleston speakers. The rapidly disappearing "Charleston accent" is still noted in the local pronunciation of the city's name. Many Charleston natives ignore the 'r' and elongate the first vowel, pronouncing the name as "Chah-l-ston".
+
+===Religion===
+Charleston is known as "The Holy City." Despite beliefs that the term dates to the city's earliest days and refers to its religiously tolerant culture, the term was coined in the 20th century, likely as a mockery of Charlestonians' self-satisfied attitude about their city.<ref>{{cite news |last1=Gilbreth |first1=Edward M. |title=Research says ‘Holy City’ term not church-based |work=Post and Courier |date=May 25, 2016 |location=Charleston, South Carolina}}</ref> Regardless of the nickname's origination, residents have embraced the term and explained it in more flattering terms.
+
+The Anglican church was dominant in the colonial era, and the [[Cathedral of St. Luke and St. Paul (Charleston, South Carolina)|Cathedral of St. Luke and St. Paul]] is today the seat of the [[Diocese of South Carolina]].  Many French Huguenot refugees settled in Charleston in the early 18th century.<ref>{{cite web|url=http://www.huguenotsociety.org/history.htm|title=History of the Huguenot Society|publisher=Huguenotsociety.org|accessdate=2014-09-17|deadurl=yes|archiveurl=https://web.archive.org/web/20000830073605/http://www.huguenotsociety.org/history.htm|archivedate=August 30, 2000|df=mdy-all}}</ref>  The Emanuel African Methodist Episcopal Church is the oldest [[African Methodist Episcopal]] church in the Southern [[United States]] and houses the oldest [[black church|black congregation]] south of [[Baltimore, Maryland]].<ref name="NYTimes-MotherEmanuel-2015">{{cite news|last1=Weisman|first1=Jonathan|title=Killings Add a Painful Chapter to Storied History of Charleston Church|url=https://www.nytimes.com/2015/06/19/us/charleston-killings-evoke-history-of-violence-against-black-churches.html|accessdate=June 18, 2015|work=[[The New York Times]]|date=June 18, 2015}}</ref>
+
+South Carolina has long allowed [[Jews]] to practice their faith without restriction. [[Congregation Kahal Kadosh Beth Elohim|Kahal Kadosh Beth Elohim]], founded in 1749 by [[Sephardic Jews]] from London, is the fourth-oldest Jewish congregation in the continental United States and was an important site for the development of [[Reform Judaism]].<ref>{{cite web|url=http://www.kkbe.org/|title=Kahal Kadosh Beth Elohim|publisher=Kkbe.org|accessdate=2014-09-17}}</ref> Brith Sholom Beth Israel is the oldest [[Orthodox Judaism|Orthodox]] synagogue in the South, founded by Sam Berlin and other [[Ashkenazi]] German and Central European Jews in the mid-19th century.<ref>{{cite web|url=http://www.bsbisynagogue.com/|title=Brith Sholom Beth Israel|publisher=Bsbisynagogue.com|accessdate=2014-09-17}}</ref>
+
+The city's oldest Roman Catholic parish, [[St. Mary's Roman Catholic Church (Charleston, South Carolina)|Saint Mary of the Annunciation Roman Catholic Church]], is the mother church of Roman Catholicism in North Carolina, South Carolina, and Georgia. In 1820, Charleston was established as the [[Episcopal see|see city]] of the [[Roman Catholic Diocese of Charleston]], which at the time comprised the Carolinas and Georgia, and presently encompasses the state of South Carolina.
+
+{{Gallery
+|title=Churches in Charleston
+|width=170 | height=170
+|align=centre
+|File:FrenchProtestantChurch.jpg 
+  |The French Protestant [[Huguenot Church]] (1844)
+|File:St. Matthews Lutheran (Charleston, SC).jpg
+  |[[St. Matthew's German Evangelical Lutheran Church]]
+|File:Cathedral of St. John the Baptist Charleston SC.jpg
+  |[[Cathedral of Saint John the Baptist (Charleston, South Carolina)|The Roman Catholic Cathedral of St. John the Baptist]]
+|File:Emanuel African Methodist Episcopal (AME) Church Corrected.jpg
+  |[[Emanuel African Methodist Episcopal Church]]
+|File:First Sanctuary.JPG
+  |The German St. Johannes Lutheran Church
+|File:Another_view_IMG_4653.JPG
+  |[[St. Philip's Episcopal Church (Charleston, South Carolina)|St. Philip's Episcopal Church]]
+|File:First Scots Presbyterian Church.jpg
+  |First Scots Presbyterian Church
+|File:BroadStreetCharleston.jpg
+  |[[St. Michael's Episcopal Church (Charleston, South Carolina)|St. Michael's]] on Broad Street
+}}
+
+==Culture==
+Charleston is known for its unique culture, which blends traditional Southern U.S., English, French, and West African elements. The downtown peninsula has gained a reputation for its art, music, local cuisine, and fashion. [[Spoleto Festival USA]], held annually in late spring, has become one of the world's major performing arts festivals. It was founded in 1977 by [[Pulitzer Prize]]-winning composer [[Gian Carlo Menotti]], who sought to establish a counterpart to the ''Festival dei Due Mondi'' (the Festival of Two Worlds) in [[Spoleto]], [[Italy]].
+
+Charleston's oldest community theater group, the Footlight Players, has provided theatrical productions since 1931. A variety of performing arts venues includes the historic [[Dock Street Theatre]]. The annual Charleston Fashion Week held each spring in Marion Square brings in designers, journalists, and clients from across the nation. Charleston is known for its local seafood, which plays a key role in the city's renowned cuisine, comprising staple dishes such as [[gumbo]], she-crab soup, fried oysters, Lowcountry boil, deviled crab cakes, red rice, and shrimp and grits. Rice is the staple in many dishes, reflecting the rice culture of the Low Country. The cuisine in Charleston is also strongly influenced by British and French elements.
+
+===Annual cultural events and fairs===
+Charleston annually hosts [[Spoleto Festival USA]] founded by Gian Carlo Menotti, a 17-day art festival featuring over 100 performances by individual artists in a variety of disciplines. The Spoleto Festival is internationally recognized as America's premier performing arts festival.<ref name="charlestonspoleto.org">[http://www.charlestonspoleto.org/charleston-spoleto-festivals.html ]  {{webarchive |url=https://web.archive.org/web/20120314202110/http://www.charlestonspoleto.org/charleston-spoleto-festivals.html |date=March 14, 2012 }}</ref> The annual Piccolo Spoleto festival takes place at the same time and features local performers and artists, with hundreds of performances throughout the city. Other festivals and events include Historic Charleston Foundation's Festival of Houses and Gardens and Charleston Antiques Show,<ref>{{cite web|url=https://www.historiccharleston.org/Events.aspx |title=Events – Historic Charleston Foundation |website=Historiccharleston.org |date= |accessdate=2017-05-30}}</ref> the Taste of Charleston, The Lowcountry Oyster Festival, the [[Cooper River Bridge Run]], The Charleston Marathon,<ref>{{cite web|url=http://charlestonmarathon.com/ |title=MLK Weekend • Marathon · Half Marathon · 5k · Youth Marathon · Bike Ride • Going the Distance for the Arts |publisher=Charleston Marathon |date=2017-01-14 |accessdate=2017-05-30}}</ref> Southeastern Wildlife Exposition (SEWE),<ref>{{cite web|url=http://www.sewe.com/ |title=Southeastern Wildlife Exposition 2017 |website=Sewe.com |date= |accessdate=2017-05-30}}</ref> Charleston Food and Wine Festival, Charleston Fashion Week, the MOJA Arts Festival, and the Holiday Festival of Lights (at James Island County Park), and the Charleston International Film Festival.<ref>{{cite web|url=http://www.CharlestonIFF.org |title=Charleston International Film Festival |website=Charlestoniff.org |date=2017-05-18 |accessdate=2017-05-30}}</ref> The [[Charleston Conference]] is a major library industry event, held in the city center since 1980.<ref>{{cite web|url=http://www.charlestoncitypaper.com/charleston/charleston-conference-to-flood-downtown-with-1600-bookworms/Content?oid=4226626|title=Charleston Conference to flood downtown with 1,600 bookworms|last=Lawrence|first=Stratton|website=Charleston City Paper|access-date=2017-04-29}}</ref>
+
+===Music===
+{{main|Music in Charleston}}
+
+As it has on every aspect of Charleston culture, the [[Gullah]] community has had a tremendous influence on music in Charleston, especially when it comes to the early development of [[jazz]] music. In turn, the music of Charleston has had an influence on that of the rest of the country. The [[geechee]] dances that accompanied the music of the dock workers in Charleston followed a rhythm that inspired [[Eubie Blake]]'s "Charleston Rag" and later [[James P. Johnson]]'s "[[Charleston (song)|Charleston]]", as well as the [[Charleston (dance)|dance craze]] that defined a nation in the 1920s. "[[Ballin' the Jack]]", which was a popular dance in the years before "Charleston", was written by native Charlestonian [[Chris Smith (composer)|Chris Smith]].<ref>{{cite book|author=Jack McCray|title=Charleston Jazz|url=https://books.google.com/books?id=5hsWQcCvUTkC&pg=PA25|date=June 6, 2007|publisher=Arcadia Publishing|isbn=978-0-7385-4350-5|pages=11, 12}}</ref>
+
+The [[Jenkins Orphanage]] was established in 1891 by the Rev. Daniel J. Jenkins in Charleston. The orphanage accepted donations of musical instruments and Rev. Jenkins hired local Charleston musicians and Avery Institute Graduates to tutor the boys in music. As a result, Charleston musicians became proficient on a variety of instruments and were able to read music expertly.<ref>{{cite book|author=Jack McCray|title=Charleston Jazz|url=https://books.google.com/books?id=5hsWQcCvUTkC&pg=PA25|date=June 6, 2007|publisher=Arcadia Publishing|isbn=978-0-7385-4350-5|page=27}}</ref> These traits set Jenkins musicians apart and helped land some of them positions in big bands with Duke Ellington and Count Basie. [[Cat Anderson|William "Cat" Anderson]], [[Jabbo Smith]], and [[Freddie Green]] are but a few of the alumni from the Jenkins Orphanage band who became professional musicians in some of the best bands of the day. Orphanages around the country began to develop brass bands in the wake of the Jenkins Orphanage Band's success. At the Colored Waif's Home Brass Band in New Orleans, for example, a young trumpeter named [[Louis Armstrong]] first began to draw attention.<ref name="Hubbert">{{cite web|last=Hubbert|first=Julie|title=Jenkins Orphanage|url= http://www.sc.edu/orphanfilm/orphanage/symposia/scholarship/hubbert/jenkins-orphanage.html/|accessdate=2013-02-18}}</ref>
+
+As many as five bands were on tour during the 1920s. The Jenkins Orphanage Band played in the inaugural parades of Presidents [[Theodore Roosevelt]] and [[William Howard Taft|William Taft]] and toured the US and Europe.<ref>Edgar, Walter. ''South Carolina Encyclopedia'' (2006) pp. 590–591, {{ISBN|1-57003-598-9}}</ref> The band also played on Broadway for the play "Porgy" by [[DuBose Heyward|DuBose]] and [[Dorothy Heyward]], a stage version of their novel of the same title. The story was based in Charleston and featured the Gullah community. The Heywards insisted on hiring the real Jenkins Orphanage Band to portray themselves on stage.<ref name="Hubbert"/> Only a few years later, DuBose Heyward collaborated with [[George Gershwin|George]] and [[Ira Gershwin]] to turn his novel into the now famous opera, ''[[Porgy and Bess]]'' (so named so as to distinguish it from the play). George Gershwin and Heyward spent the summer of 1934 at [[Folly Beach]] outside of Charleston writing this "folk opera", as Gershwin called it. ''Porgy and Bess'' is considered the Great American Opera{{citation needed|date=July 2015}} and is widely performed.<ref>{{cite web|last=Erb|first=Jane|title=Porgy and Bess (1934)|url=http://www.classical.net/music/comp.lst/works/gershwin/porgy&bess.php |accessdate=2013-02-19}}</ref>
+
+To this day, Charleston is home to many musicians in all genres. A unique showcase of Charleston's musical heritage is presented weekly. "The Sound of Charleston....from gospel to Gershwin", is staged at the historic Circular Congregational Church.<ref>{{cite web|url=http://www.soundofcharleston.com|title=Welcome – The Sound Of Charleston|work=soundofcharleston|accessdate=September 17, 2014}}</ref>
+
+The [[Music Farm (music venue)|Music Farm]] concert venue opened in Charleston on Ann Street in 1991.
+
+===Live theater===
+Charleston has a vibrant theater scene and is home to America's first theater. In 2010, Charleston was listed as one of the country's top 10 cities for theater, and one of the top two in the South.<ref>{{cite web|url=http://www.travelandleisure.com/americas-favorite-cities/2010/category/culture/theater-performance-art|title=America's Favorite Cities 2010 – Culture – Theater/performance art – Travel + Leisure|work=Travel + Leisure|accessdate=September 17, 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140922135701/http://www.travelandleisure.com/americas-favorite-cities/2010/category/culture/theater-performance-art|archivedate=September 22, 2014|df=mdy-all}}</ref> Most of the theaters are part of the League of Charleston Theatres, better known as Theatre Charleston.<ref>{{cite web|url=http://www.theatrecharleston.com|title=Theatre Charleston|author=|date=|work=theatrecharleston.com|accessdate=September 4, 2015}}</ref> Some of the city's theaters include:
+* The [[Dock Street Theatre]], opened in the 1930s on the site of America's first purpose-built theater building, is home of the Charleston Stage Company, South Carolina's largest professional theater company.
+* [[Sottile Theater]] is on the campus of [[The College of Charleston]].
+
+===Museums, historical sites, and other attractions===
+{{See also|Charleston Historic District}}
+
+[[File:The Calhoun Mansion, Charleston, SC IMG 4648.JPG|right|thumb|The [[Calhoun Mansion]] at 16 Meeting Street was built in 1876 by George Williams, but derives its name from a later occupant, his grandson-in-law Patrick Calhoun.]]
+[[File:Nathaniel_Russell_House_(Stair).jpg|thumb|[[Nathaniel Russell House]] built 1808]]
+[[File:Customs_House_-_2013.jpg|thumb|Old [[Exchange and Provost]] Dungeon built 1767 on Broad St.]]
+
+Charleston has many historic buildings, art and historical museums, and other attractions, including:
+
+*[[Halsey Institute of Contemporary Art]] at the [[College of Charleston]] is free a non-collecting contemporary arts organization. Their mission is to create meaningful interactions between adventurous artists and diverse communities within a context that emphasizes the historical, social, and cultural importance of the art of our time.<ref>{{Cite web|url=http://halsey.cofc.edu/|title=Halsey Institute of Contemporary Art|website=halsey.cofc.edu|language=en-US|access-date=2018-05-30}}</ref>
+*[[Patriots Point]] Naval and Maritime Museum located in the nearby town of Mount Pleasant. It includes the aircraft carrier [[USS Yorktown (CV-10)]], destroyer [[USS Laffey (DD-724)]], submarine [[USS Clamagore (SS-343)]], Cold War Submarine Memorial (SSBN and SSN), Vietnam Support Base and Experience Exhibit, and Medal of Honor Museum.
+* The [[Calhoun Mansion]], a 24,000-square-foot, 1876 Victorian home at 16 Meeting Street, is named for a grandson of John C. Calhoun who lived there with his wife, the builder's daughter. The private house is periodically open for tours.
+* The [[Charleston Museum]], America's first museum, was founded in 1773. Its mission is to preserve and interpret the cultural and natural history of Charleston and the South Carolina Low Country.
+*The [[Warren Lasch Conservation Center]] houses the very first successful submarine the [[CSS Hunley]], which is on display while awaiting conservation.
+* The [[Exchange and Provost]] was built in 1767. The building, located on [[Broad Street Charleston|Broad Street]], has served as a customhouse, mercantile exchange, and military prison and barracks.  During the [[American Revolution]], it was used as a prison by both the British and [[Continental Army|Continental]] armies; later, it hosted events for [[George Washington]] in 1791 and the ratification of the [[U.S. Constitution]] in 1788. It is operated as a museum by the Daughters of the American Revolution.
+* The [[Powder Magazine (Charleston, South Carolina)|Powder Magazine]] is a 1713 gunpowder magazine and museum. It is the oldest surviving public building in South Carolina.
+* The [[Gibbes Museum of Art]], opened in 1905, houses a premier collection of principally American works with a Charleston or Southern connection.
+* The [[Fireproof Building]] houses the South Carolina Historical Society, a membership-based reference library open to the public.
+* The [[Nathaniel Russell House]] is an important federal-style house. It is owned by the Historic Charleston Foundation and open to the public as a house museum.
+* The [[Gov. William Aiken House]], also known as the Aiken-Rhett House, is a home built in 1820 for William Aiken Jr.
+* The [[Heyward-Washington House]] is a historic house museum owned and operated by the Charleston Museum. Furnished for the late 18th century, the house includes a collection of Charleston-made furniture.
+* The [[Joseph Manigault House]] is a historic house museum owned and operated by the Charleston Museum. The house was designed by Gabriel Manigault and is significant for its [[Adam style]] architecture.
+* The [[Market Hall and Sheds]], also known as the City Market or simply the Market, stretch several blocks behind 188 Meeting Street. Market Hall was built in the 1841 and houses the Daughters of the Confederacy Museum. The sheds house some permanent stores, but are mainly occupied by open-air vendors.
+* The [[Avery Research Center for African American History and Culture]] was established to collect, preserve, and make public the unique historical and cultural heritage of African Americans in Charleston and the South Carolina Low Country. Avery's archival collections, museum exhibitions, and public programming reflect these diverse populations, as well as the wider African Diaspora.
+* [[Fort Sumter]], site of the first shots fired in the Civil War, is located in Charleston Harbor. The National Park Service maintains a visitor center for Fort Sumter at Liberty Square (near the South Carolina Aquarium), and boat tours including the fort depart nearby.
+* [[The Battery (Charleston)|The Battery]] is an historic defensive seawall and promenade located at the tip of the peninsula along with [[White Point Garden]], a park featuring several memorials and Civil War-era artillery pieces.
+* [[Rainbow Row]] is an iconic strip of homes along the harbor that date back to the mid-18th century. Though the homes are not open to the public, they are one of the most photographed attractions in the city and are featured heavily in local art.<ref>{{cite news |last = Jinkins |first = Shirley |title = Charleston S.C. has had a long and turbulent history, but a remarkable number of its buildings have survived |newspaper = [[The Baltimore Sun]] |date = February 23, 1997 |url = https://pqasb.pqarchiver.com/baltsun/access/49585150.html?dids=49585150:49585150&FMT=ABS&FMTS=ABS:FT&type=current&date=Feb+23%2C+1997&author=Shirley+Jinkins&pub=The+Sun&desc=Charleston+S.C.+has+had+a+long+and+turbulent+history%2C+but+a+remarkable+number+of+its+buildings+have+survived.&pqatl=google |accessdate = 2012-05-30}}</ref>
+* [[Pineapple Fountain]]- Located in Charleston's [[Waterfront Park (Charleston)|Waterfront Park]], the fountain was placed here in 1990 during the spring time after Hurricane Hugo had hit. Pineapples are popular in Charleston as they are used as symbols of hospitality.<ref>{{cite web|url=http://www.sciway.net/sc-photos/charleston-county/pineapple-fountain.html|title=Pineapple Fountain|website=SC Picture Project|access-date=2016-04-27}}</ref> 
+* [[Middleton Place]], home to America's Oldest Landscaped Gardens, was named "the most important and most interesting garden in America".  It is home to camellias that are hundreds of years old and hills of azaleas.  It was planned so that there is something in bloom year-round.  The house was built in 1755, and was home to four generations of the Middleton Family.  It still holds their exquisite furniture, and decorations.  The same family has held ownership of the property for more than 320 years, and successfully keeps it in good condition so that visitors can appreciate its significance. 
+* The [[South Carolina Aquarium]] is Charleston's #1 family attraction.  Visitors can come face-to-face with over 5000 wild animals, and anyone can touch the sharks and sting rays.  There is a Sea Turtle Hospital where tourists can interact and learn.  The mission of the aquarium is to inspire conservation of the natural world by exhibiting and caring for animals, by excelling in education and research, and by providing an exceptional visitor experience.  The aquarium is a not-for-profit organization. 
+* [[Waterfront Park (Charleston)|Waterfront Park]] located on the [[Cooper River (South Carolina)|Cooper River]]. This park was completed in May 1990, and has many activities, such as taking a nice walk through the canopy of live oak trees and there are two fountains located in the park, where most children will play in. The park consists of {{convert|13|acres|abbr=off}}, therefore making it the ideal place to take a walk or even get some studying done, as the [[College of Charleston]] is very close.<ref>{{cite web|url=https://www.planning.org/greatplaces/spaces/2008/waterfrontpark.htm|title=Waterfront Park: Charleston, South Carolina|website=www.planning.org|access-date=2016-04-27}}</ref>  
+* [[Old Slave Mart]] museum – Located at 6 Chalmers St in the historic district is the first African American Museum. It has operated since 1938.<ref>{{cite web|url=http://www.oldslavemartmuseum.com/|title=Old Slave Mart Museum|website=www.oldslavemartmuseum.com/|access-date=2016-06-24}}</ref>
+
+===Sports===
+[[File:Blackbaud Stadium 2.jpg|thumb|left|[[MUSC Health Stadium]], home of the Charleston Battery]]
+
+Charleston is home to a number of professional, minor league, and amateur sports teams:
+* The [[Charleston Battery]], a professional soccer team, plays in the [[United Soccer League]]. The Charleston Battery plays on Daniel Island at [[MUSC Health Stadium]].
+* The [[South Carolina Stingrays]], a professional hockey team, plays in the [[ECHL]]. The Stingrays play in North Charleston at the [[North Charleston Coliseum]]. The Stingrays are an affiliate of the [[Washington Capitals]] and [[Hershey Bears]]. 
+* The [[Charleston RiverDogs]], a [[Minor League Baseball]] team, plays in the [[South Atlantic League]] and are an affiliate of the [[New York Yankees]]. The RiverDogs play at [[Joseph P. Riley Jr. Park]].
+* The [[Charleston Outlaws RFC]] is a [[rugby union]] club in the Palmetto Rugby Union, USA Rugby South, and [[USA Rugby]]. It competes in Men's Division II against the Cape Fear, Columbia, Greenville, and Charlotte "B" clubs. The club also hosts a [[rugby sevens]] tournament during Memorial Day weekend.
+* The Charleston Gaelic Athletic Association is a Gaelic athletic club focusing on the sports of [[hurling]] and [[Gaelic football]]. The club competes in the Southeastern Division of the North American County Board of the [[Gaelic Athletic Association|GAA]]. The club hosts other division clubs in the Holy City Cup each spring.<ref>{{cite web |title = Charleston Hurling Club |publisher = Charleston Hurling Club |url = http://charlestonhurling.com/ |accessdate =30 March 2015}}</ref>
+* The [[Lowcountry Highrollers]] is a women's flat-track roller derby league in the Charleston area. The league is a local member of the Women's Flat Track Derby Association.
+* The [[Family Circle Tennis Center]] hosts major Women's Tennis Association Events such as the Volvo Car Open.  The facility is located on Daniel Island.
+
+Other notable sports venues in Charleston include [[Johnson Hagood Stadium]] (home of [[The Citadel Bulldogs]] [[College football|football]] team) and [[TD Arena|Toronto Dominion Bank Arena]] at the College of Charleston, which seats 5,700 people who view the school's basketball and volleyball teams.
+
+===Books and films===
+{{Main|Creative works set in Charleston, South Carolina|List of television shows and movies in Charleston, South Carolina}}
+Various books and films have been set in Charleston; some of the best known works are listed below. In addition, Charleston is a popular filming location for movies and television, both in its own right and as a stand-in for Southern and/or historic settings.
+
+* ''[[Porgy (novel)|Porgy]]'' (1925), by [[DuBose Heyward]], adapted into [[Porgy (play)|the play]] in 1927. [[George Gershwin]]'s folk opera ''Porgy and Bess'' (1935), based on the novel ''[[Porgy (novel)|Porgy]]'', is set in Charleston and was partially written at [[Folly Beach]], near Charleston. A [[Porgy and Bess (film)|film version]] was released in 1959.
+* [[North and South (trilogy)|''North and South'']] series of books by [[John Jakes]], was partially set in Charleston. The [[North and South (miniseries)|''North and South'']] miniseries was partially set and filmed in Charleston.
+* Part of the 1989 film ''[[Glory (1989 film)|Glory]]'', starring [[Matthew Broderick]], [[Denzel Washington]], and [[Morgan Freeman]], features the 1863 [[Second Battle of Fort Wagner]] on [[Morris Island]].
+* The movies ''[[Swamp Thing (film)|Swamp Thing]]'' (1982) and ''[[The Lords of Discipline (film)|The Lords of Discipline]]'' (1983) (based on the novel by [[Pat Conroy]]) were partly filmed in Charleston.<ref>Barth, Jack (1991). ''Roadside Hollywood: The Movie Lover's State-By-State Guide to Film Locations, Celebrity Hangouts, Celluloid Tourist Attractions, and More''. Contemporary Books. Page 177. {{ISBN|9780809243266}}.</ref>
+
+==Economy==
+Charleston is a popular tourist destination, with a considerable number of hotels, inns, and [[bed and breakfasts]], numerous restaurants featuring [[Lowcountry cuisine]] and shops. Charleston is also a notable art destination, named a top-25 arts destination by ''AmericanStyle'' magazine.<ref>[http://www.americanstyle.com/ME2/dirmod.asp?sid=&type=gen&mod=Core+Pages&gid=D4BC7638393C45F5B69956570EB94649]  {{webarchive|url=https://web.archive.org/web/20100129015457/http://www.americanstyle.com/ME2/dirmod.asp?sid=&type=gen&mod=Core%20Pages&gid=D4BC7638393C45F5B69956570EB94649 |date=January 29, 2010 }}</ref>
+
+Commercial shipping is important to the economy. The city has two shipping terminals, owned and operated by the South Carolina Ports Authority, which are part of the fourth-largest container seaport on the East Coast and the thirteenth-largest container seaport in North America.<ref name="North American Container Port Traffic">[http://aapa.files.cms-plus.com/Statistics/NORTHAMERICANPORTCONTAINERTRAFFIC2009.pdf]  {{webarchive |url=https://web.archive.org/web/20140717002017/http://aapa.files.cms-plus.com/Statistics/NORTHAMERICANPORTCONTAINERTRAFFIC2009.pdf |date=July 17, 2014 }}</ref>
+
+Charleston is becoming a popular location for information technology jobs and corporations,<ref>{{cite web|url=http://www.huffingtonpost.com/lisa-chau/charleston-south-carolina_b_7796950.html|title=Charleston, South Carolina Outpaces the Nation in Tech Growth|last=Chau|first=Lisa|date=July 15, 2015|website=HuffingtonPost.com|publisher=|access-date=January 21, 2017}}</ref> and this sector has had the highest rate of growth between 2011 and 2012, due in large part to the Charleston Digital Corridor. In 2013, the Milken Institute ranked the Charleston region as the ninth-best performing economy in the US because of its growing IT sector. Notable companies include [[Blackbaud]], SPARC, BoomTown, CSS, and Benefitfocus.
+
+In June 2017, the mean sales price for a home in Charleston was $351,186 and the [[median]] price was $260,000.<ref>{{cite web|url=http://www.charlestonrealtors.com/wp-content/uploads/2017/07/CTAR_MMI_2017-06.pdf |title=Monthly Indicators |publisher=Charleston Trident Association of REALTORS |page =2 |date=June 2017|accessdate=2017-07-25}}</ref>
+
+==Government==
+{{stack|float=right|[[File:Spoleto Opening 2013.JPG|right|thumb|Charleston City Hall is open to tourists for free historical tours. Shown during [[Spoleto Festival USA]]]]}}
+
+Charleston has a [[mayor-council government|strong mayor-council government]], with the mayor acting as the chief administrator and the executive officer of the municipality. The mayor also presides over [[city council]] meetings and has a vote, the same as other council members. The current mayor, since 2016, is [[John Tecklenburg]] The council has 12 members who are each elected from [[single-member districts]].
+
+In 2006, Charleston's residents voted against [[South Carolina Amendment 1 (2006)|Amendment 1]], which sought to ban [[same-sex marriage]] in that state. Statewide, the measure passed by 78% to 22%, but the voters of Charleston rejected it by 3,563 (52%) to 3,353 votes (48%).<ref>{{cite web|url=http://www.charlestoncounty.org/departments/BEVR/files/precint11.HTM|title=Charleston County election results by precinct: 2006 general election}}</ref>
+
+===Fire department===
+[[File:Charlestonfd.JPG|thumb|left|Fire Department station houses for Engines 2 and 3 of the Charleston Fire Department]]
+
+The [[City of Charleston Fire Department]] consists over 300 full-time firefighters. These firefighters operate out of 20 companies located throughout the city: 16 engine companies, two tower companies, and one ladder company. Training, Fire Marshall, Operations, and Administration are the divisions of the department.<ref>{{cite web|url=http://www.ksla.com/Global/story.asp?S=6677598|title=Investigation examining Charleston firefighters' handling of deadly blaze,|date=June 19, 2007|publisher=Ksla.com|accessdate=September 17, 2014|archive-url=https://web.archive.org/web/20140717143939/http://www.ksla.com/Global/story.asp?S=6677598#|archive-date=July 17, 2014|dead-url=yes|df=mdy-all}}</ref> The department operates on a 24/48 schedule and had a Class 1 ISO rating until late 2008, when ISO officially lowered it to Class 3.<ref>[http://www.charlestoncity.info/dept/content.aspx?nid=114&cid=411]  {{webarchive |url=https://web.archive.org/web/20120327074539/http://www.charlestoncity.info/dept/content.aspx?nid=114&cid=411 |date=March 27, 2012 }}</ref>  Russell (Rusty) Thomas served as Fire Chief until June 2008, and was succeeded by Chief Thomas Carr in November 2008.
+
+===Police department===
+The [[City of Charleston Police Department]], with a total of 458 sworn officers, 117 civilians, and 27 reserve police officers, is South Carolina's largest police department.<ref>[http://www.charlestoncity.info/dept/content.aspx?nid=237&cid=1109] {{webarchive |url=https://web.archive.org/web/20120207061132/http://www.charlestoncity.info/dept/content.aspx?nid=237&cid=1109 |date=February 7, 2012 }}</ref> Their procedures on cracking down on drug use and gang violence in the city are used as models to other cities to do the same.{{Citation needed|date=October 2010}} According to the final 2005 ''FBI Crime Reports'', Charleston crime level was worse than the national average in almost every major category.<ref>{{cite web|url=http://charlestonsc.areaconnect.com/crime1.htm |title=2005 FBI Crime Reports |publisher=Charlestonsc.areaconnect.com |date= |accessdate=2009-02-25}}</ref> Greg Mullen, the former Deputy Chief of the [[Virginia Beach Police Department|Virginia Beach, Virginia Police Department]], serves as the current Chief of the Charleston Police Department. The former Charleston police chief was Reuben Greenberg, who resigned August 12, 2005. Greenberg was credited with creating a polite police force that kept [[police brutality]] well in check, even as it developed a visible presence in community policing and a significant reduction in crime rates.<ref>[[Michael Ledeen]], [http://www.nationalreview.com/ledeen/ledeen200508180822.asp "Hail to the Chief"], ''[[National Review Online]]'', August 18, 2005. Retrieved 2007-06-18.</ref> Crime overall, declining since 1999, has continued to decline in Charleston and in most major cities across the country since then.
+
+===EMS and medical centers===
+[[Emergency medical services]] (EMS) for the city are provided by Charleston County Emergency Medical Services (CCEMS) & Berkeley County Emergency Medical Services (BCEMS). The city is served by the EMS and 911 services of both Charleston and [[Berkeley County, South Carolina|Berkeley]] counties since the city is part of both counties.
+
+Charleston is the primary medical center for the eastern portion of the state. The city has several major hospitals located in the downtown area: [[MUSC Medical Center|Medical University of South Carolina Medical Center]] (MUSC), Ralph H. Johnson VA Medical Center,<ref>{{cite web|url=http://www.charleston.va.gov/ |title=Ralph H. Johnson VA Medical Center |website=Charleston.va.gov |date= |accessdate=2017-05-30}}</ref> and Roper Hospital.<ref>{{cite web|url=http://www.ropersaintfrancis.com/roper/|title=Charleston Hospital – Roper Hospital – Roper St. Francis – Roper St. Francis|first=Carly |last=Messmer|website=Ropersaintfrancis.com}}</ref>  MUSC is the state's first school of medicine, the largest medical university in the state, and the sixth-oldest continually operating school of medicine in the United States. The downtown medical district is experiencing rapid growth of [[biotechnology]] and [[medical research]] industries coupled with substantial expansions of all the major hospitals. Additionally, more expansions are planned or underway at another major hospital located in the West Ashley portion of the city: Bon Secours-St Francis Xavier Hospital.<ref>{{cite web|url=http://www.carealliance.com/bssf/default.asp/ |title=Archived copy |accessdate=2009-12-14 |deadurl=yes |archiveurl=https://web.archive.org/web/20090420032524/http://www.carealliance.com/bssf/default.asp |archivedate=April 20, 2009 |df= }}</ref> The Trident Regional Medical Center<ref>[http://www.tridenthealthsystem.com/CustomPage.asp?guidCustomContentID=1BC3E34B-F91D-11D3-A2CA-00508B1245EF/ ]{{dead link|date=May 2017}}</ref> located in the [[North Charleston, South Carolina|City of North Charleston]] and East Cooper Regional Medical Center<ref>{{cite web|url=http://www.eastcoopermedctr.com/CWSContent/eastcoopermedctr/ |title=Compassionate Pregnancy & Child Birth Services – East Cooper Medical Center |first= |last=RC |publisher= |deadurl=yes |archiveurl=https://web.archive.org/web/20090201161757/http://eastcoopermedctr.com/CWSContent/eastcoopermedctr |archivedate=February 1, 2009 |df= }}</ref> located in [[Mount Pleasant, South Carolina|Mount Pleasant]] also serve the needs of residents of the city of Charleston.
+
+===Coast Guard Station Charleston===
+Coast Guard Station Charleston responds to search and rescue emergencies, conducts maritime law enforcement activities, and Ports, Waterways, and Coastal Security (PWCS) missions.  Personnel from Station Charleston are highly trained professionals, composed of federal law enforcement officers, boat crewmen, and coxswains who are capable of completing a wide range of missions.
+
+==Crime==
+
+The following table shows Charleston's crime rate for six crimes that [[Morgan Quitno]] uses to calculate the ranking of "America's most dangerous cities", in comparison to the national average. The statistics shown are for the number of crimes committed per 100,000 people.<ref>{{cite web|url=http://www.city-data.com/city/Charleston-South-Carolina.html|title=Charleston, South Carolina (SC) Detailed Profile&nbsp;– relocation, real estate, travel, jobs, hospitals, schools, crime, move, moving, houses news, sex offenders|publisher=City-data.com|date=|accessdate=2009-02-25}}</ref>
+{|class="wikitable"
+|-
+! Crime
+! Charleston (2011)
+! National Average
+|-
+|Murder
+|style="text-align:right;"|11.0
+|style="text-align:right;"|4.9
+|-
+|Rape
+|style="text-align:right;"|30.0
+|style="text-align:right;"|24.7
+|-
+|Robbery
+|style="text-align:right;"|162.0
+|style="text-align:right;"|133.4
+|-
+|Assault
+|style="text-align:right;"|195.0
+|style="text-align:right;"|160.5
+|-
+|Burglary
+|style="text-align:right;"|527.0
+|style="text-align:right;"|433.8
+|-
+|Theft
+|style="text-align:right;"|2,957.0
+|style="text-align:right;"|2,434.1
+|-
+|Auto thefts
+|style="text-align:right;"|270.0
+|style="text-align:right;"|222.3
+|-
+|Arson
+|style="text-align:right;"|6.0
+|style="text-align:right;"|4.9
+|}
+
+Since 1999, the overall crime rate of Charleston has declined markedly. The total crime index rate for Charleston in 1999 was 597.1 crimes committed per 100,000 people, while in 2011, the total crime index rate was 236.4 per 100,000. (The United States average is 320.9 per 100,000.){{citation needed|date=June 2015}}
+
+==Transportation==
+
+===Airport===
+The City of Charleston is served by the [[Charleston International Airport]]. It is located in the City of North Charleston and is about {{convert|12|mi|abbr=on}} northwest of downtown Charleston. It is the busiest passenger airport in South Carolina {{airport codes|CHS|KCHS}}. The airport shares runways with the adjacent [[Charleston Air Force Base]]. [[Charleston Executive Airport]] is a smaller airport located in the John's Island section of the city of Charleston and is used by noncommercial aircraft. Both airports are owned and operated by the Charleston County Aviation Authority.
+
+===Rail===
+Charleston is served by two daily [[Amtrak]] trains: [[Palmetto (Amtrak)|The Palmetto]] and [[Silver Meteor]] at the Amtrak station located at 4565 Gaynor Avenue in the City of North Charleston located around 7.5 miles from downtown Charleston.
+
+===Interstates and highways===
+
+[[Interstate 26 in South Carolina|Interstate&nbsp;26]] (I-26) begins in downtown Charleston, with exits to the Septima Clark Expressway, the [[Arthur Ravenel Jr. Bridge]] and Meeting Street. Heading northwest, it connects the city to [[North Charleston, South Carolina|North Charleston]], the [[Charleston International Airport]], [[Interstate 95 in South Carolina|I-95]], and Columbia. The Arthur Ravenel Jr. Bridge and Septima Clark Expressway are part of [[U.S. Route 17 in South Carolina|U.S. Route&nbsp;17]] (US&nbsp;17), which travels east–west through the cities of Charleston and Mount Pleasant. The Mark Clark Expressway, or [[Interstate 526|I-526]], is the [[Bypass (road)|bypass]] around the city and begins and ends at US&nbsp;17. [[U.S. Route 52 in South Carolina|US&nbsp;52]] is Meeting Street and its [[U.S. Route 52 Spur (Charleston, South Carolina)|spur]] is East Bay Street, which becomes Morrison Drive after leaving the east side. This highway merges with King Street in the city's Neck area (industrial district). [[U.S. Route 78 in South Carolina|US&nbsp;78]] is King Street in the downtown area, eventually merging with Meeting Street.
+
+====Major highways====
+* {{jct|state=SC|I|26}} (eastern terminus is in Charleston)
+* {{jct|state=SC|I|526}}
+* {{jct|state=SC|BS|526|dab1=Mount Pleasant}}
+* {{jct|state=SC|US|17}}
+* {{jct|state=SC|US|52}} (eastern terminus is in Charleston)
+* {{Jct|state=SC|US-Spur|52|dab1=Charleston|}}
+* {{jct|state=SC|US|78}} (Eastern terminus is in Charleston)
+* {{jct|state=SC|SC|7|name1=Sam Rittenberg Boulevard}}
+* {{jct|state=SC|SC|30|name1=James Island Expressway}}
+* {{jct|state=SC|SC|61|name1=St. Andrews Boulevard/Ashley River Road}}
+* {{jct|state=SC|SC|171|name1=Old Towne Road/Folly Road}}
+* {{jct|state=SC|SC|461|name1=Paul Cantrell Boulevard/Glenn McConnell Parkway}}
+* {{jct|state=SC|SC|700|name1=Maybank Highway}}
+
+====Arthur Ravenel Jr. Bridge====
+The [[Arthur Ravenel Jr. Bridge]] across the [[Cooper River (South Carolina)|Cooper River]] opened on July 16, 2005, and was the [[List of longest cable-stayed bridge spans|second-longest]] [[cable-stayed bridge]] in the Americas at the time of its construction.{{Citation needed|date=February 2012}} The bridge links downtown Charleston with Mount Pleasant, and has eight lanes plus a 12-foot lane shared by pedestrians and bicycles. It replaced the [[John P. Grace Memorial Bridge|Grace Memorial Bridge]] (built in 1929) and the [[Silas N. Pearman Bridge]] (built in 1966). They were considered two of the more dangerous bridges in America and were demolished after the Ravenel Bridge opened.
+
+[[File:Arthur Ravenel Bridge (from water).jpg|thumb|center|upright=3.2|The new Arthur Ravenel Jr. Bridge, constructed in 2005 and named after former [[United States House of Representatives|U.S. Representative]] [[Arthur Ravenel Jr.]], who pushed the project to fruition, was at the time of its construction the [[List of longest cable-stayed bridges|second longest]] [[cable-stayed bridge]] in the [[Western Hemisphere]].{{Citation needed|date=February 2012}}]]
+
+===City bus service===
+The city is also served by a bus system, operated by the [[Charleston Area Regional Transportation Authority]] (CARTA). Most of the urban area is served by regional fixed route buses, which are equipped with bike racks as part of the system's Rack and Ride program. CARTA offers connectivity to historic downtown attractions and accommodations with the Downtown Area Shuttle trolley buses, and it offers curbside pickup for disabled passengers with its Tel-A-Ride buses.
+
+Rural parts of the city and metropolitan area are served by a different bus system, operated by Berkeley-Charleston-Dorchester Rural Transportation Management Association.  The system is also commonly called the TriCounty Link.<ref>{{cite web|url=http://www.ridetricountylink.com/index.html|title=TriCounty Link rural bus service with flagstop system serving Berkeley, Charleston and Dorchester counties of South Carolina|publisher=Ridetricountylink.com|accessdate=September 17, 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20141101032104/http://www.ridetricountylink.com/index.html|archivedate=November 1, 2014|df=mdy-all}}</ref>
+
+===Port===
+{{Main|Port of Charleston}}
+[[File:Charleston-ColumbusSt-port-terminal.jpg|thumb|left|Columbus Street Terminal viewed from the southwest]]
+The Port of Charleston, owned and operated by the South Carolina Ports Authority, is one of the largest ports in the United States, ranked in the top 25 by [[containerization|containerized cargo]] volume in 2014.<ref>{{cite web | website=dot.gov |url=https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/FFF_complete.pdf | title=Freight Facts and Figures: 2015 | publisher=[[Bureau of Transportation Statistics]] (U.S. Department of Transportation) | year=2015 | page=46 |accessdate=September 7, 2017}}  The cited data is in Figure 3-12 (Top 25 Water Ports by Containerized Cargo: 2014).</ref> It consists of five terminals, and a sixth terminal was to open in 2018. Despite occasional [[Charleston Five|labor disputes]], the port is ranked number one in customer satisfaction across North America by supply chain executives.<ref>[http://www.port-of-charleston.com/spa/news_statistics/news/port_charleston/2007JanFeb/JanFeb_News.pdf]  {{webarchive |url=https://web.archive.org/web/20110929165615/http://www.port-of-charleston.com/spa/news_statistics/news/port_charleston/2007JanFeb/JanFeb_News.pdf |date=September 29, 2011 }}</ref> Port activity at the two terminals located in the city of Charleston is one of the city's leading sources of revenue, behind tourism.
+
+Today, the Port of Charleston boasts the deepest water in the southeast region and regularly handles ships too big to transit through the [[Panama Canal]]. A harbor-deepening project<ref>{{cite web |url=http://www.scspa.com/Cargo/ReadytoGrow/harbordeepening.asp |title=Archived copy |accessdate=2011-12-28 |deadurl=yes |archiveurl=https://web.archive.org/web/20111204015408/http://www.scspa.com/Cargo/ReadytoGrow/harbordeepening.asp |archivedate=December 4, 2011 |df=mdy-all }}</ref> is currently underway to take the Port of Charleston's entrance channel to 54 feet and harbor channel to 52 feet at mean low tide.  With an average high tide of 6 feet, the depth clearances will become 60 feet and 58 feet, respectively.
+
+Union Pier, in the city of Charleston, is a cruise ship passenger terminal which hosts numerous cruise departures annually. In May 2010, the [[Carnival Cruise Lines|Carnival]] [[Carnival Fantasy|''Fantasy'']] was permanently stationed in Charleston, offering weekly cruises to the [[Bahamas]] and [[Key West]], eventually to include [[Bermuda]]. With the addition of the weekly Carnival Fantasy sailings, Union Terminal hosted 67 embarkations and ports of call in 2010.
+
+With the closure of the Naval Base and the [[Charleston Naval Shipyard]] in 1996, Detyens, Inc. signed a long term lease.  With three dry docks, one floating dock, and six piers, Detyens Shipyard, Inc. is one of the largest commercial marine repair facilities on the East Coast. Projects include military, commercial, and cruise ships.
+
+==Nearby cities and towns==
+{{Col-begin}}
+{{Col-3}}
+* Town of [[Awendaw, South Carolina|Awendaw]]
+* Town of [[Cottageville, South Carolina|Cottageville]]
+* City of [[Folly Beach, South Carolina|Folly Beach]]
+* City of [[Hanahan, South Carolina|Hanahan]]
+* City of [[Goose Creek, South Carolina|Goose Creek]]
+* Town of [[Harleyville, South Carolina|Harleyville]]
+{{Col-3}}
+* Town of [[Hollywood, South Carolina|Hollywood]]
+* City of [[Isle of Palms, South Carolina|Isle of Palms]]
+* Town of [[James Island, South Carolina|James Island]]
+* Town of [[McClellanville, South Carolina|McClellanville]]
+* Town of [[Meggett, South Carolina|Meggett]]
+* Town of [[Mount Pleasant, South Carolina|Mount Pleasant]]
+{{Col-3}}
+* City of [[North Charleston, South Carolina|North Charleston]]
+* Town of [[Ridgeville, South Carolina|Ridgeville]]
+* Town of [[Rockville, South Carolina|Rockville]]
+* Town of [[Sullivan's Island, South Carolina|Sullivan's Island]]
+* Town of [[Summerville, South Carolina|Summerville]]
+* City of [[Walterboro, South Carolina|Walterboro]]
+{{Col-end}}
+
+===Other outlying areas===
+* [[Cross, South Carolina|Cross]]
+* [[Dewees Island]]
+* [[Edisto Island]]
+* [[James Island (South Carolina)|James Island]]
+* [[Johns Island, South Carolina|Johns Island]]
+* Ladson
+* [[Morris Island]]
+* [[Wadmalaw Island]]
+* Yonges Island
+* Saint Stephen
+
+==Parks==
+{{Col-begin}}
+{{Col-3}}
+* [[Allan Park (Charleston)|Allan Park]]
+* [[Bees Landing Park]]
+* [[Brittlebank Park]]
+* [[Cannon Park (Charleston, SC)|Cannon Park]]
+* [[Charles Towne Landing|Charles Towne Landing State Park]]<ref>{{cite web|url=http://www.charlestowne.org/|title=Charles Towne Landing|publisher=Charlestowne.org|accessdate=September 17, 2014|archive-url=https://web.archive.org/web/20150820021202/http://www.charlestowne.org/|archive-date=August 20, 2015|dead-url=yes|df=mdy-all}}</ref>
+* [[Concord Park (Charleston)|Concord Park]]
+* [[Corrine Jones Playground]]
+* [[Demetre Park]]
+* Elliotborough Park and Community Garden
+* [[Etiwan Park]]
+
+{{Col-3}}
+* Hampstead Park
+* [[Hampton Park (Charleston)|Hampton Park]]
+* Harmon Park
+* [[Hazel Parker Playground]]
+* Lenevar Park
+* [[Marion Square]]
+* [[Martin Park]]
+* Mary Utsey Park
+* [[Mcmahon playground|McMahon Playground]]
+* [[Mitchell Playground]]
+
+{{Col-3}}
+* [[Moultrie Playground]]
+* [[Northbridge Park]]
+* Parkshore Park
+* [[Theodora Park]]
+* [[Vivian Anderson Moultrie Playground]]
+* [[Washington Square (Charleston)|Washington Square Park]]
+* [[Charleston Waterfront Park|Waterfront Park]]
+* [[West Ashley Park]]
+* [[White Point Garden]]
+{{Col-end}}
+
+==Schools, colleges, and universities==
+{{See also|List of schools in Charleston, South Carolina}}
+Because most of the city of Charleston is located in Charleston County, it is served by the [[Charleston County School District]]. Part of the city, however, is served by the [[Berkeley County School District]] in northern portions of the city, such as the Cainhoy Industrial District, Cainhoy Historical District and Daniel Island.
+
+Charleston is also served by a large number of independent schools, including [[Porter-Gaud School]] (K-12), [[Charleston Collegiate School]] (K-12), [[Ashley Hall (school)|Ashley Hall]] (Pre K-12), [[Charleston Day School]] (1–8), First Baptist Church School (K-12), Palmetto Christian Academy (K-12), Coastal Christian Preparatory School (K-12), Mason Preparatory School<ref>{{cite web|url=http://www.masonprep.org/ |title=Private School Charleston SC – Mason Preparatory School |website=Masonprep.org |date=2017-05-24 |accessdate=2017-05-30}}</ref> (K-8), and Addlestone Hebrew Academy (K-8).
+
+The [[Roman Catholic Diocese of Charleston]] Office of Education also operates out of the city and oversees several K-8 parochial schools, such as Blessed Sacrament School, Christ Our King School, Charleston Catholic School, Nativity School, and Divine Redeemer School, all of which are "feeder" schools into [[Bishop England High School]], a diocesan high school within the city. [[Bishop England]], [[Porter-Gaud School]], and [[Ashley Hall (school)|Ashley Hall]] are the city's oldest and most prominent private schools, and are a significant part of Charleston history, dating back some 150 years.
+
+Public institutions of higher education in Charleston include the [[College of Charleston]] (the nation's 13th-oldest university), [[The Citadel, The Military College of South Carolina]], and the [[Medical University of South Carolina]]. The city is also home to private universities, including the [[Charleston School of Law]]. Charleston is also home to the Roper Hospital School of Practical Nursing, and the city has a downtown satellite campus for the region's technical school, [[Trident Technical College]]. Charleston is also the location for the only college in the country that offers bachelor's degrees in the building arts, The [[American College of the Building Arts]].<ref>{{cite web|url=http://www.buildingartscollege.us/ |title=Welcome – American College of the Building Arts in Charleston, SC |website=Buildingartscollege.us |date=2016-07-12 |accessdate=2017-05-30}}</ref> [[The Art Institute of Charleston]], located downtown on North Market Street, opened in 2007.
+Higher education includes institutions such as the Medical University of South Carolina, College of Charleston, The Citadel, and [[Charleston School of Law]]. In addition, [[Charleston Southern University]] is located in nearby North Charleston.
+
+==Armed Forces==
+Charleston, North Charleston, Goose Creek, and Hanahan are home to branches of the United States military. During the Cold War, the [[Charleston Naval Shipyard|Naval Base]] (1902–1996) became the third largest U.S. homeport, with 23,500 Navy and Marine personnel, and 13,200 civilians serving over 80 ships and submarines. In addition, the combined facilities of the Naval Base and Weapons Station created the largest U.S. submarine port.  The [[Charleston Naval Shipyard]] repaired frigates, destroyers, cruisers, submarine tenders, and submarines. Also during this period, the shipyard conducted refueling of nuclear submarines.
+
+The Weapons Station was the Atlantic Fleet's loadout base for all nuclear [[ballistic missile submarine]]s. Two SSBN "Boomer" squadrons and a submarine tender were homeported at the Weapons Station, while one SSN attack squadron, [[Submarine Squadron 4]], and a submarine tender were homeported at the Naval Base. At the 1996 closure of the station's Polaris Missile Facility Atlantic (POMFLANT), over 2,500 nuclear warheads and their [[UGM-27 Polaris]], [[UGM-73 Poseidon]], and [[UGM-96 Trident I]] delivery missiles ([[SLBM]]) were stored and maintained, guarded by a U.S. Marine Corps security force company.
+
+In 2010, the Air Force base (3,877 acres) and Naval Weapons Station (>17,000 acres) merged to form [[Joint Base Charleston]]. Today, Joint Base Charleston, supporting 53 military commands and federal agencies, provides service to over 79,000 airmen, sailors, soldiers, Marines, [[United States Coast Guard#Creed of the United States Coast Guardsman|coast guardsmen]], Department of Defense civilians, dependents, and retirees.
+
+===U.S. Coast Guard===
+*Coast Guard Maritime Law Enforcement Academy (MLEA)
+*Coast Guard Sector Charleston (District 7)
+*Coast Guard Station Charleston (Search and Rescue, Maritime Law Enforcement, Ports, Waterways, and Coastal Security)
+*Coast Guard Air Facility, Johns Island
+*Coast Guard [[Eurocopter HH-65 Dolphin]], Johns Island
+*USCGC Yellowfin, [[Marine Protector-class coastal patrol boat]]
+*USCGC Anvil, Charleston (Aids to Navigation)
+*[[USCGC Hamilton (WMSL-753)]] [[National Security Cutter]], (NSC)
+*[[USCGC James (WMSL-754)]] [[National Security Cutter]], (NSC)
+
+===Army===
+*[[United States Army Corps of Engineers]], Charleston District
+
+==Media==
+{{Main|Media in Charleston, South Carolina}}
+
+===Broadcast television===
+Charleston is the nation's 98th-largest [[media market|Designated market area (DMA)]], with 312,770 households and 0.27% of the U.S. TV population.<ref>{{cite web|url=http://www.postandcourier.com/news/business|title= Charleston drops in TV market pecking order}}</ref> These stations are licensed in Charleston and have significant operations or viewers in the city:<ref>{{cite web|url=http://tvstations.procontentanddesign.com/browse/city/185_Charleston_SC.htm|title=Television station listings in Charleston, South Carolina – Total station FCC filings found|deadurl=yes|archiveurl=https://web.archive.org/web/20110715120014/http://tvstations.procontentanddesign.com/browse/city/185_Charleston_SC.htm|archivedate=July 15, 2011|df=mdy-all}}</ref>
+* [[WCBD-TV]] (2, [[NBC]]) and (14, [[The CW|CW]]): [[city of license|licensed]] in Charleston, owned by [[Nexstar Media Group]], broadcast studios are located in Mount Pleasant
+* [[WGWG]] (4, [[Heroes & Icons]]): licensed in Charleston, formerly owned by [[Allbritton Communications]], currently owned by [[Howard Stirk Holdings]], broadcast studios are located in Mount Pleasant
+* [[WCSC-TV]] (5, [[CBS]], [[Bounce TV]], [[Grit (TV network)|Grit]]): licensed in Charleston, owned by [[Gray Television]], broadcast studios are located in Charleston
+* [[South Carolina Educational Television|WITV]] (7, [[PBS]]): licensed in Charleston, owned by [[South Carolina Educational Television]], transmitter in Mount Pleasant
+* [[WLCN-CD]] (18, [[Christian Television Network|CTN]]) licensed in Charleston, owned by Faith Assembly of God, broadcast studios are located in [[Summerville, South Carolina]]
+* [[WTAT|WTAT-TV]] (24, [[Fox Broadcasting Company|Fox]]): licensed in Charleston, owned by [[Cunningham Broadcasting]], broadcast studios are located in North Charleston
+* WAZS-CD (29, [[Azteca America]] Independent) licensed in Charleston, owned by Jabar Communications, broadcast studios are located in North Charleston
+* WJNI-CD (31, [[America One]] Independent) licensed in Charleston, owned by Jabar Communications, broadcast studios are located in North Charleston, South Carolina
+* [[WCIV]] (36, [[MyNetworkTV]], [[American Broadcasting Company|ABC]], [[MeTV]]): licensed in Charleston, owned by [[Sinclair Broadcast Group|Sinclair Broadcasting Company]], broadcast studios are located in Mount Pleasant
+* The Coastal Buzz- areas only media company dedicated to positive news. Owned by Positive Life Media and run by Chris & Sandy Benton. https://www.TheCoastalBuzz.com
+
+==Notable people==
+<!-- Please respect alphabetical order by last name -->
+* "[[Angry Grandpa]]," YouTube Personal
+* [[Herman Baer]], American author
+* [[Frances Elizabeth Barrow]], children's writer
+* [[Solomon Nunes Carvalho]], painter and photographer
+* [[Mo Brooks]], U.S. Representative
+* [[Mark Catesby]], English naturalist and author of the ''Natural History of Carolina, Florida and the Bahama Islands''
+* [[Catherine Coleman]], chemist, former US Air Force officer, NASA astronaut
+* [[Stephen Colbert]], comedian and host of ''[[The Late Show with Stephen Colbert|The Late Show]]''
+* [[Andy Dick]], actor
+* [[Shepard Fairey]], graffiti artist
+* [[Mamie Garvin Fields]] (1888–1987), teacher and civil rights activist
+* [[Robert F. Furchgott]], The Nobel Prize in Physiology or Medicine winner, 1998<ref>{{cite web|url=https://www.nobelprize.org/nobel_prizes/medicine/laureates/1998/furchgott-facts.html |title=Robert F. Furchgott – Facts |website=Nobelprize.org |date= |accessdate=2017-05-30}}</ref>
+* [[Thomas Gibson]], actor and star of ''[[Criminal Minds]]''
+* [[Fritz Hollings]], former United States Senator and Governor of South Carolina
+* [[Lauren Hutton]], model and actress, starring in ''[[American Gigolo]]'' and ''[[The Gambler (1974 film)|The Gambler (1974)]]''
+* [[Robert Jordan]] (James Oliver Rigney Jr.), fantasy author, notable for the bestselling ''[[Wheel of Time]]'' series
+* [[John Laurens]], American revolutionary [[Lieutenant colonel]] in the continental army
+* [[Mary Elizabeth Lee]], writer
+* [[Helen Morris Lewis]], suffragist
+* [[Earl Manigault]], street basketball player
+* [[Peter Manigault]], wealthiest person in British North America in 1770
+* [[Louisa Susannah Cheves McCord]], writer
+* [[Jeremy McLellan]], stand-up comedian
+* [[Khris Middleton]], basketball player for the [[Milwaukee Bucks]] of the [[National Basketball Association]]
+* [[Julie Mitchum]], actress
+* [[Chris Owings]], baseball player for [[Arizona Diamondbacks]]
+* [[Henry Peronneau]] (d.1754), said to be the wealthiest man in America
+* [[Robert Purvis]] Abolitionist leader
+* [[Alexandra Ripley]], author of [[Scarlett (Ripley novel)|''Scarlett'']]
+* [[Darius Rucker]], former lead singer of [[Hootie and the Blowfish]]
+* [[Clarence E. Singletary]], South Carolina state legislator and judge
+* [[Melanie Thornton]], singer of [[La Bouche]]
+* [[Louise Hammond Willis Snead]], writer, lecturer, artist
+* [[Denmark Vesey]], Revolutionary
+
+==Sister cities==
+Charleston has one official sister city, [[Spoleto]], Umbria, Italy.<ref>[http://www.charlestonspoleto.org/] {{webarchive |url=https://web.archive.org/web/20150801100217/http://www.charlestonspoleto.org/ |date=August 1, 2015 }}</ref> The relationship between the two cities began when Pulitzer Prize-winning Italian composer [[Gian Carlo Menotti]] selected Charleston as the city to host the American version of Spoleto's annual Festival of Two Worlds. "Looking for a city that would provide the charm of Spoleto, as well as its wealth of theaters, churches, and other performance spaces, they selected Charleston, South Carolina, as the ideal location. The historic city provided a perfect fit: intimate enough that the Festival would captivate the entire city, yet cosmopolitan enough to provide an enthusiastic audience and robust infrastructure."<ref name="charlestonspoleto.org"/>
+
+Charleston is also twinned with [[Speightstown]], [[Saint Peter, Barbados|St. Peter]], Barbados.<ref>{{cite web|url=http://www.tourism.gov.bb/cultural-heritage-programme.html|title=Cultural Heritage Programme – The Barbados Carolina Connection|publisher=Tourism.gov.bb|accessdate=September 17, 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140715101957/http://www.tourism.gov.bb/cultural-heritage-programme.html|archivedate=July 15, 2014|df=mdy-all}}</ref> Early English settlers here designed the original parts of Charlestown based on the plans of Barbados's capital city [[Bridgetown]].<ref>[http://www.discoversouthcarolina.com/files/pdfs/African%20American/SC-Barbados-connection.pdf]  {{webarchive |url=https://web.archive.org/web/20130524181026/http://www.discoversouthcarolina.com/files/pdfs/African%20American/SC-Barbados-connection.pdf |date=May 24, 2013 }}</ref> Many indigo, tobacco, and cotton planters relocated their slaves and plantation operations from Speightstown to Charleston after the sugarcane industry came to dominate agricultural production in Barbados.<ref>{{cite web|url=http://www.sciway.net/sn/43.html|title=Barbados: South Carolina's Mother Colony|publisher=Sciway.net|accessdate=September 17, 2014}}</ref>
+
+==See also==
+{{Portal|South Carolina}}
+* [[1886 Charleston earthquake]]
+* [[Charleston Sofa Super Store fire]]
+* [[French Quarter (Charleston, South Carolina)]]
+* [[Hampton Park Terrace]]
+* [[John Henry Devereux]]
+* [[List of people from Charleston, South Carolina]]
+* [[List of tallest buildings in Charleston, South Carolina]]
+* [[List of television shows and films in Charleston, South Carolina]]
+* [[National Register of Historic Places listings in Charleston, South Carolina]]
+* [[Old Slave Mart]]
+* [[Riverland Terrace]]
+
+==Notes==
+{{noteslist}}
+{{Reflist|30em}}
+
+==References==
+* {{cite EB9 |mode=cs2 |wstitle=Charleston |volume=5  |ref={{harvid|''EB''|1878}} |pages=428–429}}
+* {{cite EB1911 |mode=cs2 |wstitle=Charleston (South Carolina) |volume=5 |ref={{harvid|''EB''|1911}} |pages=943–945}}
+* {{citation |last=Edgar |first=Walter B. |title=South Carolina: A History |url=https://books.google.com/books?id=EFSbwGk2szgC&printsec=frontcover |publisher=University of South Carolina Press |date=1998 |location=Columbia|isbn=9781570032554 }}
+* {{citation |last=Frazier |first=Herb |author2=Bernard Edward Powers Jr. |author3=Marjory Wentworth |url=https://books.google.com/books?id=Z7o7CwAAQBAJ&printsec=frontcover |title=We Are Charleston: Tragedy and Triumph at Mother Emanuel |publisher=W Publishing |location=Nashville |date=2016 |ref={{harvid|Frazier & al.|2016}}|isbn=9780718041496 }}.
+* {{citation |last=McInnis |first=Maurie D. |url=https://books.google.com/books?id=a8g3CwAAQBAJ&printsec=frontcover |title=The Politics of Taste in Antebellum Charleston |location=Chapel Hill |publisher=University of North Carolina Press |date=2005|isbn=9781469625997 }}
+* {{citation |last=Thompson |first=Michael D. |url=https://books.google.com/books?id=Cs27BwAAQBAJ&printsec=frontcover |title=Working on the Dock of the Bay: Labor and Enterprise in an Antebellum Southern Port |date=2015 |publisher=University of South Carolina Press |location=Columbia}}
+
+==Further reading==
+
+===General===
+* Borick, Carl P.  ''A Gallant Defense: The Siege of Charleston, 1780.'' [[University of South Carolina Press|U. of South Carolina Press]], 2003. 332 pp.
+* Bull, Kinloch Jr.  ''The Oligarchs in Colonial and Revolutionary Charleston: Lieutenant Governor William Bull II and His Family.'' U. of South Carolina Press, 1991. 415 pp.
+* Clarke, Peter.  ''A Free Church in a Free Society. The Ecclesiology of John England, Bishop of Charleston, 1820–1842, a Nineteenth Century Missionary Bishop in the Southern United States.'' Charleston, South Carolina: Bagpipe, 1982. 561 pp.
+* Coker, P. C., III.  ''Charleston's Maritime Heritage, 1670–1865: An Illustrated History.'' Charleston, South Carolina: Coker-Craft, 1987. 314 pp.
+* Doyle, Don H.  ''New Men, New Cities, New South: Atlanta, Nashville, Charleston, Mobile, 1860–1910.'' [[University of North Carolina Press|U. of North Carolina Press]], 1990. 369 pp.
+* Fraser, Walter J. Jr.  ''Charleston! Charleston! The History of a Southern City.'' U. of South Carolina, 1990. 542 pp. the standard scholarly history
+* Gillespie, Joanna Bowen.  ''The Life and Times of Martha Laurens Ramsay, 1759–1811.'' U. of South Carolina Press, 2001.
+* Goloboy, Jennifer L. ''Charleston and the Emergence of Middle-Class Culture in the Revolutionary Era.'' Athens, GA; University of Georgia Press, 2016.
+* Hagy, James William.  ''This Happy Land: The Jews of Colonial and Antebellum Charleston.'' [[University of Alabama Press|U. of Alabama Press]], 1993.
+* Hart, Emma. ''Building Charleston: Town and Society in the Eighteenth Century British Atlantic World'' (University of Virginia Press, 2010, University of South Carolina Press 2015)
+* Jaher, Frederic Cople.  ''The Urban Establishment: Upper Strata in Boston, New York, Charleston, Chicago, and Los Angeles.'' [[University of Illinois Press|U. of Illinois Press]], 1982. 777 pp.
+* Pease, William H. and Pease, Jane H.  ''The Web of Progress: Private Values and Public Styles in Boston and Charleston, 1828–1843. '' [[Oxford University Press|Oxford U. Press]], 1985. 352 pp.
+* Pease, Jane H. and Pease, William H.  ''A Family of Women: The Carolina Petigrus in Peace and War.'' U. of North Carolina Press, 1999. 328 pp.
+* Pease, Jane H. and Pease, William H.  ''Ladies, Women, and Wenches: Choice and Constraint in Antebellum Charleston and Boston.'' U. of North Carolina Press, 1990. 218 pp.
+* Phelps, W. Chris.  ''The Bombardment of Charleston, 1863–1865.'' Gretna, La.: Pelican, 2002. 175 pp.
+*  Rosen, Robert N.  ''Confederate Charleston: An Illustrated History of the City and the People during the Civil War.'' U. of South Carolina Press, 1994. 181 pp.
+* Rosen, Robert. ''A Short History of Charleston.'' University of South Carolina Press, (1997). {{ISBN|1-57003-197-5}}, scholarly survey
+* Spence, E. Lee. ''Spence's Guide to South Carolina: diving, 639 shipwrecks (1520–1813), saltwater sport fishing, recreational shrimping, crabbing, oystering, clamming, saltwater aquarium, 136 campgrounds, 281 boat landings'' (Nelson Southern Printing, Sullivan's Island, South Carolina: Spence, ©1976)<ref>{{cite web|url=http://www.worldcatlibraries.org/oclc/2846435&referer=brief_results |title=Spence's Guide to South Carolina : diving, 639 shipwrecks (1520–1813), saltwater sport fishing, recreational shrimping, crabbing, oystering, clamming, saltwater aquarium, 136 campgrounds, 281 boat landings (Book, 1976) [WorldCat.org&#93; |website=Worldcatlibraries.org |date=2017-04-03 |accessdate=2017-05-30}}</ref> OCLC: 2846435
+* Spence, E. Lee. ''Treasures of the Confederate Coast: the "real Rhett Butler" & Other Revelations'' (Narwhal Press, Charleston/Miami, ©1995) {{ISBN|1-886391-01-7}} {{ISBN|1-886391-00-9}}, {{OCLC|32431590}}
+
+===Art, architecture, city planning, literature, science===
+* {{cite book |title=Movie Theaters of Charleston |first1=John R. |last1=Coles |first2=Mark C. |last2=Tiedj|type=Paperback |page=97 |date=June 4, 2009 |isbn=1-4414-9355-7}}
+* Cothran, James R.  ''Gardens of Historic Charleston.'' U. of South Carolina Press, 1995. 177 pp.
+* {{cite book |title=Sullivan's Island/Images of America |author1=Gadsden Cultural Center |isbn=978-0-7385-1678-3 |page=128 |publisher=Arcadia Publishing |date=October 4, 2004 |first2=Make |last2=Macmurphy |first3=Sullivan |last3=Williams |place=Charleston, South Carolina}}
+* Greene, Harlan.  ''Mr. Skylark: John Bennett and the Charleston Renaissance.'' [[University of Georgia Press|U. of Georgia Press]], 2001. 372 pp.
+* {{cite book |title=The Vernacular Architecture of Charleston and the Lowcountry, 1670 – 1990 |last1=Hudgins |last2=Carter L., ed |place=Charleston, South Carolina |publisher=Historic Charleston Foundation |year=1994}}
+* Hutchisson, James M. and Greene, Harlan, ed.  ''Renaissance in Charleston: Art and Life in the Carolina Low Country, 1900–1940.'' U. of Georgia Press, 2003. 259 pp.
+* Hutchisson, James M.  ''DuBose Heyward: A Charleston Gentleman and the World of Porgy and Bess.'' [[University Press of Mississippi|U. Press of Mississippi]], 2000. 225 pp.
+* {{cite book |last1=Jacoby |first1=Mary Moore, ed |title=The Churches of Charleston and the Lowcountry |place=Columbia South Carolina |publisher=University of South Carolina Press |year=1994 |type=hardback |isbn=0-87249-888-3}} {{ISBN|978-0-87249-888-4}}.
+* McNeil, Jim.  ''Charleston's Navy Yard: A Picture History.'' Charleston, South Carolina: Coker Craft, 1985. 217 pp.
+* {{cite book |last1=Moore |first1=Margaret H |title=Complete Charleston: A Guide to the Architecture, History, and Gardens of Charleston |place=Charleston, South Carolina |publisher=TM Photography |year=1997 |isbn=0-9660144-0-5}}
+*  O'Brien, Michael and Moltke-Hansen, David, ed.  ''Intellectual Life in Antebellum Charleston. '' [[University of Tennessee Press|U. of Tennessee Press]], 1986. 468 pp.
+* Poston, Jonathan H.  ''The Buildings of Charleston: A Guide to the City's Architecture.'' U. of South Carolina Press, 1997. 717 pp.
+* {{cite book |last1=Severens |first1=Kenneth |title=Charleston Antebellum Architecture and Civic Destiny |place=Knoxville |publisher=[[University of Tennessee Press]] |type=hardback |page=315 |year=1988 |isbn=0-87049-555-0}} {{ISBN|978-0-87049-555-7}}
+* {{citation |last=Huger Smith |first=Alice Ravenel |url=https://archive.org/details/dwellinghousesof00smitrich |last2=Huger Smith |first2=Daniel Elliott |ref={{harvid|Huger Smith & al.|1917}} |title=The Dwelling House of Charleston, South Carolina |last3=Simons |first3=Albert |location=Philadelphia |publisher=J.B. Lippincott & Co.}}
+* Stephens, Lester D.  ''Science, Race, and Religion in the American South: John Bachman and the Charleston Circle of Naturalists, 1815–1895.'' U. of North Carolina Press, 2000. 338 pp.
+* {{cite book |last1=Stockton  |first1=Robert, et. al |title=Information for Guides of Historic Charleston, South Carolina |place=Charleston, South Carolina |publisher=City of Charleston Tourism Commission |year=1985}}
+* {{cite book |last1=Waddell |first1=Gene |title=Charleston Architecture, 1670–1860 |place=Charleston |publisher=Wyrick & Company |year=2003 |volume=2 |page=992 |type=hardback |isbn=978-0-941711-68-5}} {{ISBN|0-941711-68-4}}
+* {{cite book |last1=Weyeneth |first1=Robert R. |title=Historic Preservation for a Living City: Historic Charleston Foundation, 1947–1997 |work=Historic Charleston Foundation Studies in History and Culture series |publisher=University of South Carolina Press |year=2000 |page=256  |isbn=1-57003-353-6}} {{ISBN|978-1-57003-353-7}}.
+* Yuhl, Stephanie E.  ''A Golden Haze of Memory: The Making of Historic Charleston.'' U. of North Carolina Press, 2005. 285 pp.
+* Zola, Gary Phillip.  ''Isaac Harby of Charleston, 1788–1828: Jewish Reformer and Intellectual.'' U. of Alabama Press, 1994. 284 pp.
+* Susan Harbage Page and Juan Logan. "Prop Master at Charleston's Gibbes Museum of Art", ''Southern Spaces'', September 21, 2009.
+* Nelson, Emily ''The Locket'', 2010, 207 pp. The Angel Oak tree at Johns Island near Charleston is featured prominently in the book, The Locket by Emily Nelson.
+* Wilson, Thomas D. ''The Ashley Cooper Plan: The Founding of Carolina and the Origins of Southern Political Culture''. Chapel Hill, N.C.: University of North Carolina Press, 2016.
+
+===Race===
+* Bellows, Barbara L.  ''Benevolence among Slaveholders: Assisting the Poor in Charleston, 1670–1860.'' Baton Rouge, LA: [[LSU Press|Louisiana State U. Press]], 1993.
+* Drago, Edmund L.  ''Initiative, Paternalism, and Race Relations: Charleston's Avery Normal Institute.'' Athens, GA: University of Georgia Press, 1990.
+* Egerton, Douglas R.  ''He Shall Go Out Free: The Lives of Denmark Vesey.'' Madison House, 1999.<ref>{{cite web |url=http://www.h-net.msu.edu/reviews/showrev.cgi?path=25142982863664 |title=H-Net Reviews |website=H-net.msu.edu |date=2000-06-28 |accessdate=2017-05-30 |archive-url=https://web.archive.org/web/20070704043814/http://www.h-net.msu.edu/reviews/showrev.cgi?path=25142982863664# |archive-date=July 4, 2007 |dead-url=yes |df=mdy-all }}</ref>
+* Greene, Harlan; Hutchins, Harry S. Jr.; and Hutchins, Brian E.  ''Slave Badges and the Slave-Hire System in Charleston, South Carolina, 1783–1865.'' McFarland, 2004. 194 pp.
+* Jenkins, Wilbert L.  ''Seizing the New Day: African Americans in Post-Civil War Charleston.'' Bloomington, IN: [[Indiana University Press]], 1998. 256 pp.
+* Johnson, Michael P. and Roark, James L.  ''No Chariot Let Down: Charleston's Free People of Color on the Eve of the Civil War. '' Chapel Hill, NC: University of North Carolina Press, 1984.
+* Kennedy, Cynthia M.  ''Braided Relations, Entwined Lives: The Women of Charleston's Urban Slave Society.'' Bloomington, IN: Indiana University Press, 2005. 
+* Powers, Bernard E. Jr.  ''Black Charlestonians: A Social History, 1822–1885.'' [[University of Arkansas Press|U. of Arkansas Press]], 1994.
+* Strickland, Jeff. ''Unequal Freedom: Ethnicity, Race, and White Supremacy in Civil War-Era Charleston.'' Gainesville, FL: University Press of Florida, 2015.
+* Wilson, Thomas D. ''The Ashley Cooper Plan: The Founding of Carolina and the Origins of Southern Political Culture''. Chapel Hill, NC: University of North Carolina Press, 2016.
+
+==External links==
+{{Sister project links|Charleston, South Carolina|voy=Charleston (South Carolina)}}
+* {{Official website|http://www.charleston-sc.gov/}}
+* [http://www.charleston.com/ Charleston Tourism Guide]
+* {{osmrelation|194119}}
+* [https://web.archive.org/web/20120706104328/http://www.charlestoncity.info/shared/docs/0/cl_e.pdf Charleston Corporate Limit Map 2006], archived from the original on July 6, 2012
+* [[Charleston, South Carolina metropolitan area]]
+* [[Joint Base Charleston]]
+* [http://www.patriotspoint.org/ Patriots Point Naval & Maritime Museum]
+* [http://www.cmohs.org/society/museum.htm Congressional Medal of Honor Museum]
+* [http://www.ussyorktown.net/main/index.php USS Yorktown CV10 Association]
+
+{{Berkeley County, South Carolina}}
+{{Charleston County, South Carolina}}
+{{Charleston, South Carolina}}
+{{South Carolina}}
+{{Authority control}}
+
+[[Category:Charleston, South Carolina]]<!--please leave the empty space as standard-->
+[[Category:Populated places established in 1670]]
+[[Category:Cities in Berkeley County, South Carolina]]
+[[Category:Cities in Charleston County, South Carolina]]
+[[Category:Cities in South Carolina]]
+[[Category:Former state capitals in the United States|South Carolina]]
+[[Category:Port cities and towns of the United States Atlantic coast]]
+[[Category:Former colonial and territorial capitals in the United States]]
+[[Category:County seats in South Carolina]]
+[[Category:Regions of South Carolina]]
+[[Category:Charleston–North Charleston–Summerville metropolitan area]]
+[[Category:Populated coastal places in South Carolina]]
+[[Category:1670 establishments in South Carolina]]

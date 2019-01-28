@@ -1,0 +1,166 @@
+{{Distinguish|Congress of the Confederate States}}
+{{Use mdy dates|date=April 2011}}
+{{Infobox legislature
+| name          = Congress of the Confederation
+| coa_pic       = Articles page1.jpg
+| coa_res       = 100px
+| coa_caption   = The [[Articles of Confederation|Articles of Confederation and Perpetual Union]]
+| legislature   = [[United States of America]]
+| house_type    = Unicameral
+| term_limits=3 out of 6 years
+|term_length=3-6 years
+|salary=None
+| members       = Variable; ~50
+| meeting_place = Variable, see [[#Meeting sites|below]]
+| established   = March 1, 1781
+| disbanded     = March 4, 1789
+| preceded_by   = [[Second Continental Congress]]
+| succeeded_by  = [[1st United States Congress]]
+|constitution=[[Articles of Confederation]]
+|leader1_type=[[President of the Continental Congress|President of Congress]]
+|leader1= [[Samuel Huntington (statesman)|Samuel Huntington]] (first)<br>[[Cyrus Griffin]] (last)
+|leader2_type=Secretary
+|leader2=[[Charles Thomson]]
+|committees1=[[Committee of the States]]
+|committees2=[[Committee of the Whole]]
+|last_election1=1788
+|authority=[[President of the Continental Congress|President of Congress]]
+| footnotes     = Though there were about 50 members of the Congress at a given time, it was the states that cast the votes, so there were effectively only 13 voting members or blocs.
+}}
+{{Continental Congress}}
+
+The '''Congress of the Confederation''', or the '''Confederation Congress''', formally referred to as the '''United States in Congress Assembled''', was the governing body of the [[United States of America]] that existed from March 1, 1781, to March 4, 1789. A [[unicameral]] body with legislative and executive function, it comprised delegates appointed by the legislatures of the several [[U.S. state|states]]. Each state delegation had one vote. It was preceded by the [[Second Continental Congress]] (1775–1781) and governed under the newly adopted ''[[Articles of Confederation|Articles of Confederation and Perpetual Union]]'', which were proposed in 1776–1777, adopted by the Continental Congress in July 1778 and finally agreed to by a unanimous vote of all thirteen states by 1781, held up by a long dispute over the cession of western territories beyond the [[Appalachian Mountains]] to the central government led by [[History of Maryland|Maryland]] and a coalition of smaller states without western claims, the plan introduced by Maryland politician John Hanson; the plan is referred to as 'The Hanson Plan'. The newly reorganized Congress at the time continued to refer itself as the [[Continental Congress]] throughout its eight-year history, although modern historians separate it from the earlier bodies, which operated under slightly different rules and procedures until the later part of [[American Revolutionary War]].<ref>''"Journals of the Continental Congress, 1774–1789"'', Edited by Worthington C. Ford et al. 34 vols. Washington, D.C.: Government Printing Office, 1904–37.</ref> The membership of the Second Continental Congress automatically carried over to the Congress of the Confederation when the latter was created by the ratification of the [[Articles of Confederation]]. It had the same secretary as the [[Second Continental Congress]], namely [[Charles Thomson]]. The Congress of the Confederation was succeeded by the [[United States Congress|Congress of the United States]] as provided for in the new [[United States Constitution|Constitution of the United States]], proposed September 17, 1787, in [[Philadelphia]] and ratified by the states through 1787 to 1788 and even into 1789 and 1790.<ref name="Confederation Congress, Ohio Historical Society">{{cite web |url=http://ohiohistorycentral.org/entry.php?rec=2327 |title=Confederation Congress |publisher=Ohio Historical Society |accessdate=October 23, 2010}}</ref>
+
+==Events==
+[[File:General George Washington Resigning his Commission.jpg|thumb|left|December 23, 1783: ''[[General George Washington Resigning His Commission]]'' by [[John Trumbull]]]]
+The Congress of the Confederation opened in the last stages of the [[American Revolution]]. Combat ended in October 1781, with the surrender of the British after the [[Siege of Yorktown|Siege and Battle of Yorktown]]. The British, however, continued to occupy New York City, while the American delegates in Paris, named by the Congress, negotiated the terms of peace with [[Kingdom of Great Britain|Great Britain]].<ref>See: [[Peace of Paris (1783)#Treaty with the United States of America]].</ref> Based on preliminary articles with the British negotiators made on November 30, 1782, and approved by the "Congress of the Confederation" on April 15, 1783, the [[Treaty of Paris (1783)|Treaty of Paris]] was further signed on September 3, 1783, and ratified by Confederation Congress then sitting at the [[Maryland State House]] in [[Annapolis, Maryland|Annapolis]] on January 14, 1784. This formally ended the [[American Revolutionary War]] between [[Kingdom of Great Britain|Great Britain]] and the [[Thirteen Colonies|thirteen former colonies]], which on [[United States Declaration of Independence|July 4, 1776]], had declared independence.  In December 1783, [[George Washington|General George Washington]], commander-in-chief of the [[Continental Army]], journeyed to Annapolis after saying farewell to his officers (at [[Fraunces Tavern]]) and men who had just reoccupied [[New York City]] after the departing [[British Army]]. On December 23, at the [[Maryland State House]], where the Congress met in the Old Senate Chamber, he addressed the civilian leaders and delegates of Congress and [[George Washington's resignation as commander-in-chief|returned to them the signed commission]] they had voted him back in June 1775, at the beginning of the conflict. With that simple gesture of acknowledging the first civilian power over the military, he took his leave and returned by horseback the next day to his home and family at [[Mount Vernon]]  near the colonial river port city on the [[Potomac River]] at [[Alexandria, Virginia|Alexandria]] in [[Virginia]].
+
+On March 1, 1781, the [[Articles of Confederation|Articles of Confederation and Perpetual Union]] were signed by delegates of Maryland at a meeting of the [[Second Continental Congress]], which then declared the Articles ratified. As historian Edmund Burnett wrote, "There was no new organization of any kind, not even the election of a new President." The Congress still called itself the Continental Congress. Nevertheless, despite its being generally the same exact governing body, with some changes in membership over the years as delegates came and went individually according to their own personal reasons and upon instructions of their state governments, some modern historians would later refer to the [[Continental Congress]] after the ratification of the Articles as the Congress of the Confederation or the Confederation Congress. (The Congress itself continued to refer to itself at the time as the Continental Congress.)
+
+The Congress had little power and without the external threat of a war against the British, it became more difficult to get enough delegates to meet to form a quorum. Nonetheless the Congress still managed to pass important laws, most notably the [[Northwest Ordinance]] of 1787.
+
+The War of Independence saddled the country with an enormous debt. In 1784, the total Confederation debt was nearly $40&nbsp;million. Of that sum, $8&nbsp;million was owed to the French and Dutch. Of the domestic debt, government bonds, known as loan-office certificates, composed $11.5&nbsp;million, certificates on interest indebtedness $3.1&nbsp;million, and continental certificates $16.7&nbsp;million.
+
+The certificates were non-interest bearing notes issued for supplies purchased or impressed, and to pay soldiers and officers. To pay the interest and principal of the debt, Congress had twice proposed an amendment to the Articles granting them the power to lay a 5% duty on imports, but amendments to the Articles required the consent of all thirteen states: the 1781 impost plan had been rejected by Rhode Island and Virginia, while the revised plan, discussed in 1783, was rejected by New York.
+
+Without revenue, except for meager voluntary state requisitions, Congress could not even pay the interest on its outstanding debt. Meanwhile, the states regularly failed, or refused, to meet the requisitions requested of them by Congress.<ref>[http://teachingamericanhistory.org/library/index.asp?document=1587 Proposed Amendments to the Articles of Confederation] Journals of the Continental Congress, 1774–1789. Edited by Worthington C. Ford et al. 34 vols. Washington, D.C.: Government Printing Office, 1904–37. 31:494–98</ref>
+
+To that end, in September 1786, after resolving a series of disputes regarding their common border along the [[Potomac River]], delegates of Maryland and Virginia called for a larger assembly to discuss various situations and governing problems to meet at the Maryland state capital on the [[Chesapeake Bay]].  The later [[Annapolis Convention (1786)|Annapolis Convention]] with some additional state representatives joining in the sessions first attempted to look into improving the earlier original [[Articles of Confederation|Articles of Confederation and Perpetual Union]]. There were enough problems to bear further discussion and deliberation that the Convention called for a wider meeting to recommend changes and meet the next year in the late Spring of 1787 in [[Philadelphia]].  The Confederation Congress itself endorsed the Call and issued one on its own further inviting the states to send delegates.  After meeting in secret all summer in the [[Independence Hall|Old Pennsylvania State House]] now having acquired the nickname and new title of [[Independence Hall]], from the famous action here eleven years earlier. The [[Philadelphia Convention]], under the presidency of former [[George Washington|General George Washington]] instead of a series of amendments, or altering the old charter, issued a proposed new [[Constitution of the United States|Constitution for the United States]] to replace the 1776–1778 Articles. The Confederation Congress received and submitted the new Constitution document to the states, and the Constitution was later ratified by enough states (nine were required) to become operative in June 1788. On September 12, 1788, the Confederation Congress set the date for choosing the new Electors in the [[Electoral College (United States)|Electoral College]] that was set up for choosing a [[President of the United States|President]] as January 7, 1789, the date for the Electors to vote for the President as on February 4, 1789, and the date for the Constitution to become operative as March 4, 1789, when the new [[United States Congress|Congress of the United States]] should convene, and that they at a later date set the time and place for the [[Inauguration]] of the new first President of the United States.
+
+The Congress of the Confederation continued to conduct business for another month after setting the various dates. On October 10, 1788, the Congress formed a quorum for the last time; afterwards, although delegates would occasionally appear, there were never enough to officially conduct business. The last meeting of the Continental Congress was held March 2, 1789, two days before the new Constitutional government took over; only one member was present at said meeting, [[Philip Pell]], an ardent [[Anti-Federalist Party|Anti-Federalist]] and opponent of the Constitution, who was accompanied by the Congressional secretary. Pell oversaw the meeting and adjourned the Congress [[adjournment sine die|''sine die'']].
+
+==Meeting sites==
+Rather than having a fixed capital, the Congress of the Confederation met in numerous locations which may be considered [[List of capitals in the United States#Former national capitals|United States capital]]s.<ref>[https://www.senate.gov/reference/reference_item/Nine_Capitals_of_the_United_States.htm The Nine Capitals of the United States]. United States Senate Historical Office. Accessed June 9, 2005. Based on Fortenbaugh, Robert, ''"The Nine Capitals of the United States"'', York, Pa.: Maple Press, 1948. See: [[List of capitals in the United States#Former national capitals]].</ref> The Congress of the Confederation initially met at the Old Pennsylvania State House ([[Independence Hall]]), in Philadelphia, Pennsylvania (March 1, 1781 to June 21, 1783). – It then met at [[Nassau Hall]], in Princeton, New Jersey (June 30, 1783 to November 4, 1783), – at the [[Maryland State House]], in Annapolis, Maryland (November 26, 1783 to August 19, 1784), – at the [[French Arms Tavern]], in Trenton, New Jersey (November 1, 1784 to December 24, 1784), – and the City Hall of New York (later known as [[Federal Hall]]), and in New York City, New York (January 11, 1785 to Autumn 1788).
+
+==Sessions==
+; First Confederation Congress
+:* March 1, 1781&nbsp;– November 3, 1781, [[Philadelphia, Pennsylvania]]
+; Second Confederation Congress
+:* November 5, 1781&nbsp;– November 2, 1782, Philadelphia
+; Third Confederation Congress
+{{see also|Pennsylvania Mutiny of 1783}}
+:* November 4, 1782&nbsp;– June 21, 1783, Philadelphia
+:* June 30, 1783&nbsp;– November 1, 1783, [[Princeton, New Jersey]]
+; Fourth Confederation Congress
+:* November 3, 1783&nbsp;– November 4, 1783, Princeton
+; Fifth Confederation Congress
+:* November 26, 1783&nbsp;– June 3, 1784, [[Annapolis, Maryland]]
+; Sixth Confederation Congress
+:* November 1, 1784&nbsp;– December 24, 1784, [[Trenton, New Jersey]]
+:* January 11, 1785&nbsp;– November 4, 1785, [[New York City|New York, New York]]
+; Seventh Confederation Congress
+:* November 7, 1785&nbsp;– November 3, 1786, New York
+; Eighth Confederation Congress
+:* November 6, 1786&nbsp;– October 30, 1787, New York
+; Ninth Confederation Congress
+:* November 5, 1787&nbsp;– October 21, 1788, New York
+; Tenth Confederation Congress
+:* November 3, 1788&nbsp;– March 2, 1789, New York
+
+==Presidents==
+{{Further|President of the Continental Congress}}
+
+Under the Articles of Confederation, the presiding officer of Congress—referred to in many official records as ''President of the United States in Congress Assembled''—chaired the [[Committee of the States]] when Congress was in recess, and performed other administrative functions. He was not, however, an executive in the way the later [[President of the United States]] is a chief executive, since all of the functions he executed were under the direct control of Congress.<ref>{{cite book| last = Jensen| first = Merrill| title = The Articles of Confederation: An Interpretation of the Social-Constitutional History of the American Revolution, 1774–1781| year = 1959| publisher = University of Wisconsin Press| isbn = 978-0-299-00204-6| pages = 178–179 }}</ref>
+
+There were 10 presidents of Congress under the Articles. The first, [[Samuel Huntington (statesman)|Samuel Huntington]], had been serving as president of the Continental Congress since September 28, 1779.
+
+{| class="wikitable sortable"
+|-
+! Colspan=2 | President
+! State
+! Term
+|-
+| data-sort-value="Huntington, Samuel"|[[File:Samuel Huntington - Charles Willson Peale.jpg|90px]] || nowrap|[[Samuel Huntington (statesman)|Samuel Huntington]] || Connecticut || {{sort|01|March 1, 1781}}{{snd}}July 10, 1781
+|-
+| data-sort-value="McKean, Thomas"|[[File:Thomas McKean by Charles Willson Peale.jpg|90px]] || [[Thomas McKean]] || Delaware || {{sort|02|July 10, 1781}}{{snd}}November 5, 1781
+|-
+| data-sort-value="Hanson, John"|[[File:John Hanson Portrait 1770.jpg|90px]] || [[John Hanson]] || Maryland || {{sort|03|November 5, 1781}}{{snd}}November 4, 1782
+|-
+| data-sort-value="Boudinot, Elias"|[[File:Elias Boudinot.jpg|90px]] || [[Elias Boudinot]] || New Jersey || {{sort|04|November 4, 1782}}{{snd}}November 3, 1783
+|-
+| data-sort-value="Mifflin, Thomas"|[[File:Thomas Mifflin.jpg|90px]] || [[Thomas Mifflin]] || Pennsylvania || {{sort|05|November 3, 1783}}{{snd}}June 3, 1784
+|-
+| data-sort-value="Lee, Richard"|[[File:Richard Henry Lee at Nat. Portrait Gallery IMG 4471.JPG|90px]] || [[Richard Henry Lee]] || Virginia || {{sort|06|November 30, 1784}}{{snd}}November 4, 1785
+|-
+| data-sort-value="Hancock, John"|[[File:John Hancock 1770-crop.jpg|90px]] || [[John Hancock]] || Massachusetts || {{sort|07|November 23, 1785}}{{snd}}June 5, 1786
+|-
+| data-sort-value="Gorham, Nathaniel"|[[File:Nathaniel Gorham.jpg|90px]] || [[Nathaniel Gorham]] || Massachusetts || {{sort|08|June 6, 1786}}{{snd}}November 3, 1786
+|-
+| data-sort-value="StClair, Arthur"|[[File:ArthurStClairOfficialPortrait-restored.jpg|90px]] || [[Arthur St. Clair]] || Pennsylvania || {{sort|09|February 2, 1787}}{{snd}}November 4, 1787
+|-
+| data-sort-value="Griffin, Cyrus"|[[File:CyrusGriffin.jpg|90px]] || [[Cyrus Griffin]] || Virginia || {{sort|10|January 22, 1788}}{{snd}}November 15, 1788
+|-
+|}
+
+==See also==
+* [[Confederation Period]]
+* [[Committee of the States]]
+* [[History of the United States (1776–1789)]]
+* [[List of delegates to the Continental Congress]]
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{cite book| first=Edmund C.| last=Burnett| title=''"The Continental Congress"''| publisher=Greenwood Publishing| isbn=0-8371-8386-3 }}
+* {{cite book| first=H. James| last=Henderson| title=''"Party Politics in the Continental Congress"'' |publisher=Rowman & Littlefield |location=Boston |isbn=0-8191-6525-5 }}
+* {{cite book |title=''"New Nation: A History of the United States During the Confederation, 1781–1789"'' |last=Jensen |first=Merrill |authorlink= |coauthors= |year=1950 |publisher=Knopf |location=New York |isbn= |pages= }}
+* {{cite book |title=''"A Constitutional History of the United States"'' |last=McLaughlin |first=Andrew C. |authorlink= |coauthors= |year=1935 |publisher= |location= |isbn=978-1-931313-31-5 |pages= |url= }}
+* {{cite book| first=Lynn| last=Montross| title=''"The Reluctant Rebels; the Story of the Continental Congress, 1774–1789"''| publisher=Barnes & Noble |location=New York | isbn=0-389-03973-X }}
+* {{cite book |title=''"The Forging of the Union, 1781–1789"'' |last=Morris |first=Richard B. |authorlink= |coauthors= |year=1987 |publisher=Harper & Row |location=New York |isbn=0-06-091424-6 |pages= }}
+* {{cite journal |last=Morris |first=Richard B. |authorlink= |coauthors= |year=1956 |month= |title=The Confederation Period and the American Historian |journal=William and Mary Quarterly |volume=13 |issue=2 |pages=139–156 |doi=10.2307/1920529|quote= |jstor= 1920529 }}
+* {{cite book |title=''"The Beginnings of National Politics: An Interpretive History of the Continental Congress"'' |last=Rakove |first=Jack N. |authorlink= |coauthors= |year=1979 |publisher=Knopf |location=New York |isbn=0-394-42370-4 |pages= }}
+
+==External links==
+{{commons category|Continental Congress|position=left}}
+* [http://memory.loc.gov/ammem/amlaw/lawhome.html Major documents from the Congress, including journals, letters, debates], via [[Library of Congress]]
+* [http://memory.loc.gov/ammem/amlaw/lwjc.html  Journals of the Continental Congress 1774-1789]
+
+<!--Templates-->
+{{s-start}}
+{{succession box
+| title  = Legislature of the United States
+| before = [[Second Continental Congress]]
+| years  = March 1, 1781&nbsp;– March 4, 1789
+| after  = [[United States Congress]]}}
+{{s-end}}
+<!--Navigation-->
+
+{{-}}
+{{USAConfGov}}
+{{Historical American Documents}}
+{{Location of US capital}}
+{{Pennsylvania during the American Revolutionary War}}
+{{Presidents of the Continental Congress}}
+{{Authority control}}
+[[Category:Continental Congress|*Third]]
+[[Category:History of the United States (1776–89)]]
+[[Category:History of the United States government]]
+[[Category:1780s in the United States]]
+[[Category:1781 establishments in the United States]]
+[[Category:1789 disestablishments in the United States]]
+[[Category:Defunct unicameral legislatures]]
+[[Category:History of New York City]]
+[[Category:History of Philadelphia]]
+[[Category:History of Trenton, New Jersey]]
+[[Category:Pennsylvania in the American Revolution]]

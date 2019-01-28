@@ -1,0 +1,202 @@
+{{Distinguish|magnetoception}}
+{{other uses}}
+{{Use dmy dates|date=October 2015}}
+{{Hypnosis|origins}}
+{{Pseudomedicine sidebar|fringe}}
+
+'''Animal magnetism''', also known as ''mesmerism'', was the name given by German doctor [[Franz Mesmer]] in the 18th century to what he believed to be an invisible natural force (''Lebensmagnetismus'') possessed by all living things, including humans, animals, and vegetables. He believed that the force could have physical effects, including healing, and he tried persistently but without success to achieve scientific recognition of his ideas.<ref name=wolfart>Wolfart, Karl Christian; Friedrich Anton Mesmer. ''Mesmerismus: Oder, System der Wechselwirkungen, Theorie und Anwendung des thierischen Magnetismus als die allgemeine Heilkunde zur Erhaltung des Menschen'' (in German, facsimile of the 1811 edition). Cambridge University Press, 2011. {{ISBN|9781108072694}}. Foreword.</ref>
+
+The [[vitalism|vitalist]] theory attracted numerous followers in Europe and the United States and was popular into the 19th century. Practitioners were often known as '''magnetizers''' rather than '''mesmerists'''. It was an important specialty in medicine for about 75 years from its beginnings in 1779, and continued to have some influence for another 50 years. Hundreds of books were written on the subject between 1766 and 1925, but it is almost entirely forgotten today.<ref name=Crabtree>Adam Crabtree ''Animal Magnetism, Early Hypnotism, and Psychical Research, 1766–1925 – An Annotated Bibliography'' {{ISBN|0-527-20006-9}}</ref> Mesmerism is still practised as a form of alternative medicine in some countries, but magnetic practices are not recognized as part of medical science.
+
+== Etymology and definitions ==
+
+==="Magnetizer"===
+The terms "magnetizer" and "mesmerizer" have been applied to people who study and practice animal magnetism.<ref name ="Notre Famille" >Dictionnaire Notre Famille, (1987), [http://www.notrefamille.com/dictionnaire/definition/magnetiseur ''Magnetiseur''], notrefamille.com. Accessed 19 August 2015</ref> These terms have been distinguished from "mesmerist" and "magnetist", which are regarded as denoting those who study animal magnetism without being practitioners;<ref name="Durville">[[Hector Durville]], ''Theory and Animal Magnetism procedures'', Rio de Jan ed. Léon Denis, 2012 {{ISBN|978-85-7297-510-0}}.</ref> and from "hypnotist", someone who practises [[hypnosis]].<ref name="Durville"/>
+
+The etymology of the word ''magnetizer'' comes from the French "''magnetiseur''" ("practicing the methods of [[mesmerism]]"),<ref name = "Notre Famille"/> which in turn is derived from the French verb ''magnetiser''.<ref>Thouvenel, Pierre, [http://www.woodlibrarymuseum.org/rarebooks/item/698/thouvenel-p.-second-m%C3%A9moire-physique-et-m%C3%A9dicinal-montrant-des-rapports-%C3%A9videns-entre-les-ph%C3%A9nomenes-de-la-baguette-divinatoire,-du-magn%C3%A9tisme-et-de-l'%C3%A9lectricit%C3%A9.-avec-des-%C3%A9claircissemens-sur-d'autres-objets-non-moins-importans,-qui-y-sont-relatifs,-1784.''Mémoire et medical physique''] Paris Ed. Didot Chez le jeune, Quai des Auguftins. (1781) p. 300</ref> The term refers to an individual who has the power to manipulate the "magnetic fluid"<ref>[[Baron du Potet]], '' Student Handbook Magnetizer '', ed. Life – 3rd Edition, 2013</ref> with effects upon other people present that were regarded as analogous to [[magnet]]ic effects.<ref>[[Franz Anton Mesmer]], '' Memoire sur la découverte du animals magnétisme '', 1779, [[File:Wikisource-logo.svg|19x19px]] Édition numérique disponible [[wikisource: Mémoire sur la découverte du animals magnétisme|sur Wikisource]]. Il ya aussi une édition papier chez Allia, 2006 {{ISBN|2844852262}}</ref> This sense of the term is found, for example, in the expression of [[Antoine Joseph Gorsas]]: "The magnetizer is the imam of vital energy".<ref>Gorsas, Antoine-Joseph, ''L'Ane promeneur'', 1784, p. 41 and p. 342</ref>
+
+==="Mesmerism"===
+A tendency emerged amongst British magnetizers to call their clinical techniques "mesmerism"; they wanted to distance themselves from the theoretical orientation of animal magnetism that was based on the concept of "magnetic fluid".  At the time, some magnetizers attempted to channel what they thought was a magnetic "fluid", and sometimes they attempted this with a "[[laying on of hands]]". Reported effects included various feelings: intense heat, trembling, trances, and seizures.<ref>Connor C. (2005). ''A People's History of Science'', Nation Books, pp. 404–5</ref>
+
+Many practitioners took a scientific approach, such as [[Joseph Philippe François Deleuze]] (1753–1835), a French physician, anatomist, gynecologist, and physicist.  One of his pupils was [[Théodore Léger]] (1799–1853), who wrote that the label "mesmerism" was "most improper".<ref name="Léger, 1846, p.14">Léger, 1846, p.14.</ref> (Léger moved to Texas around 1836).
+
+Noting that, by 1846, the term "[[galvanism]]" had been replaced by "electricity", Léger wrote that year:<ref name="Léger, 1846, p.14"/>
+{{quotation|'''''Mesmerism''''', of all the names proposed [to replace the term animal magnetism], is decidedly the most improper; for, in the first place, no true science has ever been designated by the name of a man, whatever be the claims he could urge in his favor; and secondly, what are the claims of Mesmer for such an honor? He is not the inventor of the practical part of the science, since we can trace the practice of it through the most remote ages; and in that respect, the part which he introduced has been completely abandoned. He proposed for it a theory which is now [viz., 1846] exploded, and which, on account of his errors, has been fatal to our progress. He never spoke of the phenomena which have rehabilitated our cause among scientific men; and since nothing remains to be attributed to Mesmer, either in the practice and theory, or the discoveries that constitute our science, why should it be called mesmerism?}}
+
+==Royal Commission==
+In 1784 a French Royal Commission appointed by [[Louis XVI]] studied Mesmer's magnetic fluid theory to try to establish it by scientific evidence. The commission included Majault, [[Benjamin Franklin]], [[Jean Sylvain Bailly]], J. B. Le Roy, Sallin, [[Jean Darcet]], de Borey, [[Joseph-Ignace Guillotin]], [[Antoine Lavoisier]], Poissonnier, [[Claude-Antoine Caille|Caille]], Mauduyt de la Varenne, Andry, and [[de Jussieu]].
+
+Whilst the commission agreed that the cures claimed by Mesmer were indeed cures{{Citation needed|date=March 2011}}, it also concluded there was no evidence of the existence of his "magnetic fluid", and that its effects derived from either the imaginations of its subjects or [[charlatan]]ry.{{Citation needed|date=March 2011}}
+
+==Royal Academy investigation==
+A second investigating committee, appointed by a majority vote in 1826 in The Royal Academy of Medicine in Paris, studied the effects and clinical potentials of the mesmeric procedure - without trying to establish the physical nature of any magnetic fluidum. The report says:
+{{quotation|what we have seen in the course of our experiments bears no sort of resemblance to what the Report of 1784 relates with regard to the magnetizers of that period. We neither admit nor reject the existence of the fluid, because we have not verified the fact ; we do not speak of the ''baquet'' ... nor of the assemblage of a great number of people together, who were magnetized in the presence of a crowd of witnesses ; because all our experiments were made in the most complete stillness ... and always upon a single person at a time. We do not speak of ... the ''crisis''<ref>COLQUHOUN, John Campbell, [http://www.forgottenbooks.com/books/Isis_Revelata_v2_1000899412 Isis Revelata, Volume 2], p. 199</ref>}}
+Among the conclusions were:
+{{quotation|Magnetism has taken effect upon persons of different sexes and ages. ... In general, magnetism does not act upon persons in a sound state of health. ... Neither does it act upon all sick persons.
+
+... we may conclude with certainty that this state exists, when it gives rise to the development of new faculties, which have been designated by the names of ''[[clairvoyance]]''; ''[[intuition]]''; internal ''prevision''; or when it produces great changes in the physical economy, such as [[insensibility]]; a sudden and considerable increase of strength; and when these effects cannot be referred to any other cause.
+
+... We can not only act upon the magnetized person, but even place him in a complete state of [[somnambulism]], and bring him out of it without his knowledge, out of his sight, at a certain distance, and with doors intervening.
+
+... The greater number of the somnambulists whom we have seen, were completely insensible ... we might pinch their skin, so as to leave a mark, prick them with pins under the nails, &c. without producing any pain, without even their perceiving it. Finally, we saw one who was insensible to one of the most painful operations in surgery, and who did not manifest the slightest emotion in her countenance, her pulse, or her respiration.
+
+... Magnetism is as intense, and as speedily felt, at a distance of six feet as of six inches; and the phenomena developed are the same in both cases.
+
+...Magnetism ought to be allowed a place within the circle of medical sciences...<ref>COLQUHOUN, John Campbell, [http://www.forgottenbooks.com/books/Isis_Revelata_v2_1000899412 Isis Revelata, Volume 2], pp. 283-293</ref>}}
+
+==Mesmerism and hypnotism==
+[[File:Traitement baquet.jpg|thumb|''Baquet''. Interior view: Drawing room scene with many people sitting and standing around a large table; a man on a crutch has an iron band wrapped around his ankle; others in the group are holding bands similarly; to the left, a man has hypnotized a woman. (1780)]]
+[[File:Magétisme IMG 4836.jpg|thumb|Advertisement poster of 1857:<br/>''Instant sleep. Miscellaneous effects of paralysis, partial and complete catalepsy, partial or complete attraction. Phreno-magnetic effects (...) Musical ectasy (...) Insensitivity to physical pain and instant awakening (...) transfusion of magnetic power to others'']]
+
+[[Abbé Faria]] was one of the disciples of [[Franz Anton Mesmer]] who continued with Mesmer's work following the conclusions of the Royal Commission. In the early 19th century, Abbé Faria is said to have introduced oriental hypnosis to Paris<ref>See Carrer (2004), passim.</ref> and to have conducted experiments to prove that "no special force was necessary for the production of the mesmeric phenomena such as the trance, but that the determining cause lay within the subject himself"—in other words, that it worked purely by the power of suggestion.<ref name="Hull">Hull, Clark L. "Hypnotism in Scientific Perspective", ''The Scientific Monthly'' 29.2 (1929): p. 156.</ref>
+
+[[Hypnosis|Hypnotism]], a designation coined by the Scottish surgeon, [[James Braid (surgeon)|James Braid]],<ref>Yeates, (2013), passim.</ref> originates in Braid's response to an 1841 exhibition of "animal magnetism", by [[Charles Lafontaine]], in Manchester.<ref>Gilles de la Tourette. "The Wonders of Animal Magnetism", ''The North American Review'' 146.375 (1888): p.131-132.</ref> Writing in 1851, Braid was adamant that, in the absence of the sorts of "higher phenomena" reportedly produced by the mesmerists,
+<blockquote>and in contra-distinction to the ''Transcendental'' [i.e., ''metaphysical''] ''Mesmerism'' of the Mesmerists … [allegedly] induced through the transmission of an occult influence from [the body of the operator to that of the subject,] ''Hypnotism'', [by which] I mean a peculiar condition of the nervous system, into which it can be thrown by artificial contrivance … [a theoretical position that is entirely] consistent with generally admitted principles in physiological and
+psychological science [would] therefore [be most aptly] designated ''Rational Mesmerism''.<ref>[https://books.google.com/books?id=1PQ0AAAAMAAJ&pg=PA6#v=onepage&q&f=false Braid (1850), p.6].</ref></blockquote>
+
+==Vital fluid and animal magnetism==
+A 1791 London publication explains Mesmer's theory of the vital fluid :
+<blockquote>
+Modern philosophy has admitted a plenum or universal principle of fluid matter, which occupies all space; and that as all bodies moving in the world, abound with pores, this fluid matter introduces itself through the interstices and returns backwards and forwards, flowing through one body by the currents which issue therefrom to another, as in a magnet, which produces that phenomenon which we call Animal Magnetism. This fluid consists of fire, air and spirit, and like all other fluids tends to an equilibrium, therefore it is easy to conceive how the efforts which the bodies make towards each other produce animal electricity, which in fact is no more than the effect produced between two bodies, one of which has more motion than the other; a phenomenon serving to prove that the body which has most motion communicates it to the other, until the medium of motion becomes an equilibrium between the two bodies, and then this equality of motion produces animal electricity.<ref>''Wonders and mysteries of animal magnetism displayed; or the history, art, practice, and progress of that useful science, from its first rise in the city of Paris, to the present time. With several Curious Cases and new Anecdotes of the Principal Professors''. Eighteenth Century Collections Online. London (1791): pp.11–12</ref></blockquote>
+
+According to an anonymous writer of a series of letters published by editor John Pearson in 1790, animal magnetism can cause a wide range of effects ranging from vomiting to what is termed the "crisis". The purpose of the treatment (inducing the "crisis") was to shock the body into convulsion in order to remove obstructions in the humoral system that were causing sicknesses.<ref>Pearson (1790), p.12.</ref>  Furthermore, this anonymous supporter of the animal magnetism theory purported that the "crisis" created two effects: first, a state in which the "[individual who is] completely reduced under Magnetic influence, although he should seem to be possessed of his senses, yet he ceases to be an accountable creature",<ref>Pearson (1790), pp. 13–15.</ref> and a second "remarkable" state, which would be "conferred upon the [magnetized] subject … [namely] that of perfect and unobstructed vision … in other words, all opacity is removed, and every object becomes luminous and transparent".<ref>Pearson (1790), p.15.</ref> A patient under crisis was believed to be able to see through the body and find the cause of illness, either in themselves or in other patients.
+
+The [[Armand-Marie-Jacques de Chastenet, Marquis of Puységur|Marquis of Puységur]]'s miraculous healing of a young man named Victor in 1784 was attributed to, and used as evidence in support of, this "crisis" treatment. The Marquis was allegedly able to hypnotize Victor and, while hypnotized, Victor was said to have been able to speak articulately and diagnose his own sickness.
+
+Jacob Melo discusses in his books some mechanisms by which the perceived effects of animal magnetism have been claimed to operate.<ref>Lecture given at the [http://jacobmelo.webs.com/Jornal%20Vortice/JORNAL%20VORTICE%2024%20MAIO%202010.pdf III World Meeting of Magnetizers]</ref>
+
+== Social skepticism in the Romantic Era ==
+[[File:AMesmerianExperimentogv.ogv|thumb|335x335px|A caricature of Mesmer filmed by [[Georges Méliès|George Mèliés]], 1905]]
+
+The study of animal magnetism spurred the creation of the Societies of Harmony in France, where members paid to join and learn the practice of magnetism. Doctor John Bell was a member of the Philosophical Harmonic Society of Paris, and was certified by the society to lecture and teach on animal magnetism in England.<ref>Bell, John, Professor of Animal Magnetism. ''“The general and particular principles of animal electricity and magnetism, &c. in which are found Dr. Bell's secrets and practice, AS Delivered To His Pupils in Paris, London, Dublin, Bristol, Glocester, Worcester, Birmingham, Wolverhampton, Shrewsbury, Chester, Liverpool, Manchester, &c. &c. Shewing how to Magnetise and Cure different Diseases; to produce Crises, as well as Somnambulism, or [[Sleepwalking|Sleep-Walking]]; and in that State of Sleep to make a Person eat, drink, walk, sing and play upon any Instruments they are used to, &c. to make Apparatus and other Accessaries to produce Magnetical Facts; also to Magnetise Rivers, Rooms, Trees, and other Bodies, animate and inanimate; to raise the Arms, Legs of a Person awake, and to make him rise from his Chair; to raise the Arm of a Person absent from one Room to another; also to treat him at a Distance. All the New Experiments and Phenomena are explained by Monsieur le Docteur Bell, Professor of that Science, And Member of the Philosophical Harmonic Society at Paris, Fellow Correspondent of M. Le Court de Geblin's Museum; and the only Person authorised by Patent from the First Noblemen in France, to teach and practise that Science in England, Ireland, &c.”''  Price Five Shillings. Eighteenth Century Collections Online. [London](1792): p.2</ref> The existence of the societies transformed animal magnetism into a secretive art, where its practitioners and lecturers did not reveal the techniques of the practice based on the society members that have paid for instruction, veiling the idea that it was unfair to reveal the practice to others for free.<ref>Pearson, John (1790). ''A plain account'', p. 6</ref> Although the heightened secrecy of the practice contributed to the skepticism about it, many supporters and practitioners of animal magnetism touted the ease and possibility for everyone to acquire the skills to perform its techniques.<ref>“Wonders and mysteries of animal magnetism displayed; or the history, art, practice, and progress of that useful science, from its first rise in the city of Paris, to the present time. With several Curious Cases and new Anecdotes of the Principal Professors.” Eighteenth Century Collections Online. London (1791): p.16</ref>
+
+Popularization of animal magnetism was denounced and ridiculed by newspaper journals and theatre during the Romantic Era. Many deemed animal magnetism to be nothing more than a theatrical falsity or quackery. In a 1790 publication, an editor presented a series of letters written by an avid supporter of animal magnetism and included his own thoughts in an appendix stating: 
+“No fanatics ever divulged notions more wild and extravagant; no impudent empiric ever retailed promises more preposterous, or histories of cures more devoid of reality, than the tribe of magnetisers.”<ref>Pearson, John (1790). ''A plain account'', p. 37</ref>
+
+The novelist and playwrighter [[Elizabeth Inchbald]] wrote the farce ''Animal Magnetism'' in the late 1780s. The plot revolved around multiple love triangles and the absurdity of animal magnetism. The following passage mocks the medical prowess of those qualified only as mesmerists:
+
+<blockquote>Doctor: They have refused to grant me a diploma—forbid me to practice as a physician, and all because I don't know a parcel of insignificant words; but exercise my profession according to the rules of reason and nature; Is it not natural to die, then if a dozen or two of my patients have died under my hands, is not that natural? …<ref>Inchbald, Elizabeth. ''Animal Magnetism''. p. 9</ref></blockquote>
+Although the doctor's obsession with the use of animal magnetism, not merely to cure but to force his ward to fall in love with him, made for a humorous storyline, Inchbald’s light-hearted play commented on what society perceived as threats posed by the practice.
+
+De Mainanduc brought animal magnetism to England in 1787 and promulgated it into the social arena. In 1785, he had published proposals to the ladies of Britain to establish a "hygean society" or society of health, by which they would pay to join and enjoy his treatments.<ref>Wonders and mysteries of animal magnetism displayed; or the history, art, practice, and progress of that useful science, from its first rise in the city of Paris, to the present time. With several Curious Cases and new Anecdotes of the Principal Professors. Eighteenth Century Collections Online. London (1791): p.7</ref> As both popularity and skepticism increased, many became convinced that animal magnetism could lead to sexual exploitation of women. Not only did the practice involve close personal contact via the waving of hands over the body, but people were concerned that the animal magnetists could hypnotize women and direct them at will.
+
+{{Quote
+|text=Having removed all misconceptions, foretelling of the future, explicit or implicit invocation of the devil, the use of animal magnetism is indeed merely an act of making use of physical media that are otherwise licit and hence it is '''not morally forbidden''', provided it does not tend toward an illicit end or toward anything depraved. (''The Sacred Congregation of the Holy Office'': 28 July 1847.)
+}}
+
+== Political influence ==
+
+The French revolution catalyzed existing internal political friction in Britain in the 1790s; a few political radicals used animal magnetism as more than just a moral threat but also a political threat.  Among many lectures warning society against government oppression, [[Samuel Taylor Coleridge]] wrote: 
+<blockquote>
+William Pitt, the great political Animal Magnetist, ... has most foully worked on the diseased fancy of Englishmen ... thrown the nation into a feverish slumber, and is now bringing it to a crisis which may convulse mortality!<ref>Requoted from: Fulford, Tim. "Conducting and Vital Fluid: The Politics and Poetics of Mesmerism in the 1790s", ''Studies in Romanticism'' 43.1 (2004): pg.1</ref>
+</blockquote> Major politicians and people in power were accused by radicals of practising animal magnetism on the general population.
+
+In his article "Under the Influence: Mesmerism in England", Roy Porter notes that [[James Tilly Matthews]] suggested that the French were infiltrating England via animal magnetism. Matthews believed that "magnetic spies" would invade England and bring it under subjection by transmitting waves of animal magnetism to subdue the government and people.<ref>Porter, Roy. "UNDER THE INFLUENCE: MESMERISM IN ENGLAND," ''History Today'' 35.9 (1985): pg.28</ref>  Such an invasion from foreign influences was perceived as a radical threat.
+
+==Mesmerism and spiritual healing practices==
+Today, some scholars{{Who|date=November 2018}} believe mesmerism to share a concept of life force or energy with such Asian practices as ''[[reiki]]'' and ''[[qigong]]''.  However, the practical and theoretical positions of such practices are on whole substantially different from those of mesmerism.
+
+During the Romantic period, mesmerism produced enthusiasm and inspired horror in the spiritual and religious context. Though discredited as a credible medical practice by many, mesmerism created a venue for spiritual healing. Some animal magnetists advertised their practices by stressing the "spiritual rather than physical benefits to be gained from animal magnetism" and were able to gather a good clientele from among the spiritually inspired population.<ref>Fara. "An attractive therapy: animal magnetism in eighteenth-century England", ''History of science'' 33 (1995): pg:142</ref>
+
+Some researchers, including [[Johann Peter Lange]]<ref>LANGE, Johann Peter, ''A Commentary on the Holy Scriptures: Kings'', Ed. C. Scribner & Company, 1872.</ref><ref name="Lange">LANGE, Johann Peter, [https://books.google.com/books?id=Io1TAAAAYAAJ&pg=PA431&lpg=PA431&dq=Jesus++animal+magnetism&source=bl&ots=I0EDQG5rE_&sig=PShNc3gAGJMjrCNh4iFK6UnHRhA&hl=pt-BR&sa=X&ei=27YeVenXIcifsAXY4IGYCQ&ved=0CC0Q6AEwAzgK#v=onepage&q=Jesus%20%20animal%20magnetism&f=false ''The Life of The Lord Jesus Christ: A Complete Critical Examination of the Origin, Contents and Connection of the Gospels, Volume 1''], Ed. Smith, English and Company, 1872</ref> and [[Allan Kardec]],<ref>[[Allan Kardec|KARDEC, Allan]], '' [[Book of Genesis|Genesis]] '' – FEB 53 rd Ed. – Cap.XV – Item 1 – p. 273</ref><ref name = "GENESIS II -274">KARDEC, Allan, '' Genesis '' – FEB 53rd Ed – Cap.XV – Item 2 – pag.274</ref> suggested that [[Jesus]] was the greatest of all magnetizers, and that the source of his miracles was animal magnetism. Other writers, such as [[John Campbell Colquhoun]]<ref>COLQUHOUN, John Campbell,  ''[https://books.google.com/books?id=z3lHAAAAIAAJ&pg=PA153&lpg=PA153&dq=Jesus++animal+magnetism&source=bl&ots=NoJe1Z5O7O&sig=5yS--Ry7yRWYz3-tKQg2re_gY48&hl=pt-BR&sa=X&ei=27YeVenXIcifsAXY4IGYCQ&ved=0CDIQ6AEwBDgK#v=onepage&q=Jesus%20%20animal%20magnetism&f=false An History of Magic, Witchcraft, and Animal Magnetism, Volume 1]'', Ed. Longman, Brown, Green, & Longmans, 1851.</ref> and [[Mary Baker Eddy]],<ref>Eddy, Mary Baker, "Animal Magnetism Unmasked," Science and Health with Key to the Scriptures, Trustees Under the Will of Maker Baker G. Eddy, Boston, 1934. pp.101</ref> denounced the comparison. Mary Baker Eddy went so far as to claim animal magnetism "lead to moral and to physical death."
+
+==Contemporary development==
+Sporadic research into animal magnetism was conducted in the 20th century, and the results published; for example, Bernard Grad wrote a number of papers related to his observations of "a single, reputed healer, [Hungarian] Oskar Estebany" on the subject.<ref>Gauld, (1992), pp.254-255, 647.</ref>
+
+==Professional magnetizers ==
+In the Classical era of animal magnetism, the late 17th century to the mid-19th century, there were professional magnetizers,<ref>Franklin Rausky, ''Mesmer ou la révolution thérapeutique'' ("Mesmer, or the therapeutic revolution"), Paris, 1977</ref> whose techniques were described by authors of the time as particularly effective. Their method was to spend prolonged periods "magnetizing" their customers directly or through "mesmeric magnets". It was observed that in some conditions, certain mesmerizers were more likely to achieve the result than others, regardless of their degree of knowledge.<ref name="Durville"/>
+
+{{columns-list|colwidth=22em|
+* [[Alexandre Bertrand]] 
+* [[Étienne Félix d'Henin de Cuvillers]] 
+* [[Andrew Jackson Davis]] 
+* [[Hector Durville]] 
+* [[Adam Karl August von Eschenmayer]] 
+* [[Abade Faria]] 
+* [[Charles Foster (Ohio politician)|Charles Foster]]<ref>The Zoist, [http://www.abebooks.com/book-search/title/facts-mesmerism/first-edition/  ''Facts and Observations on the Mesmeric and Magnetic Fluids. Offprint from The Zoist: A Journal of Cerebral Physiology and Mesmerism], April 1846''</ref> 
+* [[Paul Gibier]]
+* [[Valentine Greatrakes]]
+* [[Allan Kardec]] 
+* [[Justinus Kerner]]
+* [[Charles Lafontaine]] 
+* [[Johann Kaspar Lavater]] 
+* [[William Maxwell (physician)|William Maxwell]]
+* [[Franz Anton Mesmer]] 
+* [[Baron du Potet]]
+* [[Armand-Marie-Jacques de Chastenet, Marquis of Puységur|Marquis of Puységur]]
+* [[Phineas Parkhurst Quimby]]
+* [[Albert de Rochas]] 
+* [[Georges Gilles de la Tourette]]
+* [[Charles de Villers]] 
+* [[Alfred Russel Wallace]] 
+}}
+
+==See also==
+* [[Biomagnetism]]
+* [[James Esdaile]]
+* [[Magnetoception]]
+* ''[[The Zoist|The Zoist: A Journal of Cerebral Physiology & Mesmerism, and Their Applications to Human Welfare]]''
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin|30em}}
+* Bailly, J.-S., , "Secret Report on Mesmerism or Animal Magnetism", ''International Journal of Clinical and Experimental Hypnosis'', Vol.50, No.4, (October 2002), pp.&nbsp;364–368. [https://dx.doi.org/10.1080/00207140208410110 doi=10.1080/00207140208410110]
+* Barth, George H., ''The Mesmerist's Manual'', London (1851), Reprint, {{ISBN|978-1532953002}}.
+* Bloch, G., ''Mesmerism: A Translation of the Original Scientific and Medical Writings of F.A. Mesmer'', William Kaufmann, Inc., (Los Altos), 1980.
+* [https://books.google.com/books?id=1PQ0AAAAMAAJ&printsec=frontcover#v=onepage&q&f=false Braid, J., ''Observations on Trance; or, Human Hybernation'', John Churchill, (London), 1850.]
+* Buranelli, V., ''The Wizard from Vienna: Franz Anton Mesmer'', Coward, McCann & Geoghegan., (New York), 1975.
+* Carrer, L., ''Jose Custodio de Faria: Hypnotist, Priest and Revolutionary'', Trafford, (Victoria), 2004.
+* [[Richard Chenevix (chemist)|Chenevix, R.]], "On Mesmerism, Improperly Denominated Animal Magnetism", ''London Medical and Physical Journal'', [https://ia800306.us.archive.org/29/items/anappealtomedic02readgoog/anappealtomedic02readgoog.pdf Vol.61, No.361, (March 1829), pp.&nbsp;219–230; No.364, (June 1829), pp.&nbsp;491–501;] [https://ia601405.us.archive.org/1/items/anappealtomedic00readgoog/anappealtomedic00readgoog.pdf Vol.62, No.366, (August 1829), pp.&nbsp;114–125; No.367, (September 1829), pp.&nbsp;210–220; No.368, (October 1829), pp.&nbsp;315–324.]
+* Colquhoun, John Campbell. [http://www.forgottenbooks.com/books/Isis_Revelata_v2_1000899412 Isis Revelata: An Inquiry Into the Origin, Progress, and Present State of Animal Magnetism. Vol. 2]. 1836. Reprint. London: Forgotten Books
+* {{cite book|author =Crabtree, Alan |title=From Mesmer to Freud, Magnetic Sleep and the Roots of Psychological Healing|publisher= Yale University Press|isbn=978-0-300-05588-7|url=http://www.esalen.org/ctr-archive/animal_magnetism.html#d1920}}
+* Darnton, R., ''Mesmerism, and the End of the Enlightenment in France'', Harvard University Press, (Cambridge), 1968.
+* Deleuze [https://archive.org/details/practicalinstru00delegoog ''Practical Instruction in Animal Magnetism''] (1843)
+* Donaldson, I.M.L., "Mesmer's 1780 Proposal for a Controlled Trial to Test his Method of Treatment Using 'Animal Magnetism'", ''Journal of the Royal Society of Medicine'', Vol.98, No.12, (December 2005), pp.&nbsp;572–575.
+* Engledue, W.C., ''Cerebral Physiology and Materialism, With the Result of the Application of Animal Magnetism to the Cerebral Organs: An Address Delivered to the Phrenological Association in London, June 20th, 1842, by W.C. Engledue, M.D. with a Letter from Dr. Elliotson on Mesmeric Phrenology and Materialism'', H. Ballière, (London), 1842.
+*Fulford, T., "Conducting the Vital Fluid: The Politics and Poetics of Mesmerism in the 1790s", ''Studies in Romanticism'', Vol.43, No.1, (Spring 2004), pp.&nbsp;57–78.
+* Franklin, B., Majault, M.J., Le Roy, J.B., Sallin, C.L., Bailly, J.-S., d'Arcet, J., de Bory, G., Guillotin, J.-I. & Lavoisier, A., "Report of The Commissioners charged by the King with the Examination of Animal Magnetism", ''International Journal of Clinical and Experimental Hypnosis'', Vol.50, No.4, (October 2002), pp.&nbsp;332–363. [https://dx.doi.org/10.1080/00207140208410109 doi=10.1080/00207140208410109]
+* Gauld, A., "Reflections on Mesmeric Analgesia", ''British Journal of Experimental and Clinical Hypnosis'', (5), 17-24.
+* {{cite book|author =Gauld, Alan |title=A history of hypnotism|url=https://books.google.com/books?id=yYJNCUyq6FwC|accessdate=30 January 2012|date=1992|publisher=Cambridge University Press|isbn=978-0-521-48329-2}}
+* Goldsmith, M., ''Franz Anton Mesmer: A History of Mesmerism'', Doubleday, Doran & Co., (New York), 1934.
+* [https://archive.org/details/b24872210_0002 Harte, R., ''Hypnotism and the Doctors, Volume I: Animal Magnetism: Mesmer/De Puysegur'', L.N. Fowler & Co., (London), 1902]. 
+* [https://archive.org/details/hypnotismanddoc00hartgoog Harte, R., ''Hypnotism and the Doctors, Volume II: The Second Commission; Dupotet And Lafontaine; The English School; Braid's Hypnotism; Statuvolism; Pathetism; Electro-Biology'', L.N. Fowler & Co., (London), 1903].
+* [[Fred Kaplan (biographer)|Kaplan, F.]], ""The Mesmeric Mania": The Early Victorians and Animal Magnetism", ''Journal of the History of Ideas'', Vol.35, No.4, (October–December 1974), pp.&nbsp;691–702.
+* Kaplan, F., ''Dickens and Mesmerism: The Hidden Springs of Fiction'', Princeton University Press, (Princeton), 1975.
+* Kaplan, F., ''John Elliotson on Mesmerism'', Da Capo Press, (New York), 1982.
+* Leger, T. [sic], ''Animal Magnetism; or, Psycodunamy'', D. Appleton, (New York), 1846 [N.B. author is [[Théodore Léger]] (1799–1853)].
+* Mancini, S. & Vale, J., "Animal Magnetism and Psychic Sciences, 1784-1935: The Rediscovery of a Lost Continent", ''Diogenes'', Vol.48, No.2, (1 June 2000), pp.&nbsp;94–101.
+* Moore, W., ''The Mesmerist: The Society Doctor Who Held Victorian London Spellbound'', Weidenfeld & Nicolson, (London), 2017. {{ISBN|978-1-4746-0229-7}}
+* Parssinen, T.M., "Mesmeric Performers", ''Victorian Studies'', Vol.21, No.1, (Autumn 1977), pp.&nbsp;87–104.
+* Pattie, F.A., "Mesmer's Medical Dissertation and Its Debt to Mead's ''De Imperio Solis ac Lunae''", ''Journal of the History of Medicine and Allied Sciences'', Vol.11, (July 1956), pp.&nbsp;275–287.
+* Pattie, F.A., ''Mesmer and Animal Magnetism: A Chapter in the History of Medicine'', Edmonston Publishing, (Hamilton), 1994.
+* [https://books.google.com.au/books?id=vAFcAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false Pearson, John (ed.), ''A Plain and Rational Account of the Nature and Effects of Animal Magnetism: In a Series of letters. With Notes and an Appendix'', W. and J. Stratford, (London), 1790].
+*{{cite book|author1=Pintar, Judith  |author2=Lynn, Steven J. |title=Hypnosis: a brief history|url=https://books.google.com/books?id=0-ZvvEa8JacC|accessdate=30 January 2012|date=28 October 2008|publisher=John Wiley & Sons|isbn=978-1-4051-3451-4}}
+* Porter, R., "'Under the Influence' Mesmerism in England", ''History Today'', Vol.35, No.9, (September 1985), pp.&nbsp;22–29.
+* Rosen, G., "Mesmerism and Surgery: A Strange Chapter in the History of Anesthesia", ''Journal of the History of Medicine and Allied Sciences'', Vol.1, No.4, (October 1946), pp.&nbsp;527–550.
+* Sutton, G., "Electric Medicine and Mesmerism", ''Isis'', Vol.72, No.3, (September 1981), pp.&nbsp;375–392.
+*{{cite book|author =van Schlun, Betsy|title=Science and the imagination: mesmerism, media, and the mind in nineteenth-century English and American literature|url=https://books.google.com/books?id=Y8V7TTCfF6IC|accessdate=30 January 2012|year=2007|publisher=Galda & Wilch|isbn=978-3-931397-60-9}}
+* Winter, A., ''Mesmerized: Powers of Mind in Victorian Britain'', The University of Chicago Press, (Chicago), 1998.
+*''Wonders and mysteries of animal magnetism displayed; or the history, art, practice, and progress of that useful science, from its first rise in the city of Paris, to the present time. With several Curious Cases and new Anecdotes of the Principal Professors''. Eighteenth Century Collections Online. London (1791)
+* Wyckoff, J. [1975], ''Franz Anton Mesmer: Between God and Devil'', Prentice-Hall, (Englewood Cliffs), 1975.
+* [http://unsworks.unsw.edu.au/fapi/datastream/unsworks:11299/SOURCE01 Yeates, L.B., ''James Braid: Surgeon, Gentleman Scientist, and Hypnotist'', Ph.D. Dissertation, School of History and Philosophy of Science, Faculty of Arts & Social Sciences, University of New South Wales, January 2013.]
+{{refend}}
+
+==Further reading==
+{{AmCyc Poster|Animal Magnetism}}
+{{Commons category|Animal magnetism}}
+*[https://web.archive.org/web/20040710162753/http://www.unbf.ca/psychology/likely/readings/mesmer.htm Anton Mesmer, "Propositions Concerning Animal Magnetism" (1779), from: Binet, A. & Féré, C. ''Animal Magnetism,'' New York: Appleton and Co., 1888; web archive]
+*[https://archive.org/details/anintroductiont01conggoog The Baron Dupotet de Sennevoy. ''An Introduction to the Study of Animal Magnetism''. London: Saunders & Otley, 1838; full text]
+*[https://archive.org/details/letterstoacandi00greggoog William Gregory. ''Letters to a Candid Inquirer on Animal Magnetism''. Philadelphia: Blanchard and Lea, 1851; full text]
+*[https://archive.org/details/progressanimalm01poyegoog Charles Poyen. ''Animal magnetism''. Boston: Weeks, Jordan & co., 1837; full text]
+
+{{Authority control}}
+
+[[Category:Animal magnetism]]
+[[Category:Hypnosis]]
+[[Category:Obsolete biological theories]]
+[[Category:Obsolete medical theories]]
+[[Category:Spirituality]]
+[[Category:Vitalism]]
+[[Category:New Thought beliefs]]

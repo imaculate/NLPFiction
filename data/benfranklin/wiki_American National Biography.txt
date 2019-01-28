@@ -1,0 +1,60 @@
+{{italic title}}
+{{Infobox book series
+| name             = ''American National Biography''
+| image            = <!-- Example.jpg -->
+| image_caption    = 
+| books            = 
+| author           = 
+| editors          = 
+| title_orig       = 
+| translator       = 
+| illustrator      = 
+| cover_artist     = 
+| country          = United States
+| language         = English
+| discipline       = encyclopedia 
+| publisher        = [[Oxford University Press]] for the [[American Council of Learned Societies]]
+| pub_date         = 
+{{plainlist|
+* 1999
+* 2002 (supplement)
+}}
+| english_pub_date = 
+| media_type       = Print, Digital
+| number_of_books  = 25
+| list_books       = 
+| oclc             = 
+| preceded by      = 
+| followed by      = 
+| website          = {{URL|http://www.anb.org}}
+}}
+
+The '''''American National Biography''''' ('''ANB''') is a 24-volume biographical encyclopedia set that contains about 17,400 entries<ref>{{cite web |url=http://www.anb.org/aboutanb.html |title=About the ANB|date=2005 |accessdate=2007-05-05| archiveurl= https://web.archive.org/web/20070410220023/http://www.anb.org/aboutanb.html| archivedate= 10 April 2007 <!--DASHBot-->| deadurl= no}}</ref> and 20 million words,<ref>{{cite web |url=http://www.library.yale.edu/~llicense/ListArchives/9907/msg00022.html |title=Oxford University Press and Regional Networks Announce Strategic Alliance |date=July 20, 2009|accessdate=2009-01-15}}</ref> first published in 1999 by [[Oxford University Press]] under the auspices of the [[American Council of Learned Societies]]. A 400-entry supplement appeared in 2002.<ref name="FritzeCoutts2004">{{cite book|author1=Ronald H. Fritze|author2=Brian E. Coutts|author3=Louis Andrew Vyhnanek|title=Reference sources in history: an introductory guide|year=2004|publisher=ABC-CLIO|isbn=978-0-87436-883-3|page=196}}</ref> Additional funding came from the [[Rockefeller Foundation]], the [[Andrew W. Mellon Foundation]] and the [[National Endowment for the Humanities]].<ref>''American National Biography'', Vol. 1, Preface</ref> The general editors were [[John A. Garraty]] and Mark C. Carnes.<ref>[http://www.anb.org American National Biography Online]</ref>
+
+The ANB bills itself as the successor of the ''[[Dictionary of American Biography]]'', which was first published between 1926 and 1937. It is not, however, a strict [[superset]] of this older publication; the selection of topics was made anew.<ref name="Thomas2005">{{cite book|author=Keith Thomas|title=Changing conceptions of national biography: the Oxford DNB in historical perspective|publisher=Cambridge University Press|isbn=978-0-521-67118-7|page=35|year=2005}}</ref>
+
+It is commonly available in the reference sections of United States libraries,<ref>{{OCLC|39182280}}</ref><ref name="WinklerMetherell2011">{{cite book|author1=Anthony C. Winkler|author2=Jo Ray Metherell|title=Writing the Research Paper: A Handbook|year=2011|publisher=Cengage Learning|isbn=978-0-495-79964-1|page=24}}</ref> and is available online by subscription (see external links).
+
+== Awards and reception ==
+In 1999, the [[American Library Association]] awarded the ''American National Biography'' its [[Dartmouth Medal]]<ref>{{cite web| url = http://www.ala.org/Template.cfm?Section=bookmediaawards&template=/ContentManagement/ContentDisplay.cfm&ContentID=101398 | title = Dartmouth Medal | publisher = American Library Association | accessdate=2011-09-18}}</ref> as a reference work of outstanding quality and significance.  The [[American Historical Association]]'s Waldo G. Leland Prize was awarded for 2001.<ref>{{cite web | url = http://www.historians.org/prizes/AWARDED/LelandWinner.htm | title = AHA Award Recipients. Waldo G. Leland Prize | publisher = American Historical Association | accessdate=2011-09-18 |date=May 30, 2007}}</ref>
+
+It has been criticized for missing [[cross reference]]s and occasional errors,<ref name="Bartlett2003">{{cite book|author=Rebecca Ann Bartlett|title=Choice's outstanding academic titles, 1998-2002: reviews of scholarly titles that every library should own|year=2003|publisher=Assoc of College & Resrch Libraries|isbn=978-0-8389-8232-7|page=1}}</ref> and for its cost, which is said to limit availability in poor countries.<ref name="RosenzweigGrafton2010">{{cite book|author1=Roy Rosenzweig|author2=Anthony Grafton|title=Clio Wired: The Future of the Past in the Digital Age|year=2010|publisher=Columbia University Press|isbn=978-0-231-15085-9|page=72}}</ref>
+
+==See also==
+*[[Oxford Biography Index]]
+*''[[The National Cyclopaedia of American Biography]]''
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{official website}}
+*[http://www.neh.gov/news/humanities/1999-01/garraty.html  National Endowment for the Humanities], interview of editor John A. Garraty by [[William R. Ferris]]
+
+[[Category:1999 books]]
+[[Category:United States biographical dictionaries]]
+[[Category:History books about the United States]]
+[[Category:Oxford University Press reference books]]
+
+{{bio-dict-stub}}
+{{US-hist-book-stub}}

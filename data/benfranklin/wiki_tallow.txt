@@ -1,0 +1,86 @@
+{{short description|rendered form of beef or mutton fat}}
+{{other uses}}
+[[File:Tallow-beef suet after rendering.jpg|thumb|240px|Tallow made by [[Rendering (animal products)|rendering]] calf [[suet]]]]
+
+'''Tallow''' is a [[rendering (industrial)|rendered]] form of [[beef]] or [[mutton]] [[fat]], and is primarily made up of [[triglyceride]]s.  It is solid at [[room temperature]]. Unlike [[suet]], tallow can be stored for extended periods without the need for [[refrigeration]] to prevent [[decomposition]], provided it is kept in an airtight container to prevent [[oxidation]].
+
+In industry, tallow is not strictly defined as beef or mutton fat. In this context, tallow is animal fat that conforms to certain technical criteria, including its [[melting point]]. It is common for commercial tallow to contain fat derived from other animals, such as [[lard]] from [[domestic pig|pigs]], or even from plant sources.
+[[File:TriglycerideTallow.png|thumb|300px|Tallow consists mainly of triglycerides (fat), whose major constituents are derived from [[stearic acid|stearic]] and [[oleic acid]]s.]] The adjacent diagram shows the chemical structure of a typical triglyceride molecule.
+
+[[Tallow#Greaves|Greaves]] (also [[Tallow#Greaves|graves]]) is a byproduct of the rendering process,<ref name=tyson>[https://www.tysonanimalnutrition.com/premium-products/all-about-rendering Greaves: a high-protein solid which is left following the extraction of tallow from animal by-products during the rendering process.]</ref> used in making animal feeds. See also the [[Dog food#History|History of Dog Food]].<ref name=boyard>[https://books.google.com/books?id=ODpFAAAAYAAJ&pg=RA2-PA552&num=100&q=intitle%3A%22animaux%20domestiques%22%20chat Nicolas Jean Baptiste Boyard,'' Manuel du bouvier et zoophile: ou l'art d'élever de soigner les animaux'' 1844, 327]</ref><ref name=sports>{{cite web|url=https://books.google.com/books?pg=PT158&id=x-oDAAAAYAAJ&num=100|title=The Sportsman's Dictionary; Or, The Gentleman's Companion: for Town and Country: Containing Full and Particular Instructions for Riding, Hunting, Fowling ... Hawking, &c. With the Various Methods to be Observed in Breeding and Dieting of Horses Both for the Road and Turf; Also, the Management of Dogs, Gamecocks, Dunghill-fowls, Turkies, Geese, Ducks, Pigeons, Singing-birds, &c. And the Manner of Curing Their Various Diseases and Accidents|date=6 December 1785|publisher=G.G.J. and J. Robinson|via=Google Books}}</ref>
+
+In Leviticus 3:14-17 the Israelites are forbidden to eat the [[suet]] surrounding certain internal organs of animals (e.g. cows and sheep) [[Korban|sacrificed at the Temple]]. This suet is [[Halakha|Halakhically]] called ''[[chelev]]''. English Bible translations sometimes translate ''chelev'' to "tallow", although the original text only forbids tallow from species offered for sacrifice; tallow from other (typically wild) kosher quadrupeds (e.g., deer) is not forbidden.
+
+==Production==
+{{expand section|date=October 2018}}
+
+===Composition===
+{{nutritionalvalue | name=Beef Tallow | kJ=3774 | protein=0 g | fat=100 g | carbs=0 g | satfat=42 g | monofat=50 g | polyfat=4 g | opt1n=[[Cholesterol]] | opt1v=109 mg | opt3n=[[Selenium]] | opt3v=0.2 mg | right=1 | source_usda=1 | note=Fat percentage can vary. }}
+The composition of the fatty acids is typically as follows:<ref>National Research Council, 1976, ''Fat Content and Composition of Animal Products'', Printing and Publishing Office, National Academy of Science, Washington, D.C., {{ISBN|0-309-02440-4}}; p. 203, [http://books.nap.edu/openbook.php?chapselect=yo&page=203&record_id=22&Jump+to+Specified+Page.x=0&Jump+to+Specified+Page.y=0 online edition]</ref>
+*Saturated fatty acids:
+**[[Palmitic acid]] (C16:0): 26%
+**[[Stearic acid]] (C18:0): 14%
+**[[Myristic acid]] (C14:0): 3%
+*Monounsaturated fatty acids:
+**[[Oleic acid]] (C18-1, ω-9): 47%
+**[[Palmitoleic acid]] (C16:1): 3%
+*Polyunsaturated fatty acids:
+**[[Linoleic acid]]: 3%
+**[[α-Linolenic acid|Linolenic acid]]: 1%
+
+==Uses==
+Tallow is used mainly in producing [[soap]] and animal feed.<ref name=Ullmann>{{cite encyclopedia|author=Alfred Thomas |title=Ullmann's Encyclopedia of Industrial Chemistry |encyclopedia=Ullmann's Encyclopedia of Industrial Chemistry|publisher=Wiley-VCH|place=Weinheim|year=2002|doi=10.1002/14356007.a10_173|chapter=Fats and Fatty Oils|isbn=3527306730 }}</ref>
+
+===Banknotes===
+Some polymer banknotes contain beef tallow.
+
+===Soap===
+{{expand section|date=October 2018}}
+
+====Shaving soap====
+[[File:Tallow Ad.jpg|thumb|An 1883 ad soliciting tallow from butchers and graziers for soap production in the [[Kingdom of Hawaii|Hawaii]] newspaper ''The Daily Bulletin'']]Many items of traditional goods are produced from tallow, which was widely available domestically. Tallow can also be used as [[flux (metallurgy)|flux]] for [[soldering]].<ref>{{cite web|url=http://www.fantasyinglass.com/fantasyinglass.com/Tech_Help-Flux.html|title=Tech Help-Flux|author=|date=|website=www.fantasyinglass.com}}</ref> It is also the primary ingredient in some leather conditioners. Tallow used to be used commonly in high-end shaving soaps, in particular those of elite British firms such as [[Geo. F Trumper]], [[Truefitt & Hill]], and Taylor of Old Bond Street. While these firms have reformulated to a vegetable base, tallow-based shaving soaps have enjoyed a resurgence in recent years with the gaining popularity of traditional wet-shaving. Makers exist in Turkey, Italy, and the United States, including artisanal brands Williams and Nod Hill. 
+
+===Food===
+A significant use of tallow is for the production of [[shortening]]. It is one of the main ingredients of the [[Indigenous peoples of the Americas|Native American]] food [[pemmican]].
+Tallow is sometimes used in [[deep frying]] in place of other oils.
+Before switching to pure vegetable oil in 1990,<ref>{{cite web|url=http://articles.chicagotribune.com/1990-07-24/business/9003020215_1_terri-capatosto-fast-food-firm-fast-food-industry|title=Mcdonald`s Turns To Vegetable Oil For French Fries|author=|date=|website=chicagotribune.com}}</ref> the [[McDonald's]] corporation cooked its [[French fries]] in a mixture of 93% beef tallow and 7% [[cottonseed oil]].<ref>Schlosser, Eric (2001). ''Fast Food Nation: The Dark Side of All-American Meal''. Houghton Mifflin. {{ISBN|0-395-97789-4}}</ref>
+
+====Greaves====
+'''Greaves''' (also '''graves''') is a byproduct of the [[wikt:render|render]]ing process,<ref name=tyson/> used in making animal feeds. Historically it was both favored and shunned in  [[Dog food#History|dog food]],<ref name=boyard/><ref name=sports/> but today is widely found in both wet and dry commercial feeds.
+
+===Fuel===
+====Biodiesel====
+Tallow can be used for the production of [[biodiesel]] in much the same way as oils from plants are currently used.<ref>Thamsiriroj (2011). "The impact of the life cycle analysis methodology on whether biodiesel produced from residues can meet the EU sustainability criteria for biofuel facilities constructed after 2017", Renewable Energy, 36, 50-63.</ref>  Because tallow is derived from [[Animal product|animal by-products]], which have little to no value to commercial food industries, it avoids some of the [[food vs. fuel|food ''vs'' fuel]] debate.
+
+====Aviation fuel====
+The [[United States Air Force]] has experimented successfully with the use of beef tallow in [[aviation biofuel]]s. During five days of flight testing from August 23 to 27, 2010, at [[Edwards Air Force Base]], [[California]], a U.S. Air Force [[C-17 Globemaster III]] flew using [[JP-8]] conventional [[jet fuel]] in three of its engines and a 50/50 blend of JP-8 and HRJ [[biofuel]] made from beef tallow in one engine on August 23, followed by a flight with the same 50/50 blend in all four engines on August 24. On August 27, it flew using a blend of 50% JP-8, 25% HRJ, and 25% [[coal]]-based fuel made through the [[Fischer–Tropsch process]], becoming the first [[United States Department of Defense]] aircraft to fly on such a blend and the first aircraft to operate from Edwards using a fuel derived from beef tallow.<ref>{{cite web|url=http://www.aero-news.net/index.cfm?do=main.textpost&id=41e2d9de-4756-4810-9b82-6a5550dfa9a5|title=C-17 Conducts Flight Test With Biofuel - Aero-News Network|author=|date=|website=www.aero-news.net}}</ref>
+
+===Printing===
+Tallow also has a use in printmaking, where it is combined with [[asphalt|bitumen]] and applied to metal print plates to provide a resistance to acid etching.
+
+The use of trace amounts of tallow as an additive to the substrate used in [[polymer banknotes]] came to light in November 2016. Notes issued in 24 countries including Canada, Australia, and the United Kingdom were found to be affected, leading to objections from vegans and members of some religious communities.<ref>{{cite web|url=http://news.nationalpost.com/news/canada/theres-a-minute-amount-of-rendered-animal-fat-in-canadas-banknotes-bank-of-canada-confirms|title=Why there is processed cow in Canada’s money. Hint: you can blame it on the polymer|author=|date=30 November 2016|website=nationalpost.com}}</ref><ref>{{cite web|url=http://money.cnn.com/2016/11/30/news/animal-fat-money-notes-bills-cash-australia-canada/|title=It's not just the U.K. These countries also have animal fat in their money|first=Alanna|last=Petroff|date=|website=cnn.com}}</ref>
+
+===Candles===
+Tallow once was widely used to make molded [[candle]]s before more convenient wax varieties became available—and for some time after since they continued to be a cheaper alternative. For those too poor even to avail themselves of homemade, molded tallow candles, the "tallow dip"—a strip of burning cloth in a saucer of tallow grease—was an accessible substitute.
+
+===Lubrication===
+Early in the development of steam-driven piston engines, the hot vapors and liquids washed away most lubricants very quickly. It was soon found that tallow was quite resistant to this washing. Tallow and compounds including tallow were widely used to lubricate locomotive and steamship engines at least until the 1950s. (During World War II, the vast fleets of steam-powered ships exhausted the supply, leading to the large-scale planting of [[rapeseed]] because rapeseed oil also resisted the washing effect.)  Tallow is still used in the [[steel]] rolling industry to provide the required lubrication as the sheet steel is compressed through the [[steel rollers]]. There is a trend toward replacing tallow-based [[lubrication]] with synthetic oils in rolling applications for surface cleanliness reasons.<ref>{{cite web|url=http://www.patentstorm.us/patents/4891161-description.html|title=Cold rolling mill lubricant - US Patent 4891161<!-- Bot generated title -->|author=|date=|website=patentstorm.us|access-date=2007-04-05|archive-url=https://web.archive.org/web/20070929095627/http://www.patentstorm.us/patents/4891161-description.html|archive-date=2007-09-29|dead-url=yes|df=}}</ref>
+
+The use of tallow or lard to lubricate rifles was the spark that started the [[Indian Mutiny of 1857]]. To load the new [[Pattern 1853 Enfield Rifle]], the [[sepoy]]s had to bite the cartridge open. It was believed that the paper cartridges that were standard issue with the rifle were greased with lard (pork fat), which was regarded as [[Najis|unclean by Muslims]], or tallow (cow fat), which is incompatible with [[Diet in Hinduism|Hindu dietary laws]]. Tallow, along with [[beeswax]], was also used in the lubricant for American Civil War ammunition used in the [[Springfield musket|Springfield rifled musket]].  A combination of mutton tallow, paraffin wax and beeswax is still used as a patch or projectile lubricant in present-day black powder arms.
+
+Tallow is used to make a biodegradable motor oil by a [[Stamford, Connecticut]]–based company called [[Green Earth Technologies]].<ref>{{cite news| url=https://www.nytimes.com/2009/02/08/automobiles/08BIO.html | work=The New York Times | first=Jim | last=Motavalli | title=Oil Goes 'Green,' with the Help of Some Cows | date=5 February 2009}}</ref>
+
+Tallow finds a number of uses in woodworking. It can serve as a lubricant and rust inhibitor on tools such as saw blades and cast-iron plane bodies. It can also be helpful with screwing fixings into hardwoods, particularly when brass screws are employed. For this purpose, a mixture of about half tallow and half beeswax is best. The wax and tallow are melted over a low flame, mixed and allowed to cool and solidify. This reduces the risk of screw breakage during initial screw penetration and also eases later screw removal should this be required, by preventing corrosion.
+
+===Medicinal===
+Historically, animal tallow has been used in salves and ointments against [[intertrigo]] and sore skin: pork (Latin ''Sevum porcinum''), beef (''S. bovinum''), deer (''S. cervinum'', German [[:de:Hirschtalg|''Hirschtalg'']]), goat (''S.
+
+== References ==
+{{Reflist|30em}}
+
+{{fatsandoils}}
+
+[[Category:Animal fat products]]
+[[Category:Cooking fats]]
+[[Category:Garde manger]]
+[[Category:Animal fats]]

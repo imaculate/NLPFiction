@@ -1,0 +1,881 @@
+{{Use Canadian English|date=March 2014}}
+{{Use dmy dates|date=March 2015}}
+{{Infobox settlement
+| name                            = Quebec City
+| official_name                   = Québec
+| native_name                     = Ville de Québec
+| settlement_type                 = [[List of cities in Canada|Provincial capital city]]
+| image_skyline                   = Quebec City Montage 2016.jpg
+| image_flag                      = Flag of Quebec City.svg
+| flag_size                       = 120x100px
+| image_seal                      = 
+| seal_size                       = 1
+| image_shield                    = Armoiries de la ville de Québec.svg
+| shield_size                     = 74x100px
+| nickname                        = [[List of city nicknames in Canada#Quebec|"La Vieille Capitale"]]<ref>{{cite book|first1=Stéphane G. |last1=Marceau |first2=François |last2=Rémillard |title=Ville de Québec |location=Montreal |publisher=Guides de voyage Ulysse |year=2002 |edition=4th |isbn=2-89464-510-4 |page=14 |language=French}}</ref>
+| motto                           = Don de Dieu ferai<!--sic--> valoir<br />("I shall put God's gift to good use"; the ''Don de Dieu'' was Champlain's ship)
+| pushpin_map                     = Canada#Quebec
+| pushpin_map_caption             = Location of Quebec City in Canada
+| coordinates                     = {{coord|46|49|N|71|13|W|region:CA-QC|display=inline,title}}
+| coor_pinpoint                   = 
+| coordinates_footnotes           = <ref name="toponymie"/>
+| image_map1                      = Quebec city map Canada.svg
+| mapsize1                        = 250px
+| map_caption1                    = Quebec City map
+| subdivision_type                = Country
+| subdivision_name                = [[Canada]]
+| subdivision_type1               = [[Provinces and territories of Canada|Province]]
+| subdivision_type2               = [[Region (Quebec)|Region]]
+| subdivision_type3               = Metropolitan community
+| subdivision_type4               = [[Urban agglomeration|Agglomeration]]
+| subdivision_name1               = [[Quebec]]
+| subdivision_name2               = [[Capitale-Nationale]]
+| subdivision_name3               = [[Communauté métropolitaine de Québec]]
+| subdivision_name4               = [[Agglomeration of Quebec City]]
+| subdivision_type5               = [[History of Quebec|Historic countries]]
+| subdivision_name5               = [[Kingdom of France]]<br>[[Kingdom of Great Britain]]<br>
+| established_title               = First settled
+| established_date                = 11 October 1535, <br>by [[Jacques Cartier]]
+| established_title1              = Founded
+| established_date1               = 3 July 1608, <br>by [[Samuel de Champlain]]
+| established_title2              = Constituted
+| established_date2               = 1 January 2002
+| established_title3              = Incorporated
+| established_date3               = 1832<ref name=incor>{{cite web|url=http://grandquebec.com/capitale-quebec/incorporation-ville/ | title=Incorporation de Québec}}</ref>
+| established_title4              = 
+| established_date4               = 
+| parts_type                      = Boroughs
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              = [[Beauport, Quebec City|Beauport]]
+| government_footnotes            = <ref name="mamrot"/>
+| government_type                 = [[Quebec City Council]]
+| leader_title                    = Mayor
+| leader_name                     = [[Régis Labeaume]]
+| leader_title1                   = [[Current members of the Canadian House of Commons|MPs]]
+| leader_name1                    = {{Collapsible list
+|title       = List of MPs
+|frame_style = border:none; padding: 0;
+|list_style  = text-align:left;display:none;
+|1           = [[Sylvie Boucher]] ([[Conservative Party of Canada|C]])
+|2           = [[Alupa Clarke]] ([[Conservative Party of Canada|C]])
+|3           = [[Gérard Deltell]] ([[Conservative Party of Canada|C]])
+|4           = [[Jean-Yves Duclos]] ([[Liberal Party of Canada|L]])
+|5           = [[Joël Godin]] ([[Conservative Party of Canada|C]])
+|6           = [[Joël Lightbound]] ([[Liberal Party of Canada|L]])
+|7           = [[Pierre Paul-Hus]] ([[Conservative Party of Canada|C]])
+}}
+| area_footnotes                  = <ref name="mamrot"/><ref name="auto2">{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=301&SR=3426&RPP=25&S=86&O=A&CMA=0&PR=0#2016A00052423027|title=Population and Dwelling Count Highlight Tables, 2016 Census|first=Government of Canada, Statistics|last=Canada|publisher=}}</ref><ref name="auto">{{cite web|url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=205&S=3&RPP=100|title=Population and Dwelling Count Highlight Tables, 2016 Census|first=Government of Canada, Statistics|last=Canada|publisher=}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 485.77
+| area_land_km2                   = 453.38
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_metro_km2                  = 3408.70
+| elevation_footnotes             = <ref>{{cite web|url=http://www.thecanadianencyclopedia.com/articles/quebec-city|title=Québec City|first=Marc|last=Vallières|publisher=}}</ref><!--for references: use tags-->
+| elevation_m                     = 98
+| elevation_ft                    = 
+| population_total                = 531,902 (11th)
+| population_as_of                = 2016
+| population_footnotes            = <ref name="auto2"/>
+| population_density_km2          = 1173.2
+| population_metro                = 800,296 (7th)
+| population_metro_footnotes      = <ref name="auto"/>
+| population_density_metro_km2    = 234.8
+| population_blank1_title         = Pop&nbsp;<small>2011-2016</small>
+| population_blank1               = {{increase}} 3.0%
+| population_density_blank1_km2   = 
+| postal_code_type                = [[Canadian postal code|Postal code(s)]]
+| postal_code                     = [[List of G postal codes of Canada|G1A to G2N]]
+| area_code                       = [[Area codes 418 and 581|418 and 581]]
+| website                         = {{URL|http://www.ville.quebec.qc.ca/en/index.aspx}}
+| footnotes                       = 
+| p2                              = [[Charlesbourg, Quebec City|Charlesbourg]]
+| p3                              = [[La Cité-Limoilou]]
+| p4                              = [[La Haute-Saint-Charles, Quebec City|La Haute-Saint-Charles]]
+| p5                              = [[Les Rivières, Quebec City|Les Rivières]]
+| p6                              = [[Sainte-Foy–Sillery–Cap-Rouge]]
+| leader_title2                   = [[List of Quebec provincial electoral districts|MNAs]]
+| leader_name2                    = {{Collapsible list
+|title         = List
+|frame_style   = border:none; padding: 0;
+|list_style    = text-align:left;display:none;
+|1             = [[François Blais (MNA)|François Blais]] ([[Liberal Party of Quebec|L]])
+|2             = [[Raymond Bernier]] ([[Liberal Party of Quebec|L]])
+|3             = [[Éric Caire]] ([[Coalition Avenir Quebec|C]])
+|4             = [[André Drolet]] ([[Liberal Party of Quebec|L]])
+|5             = [[Geneviève Guilbault]] ([[Coalition Avenir Quebec|C]])
+|6             = [[Patrick Huot]] ([[Liberal Party of Quebec|L]])
+|7             = [[Agnès Maltais]] ([[Parti Quebecois|PQ]])
+|8             = [[Sébastien Proulx]] ([[Liberal Party of Quebec|L]])
+|9             = [[Véronyque Tremblay]] ([[Liberal Party of Quebec|L]])
+}}
+| area_metro_footnotes            = <ref name="cp2011-CA"/>
+| timezone                        = [[Eastern Time Zone|EST]]
+| utc_offset                      = −5
+| timezone_DST                    = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST                  = −4
+}}
+
+'''Quebec City''' (pronounced {{IPAc-en|audio=En-Quebec.ogv|k|w|ᵻ|ˈ|b|ɛ|k}} or {{IPAc-en|k|ə|ˈ|b|ɛ|k}};<ref name=oedpron>{{cite OED|Quebec}}</ref> {{lang-fr|Québec}} {{IPA-fr|kebɛk||FR-Québec.ogg}}; {{lang-fr|Ville de Québec}}, [[Abenaki language]]: Kephek<ref>http://www.toponymie.gouv.qc.ca/ct/pdf/la%20toponymie%20des%20Abenaquis.pdf?ts=0.14881141134537756</ref>), officially '''Québec''',<ref>{{cite web|title=Québec, City of Québec, Quebec City|url=http://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_q&page=9M186EWC4Ldg.html|publisher=Public Works and Government Services Canada|accessdate=30 May 2015}}</ref><ref name="auto1">{{Cite web |url=http://www4.rncan.gc.ca/search-place-names/unique/EHTWR |title=Place Names - Québec |year=2016 |website=Natural Resources Canada |publisher=Government of Canada}}</ref><ref name="auto1"/> is the capital city of the [[Provinces and territories of Canada|Canadian province]] of [[Quebec]]. The city had a population estimate of 531,902 in July 2016 (an increase of 3.0% from 2011),<ref name="Statistics Canada Census 2016">{{cite web|url = http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2423027&Geo2=CD&Code2=2423|publisher= Statistics Canada|work = Census 2016|title = Québec, Ville [Census subdivision], Quebec and Québec, Territoire équivalent [Census division], Quebec}}</ref> and the [[Communauté métropolitaine de Québec|metropolitan area]] had a population of 800,296 in July 2016 (an increase of 4.3% from 2011),<ref>{{cite web|url= https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=205&S=3&RPP=100 |title=Population and Dwelling Count Highlight Tables, 2016 Census|first=Government of Canada, Statistics|last=Canada|website=www12.statcan.gc.ca}}</ref> making it the second largest city in Quebec after [[Montreal]], and the seventh [[List of census metropolitan areas and agglomerations in Canada|largest metropolitan area]] and eleventh [[List of the 100 largest municipalities in Canada by population|largest city]] in the country. 
+
+The [[Algonquian people]] had originally named the area ''Kébec'', an [[Algonquin language|Algonquin]] word meaning "where the river narrows", because the [[Saint Lawrence River]] narrows proximate to the [[promontory of Quebec]] and its [[Cap Diamant|Cape Diamant]]. Explorer [[Samuel de Champlain]] founded a French settlement here in 1608, and adopted the Algonguin name. Quebec City is one of the [[List of North American cities by year of foundation|oldest European cities]] in North America. The [[Ramparts of Quebec City|ramparts]] surrounding [[Old Quebec]] (''Vieux-Québec'') are the only fortified [[city walls]] remaining in the Americas north of [[Mexico]]. This area was declared a [[World Heritage Site]] by [[United Nations Educational, Scientific and Cultural Organization|UNESCO]] in 1985 as the "Historic District of Old Québec".<ref>"[http://whc.unesco.org/en/list/300 Historic District of Old Québec]". [[World Heritage Site|World Heritage]]; [[UNESCO]]. Retrieved 12 January 2009.</ref><ref>{{Cite news |url=http://www.cbc.ca/sevenwonders/wonder_quebec_city.html |title=Old Quebec City, Seven Wonders of Canada |accessdate=12 February 2008|work=cbc.ca }}</ref>
+
+The city's landmarks include the [[Château Frontenac]] hotel that dominates the skyline and the [[Citadelle of Quebec]], an intact fortress that forms the centrepiece of the ramparts surrounding the old city and includes a secondary [[Government Houses in Canada|royal residence]]. The [[National Assembly of Quebec]] (provincial legislature), the [[Musée national des beaux-arts du Québec]] (''National Museum of Fine Arts of Quebec''), and the [[Musée de la civilisation]] (''Museum of Civilization'') are found within or near Vieux-Québec.
+
+==Name amd usage==
+{{See also|Name of Quebec City}}
+According to the Government of Canada, the Government of Quebec, the ''Commission de toponymie du Québec'', and the Geographical Names Board of Canada, the names of Canadian cities and towns have only one official form. Thus, Québec is officially spelled with an accented é in both Canadian English and French,<ref>{{cite web | url=http://www.btb.termiumplus.gc.ca/tpv2guides/guides/wrtps/index-eng.html?lang=eng&lettr=indx_catlog_q&page=9M186EWC4Ldg.html#zz9M186EWC4Ldg | title=Québec, City of Québec, Quebec City | publisher=Public Works and Government Services Canada | date=2016 | accessdate=29 October 2016}}</ref><ref>{{cite web | url=http://www.psc-cfp.gc.ca/abt-aps/stgd-gdst/index-eng.htm#toc2.15 | title=Names (geographical) | publisher=Public Service Commission of Canada | accessdate=29 October 2016}}</ref><ref>{{cite web | url=http://www.btb.termiumplus.gc.ca/tcdnstyl-chap?lang=eng&lettr=chapsect15&info0=15#zz15 | title=Geographical Names | publisher=The Canadian Style | accessdate=29 October 2016 | author=Government of Canada}}</ref> but the accent is often omitted in unoficial English usage.
+
+In English, the city and the province are formally distinguished by the fact that the province does not have an accented é and the city does. Informally, the form "Quebec City" is frequently but unofficially used to distinguish the city from the province. In French, the names of provinces are gendered nouns and the names of cities are not. Therefore, the city and the province are already distinguished by the presence or absence of a [[definite article]] in front of the name. For example, the concept of "in Quebec" is expressed as "à Québec" for the city and "au Québec" for the province.
+
+==History==
+{{See also|History of Quebec City|Timeline of Quebec City history}}
+
+=== French Regime (1500s–1763)===
+Quebec City is one of the oldest European settlements in North America and the only fortified city north of Mexico whose walls still exist.<ref>{{cite web|url=http://www.cbc.ca/sevenwonders/wonder_quebec_city.html|title=CBC.CA - Seven Wonders of Canada - Your Nominations - Old Quebec City, Quebec|publisher=}}</ref> While many of the major cities in Latin America date from the 16th century, among cities in Canada and the U.S., few were created earlier than Quebec City ([[St. John's, Newfoundland and Labrador|St. John's]], [[Harbour Grace]], [[Port-Royal National Historic Site|Port Royal]], [[St. Augustine, Florida|St. Augustine]], [[Santa Fe, New Mexico|Santa Fe]], [[Jamestown, Virginia|Jamestown]], and [[Tadoussac]]). 
+[[File:Jacques Cartier rencontre les indiens de Stadacone, 1535.jpg|left|thumb|Depiction of [[Jacques Cartier]]'s meeting with the indigenous people of [[Stadacona]] in 1535.]]
+It is home to the earliest known French settlement in North America, [[Charlesbourg-Royal|Fort Charlesbourg-Royal]], established in 1541 by explorer [[Jacques Cartier]] with some 400 persons but abandoned less than a year later due to the hostility of the natives and the harsh winter.<ref>{{Cite web |url=https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=16661 |title=Fort Charlesbourg Royal National Historic Site of Canada |website=www.historicplaces.ca |publisher=Parks Canada |language=en |access-date=2018-10-06}}</ref> The fort was at the mouth of the [[Rivière du Cap Rouge]], in the suburban former [[Cap-Rouge, Quebec City|town of Cap-Rouge]] (which merged into Quebec City in 2002).
+
+Quebec was founded by [[Samuel de Champlain]], a French explorer and diplomat, on 3 July 1608,<ref name=WDL1>{{cite web|title=View of Quebec, Capital of Canada|url=http://www.wdl.org/en/item/224|publisher=[[World Digital Library]]|accessdate=11 February 2013}}</ref> and at the site of a long abandoned [[Laurentian language|St. Lawrence Iroquoian]] settlement called [[Stadacona]]. Champlain, also called ''"The Father of [[New France]]",'' served as its administrator for the rest of his life.
+
+The [[name of Canada|name "Canada"]] refers to this settlement. Although the [[Acadia]]n settlement at [[Port Royal, Annapolis County, Nova Scotia|Port-Royal]] was established three years earlier, Quebec came to be known as the cradle of North America's [[French language|Francophone]] population. The place seemed favourable to the establishment of a permanent colony.
+
+The population of the settlement remained small for decades. In 1629 it was [[surrender of Quebec|captured by English privateers]], led by [[David Kirke]], during the [[Anglo-French War (1627-29)|Anglo-French War]].<ref name=kirkbio>[http://www.biographi.ca/009004-119.01-e.php?id_nbr=368&PHPSESSID=5741tch9j1hgc3ki456h1e5uv7 "KIRKE, SIR DAVID, adventurer, trader, colonizer, leader of the expedition that captured Quebec in 1629, and later governor of Newfoundland"], ''Dictionary of Canadian Biography Online''</ref> Samuel de Champlain argued that the English seizing of the lands was illegal as the war had already ended, and worked to have the lands returned to France. As part of the ongoing negotiations of their exit from the Anglo-French War, in 1632 the English king Charles agreed to return the lands in exchange for [[Louis XIII of France|Louis XIII]] paying his wife's [[dowry]].<ref name=kirkbio /> These terms were signed into law with the [[Treaty of Saint-Germain-en-Laye (1632)|Treaty of Saint-Germain-en-Laye]]. The lands in Quebec and [[Acadia]] were returned to the French [[Company of One Hundred Associates]].<ref name=kirkbio />
+[[File:Battle of Sainte-Foy.jpg|thumb|left|The [[Battle of Sainte-Foy]] in 1760. Although victorious in battle, the French could not retake Quebec City.]]
+In 1665, there were 550 people in 70 houses living in the city. One-quarter of the people were members of religious orders: secular priests, Jesuits, Ursulines nuns and the order running the local hospital, Hotel-Dieu.<ref>{{Cite book |last = Morison |first = Samuel Eliot |title = The Oxford History of the American People|publisher=Mentor |year = 1972 |location = New York City |page = 150|url = |doi = |id = |isbn = 0-451-62600-1 }}</ref>
+
+Quebec City was the headquarters of many raids against [[New England]] during the four [[French and Indian Wars]]. In the last war, the [[French and Indian War]] (Seven Years' War), Quebec City was captured by the British in 1759 and held until the end of the war in 1763. It was the site of three battles during [[Seven Years' War]]: the [[Battle of Beauport]], a French victory (31 July 1759); the [[Battle of the Plains of Abraham]], in which British troops under General [[James Wolfe]] defeated the French General [[Louis-Joseph de Montcalm]] on 13 September 1759 and shortly thereafter took the city; and the final [[Battle of Sainte-Foy]], a French victory (28 April 1760). France ceded [[New France]], including the city, to Britain in 1763.<ref>{{cite web|url=https://primarydocuments.ca/royal-proclamation-1763/|website= PrimaryDocuments.ca |title =George R, Proclamation, 7 October 1763 (Royal Proclamation)|publisher=|df=dmy-all}}</ref>
+
+At the end of French rule in 1763, forests, villages, fields and pastures surrounded the town of 8,000 inhabitants. The town distinguished itself by its monumental architecture, fortifications, and affluent homes of masonry and shacks in the suburbs of Saint-Jean and Saint-Roch. Despite its urbanity and its status as capital, Quebec City remained a small colonial city with close ties to its rural surroundings. Nearby inhabitants traded their farm surpluses and firewood for imported goods from France at the two city markets.
+
+===Modern history (1763–present)===
+{{refimprove section|date=April 2016}}
+[[File:Canadian militiamen and British soldiers repulse the American assault at Sault-au-Matelot.jpg|thumb|British regulars and [[Canadian militia]] engage the [[Continental Army]] in the streets of the city. The Americans' failure to take Quebec in 1775 led to the end of their [[Invasion of Quebec (1775)|campaign in Canada.]]]]
+During the American Revolution, revolutionary troops from the southern colonies assaulted the British garrison in an attempt to 'liberate' Quebec City, in a conflict now known as the [[Battle of Quebec (1775)|Battle of Quebec]]. The defeat of the revolutionaries from the south put an end to the hopes that the peoples of Quebec would rise and join the [[American Revolution]] so that Canada would join the [[Continental Congress]] and become part of the original United States of America along with the other British colonies of continental North America. In effect, the battle's outcome was the split of British North America into two distinct political entities. The city itself was not attacked during the [[War of 1812]], when the United States again attempted to annex Canadian lands. Amid fears of another American attack on Quebec City, construction of the [[Citadelle of Quebec]] began in 1820. The Americans did not attack Canada after the War of 1812, but the Citadelle continued to house a large British garrison until 1871. It is still in use by the military and is also a tourist attraction.
+
+Until the late 18th century Québec was the most populous city in present-day Canada. As of the census of 1790, Montreal surpassed it with 18,000 inhabitants, but Quebec (pop. 14,000) remained the administrative capital of New France.<ref name="Cartier">{{cite journal |last= Cartier |first= Gwenaël|date=2009 |title=Québec 1608-2008 : 400 ans de statistiques démographiques tirées des recensements|url= https://www.erudit.org/en/journals/cqd/2008-v37-n1-cqd2900/029642ar/|journal=Cahiers québécois de démographie |language=fr|publisher= |volume= |issue= |page=143 |doi=}}</ref> It was then made the capital of [[Lower Canada]] by the [[Constitutional Act of 1791]].<ref>{{cite web |url=https://www.ville.quebec.qc.ca/en/apropos/portrait/histoire/1756-1867.aspx |title=QUÉBEC CITY, FORTRESS AND PORT (1756–1867) |first= |last= |date= |website= |publisher=Ville de Québec}}</ref> From the 1841 to 1867, the capital of the [[Province of Canada]] rotated between [[Kingston, Ontario|Kingston]], [[Montreal]], [[Toronto]], [[Ottawa]] and Quebec City (from 1852 to 1856 and from 1859 to 1866).
+
+Before the [[Royal Military College of Canada]] was established in 1876, the only french-speaking officer training school was the Quebec City School of Military Instruction, founded in 1864.<ref>{{Cite web |url=http://cmhg-phmc.forces.gc.ca/cmh-pmc/page-501-eng.aspx |title=Canadian Military Heritage Volume 2 (1755-1871). Canadian Militia Unpopular with Francophones |website=Canadian Military History Gateway |publisher=Department of National Defence  |language=en |access-date=2018-10-06}}</ref> The school was retained at Confederation, in 1867. In 1868, The School of Artillery was formed in Montreal.<ref>Richard Preston 'Canada's RMC: A History of the Royal Military College of Canada' published by the RMC Club by U of Toronto Press.</ref>
+
+[[File:The Quebec Conference, Canada, August 1943 TR1347.jpg|thumb|left|[[William Lyon Mackenzie King|Mackenzie King]], [[Franklin Delano Roosevelt|Franklin Roosevelt]], [[Winston Churchill]], and the [[Alexander Cambridge, 1st Earl of Athlone|Earl of Athlone]] (left-to-right) at the [[First Quebec Conference]], a secret military conference held in [[World War II]].]]
+The [[Quebec Conference, 1864|Quebec Conference]] on [[Canadian Confederation]] was held in the city in 1864. In 1867, [[Queen Victoria]] chose Ottawa as the definite capital of the Dominion of Canada, while Quebec City was confirmed as the capital of the newly created province of Quebec.
+
+During World War II, two conferences were held in Quebec City. The [[Quebec Conference, 1943|First Quebec Conference]] was held in 1943 with [[Franklin D. Roosevelt]] (the United States president), [[Winston Churchill]] (the United Kingdom's prime minister), [[William Lyon Mackenzie King]] (Canada's prime minister) and [[T. V. Soong]] ([[Republic of China (1912–1949)|China]]'s minister of foreign affairs). The [[Second Quebec Conference]] was held in 1944, and was attended by Churchill and Roosevelt. They took place in the buildings of the Citadelle and at the nearby [[Château Frontenac]]. A large part of the [[D-Day]] landing plans were made during those meetings.
+
+Until 2002, Quebec was a mostly urbanized city and its territory coterminous with today's borough of [[La Cité-Limoilou]]. The Government of Quebec then mandated a [[2000–06 municipal reorganization in Quebec|municipal reorganization in the province]], and many [[suburbs]] of the north shore of the Saint-Lawrence were merged into Quebec City, taking the form of [[Borough#Canada|boroughs]]. In 2008 the city celebrated its [[400th anniversary of Quebec City|400th anniversary]] and was gifted funds for festivities and construction projects by provincial and federal governments, as well as [[public artwork]] by various entities, including foreign countries.
+
+==Geography==
+[[File:Québec City – Boulevard Champlain - Le Fleuve Saint-Lorent - panoramio (1).jpg|thumb|The Promontory of Quebec at the narrowing of the Saint Lawrence River and surrounded by the [[Laurentian Mountains]].]]
+Quebec City was built on the north bank of the [[Saint Lawrence River]], where it narrows and meets the mouth of the [[Saint-Charles River]]. [[Old Quebec]] is located on top and at the foot of [[Cap Diamant|Cap-Diamant]], which is on the eastern edge of a [[plateau]] called the [[promontory of Quebec]] (Quebec hill). Because of this topographic feature, the oldest and most urbanized borough of [[La Cité-Limoilou]] can be divided into upper and lower town.<ref>{{cite book |last1=Geological Survey of Canada |first1= |last2= |first2= |date= 1999|title=The 1988 Saguenay Earthquake - a Site Visit Report |trans-title= |url=https://books.google.com/books?id=T0N_uGojlOoC&pg=PA63 |language=|location= |publisher= |isbn= |subscription= |page=63|quote= }}</ref> North of the hill, the [[Saint Lawrence Lowlands]] is flat and has rich, arable soil. Past this valley, the [[Laurentian Mountains]] lies to the north of the city but its [[foothills]] are within the municipal limits.
+
+The [[Plains of Abraham]] are located on the southeastern extremity of the plateau, where [[Fortifications of Quebec|high stone walls]] were integrated during colonial days. On the northern foot of the promontory, the lower town neighborhoods of [[Saint-Roch, Quebec City|Saint-Roch]] and Saint-Sauveur ([[:fr:Saint-Sauveur (quartier)|''fr'']]), traditionally working class,<ref>{{cite book |last1=Stelter |first1=Gilbert |last2= |first2= |date=1982 |title=Shaping the Urban Landscape: Aspects of the Canadian City-Building Process|trans-title= |url=https://books.google.com/books?id=bZRE9gaBnvAC&pg=PA163|language= |location= |publisher= McGill Queen University Press |isbn= 9780773584860|subscription= |quote= }}</ref> are separated from uptown's [[Saint-Jean-Baptiste, Quebec City|Saint-Jean-Baptiste]] and Saint-Sacrement ([[:fr:Saint-Sacrement (quartier)|''fr'']]) by a woody area attested as Coteau Sainte-Geneviève ([[:fr:Coteau Sainte-Geneviève|''fr'']]).
+
+The area was affected by the [[1925 Charlevoix–Kamouraska earthquake]].
+
+The [[List of regions of Quebec#Administrative Regions|administrative region]] in which it is situated is officially referred to as [[Capitale-Nationale]],<ref>Décret concernant la révision des limites des régions administratives du Québec, R.Q. c. D-11, r.2, made pursuant to the Territorial Division Act, R.S.Q. c. D-11</ref><ref>{{cite web|url=http://www.gouv.qc.ca/portail/quebec/pgs/commun/portrait/regions/description/?lang=en#03|title=Québec Portal > Portrait of Québec > Administrative Regions > Regions|accessdate=13 May 2009}}</ref> and the term "national capital" is used to refer to Quebec City itself at the provincial level.<ref name="CanLII">{{cite web|url=http://www.canlii.org/en/qc/laws/stat/rsq-c-c-33.1/latest/rsq-c-c-33.1.html|title=An Act respecting the National capital commission, R.S.Q. c. C-33.1|date=4 May 2009|publisher=CanLII|accessdate=13 May 2009}}</ref>
+
+===Climate===
+[[File:Québec Ville (5554948444).jpg|thumb|Winter scene in the [[Petit Champlain]] sector]]
+The [[climate]] of Quebec City is classified as [[humid continental climate|humid continental]] ([[Köppen climate classification]] ''Dfb'').<ref name=Peel>{{cite journal | author=Peel, M. C. and Finlayson, B. L. and McMahon, T. A. | year=2007 | title= Updated world map of the Köppen&ndash;Geiger climate classification | journal=Hydrol. Earth Syst. Sci. | volume=11 | issue=5 | pages=1633–1644 |doi=10.5194/hess-11-1633-2007 | url=http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.pdf | issn = 1027-5606}}</ref>
+
+Quebec City experiences four distinct seasons. Summers are warm and occasionally hot, with periods of hotter temperatures which compounded with the high humidity, create a high heat index that belie the average high of {{convert|22|-|25|C|F}} and lows of {{Convert|11|-|13|C|F}}. Winters are often cold, windy and snowy with average high temperatures {{Convert|-5|to|-8|C|F}} and lows {{convert|-13|to|-18|C|F}}. Spring and fall, although short, bring chilly to warm temperatures. Late heat waves as well as "[[Indian summer]]s" are a common occurrence.{{citation needed|reason=more common than elsewhere?|date=March 2011}}
+
+On average, Quebec City receives {{convert|1190|mm|2}} of precipitation, of which {{convert|899|mm|2}} is rain and {{convert|303|mm|2}} is the melt from {{convert|316|cm|1}} of snowfall per annum.<ref group="note">Although snow is measured in cm the melted snow (water equivalent) is measured in mm and added to the rainfall to obtain the total precipitation. An approximation of the water equivalent can be made by dividing the snow depth by ten. Thus {{convert|1|cm|1|abbr=on}} of snow will be {{convert|1|mm|2|abbr=on}} of water. See [[snow gauge]], [http://www.climate.weatheroffice.gc.ca/prods_servs/normals_documentation_e.html#ND2 Rainfall, Snowfall, and Precipitation] {{webarchive|url=https://web.archive.org/web/20121228044057/http://www.climate.weatheroffice.gc.ca/prods_servs/normals_documentation_e.html |date=28 December 2012 }} and [http://www.ec.gc.ca/Publications/A192EDCE-8394-4662-BE0F-AAD3E32F23E9%5CMANOBS7A17_e.pdf MANOBS 7th Edition Amendment 17]{{dead link|date=September 2018|bot=medic}}{{cbignore|bot=medic}}</ref> The city experiences around 1,916 hours of bright sunshine annually or 41.5% of possible sunshine, with summer being the sunniest, but also slightly the wettest season. During winter, snow generally stays on the ground from the end of November till mid-April.
+
+The highest temperature ever recorded in Quebec City was {{convert|36.1|C|0}} on 17 July 1953.<ref name="July 1953">{{cite web
+| publisher = [[Environment Canada]]
+| url = http://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=%7C&dlyRange=1872-06-01%7C1959-02-28&mlyRange=1872-01-01%7C1959-12-01&StationID=5249&Prov=QC&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=1930&selRowPerPage=25&Line=0&searchMethod=contains&Month=7&Day=8&txtStationName=quebec&timeframe=2&Year=1953
+| title = Daily Data Report for July 1953
+| work = Canadian Climate Data
+| accessdate = 8 July 2016}}</ref> The coldest temperature ever recorded was {{convert|-36.7|C|0}} on 10 January 1890 and 14 January 2015.<ref name="January 1890">{{cite web
+| publisher = [[Environment Canada]]
+| url = http://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=%7C&dlyRange=1872-06-01%7C1959-02-28&mlyRange=1872-01-01%7C1959-12-01&StationID=5249&Prov=QC&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=1930&selRowPerPage=25&Line=0&searchMethod=contains&Month=1&Day=8&txtStationName=quebec&timeframe=2&Year=1890
+| title = Daily Data Report for January 1890
+| work = Canadian Climate Data
+| accessdate = 8 July 2016}}</ref><ref name="January 2015">{{cite web
+| publisher = [[Environment Canada]]
+| url = http://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=2005-03-24%7C2016-07-07&dlyRange=1992-12-04%7C2016-07-06&mlyRange=1998-01-01%7C2016-03-01&StationID=26892&Prov=QC&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2016&selRowPerPage=25&Line=4&searchMethod=contains&Month=1&Day=1&txtStationName=quebec&timeframe=2&Year=2015
+| title = Daily Data Report for January 2015
+| work = Canadian Climate Data
+| accessdate = 8 July 2016}}</ref>
+
+{{Weather box
+|location = Quebec City ([[Jean Lesage International Airport]]), 1981−2010 normals, extremes 1875−present{{efn|Based on station coordinates provided by Environment Canada, climate data was recorded in the area of [[Old Quebec]] from August 1875 to February 1959, and at [[Jean Lesage International Airport]] from March 1943 to present.}}
+|metric first = Y
+|single line = Y
+|collapsed = Y
+|Jan maximum humidex = 10.6
+|Feb maximum humidex = 11.7
+|Mar maximum humidex = 17.8
+|Apr maximum humidex = 32.9
+|May maximum humidex = 40.3
+|Jun maximum humidex = 44.1
+|Jul maximum humidex = 49.2
+|Aug maximum humidex = 49.3
+|Sep maximum humidex = 40.1
+|Oct maximum humidex = 30.9
+|Nov maximum humidex = 24.9
+|Dec maximum humidex = 14.6
+|year maximum humidex =49.3
+|Jan record high C = 11.1
+|Feb record high C = 11.7
+|Mar record high C = 18.3
+|Apr record high C = 29.9
+|May record high C = 33.0
+|Jun record high C = 34.4
+|Jul record high C = 36.1
+|Aug record high C = 35.6
+|Sep record high C = 33.9
+|Oct record high C = 28.3
+|Nov record high C = 22.9
+|Dec record high C = 15.0
+|year record high C = 36.1
+|Jan high C = -7.9
+|Feb high C = -5.6
+|Mar high C = 0.2
+|Apr high C = 8.3
+|May high C = 17.0
+|Jun high C = 22.3
+|Jul high C = 25.0
+|Aug high C = 23.6
+|Sep high C = 17.9
+|Oct high C = 11.1
+|Nov high C = 2.9
+|Dec high C = -4.2
+|year high C = 9.2
+|Jan mean C = -12.8
+|Feb mean C = -10.6
+|Mar mean C = -4.6
+|Apr mean C = 3.7
+|May mean C = 11.2
+|Jun mean C = 16.4
+|Jul mean C = 19.3
+|Aug mean C = 18.1
+|Sep mean C = 12.7
+|Oct mean C = 6.6
+|Nov mean C = -0.7
+|Dec mean C = -8.6
+|year mean C = 4.2
+|Jan low C = -17.7
+|Feb low C = -15.6
+|Mar low C = -9.4
+|Apr low C = -1.0
+|May low C = 5.4
+|Jun low C = 10.5
+|Jul low C = 13.5
+|Aug low C = 12.5
+|Sep low C = 7.5
+|Oct low C = 2.0
+|Nov low C = -4.2
+|Dec low C = -12.8
+|year low C = -0.8
+|Jan record low C = -36.7
+|Feb record low C = -36.1
+|Mar record low C = -30.0
+|Apr record low C = -18.9
+|May record low C = -7.8
+|Jun record low C = -0.6
+|Jul record low C = 3.9
+|Aug record low C = 2.2
+|Sep record low C = -4.8
+|Oct record low C = -10.0
+|Nov record low C = -26.1
+|Dec record low C = -35.6
+|year record low C = -36.7
+|Jan chill = -51.1
+|Feb chill = -52.4
+|Mar chill = -41.0
+|Apr chill = -29.0
+|May chill = -13.6
+|Jun chill = 0.0
+|Jul chill = 0.0
+|Aug chill = 0.0
+|Sep chill = -7.8
+|Oct chill = -17.3
+|Nov chill = -30.8
+|Dec chill = -48.4
+|year chill = -52.4
+|precipitation colour = green
+|Jan precipitation mm = 86.6
+|Feb precipitation mm = 74.5
+|Mar precipitation mm = 76.1
+|Apr precipitation mm = 83.5
+|May precipitation mm = 115.9
+|Jun precipitation mm = 111.4
+|Jul precipitation mm = 121.4
+|Aug precipitation mm = 104.2
+|Sep precipitation mm = 115.5
+|Oct precipitation mm = 98.3
+|Nov precipitation mm = 102.5
+|Dec precipitation mm = 99.9
+|year precipitation mm = 1189.7
+|rain colour = green
+|Jan rain mm = 22.7
+|Feb rain mm = 15.2
+|Mar rain mm = 30.2
+|Apr rain mm = 67.5
+|May rain mm = 115.9
+|Jun rain mm = 111.4
+|Jul rain mm = 121.4
+|Aug rain mm = 104.2
+|Sep rain mm = 115.5
+|Oct rain mm = 94.6
+|Nov rain mm = 69.1
+|Dec rain mm = 31.7
+|year rain mm = 899.3
+|snow colour = green
+|Jan snow cm = 71.9
+|Feb snow cm = 63.6
+|Mar snow cm = 46.4
+|Apr snow cm = 13.2
+|May snow cm = 0.0
+|Jun snow cm = 0.0
+|Jul snow cm = 0.0
+|Aug snow cm = 0.0
+|Sep snow cm = 0.0
+|Oct snow cm = 3.2
+|Nov snow cm = 32.7
+|Dec snow cm = 72.4
+|year snow cm = 303.4
+|time day = 3pm
+|Jan humidity = 67.8
+|Feb humidity = 64.6
+|Mar humidity = 60.7
+|Apr humidity = 55.9
+|May humidity = 51.6
+|Jun humidity = 56.0
+|Jul humidity = 59.1
+|Aug humidity = 59.1
+|Sep humidity = 61.8
+|Oct humidity = 63.1
+|Nov humidity = 70.4
+|Dec humidity = 73.2
+|year humidity = 61.9
+|unit precipitation days = 0.2 mm
+|unit rain days = 0.2 mm
+|unit snow days = 0.2 cm
+|Jan precipitation days = 17.1
+|Feb precipitation days = 14.3
+|Mar precipitation days = 13.4
+|Apr precipitation days = 12.1
+|May precipitation days = 15.4
+|Jun precipitation days = 13.4
+|Jul precipitation days = 13.5
+|Aug precipitation days = 13.4
+|Sep precipitation days = 13.4
+|Oct precipitation days = 14.4
+|Nov precipitation days = 16.0
+|Dec precipitation days = 18.5
+|year precipitation days = 174.9
+|Jan rain days = 3.0
+|Feb rain days = 2.4
+|Mar rain days = 4.7
+|Apr rain days = 10.4
+|May rain days = 15.3
+|Jun rain days = 13.4
+|Jul rain days = 13.5
+|Aug rain days = 13.4
+|Sep rain days = 13.4
+|Oct rain days = 14.1
+|Nov rain days = 10.1
+|Dec rain days = 4.5
+|year rain days = 118.2
+|Jan snow days = 16.3
+|Feb snow days = 13.2
+|Mar snow days = 10.5
+|Apr snow days = 4.3
+|May snow days = 0.13
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 1.0
+|Nov snow days = 8.1
+|Dec snow days = 16.6
+|year snow days = 70.1
+|Jan sun = 98.9
+|Feb sun = 121.2
+|Mar sun = 152.0
+|Apr sun = 170.6
+|May sun = 211.1
+|Jun sun = 234.7
+|Jul sun = 252.3
+|Aug sun = 232.0
+|Sep sun = 163.0
+|Oct sun = 122.0
+|Nov sun = 76.6
+|Dec sun = 81.9
+|year sun = 1916.3
+|Jan percentsun = 35.5
+|Feb percentsun = 41.8
+|Mar percentsun = 41.3
+|Apr percentsun = 41.9
+|May percentsun = 45.3
+|Jun percentsun = 49.6
+|Jul percentsun = 52.7
+|Aug percentsun = 52.7
+|Sep percentsun = 43.1
+|Oct percentsun = 36.0
+|Nov percentsun = 27.1
+|Dec percentsun = 30.7
+|year percentsun = 41.5
+|source 1 = [[Environment Canada]],<ref name="climate">{{cite web
+| publisher = [[Environment Canada]]
+| url = http://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?stnID=5251&lang=e&dCode=0&province=QUE&provBut=Go&month1=0&month2=12
+| title = Quebec/Jean Lesage INT'L A, Quebec
+| work = Canadian Climate Normals 1981−2010
+| accessdate = 8 May 2014}}</ref><ref>{{Cite web |url=ftp://ftp.tor.ec.gc.ca/Pub/Normals/English/QUE/QUE_L'AL-QUEB_ENG.csv |title=QUEBEC/JEAN LESAGE INTL A |publisher=[[Environment Canada]] |accessdate=July 29, 2015}}</ref><ref name="QUEBEC/JEAN LESAGE INTL">{{cite web
+| publisher = [[Environment Canada]]
+| url = http://climate.weather.gc.ca/climate_data/monthly_data_e.html?hlyRange=2005-03-24%7C2016-07-07&dlyRange=1992-12-04%7C2016-07-06&mlyRange=1998-01-01%7C2016-03-01&StationID=26892&Prov=QC&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2016&selRowPerPage=25&Line=4&searchMethod=contains&Month=1&Day=1&txtStationName=quebec&timeframe=3&Year=2016
+| title = QUEBEC/JEAN LESAGE INTL
+| work = Canadian Climate Data
+| accessdate = 28 March 2016}}</ref> (Extremes 1875−1959)<ref name="Quebec">{{cite web
+| publisher = [[Environment Canada]]
+| url = http://climate.weather.gc.ca/historical_data/search_historic_data_stations_e.html?searchType=stnName&timeframe=1&txtStationName=quebec&searchMethod=contains&optLimit=yearRange&StartYear=1840&EndYear=1930&Year=2016&Month=7&Day=8&selRowPerPage=25
+| title = Quebec
+| work = Canadian Climate Data
+| accessdate = 28 March 2016}}</ref>
+}}
+
+==Cityscape==
+===Architecture===
+{{Main|Architecture of Quebec City}}
+[[File:Porte Saint-Jean Quebec 01.JPG|thumb|left|The [[Ramparts of Quebec City|St. Jean (St. John) Gate]].]]
+Much of the city's notable traditional architecture is located in [[Vieux-Québec]] (Old Quebec), within and below the [[Ramparts of Quebec City|fortifications]]. This area has a distinct European feel with its stone buildings and winding streets lined with shops and restaurants. Porte St-Louis and Porte St-Jean are the main gates through the walls from the modern section of downtown; the Kent Gate was a gift to the province from [[Queen Victoria]] and the foundation stone was laid by the Queen's daughter, [[Princess Louise, Duchess of Argyll|Princess Louise, Marchioness of Lorne]], on 11 June 1879.<ref>{{Cite book| last=Hubbard|first=R.H.|title=Rideau Hall| publisher=McGill-Queen's University Press| year=1977| page=49| isbn=978-0-7735-0310-6}}</ref> West of the walls are the [[Parliament Hill (Quebec City)|Parliament Hill]] area, and to the south the [[Plains of Abraham]].
+
+The upper and lower town are linked by numerous stairs such as the ''Escalier « casse-cou »'' (literally "neck-breaking" steps) or the [[Old Quebec Funicular]] on the historic [[Petit Champlain]] street where many small boutiques are found, not far [[Notre-Dame-des-Victoires, Quebec City|Notre-Dame-des-Victoires]] church and [[Musée de la Civilisation]] (Museum of Civilization)
+[[File:Château Frontenac et terrasse Dufferin (hiver).JPG|thumb|Terrasse Dufferin and Château Frontenac, upper town.]]
+[[File:Québec City skyline (Quintin Soloviev).jpg|thumb|Québec City skyline]]
+Along with concrete high-rises such as [[Édifice Marie-Guyart]] and [[Hôtel Le Concorde|Le Concorde]] on parliament hill (see [[List of tallest buildings in Quebec City]]), the city's skyline is dominated by the massive [[Château Frontenac]] Hotel, perched on top of Cap-Diamant. It was designed by architect [[Bruce Price]], as one of a series of [[Canada's railway hotels|"château" style hotels]] built for the [[Canadian Pacific Railway]] company. The railway company sought to encourage luxury tourism and bring wealthy travellers to its trains.
+Alongside the Château Frontenac is the [[Terrasse Dufferin]], a walkway along the edge of the cliff, offering beautiful views of the Saint Lawrence River. The terrace leads toward the nearby [[Plains of Abraham]], site of the battle in which the British took Quebec from France, and the [[Citadelle of Quebec]], a [[Canadian Forces]] installation and the [[Governor General of Canada|federal vice-regal secondary residence]]. The [[Parliament Building (Quebec)|Parliament Building]], the meeting place of the [[Parliament of Quebec]], is also near the [[Citadelle of Quebec|Citadelle]].
+
+Near the Château Frontenac is [[Notre-Dame de Québec Cathedral]], mother church of the [[Roman Catholic Archdiocese of Quebec]]. It is the first church in the [[New World]] to be raised to a [[basilica]] and is the [[primate (bishop)|primatial]] church of Canada. There are 37 [[List of National Historic Sites of Canada in Quebec City|National Historic Sites of Canada]] in Quebec City and its enclaves.<ref>The 37 sites in Quebec City are listed in the [https://archive.is/20120906071404/http://www.pc.gc.ca/apps/dfhd/search-recherche_eng.aspx Directory of Federal Heritage Designations] as being located in Québec and the following boroughs/enclaves: Beauport, Cap-Rouge, Notre-Dame-des-Anges, Sainte-Foy and Wendake.</ref>
+
+===Parks===
+[[File:Artillery piece battlefields park.jpg|thumb|[[The Battlefields Park]] is a [[urban park]] that lies on the location of the [[Battle of the Plains of Abraham]].]]
+One of the most notable is The Battlefields Park, which is home to 50 historical artillery pieces and the [[Plains of Abraham]]. The park offers views of the St. Lawrence River and has multiple historical structures and statues like the ''[[Joan of Arc]] on Horseback'' and a couple of  [[Martello Towers]].<ref name="ville.quebec.qc.ca">{{Cite web|url=http://www.ville.quebec.qc.ca/EN/touristes/voir/attraits/parcs_jardins.aspx#tabs|title=Ville de Québec - Parks and Gardens|website=www.ville.quebec.qc.ca|access-date=2016-11-14|archive-url=https://web.archive.org/web/20161114083801/http://www.ville.quebec.qc.ca/EN/touristes/voir/attraits/parcs_jardins.aspx#tabs|archive-date=14 November 2016|dead-url=yes|df=dmy-all}}</ref> Historically this was the site of an American revolutionary battle, the [[Battle of Quebec (1775)]] where the British were able to hold onto its last stronghold in the Northern extent of its North American territory.
+
+Other large and centrally located parks are [[Parc Victoria, Quebec|Parc Victoria]], Parc [[Maizerets]] and [[Cartier-Brébeuf National Historic Site]].
+Quebec City's largest park is the Parc Chauveau ([[:fr:Parc Chauveau|''fr'']]), which is crossed by the suburban section of the city-wide [[Saint-Charles River]] and is thus also part of the {{convert|31|km|mi}} long Saint-Charles River's [[linear park]]. At Chauveau, activities such as [[canoeing]], fishing and [[cross-country skiing]] are offered depending on the season, in addition to an interior soccer stadium.<ref>{{cite web |title=Le Parc Chauveau: la nature à ma portée! |url=https://www.ville.quebec.qc.ca/docs/publications/277_publication_2_530.pdf |publisher=Ville de Québec |language=fr |format=pdf}}</ref> Among others, there is also the beach of Beauport Bay, as well as the Marais du Nord (north-end [[marsh]] land).
+
+Quebec is the only large city in Canada along with [[Halifax, Nova Scotia|Halifax]] lacking a public [[greenhouse]]. Nonetheless, outside areas known for their public [[gardens]] or [[landscaping]] include:<ref>{{Cite web |url=https://www.lesoleil.com/maison/horticulture/quebec-toujours-un-desert-botanique-902ac285ddcced46037a826d41aa4b23 |title=Québec, toujours un désert botanique? |last=Hogdson |first=Larry |date=2018-09-08 |website=Le Soleil |language=fr-CA |access-date=2018-10-06}}</ref>
+* The linear park named Promenade Samuel-De Champlain ([[:fr:Promenade Samuel-De Champlain|''fr'']]) that stretches {{convert|4.6|km|mi}} alongside the Saint Lawrence River, from [[Pierre Laporte Bridge]] to Sillery's east-end. Its bicycle and pedestrian paths then continues all the way to Old Quebec and then along the Saint-Charles River.<ref>{{Cite web |url=https://www.quebecregion.com/en/businesses/sports-outdoor-activities-wellbeing/hiking/promenade-samuel-de-champlain/ |title=Promenade Samuel-De Champlain |last=Québec |first=Office du tourisme de |website=Official Web Site - Québec City Tourism |language=en |access-date=2018-10-06}}</ref> Just like the beach at Beauport Bay, the construction of the ''Promenade'' was funded by provincial and federal governments to celebrate the [[400th anniversary of Quebec City]] in 2008.
+* Parc du Bois-de-Coulonge ([[:fr:Parc du Bois-de-Coulonge|''fr'']]), slightly west of the Plains of Abraham in [[Sillery, Quebec City|Sillery]], and known for its [[natural landscaping]] as well as traditional gardens, such as those surrounding the historical Villa Bagatelle ([[:fr:Villa Bagatelle|''fr'']]). The historical significance of the park also lies in the former presence of the viceregal [[Government House (Quebec)|Government House of Quebec]] (1845-1966).
+* The [[Maizerets#Domaine de Maizerets|Domaine de Maizerets]], where are found an [[arboretum]] and an [[observation tower]], not far from the Saint Lawrence River and Beauport Bay. 
+* Domaine Cataraqui ([[:fr:Domaine Cataraqui|''fr'']]) in Sillery.
+* The Roger-Van den Hende Botanical Garden ([[:fr:Jardin universitaire Roger-Van den Hende|''fr'']]) of [[Laval University]].
+
+===Boroughs and neighbourhoods===
+{{refimprove section|date=April 2016}}
+[[File:Quebec Arrondissements.svg|thumb|Map of the six boroughs that make up Quebec City.]]
+On 1 January 2002, the 12 former towns of [[Sainte-Foy, Quebec City|Sainte-Foy]], [[Beauport, Quebec City|Beauport]], [[Charlesbourg, Quebec City|Charlesbourg]], [[Sillery, Quebec|Sillery]], [[Loretteville, Quebec|Loretteville]], [[Val-Bélair, Quebec|Val-Bélair]], [[Cap-Rouge, Quebec|Cap-Rouge]], [[Saint-Émile, Quebec City|Saint-Émile]], [[Vanier, Quebec|Vanier]], [[L'Ancienne-Lorette, Quebec|L'Ancienne-Lorette]], [[Saint-Augustin-de-Desmaures]] and [[Lac-Saint-Charles, Quebec|Lac-Saint-Charles]] were annexed by Quebec City. This was one of several [[municipal reorganization in Quebec|municipal mergers]] which took place across Quebec on that date. Following a demerger referendum, L'Ancienne-Lorette and Saint-Augustin-de-Desmaures were reconstituted as separate municipalities on 1 January 2006, but the other former municipalities remain part of Quebec City. On 1 November 2009, the Quebec City re-organized its boroughs, reducing the number from 8 to 6.<ref>[http://www.ville.quebec.qc.ca/temp/modifications_arrondissements/index.aspx Nouveau découpage des arrondissements]  {{webarchive|url=https://web.archive.org/web/20090925182848/http://www.ville.quebec.qc.ca/temp/modifications_arrondissements/index.aspx |date=25 September 2009 }} [http://www.ville.quebec.qc.ca/temp/modifications_arrondissements/index.aspx%26title%3DNouveau%20d%C3%A9coupage%20des%20arrondissements (archive of broken link)]{{dead link|date=September 2018|bot=medic}}{{cbignore|bot=medic}}<!-- Definitely correct, but I unfortunately couldn't find a better reference for this. The announcement seems to be gone from the city's website. Chealer 20121208 --></ref>
+
+{{As of|2011}} Quebec City comprises six [[boroughs]] (''arrondissements'') which are further divided into 35 neighbourhoods (''quartiers''). In most cases the name of the latter is similar to a historical village or parish it replaced, but not always. Neighbourhoods each elect their own council, whose powers rests in [[public consultation]]s.
+
+Compared to many other cities in North America, there is less variation between average household incomes between the neighbourhoods. However, some disparities exist. The southwest former cities of [[Sillery (Quebec City)|Sillery]], [[Cap-Rouge]] and [[Sainte-Foy, Quebec City|Sainte-Foy]] are considered to be the wealthiest, along with some parts of Montcalm and Old Quebec.{{Citation needed|date=October 2018}}
+
+The city's traditional working-class areas are found in the lower town below Old Quebec (Saint-Sauveur and Saint-Roch) and directly across the [[Saint-Charles River]] to the north (Vanier and Limoilou). However, parts of Limoilou, Saint-Sauveur and particularly Saint-Roch have seen [[gentrification]] in the last 20 years, attracting young professionals and the construction of new offices and condos.<ref name="cbd" />
+
+Northern sections (Loretteville, Val-Bélair) and eastern sections (Beauport, Charlesbourg) are mostly a mix of middle-class residential suburbs with industrial pockets. 
+{{multiple image
+ | direction = horizontal
+ | align = center
+ | width = 400
+ | image1 = Québec City - Saint Louis - panoramio (cropped).jpg
+ | caption1  = North-east aerial view from the Quebec Bridge area. The foreground shows the Sainte-Foy neighbourhood of Saint-Louis and the modern buildings of boulevard Laurier.
+ | image2 = Ville de Québec 2 (cropped).JPG
+ | caption2 = In the foreground, neighbourhoods south of the Saint-Charles river: Saint-Jean-Baptiste, then Saint-Roch (eastward) and Saint-Sauveur (west).
+}}
+{| class="wikitable" style="margin:auto;"
+|- style="background:#ccc;" 
+|'''Borough''' || style="text-align:center;"| '''Neighbourhood'''
+|-
+| 1/6 [[La Cité-Limoilou]]
+|''La Cité'': 1-1 [[Vieux-Québec–Cap-Blanc–colline Parlementaire]] '''·''' 1-2 [[Saint-Roch, Quebec City|Saint-Roch]] '''·''' 1-3 [[Saint-Jean-Baptiste, Quebec City|Saint-Jean-Baptiste]] '''·''' 1-4 [[Montcalm, Quebec City|Montcalm]] '''·''' 1-5 [[Saint-Sauveur, Quebec City|Saint-Sauveur]] '''·''' 1-6 [[Saint-Sacrement, Quebec City|Saint-Sacrement]] '''·''' ''Limoilou'': 6-1 [[Vieux-Limoilou]] '''·''' 6-2 [[Lairet]] '''·''' 6-3 [[Maizerets]]
+|-
+| 2 [[Les Rivières (Quebec City)|Les Rivières]]
+|2-1 [[Neufchâtel-Est–Lebourgneuf]] '''·''' 2-2 [[Duberger-Les Saules]] '''·''' 2-3 [[Vanier, Quebec City|Vanier]]
+|-
+| 3/8 [[Sainte-Foy–Sillery–Cap-Rouge]]
+| 3-2 [[Cité universitaire, Quebec City|Cité universitaire]] '''·''' 3-3 [[Saint-Louis, Quebec City|Saint-Louis]] '''·''' 3-4 [[Plateau, Quebec City|Plateau]] '''·''' 3-5 [[Pointe-de-Ste-Foy, Quebec|Pointe-de-Ste-Foy]] 8-2 '''·''' [[L'Aéroport, Quebec City|L'Aéroport]] '''·''' 8-3 [[Cap-Rouge, Quebec City|Cap-Rouge]]
+|-
+| 4 [[Charlesbourg, Quebec|Charlesbourg]]
+|4-1 [[Notre-Dame-des-Laurentides]] '''·''' 4-2 Quartier 4-2 '''·''' 4-3 Quartier 4-3 '''·''' 4-4 [[Jésuites, Quebec City]] '''·''' 4-5 Quartier 4-5 '''·''' 4-6 Quartier 4-6
+|-
+| 5 [[Beauport, Quebec|Beauport]]
+| 5-1 Quartier 5-1 '''·''' 5-2 Quartier 5-2 '''·''' 5-3 [[Chutes-Montmorency, Quebec City|Chutes-Montmorency]] '''·''' 5-4 Quartier 5-4 '''·''' 5-5 [[Vieux-Moulin, Quebec City|Vieux-Moulin]]
+|-
+| 7/8 [[La Haute-Saint-Charles]]
+|7-1 [[Lac-Saint-Charles, Quebec City|Lac-Saint-Charles]] '''·''' 7-2 [[Saint-Émile, Quebec City|Saint-Émile]] '''·''' 7-3 [[Loretteville, Quebec City|Loretteville]] '''·''' 7-4 [[Des Châtels, Quebec City|Des Châtels]] '''·''' 8-1 [[Val-Bélair, Quebec City|Val-Bélair]]
+|}
+
+==Demographics==
+{{refimprove section|date=April 2016}}
+{{Historical populations
+|title       = Quebec City<ref>{{cite web |url=http://www.stat.gouv.qc.ca/donstat/societe/demographie/dons_regnl/regional/Tableau_top_10.htm |title=Évolution démographique des 10 principales villes du Québec (sur la base de 2116) selon leur limites territoriales actuelles1, Recensements du Canada de 1871 à 2011 |publisher=Stat.gouv.qc.ca |date= |accessdate=2 January 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20131006173408/http://www.stat.gouv.qc.ca/donstat/societe/demographie/dons_regnl/regional/Tableau_top_10.htm |archivedate=6 October 2013 |df=dmy-all }}</ref>
+|type        = Canada
+|align       = right
+|width       =
+|state       =
+|shading     =
+|percentages =
+|footnote    = 
+|1871|76593
+|1881|80249
+|1891|80546
+|1901|88615
+|[[Canada 1911 Census|1911]]|102214
+|1921|122698
+|1931|168249
+|1941|199588
+|1951|245742
+|1956|279521
+|1961|321917
+|1966|372373
+|1971|408440
+|1976|429757
+|1981|434980
+|1986|440598
+|1991|461894
+|1996|473569
+|2001|476330
+|2006|491142
+|2011|516622
+|2016|531902
+}}
+According to Statistics Canada, there were 531,902<ref name="Statistics Canada Census 2016"/> people residing in Quebec City proper in 2016, and 800,296<ref>{{cite web|url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?|title=Population and Dwelling Count Highlight Tables, 2016 Census|first=Government of Canada, Statistics|last=Canada|website=www12.statcan.gc.ca}}</ref> people in the metropolitan area. Of the former total, 48.2% were male and 51.8% were female. Children under five accounted for approximately 4.7% of the resident population of Quebec City. This compares with 5.2% in the province of Quebec, and 5.6% for Canada overall.
+
+The great majority of city residents are native French speakers. The English-speaking community peaked in relative terms during the 1860s, when 40% of Quebec City's residents were [[English language|Anglophone]].<ref>{{cite web|author=Morrin Centre|publisher=Literary and Historical Society of Quebec|title=Anglos in Québec|accessdate=15 March 2007|url=http://www.morrin.org/pages/anglos.php|deadurl=yes|archiveurl=https://www.webcitation.org/65OBNsnKT?url=http://www.morrin.org/pages/anglos.php|archivedate=12 February 2012|df=dmy-all}}</ref><ref>Blair, Louisa. The Anglos: The Hidden Face of Quebec City. Volume 1: 1608-1850; Volume 2: Since 1850. Québec: Commission de la capitale nationale du Québec & Éditions Sylvain Harvey, 2005.</ref> Today, Anglophones make up only 1.5% of the population of both the city and its metropolitan area.<ref>{{cite web | publisher=Voice of English-speaking Québec|title= Voice of English-speaking Québec: A Portrait of the English-speaking Community in Quebec| year=2007|accessdate=15 March 2007|url=http://www.veq.qc.ca/enter/pages/portrait.htm|archiveurl=https://web.archive.org/web/20070929131149/http://www.veq.qc.ca/enter/pages/portrait.htm|archivedate=29 September 2007}}</ref> However, the annual [[Quebec Winter Carnival]] attracts both Francophone and Anglophone tourists alike, so the Anglophone population increases considerably during the duration of the event.
+
+According to Statistics Canada, 94.6% of Quebec City's population spoke French as their mother tongue.  In addition, more than a third of city residents reported speaking both French and English.
+
+In 2001, 13.0% of the resident population in Quebec City was of retirement age (65 and over for males and females) compared with 13.2% in Canada. The average age is 39.5 years of age compared to 37.6 years of age for Canada as a whole.
+
+In the five years between 2006 and 2011, the population of Quebec City grew by 6.5%, compared with an increase of 4.9% for the province of Quebec. The population density of Quebec City averaged {{Convert|228.6|PD/km2}}.
+
+At the time of the 2001 census, the population of the Quebec City authority was 682,757, but was 710,700 when encompassing the Greater Quebec City Area, compared with a resident population in the province of Quebec of 7,237,479 people.
+
+In 2006, visible minorities made up 3% of the city's population,<ref>{{cite web|url=http://www12.statcan.ca/census-recensement/2006/dp-pd/prof/92-591/details/page.cfm?Lang=E&Geo1=CSD&Code1=2423027&Geo2=PR&Code2=24&Data=Count&SearchText=quebec&SearchType=Begins&SearchPR=01&B1=All&Custom=|title=Statistics Canada: 2006 Community Profiles|first=Government of Canada, Statistics|last=Canada|publisher=}}</ref> which is the smallest proportion of any major Canadian city. There has, however, been a growing number of new arrivals from North and West Africa, as well as Latin America, who have settled in the city. Recent arrivals tend to be more concentrated in Limoilou, Vanier, Les Saules and the northern part of Sainte-Foy, where the availability of lower cost apartments is higher than the rest of the city.
+
+According to the 2001 census, over 90% of the population was Roman Catholic. The city also contains small Protestant, Muslim and Jewish communities.
+
+{| class="wikitable"
+!colspan="19"|Canada Census Mother Tongue – Quebec city, Quebec<ref name="scpast">Statistics Canada: [[Canada 1996 Census|1996]], [[Canada 2001 Census|2001]], [[Canada 2006 Census|2006]], [[Canada 2011 Census|2011]], [[Canada 2016 Census|2016]] census.</ref>
+|-
+! Census
+|
+! Total
+|colspan="1"| 
+!colspan="3"|{{center|French}}
+|colspan="1"|
+!colspan="3"|{{center|English}}
+|colspan="1"|
+!colspan="3"|{{center|French & English}}
+|colspan="1"|
+!colspan="3"|{{center|Other}}
+|-
+! Year
+|
+! Responses
+| 
+! Count
+! Trend
+! Pop %
+|
+! Count
+! Trend
+! Pop %
+|
+! Count
+! Trend
+! Pop %
+|
+! Count
+! Trend
+! Pop %
+|-
+| {{center|2016}}
+|
+| {{center|523,560}}
+|
+| 483,790
+| {{increase}} 1.13%
+| 92.4%
+|
+| 7,395
+| {{increase}} 0.034%
+| 1.41%
+|
+| 2,615
+| {{increase}} 12.96%
+| 0.49%
+|
+| 26,370
+| {{increase}} 33.29%
+| 5.04%
+|-
+| {{center|2011}}
+|
+| {{center|516,622}}
+|
+| 478,395
+| {{increase}}4.63%
+| 92.6%
+|
+| 7,370	
+| {{increase}} 4.61%
+| 1.42%
+|
+| 2,315
+| {{increase}} 36.9%
+| 0.49%
+|
+| 19,790
+| {{increase}} 9.93%
+| 3.83%
+|-
+| {{center|2006}}
+|
+| {{center|491,142}}
+|
+| 456,225
+| {{increase}} 1.84%
+| 92.89%
+|
+| 7,030	
+| {{increase}} 2.8%
+| 1.43%
+|
+| 1,460
+| {{decrease}} 38.35%
+| 0.3%
+|
+| 17,825
+| {{increase}} 35.28%
+| 3.63%
+|-
+| {{center|2001}}
+|
+| {{center|471,962}}
+|
+| 447,840	
+| {{increase}} 0.36%
+| 94,89%
+|
+| 6,830	
+| {{decrease}} 21.6%
+| 1,45%
+|
+| 2,020
+| {{increase}} 3.2%
+| 0.42%
+|
+| 11,535
+| {{increase}} 14.78%
+| 2.44%
+|-
+| {{center|1996}}
+|
+| {{center|467,455}}
+|
+| 446,194	
+| n/a
+| 95,45%
+|
+| 8,309
+| n/a
+| 1.78%
+|
+| 1,955
+| n/a
+| 0.42%
+|
+| 9,830
+| n/a
+| 2.1%
+|}
+
+==Economy==
+[[File:Hôtel-Dieu de Québec.jpg|thumb|[[Hôtel-Dieu de Québec]], is one of three hospitals operated by [[Centre hospitalier universitaire de Québec|CHUQ]]. CHUQ is the largest employer in Quebec City.]]
+Most jobs in Quebec City are concentrated in public administration, defence, services, commerce, transport and tourism. As the provincial capital, the city benefits from being a regional administrative and services centre: apropos, the provincial government is the largest employer in the city, employing 27,900 people as of 2007.<ref>{{cite web|url = http://www.lib.uwo.ca/programs/companyinformationcanada/canadaslargestemployersbycity2007.html#quebec |title =Canada's largest employers by city, 2007: Quebec City|deadurl = yes|archiveurl= https://web.archive.org/web/20100418062010/http://www.lib.uwo.ca/programs/companyinformationcanada/canadaslargestemployersbycity2007.html |archivedate=18 April 2010 |publisher = [[University of Western Ontario]]}}</ref> [[Centre hospitalier universitaire de Québec|CHUQ (the local hospital network)]] is the city's largest institutional employer, with more than 10,000 employees in 2007. The unemployment rate in June 2018 was 3.8%, below the national average (6.0%) and the second lowest of Canada's 34 largest cities, behind [[Peterborough, Ontario|Peterborough]] (2.7%).<ref>{{Cite web |url=https://business.financialpost.com/pmn/business-pmn/heres-a-quick-glance-at-unemployment-rates-for-june-by-canadian-city-2 |title=Here’s a quick glance at unemployment rates for June, by Canadian city |date=2018-07-06 |website=Financial Post |access-date=2018-10-09}}</ref>
+
+Around 10% of jobs are in manufacturing.<ref>"[http://www.thecanadianencyclopedia.com/en/article/quebec-city/#h3_jump_4 Québec City: Economy, transportation, and labour force]." ''The Canadian Encyclopedia.'' Historical Foundation of Canada, 2008. Retrieved 12 January 2009.</ref> Principal products include pulp and paper, processed food, metal/wood items, chemicals, electronics and electrical equipment, and printed materials. The city hosts the headquarters of a variety of prominent companies, including: fashion retailer [[La Maison Simons]], engineering firms BPR and [[Norda Stelo]]; [[real estate investment trust]] Cominar; [[Industrial Alliance]], [[La Capitale (company)|La Capitale]], Promutuel, [[SSQ Financial Group]], and Union Canadienne in the insurance sector; [[Beenox]], [[Gearbox Software]],  [[Frima Studio]], [[Sarbakan]] and [[Ubisoft]] in the computer games industry; AeternaZentaris and DiagnoCure in pharmaceuticals; Amalgame, [[Cossette, Inc.|Cossette]] and Vision 7 in marketing and advertising; [[Institut National d'Optique (INO)]], [[EXFO]], OptoSecurity in technology. It is also the domicile of the sole manufactory of the cigarette maker [[Rothmans, Benson & Hedges]].
+
+=== Business districts ===
+[[File:Coin St-Valier et Dorchester vu de l'escalier du Faubourg.jpg|thumb|right|[[Saint-Roch, Quebec City|Saint-Roch]]'s garden, lower town]]
+While the traditional [[central business district]]s and their large office buildings are found on [[Parliament Hill (Quebec City)|Parliament Hill]] (especially for provincial administration) and just below in [[Saint-Roch, Quebec City|Saint-Roch]] (nowadays notable for [[Information technology|IT]] and the video game industry), a newer one has emerged in the [[boulevard Laurier]]  ([[:fr:boulevard Laurier|''fr'']]) area of [[Sainte-Foy, Quebec City|Sainte-Foy]], where a number of accounting and [[law firm]]s have moved since the 2000s. Other suburban places identified by the City for their potential are the Lebourgneuf area for private offices, as well as Estimauville Street where the [[Government of Canada]] already has many civil servants and where several city officials are expected to move in the 2020s.<ref name="cbd">{{Cite web |url=https://ici.radio-canada.ca/nouvelle/1128103/centre-ville-futur-quebec-urbanisme |title=Où sera le centre-ville de Québec dans le futur? |website=Radio-Canada.ca |language=fr-ca |publication-date=7 October 2018 |access-date=2018-10-09}}</ref>
+
+==Culture==
+[[File:Defile du Pere Noel Montreal 2011 - 040.jpg|thumb|Quebec City's [[Quebec Winter Festival|Winter Festival]] is the world's largest winter festival.]]
+{{See also|List of events in Quebec City|Media in Quebec City}}
+{{noref section|date=April 2016}}
+Quebec City is known for its [[Quebec Winter Carnival|Winter Carnival]], its [[Festival d'été de Québec|summer music festival]] and its [[Fete nationale du Québec|Saint-Jean-Baptiste Day]] celebrations.
+The [[Jardin zoologique du Québec]], now closed, reopened in 2002 after extensive repairs before ultimately shuttering in 2006. It featured 750 specimens of 300 different species of animals. The zoo specialized in winged fauna and garden themes, but also featured several species of mammals. While it emphasized Quebec's indigenous fauna, one of its main attractions was the Indo-Australian greenhouse, featuring fauna and flora from regions surrounding the Indian Ocean.{{Citation needed|date=October 2018}}
+
+[[Parc Aquarium du Québec]], which reopened in 2002 on a site overlooking the [[Saint Lawrence River]], features more than 10,000 specimens of mammals, reptiles, fish and other aquatic fauna of North America and the [[Arctic]]. [[Polar bear]]s and various species of [[Pinniped|seal]]s of the Arctic sector and the "Large Ocean", a large basin offering visitors a view from underneath, make up part of the aquarium's main attractions.
+Québec City has a number of historic sites, art galleries and museums, including [[Citadelle of Quebec]], [[Musée national des beaux-arts du Québec]], [[Ursulines of Quebec]], and [[Musée de la civilisation]].
+[[File:Parc de la Chute-Montmorency en juin.JPG|thumb|left|[[Montmorency Falls]] is a major waterfall in the city's east end.]]
+Other tourist attractions include [[Montmorency Falls]], and, just outside the city limits, the [[Basilica of Sainte-Anne-de-Beaupré]], the [[Mont-Sainte-Anne]] ski resort, and the [[Ice Hotel (Québec)|Ice Hotel]].
+
+===Sports===
+Quebec City has hosted a number of recent sporting events, as well as being shortlisted for the [[Bids for the 2002 Winter Olympics|2002 Winter Olympics city selection]].
+The [[Special Olympics Canada|Special Olympics Canada National Winter Games]] was held in the city from 26 February to 1 March 2008.<ref>{{cite web|url=http://www.specialolympics.ca/en/images/pdfs/sports_gameshistory.pdf |title=History of Major Special Olympics Canada (SOC) Events |publisher=Special Olympics Canada |format=PDF |date=29 January 2007 |accessdate=14 July 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110706203531/http://www.specialolympics.ca/en/images/pdfs/sports_gameshistory.pdf |archivedate=6 July 2011 }}</ref> Quebec City co-hosted with [[Halifax Regional Municipality|Halifax]], Nova Scotia, the [[2008 IIHF World Championship]]. Regular sporting events held in the city include the [[Tournoi de Québec|Coupe Banque Nationale]], a [[Women's Tennis Association]] tournament; [[Crashed Ice]], an extreme downhill skating race; Quebec City International Pee-Wee Tournament, a [[minor hockey]] tournament; and the Tour de Québec International cycling stage race.<ref>{{cite web|url=http://www.tourdequebec.com/|title=Here comes the 4th Tour de Quebec! |publisher=tourdequebec.com |date=|accessdate=14 July 2011}}</ref> In December 2011, Quebec City hosted the [[ISU Grand Prix of Figure Skating Final]] at the Pavillon de la Jeunesse at ExpoCité.
+
+[[File:Stade Municipal.JPG|thumb|upright=1.5|The [[Québec Capitales]] play their home game at [[Stade Canac]], a stadium primarily used for baseball.]]
+The city currently has a single professional team, the [[Quebec Capitales|Capitales de Québec]], which plays in the [[Canadian American Association of Professional Baseball]] in downtown's [[Stade Municipal (Quebec City)|Canac stadium]]. The team was established in 1999, and originally played in the [[Northern League (baseball, 1993–2010)|Northern League]]. It has six league titles, won in 2006, 2009, 2010, 2011, 2012 and 2013. A professional basketball team, the [[Quebec Kebs]], played in [[National Basketball League of Canada]] in 2011 but folded before the 2012 season.
+
+The city had a professional ice hockey team, the [[Quebec Nordiques]], which played in the [[World Hockey Association]] (WHA) from 1972 to 1979 and the [[National Hockey League]] (NHL) from 1979 to 1995, maintaining a strong rivalry with the [[Montreal Canadiens]]. Due to a disadvantageous exchange rate with respect to the US dollar, the team moved to [[Denver, Colorado]], in 1995, becoming the [[Colorado Avalanche]]. A lower-tier team, the [[Atlanta Knights#Quebec Rafales|Quebec Rafales]], played in the professional [[International Hockey League (1945–2001)|International Hockey League]] from 1996 to 1998.
+
+[[File:CentreVideotron-StephaneGroleau-0800.jpg|thumb|left|[[Videotron Centre]] is an indoor [[arena]] and is presently used as the home arena for the [[QMJHL|major junior hockey]] [[Quebec Remparts]].]]
+The [[Videotron Centre]] was built with the hope of getting an [[National Hockey League|NHL]] franchise (relocation or expansion) in Quebec City.<ref>{{cite web|author=Karine Gagnon, Qmi Agency |url=http://www.torontosun.com/sports/hockey/2011/03/01/17451741.html |title=Quebecor joins arena plan, eyes NHL team &#124; Hockey &#124; Sports |publisher=Toronto Sun |date=1 March 2011 |accessdate=2 January 2012}}</ref> The project was funded regardless of whether an NHL team arrives.<ref>{{cite web|url=https://nationalpost.com/full-comment/the-quebec-gravy-chain-chugs-off-without-ottawa-on-board-for-once |title=The Quebec gravy train chugs off without Ottawa on board for once |work= Full Comment |publisher=National Post|first =Kelly|last = McParland |date=2 March 2011 |accessdate=|deadurl=no|archiveurl= http://webarchive.loc.gov/all/20110311212859/http%3A//fullcomment.nationalpost.com/2011/03/02/the%2Dquebec%2Dgravy%2Dchain%2Dchugs%2Doff%2Dwithout%2Dottawa%2Don%2Dboard%2Dfor%2Donce/ |archivedate=11 March 2011 |df=dmy }}</ref> It is also hoped that the arena can help Quebec City win a future [[Winter Olympics]] games bid.<ref>{{cite web|url=http://sports.espn.go.com/nhl/news/story?id=4564924 |title=Quebec City plans $400 million arena to attract NHL team, Winter Olympics&nbsp;— ESPN |publisher=Sports.espn.go.com |date=16 October 2009 |accessdate=2 January 2012}}</ref> It has now replaced the  [[Colisée Pepsi]] as the main multifunctional arena in Quebec City.
+
+Other teams include the [[Quebec Remparts]] in major junior hockey ([[QMJHL]]), Université Laval varsity team [[Laval Rouge-et-Or|Rouge & Or]], the [[Quebec City Monarks]], and [[Quebec City Rebelles]] of La Ligue de Football de Québec; the Alouettes de Charlesbourg of the [[Ligue de Baseball Junior Élite du Québec]]; the women's hockey team Quebec Phoenix of the [[Canadian Women's Hockey League]]; and soccer club [[Quebec City Amiral|Quebec Arsenal]] of the [[USL W-League|W-League]].
+
+==Politics==
+[[File:Monument Honore-Mercier 07.jpg|thumb|The provincial [[Parliament Building (Quebec)|Parliament Building]] is located in the city.]]
+Since the 1970s, [[Centre-right politics|centre-right]] parties such as [[Union Nationale (Quebec)|Union Nationale]], [[Ralliement créditiste|Crédit social]], [[Conservative Party of Canada]] (CPC), [[Action démocratique du Québec]] and [[Coalition Avenir Québec]] (CAQ) have been more popular in the Quebec City region than elsewhere in the province.<ref name="duval">{{Cite web |url=https://ici.radio-canada.ca/nouvelle/1049716/mystere-region-quebec-politique-vote-droite-etude |title=Politique : un chercheur perce une partie du « mystère Québec »|last=Duval |first=Alexandre |website=Radio-Canada.ca |language=fr-ca |access-date=2018-10-08}}</ref> After the [[Canadian federal election, 2006|federal election of 2006]], six of the ten conservative ridings of the province were found in its metropolitan area (where the CPC garnered 39% of the vote, against 25% at the provincial scale)<ref>{{Cite web |url=https://www.ledevoir.com/opinion/idees/505698/le-mystere-de-quebec-les-citoyens-moins-bien-nantis-rejettent-la-gauche |title=Le mystère de Québec: les moins bien nantis rejettent la gauche |last=Daoust |first=Jean-François  |website=Le Devoir |language=fr |publication-date=15 August 2017 |access-date=2018-10-08}}</ref> and in the city proper, the CPC won three of the four seats that existed at that time (the [[Québec (electoral district)|riding of Quebec]] went to the [[Bloc Québécois|Bloc]]).<ref>{{Cite web |url=https://www.theglobeandmail.com/news/politics/the-blocs-quebec-city-fortress/article20388363/ |title=The Bloc's Quebec City fortress |last=Himelfarb |first=Jordan |website=The Globe and Mail |publication-date=10 October 2018 |access-date=2018-10-08}}</ref> Along with the city's lesser support for [[Quebec sovereignty]], this led political pundits to speculate about a "Quebec City mystery".<ref>{{Cite web |url=https://www.theglobeandmail.com/news/politics/seeking-clues-to-quebec-citys-ballot-box-mystery/article4511569/ |last=Peritz|first=Ingrid|title=Seeking clues to Quebec City’s ballot box mystery|date=31 August 2012 |website=The Globe and Mail |access-date=2018-10-08}}</ref>
+
+Various lines of thought were offered, including the popularity of the [[talk radio]] stations [[CHOI-FM|CHOI]] and [[CJMF-FM|FM93]] expressing [[Fiscal conservatism|fiscally conservative]] and non-[[Political correctness|politically correct]] opinions.<ref>{{Cite web |url=https://lactualite.com/politique/2012/08/31/le-faux-mystere-de-quebec/ |title=Le faux mystère de Québec |last=Castonguay |first=Alec |website=L’actualité |language=fr-CA |access-date=2018-10-08}}</ref> Over the years, this genre as been qualified by its detractors as ''radio poubelle'' ([[:fr:Radio poubelle|fr]]) ("trash radio") and hosts like [[Jeff Fillion]] and [[André Arthur]] likened to [[shock jock]]s.<ref>{{Cite web |url=https://www.nytimes.com/2018/08/18/world/canada/quebec-trash-radio-jeff-fillion.html |title=Quebec’s ‘Trash Radio’ Host Fires Up Outrage, and Big Ratings |last=Bilefsky |first=Dan |date=18 August 2018 |website=The New York Times |access-date=2018-10-08}}</ref> Also, compared to the rest of the province, people of the area may favor harsher criminal sentences, and lower-class households may share political views more in line with those earning more. The reasons for this remain unclear.<ref name="duval" /> Another researcher put forward the historical factors that led to Montreal surpassing Quebec as the metropolis of [[British North America]] in the early 19th century. According to this theory, its permanent status of "second city" (albeit the capital) engendered feelings of "repressed jealousy".<ref>{{Cite web |url=https://www.journaldequebec.com/2015/12/20/il-perce-enfin-le-mystere-quebec |title=Il perce (enfin) le mystère Québec |last=Lachance |first=Nicolas |website=Le Journal de Québec |language=fr-CA |publication-date=20 December 2015 |access-date=2018-10-08}}</ref>
+
+The "mystery" was relativized following the [[Canadian federal election, 2011|2011 federal election]]. All five ridings within the city were won by the leftist [[New Democratic Party]], in the so-called "orange wave" that temporarily swept the province. Nonetheless, five of the six seats won by the conservatives in the province were found in the greater Quebec City area.<ref>{{Cite web |url=https://www.theglobeandmail.com/news/politics/quebec-city-gives-ndp-control-over-the-region/article578479/ |title=Quebec City gives NDP control over the region |last=Séguin |first=Rheal |website=The Globe and Mail |publication-date=2 May 2011 |access-date=2018-10-08}}</ref> At the [[Quebec general election, 2018|2018 provincial election]], the left party [[Québec solidaire]] managed to win two districts, [[Taschereau (electoral district)|Taschereau]] and [[Jean-Lesage]], the most densely populated in town, but the centre-right CAQ, as it swept the province, won six of the nine districts encompassing the city, and 15 of the 18 in the administratives regions of [[Capitale-Nationale]] and [[Chaudière-Appalaches]] (south shore of the city).
+
+===Municipal government===
+[[File:City Hall in Quebec City.jpg|thumb|[[City Hall of Quebec City|Quebec City Hall]] serves as the seat for the [[Quebec City Council]].]]
+Quebec City is governed by a [[mayor–council government]], which includes the 21 [[single-member district]]s of the legislative [[Quebec City Council]] and the separately elected [[List of mayors of Quebec City|mayor]]. The [[councilors]] are elected by [[first-past-the-post voting]] while the mayor is elected by the city [[at-large]]. Both usually belong to [[political parties]] and are elected at the same time every 4 years. The mayor is an [[ex officio member]] of the council but is not its president and has no vote. The current one is [[Régis Labeaume]], first elected in 2007.
+
+Each of the city's six boroughs has a council composed of 3 to 5 of the aforementioned councillors, depending on the size of its population. It has jurisdiction with matters such as local road maintenance, leisure, [[waste collection]], and small grants for community projects and others, but cannot tax or borrow money.<ref>{{cite web|title=Conseils d'arrondissement|url=https://www.ville.quebec.qc.ca/apropos/gouvernance/conseils-arrondissement/index.aspx|website=Ville de Quebec|archiveurl=https://web.archive.org/web/20141006105250/http://www.ville.quebec.qc.ca/apropos/vie_democratique/elus/conseils_arrondissement/index.aspx|archivedate=6 October 2014}}</ref> The boroughs are further divided into [[Quebec City#Boroughs and neighbourhoods|35 neighbourhoods]], which also have councils devoted to [[public consultation]]s, each led by 11 citizens. Their geographical limits may be distinct from those of the city's 21 electoral districts, and councillors also sit at their neighbourhood councils as non-voting ex officio members.<ref>{{cite web|title=Conseils de quartier|url=https://www.ville.quebec.qc.ca/citoyens/participation-citoyenne/conseils_quartier/role-et-composition.aspx|website=Ville de Quebec|archiveurl=https://web.archive.org/web/20170308044912/http://www.ville.quebec.qc.ca/apropos/vie_democratique/participation_citoyenne/conseils_quartier/index.aspx|archivedate=8 March 2017|df=dmy-all}}</ref>
+
+====Public safety====
+The city is protected by [[Service de police de la Ville de Québec]] and [[Service de protection contre les incendies de Québec]] (fire dept.) The [[Census geographic units of Canada#Census metropolitan areas|census metropolitan area]] (CMA) of Quebec City has one of the lowest crime rates in Canada, with 3,193 per 100,000 persons in 2017, only behind [[Greater Toronto Area#Census metropolitan area|Toronto's CMA]] (3,115).<ref>{{Cite web |url=https://www150.statcan.gc.ca/n1/daily-quotidien/180723/t003b-eng.htm |title=2017 Police-reported Crime Severity Index and crime rate, by census metropolitan area |website=Statistics Canada |language=en |access-date=2018-10-09}}</ref> Exceptionally, no [[Culpable homicide#Canada|homicide]] (defined as a criminal death, deliberate or not) was reported in 2007.<ref>{{cite news|url=http://www.nationalpost.com/news/canada/story.html?id=203698 |first=Marianne |last=White |title=Quebec City closing in on a year without murder|newspaper=Nationalpost.com |date=28 December 2007 |accessdate=14 July 2011}}</ref> Still, eight homicides occurred the following year.<ref>{{cite web |url=https://www.lesoleil.com/archives/bas-taux-dhomicide-fiche-impressionnante-pour-quebec-0e29dab9039864f5d92c0a8bb6fe6dd6|title=Bas taux d'homicide: fiche impressionnante pour Québec|first=Jean-François|last=Neron|date= 2010|website= |publisher=Le Soleil|language=fr}}</ref>
+
+On 29 January 2017, a university student [[Quebec City mosque shooting|shot and killed six people]] with another 17 injured in a mass shooting at the [[Islamic Cultural Centre of Quebec City|Quebec Islamic Cultural Centre]].<ref>{{Cite news|url=http://www.foxnews.com/world/2017/01/30/at-least-five-killed-in-shooting-at-quebec-city-mosque.html|title=Suspect in Quebec mosque terror attack was of Moroccan origin, reports show|last=|first=|date=2017-01-30|work=|newspaper=Fox News|language=en-US|access-date=2017-01-30|via=}}</ref> Even after accounting for this event, the CMA of Quebec had the second lowest Crime Severity Index in the country in 2017, at 48.5, after that of [[Barrie]] (45.3).<ref>{{Cite web |url=https://www150.statcan.gc.ca/n1/pub/85-002-x/2018001/article/54974-eng.htm#a2 |title=Police-reported crime statistics in Canada, 2017 |website=Statistics Canada |access-date=2018-10-09}}</ref> For the year 2017, the number of reported incidents investigated as [[hate crimes]] by the city police increased from 57 to 71, and for those specifically targeting Muslims from 21 to 42.<ref>{{Cite news|url=https://www.cbc.ca/news/canada/montreal/quebec-city-hate-crimes-1.4434028|title=Hate crimes targeting Muslims doubled in 2017, says Quebec City police chief|newspaper=CBC News|language=en|access-date=2018-09-03}}</ref> The overall rate of reported hate crimes was thus 7.1 per 100,000 population — higher than the national average (3.9) and in Montreal (4.7) but lower than rates in [[Hamilton, Ontario|Hamilton]], [[Ottawa]] and [[Thunder Bay]].<ref>{{Cite news|url=https://www.cbc.ca/news/canada/montreal/quebec-city-hate-crimes-1.4423245|title=Reported hate crimes jumped in Quebec City in year prior to mosque shooting
+|newspaper=CBC News|language=en|access-date=2018-09-03|date=29 November 2018}}</ref>
+
+There were seven deliberate, [[Murder (Canadian law)#Murder|first degree]] murders in 2017 (all due to the mosque shooting), one in 2016, two in 2015 and three in 2014.<ref>{{Cite web |url=https://www.ville.quebec.qc.ca/publications/docs_ville/rapport_annuel_police_2017.pdf#page=14 |title=Rapport annuel 2017 |website=Service de Police de la Ville de Québec |page=12|language=fr |access-date=2018-12-08}}</ref><ref>{{Cite web |url=https://www.ville.quebec.qc.ca/citoyens/police/nouvelles/FichierNouvelle.ashx?fichier=183-Rapport%20annuel%202016.pdf#page=20 |title=Rapport annuel 2016 |page=20|website=Service de Police de la Ville de Québec |language=fr |access-date=2018-12-08}}</ref>
+
+==Education==
+[[File:Promenade Les Cent-Associes UL 08.jpg|thumb|An alley of [[Université Laval]] campus]]
+The [[Université Laval]] (Laval University) is in the southwestern part of the city, in the borough of [[Sainte-Foy, Quebec|Sainte-Foy]], except for its school of architecture, which is at the "[[Séminaire de Québec|Vieux-Séminaire]]" building in Old Quebec.
+The [[Université du Québec|Université du Québec system]] administrative headquarters and some of its specialized schools ([[École nationale d'administration publique]], [[Institut national de la recherche scientifique]] and [[Télé-université]]) are in the [[Saint-Roch, Quebec City|Saint-Roch neighbourhood]].
+
+[[CEGEP]]s of Quebec city are: [[Collège François-Xavier-Garneau]], [[Cégep Limoilou]], [[Cégep de Sainte-Foy]] and [[Champlain College St. Lawrence]], as well as private and specialized post-secondary institutions such as Campus Notre-Dame-de-Foy, [[Collège Mérici]], [[Collège Bart]], [[CDI College|Collège CDI]], Collège O'Sullivan and Collège Multihexa.
+
+Three [[school boards]], including [[Commission scolaire de la Capitale]], operate secular francophone schools, and [[Central Quebec School Board]] operates the few existing anglophone ones. Until 1998 [[Commission des écoles catholiques de Québec]] operated public Catholic schools of all languages.
+
+Quebec City has the oldest educational institution for women in North America, led by the [[Ursulines of Quebec]], which is now a private elementary school.
+
+==Infrastructure==
+{{refimprove section|date=April 2016}}
+
+===Transportation===
+====Roads====
+Two bridges (the [[Quebec Bridge]] and [[Pierre Laporte Bridge]]) and a ferry service connect the city with [[Lévis]] and its suburbs along the south shore of the [[Saint Lawrence River]]. The [[Île d'Orléans Bridge|Orleans Island Bridge]] links Quebec City with pastoral [[Île d'Orléans|Orleans Island]].
+[[File:Le pont de Québec et le pont Pierre-Laporte vus du boulevard Champlain.jpg|left|thumb|The [[Pierre Laporte Bridge|Pierre-Laporte]] [[Quebec Bridge]]s connect the city with neighbouring [[Lévis]].]]
+Quebec City is an important hub in the province's [[Autoroutes of Quebec|autoroute]] system, as well as boasting one of the highest "expressway lane kilometres per 1000 persons" in the country (1.10&nbsp;km), behind [[Calgary]] (1.74), [[Hamilton, Ontario|Hamilton]] (1.61) and [[Edmonton]] (1.24).<ref>{{cite web |url=http://www.bape.gouv.qc.ca/sections/mandats/du_vallon/documents/DQ5-1.pdf |title=Projet de prolongement de l'axe du Vallon |last1= |first1= |last2= |first2= |date=2004 |website=BAPE |page=2 |access-date= |language=fr|quote=}}</ref> [[Quebec Autoroute 40|Autoroute 40]] connects the region with [[Montreal]] and [[Ottawa]] to the west and [[Sainte-Anne-de-Beaupré, Quebec|Sainte-Anne-de-Beaupré]] and the [[Charlevoix]] region to the east. [[Quebec Autoroute 20|Autoroute 20]] parallels the south shore of the St. Lawrence River, linking Quebec City with Montreal and [[Toronto]] to the west and [[Rivière-du-Loup]], [[Rimouski]], and the [[Maritime Provinces]] to the east. [[Quebec Autoroute 73|Autoroute 73]] provides a north-south link through the metropolitan area, linking it with [[Saint-Georges, Quebec|Saint-Georges]], the [[Beauce, Quebec|Beauce]] region, and Maine to the south and [[Saguenay, Quebec|Saguenay]] and the [[Saguenay–Lac-Saint-Jean|Lac-Saint-Jean]] region to the north.
+
+Within the metropolitan region, Autoroutes 40, 73, and several spur routes link the city centre with its suburbs.
+
+[[Quebec Autoroute 573|Autoroute 573 (Autoroute Henri-IV)]] connects the city with [[CFB Valcartier]]. [[Quebec Autoroute 740|Autoroute 740 (Autoroute Robert-Bourassa)]] serves as a north-south inner belt. [[Quebec Autoroute 440 (Quebec City)|Autoroute 440]] comprises two separate autoroutes to the west and east of the urban core. Originally meant to be connected by a tunnel under the city centre, the two sections are separated by a {{Convert|6|km|mi|abbr=on}} gap. There are no current plans to connect them. The western section (Autoroute Charest) connects Autoroutes 40 and 73 with Boulevard Charest (a main east-west avenue) while the eastern section (Autoroute Dufferin-Montmorency) links the city centre with [[Beauport, Quebec City|Beauport]] and [[Montmorency Falls]].
+{{clear}}
+
+====Public transport====
+[[File:RTC Métrobus Québec City 14786209214.jpg|thumb|RTC's ''Métrobus'' is a six lines, higher frequency and capacity bus service.]]
+The [[Réseau de transport de la Capitale]] (RTC) is responsible for public transport in the region. The RTC operates a fleet of buses and has recently implemented articulated buses. The RTC is studying the return of a [[tram]]way system to help ease overcrowding on its busiest lines as well as attract new users to public transit. The two billion dollar revitalization project needs approval from higher levels of government since the city does not have the financial resources to fund such an ambitious project on its own.
+
+Rail transport is operated by [[VIA Rail]] at the [[Gare du Palais]] ('Palace Station'). The station is the eastern terminus of the railway's main [[Quebec City-Windsor Corridor]]. An inter-city bus station, with connections to the provincial long-distance bus network, is adjacent to the train station, and hosts, among others, the services of [[Greyhound Canada]] and [[Orleans Express]].
+
+====Air and sea====
+Quebec City is served by [[Québec City Jean Lesage International Airport|Jean Lesage International Airport]] (YQB), located at the city's western edge, 11 miles from the city centre.
+
+The [[Port of Quebec]] is a major [[Seaport|port]] on the St-Lawrence with facilities in the first, fifth and sixth boroughs.<ref>{{cite web |url=http://www.portquebec.ca/index.php?lang=en_GR |title=Port of Quebec |accessdate=24 June 2009 |deadurl=yes |archiveurl=https://www.webcitation.org/65OBOVAjc?url=http://www.portquebec.ca/index.php?lang=en_GR |archivedate=12 February 2012 |df=dmy-all }}</ref>
+
+==Notable people==
+{{main|List of people from Quebec City}}
+
+==Partner cities==
+Quebec City is mainly [[Twin towns and sister cities|twinned]] with :
+* {{flagicon|FRA}} [[Bordeaux]]
+* {{flagicon|CAN}} [[Calgary]]
+
+It has formal agreements with other cities although they are not active anymore as of 2012. These include [[Saint Petersburg]], [[Guanajuato City]], [[Huế]] and [[Liège]] and [[Namur]] in [[Wallonia|francophone Belgium]].<ref>{{cite web |language=fr|url=http://www.lapresse.ca/le-soleil/actualites/la-capitale/201209/06/01-4571850-quebec-fait-le-menage-dans-ses-jumelages.php |title=Québec fait le ménage dans ses jumelages |last1= |first1= |last2= |first2= |date= 7 September 2012 |website=Le Soleil |publisher= |access-date= |quote=}}</ref>
+
+==See also==
+{{Portal|New France|Quebec|Canada}}
+* [[List of regional county municipalities and equivalent territories in Quebec]]
+
+==Notes==
+{{notelist}}
+
+{{Reflist|group=note}}
+
+==References==
+{{Reflist|30em|refs=
+<ref name="cp2011-CA">{{SCref |unit=cma |code=421}}</ref>
+<ref name="mamrot">{{mamrot |type=municipalite |23027}}</ref>
+<ref name="toponymie">{{toponymie |51718}}</ref>
+}}
+
+==External links==
+{{Sister project links|Quebec City|voy=Quebec City}}
+<!-- NOTE: External links sections on Wikipedia are not meant to serve as detailed or exhaustive web directories of every website remotely related to the topic; only primary and official pages about Quebec City itself should be listed here. -->
+* [http://www.ville.quebec.qc.ca/EN/index.aspx Official website]
+* [http://www.quebecregion.com/e/index.asp Official website of Québec City Tourism] ([https://web.archive.org/web/20090105220442/http://www.quebecregion.com/f French])
+
+===Multimedia===
+* [http://archives.cbc.ca/lifestyle/travel/clips/15099/ CBC Television Archives] on Preserving Quebec City (1976)
+* [http://archives.cbc.ca/society/celebrations/topics/3512/ CBC Digital Archives - Quebec City: 400 Years of History]
+<br/>
+{{Geographic location
+ | title = '''Adjacent Municipal Subdivisions'''
+ | Centre    = Quebec City''' (enclaves: [[L'Ancienne-Lorette, Quebec|L'Ancienne-Lorette]],<br />[[Notre-Dame-des-Anges, Quebec|Notre-Dame-des-Anges]], [[Wendake, Quebec|Wendake]])
+ | North     = [[Saint-Gabriel-de-Valcartier|St-Gabriel-de-Valcartier]], [[Lac-Delage, Quebec|Lac-Delage]], [[Stoneham-et-Tewkesbury]], [[Lac-Beauport, Quebec|Lac-Beauport]]
+ | Northeast = [[Sainte-Brigitte-de-Laval|Ste-Brigitte-de-Laval]]
+ | East      = [[Boischatel, Quebec|Boischatel]]
+ | Southeast = ''[[Saint Lawrence River]]'' / [[Sainte-Pétronille, Quebec|Sainte-Pétronille]]
+ | South     = ''[[Saint Lawrence River]]'' / [[Lévis, Quebec|Lévis]]
+ | Southwest =
+ | West      = [[Saint-Augustin-de-Desmaures|St-Augustin-de-Desmaures]]
+ | Northwest = [[Shannon, Quebec|Shannon]]<br />[[Sainte-Catherine-de-la-Jacques-Cartier|Ste-Catherine-de-la-Jacques-Cartier]]
+ | image =
+ |width=auto
+}}
+<br/>
+{{Geographic Location (8-way)
+ | title = '''Adjacent Counties & Equivalent Territories'''
+ | Centre = Quebec TE
+ | North = [[La Jacques-Cartier Regional County Municipality|La Jacques-Cartier RCM]]
+ | Northeast = 
+ | East = [[La Côte-de-Beaupré Regional County Municipality|La Côte-de-Beaupré RCM]]
+ | Southeast = ''[[Saint Lawrence River]]'' <br/> [[L'Île-d'Orléans Regional County Municipality|L'Île-d'Orléans RCM]]
+ | South =  ''[[Saint Lawrence River]]'' <br/> [[Lévis, Quebec|Lévis TE]]
+ | Southwest = 
+ | West = [[Portneuf Regional County Municipality|Portneuf RCM]]
+ | Northwest = 
+ |width=auto
+}}
+<br/>
+{{Quebec City}}
+{{Navboxes|list =
+{{Greater Quebec}}
+{{Canada capitals}}
+{{Subdivisions of Quebec City}}
+{{New France}}
+{{Chemin du Roy}}
+}}
+
+{{Use dmy dates|date=March 2015}}
+
+[[Category:Quebec City| ]]
+[[Category:World Heritage Sites in Canada]]
+[[Category:Populated places on the Saint Lawrence River]]
+[[Category:Populated places established in 1608]]
+[[Category:1608 establishments in New France]]
+[[Category:Former colonial capitals in Canada]]
+[[Category:Hudson's Bay Company trading posts]]
+[[Category:Port settlements in Quebec]]
+[[Category:French mission settlements in North America]]
+[[Category:1608 in North America]]
+[[Category:1608 in Canada]]
+[[Category:UNESCO Creative Cities Network]]

@@ -1,0 +1,39 @@
+{{Use dmy dates|date=June 2013}}
+{{Use British English|date=June 2013}}
+[[File:Andrew Kippis.jpg|thumb|right|200px|Andrew Kippis, 1792 engraving by [[Francesco Bartolozzi]], after [[William Artaud]]]]
+'''Andrew Kippis''' (28 March 1725{{snd}}8 October 1795) was an [[English Dissenters|English nonconformist]] clergyman and biographer.
+
+==Life==
+The son of Robert Kippis, a silk-hosier, he was born at [[Nottingham]].  Having gone to school at [[Sleaford]] in [[Lincolnshire]] he passed at the age of sixteen to the [[Dissenting academies|Dissenting academy]] at [[Northampton]], of which Dr [[Philip Doddridge]] was then president. In 1746 Kippis became minister of a church at [[Boston, England|Boston]]; in 1750 he moved to [[Dorking, Surrey]]; and in 1753 he became pastor of a [[Presbyterian]] congregation at [[Westminster]], where he remained till his death.<ref name="EB1911">{{EB1911|inline=y|wstitle=Kippis, Andrew|volume=15|page=826}}</ref>
+
+Kippis took a prominent part in the affairs of his church. From 1763 till 1784 he was classical and philological tutor in the [[Coward Trust]]'s academy<ref>''[[Encyclopædia Americana]]'', 1835, article on Kippis</ref> at [[Hoxton]], and subsequently in the [[New College at Hackney]]. In 1778 he was elected a fellow of the [[Society of Antiquaries of London|Antiquarian Society]], and a fellow of the [[Royal Society]] in 1779.<ref name="EB1911"/>
+
+==Works==
+[[File:Andrew Kippis 1725-1795, The life of Captain James Cook, London, printed for G. Nicol and G.G.J. and J. Robinson, 1788, view 1 - Royal Ontario Museum - DSC03589.JPG|thumb|right|''The Life of Captain James Cook'', London, 1788]]
+Kippis was a voluminous writer. He contributed largely to ''[[The Gentleman's Magazine]]'', ''[[Monthly Review (London)|The Monthly Review]]'' and ''The Library''; and he established the ''[[New Annual Register]]''. He published sermons and pamphlets; and he prefixed a life to [[Nathaniel Lardner]]'s ''Works'' (1788). He wrote a life prefixed to Philip Doddridge's ''Exposition of the New Testament'' (1792). His major work is his edition of the ''[[Biographia Britannica]]''; he only lived to publish five volumes (folio, 1778–1793).<ref name="EB1911"/> In this work he had the assistance of [[Joseph Towers]],<ref>Notice by [[Abraham Rees]], ''New Annual Register'' for 1795.</ref> minister of [[Newington Green Unitarian Church]].
+
+One of the works by Kippis is ''Cook's Voyages''. This was first published in London in 1788 <ref>See Hocken, ''Bibliography of New Zealand Literature'', 1909</ref> and includes a letter by Kippis to [[George III of the United Kingdom]] dated 13 June 1788. The book has accounts of the three voyages — [[First voyage of James Cook|1768-1771]], [[Second voyage of James Cook|1772–1775]], and [[Third voyage of James Cook|1776-1779]] — as well as an account of the character of [[James Cook]], the effects of his voyages, and a commentary on his services.{{Citation needed|date=June 2017}}
+
+==See also==
+* [[Josiah Tucker]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikisource author}}
+* {{Gutenberg author | id=Kippis,+Andrew | name=Andrew Kippis}}
+* {{Internet Archive author |sname=Andrew Kippis}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kippis, Andrew}}
+[[Category:1725 births]]
+[[Category:1795 deaths]]
+[[Category:People from Nottingham]]
+[[Category:English Christian religious leaders]]
+[[Category:Dissenting academy tutors]]
+[[Category:18th-century Presbyterian ministers]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Burials at Bunhill Fields]]
+[[Category:People educated at Carre's Grammar School]]

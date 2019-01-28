@@ -1,0 +1,641 @@
+{{Redirect|St. Andrew's University|other universities|St. Andrews University (disambiguation)}}
+{{use British English|date=January 2013}}
+{{Infobox university
+| name = University of St Andrews
+| native_name       = 
+| image_name = University of St Andrews coat of arms.svg
+| image_size = 130px
+| image_alt = University of St Andrews shield
+| caption = University of St Andrews [[Escutcheon (heraldry)|shield]]
+| latin_name = Universitas Sancti Andreae apud Scotos
+| motto = [[Ever to Excel|Αἰὲν ἀριστεύειν]]<br />(Aien aristeuein)<ref name="Coat of Arms">{{cite web|title=University coat of arms|url=http://www.st-andrews.ac.uk/about/universitycoatofarms/|accessdate=10 September 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20110605095922/http://www.st-andrews.ac.uk/about/Universitycoatofarms/|archivedate=5 June 2011|df=dmy-all}}</ref>
+| motto_lang = grc
+| mottoeng = ''Ever to Excel''<br />or<br />''Ever To Be The Best''
+| established = 1410–1413<ref name="History">{{cite web|title=History of the University|url=http://www.st-andrews.ac.uk/about/historyoftheuniversity/|accessdate=10 September 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130911191652/http://www.st-andrews.ac.uk/about/historyoftheuniversity/|archivedate=11 September 2013|df=dmy-all}}</ref>
+| type = [[Public university|Public]] [[university|research university]]/[[Ancient university]]
+| endowment = [[Pound sterling|£]]77.8m {{small|(as of 31 July 2018)}}<ref name="St Andrews Financial Statement 17/18">{{cite web | url = https://www.st-andrews.ac.uk/media/finance/documents/financialstatements/X1%20Group%20Fin%20Statement%20(final).pdf | title= Reports and Financial Statements of the University Court for the year to 31 July 2018 | accessdate = 20 December 2018 | format = [[Portable Document Format|PDF]] | publisher = University of St Andrews}}</ref>
+|budget = [[Pound sterling|£]]245.3 million {{small|(2017-18)}}<ref name="St Andrews Financial Statement 17/18"/> 
+| chancellor = [[Sir Menzies Campbell|The Lord Campbell of Pittenweem]]
+| rector = [[Srđa Popović (activist)|Srdja Popovic]]
+| principal = [[Sally Mapstone]]
+| academic_staff = 1,094<ref name="St Andrews Financial Statement 17/18"/>
+| administrative_staff = 1,506<ref name="St Andrews Financial Statement 17/18"/>
+| students = {{HESA student population|INSTID=0173}} ({{HESA year}})<ref name="HESA citation">{{HESA citation}} {{Dead link|date: December 2016|fix-attempted=yes|date=December 2016}}</ref>
+| undergrad = {{HESA undergraduate population|INSTID=0173}} ({{HESA year}})<ref name="HESA citation"/>
+| postgrad = {{HESA postgraduate population|INSTID=0173}} ({{HESA year}})<ref name="HESA citation"/>
+| doctoral          = 
+| other             = 
+| city = [[St Andrews]]
+| state = 
+| country = [[Scotland]], [[United Kingdom|UK]]
+| coor              = 
+| campus = [[College town]]
+| colours = University of St Andrews<br />
+{{scarf|{{cell3|#010963}}{{cell|white}}{{cell2|#306EFF}}{{cell|white}}{{cell3|#010963}}{{cell|white}}{{cell2|#306EFF}}{{cell|white}}{{cell3|#010963}} }}
+[[St Mary's College, St Andrews|St Mary's College]]<br />
+{{scarf|{{cell2|#461B7E}}{{cell2|#461B7E}}{{cell2|gray}}{{cell|#800517}}{{cell|white}}{{cell2|#461B7E}}{{cell2|#461B7E}}{{cell|white}}{{cell|#800517}}{{cell2|gray}}{{cell2|#461B7E}}{{cell2|#461B7E}} }}
+[[University of St Andrews School of Medicine|School of Medicine]]<br />
+{{scarf|{{cell3|#E42217}}{{cell|white}}{{cell2|black}}{{cell|#FDD017}}{{cell3|#E42217}}{{cell|white}}{{cell2|black}}{{cell|#FDD017}}{{cell3|#E42217}} }}
+[[St Leonard's College (University of St Andrews)|St Leonard's College]]<br />
+{{scarf|{{cell3|black}}{{cell|#FDD017}}{{cell2|maroon}}{{cell|#FDD017}}{{cell3|black}}{{cell|#FDD017}}{{cell2|maroon}}{{cell|#FDD017}}{{cell3|black}} }}
+| sports = [[University of St Andrews Athletic Union]]
+| nickname          = 
+| mascot            = 
+| affiliations = [[European University Association|EUA]]<br/>[[Europaeum]]<br />[[Universities Scotland]]<br />[[Universities UK]]<br /> [[Wallace Group (universities)|Wallace Group]]
+| website = [http://www.st-andrews.ac.uk/ St-Andrews.ac.uk]
+| logo              = 
+| footnotes         = 
+}}
+
+The '''University of St Andrews''' ({{lang-sco|University o St Andras}}; abbreviated as '''St And''', from the [[Latin language|Latin]] ''Sancti Andreae'', in [[post-nominals]]) is a British [[public university]] in [[St Andrews]], [[Fife]], Scotland. It is the [[List of oldest universities in continuous operation|oldest]] of the four [[ancient universities of Scotland]] and the third oldest university in the English-speaking world (following [[Oxford University|Oxford]] and [[Cambridge University|Cambridge]] universities). St Andrews was founded between 1410 and 1413, when the [[Avignon Pope|Avignon]] [[Antipope Benedict XIII]] issued a [[papal bull]] to a small founding group of [[Augustinian]] clergy.
+
+St Andrews is made up of a variety of institutions, comprising three colleges – [[United College, St Andrews|United College]] (a union of St Salvator's and St Leonard's Colleges), [[St Mary's College, St Andrews|St Mary's College]], and [[St Leonard's College (University of St Andrews)|St Leonard's College]], the last named being a non-statutory revival of St Leonard's as a post-graduate society. There are 18 academic schools organised into four faculties.<ref>{{cite web|url=http://www.st-andrews.ac.uk/about/governance|title= University of St Andrews: Governance|accessdate=10 August 2014|publisher= University of St Andrews}}</ref> The university occupies historic and modern buildings located throughout the town. The academic year is divided into two terms, Martinmas and Candlemas. In term time, over one-third of the town's population is either a staff member or student of the university.<ref name="The University today">{{cite web|title=The University today|url=http://www.st-andrews.ac.uk/about/theuniversitytoday/|archive-url=https://web.archive.org/web/20070601172548/http://www.st-andrews.ac.uk/about/TheUniversitytoday/|dead-url=yes|archive-date=1 June 2007|accessdate=3 January 2013|df=dmy-all}}</ref> The student body is notably diverse: over 145 nationalities are represented with 45% of its intake from countries outside the UK; about one-eighth of the students are from the rest of the EU and the remaining third are from overseas — 15% from [[North America]] alone.<ref name="International">{{cite news|title=International|url=http://www.st-andrews.ac.uk/study/international/|accessdate=12 August 2014}}</ref><ref>{{Cite tweet |user=univofstandrews |number=823884472538034177 |date = 24 January 2017 |title=We proudly do our part to bring the world to Scotland}}</ref> The university's sport teams compete in [[BUCS]] competitions,<ref name="Saint Sport">{{cite web|title=Saint Sport|url=http://www.st-andrews.ac.uk/sport/|accessdate=3 January 2013}}</ref> and the student body is known for preserving ancient traditions such as Raisin Weekend, May Dip, and the wearing of distinctive academic dress.<ref name="The low-down on our traditions">{{cite web|title=The low-down on our traditions|url=http://www.thesaint-online.com/2012/09/the-low-down-on-our-traditions/|archive-url=https://web.archive.org/web/20130202212638/http://www.thesaint-online.com/2012/09/the-low-down-on-our-traditions/|dead-url=yes|archive-date=2 February 2013|accessdate=3 January 2013}}</ref>
+
+It is ranked as the third best university in the [[United Kingdom]] in two of three national league tables, behind [[Oxbridge]].<ref>{{cite web|url=https://www.timeshighereducation.com/news/table-tables-university-cambridge-top-fifth-year-running|title=THE 'Table of Tables' 2016: University of Cambridge top for fifth year running|publisher=Times Higher Education |date= |accessdate=15 October 2015}}</ref><ref name="theguardian.com">{{cite news|url=https://www.theguardian.com/education/ng-interactive/2015/may/25/university-league-tables-2016|title=The Guardian University League Tables 2016|work=The Guardian|accessdate=10 September 2015}}</ref><ref>{{cite news|url=http://www.thesundaytimes.co.uk/sto/University_Guide/|title=The Times and Sunday Times University League Tables 2015|work=The Times and Sunday Times|accessdate=10 September 2014}}</ref> ''[[The Guardian]]'' ranks first in the United Kingdom the Schools of Physics and Astronomy, International Relations, Computer Science, Geography, English and Mathematics,<ref name="theguardian.com"/> whilst ''[[The Times|The Times and Sunday Times]]'' ranks the Schools of English, Management, Philosophy, Anatomy and Physiology and Middle Eastern and African Studies first<ref>{{cite news|last1=Andrews|first1=Julian|title=Top by subject: The best universities in 67 subjects areas|url=http://www.thetimes.co.uk/edition/university-guide-2017/top-by-subject-mgbnm672r|accessdate=25 September 2016|work=The Sunday Times|publisher=The Times}}</ref> and the Complete University Guide ranks Management, Divinity and Middle Eastern and African Studies first.<ref name="thecompleteuniversityguide.co.uk">{{cite web|url=http://www.thecompleteuniversityguide.co.uk/league-tables/rankings?s=Theology+%26+Religious+Studies |title=University of St Andrews |publisher=Complete University Guide |date= |accessdate=1 May 2015}}</ref> The [[Times Higher Education World University Rankings|''Times Higher Education'' World Universities Ranking]] names St Andrews among the world's Top 50 universities for Social Sciences, Arts and Humanities.<ref name="THE SS"/><ref name="THE A&H"/> St Andrews consistently holds the highest student satisfaction scores amongst all multi-faculty universities in the United Kingdom.<ref>{{cite web |title=A decade at the top for Scotland’s first university |url=https://news.st-andrews.ac.uk/archive/a-decade-at-the-top-for-scotlands-first-university/ |publisher=st-andrews.ac.uk |accessdate=28 July 2018}}</ref>
+
+St Andrews has many notable alumni and affiliated faculty, including eminent mathematicians, scientists, theologians, philosophers, and politicians. Recent alumni include the former First Minister of Scotland [[Alex Salmond]]; Cabinet Secretary and Head of the Civil Service [[Mark Sedwill]]; Chief of the Secret Intelligence Service (MI6) [[Alex Younger]]; former Secretary of State for Defence [[Michael Fallon]]; Olympic cycling gold medalist [[Chris Hoy]]; and royals [[Prince William, Duke of Cambridge]], and [[Catherine, Duchess of Cambridge]]. [[List of Nobel Laureates by university affiliation|Six Nobel Laureates]] are among St Andrews' alumni and former staff: two in [[Nobel Prize in Chemistry|Chemistry]] and [[Nobel Prize in Physiology or Medicine|Physiology or Medicine]], and one each in [[Nobel Peace Prize|Peace]] and [[Nobel Prize in Literature|Literature]].
+
+==History==
+{{Main article|History of the University of St Andrews}}
+
+===Foundation===
+[[File:St Andrews - St Salvator's Chapel.JPG|left|thumb|St Salvator's Chapel]]<!-- Deleted image removed: [[File:The Matrix of the seal of the University of St Andrews.jpg|thumbnail|left|The 1414 Matrix of the [[Seal (emblem)|seal]] of the University of St Andrews]] -->
+[[File:College Hall St Andrews B.JPG|thumb|College Hall, within the 16th century St Mary's College building]]
+
+The university was founded in 1410 when a group of [[Augustinian]] [[clergy]], driven from [[the University of Paris]] by the [[Western schism|Avignon schism]] and from the universities of [[Oxford University|Oxford]] and [[Cambridge University|Cambridge]] by the [[Anglo-Scottish Wars]], formed a society of higher learning in St Andrews, which offered courses of lectures in divinity, logic, philosophy, and law. A [[charter]] of privilege was bestowed upon the society of masters and scholars by the [[Bishop of St Andrews]], [[Henry Wardlaw]], on 28 February 1411.<ref name="Meadieval university">{{cite web|title=Meadieval university|url=http://www.st-andrews.ac.uk/media/court-office/documents/medieval_university.pdf|accessdate=3 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130722053757/http://www.st-andrews.ac.uk/media/court-office/documents/medieval_university.pdf|archivedate=22 July 2013|df=dmy-all}}</ref> Wardlaw then successfully petitioned the [[Avignon Pope Benedict XIII]] to grant the school university status by issuing a series of [[papal bull]]s, which followed on 28 August 1413.<ref name="Scotland1837">{{cite book|author=Great Britain. Commission for Visiting the Universities and Colleges of Scotland|title=University of St. Andrews|url=https://books.google.com/books?id=iCwPAQAAMAAJ&pg=Pag173|year=1837|publisher=W. Clowes and Sons|pages=173–}}</ref> [[King James I of Scotland]]  confirmed the [[charter]] of the university in 1432. Subsequent kings supported the university with  [[King James V]]  "confirming privileges of the university" in 1532.<ref name="St Andrews history of the university">{{cite web|title=A brief history of the University|publisher=University of St Andrews|url=http://www.st-andrews.ac.uk/about/history/brief/|accessdate=9 January 2016}}</ref><ref>{{cite web|last1=Lyon|first1=C.J.|title=History of St. Andrews, episcopal, monastic, academic, and civil ..., Volume 2|url=https://books.google.com/books?id=oe49AAAAcAAJ&pg=PA234&lpg=PA234&dq=james+V++st+andrews+university+1532&source=bl&ots=NFCF8fETRD&sig=VUFhDUMaUVJAcDQzNuwtwvo937o&hl=en&sa=X&ved=0ahUKEwiT_5Tp1pvKAhVknqYKHWojBsAQ6AEIKzAD#v=onepage&q=james%20V%20%20st%20andrews%20university%201532&f=false|publisher=Tait |year = 1843| pages =230–34|accessdate=9 January 2016|quote=King James I of Scotland  confirmed the charter of the university in 1432....There are four ....confirmations by James V; in the year 1532...}}</ref>
+
+A college of [[theology]] and [[Humanities|arts]] called [[St John's College, St Andrews|St John's College]] was founded in 1418<ref>{{cite web |url=http://www.gashe.ac.uk/isaar/P0243.html |title=Lindores, Lawrence of, ? 1372–1437, Rector, University of St Andrews, Scotland |publisher=Gashe.ac.uk |date=15 August 2002 |accessdate=17 April 2011 }}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> by Robert of Montrose and Lawrence of Lindores. [[St Salvator's College, (St Andrews)|St Salvator's College]] was established in 1450, by Bishop [[James Kennedy (bishop)|James Kennedy]].<ref name="Kennedy, James, ? 1406–1465, Bishop of St Andrews">{{cite web|title=Kennedy, James, ? 1406–1465, Bishop of St Andrews|url=http://www.gashe.ac.uk/isaar/P0223.html|accessdate=3 January 2013}}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> [[St Leonard's College (University of St Andrews)|St Leonard's College]] was founded in 1511 by Archbishop [[Alexander Stewart (archbishop of St Andrews)|Alexander Stewart]], who intended it to have a far more monastic character than either of the other colleges. St John's College was refounded by Cardinal [[James Beaton]] under the name [[St Mary's College, St Andrews|St Mary's College]] in 1538 for the study of divinity and law. It was intended to encourage traditional Catholic teachings in opposition to the emerging [[Scottish Reformation]], but once Scotland had formally split with the [[Papacy]] in 1560, it became a teaching institution for Protestant clergy.<ref name="Beaton, James, d 1539, Archbishop of St Andrews">{{cite web|title=Beaton, James, d 1539, Archbishop of St Andrews|url=http://www.gashe.ac.uk/isaar/P0209.html|accessdate=3 January 2013}}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Some university buildings that date from this period are still in use today, such as [[St Salvator's Chapel]], St Leonard's College Chapel and St Mary's College quadrangle. At this time, the majority of the teaching was of a religious nature and was conducted by clerics associated with the [[St Andrew's Cathedral, St Andrews|cathedral]].
+
+===Development===
+During the 17th and 18th centuries, the university had mixed fortunes and was often beset by civil and religious disturbances. In a particularly acute depression in 1747, severe financial problems triggered the dissolution of St Leonard's College, whose properties and staff were merged into St Salvator's College to form the [[United College, St Andrews|United College of St Salvator and St Leonard]].<ref name="Meadieval university" /> Throughout this period student numbers were very low; for instance, when [[Samuel Johnson]] visited the university in 1773, the university had fewer than 100 pupils, and was in his opinion in a steady decline. He described it as "pining in decay and struggling for life".<ref name="gutenberg.org">{{cite web|url=http://www.gutenberg.org/files/2064/2064-h/2064-h.htm |title=A Journey to the Western Isles of Scotland |publisher=Gutenberg.org |date=20 April 2005 |accessdate=17 April 2011}}</ref> The poverty of Scotland during this period also damaged St Andrews, as few were able to patronise the university and its colleges, and with state support being improbable, the income they received was scarce.
+
+===Modern period===
+[[File:St. Salvator's College Chapel, St. Andrews from the Southwest. - Google Art Project - Dr. John Adamson.jpg|thumbnail|St Salvator's Chapel in 1843]]{{Advert section|date=July 2018}}
+In the second half of the 19th century, pressure was building upon universities to open up higher education to women.<ref name="Discovery in archives">{{cite web|title=Discovery in archives sheds new light on Jex-Blake's campaign for medical education for women|url=https://standrewsrarebooks.wordpress.com/2012/02/27/discovery-in-archives-sheds-new-light-on-jex-blakes-campaign-for-medical-education-for-women/}}</ref> In 1876, the University Senate decided to allow women to receive an education at St Andrews at a level roughly equal to the [[MA (Scotland)|Master of Arts degree]] that men were able to take at the time. The scheme came to be known as the '[[Lady Literate in Arts|LLA examination]]' (Lady Literate in Arts). It required women to pass five subjects at an ordinary level and one at honours level and entitled them to hold a degree from the university.<ref name="Ladies Literate in Arts">{{cite web|title=Ladies Literate in Arts|url=http://www.st-andrews.ac.uk/library/specialcollections/didyouknow/lla/|accessdate=2 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20120620201913/http://www.st-andrews.ac.uk/library/specialcollections/didyouknow/lla/|archivedate=20 June 2012|df=dmy-all}}</ref> In 1889 the [[Ancient university governance in Scotland|Universities (Scotland) Act]]<ref name="Universities (Scotland) Act 1889">{{cite web|title=Universities (Scotland) Act 1889|url=http://www.legislation.gov.uk/ukpga/Vict/52-53/55/contents|accessdate=2 January 2013}}</ref> made it possible to formally admit women to St Andrews and to receive an education equal to that of male students. Agnes Forbes Blackadder became the first woman to graduate from St Andrews on the same level as men in October 1894, gaining her MA. She entered the university in 1892, making St Andrews the first university in Scotland to admit female undergraduates on the same level as men.<ref name="Who was the first female graduate of the University of St Andrews?">{{cite web|title=Who was the first female graduate of the University of St Andrews?|url=http://www.st-andrews.ac.uk/library/specialcollections/didyouknow/femalegraduate/|accessdate=2 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130110152020/http://www.st-andrews.ac.uk/library/specialcollections/didyouknow/femalegraduate/|archivedate=10 January 2013|df=dmy-all}}</ref> In response to the increasing number of female students attending the university, the first women's hall was built in 1896 and was named University Hall.<ref name="Literate Ladies – A fifty year experiment">{{cite web|url=http://www.st-andrews.ac.uk/media/special-collections/documents/Literate%20Ladies%20Alumnus%20Chronicle%20vol%2059%20June%201968.pdf|title=Literate Ladies – A fifty year experiment|accessdate=2 January 2013}}</ref>
+
+Up until the start of the 20th century, St Andrews offered a traditional education based on classical languages, divinity and philosophical studies, and was slow to embrace more practical fields such as science and medicine that were becoming more popular at other universities. In response to the need for modernisation and in order to increase student numbers and alleviate financial problems, the university merged with [[University of Dundee|University College, Dundee]] in 1897, which had a focus on scientific and professional subjects. After the incorporation of University College Dundee, St Andrews' various problems generally receded. Of note is that, up until 1967, many students who obtained a degree from the University of St Andrews had in fact spent most, and sometimes all, of their undergraduate career based in Dundee.
+
+[[File:University of St Andrews Gateway.JPG|thumb|left|The "Gateway" building, built in 2000 and now used for the university's management department]]
+
+As the 20th century progressed, it became increasingly popular among the Scottish upper classes to send their children to the country's oldest higher learning institution,{{citation needed|date=August 2016}} and the university's student population rose sharply.{{tone inline|date=August 2016}} This revival has been maintained to the present day.{{tone inline|date=August 2016}} Despite this, there have been some notable changes.{{citation needed|date=August 2016}} In 1967, the union with University College Dundee ended, when that College became an independent institution under the name of the [[University of Dundee]]. As a result of this, St Andrews lost its capacity to provide degrees in many areas such as Law, Accountancy, Dentistry and Engineering, while it also lost the right to confer the undergraduate medical degree MBChB. However, the university has prospered in other ways.{{citation needed|date=August 2016}}{{tone inline|date=August 2016}} In 1972, the College of St Leonard was reconstituted as a postgraduate institute.<ref name="St leonards college">{{cite web|title=St leonards college|url=http://www.st-andrews.ac.uk/pgstudents/stleonards/|accessdate=3 January 2013}}</ref>
+
+===Links with the United States===
+
+St Andrews' historical links with the [[United States]] predate the country's independence. [[James Wilson]], a signer of the [[United States Declaration of Independence|Declaration of Independence]], attended (but did not graduate from) St Andrews. Wilson one of six original justices appointed by [[George Washington]] to the [[Supreme Court of the United States]] and was a founder of the [[University of Pennsylvania Law School]]. Other prominent American figures associated with St Andrews include [[Scottish American]] industrialist [[Andrew Carnegie]], who was elected [[Rector of the University of St Andrews|Rector]] in 1901 and whose name is given to the prestigious [[Carnegie Trust for the Universities of Scotland|Carnegie Scholarship]], and [[Edward Harkness]], an American philanthropist who in 1930 provided for the construction of [[St Salvator's Hall]]. American [[Bobby Jones (golfer)|Bobby Jones]], co-founder of the [[Augusta National Golf Club]] and the [[Masters Tournament]], was named a [[Freedom of the City|Freeman of the City]] of St Andrews in 1958, becoming only the second American to be so honored, the other being Benjamin Franklin in 1759.<ref name="Citizen Jones">{{cite news|title=Citizen Jones|url=http://www.golfdigest.com/magazine/bobbyjones|accessdate=11 August 2014}}</ref> Today a highly competitive scholarship exchange, The Robert T. Jones Scholarship, exists between St Andrews and [[Emory University]] in [[Atlanta]].
+
+Links with the United States have been maintained into the present day and continue to grow. In 2009, [[Louise Richardson]], an Irish-American political scientist specialized in the study of terrorism, was drawn from [[Harvard University|Harvard]] to serve as the first female [[Principal (academia)|Principal]] and [[Chancellor (education)|Vice Chancellor]] of St Andrews.<ref name="The Catholic coup at St Andrews">{{cite news|title=The Catholic coup at St Andrews|url=https://www.independent.co.uk/news/education/education-news/the-catholic-coup-at-st-andrews-1668258.html|accessdate=2 January 2013 | location=London|work=The Independent|date=14 April 2009}}</ref> She later went on to her next appointment as the Vice Chancellor to the [[University of Oxford]].<ref>{{cite web|url=https://www.ox.ac.uk/about/organisation/university-officers/vice-chancellor?wssl=1|title=Vice-Chancellor - University of Oxford|website=www.ox.ac.uk}}</ref>
+
+Active recruitment of students from North America first began in 1984, with Americans now making up around 1 in 6 of the student population in 2017.<ref>{{cite web|title=How Scotland's University of St. Andrews Became a Top American School|url=http://www.townandcountrymag.com/society/a10274881/st-andrews-scotland/|publisher=[[Town & Country (magazine)|Town & Country]]|accessdate=24 July 2017}}</ref> Students from almost every state in the United States and province in Canada are represented.<ref name="International"/><ref>{{cite web|url=http://www.thecompleteuniversityguide.co.uk/st-andrews/international |title=University of St Andrews - International |publisher=Complete University Guide |date= |accessdate=1 May 2015}}</ref> This is the highest proportion and absolute number of American students amongst all British universities.<ref name="Americans at St Andrews">{{cite news|title=Americans at St Andrews|url=https://www.theguardian.com/education/2008/may/20/internationalstudents.educationguardian2|accessdate=3 January 2013 | location=London|work=The Guardian|first=Jackie|last=Kemp|date=20 May 2008}}</ref><ref name="US undergraduates choosing UK for their studies">{{cite news|title=US undergraduates choosing UK for their studies|url=http://www.britishcouncil.org/organisation/press/us-undergraduates-choosing-uk-their-studies|accessdate=27 May 2014 | location=London|work=The British Council|date=27 January 2014}}</ref> Media reports indicate growing numbers of American students are attracted to the university's academics, traditions, prestige, internationalism, and comparatively low [[tuition fees]].<ref name="Will and Kate (and Uncle Sam) Studied Here">{{cite web|title=Will and Kate (and Uncle Sam) Studied Here|url=https://www.nytimes.com/2014/04/20/fashion/st-andrews-will-and-kate-and-uncle-sam-studied-here.html|accessdate=12 August 2014}}</ref><ref name="Going Off to College for Less NYT">{{cite news|title=Going Off to College for Less (Passport Required)|url=https://www.nytimes.com/2008/12/01/education/01scotland.html?pagewanted=all&_r=0|accessdate=3 January 2013 | work=The New York Times|first=Tamar|last=Lewin|date=30 November 2008}}</ref><ref name="Royal College Bargain">{{cite web|title=Royal College Bargain|url=https://www.forbes.com/forbes/2011/0808/investing-international-education-prince-will-kate-royal-bargain.html|accessdate=12 August 2014}}</ref><ref name="Who Needs Harvard Or Yale?">{{cite web|title=Who Needs Harvard Or Yale?|url=http://www.businessweek.com/stories/2006-09-24/who-needs-harvard-or-yale|accessdate=12 August 2014}}</ref> The university also regularly features as one of the few non-North American universities in the [[Fiske Guide to Colleges]], an American college guide, as a 'Best Buy'.<ref>{{cite web|title=St Andrews named Best Buy|url=https://www.st-andrews.ac.uk/news/archive/2017/title,1431651,en.php|publisher=University of St Andrews}}</ref><ref>{{cite web|title=Trinity College Dublin a ‘Best Buy’ in Fiske Guide to Colleges 2016|url=https://www.tcd.ie/globalrelations/news/20150721FiskeBestBuy.php|publisher=Trinity College Dublin}}</ref> St Andrews has developed a sizable alumni presence in the United States, with over 8000 alumni spread across all 50 states.<ref name="US Alumni">{{cite web|title=US Alumni|url=http://www.st-andrews.ac.uk/alumni/americanfoundation/|accessdate=12 August 2014}}</ref> Most major cities host alumni clubs, the largest of which is in New York.<ref name="NY Alumni Club">{{cite web|title=NY Alumni Club|url=http://www.alumniclubny.com|accessdate=12 August 2014}}</ref> Both London and New York also host the [[St Andrews Angels]], an alumni led angel investment network, which centres upon the wider university communities in both the United Kingdom and United States.<ref>{{Cite web|url=http://scotlandb2b.co.uk/2016/11/24/angel-investment-network-launches-in-nyc-to-facilitate-scottish-deals/|title=Angel investment group launches in NYC to facilitate Scottish deals|last=Parker|first=Lynda Hamilton|date=24 November 2016|website=Scotland B2B Magazine|access-date=6 December 2016}}</ref> St Andrews has also established relationships with other university alumni clubs and private membership clubs in the United States to provide alumni with social and networking opportunities. For example, alumni are eligible for membership at the [[Princeton Club of New York]], the [[Penn Club of New York City]] and the [[Algonquin Club]] in Boston.<ref name="Algonquin Club">{{cite web|title=Algonquin Club|url=http://www.st-andrews.ac.uk/alumni/relations/alumniclubs/privatemembers/algonquin/|accessdate=24 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20140222203611/http://www.st-andrews.ac.uk/alumni/relations/alumniclubs/privatemembers/algonquin/|archivedate=22 February 2014|df=dmy-all}}</ref><ref name="Princeton club – St Andrews">{{cite web|title=Princeton club – St Andrews|url=http://www.princetonclub.com/standrews|accessdate=3 January 2013}}</ref><ref name="Penn Club of NYC - Affiliate Schools">{{cite web|title=Affiliate Schools / Organizations|url=https://www.pennclub.org/membership/types/schools-organizations|accessdate=8 October 2018}}</ref>
+
+In 2013, [[Hillary Clinton]], former United States Secretary of State, took part in the academic celebration marking the 600th anniversary of the founding of the University of St Andrews.<ref name="Hillary Rodham Clinton to address academic leaders in St Andrews">{{cite news|title=Hillary Rodham Clinton to address academic leaders in St Andrews|url=http://www.st-andrews.ac.uk/news/archive/2013/title,224659,en.php|accessdate=13 August 2014}}</ref> Clinton received an honorary degree of Doctor of Laws and provided the graduation address, in which she said,
+{{quote|I do take comfort from knowing there is a long tradition of Americans being warmly welcomed here at St Andrews. Every year I learn you educate more than one thousand American students, exposing them to new ideas and perspectives as well as according them with a first class education. I've been proud and fortunate to hire a few St Andrews alumni over the years and I thank you for training them so well.<ref name="Graduation address - Secretary Hillary Rodham Clinton">{{cite news|title=Graduation address - Secretary Hillary Rodham Clinton|url=http://www.st-andrews.ac.uk/news/archive/2013/title,227124,en.php|accessdate=13 August 2014|archive-url=https://web.archive.org/web/20140813213819/http://www.st-andrews.ac.uk/news/archive/2013/title,227124,en.php|archive-date=13 August 2014|dead-url=yes|df=dmy-all}}</ref>}}
+
+==Governance and administration==
+[[File:University of St Andrews Courtyard.jpg|thumb|Courtyard of the United College]]
+{{Main article|Governance of the University of St Andrews}}
+
+As with the other ancient universities of Scotland, the governance of the university is determined by the [[Universities (Scotland) Act 1858]]. This Act created three bodies: the [[General Council (Scottish university)|General Council]], [[University Court]] and [[Academic Senate]] (''Senatus Academicus'').
+
+===General Council===
+{{Main article|General Council of St Andrews University}}
+The General Council is a standing advisory body of all the [[Alumnus|graduates]], academics and former academics of the university. It meets twice a year and appoints a business committee to manage business between these meetings. Its most important functions are to appoint two [[Assessor (law)|assessors]] to the [[University Court]] and elect the university's [[Chancellor of the University of St Andrews|chancellor]].
+
+===University Court===
+[[File:Castle House - geograph.org.uk - 1041518.jpg|thumbnail|left|School of English]]
+The [[University Court]] is the body responsible for administrative and financial matters, and is in effect the governing body of the university. It is chaired by the [[Rector (academia)|rector]], who is elected by the [[matriculation|matriculated]] students of the University. Members are appointed by the General Council, [[Academic Senate]] and Fife Council. The President of the [[University of St Andrews Students' Association|Students' Association]] and Director of Representation are ''ex officio'' members of the Court. Several [[Laity|lay]] members are also co-opted and must include a fixed number of alumni of the University.
+
+===''Senatus Academicus''===
+The [[Academic Senate]] (Latin ''Senatus Academicus'') is the supreme academic body for the university. Its members include all the professors of the university, certain senior [[Reader (academic rank)|readers]], a number of [[senior lecturer]]s and [[lecturer]]s and three elected student senate representatives – one from the arts and divinity faculty, one from the science and medicine faculty and one postgraduate student. It is responsible for authorising degree programmes and issuing all degrees to graduates, and for managing student discipline. The President of the Senate is the [[University Principal]].
+
+===Office of the Principal===
+The [[Principal of the University of St Andrews|Principal]] is the chief executive of the university and is assisted in that role by several key officers, including the Deputy Principal, [[Master of the United College]] and [[Quaestor (University of St Andrews)|Quaestor]]. The principal has responsibility for the overall running of the university and presides over the University Senate.<ref name="Office of the Principal">{{cite web|title=Office of the Principal|url=http://www.st-andrews.ac.uk/administration/principalsoffice/|accessdate=3 January 2013}}</ref>
+
+===Rector===
+{{Main article|Rector of the University of St Andrews}}
+
+In Scotland, the position of rector exists at the four [[ancient universities]] (St Andrews, [[Glasgow University|Glasgow]], [[Aberdeen University|Aberdeen]] and [[Edinburgh University|Edinburgh]]) – as well as the [[University of Dundee]]. The post was made an integral part of these universities by the Universities (Scotland) Act 1889. The Rector of the University of St Andrews chairs meetings of the University Court, the governing body of the university; and is elected by the matriculated student body to ensure that their needs are adequately considered by the university's leadership. Through St Andrews' history a number of notable people have been elected to the post, including the actor [[John Cleese]], industrialist and philanthropist [[Andrew Carnegie]], author and poet [[Rudyard Kipling]] and the [[British Prime Minister]] [[Archibald Primrose, 5th Earl of Rosebery]].<ref name="The rector of the university">{{cite web|title=The rector of the university|url=https://www.st-andrews.ac.uk/about/governance/therector/https://www.st-andrews.ac.uk/about/governance/therector/|accessdate=3 January 2013}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===Colleges===
+The university encompasses three [[college]]s:  [[United College, St Andrews|United College]], [[St Mary's College, St Andrews|St Mary's College]] and [[St Leonard's College (University of St Andrews)|St Leonard's College]].  The purpose of the colleges at St Andrews is mainly ceremonial, as students are housed in separate residential halls or private accommodations. United College is responsible for all students in the faculties of arts, sciences and medicine, and is based around St Salvator's Quadrangle.<ref name="United College">{{cite web|title=United College|url=http://www.st-andrews.ac.uk/administration/principalsoffice/members/master/|accessdate=15 February 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130209064511/http://www.st-andrews.ac.uk/administration/principalsoffice/members/master/|archivedate=9 February 2013|df=dmy-all}}</ref> St Mary's College is responsible for all students studying in the Faculty of Divinity, and has its own dedicated site in St Mary's Quadrangle.<ref name="St Marys college">{{cite web|title=St Marys college|url=http://www.st-andrews.ac.uk/divinity/|accessdate=15 February 2013}}</ref> St Leonard's College is now responsible for all postgraduate students.<ref name="St Leonards College">{{cite web|title=St Leonards College|url=http://www.st-andrews.ac.uk/pgstudents/stleonards/|accessdate=15 February 2013}}</ref>
+
+===Faculties and schools===
+The four academic [[Faculty (division)|faculties]] collectively encompass 18 schools. A [[Dean (education)|dean]] is appointed by the [[Master of the United College]] to oversee the day-to-day running of each faculty. Students apply to become members of a particular faculty, as opposed to the school within which teaching is based. The faculties and their affiliated schools are:
+
+*Faculty of Arts: art history, classics, economics, English, film studies, history, international relations, management, modern languages, philosophy.<ref name="Faculty of Arts">{{cite web|title=Faculty of Arts|url=http://www.st-andrews.ac.uk/study/ug/options/faculties/arts/|accessdate=13 August 2014}}</ref>
+*[[St Mary's College, St Andrews|Faculty of Divinity]]: divinity.<ref name="Faculty of Divinity">{{cite web|title=Faculty of Divinity|url=http://www.st-andrews.ac.uk/study/ug/options/faculties/divinity/|accessdate=13 August 2014}}</ref>
+*[[University of St Andrews School of Medicine|Faculty of Medicine]]: medicine.<ref name="Faculty of Medicine">{{cite web|title=Faculty of Medicine|url=http://www.st-andrews.ac.uk/study/ug/options/faculties/medicine/|accessdate=13 August 2014}}</ref>
+*Faculty of Science: biology, chemistry, computer science, geography and geosciences, mathematics, physics and astronomy, psychology and neuroscience.<ref name="Faculty of Science">{{cite web|title=Faculty of Science|url=http://www.st-andrews.ac.uk/study/ug/options/faculties/science/|accessdate=13 August 2014}}</ref>
+
+Certain subjects are offered both within the Faculties of Arts and Sciences, the six subjects are: economics, geography, management, mathematics, psychology and sustainable development. The content of the subject is the same regardless of the faculty.<ref name="Faculties">{{cite web|title=Faculties|url=https://www.st-andrews.ac.uk/study/ug/options/faculties/|accessdate=13 August 2014}}</ref>
+
+==Academics==
+
+===Semesters===
+[[File:The Scores, St Andrews - geograph.org.uk - 139944.jpg|thumb|The Scores]]
+The academic year at St Andrews is divided into two semesters, [[Martinmas]] and [[Candlemas]], named after two of the four [[Scottish term days|Scottish Term and Quarter Days]]. Martinmas, on 11 November, was originally the feast of [[Saint Martin of Tours]], a 4th-century bishop and hermit. Candlemas originally fell on 2 February, the day of the feast of the [[Presentation of Jesus at the Temple|Purification]], or the Presentation of Christ. Martinmas semester runs from early September until mid-December, with examinations taking place just before the Christmas break. There follows an inter-semester period when Martinmas semester business is concluded and preparations are made for the new Candlemas semester, which starts in January and concludes with examinations at the end of May. Graduation is celebrated at the end of June.<ref>{{cite web|url=http://www.st-andrews.ac.uk/semesterdates/ |title=Semester dates &|publisher=University of St Andrews  |date=August 2014}}</ref>
+
+===Rankings and reputation===
+{{Infobox UK university rankings
+| ARWU_N = 29–34
+| ARWU_W = 301–400
+| QS_N = 16
+| QS_W = 97
+| THE_N = 14
+| THE_W = 165
+| LEIDEN_W = 110
+| LINE_1 = 0
+| Complete = 5
+| The_Guardian = 3
+| Times/Sunday_Times = 3
+| LINE_2 = 0
+| TEF = Gold
+}}
+[[File:St Andrews - St Salvator's Quad - East and North Aisle.JPG|thumbnail|left|View across St Salvator's Quad]]
+In a ranking conducted by ''The Guardian'', St Andrews is placed 5th in the UK for national reputation behind Oxford, Cambridge, Imperial & LSE.<ref>{{cite news|url=http://image.guardian.co.uk/sys-files/Education/documents/2009/08/20/ReputationRankings2009UK.pdf |title=University UK Reputation Index |location=London | work=The Guardian}}</ref> When size is taken into account, St Andrews ranks second in the world out of all small to medium-sized fully comprehensive universities (after [[Brown University]]) using metrics from the [[Quacquarelli Symonds|QS Intelligence Unit]] in 2015.<ref>{{cite web|url=http://www.iu.qs.com/university-rankings/world-university-rankings/|title=QS World University Rankings: World Map Results (Filter by Institution Profile)|publisher=Quacquarelli Symonds Intelligence Unit|accessdate=30 December 2015}}</ref>
+The 2014 [[Research Excellence Framework]] ranked St Andrews 14th in the UK, and first in Scotland, amongst multi-faculty institutions for the research quality (GPA) of its output profile.<ref>{{cite news| url=https://www.timeshighereducation.co.uk/sites/default/files/Attachments/2014/12/17/i/t/h/out-14-01.xls | location=London | work=Times Higher Education | first=Paul | last=Jump | title=REF 2014 results: Ranking of institutions by GPA of their output profiles | date=18 December 2014}}</ref> St Andrews was ranked 9th overall in ''The Sunday Times'' 10-year (1998–2007) average ranking of British universities based on consistent league table performance,<ref>{{cite news|url=http://extras.timesonline.co.uk/pdfs/univ07ten.pdf|format=PDF|title=University ranking based on performance over 10 years|work=The Times |location=London |year=2007|accessdate=28 April 2008 |archiveurl = https://web.archive.org/web/20080414064446/http://extras.timesonline.co.uk/pdfs/univ07ten.pdf <!-- Bot retrieved archive --> |archivedate = 14 April 2008}}</ref> and is a member of the '[[Sutton Trust#Sutton Trust 13|Sutton 13]]' of top ranked Universities in the UK.<ref name="Old school 'key to student place'">{{cite news|url=http://news.bbc.co.uk/1/hi/education/7003253.stm|title=Old school 'key to student place'|publisher=BBC |accessdate=31 January 2009 | date=20 September 2007}}</ref>
+
+Nearly 86% of its graduates obtain a [[British undergraduate degree classification|First Class]] or an [[British undergraduate degree classification|Upper Second Class]] Honours degree.<ref name="ReferenceA">{{cite web|url=http://www.thecompleteuniversityguide.co.uk/single.htm?ipg=8726 |title=Top UK University League Tables and Rankings 2010–2011 |publisher=Complete University Guide |date= |accessdate=17 April 2011}}</ref> The ancient Scottish universities award [[Master of Arts (Scotland)|Master of Arts]] degrees (except for science students who are awarded a Bachelor of Science degree) which are classified upon graduation, in contrast to [[Oxbridge]] where one becomes a Master of Arts after a certain number of years, and the rest of the UK, where graduates are awarded BAs. These can be awarded with honours; the majority of students graduate with honours.
+
+In 2017, St Andrews was named as the university with the joint second highest graduate employment rate of any UK university (along with [[University of Warwick|Warwick]]), with 97.7 per cent of its graduates in work or further study three and a half years after graduation.<ref>{{cite news|last1=Grove|first1=Jack|title=Russell Group dominates UK’s graduate employment charts|url=https://www.timeshighereducation.com/news/russell-group-dominates-uk-graduate-employment-charts|accessdate=11 August 2017|work=Times Higher Education}}</ref> St Andrews is placed 7th in the UK (1st in Scotland) for the employability of its graduates as chosen by recruiters from the UK's major companies<ref>{{cite news| url=https://www.timeshighereducation.com/student/news/best-uk-universities-chosen-major-employers | location=London | work=Times Higher Education | title=The best UK universities chosen by major employers | date=12 November 2015}}</ref> with graduates expected to have the best graduate prospects and highest starting salaries in Scotland as ranked by [[The Times|The Times and Sunday Times]] Good University Guide 2016 and 2017.<ref name="thesundaytimes.co.uk">{{cite web|url=https://login.thesundaytimes.co.uk/?gotoUrl=http%3A%2F%2Fwww.thesundaytimes.co.uk%2Fsto%2Fnewsreview%2Feducation%2Funiversity%2F|title=The Times and Sunday Times Good University Guide 2017: Highest graduate salaries
+|publisher=|accessdate=30 October 2016}}</ref> According to data released by the [[Department for Education]] in 2018, St Andrews was rated as the 5th best university in the UK for boosting male graduate earnings with male graduates seeing a 24.5% increase in earnings compared to the average graduate, and the 9th best university for females, with female graduates seeing a 14.8% increase in earnings compared to the average graduate.<ref>{{cite web |title=Undergraduate degrees: relative labour market returns (Table 7: HEI - conditional impact on earnings five years after graduation) |url=https://www.gov.uk/government/publications/undergraduate-degrees-relative-labour-market-returns |publisher=Department for Education |accessdate=17 December 2018}}</ref> An independent report conducted by Swedish investment firm, [[Skandia]] found that St Andrews is, despite its small undergraduate body, the joint-5th best university in the UK for producing millionaires.<ref>{{cite news| url=https://www.telegraph.co.uk/education/universityeducation/8824061/Top-universities-for-producing-millionaires.html?image=5 | location=London | work=The Telegraph | title=Top universities for producing Millionaires | date=21 March 2012}}</ref> A study by ''High Fliers'' confirmed this by reporting that the university also features in the top 5 of UK universities for producing self-made millionaires.<ref name="Good News for Graduates">{{cite web|title=Good News for Graduates|url=https://www.st-andrews.ac.uk/news/archive/2013/title,220891,en.php|accessdate=24 June 2013|archive-url=https://web.archive.org/web/20130627141615/http://www.st-andrews.ac.uk/news/archive/2013/title,220891,en.php|archive-date=27 June 2013|dead-url=yes|df=dmy-all}}</ref> According to a study by the Institute of Employment Research, St Andrews has produced more directors of [[FTSE 100 Index|FTSE 100]] companies in proportion to its size than any other educational institution in Britain.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/scotland/1532435.stm |title=Royal university's graduate roll call |location=London | work=The BBC}}</ref>
+
+In the 2019 [[Complete University Guide]], 24 out of the 25 subjects offered by St Andrews rank within the top 10 nationally making St Andrews one of only three multi-faculty universities (along with [[University of Cambridge|Cambridge]] and [[University of Oxford|Oxford]]) in the UK to have over 95% of their subjects in the top 10.<ref name="Who's in the Top Ten for their Subjects 2018">{{cite web|title=Who Ranks Top of the Tables by Subject 2019|url=https://www.thecompleteuniversityguide.co.uk/league-tables/who-ranks-top-of-the-tables-by-subject-2019/|accessdate=1 May 2018}}</ref> The [[The Times|Times and Sunday Times]] Good University Guide 2017 revealed that 24 of the 26 subjects offered by St Andrews ranked within the top 6 nationally with 10 subjects placing within the top 3 including English, Management, Philosophy, International Relations, Italian, Physics and Astronomy and Classics and Ancient History.<ref>{{cite web|title=Times and Sunday Times League Table Summary|url=https://synergy.st-andrews.ac.uk/earthsci/files/2016/09/Times-Sunday-Times-League-Table-Summary-2017.pdf|accessdate=25 September 2016}}</ref> [[The Guardian]] University Guide 2019 ranked Biosciences, Computer Science, International Relations, Physics and Psychology first in the UK. Earth and Marine Sciences, Economics, English, Management, Mathematics, Philosophy and Theology placed within the top three nationally.<ref>{{cite web|title=University league tables 2019|url=https://www.theguardian.com/education/ng-interactive/2018/may/29/university-league-tables-2019|accessdate=29 May 2018}}</ref> In the 2015-16 [[Times Higher Education World University Rankings]], St Andrews is ranked 46th in the world for Social Sciences,<ref name="THE SS">{{cite web|url=https://www.timeshighereducation.com/world-university-rankings/2016/subject-ranking/social-sciences#!/page/0/length/25|title=Top 100 universities for Social Sciences 2015–16|accessdate=4 November 2015|work=Times Higher Education}}</ref> 50th in the world for Arts and Humanities<ref name="THE A&H">{{cite web|url=http://www.timeshighereducation.co.uk/world-university-rankings/2015-16/subject-ranking/subject/arts-and-humanities|title=Top 100 universities for Arts and Humanities 2015–16|accessdate=21 October 2015|work=Times Higher Education}}</ref> and 74th in the world for Life Sciences.<ref>{{cite web|url=https://www.timeshighereducation.com/world-university-rankings/2016/life-sciences#!/page/0/length/25|title=Top 100 universities for Life Sciences 2015–16|accessdate=28 October 2015|work=Times Higher Education}}</ref> The 2014 [[CWTS Leiden Ranking|CWTS Leiden rankings]], which "aims to provide highly accurate measurements of the scientific impact of universities", placed St Andrews 39th in the world, ranking it 5th domestically.<ref name="Leiden Rankings">{{cite web|title=Leiden Rankings|url=http://www.leidenranking.com/ranking/2014|accessdate=29 July 2014}}</ref> The philosophy department is ranked 14th worldwide (4th in Europe) in the 2015 [[QS World University Rankings]]<ref name="QS World University Rankings by Subject 2015 - Philosophy">{{cite web|title=QS World University Rankings by Subject 2015 - Philosophy |url=http://www.topuniversities.com/university-rankings/university-subject-rankings/2015/philosophy#sorting=rank+region=+country=+faculty=+stars=false+search=|accessdate=5 November 2015}}</ref> whilst the graduate programme was ranked 17th worldwide (2nd in the UK) by the 2009 [[Philosophical Gourmet]]'s biennial report on [[Philosophy]] programs in the English-speaking world.<ref>[http://www.philosophicalgourmet.com/overall.asp The Philosophical Gourmet Report] {{webarchive|url=http://webarchive.loc.gov/all/20160519080522/http://www.philosophicalgourmet.com/overall.asp |date=19 May 2016 }} accessed 15 August 2010.</ref>
+
+===Admissions===
+{| class="wikitable floatright" style="font-size:85%; text-align:center;"
+|+ Undergraduate Admission Statistics<ref>{{cite web|title=UG and PGT application, offer and enrolment numbers|url=https://www.whatdotheyknow.com/request/ug_and_pgt_application_offer_and_7#incoming-1095229|website=whatdotheyknow.com|publisher=Freedom of Information, University of St Andrews}}</ref>
+!
+!2017
+!2016
+!2015
+!2014
+!2013
+|-
+|'''Applications'''
+|18,790
+|17,785
+|16,010
+|15,505
+|15,875
+|-
+|'''Offer Rate (%)'''
+|42.3
+|44.8
+|46.7
+|53.0
+|41.2
+|-
+|'''Enrols'''
+|1,915
+|1,955
+|1,835
+|2,115
+|1,770
+|-
+|[[Yield (college admissions)|'''Yield (%)''']]
+|24.1
+|24.5
+|24.5
+|25.7
+|27.1
+|-
+|'''Applicant/Enrolled Ratio'''
+|9.81
+|9.11
+|8.73
+|7.32
+|8.97
+|-
+|'''[[UCAS Tariff|Average Entry Tariff]]'''<ref name="Complete League Table 2019">{{cite-web|url=https://www.thecompleteuniversityguide.co.uk/league-tables/rankings|title=Top UK University League Table and Rankings|publisher=Complete University Guide}}</ref>{{efn|New [[UCAS Tariff]] system from 2016}}
+|n/a
+|206
+|525
+|520
+|516
+|}
+
+The university receives applications mainly through [[UCAS]] and the [[Common Application]] with the latest figures showing that there are generally 12 applications per undergraduate place available.<ref>{{cite web|author=|url=http://www.thecourier.co.uk/news/education/scottish-universities-see-a-rise-in-applications-from-the-rest-of-the-uk-1.66743 |title=Scottish universities see a rise in applications from the rest of the UK |work=The Courier |date=31 January 2013| accessdate= 19 May 2014}}</ref> Overall, the university is one of the most competitive universities in the UK, with 2016-17 having an acceptance rate of 8.35% and offer rate of 22.5% for Scottish/EU applicants where places are capped by the [[Scottish Funding Council|Scottish Government]].<ref name="sta admissions">{{cite web|url=http://theuniversitybuzz.blogspot.co.uk/2015/08/university-of-st-andrews-2012-13-entry.html|title= University of St Andrews Entry UCAS Home Application Summary |website=theuniversitybuzz.blogspot.co.uk}}</ref><ref>{{cite news|url=http://www.heraldscotland.com/news/14612463.St_Andrews_University_hits_out_at_claims_it__quot_prefers_quot__fee_paying_students_from_England_over_Scots/?ref=twtrec|title=St Andrews University hits out at claims it "prefers" fee-paying students from England over Scots|work=The Herald|date=11 July 2016}}</ref> In 2017, the most competitive courses for Scottish/EU applicants were those within the Schools of International Relations, Management, and Economics and Finance with offer rates of 8.0%, 10.9% and 11.5% respectively.<ref name="sta admissions"/><ref>{{cite web|title=St Andrews 600 Quick Facts|url=https://www.st-andrews.ac.uk/media/600th-old/documents/st-andrews-600-quick-facts.pdf|format=[[Portable Document Format|PDF]]|publisher=University of St Andrews|accessdate=31 July 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20130127024419/http://www.st-andrews.ac.uk/media/600th-old/documents/st-andrews-600-quick-facts.pdf|archivedate=27 January 2013|df=dmy-all}}</ref> The standard offer of a place tends to require five best Highers equivalent to AAAAB, three best A-levels equivalent to AAA or a score of at least 38 points on the International Baccalaureate.<ref>{{cite web|url=http://www.thecompleteuniversityguide.co.uk/league-tables/rankings?o=Entry |title=Top UK University League Tables and Rankings 2013 |publisher=Complete University Guide |date= |accessdate=6 June 2012}}</ref> Successful entrants have, on average, 525 UCAS points (the equivalent of just above A*A*AA at A Level) ranking it as the 5th highest amongst higher education institutions in the UK for the 2015 admissions cycle<ref name="CUG UCAS">{{cite web|url=http://www.thecompleteuniversityguide.co.uk/league-tables/rankings?o=Entry+Standards|title=University League Table 2018|publisher=Complete University Guide|accessdate=27 April 2017}}</ref> with ''[[The Daily Telegraph|The Telegraph]]'' naming it as the hardest university to gain admission into in Scotland.<ref>{{cite web|author=|url=https://www.telegraph.co.uk/education/2016/03/14/the-10-hardest-universities-to-get-into/university-of-st-andrews/ |title=The 10 hardest universities to get into |work=The Telegraph|date=9 May 2016 |accessdate=23 May 2016}}</ref>
+
+The university has one of the smallest percentages of students (13%) from lower income backgrounds, out of all higher education institutions in the UK.<ref>{{cite web|author=|url=http://extras.timesonline.co.uk/pdfs/stug09/mostmiddleclass.pdf |title=Most middle class |work=The Times|date= |accessdate=6 June 2012}}</ref><ref name="times_access_agenda">{{cite web|url=http://www.timeshighereducation.co.uk/story.asp?storyCode=209682&sectioncode=26|title=Access agenda is now back on track|work=The Times |location=UK|accessdate=25 November 2008}}</ref> Around 40% of the student body is from [[Independent school (UK)|independent schools]]<ref>{{cite web|author= |url=http://extras.timesonline.co.uk/pdfs/stug09/loweststateschoolintake.pdf |title=Lowest state school intake |work=The Times  |date=22 May 2012 |accessdate=6 June 2012}}</ref> and the university hosts the highest proportion of financially independent students (58%) in the UK.<ref>{{cite web|author=|url=https://www.telegraph.co.uk/education/universityeducation/8882007/Universities-with-the-richest-students-or-parents.html |title=Universities with The Richest Students or Parents |work=The Telegraph|date= |accessdate=11 October 2011}}</ref> The university participates in widening access schemes such as the [[Sutton Trust]] Summer School, First Chances Programme, REACH & SWAP Scotland, and Access for Rural Communities (ARC) in order to promote a more widespread uptake of those traditionally under represented at university.<ref>{{cite web|url=https://www.st-andrews.ac.uk/study/access/school-college-projects/|title=Our projects - University of St Andrews|website=www.st-andrews.ac.uk}}</ref> In the seven-year period between 2008 and 2015, the number of pupils engaged with annual outreach programmes at the university has increased by about tenfold whilst the number of students arriving at St Andrews from the most deprived backgrounds has increased by almost 50 per cent in the past year of 2015.<ref name="Raising aspirations and attainment">{{cite web|title=Raising aspirations and attainment|url=http://www.st-andrews.ac.uk/news/archive/2015/title,260262,en.php|accessdate=17 June 2015|archive-url=https://web.archive.org/web/20150619044153/http://www.st-andrews.ac.uk/news/archive/2015/title,260262,en.php|archive-date=19 June 2015|dead-url=yes|df=dmy-all}}</ref> The university has a slightly higher proportion of female than male students with a male to female ratio of 44:56 in the undergraduate population.<ref>{{cite web|title=THE World University Rankings 2015–2016: University of St Andrews|url=https://www.timeshighereducation.com/world-university-rankings/university-of-st-andrews?ranking-dataset=133819|work=Times Higher Education|accessdate=1 October 2015}}</ref>
+
+===Lecture series===
+[[File:St Andrews University Classics Building.jpg|thumb|right|The University of St Andrews Classics Building, Swallowgate]]
+To commemorate the university's 600th anniversary the ''600th Lecture Series'' was commissioned in 2011, which brought diverse speakers such as former Prime Minister [[Gordon Brown]], naturalist [[David Attenborough]] and linguist [[Noam Chomsky]] to St Andrews.<ref name="600th Lecture series">{{cite web|title=600th Lecture series|url=http://www.st-andrews.ac.uk/600/gallery/gordonbrown/#/media/600/images/gallery/gordonbrown/2-gordon-brown-ar.jpg|accessdate=3 January 2013|archive-url=https://web.archive.org/web/20130217185900/http://www.st-andrews.ac.uk/600/gallery/gordonbrown/#/media/600/images/gallery/gordonbrown/2-gordon-brown-ar.jpg|archive-date=17 February 2013|dead-url=yes|df=dmy-all}}</ref>
+
+As part of the celebration of the 400th establishment of the King James Library, the ''King James Library lectures'' were initiated in 2009 on the subject of 'The Meaning of the Library'.<ref name="King James Library lectures">{{cite web|title=King James Library lectures|url=http://www.st-andrews.ac.uk/library/news/lectures/|accessdate=3 January 2013}}</ref>
+
+The [[Andrew Lang Lecture]] series was initiated in 1927, and named for alumnus and poet [[Andrew Lang]]. The most famous lecture in this series is that given by [[J. R. R. Tolkien]] in March 1939, entitled 'Fairy Stories', but published subsequently as '[[On Fairy-Stories]]'.<ref name="Andrew Lang lecture">{{cite web|title=Andrew Lang lecture|url=http://www.sfscope.com/2012/09/jane-yolen-to-lecture-at-st-andrews/|accessdate=24 January 2013}}</ref>
+
+The computing ''Distinguished Lecture Series'' was initiated in 1969 by [[Jack Cole (scientist)|Jack Cole]].<ref name="st-andrews distinguished lectures">{{cite web | url=http://www.cs.st-andrews.ac.uk/distinguished-lectures | title=Distinguished Lecture Series | publisher=University of St Andrews | accessdate=12 March 2012}}</ref>
+
+===Exchange programmes===
+[[File:St Salvator's chapel - geograph.org.uk - 10006.jpg|thumb|Tower of St Salvator's Chapel]]
+
+St Andrews has developed student exchange partnerships with universities around the globe, though offerings are largely concentrated in North America, Europe, and Asia. Exchange opportunities vary by School and eligibility requirements are specific to each exchange program.<ref name="University of St Andrews">{{cite web|author=|url=http://www.st-andrews.ac.uk/studyabroad/outgoingstudents/thinkingaboutstudyabroad/wherecanigo/|title=Where Can I Go?|publisher=University of St Andrews|date=|accessdate=12 August 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140813130043/http://www.st-andrews.ac.uk/studyabroad/outgoingstudents/thinkingaboutstudyabroad/wherecanigo/|archivedate=13 August 2014|df=dmy-all}}</ref>
+
+In North America, the highly competitive Bachelor of Arts International Honours program, run in conjunction with [[The College of William and Mary]] in [[Williamsburg, Virginia]], allows students studying Classical Studies, Film Studies, International Relations, English, History, or Economics to spend two years at each institution and earn a joint degree from both.<ref>{{cite web|author= |url=https://www.wm.edu/sites/standrews/index.php |title=William & Mary – St Andrews William & Mary Joint Degree Programme |publisher= The College of William & Mary|date= |accessdate=17 April 2011}}</ref> [[Bobby Jones (golfer)|The Robert T. Jones Memorial Trust]] funds the Robert T. Jones Jr. Scholarship, which allows select St Andrews students to study, fully funded, for a year at [[Emory University]] in [[Atlanta]], and [[University of Western Ontario|Western University]] and [[Queen's University]] in Canada.<ref name="Scholarships for Study Abroad">{{cite web|title=Scholarships for Study Abroad|url=http://www.st-andrews.ac.uk/studyabroad/outgoingstudents/practicalinformation/moneymatters/scholarships/|accessdate=19 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130110143031/http://www.st-andrews.ac.uk/studyabroad/outgoingstudents/practicalinformation/moneymatters/scholarships/|archivedate=10 January 2013|df=dmy-all}}</ref> The [[Robert L. McNeil, Jr.|Robert Lincoln McNeil Scholarship]] allows students to study at the [[University of Pennsylvania]]. One of the largest North American exchanges is with the [[University of California]] System, in which students can study at [[University of California, Berkeley|Berkeley]], [[University of California, Los Angeles|Los Angeles (UCLA)]], [[University of California, Santa Cruz|Santa Cruz (UCSC)]] and [[University of California, San Diego|San Diego (UCSD)]]. Other North American partners offering multiple exchanges include the [[University of Virginia]], the [[University of North Carolina at Chapel Hill]], [[Washington and Lee University]], [[Elon University]], and the [[University of Toronto]].<ref name="University of St Andrews"/> Some exchanges are offered within specific research institutes at St Andrews, rather than across entire Schools. For example, the Handa Centre for the Study of Terrorism and Political Violence, within the School of International Relations, offers student exchanges in partnership with the [[School of Foreign Service]] at [[Georgetown University]].<ref>{{cite web|url=http://www.st-andrews.ac.uk/~wwwir/research/cstpv/news/files/georgetown-exchange-2013.php|title=Georgetown Exchange Programme - Georgetown|date=12 January 2013|publisher=|deadurl=bot: unknown|archiveurl=https://web.archive.org/web/20130112180956/http://www.st-andrews.ac.uk/~wwwir/research/cstpv/news/files/georgetown-exchange-2013.php|archivedate=12 January 2013|df=dmy-all}}</ref>
+
+St Andrews participates in the [[Erasmus Programme]] and has direct exchanges with universities across Europe.<ref name="University of St Andrews"/> For example, in France exchanges are offered at the [[University of Paris|Sorbonne]], [[Sciences Po]], and [[Pierre-and-Marie-Curie University (University of Paris 6)|University of Paris VI]]. In the Netherlands students can study at [[Leiden University]] and [[Utrecht University]]. Narrower exchanges include those with the [[University of Copenhagen]], the [[University of Oslo]], and [[Trinity College, Dublin|Trinity College Dublin]]. Exchanges are also available for postgraduate research students, such as the opportunity for social scientists to study at the [[European University Institute]] in Florence, Italy.
+
+More recently, St Andrews has developed exchanges with partners in Asia and Australia.<ref name="University of St Andrews"/> Notable partners include the [[University of Hong Kong]] and [[Renmin University of China]], [[National University of Singapore]], and the [[University of Melbourne]] in Australia.
+
+==Buildings, collections and facilities==
+[[Image:University Observatory - geograph.org.uk - 342743.jpg|thumb|right|Observatory of the university]]
+The University  of St Andrews is situated in the small town of St Andrews in rural Fife, [[Scotland]]. The University has teaching facilities, libraries, student housing and other buildings spread throughout the town. Generally, university departments and buildings are concentrated on North Street, South Street, The Scores, and the North Haugh. The university has two major sites within the town. The first is the [[United College, St Andrews]] (also known as the Quad or St Salvator's) on North Street, which functions both as a teaching space and venue for student events, incorporating the Departments of Social Anthropology and Modern Languages. The second is [[St Mary's College, St Andrews]], based on South Street, which houses the Schools of Divinity, Psychology and Neuroscience, as well as the King James Library. Several schools are located on The Scores including Classics, English, History, Philosophy, the School of Economics and Finance, and International Relations, as well as the Admissions department, the [[Museum of the University of St Andrews]], and the Principal's residence, University House. North Street is also the site of several departments including, the Principal's Office, The Younger Hall, Department of Film Studies, and the University Library. The North Haugh is principally home to the Natural Sciences such as Chemistry, Physics, Biology, as well as Mathematics, Computer Science, Medicine and the School of Management.
+
+===Libraries and museums===
+[[File:St Andrews - University library.JPG|thumbnail|St Andrews University library building]]
+The University of St Andrews maintains one of the most extensive [[Academic library|university library]] collections in the United Kingdom, which includes significant holdings of books, manuscripts, muniments and photographs. The library collection contains over a million volumes and over two hundred thousand rare and antique books.<ref name="University of St Andrews Library">{{cite web|title=University of St Andrews Library|url=http://copac.ac.uk/about/libraries/st-andrews.html|accessdate=1 January 2013}}</ref>
+
+The university library was founded by [[King James VI]] in 1612, with the donation of 350 works from the royal collection, at the urging of [[George Gledstanes]], the then chancellor of St Andrews, although the libraries of the colleges of [[St Leonard's College (University of St Andrews)|St Leonard's College]], [[St Salvator's College, St Andrews|St Salvator's College]] and [[St Mary's College, St Andrews|St Mary's College]] had existed prior to this.<ref>{{cite web|url=http://www.nesms.org.uk/rvp/saul/SAULHist.html |title=A note on the early history of St Andrews University Library, by R.V. Pringle |publisher=nesms.org.uk/rvp |date= |accessdate=3 January 2013}}</ref><ref>{{cite web|url=http://www.nesms.org.uk/rvp/saul/SAULCat1612.html |title=St Andrews University Library, Sources for Library History, 1 : A revised transcript of the 'Foundation List' of 1612–13, by R.V. Pringle |publisher=nesms.org.uk/rvp/ |date= |accessdate=3 January 2013}}</ref> From 1710 to 1837 the library functioned as a [[legal deposit library]], and as a result has an extensive collection of 18th century literature.<ref name="Rare books">{{cite web|title=Rare books|url=http://www.st-andrews.ac.uk/library/specialcollections/rarebooks/|accessdate=1 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130109185724/http://www.st-andrews.ac.uk/library/specialcollections/rarebooks/|archivedate=9 January 2013|df=dmy-all}}</ref>
+[[File:St Andrews - King James Library from St Mary's quad.JPG|thumb|King James Library]]
+The library's main building is located on North Street, and houses over 1,000,000 books.<ref>{{cite web|title=Library|url=http://www.st-andrews.ac.uk/study/why/education/library/|website=University of St Andrews|publisher=University of St Andrews|accessdate=20 July 2014}}</ref> The library was designed by the leading firm of architects Faulkner-Brown Hendy Watkinson Stonor led by Harry Faulkner-Brown and based in the North East England at Killingworth.<ref>{{cite web|title=DSA Building/Design Report University Library, St Andrews|url=http://www.scottisharchitects.org.uk/building_full.php?id=410376|work=Dictionary of Scottish Architects|accessdate=26 May 2014}}</ref> Faulkner-Brown specialised in libraries and leisure facilities and also designed the National Library of Canada in Ottawa and the Robinson Library at Newcastle University <ref>{{cite news|last=Compson|first=Helen|title=Arnhem hero and respected architect dies|url=http://www.hexhamcourant.co.uk/news/2.2978/arnhem-hero-and-respected-architect-dies-1.48705#|accessdate=26 May 2014|newspaper=Hexham Courant|date=28 February 2008|deadurl=yes|archiveurl=https://web.archive.org/web/20140527230032/http://www.hexhamcourant.co.uk/news/2.2978/arnhem-hero-and-respected-architect-dies-1.48705|archivedate=27 May 2014|df=dmy-all}}</ref><ref>{{cite web|title=Grand designers|url=http://www.livingnorth.com/northeast/people-places/grand-designers|work=Living North|accessdate=26 May 2014}}</ref> In 2011 the main library building underwent a £7 million re-development.<ref name="Renovated Library reopens its doors">{{cite web|title=Renovated Library reopens its doors|url=http://www.thesaint-online.com/2011/09/renovated-library-reopens-its-doors/|accessdate=1 January 2013}}</ref> The historic King James library, built in 1643, houses the university's Divinity and Medieval history collections.<ref name="King James Library – A Short History">{{cite web|title=King James Library – A Short History|url=http://www.st-andrews.ac.uk/divinity/rt/kjl/|work=King James Library – A Short History|accessdate=1 January 2013}}</ref>
+
+In 2012 the University purchased the vacant Martyrs' Kirk on North Street, with the purpose of providing reading rooms for the Special Collections department and University research students and staff.<ref name="University to develop new library facility in iconic St Andrews church">{{cite web|title=University to develop new library facility in iconic St Andrews church|url=http://www.st-andrews.ac.uk/news/archive/2012/title,91379,en.php|accessdate=1 January 2013|archive-url=https://web.archive.org/web/20150112210438/http://www.st-andrews.ac.uk/news/archive/2012/title,91379,en.php|archive-date=12 January 2015|dead-url=yes|df=dmy-all}}</ref>
+
+[[File:University of St Andrews library from above.jpg|thumb|left|University of St Andrews library from above with [[West Sands]] in the background]]
+
+The University maintains several museums and galleries, open for free to the public.<ref name="Museums About us">{{cite web|title=Museums About us|url=http://www.st-andrews.ac.uk/museum/about/|accessdate=2 January 2013}}</ref> [[Museum of the University of St Andrews|The Museum of the University of St Andrews]] (MUSA) opened in 2008 and displays some highlights of the university's extensive collection of over 100,000 artefacts.<ref name="Welcoming new stores for the University's museum collections">{{cite web|title=Welcoming new stores for the University's museum collections|url=http://www.st-andrews.ac.uk/museum/news/ournews/2010/|accessdate=2 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131231000453/http://www.st-andrews.ac.uk/museum/news/ournews/2010/|archivedate=31 December 2013|df=dmy-all}}</ref> It displays objects relating both to the history of the university, such as its collection of 15th century maces,<ref name="st salvators mace">{{cite web|title=st salvators mace|url=http://www.st-andrews.ac.uk/musa/see/starobjects/stsalvatorsmace/|accessdate=2 January 2013}}</ref> and also unrelated objects, such as paintings by [[John Opie]], [[Alberto Morrocco]] and [[Charles Sims (painter)|Charles Sims]].<ref name="MUSA blog">{{cite web|title=MUSA blog|url=http://museumoftheuniversityofstandrews.wordpress.com/page/7/|accessdate=2 January 2013}}</ref> Several of the university's collections have been recognised as being of 'national significance for Scotland' by [[Museums Galleries Scotland]].<ref name="Collections of national significance">{{cite web|title=Collections of national significance|url=http://www.st-andrews.ac.uk/news/archive/2008/title,18701,en.php|accessdate=29 January 2013|archive-url=https://web.archive.org/web/20131231000055/http://www.st-andrews.ac.uk/news/archive/2008/title,18701,en.php|archive-date=31 December 2013|dead-url=yes|df=dmy-all}}</ref>
+
+The Bell Pettigrew Museum houses the University's natural history collections. Founded in 1912, it is housed in the old Bute Medical School Building in St. Mary's Quad. Among its collections are the remains of several extinct species such as the [[dodo]] and [[Thylacine|Tasmanian tiger]] as well as fossilised fish from the nearby [[Dura Den]], Fife, which when found in 1859 stimulated the debate on evolution.<ref name="What is there to see? Highlights of the Collection">{{cite web|title=What is there to see?  Highlights of the Collection|url=http://www.st-andrews.ac.uk/museum/bellpettigrew/see/|accessdate=2 January 2013}}</ref>
+[[File:St Salvator's Chapel, interior.jpg|thumb|St Salvator's Chapel]]
+
+===Chapels===
+[[File:Wardlaw Wing, St Andrews - geograph.org.uk - 148758.jpg|thumb|The Wardlaw Wing of University Hall]]
+The University has two collegiate chapels. [[St Salvator's Chapel|The chapel of St Salvator's]] (or "Sallies" as it is affectionately known) was founded in 1450 by [[James Kennedy (bishop)|Bishop James Kennedy]], and today it is a centre of university life.<ref name="St salvators chapel">{{cite web|title=St salvators chapel|url=http://www.st-andrews.ac.uk/about/universitychapels/stsalvatorschapel/|accessdate=2 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130106064605/http://www.st-andrews.ac.uk/about/universitychapels/stsalvatorschapel/|archivedate=6 January 2013|df=dmy-all}}</ref> St Salvator's has a full peal of six bells, and is therefore the only university chapel in Scotland suitable for [[change ringing]].<ref>{{cite news|title=St Salvator's Chapel set to ring in changes|first=Cheryl|last=Peebles|url=http://www.thecourier.co.uk/Community/Heritage-and-History/article/4894/st-salvator-s-chapel-set-to-ring-in-changes.html|newspaper=The Courier|date=9 September 2010|accessdate=22 January 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20100911060350/http://www.thecourier.co.uk/Community/Heritage-and-History/article/4894/st-salvator-s-chapel-set-to-ring-in-changes.html|archivedate=11 September 2010|df=dmy-all}}</ref> The Chapel of St Leonard's is located in the grounds of the nearby [[St Leonards School]]. It is the university's oldest building, some parts dating from 1144<ref name="St leonards chapel">{{cite web|title=St leonards chapel|url=http://www.st-andrews.ac.uk/visiting/about/virtualtours/chapels/stleonards/|accessdate=3 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130110035517/http://www.st-andrews.ac.uk/visiting/about/virtualtours/chapels/stleonards/|archivedate=10 January 2013|df=dmy-all}}</ref> and is the smaller of the two chapels. St Salvator's and St Leonard's both have their own choirs, whose members are drawn from the student body.
+
+===Student halls===
+St Andrews is characterised amongst Scottish universities as having a significant number of students who live in [[Residential college|university-maintained accommodation]]. As of 2012, 52% of the student population live in university halls.<ref name="University guide 2013: University of St Andrews">{{cite news|title=University guide 2013:  University of St Andrews|url=https://www.theguardian.com/education/2009/may/10/universityguide-uni-st-andrews|accessdate=6 January 2013 | location=London|work=The Guardian|date=10 May 2009}}</ref> The halls vary widely in age and character; the oldest, [[Deans Court]] dates from the 12th century, and the newest, David Russell Apartments, was built in 2004.<ref name=DRA>{{cite web|title=DRA|url=http://www.st-andrews.ac.uk/accommodation/ug/residences/dra/|accessdate=4 January 2013}}</ref> They are built in styles from [[gothic revival]] to [[brutalist]]. All are now co-educational and non-smoking, and several are catered.<ref name="St andrews accommodation">{{cite web|title=St andrews accommodation|url=http://www.st-andrews.ac.uk/accommodation/ug/}}</ref> The University guarantees every first year student a place of accommodation, and many students return to halls in their second, third and final years at St Andrews.<ref name="St Andrews Accommodation guarantee">{{cite web|title=St Andrews Accommodation guarantee|url=http://www.st-andrews.ac.uk/accommodation/ug/prospective/guarantee/|accessdate=30 December 2012|archive-url=https://web.archive.org/web/20130329182611/http://www.st-andrews.ac.uk/accommodation/ug/prospective/guarantee/|archive-date=29 March 2013|dead-url=yes|df=dmy-all}}</ref> From September 2015 onwards, students will have the option of living in alcohol-free flats in David Russell Apartments on the grounds of medical conditions that do not allow drinking or for religious reasons.<ref>{{cite web|author=|url=https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-31364421 |title=Students offered alcohol-free flats at St Andrews University  |work=BBC News |date=10 February 2015| accessdate= 19 May 2015}}</ref>
+[[File:St Andrews - St Salvator's Hall 01.JPG|thumb|St Salvator's Hall]]
+Halls of residence include:
+{{Div col|colwidth=22em}}
+* [[Agnes Blackadder Hall]]
+* Albany Park
+* [[Andrew Melville Hall]]
+* David Russell Apartments
+* Fife Park Apartments
+* Gannochy House
+* [[Hamilton Hall (University of St Andrews)|Hamilton Hall]]
+* [[John Burnet Hall]]
+* McIntosh Hall
+* [[St Regulus Hall]]
+* [[St Salvator's Hall]]
+* [[University Hall (University of St Andrews)|University Hall]]
+* Angus and Stanley Smith Houses (Postgraduate only)
+* [[Deans Court]] (Postgraduate only)
+* St Gregory's (Postgraduate only)
+
+{{Div col end}}
+
+===Renewable energy projects===
+Since 2013, the university's endowment has been invested under the [[Principles for Responsible Investment|United Nations Principles of Responsible Investment]] (UNPRI) initiative with a sustainable ethical policy enforced since 2007.<ref>{{cite web|title=St Andrews Sustainable Investment Policy|url = https://www.st-andrews.ac.uk/media/finance/documents/SSRI_FOP.pdf | format = [[Portable Document Format|PDF]] | publisher = University of St Andrews|accessdate = 31 January 2014}}</ref> The university has the target of being the UK's first carbon neutral university and has invested in creating two new macro-scale renewable energy sites.
+
+The [[Guardbridge]] Biomass Energy Centre will generate power using locally sourced wood-fuelled biomass, hot water will be transported to the university through underground pipes to heat and cool laboratories and student residences.<ref>{{cite web|author=|url=https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-25448039 |title=St Andrews University plans a £25m energy centre  |work=BBC News |date=20 December 2013| accessdate= 19 May 2015}}</ref> The £25 million project is expected to save 10,000 tonnes of carbon annually and the university aims to establish the site as a knowledge exchange hub which would provide "missing link" facilities to allow research and discoveries made in university labs to be translated to working prototypes. Work began onsite in 2014 and the centre is expected to be operational by December 2015.<ref>{{cite web|author=|url=http://www.thecourier.co.uk/news/local/fife/st-andrews-university-plan-for-paper-mill-given-green-light-1.632766 |title=St Andrews University plan for paper mill given green light  |work=The Courier |date=17 October 2014| accessdate= 19 May 2015}}</ref>
+
+In October 2013, the university received permission to build six medium-sized turbines at Kenly Wind Farm, near [[Boarhills]]. The wind farms are expected to be operational by 2017 and will bring an estimated £22 million boost to the local and national economy with 19,000 tonnes of carbon saved annually.<ref>{{cite web|author=|url=http://www.fifetoday.co.uk/news/local-headlines/developer-wanted-for-st-andrews-university-s-windfarm-1-3531596 |title=Developer wanted for St Andrews University's windfarm  |work=Fife Today |date=5 September 2014| accessdate= 19 May 2015}}</ref>
+
+==Student life==
+[[File:St Salvators chapel and north street -St Andrews.jpg|thumb|[[St Salvator's Chapel]] viewed from North Street.]]
+
+===Students' association===
+The [[University of St Andrews Students' Association]] is the organisation which represents the [[student body]] of the University of St Andrews.<ref name="stafoi">{{Cite press release
+| title = Publication Scheme – Category 13 – Class: Relationship with Students’ Association
+| publisher=University of St Andrews
+| date = 24 January 2006
+| url = http://foi.st-andrews.ac.uk/PublicationScheme/servlet/core.generator.gblobserv?id=367
+| accessdate =23 July 2007}}</ref> It was founded in 1885 and comprises the [[Students' Representative Council#Scotland|Students' Representative Council]] (SRC)<ref>{{cite web|url=http://www.statutelaw.gov.uk/content.aspx?LegType=All+Legislation&title=Universities+(Scotland)+Act&Year=1889&searchEnacted=0&extentMatchOnly=0&confersPower=0&blanketAmendment=0&sortAlpha=0&TYPE=QS&PageNumber=1&NavFrom=0&parentActiveTextDocId=1061283&ActiveTextDocId=1061283&filesize=70634|title= Ministry of Justice – Universities (Scotland) Act 1889}}</ref> and the Students' Services Council (SSC). The Students' Association has 9 subcommittees: The Entertainments "Ents" Committee, Societies Committee, Charities Campaign, [[University of St Andrews Union Debating Society|Union Debating Society]], STAR (St Andrews Radio), Mermaids Productions, LGBT, Design Team, SVS (Student Voluntary Service). Every matriculated student is automatically a member of each subcommittee.
+
+The Students' Association Building (informally known as ''the Union'') is located on St Mary's Place, St Andrews. Union facilities include a [[Blackwell UK|Blackwells]] bookshop, several bars and the University's Student Support Services. In 2013 the Students' Association Building is scheduled to undergo a £12 million refurbishment.<ref name="Union redevelopment given green light">{{cite web|title=Union redevelopment given green light|url=http://www.thesaint-online.com/2012/09/union-redevelopment-given-green-light/|accessdate=2 January 2013}}</ref> The Students' Association is affiliated to, and a founding member of, the [[Coalition of Higher Education Students in Scotland]] but unlike many other students' unions in the UK is not a member of the [[National Union of Students (United Kingdom)|National Union of Students]], having most recently rejected membership in a referendum in November 2012.
+
+===Societies===
+[[File:University buildings - geograph.org.uk - 586036.jpg|thumb|left|Music Centre, Younger Hall]]
+St Andrews is home to over 140 student societies which cover a wide range of interests.<ref name="Societies list">{{cite web|title=Societies list|url=http://societies.yourunion.net/action/welcome/|accessdate=4 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130110095616/http://societies.yourunion.net/action/welcome|archivedate=10 January 2013|df=dmy-all}}</ref> In 2015, the university ranked top in Scotland and 3rd in the UK for Clubs & Societies by university review platform, ''StudentCrowd''.<ref>{{cite web|url=http://www.st-andrews.ac.uk/news/archive/2015/title,273508,en.php|title=St Andrews ranked top for student clubs|date=11 August 2015|access-date=18 August 2015|archive-url=https://web.archive.org/web/20150819235543/http://www.st-andrews.ac.uk/news/archive/2015/title,273508,en.php|archive-date=19 August 2015|dead-url=yes|df=dmy-all}}</ref>
+
+All matriculated students are members of the "[[University of St Andrews Union Debating Society|Union Debating Society]]", a [[Debating society|student debating society]] that holds weekly public debates in Lower Parliament Hall, often hosts notable speakers, and participates in competitive debating in both national and international competitions. Founded in 1794, it claims to be the oldest continuously-run student debating society in the world.<ref name="Union debating about us">{{cite web|title=Union debating about us|url=http://standrewsdebates.org/the-society/history/|accessdate=2 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20121019190619/http://standrewsdebates.org/the-society/history/|archivedate=19 October 2012|df=dmy-all}}</ref>
+
+There is a strong tradition of student media at St Andrews. The university's two newspapers are ''[[The Saint (UK newspaper)|The Saint]]'', a fortnightly publication and ''The Stand'', an online publication founded in 2011.<ref name="Stand News">{{cite web|title=Stand News|url=http://www.stand-news.co.uk/about-us|archive-url=https://archive.is/20130421102146/http://www.stand-news.co.uk/about-us|dead-url=yes|archive-date=21 April 2013|accessdate=4 January 2013}}</ref> There is also the Foreign Affairs Review ran by the Foreign Affairs Society.<ref name="Foreign Affairs Review">{{cite web|title=Foreign Affairs Review|url=http://www.foreignaffairsreview.co.uk|accessdate=22 August 2013}}</ref> There are also a number of smaller student publications including ''The Tribe'', a student-run magazine<ref name="The Tribe, about">{{cite web|title=The Tribe, about|url=http://www.thetribeonline.com/about-2/|accessdate=4 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20121213191344/http://www.thetribeonline.com/about-2/|archivedate=13 December 2012|df=dmy-all}}</ref> and ''The Regulus'', a student magazine focusing on politics and current affairs.<ref name="About – The Regulus">{{cite web|title=About – The Regulus|url=http://www.theregulus.co.uk/about/|accessdate=4 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130202215747/http://www.theregulus.co.uk/about/|archivedate=2 February 2013|df=dmy-all}}</ref> In addition to this there are several student-led academic journals, most notably, ''Stereoscope Magazine'' which is focused on student photography and raising awareness of the university's historic photographic collection,<ref>{{cite web|url=http://www-ah.st-andrews.ac.uk/stereoscope/|title=Stereoscope|publisher=University of St Andrews|date=|accessdate=5 June 2012|archive-url=https://web.archive.org/web/20120620100436/http://www-ah.st-andrews.ac.uk/stereoscope/|archive-date=20 June 2012|dead-url=yes|df=dmy-all}}</ref> ''Ha@sta'', an annual journal for those interested in art history,<ref>{{cite web |url=http://www-ah.st-andrews.ac.uk/haasta/index.html |title=Haasta |publisher=University of St Andrews |date=27 November 2010 |accessdate=17 April 2011 |archive-url=https://web.archive.org/web/20110507094917/http://www-ah.st-andrews.ac.uk/haasta/index.html |archive-date=7 May 2011 |dead-url=yes |df=dmy-all }}</ref> ''Aporia'', the journal of the Philosophy Society,<ref name=Aporia>{{cite web|title=Aporia|url=https://sites.google.com/site/standrewsphilsoc/journal-aporia|accessdate=4 January 2013}}</ref> and the ''Postgraduate Journal of Art History and Museum Studies''.<ref>{{cite web |url=http://www-ah.st-andrews.ac.uk/journal/ |title=Journal of Art History & Museum and Gallery Studies |publisher=University of St Andrews |date=10 January 2011 |accessdate=17 April 2011 |archive-url=https://web.archive.org/web/20110423064212/http://www-ah.st-andrews.ac.uk/journal/ |archive-date=23 April 2011 |dead-url=yes |df=dmy-all }}</ref> The University's radio station is ''STAR radio'', an online station that broadcasts 24/7 during term time.<ref name="STAR radio">{{cite web|title=STAR radio|url=http://www.standrewsradio.com/|accessdate=4 January 2013}}</ref> ''The Sinner'' is an independent website and discussion forum set up by students of the university.<ref name="The sinner">{{cite web|title=The sinner|url=http://www.thesinner.net/|accessdate=4 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130113055037/http://www.thesinner.net/|archivedate=13 January 2013|df=dmy-all}}</ref>
+
+[[File:St Mary's College - geograph.org.uk - 10341.jpg|thumb|Quadrangle of St Mary's College]]
+The university's Music Society comprises many student-run musical groups, including the university's flagship symphony orchestra, wind band, and chorus. One of the oldest choirs in the university is the St Andrews University Madrigal Group which performs a concert each term and has an annual summer tour. The [[A cappella|A Cappella]] Society represents all four a cappella groups at St Andrews: [[The Other Guys (University of St Andrews)|The Other Guys]], [[The Alleycats (University of St Andrews)|The Alleycats]], [[List of collegiate a cappella groups in the UK#The Accidentals|The Accidentals]] and [[List of collegiate a cappella groups in the UK#The Hummingbirds|The Hummingbirds]]. From 2009–2011, all four of these groups participated in [[The Voice Festival UK]](VF-UK) competition, and The Other Guys, The Accidentals and The Alleycats all reached the London final.<ref>{{cite web|first=Martin |last=McCaffery |url=http://www.yourunion.net/societies/societieslist/ |title=St Andrews Students' Union- The home for University of St Andrews students |publisher=Yourunion.net |date= |accessdate=6 June 2012}}</ref> In 2011, The Other Guys released a [[music video]] onto [[YouTube]], entitled ''Royal Romance'', a tribute to the [[wedding of Prince William and Catherine Middleton]], which earned them significant recognition in both Scottish and international media.
+
+Student theatre at the University of St Andrews is funded by the Mermaids Performing Arts fund. There are regular dramatic and comedic performances staged at the Barron theatre.<ref name="Mermaids about us">{{cite web|title=Mermaids about us|url=http://mermaidstheatre.com/about/|accessdate=2 January 2013}}</ref> Blind Mirth is the university's [[Improvisational theatre|improvisational theatre troupe]], which performs weekly in the town, and annually takes a production to the [[Edinburgh Festival Fringe|Edinburgh Fringe Festival]].<ref name="Blind Mirth">{{cite web|title=Blind Mirth|url=http://blindmirth.co.uk/|accessdate=2 January 2013}}</ref>
+
+''The Kate Kennedy Club'' plays a significant role in the life of the university, maintaining university traditions such as the Kate Kennedy Procession, in which students parade through the town dressed as eminent figures from the university's history, and organising social events such as the Opening and May balls. Founded in 1926, the club is composed of around thirty matriculated students, who are selected by the club's members. The club has received criticism from the university's principal, Louise Richardson, and alumna the Duchess of Cambridge [[Kate Middleton]] over its previously male-only admission policy.<ref name="What next for the Kate Kennedy tradition in St Andrews?">{{cite web|title=What next for the Kate Kennedy tradition in St Andrews?|url=http://www.thesaint-online.com/2012/03/what-next-for-the-kate-kennedy-tradition-in-st-andrews/|accessdate=5 January 2013}}</ref><ref name="University club splinters">{{cite news|title=University club splinters|url=https://www.telegraph.co.uk/news/uknews/kate-middleton/9095871/Victory-for-Kate-Middleton-as-men-only-university-club-splinters.html|accessdate=5 January 2013 | location=London|work=The Daily Telegraph|first1=Victoria|last1=Ward|first2=Olivia|last2=Bolton|date=22 February 2012}}</ref> In 2012, the club decided to allow female students to join.<ref name="Breaking News: Kate Kennedy Club votes to admit women">{{cite web|title=Breaking News: Kate Kennedy Club votes to admit women|url=http://www.thesaint-online.com/2012/03/breaking-news-kate-kennedy-club-votes-to-admit-women/|accessdate=5 January 2013}}</ref><ref name="The stand KKC">{{cite news|title=Kate Kennedy Club to admit women|url=http://www.stand-news.co.uk/kkc-to-admit-women/|archive-url=https://archive.is/20130707052909/http://www.stand-news.co.uk/kkc-to-admit-women/|dead-url=yes|archive-date=7 July 2013|accessdate=24 May 2013|newspaper=The Stand|date=22 March 2012}}</ref>
+
+St Andrews is home to several other private clubs such as [[The Kensington Club]], founded in 1739 by Alexander Laird Balgonie and is an all-male dining club that organises private events for members.<ref name="The Kensington Club - A Brief History 1739 2010">{{cite web|title=The Kensington Club - A Brief History 1739 2010|url=https://archive.org/details/TheKensingtonClubABriefHistory17392010|accessdate=16 October 2012}}</ref><ref name="More Andreanic Fun">{{cite web|title=More Andreanic Fun|url=http://www.andrewcusack.com/2004/more-andreanic-fun/|accessdate=26 July 2004}}</ref>
+
+===Sports clubs and the athletic union===
+{{Main article|University of St Andrews Athletic Union}}
+[[File:Madras RFC Playing Fields St Andrews - geograph.org.uk - 17125.jpg|thumb|Madras RFC Playing Fields St Andrews]]
+The University of St Andrews Athletic Union is the student representative body for sport. Established in 1901, it is affiliated to [[British Universities and Colleges Sport|BUCS]] and encompasses around sixty sport clubs,<ref name="sports clubs">{{cite web|title=All Sports Clubs|url=http://www.st-andrews.ac.uk/sport/clubs/sportsclubs/|publisher=University of St Andrews|accessdate=20 September 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130609195542/http://www.st-andrews.ac.uk/sport/clubs/sportsclubs/|archivedate=9 June 2013|df=dmy-all}}</ref> who compete at both a recreational and high-performance level.<ref name="saints sport">{{cite web|title=Saint Sport|url=http://www.st-andrews.ac.uk/sport/|accessdate=2 January 2013}}</ref> A notable club is the [[University of St Andrews Rugby Football Club]], which played a pivotal role in shaping the sport and has produced Scottish international players such as [[J. S. Thomson]] and [[Alfred Clunies-Ross]].<ref name="Club history">{{cite web|title=Club History|url=http://www.pitchero.com/clubs/universityofstandrews/a/history-8900.html|accessdate=2 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20121106213630/http://www.pitchero.com/clubs/universityofstandrews/a/history-8900.html|archivedate=6 November 2012|df=dmy-all}}</ref> The university is currently undergoing through a £14 million five-phase development of the student sport centre which will include a new 400-seat eight-court sports hall, a new reception area and expanded gym facilities.<ref>{{cite web|author=|url=http://www.fifetoday.co.uk/news/local-headlines/st-andrews-principal-kicks-off-latest-stage-of-14m-sports-redevelopment-1-3682426 |title=St Andrews principal kicks off latest stage of £14m sports redevelopment |work=Fife Today |date=6 February 2015| accessdate= 19 May 2015}}</ref> [[The Scottish Varsity]], also known as the "world's oldest varsity match", is played annually against the [[Edinburgh University RFC|University of Edinburgh]].<ref>{{cite news|url=http://www.heraldscotland.com/sport/13214474.World_s_oldest_varsity_match_returns_to_Scotland/|title=World's oldest varsity match returns to Scotland|work=Herald Scotland|date=19 May 2015}}</ref>
+
+==Traditions==
+[[File:University Gates - geograph.org.uk - 392463.jpg|thumb|Entrance to St Mary's College]]
+
+===''Sponsio Academica''===
+In order to become a student at the university<ref>{{cite web|url=http://www.st-andrews.ac.uk/students/rules/ConductDiscipline/Conduct/|title=Student Conduct|publisher=University of St Andrews|accessdate=15 April 2011}}</ref> a person must take an oath in [[Latin language|Latin]] at the point of [[matriculation]], called the ''[[Sponsio Academica]]'', although this tradition now has been digitised and is agreed to as part of an online matriculation process.
+
+''<blockquote>{{lang|la|Nos ingenui adolescentes, nomina subscribentes, sancte pollicemur nos preceptoribus obsequium debitum exhibituros in omnibus rebus ad disciplinam et bonos mores pertinentibus, Senatus Academici autoritati obtemperaturos, et hujus Academiae Andreanae emolumentum et commodum, quantum in nobis sit, procuraturos, ad quemcunque vitae statum pervenerimus. Item agnoscimus si quis nostrum indecore turbulenterve se gesserit vel si parum diligentem in studiis suis se praebuerit neque admonitus se in melius correxerit eum licere Senatui Academico vel poena congruenti adficere vel etiam ex Universitate expellere.}}</blockquote>''
+
+In English:
+
+<blockquote>We students who set down our names hereunder in all good faith make a solemn promise that we shall show due deference to our teachers in all matters relating to order and good conduct, that we shall be subject to the authority of the Senatus Academicus and shall, whatever be the position we attain hereafter, promote, so far as lies in our power, the profit and the interest in our University of St Andrews. Further, we recognise that, if any of us conducts ourselves in an unbecoming or disorderly manner or shows insufficient diligence in their studies and, though admonished, does not improve, it is within the power of the Senatus Academicus to inflict on such students a fitting penalty or even expel them from the University.</blockquote>
+
+===Gowns===
+[[File:St Andrews gowns.jpg|thumbnail|left|St Andrews students in undergraduate gowns]]
+{{See also|Undergraduate gowns in Scotland}}
+One of the most conspicuous traditions at St Andrews is the wearing of academic dress, particularly the distinctive red undergraduate gown of the United College. Undergraduates in Arts and Science subjects can be seen wearing these garments at the installation of a Rector or Chancellor, at chapel services, on 'Pier Walks', at formal hall dinners, at meetings of the Union Debating Society, giving tours to prospective students and visitors as well as on St Andrews day. Divinity students wear a black undergraduate gown with a purple saltire cross on the left facing. Postgraduates wear the graduate gown or, as members of St Leonard College, may wear a black gown trimmed with burgundy, introduced for graduate students whose original university is without academic dress. (See [[Academic dress of the University of St Andrews]].) St Mary's College Post Graduates, however, wear their graduate gown with a purple saltire cross on the left facing.
+
+===Bejant===
+Bejant is a term used to refer to first year male students; females being described as Bejantines. Second-year students are known as a Semis, a student in their third year may be referred to as a Tertian, and in their final year as a Magistrand. These terms are thought<ref>See A.S.Neill 'A Dominie's Log', page 193 (ch. XVII): "... the St. Andrew's students form a small happy family; if a reference is made to Bejant Smith everyone understands it. If you mentioned Bejant Smith in the Edinburgh 'Student' no one would know whom you were referring to."</ref>{{verification failed|date=October 2018}} to be unique to St Andrews. When wearing their traditional red gowns, students in each year may be identified according to the way they wear their gowns. In the first year, the gown is worn on the shoulders, in the second year it is worn slightly off the shoulders. In the third year arts students wear their gowns off their left shoulders, and science students off their right shoulders. Finally, fourth years wear their gowns right down to their elbows, ready to shed their scarlet gowns for the black graduation gown. The gown is never to be joined at the top as this is considered bad luck.
+
+===Academic parents===
+The students of the University enjoy an unusual ''family tradition'' designed to make new students feel at home and build relationships within the student body. Traditionally, a Bejant or Bejantine acquires academic parents who are at least in their third year as students. These older students act as informal mentors in academic and social matters and it is not uncommon for such academic family ties to stretch well beyond student days. Tradition has it that a Bejant may ask a man to be his ''Senior Man'' but must be invited by a woman who is prepared to be his ''Senior Woman''. Similarly, a Bejantine may ask a male to be her Senior Man but there is no overt ''rule'' regarding how she acquires a Senior Woman. The establishment of these relationships begins at the very start of the first semester – with the aim of being in place ahead of Raisin Weekend.<ref name="St Andrews Fresher">{{cite web|title=St Andrews Fresher A guide to academic families|url=http://www.standrewsfreshers.com/index.php?content=traditions&subcontent=academic_families|accessdate=31 December 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120718063819/http://www.standrewsfreshers.com/index.php?content=traditions|archivedate=18 July 2012|df=dmy-all}}</ref>
+
+===Raisin Weekend===
+[[File:St Andrews Quad.jpg|thumb|St Salvator's Quadrangle during the Raisin Weekend foam fight]]
+Raisin Weekend celebrates the relationship between the Bejants/Bejantines (First-Year students) and their respective Academic Parents who, in St. Andrews' tradition, guide and mentor them in their time at the University. It is traditionally said that students went up to study with a sack of oatmeal and a barrel of salt-herring as staple foods to last them a term and that therefore anything more exotic was seen as a luxury. In return for the guidance from academic parents a further tradition sprang up of rewarding these "parents" with a pound of raisins. Since the 19th century the giving of raisins was steadily transformed into the giving of a more modern alternative – such as a bottle of wine. In return for the raisins or equivalent present the parents give their "children" a formal receipt – the ''Raisin Receipt'' – composed in Latin. Over time this receipt progressively became more elaborate and often humorous. The receipt can be written on anything and is to be carried everywhere by the Bejant/Bejantine on the morning of Raisin Monday until midday.<ref>{{cite web|author=BAM Agency Ltd |url=http://www.yourunion.net/raisin |title=St Andrews Students' Association – The Home for St Andrews University Students |publisher=Yourunion.net |date= |accessdate=3 January 2013}}</ref>
+
+Raisin Weekend is held annually over the last weekend of November. Affairs often begin with a tea party (or similar) thrown by the mother(s) and then a pub-crawl or house party led by the father(s). It is fairly common for several academic families to combine in the latter stages of the revels.<ref>{{cite web |url=http://www.standrewsfreshers.com/index.php?content=traditions&subcontent=raisin_weekend |title=Raisin Weekend |publisher=St. Andrews Freshers |date= |accessdate=3 January 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20120718063819/http://www.standrewsfreshers.com/index.php?content=traditions |archivedate=18 July 2012 |df=dmy-all }}</ref> At midday all the First-Years gather in Quad of St Salvator's College to compare their receipts and also to be open to challenge from older students who may look for errors in the Latin of the receipt (an almost inevitable occurrence). Upon detection of such error(s) the bearer may be required to sing the [[Gaudeamus igitur|Gaudie]]. In recent years the gathering has culminated in a shaving foam fight.<ref>{{cite web|url=http://www.spiegel.de/international/europe/raisin-weekend-foam-fondling-and-malfeasance-at-st-andrews-a-583468.html |title=Raisin Weekend: Foam, Fondling and Malfeasance at St. Andrews|publisher=Spiegel.de |date= |accessdate=3 January 2013}}</ref>
+Raisin Weekend has also become synonymous with binge drinking and a certain amount of humiliation of "academic children", commonly involving embarrassing costumes or drinking games. The University Students' Association provides a special First Aid hotline for Raisin Weekend.<ref name="Raisin weekend youtube video 2012">{{cite web|author=|url=https://www.youtube.com/watch?v=JPMTuNYxe20 |title=Raisin Weekend 2012 – University of St Andrews |publisher=YouTube |date=31 March 2012 |accessdate=4 November 2012}}</ref>
+
+===Cobblestones===
+Situated around the town of St Andrews are cobblestone markings denoting where [[Protestant]] [[martyr]]s were burnt at the stake. To students, the most notable of these is the cobblestone initials "PH" located outside the main gate of St Salvator's College. These cobblestones denote where [[Patrick Hamilton (martyr)|Patrick Hamilton]] was martyred in 1528.<ref>{{cite web|url=http://reformationhistory.org/patrickhamilton.html|title=Reformation History|website=reformationhistory.org}}</ref> According to student tradition, stepping on the "PH" will cause a student to become cursed, with the effect that the offender will fail his or her degree and so students are known to jump over the cobblestones when passing. The 'curse' is said to be lifted by running backwards around St. Salvator's College 8 times while naked, or by participating in the May Dip.<ref>[http://www.st-andrews.ac.uk/about/UniversityChapels/ChapelofStSalvator/] {{webarchive|url=https://web.archive.org/web/20070609103751/http://www.st-andrews.ac.uk/about/UniversityChapels/ChapelofStSalvator/|date=9 June 2007}}</ref> [[File:St Andrews May Dip 2013.jpg|thumb|right|St Andrews May Dip 2013]]
+
+===May Dip===
+The May Dip is a student tradition held annually at dawn on [[May Day]]. Students usually stay awake until dawn, at which time they collectively run into the North Sea to the sound of [[madrigal (music)|madrigals]] sung by the University Madrigal Group.<ref>{{cite web |url=http://www.st-andrews.ac.uk/potw/2011/Name,67906,en.html |title=2011 &#124; University of St Andrews |publisher=University of St Andrews |date=5 May 2011 |accessdate=5 June 2012 |archive-url=https://web.archive.org/web/20120620100224/http://www.st-andrews.ac.uk/potw/2011/Name,67906,en.html |archive-date=20 June 2012 |dead-url=yes |df=dmy-all }}</ref> Students purportedly do so to cleanse themselves of any academic sins (which they may have acquired by stepping on the PH cobblestone) before they sit exams in May.<ref>{{cite web|url=http://www.visitstandrews.com/themaydip/|title=The May Dip|publisher=Visit St Andrews}}</ref> In 2011, the event was 'officially' moved by the Students' Association to East Sands in response to concerns for health and safety in its former location on Castle Sands.
+
+==Notable people==
+===Alumni===
+{{Main article|List of alumni of the University of St Andrews}} {{See also|Category:Alumni of the University of St Andrews}}
+
+<gallery mode="packed" heights="172">
+File:Rev Thomas Chalmers by Thomas Duncan, SNPG.JPG| [[Thomas Chalmers]]
+File:Edward Jenner2.jpg| [[Edward Jenner]]
+File:John Knox.jpg| [[John Knox]]
+File:John Napier (Neper).jpg| [[John Napier]]
+File:John Pringle.jpg| [[John Pringle (physician)|John Pringle]]
+File:JusticeJamesWilson.jpg| [[James Wilson]]
+</gallery>
+
+Notable University of St Andrews alumni include [[James II of Scotland|King James II of Scotland]]; [[United States Declaration of Independence]] signatory [[James Wilson]] (1761); [[Governor General of Canada]] [[John Campbell, 9th Duke of Argyll|John Campbell]]; discoverer of [[logarithms]] [[John Napier]] (1563); founder of the [[Church of Scotland]] and leader of the Protestant Reformation [[John Knox]] (1531); notable [[Leader of the Church of Scotland]] [[Thomas Chalmers]]; founder of and the first Chancellor of the [[University of Glasgow]] [[William Turnbull (bishop)|William Turnbull]]; founder of the [[University of Edinburgh]] [[Robert Reid (bishop)|Robert Reid]]; founder of the world's first commercial [[Trustee Savings Bank|savings bank]] [[Henry Duncan (minister)|Henry Duncan]] (1823); journalist and politician during the [[French Revolution]] [[Jean-Paul Marat]] (1775 MD); inventor of [[beta-blockers]], [[H2 receptor antagonists]] and [[Nobel Prize in Medicine]] winner [[James W. Black]] (1946 MB ChB); the 'father of military medicine' [[John Pringle (physician)|Sir John Pringle, 1st Baronet]]; pioneer of the [[smallpox vaccine]] [[Edward Jenner]] (1792 MD); [[Prince William, Duke of Cambridge]] (2005) and [[Catherine, Duchess of Cambridge]] (2005).
+
+[[File:All smiles Wedding of Prince William of Wales and Kate Middleton.jpg|upright|thumb|[[Prince William, Duke of Cambridge]] and [[Catherine, Duchess of Cambridge]] graduated together in 2005 with degrees in Geography and History of Art respectively.]]
+
+Alumni in the fields of academia and education have gone on to found the [[University of Melbourne Faculty of Medicine, Dentistry and Health Sciences|University of Melbourne Medical School]] ([[Anthony Brownless]]) and the [[Scottish Church College]] in [[Calcutta]] ([[Alexander Duff (missionary)|Alexander Duff]] was also the first Scottish missionary to India), become the first Regent and first Principal of the University of Edinburgh ([[Robert Rollock]]), Dean of [[Harvard Divinity School]] ([[David N. Hempton|David Hempton]]), the [[Vice-chancellor (education)|Vice Chancellors]] of [[Aberdeen University]] ([[Ian Diamond]]), [[University of Nottingham]] ([[Shearer West]]), [[Open University]] ([[Walter Perry]] was also the first Vice-Chancellor) and [[Sydney University]] ([[Gavin Brown (academic)|Gavin Brown]]), Chancellor of the [[University of Maine system]] ([[James H. Page]]), provost of [[Eton College]] ([[Eric Anderson (educator)|Eric Anderson]]), discoverer of the [[Berry Phase]] (Sir [[Michael Berry (physicist)|Michael Berry]]) and inventor of the [[Leslie cube]] [[John Leslie (physicist)|John Leslie]].
+
+In business and finance, St Andrews graduates have become the [[Chief executive officer|CEOs]] of multinational companies including the [[Bank of Scotland]] ([[Peter Burt]] was also the Chairman of [[ITV plc]]), [[BHP Billiton]] ([[Andrew Mackenzie (businessman)|Andrew Mackenzie]]), [[BP]] ([[Robert Horton (businessman)|Robert Horton]]), [[FanDuel]] ([[Nigel Eccles]] co-founded the company with fellow St Andrews graduate, Lesley Eccles),<ref>{{cite news|url=http://www.belfasttelegraph.co.uk/business/news/fanduel-tyrone-man-nigel-eccles-will-soon-be-northern-irelands-newest-billionaire-31394470.html|title=FanDuel: Tyrone man Nigel Eccles will soon be Northern Ireland's newest billionaire|work=The Belfast Telegraph|date=22 July 2015}}</ref> [[Rolls-Royce Holdings]] ([[John Rose (businessman)|John Rose]]), [[Royal Dutch Shell]] ([[Bob Reid (executive)|Robert Paul Reid]]), [[Tate & Lyle]] ([[Iain Ferguson (businessman)|Iain Ferguson]]) and [[The Royal Bank of Scotland Group]] ([[George Mathewson]]). Other notable businesspeople include Banker [[Olivier Sarkozy]], Director of the [[Edinburgh Festival Fringe]] [[Alistair Moffat]] and the CEO of [[Scottish Rugby Union]] and [[ATP World Tour Finals]] [[Phil Anderton]].
+
+[[File:AlexSalmondMSPS20111219.jpg|thumb|left| [[Alex Salmond]] was the [[First Minister of Scotland]] and leader of the [[Scottish National Party|SNP]] during the [[Scottish independence referendum, 2014|Scottish Independence Referendum in 2014.]]]]
+
+Former St Andrews students active in politics and national intelligence include two [[Chief of the Secret Intelligence Service|Chiefs of MI6]] [[Alex Younger]] and [[John Sawers]], two Deputy Directors of the [[Secret Intelligence Service]] (MI6), [[George Kennedy Young]] and [[J. M. Bruce Lockhart]], Secretary of State for Scotland [[Michael Forsyth, Baron Forsyth of Drumlean|Michael Forsyth]] (Forsyth also former Deputy Chairman of [[JP Morgan Chase|JP Morgan]]), former [[First Minister of Scotland]] and leader of the [[Scottish National Party|SNP]] for over 20 years [[Alex Salmond]], current [[Cabinet Secretary (United Kingdom)|Cabinet Secretary]] and Head of the Civil Service [[Mark Sedwill]], former [[Secretary of State for Defence]] [[Michael Fallon]], Deputy Leader of the [[Liberal Democrats (UK)|Liberal Democrats]] [[Malcolm Bruce]] and leader of the [[Christian Party (UK)|Christian Party]] [[George Hargreaves (politician)|James George Hargreaves]]. Outside of the UK, alumni include the [[Financial Secretary of Hong Kong]] credited with laying the foundations for Hong Kong's economic success [[John James Cowperthwaite]] and the first female cabinet minister in [[Egypt]] [[Hikmat Abu Zayd]]. Alumni have also gone on to serve as diplomats including [[Barbara Woodward]] (China), [[Anne Pringle]] (Russia) and [[Thomas Bruce, 7th Earl of Elgin|Thomas Bruce]] who is known for the removal of the [[Elgin Marbles]] from the [[Parthenon]].
+ 
+Alumni from the media and the arts include founder of ''[[Forbes]]'' magazine [[B. C. Forbes]], founder of ''[[The Week]]'' [[Jolyon Connell]], current [[Downing Street]] [[Director of Communications]] and former Controller of [[BBC World News]] [[Craig Oliver (British journalist)|Craig Oliver]], [[Political Editor]] of [[BBC Scotland]] [[Brian Taylor (journalist)|Brian Taylor]], [[BBC News]] Presenter [[Louise Minchin]], [[BBC Sport]] TV Presenter [[Hazel Irvine]], [[Primetime Emmy Award]] winning screenwriter [[David Butler (screenwriter)|David Butler]], [[Pulitzer Prize]] winning author [[James Michener]], feminist writer [[Fay Weldon]], musician [[The Pictish Trail]] and actors [[Siobhan Redmond]], [[Crispin Bonham-Carter]], [[Ian McDiarmid]] and [[Jonathan Taylor Thomas]].
+
+Other notable alumni include 'father of the [[Tax per head|poll tax]]' [[Douglas Mason]], founders of the [[Adam Smith Institute]], [[Madsen Pirie]] and [[Eamonn Butler]], former [[Lord Justice General]] [[William Cullen, Baron Cullen of Whitekirk|Lord Cullen]], two currently sitting members of the [[Inner House]], [[Ronald Mackay, Lord Eassie|Lord Eassie]] and [[Lynda Clark, Baroness Clark of Calton|Baroness Clark of Calton]], one of the leading figures in the formation of the [[United States Golf Association]] [[Charles B. Macdonald]] and captain of [[Tottenham Hotspur F.C.]] during its double-winning season [[Danny Blanchflower]].
+
+The university also boasts of a rich roll of honorary graduates whose members vary from [[Benjamin Franklin]] to [[Hillary Clinton]], from [[Bob Dylan]] to [[Arvo Pärt]], from [[Maggie Smith]] to [[Sean Connery]], from [[Nora K. Chadwick]] to [[Noam Chomsky]], from [[Joseph Stevenson]] to [[Lisa Jardine]], from [[Seamus Heaney]] to [[Bahram Beyzai]], from [[Georg Cantor]] to [[David Attenborough]].<ref>{{cite web|url=https://www.st-andrews.ac.uk/graduation/previous-graduation/honorary-graduates/|title=Honorary graduates - University of St Andrews|website=www.st-andrews.ac.uk}}</ref>
+
+===Academics===
+{{See also|Category:Academics of the University of St Andrews}}
+
+Notable University of St Andrews faculty include [[Nobel Prize in Medicine]] winner [[Maurice Wilkins]] (Lecturer in Physics 1945-46) and discoverer of [[herring bodies]] [[Percy Theodore Herring]] ([[Chandos Chair of Medicine and Anatomy]] 1908-1948). The [[Morris water navigation task]] was developed by [[Richard G. Morris|Richard Morris]] at the university's [[Gatty Marine Laboratory]].
+
+<!-- Please maintain alphabetical order -->
+{{Div col|colwidth=30em}}
+'''Anthropology'''
+*[[Paloma Gay y Blasco]]
+*[[Ladislav Holý]]
+*[[Peter Gow (anthropologist)|Peter Gow]]
+*[[Joanna Overing]] 
+
+'''Biology'''
+*[[Struther Arnott]]
+*[[Patrick Geddes]]
+*[[Adrian Horridge]]
+
+'''Business and Management'''
+*[[Meaghan Delahunt]]
+*[[Robert Gray (accountancy academic)|Robert Gray]]
+
+'''Chemistry'''
+*[[Peter Bruce]]
+*[[Rebecca Goss (chemist)|Rebecca Goss]]
+*[[Norman Haworth]]
+*[[James Irvine (chemist)|James Irvine]]
+*[[Russell E. Morris|Russell E Morris]]
+*[[James Naismith (chemist)|James H Naismith]]
+*[[Catherine Steele]]
+'''Classics'''
+*[[Walter Burkert]]
+*[[Lewis Campbell (classicist)|Lewis Campbell]]
+*[[Chris Carey]]
+*[[John Craig (classicist)|John Craig]]
+*[[James Donaldson (classical scholar)|James Donaldson]]
+*[[Stephen Halliwell (academic)|Stephen Halliwell]]
+*[[Wallace Lindsay]]
+*[[William Lorimer (scholar)|William Lorimer]]
+
+'''Computer Science'''
+*[[Jack Cole (scientist)|Jack Cole]]
+*[[Ian Gent]]
+
+'''Divinity'''
+*[[John Adamson (minister)|John Adamson]]
+*[[Mario Aguilar]]
+*[[Robert Arnot]]
+*[[Donald Macpherson Baillie]]
+*[[Robert Baron (theologian)|Robert Baron]]
+*[[Richard Bauckham]]
+*[[Matthew Black]]
+*[[Ian Bradley]]
+*[[David Brown (theologian)|David Brown]]
+*[[Thomas Chalmers]]
+*[[Nicol Dalgleish]]
+*[[Ivor Davidson]]
+*[[George Duncan (Biblical scholar)|George Duncan]]
+*[[Philip Esler]]
+*[[Timothy Gorringe]]
+*[[James Haldenston]]
+*[[Robert Halliday (bishop)|Robert Halliday]]
+*[[Daphne Hampson]]
+*[[Alexander Henderson (theologian)|Alexander Henderson]]
+*[[George Hill (minister)|George Hill]]
+*[[N. T. Wright|Nicholas Thomas Wright]]
+
+'''Economics'''
+*[[Ralph Harris, Baron Harris of High Cross]]
+
+'''Engineering'''
+*[[Angus Robertson Fulton]]
+
+'''English, Literature, and Poetry'''
+*[[Michael J. Alexander]]
+*[[Meg Bateman]]
+*[[John Burnside (writer)|John Burnside]]
+*[[Robert Crawford (Scottish poet)|Robert Crawford]]
+*[[Douglas Dunn]]
+*[[Roger Lancelyn Green]]
+*[[Robert Irwin (writer)|Robert Irwin]]
+*[[Kathleen Jamie]]
+*[[John Johnston (poet)|John Johnston]]
+*[[A. L. Kennedy]]
+*[[William Angus Knight]]
+*[[Don Paterson]]
+
+'''Languages and Linguistics'''
+*[[Peter Branscombe]]
+*[[George Hadow]]
+
+'''Geology'''
+*[[Christopher Hawkesworth]]
+
+'''History and Art History'''
+*[[G.W.S. Barrow]]
+*[[Robert Bartlett (historian)|Robert Bartlett]]
+*[[Paul Bibire]]
+*[[Michael Brown (historian)|Michael Brown]]
+*[[George Buchanan]]
+*[[Nora K. Chadwick]]
+*[[Barrie Dobson]]
+*[[Norman Gash]]
+*[[John Guy (historian)|John Guy]]
+*[[Robert Kerr Hannay]]
+*[[John Hudson (historian)|John Hudson]]
+*[[Martin Kemp (art historian)|Martin Kemp]]
+*[[John Philipps Kenyon]]
+*[[Alex Woolf]]
+*[[Tomasz Kamusella]]
+
+'''International Relations and Politics'''
+*[[Bruce Hoffman]]
+*[[John Lindsay of Balcarres, Lord Menmuir]]
+*[[Hew Strachan]]
+*[[David Veness]]
+*[[Paul Wilkinson (political scientist)|Paul Wilkinson]]
+
+'''Mathematics and Astronomy'''
+*[[John Couch Adams]]
+*[[Rosemary A. Bailey]]
+*[[Kenneth Falconer (mathematician)|Kenneth Falconer]]
+*[[Eric Priest]] 
+*[[James Gregory (mathematician)|James Gregory]]
+*[[John Mackintosh Howie]]
+*[[Douglas Samuel Jones]]
+*[[Peter Cameron (mathematician)|Peter Cameron]]
+
+'''Media and Film Studies'''
+*[[Dina Iordanova]]
+
+'''Medicine and Physiology'''
+*[[John Adamson (physician)|John Adamson]]
+*[[Oswald Taylor Brown]]
+*[[George Edward Day]]
+*[[Margaret Fairlie]]
+*[[John Forfar]]
+*[[Percy Theodore Herring]]
+*[[Robert Hunter (physician)|Robert Hunter]]
+*[[Joseph Fairweather Lamb]]
+
+'''Philosophy and Logic'''
+*[[Thomas Spencer Baynes]]
+*[[Piers Benn]]
+*[[C. D. Broad]]
+*[[Sarah Broadie]]
+*[[Herman Cappelen]]
+*[[Gershom Carmichael]]
+*[[Laurence Jonathan Cohen]]
+*[[James Main Dixon]]
+*[[James Drever]]
+*[[James Frederick Ferrier]]
+*[[John Joseph Haldane]]
+*[[Bob Hale (philosopher)|Bob Hale]]
+*[[Geoffrey Hunter (logician)|Geoffrey Hunter]]
+*[[Carrie Ichikawa Jenkins]]
+*[[Malcolm Knox]]
+*[[Graham Priest]]
+*[[John Skorupski]]
+*[[Crispin Wright]]
+
+'''Physics and Astronomy'''
+*[[H. Stanley Allen]]
+*[[John F. Allen]]
+*[[Adam Anderson (physicist)|Adam Anderson]]
+*[[Michael Berry (physicist)|Sir Michael Berry]]
+*[[David Brewster]]
+*[[Charles Coulson]]
+*[[Dirk ter Haar]]
+*[[Emilios T. Harlaftis]]
+*[[Alan Hood]]
+*[[Thomas F Krauss]]
+*[[Johannes Kuenen]]
+* [[Andrew P. Mackenzie]] [[Fellow of the Royal Society|FRS]]
+
+'''Psychology'''
+*[[W. Tecumseh Fitch|William Fitch]]
+*[[Kay Redfield Jamison]]
+*[[Malcolm Jeeves]]
+
+'''Zoology'''
+*[[Ian L. Boyd]]
+*[[H. G. Callan]]
+*[[William Thomas Calman]]
+{{div col end}}
+
+==In popular culture==
+The University of St Andrews has appeared in or been referenced by a number of popular media works, in film and literature.
+[[File:View of St Andrews from the West Sands.jpg|thumb|View of St Andrews from the West Sands.]]
+
+===Film===
+* West Sands Beach in St Andrews was used as a location for the film ''[[Chariots of Fire]]'' (1981), the scene, in which several of the main characters run along the beach, has become widely recognised and one of the most famous scenes in British film history.<ref name="Chariots of Fire Trivia">{{cite web|title=Chariots of Fire Trivia|url=https://uk.imdb.com/title/tt0082158/trivia|accessdate=1 January 2013|archive-url=https://web.archive.org/web/20120723220940/http://uk.imdb.com/title/tt0082158/trivia|archive-date=23 July 2012|dead-url=yes|df=dmy-all}}</ref><ref name="Chariots of fire beach">{{cite web|title=Chariots of fire beach|url=http://cinemastandrews.org.uk/production/release-of-chariots-of-fire/|accessdate=29 January 2013}}</ref>
+* The student hall, Andrew Melville Hall, was used for location shooting of the [[Never Let Me Go (2010 film)|2010 film adaptation]] of [[Kazuo Ishiguro]]'s novel, ''[[Never Let Me Go (novel)|Never Let Me Go]]'' starring [[Keira Knightley]].<ref>{{cite web|url=http://www.museyon.com/blog/2010/04/20/film-st-andrews-scotland/ |title=Film + St. Andrews, Scotland « MUSEYON GUIDES |publisher=Museyon.com |date= |accessdate=3 January 2013}}</ref>
+
+===Literature===
+* In [[Enid Blyton]]'s [[Malory Towers]] novel series, the main heroine Darrell Rivers plans to attend the University of St Andrews after [[Sixth Form]] with some of her fellow characters.<ref name="Last term at Malory Towers">{{cite web|title=Last term at Malory Towers|url=http://blytonlyobvious.blogspot.co.uk/2010/09/last-term-at-malory-towers-part-1.html|accessdate=17 January 2013}}</ref>
+* St Andrews appeared in [[Samuel Johnson]]'s [[Travel literature|travel narrative]] ''[[A Journey to the Western Islands of Scotland]]'' (1775), in which he visited the University.<ref name="Journey to west gutenberg">{{cite web|title=Journey to west gutenberg|url=http://www.gutenberg.org/ebooks/2064|accessdate=29 January 2013}}</ref>
+* [[Bruce Marshall]]'s romance novel, ''[[Girl in May]]'' (1956), is set in St Andrews.<ref name="Girl in May">{{cite web|title=Girl in May|url=https://www.kirkusreviews.com/book-reviews/bruce-marshall-4/girl-in-may/|accessdate=17 January 2013}}</ref>
+
+==See also==
+{{portal|Scotland|University}}
+{{div col}}
+* [[:Category:Academics of the University of St Andrews]]
+* [[Chancellor of the University of St Andrews]]
+* [[St Andrews Cathedral]]
+* [[List of medieval universities]]
+* [[Gaudy]]
+* [[Town and gown]]
+{{div col end}}
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+* R.G. Cant ''The University of St Andrews, A Short History'' (Oliver and Boyd Ltd. 1946)
+
+==External links==
+{{Sister project links|wikt=no|b=no|v=no|commons=Category:University of St Andrews}}
+* [http://www.st-andrews.ac.uk/ Official website]
+* [http://www.yourunion.net/ University of St Andrews Students' Association Website]
+* [http://research-repository.st-andrews.ac.uk/ Research@StAndrews:FullText], the university's digital repository of research output
+* BBC Your Paintings, [https://web.archive.org/web/20151017020735/http://www.bbc.co.uk/arts/yourpaintings/galleries/collections/university-of-st-andrews-1652 Public Catalogue Foundation]
+
+{{University of St Andrews|state=expanded}}
+{{Navboxes|list1=
+{{St Andrews}}
+{{Universities in Scotland}}
+{{Universities in the United Kingdom}}
+{{Europaeum}}
+}}
+
+{{Use dmy dates|date=July 2017}}
+
+{{DEFAULTSORT:St Andrews, University Of}}
+[[Category:University of St Andrews| ]]
+[[Category:1413 establishments in Scotland]]
+[[Category:Education in Fife]]
+[[Category:Educational institutions established in the 15th century]]
+[[Category:Universities in Scotland]]
+[[Category:15th-century establishments in Scotland]]

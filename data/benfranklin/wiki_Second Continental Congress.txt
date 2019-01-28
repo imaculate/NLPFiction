@@ -1,0 +1,115 @@
+{{pp-pc1|expiry=December 4, 2019}}
+{{Use mdy dates|date=April 2011}}
+{{Infobox legislature
+| name          =  Second Continental Congress
+| coa_pic       = 
+| coa_res       = 300px
+| coa_caption   =
+| legislature   = [[Thirteen Colonies]] <br> [[United States]]
+| house_type    = [[Unicameral]]
+| members       = Variable; ~60
+| meeting_place = mainly at [[Independence Hall|Pennsylvania State House]], [[Philadelphia, Pennsylvania|Philadelphia]], [[Pennsylvania]] <br> from December 1776 to July 1778 various locations,<br> see [[#Dates and places of sessions|below]]
+| established   = {{start date and age|1775|5|10}}
+| disbanded     = {{end date|1781|3|1}}
+| preceded_by   = [[First Continental Congress]]
+| succeeded_by  = [[Congress of the Confederation|1st Confederation Congress]]
+|leader1_type=[[President of the Continental Congress|President of Congress]]
+|leader1=[[Peyton Randolph]] (first)<br>[[Samuel Huntington (statesman)|Samuel Huntington]] (last)
+|leader2_type=Secretary
+|leader2=[[Charles Thomson]]
+|authority=[[President of the Continental Congress]]
+| footnotes     = There were about 50 members of the Congress at any given time, but it was the colonies themselves that had voting privileges so there were effectively only 13 seats.
+}}
+
+The '''Second Continental Congress''' was a convention of delegates from the [[Thirteen Colonies]] that started meeting in the spring of 1775 in [[Philadelphia]], [[Pennsylvania]]. It succeeded the [[First Continental Congress]], which met in Philadelphia between September 5, 1774, and October 26, 1774. The Second Congress managed the Colonial war effort and moved incrementally towards independence. It eventually adopted the [[Lee Resolution]] which established the new country on July 2, 1776, and it agreed to the [[United States Declaration of Independence]] on July 4, 1776. The Congress acted as the ''de facto'' national government of the United States by raising armies, directing strategy, appointing diplomats, and making formal treaties such as the [[Olive Branch Petition]].<ref>Cogliano, ''Revolutionary America, 1763–1815'', p. 113</ref>
+
+The Second Continental Congress came together on May 11, 1775, effectively reconvening the First Continental Congress. Many of the 56 delegates who attended the first meeting were in attendance at the second, and the delegates appointed the same [[President of the Continental Congress|president]] ([[Peyton Randolph]]) and secretary ([[Charles Thomson]]).<ref>Burnett, ''Continental Congress'', pp. 64–67</ref> Notable new arrivals included [[Benjamin Franklin]] of Pennsylvania and [[John Hancock]] of Massachusetts.  Within two weeks, Randolph was summoned back to Virginia to preside over the [[House of Burgesses]]; he was replaced in the Virginia delegation by [[Thomas Jefferson]], who arrived several weeks later. [[Henry Middleton]] was elected as president to replace Randolph, but he declined. Hancock was elected president on May 24.<ref>Fowler, ''Baron of Beacon Hill'', p. 189</ref>
+
+[[List of delegates to the Continental Congress|Delegates]] from twelve of the Thirteen Colonies were present when the Second Continental Congress convened. [[Province of Georgia|Georgia]] had not participated in the First Continental Congress and did not initially send delegates to the Second. On May 13, 1775, [[Lyman Hall]] was admitted as a delegate from the Parish of St. John's in the Colony of Georgia, not as a delegate from the colony itself.<ref>{{cite book| year=1904–1939| title=Journals of the Continental Congress, 1774–1789| editor=Worthington C. Ford, ''et al.''| pages=2:44–48| location=[[Washington, DC]]| url=http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(jc0028))}}</ref> On July 4, 1775, revolutionary Georgians held a [[Provincial Congress]] to decide how to respond to the [[American Revolution]], and that congress decided on July 8 to send delegates to the Continental Congress. They arrived on September 13.<ref>{{cite book| title=ibid| pages=2:240| url=http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(jc00278))}}</ref>
+
+==History==
+{{refimprove section|date=May 2013}}
+{{Continental Congress}}
+The First Continental Congress had sent entreaties to [[George III of the United Kingdom|King George III]] to stop the [[Coercive Acts]]; they had also created the [[Continental Association]] to establish a coordinated protest of those acts, putting a boycott on British goods. The Second Continental Congress met on May 10, 1775 to plan further responses if the British government had not repealed or modified the acts; however, the [[American Revolutionary War]] had already started by that time with the [[Battles of Lexington and Concord]], and the Congress was called upon to take charge of the war effort. 
+
+For the first few months of the war, the [[Patriot (American Revolution)|Patriots]] carried on their struggle in an ad-hoc and uncoordinated manner. They had seized arsenals, driven out royal officials, and besieged the British army in the city of Boston. On June 14, 1775, the Congress voted to create the [[Continental Army]] out of the [[Militia (United States)|militia]] units around Boston and appointed [[George Washington]] of Virginia as commanding general.<ref>Cogliano, ''Revolutionary America, 1763–1815'', p. 59</ref> On July 6, 1775, Congress approved a [[Declaration of the Causes and Necessity of Taking Up Arms|Declaration of Causes]] outlining the rationale and necessity for taking up arms in the [[Thirteen Colonies]].<ref>[http://colet.uchicago.edu/cgi-bin/amarch/getdoc.pl?/projects/artflb/databases/efts/AmArch/IMAGE/.5774 Find Documents: Results<!-- Bot generated title -->]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> On July 8, they extended the [[Olive Branch Petition]] to the [[British Crown]] as a final attempt at reconciliation; however, it was received too late to do any good. [[Silas Deane]] was sent to France as a minister (ambassador) of the Congress, and American ports were reopened in defiance of the British [[Navigation Acts]].
+
+The Continental Congress had no explicit legal authority to govern,<ref>Bancroft, Ch. 34, p. 353 [http://www.hti.umich.edu/cgi/t/text/pageviewer-idx?c=moa;cc=moa;rgn=full%20text;idno=AAN2921.0007.001;didno=AAN2921.0007.001;view=image;seq=00000363 (online)]</ref> but it assumed all the functions of a national government, such as appointing ambassadors, signing treaties, raising armies, appointing generals, obtaining loans from Europe, issuing paper money (called "[[Early American currency#Continental currency|Continentals]]"), and disbursing funds. The Congress had no authority to levy taxes and was required to request money, supplies, and troops from the states to support the war effort. Individual states frequently ignored these requests.
+[[File:Washington promotion by Continental Congress.jpg|left|200px|thumb|1876 Currier & Ives printing of Washington being promoted to commanding general]]
+Congress was moving towards declaring independence from the British Empire in 1776, but many delegates lacked the authority from their home governments to take such a drastic action. Advocates of independence moved to have reluctant colonial governments revise instructions to their delegations, or even replace those governments which would not authorize independence. On May 10, 1776, Congress passed a resolution recommending that any colony with a government that was not inclined toward independence should form one that was. On May 15, they adopted a more radical preamble to this resolution, drafted by [[John Adams]], which advised throwing off oaths of allegiance and suppressing the authority of the Crown in any colonial government that still derived its authority from the Crown. That same day, the [[Fifth Virginia Convention|Virginia Convention]] instructed its delegation in Philadelphia to propose a resolution that called for a declaration of independence, the formation of foreign alliances, and a confederation of the states. The [[resolution of independence]] was delayed for several weeks, as advocates of independence consolidated support in their home governments.
+
+[[File:Independence Hall Assembly Room.jpg|thumb|left|The Assembly Room in Philadelphia's [[Independence Hall (United States)|Independence Hall]] where the Second Continental Congress adopted the Declaration of Independence]]
+
+On June 7, 1776, [[Richard Henry Lee]] offered a resolution before the Congress declaring the colonies independent. He also urged Congress to resolve "to take the most effectual measures for forming foreign Alliances" and to prepare a plan of confederation for the newly independent states.<ref name="DoI-World">''[http://maghis.oxfordjournals.org/content/18/3/61.full The Declaration of Independence in World Context]'', [[Organization of American Historians]], ''Magazine of History'', Volume18, Issue 3, pp. 61–66 (2004)</ref> Lee argued that independence was the only way to ensure a foreign alliance, since no European monarchs would deal with America if they remained Britain's colonies. American leaders had rejected the [[divine right of kings]] in the [[New World]], but recognized the necessity of proving their credibility in the [[Old World]].<ref>Howard Jones, [https://books.google.com/books?hl=en&id=TFyLOUrdGFwC&dq=crucible+of+power&printsec=frontcover&source=web&ots=R5McHMJ2SJ&sig=-Q3JyWkBZhwvwE9HDCiUfWf8oJ8&sa=X&oi=book_result&resnum=3&ct=result#v=onepage&q=Model%20Treaty&f=false Crucible of power: a history of American foreign relations to 1913]</ref> Congress formally adopted the [[resolution of independence]], but only after creating three overlapping committees to draft the Declaration, a [[Model Treaty]], and the [[Articles of Confederation]]. The Declaration announced the states' entry into the international system; the model treaty was designed to establish amity and commerce with other states; and the Articles of Confederation established "a firm league" among the thirteen free and independent states. These three things together constituted an international agreement to set up central institutions for conducting vital domestic and foreign affairs.<ref name="DoI-World"/>
+
+[[File:CityTavern-Philly.png|thumb|right|upright=0.9|The present-day replica of [[City Tavern]] in Philadelphia, the delegates' favorite place to eat and meet informally<ref>Staib, Walter.  ''City Tavern Cookbook: 200 Years of Classic Recipes from America's First Gourmet Restaurant,'' pp. 5, 11–15, Running Press, Philadelphia, London, 1999. {{ISBN|0-7624-0529-5}}.</ref><ref>Staib, Walter.  ''City Tavern Baking & Dessert Cookbook: 200 Years of Authentic American Recipes from Martha Washington's Chocolate Mousse Cake to Thomas Jefferson's Sweet Potato Biscuits'', pp. 8–10, 14–15, Running Press, Philadelphia, London, 2003.  {{ISBN|0-7624-1554-1}}.</ref>]]
+Congress finally approved the resolution of independence on July 2, 1776. They next turned their attention to a formal explanation of this decision, the [[United States Declaration of Independence]] which was approved on July 4 and published soon thereafter.
+
+The Congress moved from Philadelphia to Baltimore in the winter of 1776 to avoid capture by British forces who were advancing on Philadelphia. [[Henry Fite House|Henry Fite's tavern]] was the largest building in Baltimore Town at the time and provided a comfortable location of sufficient size for Congress to meet. Its site at the western edge of town was beyond easy reach of the British [[Royal Navy]]'s ships should they try to sail up the [[Helen Delich Bentley Port of Baltimore|harbor]] and the [[Patapsco River]] to shell the town. Congress was again forced to flee Philadelphia at the end of September 1777, as British troops [[Philadelphia campaign|occupied the city]]; they moved to [[York, Pennsylvania]] and continued their work.  
+
+Congress passed the [[Articles of Confederation]] on November 15, 1777, after more than a year of debate, and sent them to the states for ratification. Jefferson's proposal for a Senate to represent the states and a House to represent the people was rejected, but a similar proposal was adopted later in the [[United States Constitution]]. One issue of debate was large states wanting a larger say, nullified by small states who feared tyranny. The small states won and each state had one vote.<ref>Miller (1948) ch. 22</ref> Congress urged the individual states to pass the Articles as quickly as possible, but it took three and a half years for all the states to ratify them. The State Legislature of Virginia was the first of the Thirteen States to ratify the Articles on December 16, 1777, and the State Legislature of Maryland was the last on February 2, 1781.
+
+==Dates and places of sessions==
+* May 10, 1775 – December 12, 1776, [[Independence Hall|Pennsylvania State House]], [[Philadelphia, Pennsylvania]]
+* December 20, 1776 – February 27, 1777, [[Henry Fite House]], [[Baltimore, Maryland]]
+* March 5, 1777 – September 18, 1777, Pennsylvania State House, Philadelphia
+* September 27, 1777 (one day only), Court House, [[Lancaster, Pennsylvania]]
+* September 30, 1777 – June 27, 1778, Court House, [[York, Pennsylvania]]
+* July 2, 1778 – July 20, 1778, College Hall, Philadelphia
+* July 21, 1778 – March 1, 1781, Pennsylvania State House, Philadelphia
+
+==See also==
+* [[History of the United States (1776–1789)]]
+* [[Timeline of United States revolutionary history (1760–1789)]]
+* [[List of delegates to the Continental Congress]]
+* [[President of the Continental Congress|Presidents of the Continental Congress]]
+* ''[[Declaration of Independence (Trumbull)|Declaration of Independence]]'', 1819 painting by [[John Trumbull]]
+
+==References==
+;Footnotes
+{{reflist|30em}}
+
+===Bibliography===
+* {{Cite book |title=The Continental Congress |last=Burnett |first=Edward Cody |authorlink= |coauthors= |year=1941 |publisher=Norton |location=New York |isbn= }}
+* {{Cite book |title=The Baron of Beacon Hill: A Biography of John Hancock |last=Fowler |first=William M., Jr. |authorlink= |coauthors= |year=1980 |publisher=Houghton Mifflin |location=Boston |isbn=0-395-27619-5 }}
+
+==Further reading==
+* Adams, Willi Paul. ''The First American Constitutions: Republican Ideology and the Making of the State Constitutions in the Revolutionary Era.'' U. of North Carolina Press, 1980. {{ISBN|0-7425-2069-2}}
+* Francis D. Cogliano, ''Revolutionary America, 1763-1815: A Political History.'' London: 2000. {{ISBN|0-415-18057-0}}
+* Worthington C. Ford, et al. ed. ''Journals of the Continental Congress, 1774–1789.'' (34 vol., 1904–1937) [http://memory.loc.gov/ammem/amlaw/lwjclink.html online edition]
+* {{Cite book| first=H. James| last=Henderson| title=Party Politics in the Continental Congress| origyear=1974| year=2002| publisher=Rowman & Littlefield| isbn=0-8191-6525-5}}
+* Peter Force, ed. ''American Archives'' 9 vol 1837-1853, major compilation of documents 1774-1776. [https://web.archive.org/web/20070206214032/http://dig.lib.niu.edu/amarch/index.html online edition]
+* Kruman, Marc W. ''Between Authority and Liberty: State Constitution Making in Revolutionary America.'' U. of North Carolina Pr., 1997. {{ISBN|0-8078-4797-6}}
+* Maier, Pauline. ''American Scripture: Making the Declaration of Independence'' (1998)
+* Miller, John C. ''Triumph of Freedom, 1775-1783'' (1948) {{ISBN|0-313-20779-8}}
+* {{Cite book| first=Lynn| last=Montross| title=The Reluctant Rebels; the Story of the Continental Congress, 1774–1789| origyear=1950| year=1970| publisher=Barnes & Noble| isbn=0-389-03973-X}}
+* Rakove, Jack N. ''The Beginnings of National Politics: An Interpretive History of the Continental Congress.'' Knopf, 1979. {{ISBN|0-8018-2864-3}}
+
+==External links==
+* [http://memory.loc.gov/ammem/amlaw/lwjclink.html Full text of ''Journals of the Continental Congress, 1774–1789'']
+* [http://memory.loc.gov/ammem/amlaw/lwdg.html Letters of Delegates to Congress, 1774-1789]
+* [http://www.quiz-tree.com/Declaration-of-Independence-Trumbull.html Interactive Flash Version of John Trumbull's ''Declaration of Independence'']
+
+<!--Templates-->
+{{S-start}}
+{{Succession box
+| title  = Legislature of the United States
+| before = [[First Continental Congress]]
+| years  = May 10, 1775 – March 1, 1781
+| after  = [[Congress of the Confederation]]}}
+{{S-end}}
+
+{{Pennsylvania during the American Revolutionary War}}
+{{Historical American Documents}}
+{{Location of US capital}}
+{{USAConfGov}}
+{{Presidents of the Continental Congress}}
+{{Authority control}}
+
+[[Category:1775 establishments in the Thirteen Colonies]]
+[[Category:1781 disestablishments in the United States]]
+[[Category:Continental Congress|*]]
+[[Category:History of Philadelphia]]
+[[Category:History of Lancaster, Pennsylvania]]
+[[Category:Provisional governments]]
+[[Category:United States Declaration of Independence]]

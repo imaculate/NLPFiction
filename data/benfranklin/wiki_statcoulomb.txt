@@ -1,0 +1,80 @@
+{{Unreferenced|date=December 2009}}
+{{Infobox unit
+| name         = Statcoulomb
+| image        = 
+| caption      = 
+| standard     = [[Centimetre–gram–second system of units#Electrostatic units .28ESU.29|esu-cgs]], [[Gaussian units|Gaussian]]
+| quantity     = [[electrical charge]]
+| symbol       = statC
+| symbol2      = Fr, esu
+| namedafter   = 
+| extralabel   = 
+| extradata    = 
+| units1       = [[International System of Units|SI]] (charge)
+| inunits1     = ~{{val|3.33564|e=-10|ul=C}}
+| units2       = [[International System of Units|SI]] (flux)
+| inunits2     = ~{{val|2.65|e=-11|ul=C}}
+| units3       = CGS base units
+| inunits3     = 1 statC = g<sup>1/2</sup> cm<sup>3/2</sup> s<sup>−1</sup>
+}}
+The '''statcoulomb''' ('''statC''') or '''franklin''' ('''Fr''') or '''electrostatic unit of charge''' ('''esu''') is the [[units of measurement|physical unit]] for [[electrical charge]] used in the [[Centimetre–gram–second system of units#Electrostatic units .28ESU.29|esu-cgs (centimetre–gram–second system of units)]] and [[Gaussian units]]. It is a derived unit given by
+: 1 statC = dyn<sup>1/2</sup> cm = cm<sup>3/2</sup> g<sup>1/2</sup> s<sup>−1</sup>.
+It can be converted using
+: 1 newton = 10<sup>5</sup> dyne
+: 1 cm = 10<sup>−2</sup> m
+
+The [[International System of Units|SI]] system of units uses the [[coulomb]] (C) instead. The conversion between C and statC is different in different contexts. The most common contexts are:
+
+* For [[electric charge]]: 
+*: 1 C ↔ {{val|2997924580|u=statC}} ≈ {{val|3.00|e=9|u=statC}}
+*: ⇒ 1 statC ↔ ~{{val|3.33564|e=-10|u=C}}.
+* For [[electric flux]] (Φ<sub>D</sub>): 
+*: 1 C ↔ 4π × {{val|2997924580|u=statC}} ≈ {{val|3.77|e=10|u=statC}}
+*: ⇒ 1 statC ↔ ~{{val|2.65|e=-11|u=C}}.
+
+The symbol "↔" is used instead of "=" because the two sides are not necessarily interchangeable, as discussed [[#Dimensional relation between Statcoulomb and Coulomb|below]]. The number {{Gaps|2|997|924|580}} is 10 times the value of the [[speed of light]] expressed in meters/second, and the conversions are ''exact'' except where indicated.  The second context implies that the [[SI]] and [[centimetre gram second system of units|cgs]] units for an [[electric displacement field]] (D) are related by:
+
+:1 C/m<sup>2</sup> ↔ 4π × {{val|2997924580|e=-4|u=statC/cm<sup>2</sup>}} ≈ {{val|3.77|e=6|u=statC/cm<sup>2</sup>}}
+: ⇒ 1 statC/cm<sup>2</sup> ↔ ~{{Val|2.65|e=-7|u=C/m<sup>2</sup>}}
+
+due to the relation between the [[metre]] and the [[centimetre]].  The coulomb is an extremely large charge rarely encountered in electrostatics, while the statcoulomb is closer to everyday charges.
+
+==Definition and relation to cgs base units==
+The statcoulomb is defined as follows: if two stationary objects each carry a charge of 1 statC and are {{val|1|u=cm}} apart, they will electrically repel each other with a force of 1 [[dyne]]. This repulsion is governed by [[Coulomb's law]], which in the [[Gaussian units|Gaussian-cgs system]] states:
+:<math>F=\frac{q_1q_2}{r^2}</math>
+where ''F'' is the force, ''q''<sub>1</sub> and ''q''<sub>2</sub> are the two charges, and ''r'' is the distance between the charges. Performing [[dimensional analysis]] on Coulomb's law, the dimension of [[electrical charge]] in cgs must be [mass]<sup>1/2</sup> [length]<sup>3/2</sup> [time]<sup>−1</sup>. (This statement is ''not'' true in [[SI]] units; see below.) We can be more specific in light of the definition above: Substituting ''F'' = 1 dyn, ''q''<sub>1</sub> = ''q''<sub>2</sub> = 1 statC, and ''r'' = 1&nbsp;cm, we get:
+: 1 statC = g<sup>1/2</sup> cm<sup>3/2</sup> s<sup>−1</sup>
+as expected.
+
+==Dimensional relation between Statcoulomb and Coulomb==
+{{off topic|Gaussian units #Major differences between Gaussian and SI units|date=February 2013}}
+
+===General incompatibility===
+[[Coulomb's law]] in [[Gaussian units|cgs-Gaussian unit system]] and [[SI]] are respectively:
+:<math>F=\frac{q_1q_2}{r^2}</math> (cgs-Gaussian)
+:<math>F=\frac{q_1q_2}{4\pi\epsilon_0 r^2}</math> (SI)
+Since ''ε''<sub>0</sub>, the [[vacuum permittivity]], is ''not'' dimensionless, the [[coulomb]] (the SI unit of charge) is '''not''' dimensionally equivalent to [mass]<sup>1/2</sup> [length]<sup>3/2</sup> [time]<sup>−1</sup>, unlike the statcoulomb. In fact, it is impossible to express the coulomb in terms of mass, length, and time alone.
+
+Consequently, a conversion equation like "1 C = N statC" can be misleading: the units on the two sides are not consistent. One ''cannot'' freely switch between coulombs and statcoulombs within a formula or equation, as one would freely switch between centimeters and meters. One can, however, find a ''correspondence'' between coulombs and statcoulombs in different contexts. As described below, "1 C ''corresponds to'' {{Val|3.00|e=9|u=statC}}" when describing the charge of objects. In other words, if a physical object has a charge of 1 C, it also has a charge of {{Val|3.00|e=9|u=statC}}. Likewise, "1 C ''corresponds to'' {{Val|3.77|e=10|u=statC}}" when describing an [[electric displacement field]] flux.
+
+===As a unit of charge===
+The statcoulomb is defined as follows: If two stationary objects each carry a charge of 1 statC and are 1&nbsp;cm apart in vacuum, they will electrically repel each other with a force of 1 [[dyne]]. From this definition, it is straightforward to find an equivalent charge in [[SI]] [[coulomb]]s. Using the [[SI]] equation
+:<math>F=\frac{q_1q_2}{4\pi\epsilon_0 r^2}</math> (SI),
+and plugging in F = 1 dyn = 10<sup>−5</sup> N, and r = 1&nbsp;cm = 10<sup>−2</sup> m, and then solving for ''q'' = ''q''<sub>1</sub> = ''q''<sub>2</sub>, the result is ''q'' = (1/2997924580)C ≈ {{Val|3.34|e=-10|u=C}}. Therefore, an object with a charge of 1 statC has a charge of {{Val|3.34|e=-10|u=C}}.
+
+This can also be expressed by the following conversion, which is fully dimensionally consistent, and often useful for switching between SI and cgs formulae:
+:<math>1 \; \mathrm{C}{\sqrt{ \tfrac{10^{9}}{4 \pi\epsilon_0}}} = 2997924580 \; \mathrm{statC}</math>
+
+===As a unit of electric displacement field or flux===
+An [[electric flux]] (specifically, a flux of the [[electric displacement field]] '''D''') has units of charge: statC in cgs and coulombs in SI. The conversion factor can be derived from [[Gauss's law]]:
+:<math>\Phi_D = 4\pi Q</math> (cgs)
+:<math>\Phi_D = Q</math> (SI)
+where
+:<math>\Phi_D \equiv \int_S \mathbf{D}\cdot \mathrm{d}\mathbf{A}</math>
+Therefore, the conversion factor for flux is 4π different from the conversion factor for charge:
+:<math>1 \; \mathrm{C} \text{ corresponds to } 3.7673 \times 10^{10} \; \mathrm{statC}</math> (as unit of Φ<sub>D</sub>).
+The dimensionally consistent version is:
+:<math>1 \; \mathrm{C}{\sqrt{\tfrac{4 \pi  10^{9}}{\epsilon_0}}} = 3.7673 \times 10^{10} \; \mathrm{statC}</math> (as unit of Φ<sub>D</sub>)
+
+[[Category:Units of electrical charge]]
+[[Category:Centimetre–gram–second system of units]]

@@ -1,0 +1,195 @@
+{{for|the related instrument|Glass harp}}
+{{Distinguish|Jal tarang}}
+[[File:ThomasBlochHandsGlassharmonica low notes on left and high notes on right.jpg|right|thumb|300px|Spinning glass disks (bowls) on a common shaft are arranged with the lower notes (larger disks) to the left and higher notes (smaller disks) to the right.]]
+
+The '''glass harmonica''', also known as the '''glass armonica''', '''glass harmonium''', '''bowl organ''', '''hydrocrystalophone''', or simply the '''armonica''' or '''harmonica''' (derived from {{lang|grc|ἁρμονία}}, ''harmonia'', the [[Greek language|Greek]] word for harmony),<ref>{{OEtymD|harmonica}} {{OEtymD|harmonic}}</ref><ref>{{LSJ|a(rmoni/a|ἁρμονία|ref}}.</ref> is a type of [[musical instrument]] that uses a series of [[glass]] [[bowl (vessel)|bowls]] or goblets graduated in size to produce musical [[pitch (music)|tones]] by means of [[friction]] (instruments of this type are known as [[friction idiophone]]s).
+
+==Names==
+[[File:glass.harmonica.in.rome.arp.jpg|upright|thumb|right|A [[glass harp]], an ancestor of the glass armonica, being played in [[Rome]]. The rims of [[wine glass]]es filled with water are rubbed by the player's fingers to create the notes.]]
+The name "glass harmonica" (also "glass armonica", "glassharmonica"; ''harmonica de verre'', ''harmonica de Franklin'', ''armonica de verre'', or just ''harmonica'' in French; ''Glasharmonika'' in German; ''harmonica'' in Dutch) refers today to any instrument played by rubbing glass or crystal goblets or bowls. The alternate instrument consisting of a set of wine glasses (usually tuned with water) is generally known in English as "musical glasses" or the "[[glass harp]]".
+
+When [[Benjamin Franklin]] invented his mechanical version of the instrument in 1761, he called it the armonica, based on the Italian word ''armonia'', which means "harmony".<ref>Sibyl Marcuse, "Armonica", ''Musical Instruments: A Comprehensive Dictionary'', corrected edition (New York: W. W. Norton & Company, inc., 1975).</ref><ref>{{Citation
+ | last = Franklin
+ | first = Benjamin
+ | title = How Franklin Invented the Armonica and How to Build One
+ | date =Jul 13, 1762
+ | url = http://glassarmonica.com/armonica/franklin_correspondence/1.html
+ | access-date = Nov 5, 2015}}
+Letter written by Franklin in 1762
+</ref>
+The unrelated free-reed wind instrument aeolina, today called the "[[harmonica]]", was not invented until 1821, sixty years later.
+
+The word "hydrodaktulopsychicharmonica" is also recorded, composed of [[Greek language|Greek roots]] to mean something like "harmonica to produce music for the soul by fingers dipped in water" (''hydro-'' for "water", ''daktul-'' for "finger", ''psych-'' for "soul").<ref>Ian Crofton (2006) "Brewer's Cabinet of Curiosities," {{ISBN|0-304-36801-6}}</ref> The ''[[Oxford Companion to Music]]'' mentions that this word is "the longest section of the Greek language ever attached to any musical instrument, for a reader of ''[[The Times]]'' wrote to that paper in 1932 to say that in his youth he heard a performance of the instrument where it was called a ''hydrodaktulopsychicharmonica''."<ref>As quoted from the 1970 edition of the ''Companion'' by a [http://www.glassarmonica.com/armonica/history/musicalglasses/mgvarious.php Glasssharmonica.com webpage] {{webarchive|url=https://web.archive.org/web/20080119055214/http://www.glassarmonica.com/armonica/history/musicalglasses/mgvarious.php |date=2008-01-19 }}</ref> The [[Museum of Music]] in Paris displays a hydrodaktulopsychicharmonica.<ref>[http://tf1.lci.fr/infos/france/2003/0,,1030459,00-musees-fetent-printemps-.html  "Museums celebrate spring"] {{Webarchive|url=https://web.archive.org/web/20090111123218/http://tf1.lci.fr/infos/france/2003/0,,1030459,00-musees-fetent-printemps-.html |date=2009-01-11 }} {{fr icon}}</ref>
+
+==Forerunners==
+Because its sounding portion is made of glass, the glass harmonica is a type of [[crystallophone]]. The phenomenon of rubbing a wet finger around the rim of a wine goblet to produce tones is documented back to [[Renaissance]] times; [[Galileo]] considered the phenomenon (in his ''Two New Sciences''), as did [[Athanasius Kircher]].
+
+The Irish musician [[Richard Pockrich (inventor)|Richard Pockrich]] is typically credited as the first to play an instrument composed of glass vessels (glass harp) by rubbing his fingers around the rims.<ref name=Bloch>{{cite web | last = Bloch | first = Thomas | title = GFI Scientific glass blowing products and services: THE GLASSHARMONICA | url = http://www.finkenbeiner.com/gh.html | date = 2009-01-30 | access-date = 2016-06-05}}</ref> Beginning in the 1740s, he performed in London on a set of upright goblets filled with varying amounts of water. His career was cut short by a fire in his room, which killed him and destroyed his apparatus.{{citation needed|date=July 2015}}
+
+Edward Delaval, a friend of Benjamin Franklin and a fellow of the [[Royal Society]], extended the experiments of Pockrich, contriving a set of glasses better tuned and easier to play.<ref name="autogenerated2000">Brands, H. W. (2000) "The First American: The Life and Times of Benjamin Franklin" First Anchor Books Edition, March 2002 {{ISBN|0-385-49540-4}}</ref> During the same decade, [[Christoph Willibald Gluck]] also attracted attention playing a similar instrument in England.
+
+==Franklin's harmonica==
+[[File:Glassarmonica.jpg|left|thumb|A modern glass armonica built using Benjamin Franklin's design]]
+[[Benjamin Franklin]] invented a radically new arrangement of the glasses in 1761 after seeing water-filled wine glasses played by Edmund Delaval at [[Cambridge]] in England in May 1761.<ref>{{cite web|url=http://www.bbc.co.uk/radio4/musicfeature/pip/k8ko2/ |title=Downloadable Broadcast on BBC Radio 4 Adam Hart Davis on the ''Angelic Organ of Evil'' |publisher=Bbc.co.uk |date= |accessdate=2018-11-20}}</ref> Franklin worked with London glassblower Charles James to build one, and it had its world premiere in early 1762, played by [[Marianne Davies]].
+
+Writing to his friend Giambatista Beccaria in Turin, Italy, Franklin wrote from London in 1762 about his musical instrument:
+"The advantages of this instrument are, that its tones are incomparably sweet beyond those of any other; that they may be swelled and softened at pleasure by stronger or weaker pressures of the finger, and continued to any length; and that the instrument, being well tuned, never again wants tuning. In honour of your musical language, I have borrowed from it the name of this instrument, calling it the Armonica."<ref>{{cite web|url=http://www.americanmusicpreservation.com/BenjaminFranklinGlassArmonica.htm|title=Benjamin Franklin and his Glass Armonica|author=|date=|website=www.americanmusicpreservation.com|accessdate=6 April 2018}}</ref>
+
+In Franklin's treadle-operated version, 37 bowls were mounted horizontally on an iron spindle. The whole spindle turned by means of a foot pedal. The sound was produced by touching the rims of the bowls with water-moistened fingers. Rims were painted different colors according to the pitch of the note: A  (dark blue), B (purple), C (red), D (orange), E (yellow), F (green), G (blue), and [[Accidental (music)|accidentals]] were marked in white.<ref>[http://www.historycarper.com/resources/twobf3/letter3.htm The Writings of Benjamin Franklin, Volume III: London, 1757–1775 – Faults in Songs] {{webarchive|url=https://web.archive.org/web/20081206142907/http://www.historycarper.com/resources/twobf3/letter3.htm |date=2008-12-06 }}</ref> With the Franklin design, it is possible to play ten glasses simultaneously if desired, a technique that is very difficult if not impossible to execute using upright goblets. Franklin also advocated the use of a small amount of powdered chalk on the fingers, which under some acidic water conditions helped produce a clear tone.
+
+Some attempted improvements on the armonica included adding keyboards,<ref name=Biggs>{{cite web | last = Zeitler | first = William | title = E. Power Biggs Attempts a Keyboard Armonica | url = http://glassarmonica.com/armonica/e_power_biggs.php | year = 2009 | access-date = 2016-06-05 | publisher = glassarmonica.com}}</ref> placing pads between the bowls to reduce [[sympathetic resonance|sympathetic vibrations]],{{citation needed|date=July 2016}} and using [[violin bow]]s.<ref name=Biggs /> Another supposed improvement claimed in ill-informed post-period observations of non-playing instruments was to have the glasses rotate into a trough of water. However, [[William Zeitler]] put this idea to the test by rotating an armonica cup into a basin of water; the water has the same effect as putting water in a wine glass – it changes the pitch. With several dozen glasses, each a different diameter and thus rotating with a different depth, the result would be musical cacophony. This modification also made it much harder to make the glass "speak", and muffled the sound.<ref>{{cite web | last = Zeitler | first = William | url = http://glassarmonica.com/armonica/water_trough.php | title = Water Trough | year = 2009 | access-date = 2016-06-05 | publisher = glassarmonica.com}} (Includes a video demonstration.)</ref>
+
+In 1975, an original armonica was acquired by the [[Bakken Museum]] in [[Minneapolis]] and put on display, albeit without its original glass bowls (they were destroyed during shipment).<ref name=Bakken /> It was purchased through a musical instrument dealer in France, from the descendants of Mme. Brillon de Jouy, a neighbor of Benjamin Franklin's from 1777 to 1785, when he lived in the Paris suburb of [[Passy]].<ref name=Bakken>{{cite web | last = The Bakken | first = | title = Glass Armonica | url=http://www.thebakken.org/exhibits/mesmer/glass-armonica.htm | access-date = 2007-05-22 |archiveurl = https://web.archive.org/web/20070405115543/http://www.thebakken.org/exhibits/mesmer/glass-armonica.htm |archivedate = April 5, 2007}}</ref> Some 18th- and 19th-century specimens of the armonica have survived into the 21st century. [[Franz Mesmer]] also played the armonica and used it as an integral part of his [[Mesmerism]].
+
+An original Franklin armonica is in the archives at the [[Franklin Institute]] in [[Philadelphia]], having been donated in 1956 by Franklin's descendants after "the children took great delight in breaking the bowls with spoons" during family gatherings. It is only placed on display for special occasions, such as Franklin's birthday. The Franklin Institute is also the home of the [[Benjamin Franklin National Memorial]].<ref>{{cite web|url=http://www2.fi.edu/exhibits/permanent/electricity.php|title=The Franklin Institute – Exhibit – Franklin... He's Electric|author=|date=|website=fi.edu|accessdate=6 April 2018|archive-url=https://web.archive.org/web/20130824052509/http://www2.fi.edu/exhibits/permanent/electricity.php|archive-date=2013-08-24|dead-url=yes|df=}}</ref>
+
+A website has attempted to catalog publicly known Franklin-era glass armonicas.<ref name=Zeitler>{{cite web|last1=Zeitler|first1=William|title=Census|url=http://www.glassarmonica.com/census.php|website=The Glass Armonica|publisher=William Zeitler|access-date=2014-07-03}}</ref> The [[Museum of Fine Arts, Boston]] has an early 19th-century instrument on display, which is occasionally used for public performances and recordings.<ref name=MFA-Cat>{{cite web|title=Musical glasses (armonica)|url=http://www.mfa.org/collections/object/musical-glasses-armonica-50595|website=Museum of Fine Arts Boston|publisher=Museum of Fine Arts, Boston|access-date=2014-07-03}}</ref><ref name=Goyette>{{cite web|last1=Goyette|first1=Rich|title=Historic Glass Armonica - MFA collection|url=http://audio.richgoyette.com/node/40|website=RichGoyette.com|access-date=2014-07-03|deadurl=yes|archiveurl=https://web.archive.org/web/20140714144109/http://audio.richgoyette.com/node/40|archivedate=2014-07-14|df=}}</ref>
+
+==Musical works==
+[[File:Carnaval aquarium.jpg|thumb|Part of the original manuscript score of "Aquarium" from ''[[The Carnival of the Animals]]'' by [[Camille Saint-Saëns]]. The top staff was written for the (glass) "Harmonica". {{audio|Camille Saint-Saëns The Carnival of the Animals Aquarium opening.mid|Play}}]]
+{{Listen|filename=Stars-GlassArmonica.ogg|title=The Fixed Stars, the Frontier to the Beyond|description=A piece played almost entirely on a glass harmonica.|format=[[Ogg]]}}
+
+Composers including [[Johann Gottlieb Naumann|J. G. Naumann]], [[Giovanni Battista Martini|Padre Martini]], [[Johann Adolph Hasse]], [[Baldassare Galuppi]], and [[Niccolò Jommelli]],<ref name="Harvard">Apel, Willi (1969). "Glass harmonica", ''[https://books.google.com/books?id=TMdf1SioFk4C&pg=PA347&dq=Adagio+and+Rondo+for+glass+harmonica,+flute,+oboe,+viola+and+cello&hl=en&sa=X&ved=0ahUKEwjFks6PxPjRAhUF94MKHY7_AZAQ6AEIRzAJ#v=onepage&q=Adagio%20and%20Rondo%20for%20glass%20harmonica%2C%20flute%2C%20oboe%2C%20viola%20and%20cello&f=false Harvard Dictionary of Music]'', p.347. Harvard. {{ISBN|9780674375017}}.</ref> and more than 100 others composed works for the glass harmonica;{{citation needed|date=July 2015}} some pieces survive in the repertoire through transcriptions for more conventional instruments. European monarchs indulged in playing it, and even [[Marie Antoinette]] took lessons as a child from [[Franz Anton Mesmer]].{{citation needed|date=July 2015}}
+
+[[Wolfgang Amadeus Mozart]] wrote his 1791 [[Adagio and Rondo for glass harmonica, flute, oboe, viola and cello|K. 617]] and K.356 (K.617a) for the glass harmonica.<ref name="Harvard"/> [[Ludwig van Beethoven]] used the instrument in an 1814 melodrama ''[[Eleonore Prochaska|Leonore Prohaska]]''.<ref name="Harvard"/> [[Gaetano Donizetti]] used the instrument in the accompaniment to Amelia's aria "Par che mi dica ancora" in ''[[Il castello di Kenilworth]]'', premiered in 1829.<ref name="Osborne1994">{{cite book|author=Charles Osborne|title=The bel canto operas of Rossini, Donizetti, and Bellini|url=https://books.google.com/books?id=sdw5AQAAIAAJ|date=1 April 1994|publisher=Amadeus Press|isbn=978-0-931340-71-0}}</ref> He also originally specified the instrument in ''[[Lucia di Lammermoor]]'' (1835) as a haunting accompaniment to the heroine's "mad scenes", though before the premiere he was required by the producers to rewrite the part for two flutes.<ref>{{Cite news |work=The New York Times |url=https://www.nytimes.com/2007/10/05/arts/music/05glas.html |date=October 5, 2007 |title=Resonance Is a Glass Act for a Heroine on the Edge  |first=Anthony |last=Tommasini |authorlink=Anthony Tommasini}}</ref> [[Camille Saint-Saëns]] used this instrument in his 1886 ''[[The Carnival of the Animals]]'' (in movements 7 and 14).<ref>{{IMSLP|work=La_Carnaval_des_Animaux_%28Saint-Sa%C3%ABns%2C_Camille%29|cname=''The Carnival of the Animals''}}</ref> [[Richard Strauss]] used the instrument in his 1917 ''[[Die Frau ohne Schatten]]''.<ref name="Harvard"/>
+
+For a while the instrument was "extraordinarily popular," its "'ethereal" qualities characteristic, along with instruments such as the [[nail violin]] and [[Aeolian harp]], of ''[[Sensitive style|Empfindsamkeit]]'', but "the instrument fell into oblivion," around 1830.<ref name="Harvard"/> Since the armonica's performance revival during the 1980s, composers have again written for it (solo, chamber music, opera, electronic music, popular music) including [[Jan Erik Mikalsen]], [[Regis Campo]], Etienne Rolin, [[Philippe Sarde]], [[Damon Albarn]], [[Tom Waits]], Michel Redolfi, Cyril Morin, Stefano Giannotti, [[Thomas Bloch]], [[Jörg Widmann]] (''Armonica'' 2006),<ref>"[https://www.theguardian.com/music/2016/aug/02/zehetmair-bbc-philharmonic-storgards-proms-2016-review-glass-harmonica  Zehetmair/ BBC Philharmonic/ Storgårds review – through a glass, darkly]", ''TheGuardian.com''. Accessed: February 05 2017.</ref> and [[Guillaume Connesson]].
+
+The music for the 1997 ballet ''[[Othello (ballet)|Othello]]'' by American composer [[Elliot Goldenthal]] opens and closes with the glass harmonica. The ballet was performed at San Francisco Ballet, the American Ballet Theater, the Joffrey Ballet, and on tour in Europe including at the Opera Garnier with Dennis James performing with his historical replica instrument.
+
+[[George Benjamin (composer)|George Benjamin]]'s opera ''[[Written on Skin]]'', which premiered at the 2012 Aix-en-Provence Festival, includes a prominent and elaborate part for the glass harmonica.<ref>George Benjamin, ''Written on Skin'', Full Score, Faber Music, 2013.</ref>
+
+==Purported dangers==
+The instrument's popularity did not last far beyond the 18th century. Some claim this was due to strange rumors that using the instrument caused both musicians and their listeners to go mad. It is a matter of conjecture how pervasive that belief was; all the commonly cited examples of this rumor seem to be [[Germany|German]], if not confined to [[Vienna]]. One example of alleged effects from playing the glass harmonica was noted by a German [[musicologist]] [[Johann Friedrich Rochlitz]] in the ''[[Allgemeine musikalische Zeitung]]'':
+
+{{quote|[The harmonica] excessively stimulates the nerves, plunges the player into a nagging depression and hence into a dark and melancholy mood, that is an apt method for slow self-annihilation. ...
+# If you are suffering from any nervous disorder you should not play it.
+# If you are not yet ill you should not play it excessively.
+# If you are feeling melancholy you should not play it or else play uplifting pieces.<ref name="Cope2004">{{cite book |last=Cope |first=Kevin L. |title=1650–1850: ideas, aesthetics, and inquiries in the early modern era |url=https://books.google.com/books?id=jf7WAAAAMAAJ |access-date=5 April 2011 |date=30 September 2004 |publisher=AMS Press |isbn=978-0-404-64410-9 |page=149}}</ref>}}
+
+[[Marianne Davies]], who played flute and harpsichord – and was a young woman said to be related to Franklin – became proficient enough at playing the armonica to offer public performances. After touring for many years in duo performances with her celebrated vocalist sister, she was also said to have been afflicted with a [[melancholia]] attributed to the plaintive tones of the instrument.<ref name="autogenerated2000"/> [[Marianne Kirchgessner]] was an armonica player; she died at the age of 39 of pneumonia or an illness much like it.<ref name="bossler">Bossler, Heinrich (1809-05-10).  Marianne Kirchgessner obituary. ''Allgemeine Musikalische Zeitung'', 10 May 1809. Obituary written by Marianne Kirchgessner's manager Heinrich Bossler.</ref> However many others, including Franklin, lived long lives.
+
+For a time the armonica achieved a genuine vogue, but like most fads, that for the armonica eventually passed. It has been claimed the sound-producing mechanism did not generate sufficient power to fill the large halls that were becoming home to modern stringed instruments, brass, woodwinds, and percussion. That the instrument was made with glass, and subject to easy breakage, perhaps did not help either.<ref name="autogenerated2000"/> By 1820, the armonica had mostly disappeared from frequent public performance, perhaps because musical fashions were changing.
+
+A modern version of the "purported dangers" claims that players suffered [[lead poisoning]] because armonicas were made of [[lead glass]]. However, there is no known scientific basis for the theory that merely touching lead glass can cause lead poisoning. Lead poisoning was common in the 18th and early 19th centuries for both armonica players and non-players alike; doctors prescribed lead compounds for a long list of ailments, and lead or lead oxide was used as a food preservative and in cookware and eating utensils. Trace amounts of lead that armonica players in Franklin's day received from their instruments would likely have been dwarfed by lead from other sources, such as the lead-content paint used to mark visual identification of the bowls to the players.<ref>See Finger, Stanley (2006); ''Doctor Franklin's Medicine''; U of Pennsylvania Press; Philadelphia; {{ISBN|0-8122-3913-X}}. Chapter 11, "The Perils of Lead" (p. 181–198) discusses the pervasiveness of lead poisoning in Franklin's day and Franklin's own leadership in combating it.</ref>
+
+Historical replicas by Eisch use so-called "White Crystal" developed in the 18th c. replacing the lead with a higher potash content; many modern newly invented devices, such as those made by Finkenbeiner, are made from so-called Quartz "pure [[silica]] glass" - a glass formulation developed in the early 20th c. for scientific purposes.<ref>{{cite web|url=http://www.finkenbeiner.com/GLASSHARMONICA.htm|title=GFI Scientific glass blowing products and services|author=|date=|website=www.finkenbeiner.com|accessdate=6 April 2018}}</ref>
+
+==Perception of the sound==
+The somewhat disorienting quality of the ethereal sound is due in part to the way that humans perceive and locate ranges of sounds. Above 4 [[kHz]] people primarily use the ''loudness'' of the sound to differentiate between left and right ears and thus [[Sound localization|triangulate]], or locate the source. Below 1&nbsp;kHz, they use the ''[[phase difference]]s'' of sound waves arriving at their left and right ears to identify location. The predominant pitch of the armonica is in the range of 1–4&nbsp;kHz, which coincides with the sound range where the brain is "not quite sure", and thus listeners have difficulty locating it in space (where it comes from), and discerning the source of the sound (the materials and techniques used to produce it).<ref>{{cite web|url=http://www.bbc.co.uk/radio4/musicfeature/pip/k8ko2/|title=BBC - (none) - Music Feature  - Angelic Organ of Evil|author=|date=|website=www.bbc.co.uk|accessdate=6 April 2018}}</ref>
+
+Benjamin Franklin himself described the armonica's tones as "incomparably sweet". The full quotation, written in a letter to [[Giambattista Beccaria]], an Italian priest and electrician, is: "The advantages of this instrument are that its tones are incomparably sweet beyond those of any other; that they may be swelled and softened at pleasure by stronger or weaker pressures of the finger, and continued to any length; and that the instrument, once well tuned, never again wants tuning."<ref name="autogenerated2000"/>
+
+A music critic for the ''Morning Chronicle'', writing of a performance by Kirchgessner in 1794, said, "Her taste is chastened and the dulcet notes of the instrument would be delightful indeed, were they more powerful and articulate; but that we believe the most perfect execution cannot make them. In a smaller room and an audience less numerous, the effect must be enchanting. Though the accompaniments were kept very much under, they were still occasionally too loud."<ref>"[http://www.davidwatkins.info/Pages/recordings/CD_concerti_and_chamber_music.html#p7EPMc1_3 Concerti and Chamber Music Sleeve Notes]", ''DavidWatkins.info''. Accessed: February 04 2017.</ref>
+
+==Modern revival==
+[[File:Glass Harmonica at Poncan Theatre.jpg|thumb|right|Dennis James plays the armonica at the Poncan Theatre in Ponca City, Oklahoma, on April 2, 2011.]]
+Music for glass harmonica was all-but-unknown from 1820 until the 1930s (although [[Gaetano Donizetti]] intended for the [[aria]] "[[Il dolce suono]]" from his 1835 opera Lucia di Lammermoor to be accompanied by a glass armonica, and Richard Strauss specified use of the instrument in his 1919 opera ''Die Frau ohne Schatten''), when German virtuoso [[Bruno Hoffmann]] began revitalizing interest in his individual goblet instrument version that he named the glass harp for his stunning performances. Playing his  "glass harp" (with Eisch manufactured custom designed glasses mounted in a case designed with underlying resonance chamber) he transcribed or rearranged much of the literature written for the mechanized instrument, and commissioned contemporary composers to write new pieces for his goblet version.
+
+Franklin's glass armonica design was reworked yet again without patent credit by master glassblower and musician, [[Gerhard Finkenbeiner|Gerhard B. Finkenbeiner]] (1930–1999) in 1984. After thirty years of experimentation, Finkenbeiner's imitative prototype consisted of clear glasses and glasses later equipped with gold bands mimicking late 18th-century designs. The historical instruments with gold bands indicated the equivalent of the black keys on the piano, simplifying the multi-hued painted bowl rims with white accidentals as specified by Franklin. Finkenbeiner Inc., of [[Waltham, Massachusetts|Waltham]], [[Massachusetts]], continues to produce versions of these instruments commercially {{as of|2014|lc=y}}, featuring glass elements made of scientific formulated fused-silica [[quartz]].<ref name=Rothstein>{{cite news|last1=Rothstein|first1=Edward|title=Playing on Glass|url=https://www.nytimes.com/1984/01/15/arts/music-notes-playing-on-glass.html|access-date=2014-07-03|work=New York Times|date=January 15, 1984}}</ref><ref name=GFI>{{cite web|title=Glass Harmonicas|url=http://finkenbeiner.com/GLASSHARMONICA.htm|website=G. Finkenbeiner Inc.|publisher=G. Finkenbeiner Inc.|access-date=2014-07-03}}</ref><ref name=Wald>{{cite web|last1=Wald|first1=Elijah|title=Music of the Spheres: The Glass Harmonica|url=http://www.elijahwald.com/glasshar.html|website=Elijah Wald – Writer, Musician|access-date=2014-07-03}}</ref>
+
+[[French people|French]] instrument makers and artists [[Baschet Brothers|Bernard and François Baschet]] invented a modern variation of the Chladni Euphone in 1952, the "crystal organ" or [[Cristal baschet|Cristal di Baschet]], which consists of up to 52 chromatically tuned resonating metal rods that are set into motion by attached glass rods that are rubbed with wet fingers. The Cristal di Baschet differs mainly from the other glass instruments in that the identical length and thickness glass rods are set horizontally, and attach to the tuned metal stems that have added metal blocks for increasing resonance. The result is a fully acoustic instrument, and impressive amplification obtained using fiberglass or metal cones fixed on wood and by a tall cut-out multi-resonant metal part in the shape of a flame. Some thin added metallic wires resembling cat whiskers are placed under the instrument, supposedly to increase the sound power of high-pitched frequencies.
+
+[[Dennis James (musician)|Dennis James]] recorded an album of all glass music, ''Cristal: Glass Music Through the Ages'' co-produced by [[Linda Ronstadt]] and Grammy Award-winning producer [[John Boylan (record producer)|John Boylan]].<ref name=PCOLCrystal>[http://www.sonyclassical.com/music/89047/home.html Sony Classical Music. "Cristal – Glass Music Through the Ages"] {{webarchive |url=https://web.archive.org/web/20061124165512/http://www.sonyclassical.com/music/89047/home.html |date=November 24, 2006 }}</ref> James plays the glass harmonica, the Cristal di Baschet, and the [[Glass harp|Seraphim]] on the CD in original historical compositions and new arrangements for glass by [[Wolfgang Amadeus Mozart|Mozart]], [[Scarlatti]], Schnaubelt, and [[Gabriel Fauré|Fauré]]<ref name=PCOLCrystal /> and collaborates on the recording with the [[Emerson String Quartet]], operatic soprano [[Ruth Ann Swenson]], and Ronstadt.<ref name=PCOLCrystal /> James played glass instruments on Marco Beltrami's film scores for ''[[The Minus Man]]'' (1999) and ''[[The Faculty]]'' (1998).<ref name=PCOLRonstadt /> "I first became aware of glass instruments at about the age of 6 while visiting the [[Franklin Institute]] in [[Philadelphia]]. I can still recall being mesmerized by the appearance of the original [[Benjamin Franklin]] armonica then on display in its own showcase in the entry rotunda of the city's famed science museum."<ref name=PCOLRonstadt>{{cite web|url=http://www.ronstadt-linda.com/djames.html|title=Dennis James interview- glass armonica project / by Rich Bailey|author=|date=|website=www.ronstadt-linda.com|accessdate=6 April 2018}}</ref> [[James Horner]] used a glass harmonica and [[pan flute]] for Spock's theme in the 1982 film ''[[Star Trek II: The Wrath of Khan]]''.<ref>{{cite web|url=http://swashbuckler332.livejournal.com/695758.html|title=Monsters from the Id - "The Kobayashi Maru has set sail for the promised land."|access-date=April 18, 2012}}</ref>
+
+==Notable players==
+
+===Historical===
+<!--Please provide a reference citation when adding a musician to the list who does not have an article on Wikipedia. Also, please put names in the list in alphabetical order.-->
+{{Refbegin|30em}}
+* [[Marie Antoinette]]
+* [[Marianne Davies]]
+* [[Benjamin Franklin]] (United States)
+* [[Franz Mesmer]]
+* [[Marianne Kirchgessner]]
+* Mrs. Philip Thicknesse (born [[Anne Ford]]), 1775, United Kingdom)
+{{Refend}}
+<!-- please keep alphabetical -->
+
+===Contemporary===
+<!--Please provide a reference citation when adding a musician to the list who does not have an article on Wikipedia. Also, please put names in the list in alphabetical order.-->
+{{Refbegin|30em}}
+* [[Thomas Bloch]] (France)
+* Cecilia Brauer (United States)<ref>{{cite web|url=http://www.gigmasters.com/armonica/history.html |title=History of the Armonica, Ben Franklin and Glass Armonica |work=Gigmasters.com |date= |access-date=2013-02-21}}</ref>
+* [[Bill Hayes (percussioinist)|Bill Hayes]] (New York City) Broadway Musician and Percussionist, Barbra Streisand Orchestra 1994, 2006, 2007<ref>{{cite web|url=http://www.discogs.com/artist/772639-Bill-Hayes-2 |title=Bill Hayes (2) Discography at Discogs |publisher=Discogs.com |date= |access-date=2014-02-12}}</ref>
+* Martin Hilmer<ref>{{cite web|url=http://www.glasmusik.com/index.htm|title=Martin Hilmer - Live-Musik auf seltenen Instrumenten|author=|date=|website=www.glasmusik.com|accessdate=6 April 2018|archive-url=https://web.archive.org/web/20160304042451/http://www.glasmusik.com/index.htm|archive-date=2016-03-04|dead-url=yes|df=}}</ref><ref>The Glassharmonica made by Sascha Reckert. Retrieved from http://www.glasharmonika.com/harmon.htm. {{de icon}}</ref> (Germany)
+* [[Bruno Hoffmann]] (Germany)
+* [[Dennis James (musician)|Dennis James]] (United States)
+* [[Friedrich Heinrich Kern]] (United States/Germany)<ref>{{cite web|url=https://sharpsandflatirons.com/2017/08/06/5567/ |title=Three Musical Triumphs at the Santa Fe Opera|date=2017-08-06 |access-date=2018-03-02}}</ref>
+* Alasdair Malloy (United Kingdom)<ref>{{cite web|url=http://www.alasdairmalloy.com/glass-harmonica |title=glass harmonica |publisher=Alasdair Malloy |date=2012-07-10 |access-date=2014-03-03}}</ref>
+* David Mauldin (United States) <ref>{{cite web|url=http://www.history-alive.com|title=History-alive.com|first=GAD Web Designs Paul John  Sharaba|last=Sr|date=|website=www.history-alive.com|accessdate=6 April 2018}}</ref>
+* [[Gloria Parker]] (United States) glass harp
+* Gerald Schönfeldinger (Austria)<ref>{{Cite web |url=http://www.glasharmonika.at/html/e_index.htm |title=Archived copy |access-date=2009-01-10 |archive-url=https://web.archive.org/web/20171008171900/http://glasharmonika.at/html/e_index.htm |archive-date=2017-10-08 |dead-url=yes |df= }}</ref>
+* [[Dean Shostak]] (United States)<ref>{{cite web|url=http://www.crystalconcert.com/ |title=Website for Dean Shostak's Crystal Concert, regular performances take place at Colonial Williamsburg, VA USA |publisher=Crystalconcert.com |date=2018-11-12 |accessdate=2018-11-20}}</ref>
+* Ed Stander (United States)<ref>{{cite web|url=http://alloveralbany.com/archive/2010/01/04/ed-stander|title=It's glassware! It's an instrument!  It's both!|author=|date=|website=alloveralbany.com|accessdate=6 April 2018}}</ref>
+* [[William Zeitler]] (United States)
+{{Refend}}
+<!-- please keep alphabetical -->
+
+==Related instruments==
+[[File:Glassharmonica.png|thumb|An armonica]]
+Another instrument that is also played with wet fingers is the [[hydraulophone]].{{citation needed|date=February 2017|reason=A hydraulophone is any instrument that uses water: specific claim about general subject.}} The hydraulophone sounds similar to a glass armonica but has a darker, heavier sound, that extends down into the [[Infrasound|subsonic]] range.  The technique for playing the hydraulophone is similar to that used for playing the armonica.
+
+==See also==
+<!-- Please keep entries in alphabetical order & add a short description [[WP:SEEALSO]] -->
+{{div col|colwidth=30em|small=yes}}
+* [[Cristal baschet]]
+* [[Harmonica#Glass diatonic harmonica|Glass diatonic harmonica]], a diatonic harmonica constructed from glass
+* [[Hydraulophone]]
+* [[Sensitive style]]
+* [[Singing bowl]]
+* [[Verrophone]]
+* [[Waterphone]]
+{{div col end}}
+<!-- please keep entries in alphabetical order -->
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+* {{cite web | title=An Extensive Bibliography | work=of resources about the armonica | url=http://www.glassarmonica.com/armonica/index-biblio.php | access-date=January 16, 2007}}
+* {{cite web | title=Franklin, Benjamin | work=Franklin correspondence regarding the armonica | url=http://www.glassarmonica.com/armonica/history/franklin/letters.php | access-date=January 16, 2007 |archiveurl = https://web.archive.org/web/20070210220910/http://www.glassarmonica.com/armonica/history/franklin/letters.php |archivedate = February 10, 2007}}
+* {{cite web | title=Galileo, Galilei | work=Passage from 'Two New Sciences' by Galileo about the 'wet finger around the wine glass' phenomenon (1638) | url=http://www.glassarmonica.com/armonica/history/musicalglass/galileo.php | access-date=January 16, 2007 |archiveurl = https://web.archive.org/web/20070210221100/http://www.glassarmonica.com/armonica/history/musicalglass/galileo.php |archivedate = February 10, 2007}}
+* King, A.H., "The Musical Glasses and Glass Harmonica," ''Royal Musical Association, Proceedings'', Vol.72, (1945/1946), pp.&nbsp;97–122.
+* Sterki, Peter. ''Klingende Gläser''. Bern. NY 2000''. {{ISBN|3-906764-60-5}} br.
+* [http://www.glasharfe.de/glasharfe/texte/history.htm History of the Glass Harmonica]
+
+==Further reading==
+;History
+* Zeitler, W. '''''The Glass Armonica—the Music and the Madness (2013)''''' A history of glass music from the ''Kama Sutra'' to modern times, including the glass harmonica (also known as the glass harmonica), the musical glasses and the glass harp. 342 pages, 45 illustrations, 27 page bibliography. {{ISBN|978-1-940630-00-7}}
+;Instruction books <!--Need dates for many of these-->
+* Bartl. ''About the Keyed Armonica''.
+* Ford, Anne (1761). ''Instructions for playing on the music glasses'' (Method). London. {{cite web | title=A pdf copy | url=http://www.glassarmonica.com/armonica/history/musicalglasses/AnneFordInstructions.pdf | access-date=January 20, 2007|format=PDF |archiveurl = https://web.archive.org/web/20070226082458/http://www.glassarmonica.com/armonica/history/musicalglasses/AnneFordInstructions.pdf |archivedate = February 26, 2007}}
+* Franklin, J. E. ''Introduction to the Knowledge of the Seraphim or Musical Glasses''.
+* Hopkinson-Smith, Francis (1825). ''Tutor for the Grand Harmonicon''. Baltimore, Maryland.
+* Ironmonger, David. ''Instructions for the Double and Single Harmonicon Glasses''.
+* Muller, Johann Christian (a.k.a. John Christopher Moller). ''Anleitung zum Selbstunterricht auf der Harmonika''.
+* Roellig, Leopold. ''Uber die Harmonika / Uber die Orphika''.
+* Smith, James. ''Tutor for the Musical Glasses''.
+* Wunsch, J. D. ''Practische – Schule fur die lange Harmonika''.
+
+==External links==
+{{Commons category}}
+* [http://www.finkenbeiner.com/GLASSHARMONICA.htm G. Finkenbeiner Inc. site, manufacturer of glass harmonicas]
+* [https://web.archive.org/web/20070405115543/http://www.thebakken.org/exhibits/mesmer/glass-armonica.htm Display of glass armonica at The Bakken Library and Museum]
+* [http://www.glassarmonica.com/armonica/index.php Articles (with citations) about the armonica] by William Zeitler
+* [http://www.ronstadt-linda.com/djames.html Dennis James interview]
+* [http://www.metmuseum.org/works_of_art/collection_database/musical_instruments/glass_harmonica/objectview.aspx?page=1&sort=0&sortdir=asc&keyword=glass*&fp=1&dd1=18&dd2=0&vw=1&collID=18&OID=180013543&vT=1 Historic 18th-century Glass Harmonica] at [[The Metropolitan Museum of Art]]
+* [http://www.gigmasters.com/armonica/history.html 'Cecilia Brauer's website, Performances by living Armonica player, history of the instrument']
+* {{Cite EB1911|wstitle=Harmonica}}
+
+;Videos
+* [https://www.youtube.com/profile_videos?user=theondes&p=v A collection of Thomas Bloch glass harmonica videos]
+* {{YouTube|id=gXnTdAP8aFQ|title=Robert Tiso demonstrating how to set up and tune a glass harp}}
+* {{YouTube|id=3rmFleYqNxw|title=J.S. Bach: Toccata D minor played by Glass Duo}}
+
+{{Benjamin Franklin}}
+{{Crystallophones}}
+{{Friction idiophones}}
+{{Water instruments}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Glass Harmonica}}
+[[Category:Crystallophones]]
+[[Category:Sets of friction vessels]]

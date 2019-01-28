@@ -1,0 +1,108 @@
+{{About|the museum in Philadelphia|the Washington, D.C., office building recently renamed "Constitution Center"|Nassif Building}}
+{{Infobox museum
+| name          = National Constitution Center
+| image         = National Constitution Center-exterior.jpg
+| imagesize     = 275
+| caption       = Exterior of the National Constitution Center in Philadelphia, Pennsylvania
+| map_type      = Pennsylvania
+| map_caption   = Location within Pennsylvania
+| coordinates   = {{coord|39.953406|-75.148952|display=inline}}
+| map dot label = Philadelphia
+| established   = 17 September 2000
+| dissolved     =
+| location      = [[Independence Mall (Philadelphia)|Independence Mall]], [[Philadelphia]], [[Pennsylvania]]
+| type          = History museum
+| visitors      = 817,000 (2011)
+| director      = [[Jeffrey Rosen]]
+| curator       =
+| publictransit = {{rint|septa|60px}} [[5th Street (SEPTA Market–Frankford Line station)|5th Street]]: {{Rail color box|system=SEPTA|line=Market-Frankford}} {{bus icon|12px}} {{rint|septa|60px}} [[SEPTA]] bus: {{SEPTA bus link|38|44|48}}<br>{{bus icon|12px}} [[Philly PHLASH]] 
+| website       = http://constitutioncenter.org/
+}}
+The '''National Constitution Center''' is a nonprofit, nonpartisan institution devoted to the [[United States Constitution]]. On [[Independence Mall (Philadelphia)|Independence Mall]] in [[Philadelphia]], [[Pennsylvania]], the center is an interactive museum and a national town hall for constitutional dialogue, hosting government leaders, journalists, scholars, and celebrities for public discussions (including presidential debates). The center houses the Annenberg Center for Education and Outreach, which offers civic learning resources onsite and online. It does not house the original Constitution, which is stored at the [[National Archives Building]] in [[Washington, D.C.]]
+
+The groundbreaking ceremony (attended by President [[Bill Clinton]])<ref>{{cite web | url=http://www.theconstitutional.com/about/abou-enable.html| title = The Constitutional Walking Tour of Philadelphia| accessdate = 27 March 2013 }}</ref> was held on September 17, 2000, the 213th anniversary of the signing of the Constitution. The center opened on July 4, 2003,<ref>{{cite news | url=https://www.nytimes.com/2003/06/22/travel/travel-advisory-constitution-center-to-open-in-philadelphia.html | title=TRAVEL ADVISORY; Constitution Center To Open in Philadelphia – New York Times | accessdate = 28 March 2013 | work=The New York Times | date=22 June 2003}}</ref> joining other historic sites and attractions in what has been called "America's most historic square mile"<ref>{{cite web|title=Independence Visitor Center|url=http://phlvisitorcenter.com/attraction/independence-visitor-center|work=Independence Visitor Center|accessdate=9 August 2013}}</ref> because of its proximity to [[Independence Hall]] and the [[Liberty Bell]].
+
+=={{anchor|About}}Background==
+
+[[File:National Constitution Center.jpg|thumb|left|200px|alt=Long, low building with a lawn in front|Main entrance]]
+The center was created by the Constitution Heritage Act.<ref>{{cite web | url=http://www.theconstitutional.com/about/abou-enable.html | title = The Constitutional Walking Tour of Philadelphia | accessdate = 28 March 2013}}</ref> Approved on September 16, 1988 and signed by President Ronald Reagan,<ref>{{cite web | url=http://www.brynmawr.edu/iconog/uphp/indnoll2/linked%20pages/INHP%20HISTORY.htm | title=Untitled Document | accessdate=28 March 2013 | archive-url=https://web.archive.org/web/20121128184221/http://www.brynmawr.edu/iconog/uphp/indnoll2/linked%20pages/INHP%20HISTORY.htm | archive-date=2012-11-28 | dead-url=yes | df= }}</ref> the act defined the National Constitution Center as "within or in close proximity to the Independence National Historical Park. The Center shall disseminate information about the United States Constitution on a non-partisan basis in order to increase the awareness and understanding of the Constitution among the American people."{{cn|date=July 2017}} The center is at 525 Arch Street, an address chosen because May 25 (5/25) was the date that the [[Timeline of drafting and ratification of the United States Constitution|Constitutional Convention began]] in Philadelphia.
+
+The architectural firm of [[Pei Cobb Freed & Partners]] designed the center,<ref>{{cite web | url=http://www.pcf-p.com/a/p/9810/r0.html | title = Pei Cobb Freed & Partners | accessdate = 28 March 2013}}</ref> and Leslie E. Robertson Associates were the structural engineers for the project. Witold Rybczynski of ''[[The New York Times]]'' wrote, "Quiet but assertive, respectful of its surroundings, considerate of its public, this building is destined to take its place among the nation's leading public monuments."<ref>{{cite news | url=https://www.nytimes.com/2003/07/08/arts/architecture-review-more-perfect-union-of-function-and-form.html?pagewanted=all&src=pm | title = ARCHITECTURE REVIEW; More Perfect Union Of Function And Form – New York Times | accessdate = 28 March 2013 | work=The New York Times | first=Witold | last=Rybczynski | date=8 July 2003}}</ref>
+
+[[Ralph Appelbaum Associates]] designed the center's visitor experience and exhibition hall.  The public space is {{convert|160000|sqft|m2}}, including galleries. The center has {{convert|75785|sqft|m2}} of exhibit space. The center is made of American products, including {{convert|85000|sqft|m2}} of Indiana limestone, 2.6 million pounds of steel, and a half-million cubic feet of concrete.
+
+The National Constitution Center board of trustees appointed law professor, legal commentator, and former visiting scholar [[Jeffrey Rosen]] to serve as president and chief executive officer of the center; Rosen began his tenure in June 2013.<ref>{{cite web | url=http://constitutioncenter.org/about/president-and-ceo | title=President and CEO – National Constitution Center | accessdate = 6 June 2013}}</ref>
+
+==Main exhibition==
+
+The museum's main exhibition features three attractions. The first is ''Freedom Rising'', a 17-minute, 360° theatrical production in the [[Sidney Kimmel]] Theater tracing the American quest for freedom. "The Story of We the People" exhibit in the Richard and Helen DeVos Exhibition Hall is an interactive exhibition highlighting the history of the Constitution with over 100 hands-on and multimedia exhibits. The Signers' Hall is a stylized evocation of the Assembly Room in the Pennsylvania State House (now known as Independence Hall), where the signers of the Constitution met on September 17, 1787. The room has life-sized, bronze statues.
+
+=={{anchor|Feature exhibitions}}Featured exhibits==
+
+The center's featured exhibit is "Constituting Liberty: From the Declaration to the Bill of Rights", with one of the 12 surviving copies of the [[United States Bill of Rights|Bill of Rights]] displayed alongside a first-edition stone engraving of the Declaration of Independence and a rare copy of the first public printing of the U.S. Constitution in the George H.W. Bush Gallery. The exhibit is on display from December 2014 to December 2017.<ref>{{cite web | url=http://constitutioncenter.org/experience/exhibitions/upcoming-exhibitions/the-bill-of-rights-exhibit | archive-url=https://web.archive.org/web/20130904200550/http://constitutioncenter.org/experience/exhibitions/upcoming-exhibitions/the-bill-of-rights-exhibit | dead-url=yes | archive-date=4 September 2013 | title=The Bill of Rights – National Constitution Center | accessdate=6 June 2013}} </ref>
+
+"Headed to the White House" was a unique exhibit created to engage students, teachers and families with the election season. Starting from the Constitution, the hands-on exhibit took visitors from the campaign trail to Inauguration Day in one visit and was on display from February 12 to December 31, 2016.
+
+==Civic education==
+
+Through its Annenberg Center for Education and Outreach, the center offers onsite and online civic-education programs and a study center which develops and distributes teaching tools, lesson plans and resources.<ref>{{cite web | url=http://foundationcenter.org/pnd/news/story.jhtml?id=133200008 | title = Annenberg Foundation Awards $6.4 Million to National Constitution Center PND Foundation Center | accessdate = 28 March 2013}}</ref> In September 2006 the center helped launch [[Constitution High School]], a college-preparatory, citywide [[magnet school]] and "the only Philadelphia School District high school whose theme is [''sic''] Law, Democracy, and History."<ref>{{cite web | url=http://webgui.phila.k12.pa.us/schools/c/constitution/about-us | title = Constitution High School – The School District of Philadelphia | accessdate = 28 March 2013}}</ref>
+
+==Public engagement==
+
+As a national town hall, the center has welcomed former presidents, Supreme Court justices, journalists, pundits, scholars and entertainers at political discussions and book events. Guests include Presidents [[Barack Obama]], [[George H. W. Bush]] and [[Bill Clinton]]; Secretary of State [[Hillary Clinton]]; Vice President [[Dick Cheney]]; First Lady [[Laura Bush]]; Supreme Court Justices [[Sandra Day O'Connor]], [[Antonin Scalia]], [[Stephen Breyer]], [[Ruth Bader Ginsburg]] and [[Sonia Sotomayor]]; [[Newt Gingrich]]; [[Karl Rove]]; [[Donna Brazile]], and journalists [[Tavis Smiley]], [[Gwen Ifill]], [[Tina Brown]], [[Andrea Mitchell]] and [[Tom Brokaw]]. The center has hosted several debates, including a 2008 Democratic presidential primary debate between Hillary Clinton and Barack Obama<ref>{{cite web | url=http://abcnews.go.com/Politics/DemocraticDebate/story?id=4670271&page=1#.T-InzphTYTA | title = Transcript: Obama and Clinton Debate – ABC News | accessdate=28 March 2013}}</ref> a [[town hall meeting]] with Senator [[John McCain]],<ref>{{cite web | url=http://abclocal.go.com/wpvi/story?section=news/politics&id=6199863 | title=McCain's town-hall meeting at Constitution Center 6abc.com | accessdate=28 March 2013}}</ref> and a 2006 Pennsylvania Senatorial debate between Republican incumbent [[Rick Santorum]] and Democratic challenger [[Bob Casey, Jr.|Bob Casey]].<ref>{{cite news | url=http://www.post-gazette.com/stories/news/politics-federal/santorum-on-the-attack-in-final-debate-with-casey-455094/?print=1 | title = Santorum on the attack in final debate with Casey – Pittsburgh Post-Gazette – Printer friendly | accessdate = 28 March 2013}}</ref>
+
+==Liberty Medal==
+
+In 2006 the center became home to the [[Liberty Medal]], an annual award established in 1988 to recognize "men and women of courage and conviction who strive to secure the blessings of liberty to people around the globe."<ref>{{cite web | url=http://constitutioncenter.org/libertymedal/about.html | title = THE LIBERTY MEDAL | accessdate = 28 March 2013}}</ref>  Liberty Medal recipients have included [[Hillary Clinton]], [[Muhammad Ali]], [[George H. W. Bush]],  [[Bill Clinton]], [[Bono]], [[Mikhail Gorbachev]], [[Nelson Mandela]], [[Steven Spielberg]], [[Tony Blair]] and [[Robert Gates]].<ref>{{cite web | url=http://constitutioncenter.org/libertymedal/recipients.html | title = Recipients – Liberty Medal – National Constitution Center | accessdate = 28 March 2013}}</ref>
+
+=={{anchor|NCC and presidents}}Presidential involvement==
+
+Former President George H. W. Bush became chairman of the center's board of trustees in 2007. His successor as chair, [[Bill Clinton]], served from 2009 to 2012. [[Jeffrey Rosen]] has been the center's director since 2013. On March 18, 2008, while campaigning for the [[presidency]], Senator [[Barack Obama]] delivered a speech on racial issues ("[[A More Perfect Union (speech)|A More Perfect Union]]") at the center. The center hosted Senators Obama and [[Hillary Clinton]] for their Pennsylvania presidential-primary debate on April 16 of that year.<ref>{{cite web | url=http://abcnews.go.com/Politics/DemocraticDebate/story?id=4670271&page=1#.T9s4h5hTYTA | title = Transcript: Obama and Clinton Debate – ABC News | accessdate = 28 March 2013}}</ref>
+
+==Artifacts==
+
+Two days after the Constitution was signed its text was printed in the ''[[Pennsylvania Packet]] and Daily Advertiser'', a local newspaper. A rare copy of this first publication is housed at the center in an alcove adjacent to Signers' Hall. The center received its copy on September 11, 2001.
+
+The U.S. flag hanging in the Grand Hall Overlook has traveled around the country, flying over every state and territory [[List of state capitols in the United States|capitol]]. Before the center opened, it was unfurled by [[Muhammad Ali]] in a June 14, 2003 [[Flag Day]] ceremony.
+
+==In the media==
+
+George Will wrote for ''The Washington Post'', "At the other end of the mall sparkles a modernist jewel of America's civic life, the National Constitution Center".<ref>{{cite news | url=https://www.washingtonpost.com/wp-dyn/content/article/2005/08/12/AR2005081201409.html | title = George F. Will – Sense From the Hall of Framers | accessdate = 28 March 2013 | work=The Washington Post | date=14 August 2005}}</ref> Jason DeParle wrote for ''[[The New York Times]]'' Learning Network, "Since opening in 2003, [the National Constitution Center] has put forward a vision of constitutional history both left and right have embraced."<ref>{{cite news | url=https://www.nytimes.com/learning/teachers/featured_articles/20050912monday.html | title = Constitutional Lessons, Old and New, on Display | accessdate = 28 March 2013 | work=The New York Times}}</ref> According to ''[[The Philadelphia Inquirer]]'', "The National Constitution Center has established itself as one of the city's cultural celebs, attracting a million visitors a year, putting pizzazz into civic and educational offerings, hosting blockbuster exhibitions, and attracting the nation's intellectual cognoscenti and media elite like bears to honey."<ref>{{cite web | url=http://articles.philly.com/2006-06-13/news/25402331_1_national-constitution-center-joseph-torsellaconstitutional-issues | title = Philadelphia does history right So far, so good for the National Constitution Center. - Philly.com | accessdate = 28 March 2013}}</ref>
+
+==Gallery==
+<gallery class="center"  widths="220px" heights="200px">
+File:2012-07 ncc 01.JPG|alt=Large lobby, with state flags and bunting|State flags in the lobby
+File:2012-07 ncc 06.JPG|alt=Models of the U.S. Capitol and another building|Exhibits
+File:2012-07 ncc 03.JPG|alt=See caption|Life-sized statues of the signers of the Constitution in Signers' Hall
+</gallery>
+
+==See also==
+{{Portal|Philadelphia}}
+* [[Philadelphia Liberty Medal]] – An annual award administered by the Center
+* [[Constitution Day (United States)]]
+* [[Independence National Historical Park]]
+* ''[[Landmark Cases (TV series)]]''
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category}}
+* [http://www.constitutioncenter.org/ National Constitution Center official site]
+* [https://web.archive.org/web/20070525222134/http://www.constitutioncenter.org/jennings/ Peter Jennings Project for Journalists and the Constitution]
+* [http://speakingofhistory.blogspot.com/2007/07/podcast-109-interview-with-eli-lesser.html Podcast interview with Eli Lesser – Director of Education for the National Constitution Center from the Speaking of History podcast, July 2007]
+* [http://blog.constitutioncenter.org/ Constitution Daily blog of the National Constitution Center]
+
+{{Museums in Pennsylvania}}
+{{Philadelphia}}
+{{US Constitution|state=expanded}}
+
+[[Category:American national museums in Pennsylvania|Constitution Center]]
+[[Category:Buildings and structures in Independence National Historical Park]]
+[[Category:History museums in Pennsylvania]]
+[[Category:Independence National Historical Park]]
+[[Category:Museums established in 2004]]
+[[Category:Museums in Philadelphia]]
+[[Category:Old City, Philadelphia]]
+[[Category:United States Constitution]]
+[[Category:2004 establishments in Pennsylvania]]

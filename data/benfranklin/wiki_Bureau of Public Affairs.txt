@@ -1,0 +1,69 @@
+{{Multiple issues|
+{{cleanup rewrite|date=July 2015}}
+{{partisan sources|date=July 2015}}
+}}
+
+{{Infobox government agency
+| agency_name     = Bureau of Public Affairs
+| type            = bureau
+| seal            = US Department of State official seal.svg
+| seal_width      = 120px
+| seal_caption    = Seal of the United States Department of State
+| formed          = {{start date and years ago|1944}}<ref name="OIG">{{cite web|title=Inspection of the Bureau of Public Affairs|url=https://oig.state.gov/system/files/137721.pdf|publisher=[[Inspector General of the Department of State]]|date=February 2010|accessdate=April 2, 2016}}</ref>
+| preceding1      = 
+| preceding2      = 
+| jurisdiction    = [[Executive branch of the United States]]
+| headquarters    = [[Harry S. Truman Building]], [[Washington, D.C.]], [[United States]]
+| employees       = 209 (as of 2010)<ref name="OIG"/>
+| budget          = $13.5 million (FY 2009)<ref name="OIG"/>
+| chief1_name     = [[Michelle Giuda]]
+| chief1_position = [[Assistant Secretary of State for Public Affairs]]
+| chief2_name     = 
+| chief2_position = 
+| parent_department = [[United States Department of State|U.S. Department of State]]
+| website         = {{URL|https://www.state.gov/r/pa/}}
+}}
+
+The '''Bureau of Public Affairs''' ('''PA''') is the part of the [[United States Department of State]] that carries out the Secretary of State's mandate to help [[United States|Americans]] understand the importance of [[foreign policy]]. The Bureau is led by the [[Assistant Secretary of State for Public Affairs]].
+
+The PA Bureau pursues the State Department's mission to inform the American people and to feed their concerns and comments back to the policymakers. It accomplishes this in a variety of ways, which include: 
+*Strategic and tactical planning to advance the Administration's priority foreign policy goals; 
+*Conducting [[Spokesperson for the United States Department of State|press briefings]] for domestic and foreign press corps; 
+*Pursuing media outreach, enabling Americans everywhere to hear directly from key Department officials through local, regional and national media interviews; 
+*Managing the State Department's websites<ref>{{cite web|url=https://www.state.gov/ |title=U.S. Department of State |publisher=State.gov |date= |accessdate=2013-10-25}}</ref> and developing web pages with up-to-date information about U.S. [[foreign policy]]; 
+*Answering questions from the public about current foreign policy issues by phone, email, or letter; 
+*Arranging town meetings and scheduling speakers to visit communities to discuss U.S. foreign policy and why it is important to all Americans; 
+*Producing and coordinating audio-visual products and services in the U.S. and abroad for the public, the press, the Secretary of State, and Department bureaus and offices; 
+*Preparing historical studies on U.S. diplomacy and foreign affairs matters.
+
+==Office of Regional Media Outreach==
+The Office of Regional Media Outreach (RMO) provides local, regional, specialty, and national media a central connection point to department newsmakers.
+
+Their database of newsmakers enables members of the media to quickly find an expert at the department to provide insight, analysis, and expertise on foreign affairs, news and events. Searches can be made by name, issue, position or language spoken. Once an expert has been identified, their staff will set up an interview for television, radio, or print media.
+
+They list their 47 available experts.<ref>[http://newsmaker.state.gov/contactresultsall.aspx Newsmakers]{{dead link|date=December 2013}}</ref>
+
+==Office of Electronic Information==
+The Office of Electronic Information and Publications oversees the State Department's website, gathering information from all other parts of the Department, as well as participating in the process of publishing printed documents.<ref>{{cite web|url=http://2001-2009.state.gov/r/pa/ei |title=Bureau of Public Affairs: Electronic Information and Publications Office |publisher=2001-2009.state.gov |date= |accessdate=2013-10-25}}</ref>
+
+==Issues and press==
+This tab of the State Department's website,<ref>{{cite web|url=https://www.state.gov/issuesandpress/ |accessdate=August 16, 2006 |deadurl=yes |archiveurl=https://web.archive.org/web/20060815190720/http://www.state.gov/issuesandpress/ |archivedate=August 15, 2006 }}</ref> gives the official U.S. position on the major issues in the news. As it is the official publication of opinion from the U.S. State Department, it offers its own view of an issue, and any reports that support it. It is a start for preliminary research. On this same tab you can find daily press briefings from the major outlets of official statement. A record of "Remarks, Testimony: Senior Officials" since 2001,<ref name="state1">{{cite web|url=https://www.state.gov/r/pa/ei/speeches/ |title=Remarks, Testimony, Speeches, and Briefings by Department of State Officials |publisher=State.gov |date= |accessdate=2013-10-25}}</ref> "Daily Briefings"<ref>{{cite web|url=https://www.state.gov/r/pa/prs/dpb |title=Daily Press Briefings |publisher=State.gov |date= |accessdate=2013-10-25}}</ref> and "Remarks, Testimony: Senior Officials"<ref name="state1"/> Also available is a statement from Secretary Rice<ref>{{cite web|url=https://www.state.gov/secretary/rm/ |title=Former Secretary Clinton's Remarks |publisher=State.gov |date= |accessdate=2013-10-25}}</ref> and information about joining the listserv to receive 2-5 briefings a day.<ref>{{cite web|url=https://www.state.gov/misc/echannels/66822.htm |dead-url=yes |archiveurl=https://web.archive.org/web/20071211193232/http://www.state.gov/misc/echannels/66822.htm |archivedate=December 11, 2007 }}</ref> RSS Feeds and press releases from the Foreign Press Center,<ref>{{cite web|url=https://fpc.state.gov/c17993.htm |title=Briefings |publisher=Fpc.state.gov |date=2006-06-19 |accessdate=2013-10-25}}</ref> USAID,<ref>[http://www.usaid.gov/press/releases/ ] {{webarchive |url=https://web.archive.org/web/20070323155039/http://www.usaid.gov/press/releases/ |date=March 23, 2007 }}</ref> and the U.S. Mission to the United Nations (USUN).<ref>{{cite web |url=http://www.un.int/usa/ |title=United States Mission to the United Nations |publisher=Un.int |date= |accessdate=2013-10-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20071117095736/http://www.un.int/usa/ |archivedate=2007-11-17 |df= }}</ref> There is a section dedicated to audio and video content, including podcasts.<ref>{{cite web|url=https://www.state.gov/misc/echannels/66781.htm |accessdate=August 16, 2006 |deadurl=yes |archiveurl=https://web.archive.org/web/20061220095440/http://www.state.gov/misc/echannels/66781.htm |archivedate=December 20, 2006 }}</ref> “Major State Department Publications”<ref>{{cite web|url=https://www.state.gov/r/pa/ei/rls/dos/221.htm |title=Major State Department Publications |publisher=State.gov |date= |accessdate=2013-10-25}}</ref> giving information on past bribery charges and a “Guide to Doing Business”<ref>{{cite web|url=https://www.state.gov/m/a/sdbu/pubs/c13313.htm |accessdate=August 16, 2006 |deadurl=yes |archiveurl=https://web.archive.org/web/20060816111855/http://www.state.gov/m/a/sdbu/pubs/c13313.htm |archivedate=August 16, 2006 }}</ref> in the U.S. are all available online.
+
+==Travel and business==
+This tab offers important information and tips for Traveling and Business.<ref>[https://www.state.gov/travelandbusiness/ ] {{webarchive |url=https://web.archive.org/web/20070313204902/http://www.state.gov/travelandbusiness/ |date=March 13, 2007 }}</ref> For travel, they offer   information on properly documenting your identity on trips. Also included is information on visas, and the developing technology of “e-passports”.<ref>{{cite web|url=https://travel.state.gov/passport/eppt/eppt_2498.html |accessdate=August 16, 2006 |deadurl=yes |archiveurl=https://web.archive.org/web/20060812150014/http://travel.state.gov/passport/eppt/eppt_2498.html |archivedate=August 12, 2006 }}</ref>
+
+For business, they offer studies on major foreign markets and subsequent regulations,<ref>{{cite web |url=https://www.state.gov/e/eeb/cba/ |title=Doing Business in International Markets |publisher=[[U.S. Department of State]]}}</ref> and provide a tool for “International Market Research”.<ref>{{cite web |author=ITA |url=http://www.buyusainfo.net/adsearch.cfm?search_type=int&loadnav=no |title=U.S. Commercial Service : Your Global Business Partner |publisher=Buyusainfo.net |date=2009-05-14 |accessdate=2013-10-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20130821092141/http://www.buyusainfo.net/adsearch.cfm?search_type=int&loadnav=no |archivedate=2013-08-21 |df= }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.state.gov/r/pa Bureau of Public Affairs website]
+* {{Librivox author |id=8935}}
+			
+{{USDOS agencies}}
+
+[[Category:United States Department of State agencies|PA]]
+[[Category:Public relations in the United States]]
+[[Category:Bureau of Public Affairs| ]]
+[[Category:Government agencies established in 1944]]

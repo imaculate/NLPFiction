@@ -1,0 +1,517 @@
+{{Infobox official post
+| post                     = Ambassador of the United States<br>to Sweden
+| native_name              = {{small|Förenta staternas ambassadör i Sverige}}
+| flag                     = Flag of a United States ambassador.svg{{!}}border
+| flagsize                 = 200px
+| flagcaption              = [[Ambassadors of the United States|United States ambassador flag]]
+| insignia                    = US Department of State official seal.svg
+| insigniasize = 120px
+| image                    = David E. Lindwall - official photo.jpg
+| incumbent                = [[David Lindwall]] <br /> ''as [[Chargé d'affaires|Chargé d'affaires-ai]]''
+| incumbentsince           = January 20, 2017
+| style                    = 
+| department               = [[U.S. Department of State]]<br>[[Embassy of the United States, Stockholm]]
+| residence                = Villa Åkerlund
+| seat                     = [[Stockholm]], [[Sweden]]
+| reports_to               = [[United States Secretary of State|U.S. Secretary of State]]
+| nominator                = [[President of the United States|The President]]
+| appointer                = [[President of the United States|The President]]
+| appointer_qualified      = {{nobreak|<small>with the [[advice and consent]] of the [[United States Senate|Senate]]</small>}}
+| termlength               = ''[[At the pleasure of the President]]''
+| termlength_qualified     = {{small|No fixed term}} 
+| inaugural                = [[Benjamin Franklin]]<br/><small>as Minister Plenipotentiary</small>
+| formation                = September 28, 1782
+| last                     =
+| abolished                =
+| succession               = 
+| deputy                   = 
+| salary                   = 
+| website                  = [http://stockholm.usembassy.gov/ U.S. Embassy - Stockholm]
+}}
+The '''United States Ambassador to Sweden''' ({{lang-sv|USA:s ambassadör i Sverige}}) serves as the official diplomatic representative of the [[President of the United States|President]] and the [[Government of the United States of America]] to the [[Monarchy of Sweden|King]] and the [[Government of Sweden|Government of the Kingdom of Sweden]]. [[Sweden – United States relations|Diplomatic relations between Sweden and the United States]] began with the signing of the [[Treaty of Amity and Commerce (United States–Sweden)|Treaty of Amity and Commerce]] in 1783. 
+
+In addition, from 1814 to 1905 the United States Chief of Mission in Sweden also represented United States interest with respect to [[Norway]]; as the latter was during that period of time aligned with Sweden, for purposes of foreign relations, in the [[Union between Sweden and Norway]]. 
+
+The contemporary tendency of American presidents (of both parties) is to appoint keen political [[fundraisers]] and/or prominent supporters from previous presidential election campaigns, rather than promoting professional members of the [[United States Foreign Service]] to the top position.
+
+The current acting Ambassador is [[David Lindwall]], who assumed his duties in 2017.
+
+==Residence==
+[[Image:Diplomatstaden 2008 Leg 3.jpg|thumb|250px|left|The residence ("Villa Åkerlund") of the U.S. Ambassador in Stockholm, Sweden.]]
+Since the 1930s, the ambassador is resident in the [[ambassadorial residence]], ''Villa Åkerlund'', of the [[United States Embassy]] in [[Diplomatstaden]], [[Stockholm]].
+
+{{clear}}
+
+==List of American Chiefs of Mission to Sweden==
+===18th century===
+{| class=wikitable
+|-
+! valign=bottom | Portrait
+! style="text-align:center; vertical-align:bottom;"| Representative
+! valign=bottom | Title
+! valign=bottom | Appointment
+! valign=bottom | Presentation of<br>credentials
+! valign=bottom | Termination of<br>mission
+|-
+|[[File:BenFranklinDuplessis.jpg|50px]]
+|[[Benjamin Franklin]]
+|Minister Plenipotentiary
+|September 28, 1782
+|<small>None: was in [[Paris]] as U.S. ambassador to France; negotiated treaty with the Swedish Ambassador in Paris.</small><ref name="BenFranklin">Franklin was concurrently the [[United States Ambassador to France|ambassador to France]]. He did not proceed to Sweden and did not present credentials there. He did, however, negotiate a "[[Treaty of Amity and Commerce (United States–Sweden)|Treaty of Amity and Commerce]]" with Count [[Gustaf Philip Creutz]], Swedish Ambassador in Paris. {{cite web|url=https://history.state.gov/departmenthistory/people/franklin-benjamin|title=Sweden|publisher=United States Department of State|accessdate=2011-07-04}}</ref>
+|April 3, 1783
+|}
+
+=== 1814-1854 (Non-Resident Minister)===
+{| class=wikitable
+|-
+!  style="text-align:center; vertical-align:bottom;"| Representative
+! valign=bottom | Title
+! valign=bottom | Appointment
+! valign=bottom | Presentation of<br>credentials
+! valign=bottom | Termination of<br>mission
+|-
+|-
+|[[Jonathan Russell]];<ref name="SwedenRelations1">Although Benjamin Franklin had been appointed as minister to Sweden, the U.S. and Sweden did not formally establish diplomatic relations until 1818 when Jonathan Russell presented his credentials to the King on April 29, 1818.{{cite web|url=https://history.state.gov/countries/sweden|title=Guide to Countries and recognition|publisher=United States Department of State|accessdate=2011-07-04}}</ref><ref>[[John L. Lawrence]] was Chargé d'Affaires at Stockholm, representing the U.S. during the absence of Minister Jonathan Russell, from June 7, 1814, to May 19, 1815; see [https://books.google.com/books?id=0YcbAQAAMAAJ&pg=PA554 ''American State Papers''] (1859; pg. 554ff)</ref>
+|Minister Plenipotentiary
+|January 18, 1814
+|April 29, 1818
+|October 22, 1818
+|-
+|[[Christopher Hughes (diplomat)|Christopher Hughes]]
+|Chargé d'Affaires
+|January 21, 1819
+|
+|July 5, 1825
+|-
+|[[William C. Somerville]]
+|Chargé d'Affaires
+|March 9, 1825
+|
+|<small>Died en route to post</small>
+|-
+|[[John James Appleton]]
+|Chargé d'Affaires
+|May 2, 1826
+|October 28, 1826
+|August 16, 1830
+|-
+|[[Christopher Hughes (diplomat)|Christopher Hughes]]
+|Chargé d'Affaires
+|March 3, 1830
+|August 16, 1830
+|September 22, 1841
+|-
+|[[George W. Lay]]
+|Chargé d'Affaires
+|May 12, 1842
+|October 4, 1842
+|October 11, 1845
+|-
+|[[Henry W. Ellsworth]]
+|Chargé d'Affaires
+|April 19, 1845 
+|October 11, 1845
+|January 25, 1861
+|-
+|[[Francis Schroeder]]
+|Chargé d'Affaires
+|November 7, 1849 
+|April 22, 1850
+|June 29, 1854
+|-
+|}
+
+===1854-1885 (Minister Resident)===
+{| class=wikitable
+|-
+!  style="text-align:center; vertical-align:bottom;"| Representative
+! valign=bottom | Title
+! valign=bottom | Appointment
+! valign=bottom | Presentation of<br>credentials
+! valign=bottom | Termination of<br>mission
+|-
+|[[Francis Schroeder]]
+|Minister Resident
+|June 29, 1854
+|August 19, 1854
+|September 17, 1857
+|-
+|[[Benjamin F. Angel]]
+|Minister Resident
+|July 17, 1857
+|November 4, 1857
+|June 25, 1861
+|-
+|[[Jacob S. Haldeman]]
+|Minister Resident
+|March 16, 1861
+|June 25, 1861
+|September 24, 1864
+|-
+|[[James H. Campbell]]
+|Minister Resident
+|May 18, 1864
+|Sep 24, 1864
+|March 29, 1867
+|-
+|[[John McGinnis (diplomat)|John McGinnis, Jr.]]
+|Minister Resident
+|November 16, 1866 
+|
+|<small>Did not proceed to post, his nomination having been rejected by the Senate while he was en route.</small>
+|-
+|[[Joseph J. Bartlett]]
+|Minister Resident
+|March 19, 1867
+|June 4, 1867
+|July 24, 1869
+|-
+|[[John S. Carlile]]
+|Minister Resident
+|
+|
+|<small>Not commissioned</small>
+|-
+|[[Christopher Columbus Andrews]]
+|Minister Resident
+|June 3, 1869 
+|July 24, 1869
+|November 5, 1877
+|-
+|[[John L. Stevens]]
+|Minister Resident
+|August 28, 1877 
+|November 5, 1877
+|June 3, 1883
+|-
+|[[William W. Thomas, Jr.]]
+|Minister Resident
+|June 6, 1883
+|September 6, 1883
+|June 30, 1885
+|-
+|[[Rufus Magee]]
+|Minister Resident
+|April 2, 1885
+|July 3, 1885
+|<small>Promoted to Envoy Extraordinary and Minister Plenipotentiary</small>
+|}
+
+===1885-1947 (Envoy Extraordinary and Minister Plenipotentiary) === 
+{| class=wikitable
+|-
+!  style="text-align:center; vertical-align:bottom;"| Representative
+! valign=bottom | Title
+! valign=bottom | Appointment
+! valign=bottom | Presentation of<br>credentials
+! valign=bottom | Termination of<br>mission
+|-
+|-
+|[[Rufus Magee]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|August 10, 1888
+|September 26, 1888
+|May 25, 1889
+|-
+|[[William W. Thomas, Jr.]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|March 19, 1889
+|May 27, 1889
+|May 2, 1894
+|-
+|[[Thomas W. Ferguson (diplomat)|Thomas W. Ferguson]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|February 14, 1894
+|May 2, 1894
+|February 7, 1898
+|-
+|[[William W. Thomas, Jr.]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|December 18, 1898
+|February 8, 1898
+|May 31, 1905
+|-
+|[[Charles H. Graves]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|March 8, 1905
+|May 31, 1905
+|December 12, 1913
+|-
+|[[Ira Nelson Morris]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|July 13, 1914
+|August 28, 1914
+|April 3, 1923
+|-
+|[[Robert Woods Bliss]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|January 30, 1923
+|August 8, 1923
+|March 15, 1927
+|-
+|[[Leland Harrison]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|February 26, 1927
+|May 31, 1927
+|November 11, 1929
+|-
+|[[John Motley Morehead III]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|January 22, 1930
+|March 31, 1930
+|April 6, 1933
+|-
+|[[Laurence A. Steinhardt]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|May 11, 1933
+|August 28, 1933
+|June 26, 1937
+|-
+|[[Fred Morris Dearing]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|April 22, 1937
+|September 23, 1937
+|June 17, 1938
+|-
+|[[Frederick A. Sterling]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|June 16, 1938
+|September 26, 1938
+|July 14, 1941
+
+|-
+|[[Herschel Johnson|Herschel V. Johnson]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|October 21, 1941
+|December 12, 1941
+|April 28, 1946
+|-
+|[[Louis G. Dreyfus, Jr.]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|August 1, 1946
+|January 3, 1947
+|October 6, 1947
+|-
+|[[H. Freeman Matthews]]
+|Envoy Extraordinary and Minister Plenipotentiary
+|July 21, 1947
+|
+|
+|}
+
+===1947-present day (Ambassador Extraordinary and Plenipotentiary)===
+{| class=wikitable
+|-
+! valign=bottom | Portrait
+!  style="text-align:center; vertical-align:bottom;"| Representative
+! valign=bottom | Title
+! valign=bottom | Appointment
+! valign=bottom | Presentation of<br>credentials
+! valign=bottom | Termination of<br>mission
+|-
+|
+|[[H. Freeman Matthews]]
+|Ambassador Extraordinary and Plenipotentiary
+|September 20, 1947
+|December 5, 1947
+|May 24, 1950
+|-
+|
+|[[W. Walton Butterworth]]
+|Ambassador Extraordinary and Plenipotentiary
+|July 5, 1950
+|September 18, 1950
+|December 9, 1953
+|-
+|
+|[[John M. Cabot]]
+|Ambassador Extraordinary and Plenipotentiary
+|March 1, 1954
+|May 6, 1954
+|May 14, 1957
+|-
+|
+|[[Francis White (diplomat)|Francis White]]
+|Ambassador Extraordinary and Plenipotentiary
+|June 3, 1957
+|September 17, 1957
+|December 9, 1958
+|-
+|
+|[[James C.H. Bonbright]]
+|Ambassador Extraordinary and Plenipotentiary
+|October 29, 1958
+|January 9, 1959
+|March 20, 1961
+|-
+|
+|[[J. Graham Parsons]]
+|Ambassador Extraordinary and Plenipotentiary
+|March 15, 1961
+|May 16, 1961
+|April 17, 1967
+|-
+|
+|[[William Womack Heath]]
+|Ambassador Extraordinary and Plenipotentiary
+|April 5, 1967
+|May 23, 1967
+|January 23, 1969
+|-
+|
+|'''Vacant'''
+|No ambassador appointed
+|January 24, 1969
+|
+|February 15, 1970
+|-
+|
+|[[Jerome H. Holland]]
+|Ambassador Extraordinary and Plenipotentiary
+|February 16, 1970
+|April 14, 1970
+|August 30, 1972
+|-
+|
+|[[Arthur J. Olsen]] 
+|Chargé d'Affaires ''ad interim''
+|December 1972
+|
+|May 1974
+|-
+|
+|[[Robert Strausz-Hupé]]
+|Ambassador Extraordinary and Plenipotentiary
+|April 25, 1974
+|May 29, 1974
+|March 3, 1976
+|-
+|
+|[[David S. Smith]]
+|Ambassador Extraordinary and Plenipotentiary
+|April 6, 1976
+|May 7, 1976
+|April 29, 1977
+|-
+|
+|[[Rodney O'Gliasain Kennedy-Minott]]
+|Ambassador Extraordinary and Plenipotentiary
+|August 3, 1977
+|September 29, 1977
+|September 26, 1980
+|-
+|
+|[[Franklin S. Forsberg]]
+|Ambassador Extraordinary and Plenipotentiary
+|December 11, 1981
+|January 14, 1982
+|December 12, 1985
+|-
+|
+|[[Gregory J. Newell]] 
+|Ambassador Extraordinary and Plenipotentiary
+|December 9, 1985
+|December 19, 1985
+|June 12, 1989
+|-
+|
+|[[Charles E. Redman|Charles Edgar Redman]]
+|Ambassador Extraordinary and Plenipotentiary
+|May 12, 1989
+|June 13, 1989
+|August 24, 1992
+|-
+|
+|[[Thomas L. Siebert]]
+|Ambassador Extraordinary and Plenipotentiary
+|February 9, 1994
+|March 24, 1994
+|December 17, 1997
+|-
+|
+|[[Lyndon Lowell Olson, Jr.]]
+|Ambassador Extraordinary and Plenipotentiary
+|November 10, 1997
+|January 22, 1998
+|August 1, 2001
+|-
+|
+|[[Charles A. Heimbold, Jr.]]
+|Ambassador Extraordinary and Plenipotentiary
+|August 3, 2001
+|September 26, 2001
+|February 12, 2004
+|-
+|[[File:M._Teel_Bivins,_US_Dept_of_State_photo_portrait.jpg|50px]]
+|[[Miles T. Bivins]]
+|Ambassador Extraordinary and Plenipotentiary
+|May 25, 2004
+|June 9, 2004
+|January 31, 2006<ref>{{cite news | title = Health ends term of Texan envoy | url = http://www.chron.com/CDA/archives/archive.mpl?id=2005_4026395 | work = [[Houston Chronicle]] | page = A19 | date = 2005-12-15 | accessdate = 2007-01-05}}</ref>
+|-
+|[[File:Michael_M_Wood.jpg|50px]]
+|[[Michael M. Wood]]
+|Ambassador Extraordinary and Plenipotentiary
+|June 5, 2006
+|
+|January 20, 2009
+|-
+|[[File:Matthew Barzun.jpg|50px]]
+|[[Matthew Barzun]]
+|Ambassador Extraordinary and Plenipotentiary
+|August 12, 2009
+|August 21, 2009
+|May 28, 2011<ref>{{cite web|url=https://history.state.gov/departmenthistory/people/barzun-matthew-winthrop|title=Matthew Winthrop Barzun (1970-)|publisher=United States Department of State|accessdate=2014-06-26}}</ref>
+|-
+|[[File:Mark Brzezinski - U.S. Ambassador Mark Brzezinski.jpg|50px]]
+|[[Mark Brzezinski]]
+|Ambassador Extraordinary and Plenipotentiary
+|October 18, 2011
+|November 24, 2011
+|July 1, 2015
+|- 
+|
+|Robert Gilchrist
+|Chargé d'Affaires ''ad interim''
+|July 1, 2015 
+|
+|March 1, 2016
+|-
+|
+|[[Azita Raji]]
+|Ambassador Extraordinary and Plenipotentiary
+|February 1, 2016
+|March 1, 2016
+|January 20, 2017 
+|-
+|
+|[[David Lindwall]]
+|Chargé d'Affaires ''ad interim''
+|January 20, 2017 
+|
+|''Incumbent'' 
+|}
+
+==Notes==
+{{reflist}}
+
+==See also==
+*[[Foreign relations of Sweden]]
+*[[Foreign relations of the United States]]
+
+==References==
+*[https://www.state.gov/r/pa/ei/bgn/2880.htm United States Department of State: Background notes on Sweden]
+*{{StateDept}}
+
+==External links==
+* [https://history.state.gov/departmenthistory/people/chiefsofmission/sweden United States Department of State: Chiefs of Mission for Sweden]
+* [https://www.state.gov/p/eur/ci/sw/ United States Department of State: Sweden]
+* [http://stockholm.usembassy.gov/ United States Embassy in Stockholm]
+
+{{Benjamin Franklin}}
+{{US Ambassadors to Sweden}}
+{{Ambassadors of the United States}}
+
+[[Category:Lists of ambassadors of the United States|Sweden]]
+[[Category:Ambassadors of the United States to Sweden| ]]
+[[Category:Lists of ambassadors to Sweden|United States]]

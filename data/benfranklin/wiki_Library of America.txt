@@ -1,0 +1,813 @@
+{{Infobox publisher
+| image        = [[File:Library of America.JPG|250px]]
+| parent       = 
+| status       = 
+| founded      = 1979
+| founder      = 
+| successor    = 
+| country      = United States
+| headquarters = New York City
+| distribution = [[Penguin Random House]] Publisher Services<ref>[http://www.penguinrandomhouse.biz/publisherservices/clients/index.html Current clients]</ref>
+| keypeople    = 
+| publications = Books
+| topics       = 
+| genre        = 
+| imprints     = 
+| revenue      = 
+| numemployees = 
+| nasdaq       = 
+| url          = {{official URL}}
+}}
+
+The '''Library of America''' (LOA) is a [[nonprofit]] [[publisher]] of classic [[American literature]]. Founded in 1979 with seed money from the [[National Endowment for the Humanities]] and the [[Ford Foundation]], the LOA has published over 300 volumes by a wide range of authors from [[Mark Twain]] to [[Philip Roth]], [[Nathaniel Hawthorne]] to [[Saul Bellow]], including the selected writings of several [[U.S. presidents]].<ref name=skinner>{{cite web |url=http://www.neh.gov/humanities/2015/septemberoctober/feature/edmund-wilsons-big-idea-series-books-devoted-classic-americ |title=Edmund Wilson’s Big Idea: A Series of Books Devoted to Classic American Writing. It Almost Didn’t Happen |work=[[Humanities (magazine)|Humanities]] |author=David Skinner  |date=September 2015 |accessdate=September 3, 2015}}</ref>
+
+== Overview and history ==
+The ''[[Bibliothèque de la Pléiade]]'' ("La Pléiade") series published in France provided the model for the LOA, which was long a dream of critic and author [[Edmund Wilson]].<ref name="time1982">{{Citation
+  | last = Gray
+  | first = Paul
+  | title = Books: A Library in the Hands
+  | journal = Time 
+  | date = 1982-05-03
+  | url = http://www.time.com/time/magazine/article/0,9171,953485,00.html
+}}
+</ref>
+
+The initial organizers included American academic [[Daniel Aaron]],<ref name="gazette2007">Cromie, William J., Ken Gewertz, Corydon Ireland, and Alvin Powell. [http://www.news.harvard.edu/gazette/2007/06.07/03-honorands.html "Honorary degrees awarded at Commencement's Morning Exercises"] {{webarchive|url=https://web.archive.org/web/20080504132654/http://www.news.harvard.edu/gazette/2007/06.07/03-honorands.html |date=2008-05-04 }}, ''Harvard Gazette''. June 7, 2007.</ref> 
+[[Lawrence Hughes (publisher)|Lawrence Hughes]], [[Helen Honig Meyer]], and [[Roger W. Straus, Jr.]]. 
+The initial board of advisers included [[Robert Penn Warren]], [[C. Vann Woodward]], [[R. W. B. Lewis]], [[Robert Coles (psychiatrist)|Robert Coles]], [[Irving Howe]], and [[Eudora Welty]].
+Officers included [[Richard Poirier]], [[Jason Epstein]], [[Daniel Aaron]], and [[Cheryl Hurley]].<ref name="time1982"/>
+{{As of|2017}}, Hurley remains president of the Library of America.<ref name="People">[https://www.loa.org/about/loa-people People] Library of America website</ref><ref>{{Citation
+  | last = Finn
+  | first = Robin
+  | title = The (Mostly Late) Greats, in New Circulation
+  | newspaper = New York Times
+  | date = 2001-07-10
+  | url = https://www.nytimes.com/2001/07/10/nyregion/10PROF.html
+  | accessdate = 2010-02-22
+}}</ref>
+
+The first volumes were published in 1982, ten years after Wilson's death.<ref name="time1982"/> 
+Besides the works of many individual writers, the series includes anthologies like ''Reporting World War II'' and (in a different format from the above illustration) ''Writing Los Angeles''.
+
+The publisher aims to keep classics and notable historical and genre works in print permanently to preserve America's literary and cultural heritage. Although the LOA sells more than a quarter-million volumes annually, the publisher depends on individual contributions to help meet the costs of preparing, marketing, manufacturing, and maintaining its books. Some books published as additions to the series are not kept in print in perpetuity.
+
+The Publisher of Library of America is [[Max Rudin]]; [[John Kulka]] is Editorial Director; David Cloyce Smith is Director of Marketing.<ref name="People"/>
+
+== Research and scholarship ==
+LOA volumes are prepared and edited by recognized scholars on the subject. Determined efforts are made to correct errors and omissions in previous editions and create a definitive version of the material. Notes on the text are normally included and the source texts properly identified.
+
+For instance, the LOA text of [[Richard Wright (author)|Richard Wright's]] ''[[Native Son]]'' restored a number of passages that had been previously cut. The LOA commissioned a new translation of [[Alexis de Tocqueville]]'s ''[[Democracy in America]]'' by [[Arthur Goldhammer]] for their edition of the text.
+
+Each volume also includes a chronology of the author's career or significant incidents in the case of the anthology volumes.
+
+== Build and manufacture ==
+Each volume in the series is printed on ([[acid-free paper|acid-free]]), thin, but durable paper (allowing books with a large number of pages to remain fairly compact). The paper meets the requirements for permanence set by the [[American National Standards Institute]]. The binding cloth is woven rayon. The books are [[Smyth-sewn]] for permanence and flexibility, and each includes a ribbon marker. Each volume has an identical trim size, based on the [[golden ratio]], which the ancient Greeks considered to be the ideal proportion. Each volume contains 700 to 1,600 pages. The typeface used for each volume is [[Galliard (typeface)|Galliard]].
+== The Library of America series ==<!-- This section is linked from [[Philip K. Dick]] -->
+
+=== Main series ===
+{| class="sortable wikitable"
+|-
+! # !! Author !! Title !! Editor(s) !! Year !! ISBN
+|-
+| 1 || {{sortname|Herman|Melville}} || ''[[Typee]], [[Omoo]], [[Mardi]]'' || {{sortname|G. Thomas|Tanselle}} || 1982 || {{ISBNT|978-0-940450-00-4}}
+|-
+| 2 || {{sortname|Nathaniel|Hawthorne}} || ''Tales and Sketches'' || {{sortname|Roy Harvey|Pearce|nolink=1}} || 1982 || {{ISBNT|978-0-940450-03-5}}
+|-
+| 3 || {{sortname|Walt|Whitman}} || ''Poetry and Prose'' || {{sortname|Justin|Kaplan}} || 1982 || {{ISBNT|978-0-940450-02-8}}
+|-
+| 4 || {{sortname|Harriet|Beecher Stowe}} || ''Three Novels'' || {{sortname|Kathryn Kish|Sklar|nolink=1}} || 1982 || {{ISBNT|978-0-940450-01-1}}
+|-
+| 5 || {{sortname|Mark|Twain}} || ''Mississippi Writings'' || {{sortname|Guy|Cardwell|nolink=1}} || 1982 || {{ISBNT|978-0-940450-07-3}}
+|-
+| 6 || {{sortname|Jack|London}} || ''Novels and Stories'' || {{sortname|Donald|Pizer|nolink=1}} || 1982 || {{ISBNT|978-0-940450-05-9}}
+|-
+| 7 || {{sortname|Jack|London}} || ''Novels and Social Writings'' || {{sortname|Donald|Pizer|nolink=1}} || 1982 || {{ISBNT|978-0-940450-06-6}}
+|-
+| 8 || {{sortname|William Dean|Howells}} || ''Novels 1875–1886'' || {{sortname|Edwin M.|Cady|nolink=1}} || 1982 || {{ISBNT|978-0-940450-04-2}}
+|-
+| 9 || {{sortname|Herman|Melville}} || ''[[Redburn]], [[White-Jacket]], [[Moby-Dick]]'' || {{sortname|G. Thomas|Tanselle|nolink=1}} || 1983 || {{ISBNT|978-0-940450-09-7}}
+|-
+| 10 || {{sortname|Nathaniel|Hawthorne}} || ''Collected Novels'' || {{sortname|Millicent|Bell|nolink=1}} || 1983 || {{ISBNT|978-0-940450-08-0}}
+|-
+| 11 || {{sortname|Francis|Parkman}} || ''[[France and England in North America]], vol. 1'' || {{sortname|David|Levin|nolink=1}} || 1983 || {{ISBNT|978-0-940450-10-3}}
+|-
+| 12 || {{sortname|Francis|Parkman}} || ''[[France and England in North America]], vol. 2'' || {{sortname|David|Levin|nolink=1}} || 1983 || {{ISBNT|978-0-940450-11-0}}
+|-
+| 13 || {{sortname|Henry|James}} || ''Novels 1871–1880'' || {{sortname|William T.|Stafford|nolink=1}} || 1983 || {{ISBNT|978-0-940450-13-4}}
+|-
+| 14 || {{sortname|Henry|Adams|Henry Brooks Adams}} || ''Novels, [[Mont Saint Michel and Chartres|Mont Saint Michel]], [[The Education of Henry Adams|The Education]]'' || {{sortname|Ernest|Samuels}} & & Jayne N. Samuels || 1983 || {{ISBNT|978-0-940450-12-7}}
+|-
+| 15 || {{sortname|Ralph Waldo|Emerson}} || ''Essays and Lectures'' || {{sortname|Joel|Porte}} || 1983 || {{ISBNT|978-0-940450-15-8}}
+|-
+| 16 || {{sortname|Washington|Irving}} || ''History, Tales, and Sketches'' || {{sortname|James W.|Tuttleton}} || 1983 || {{ISBNT|978-0-940450-14-1}}
+|-
+| 17 || {{sortname|Thomas|Jefferson}} || ''Writings'' || {{sortname|Merrill D.|Peterson}} || 1984 || {{ISBNT|978-0-940450-16-5}}
+|-
+| 18 || {{sortname|Stephen|Crane}} || ''Prose and Poetry'' || {{sortname|J. C.|Levenson|nolink=1}} || 1984 || {{ISBNT|978-0-940450-17-2}}
+|-
+| 19 || {{sortname|Edgar Allan|Poe}} || ''Poetry and Tales'' || {{sortname|Patrick F.|Quinn|nolink=1}} || 1984 || {{ISBNT|978-0-940450-18-9}}
+|-
+| 20 || {{sortname|Edgar Allan|Poe}} || ''Essays and Reviews'' || {{sortname|G. R.|Thompson|nolink=1}} || 1984 || {{ISBNT|978-0-940450-19-6}}
+|-
+| 21 || {{sortname|Mark|Twain}} || ''[[The Innocents Abroad]] & [[Roughing It]]'' || {{sortname|Guy|Cardwell|nolink=1}} || 1984 || {{ISBNT|978-0-940450-25-7}}
+|-
+| 22 || {{sortname|Henry|James}} || ''Literary Criticism: Essays, American & English Writers'' || {{sortname|Leon|Edel}} & Mark Wilson || 1984 || {{ISBNT|978-0-940450-22-6}}
+|-
+| 23 || {{sortname|Henry|James}} || ''Literary Criticism: European Writers & The Prefaces'' || {{sortname|Leon|Edel}} & Mark Wilson || 1984 || {{ISBNT|978-0-940450-23-3}}
+|-
+| 24 || {{sortname|Herman|Melville}} || ''Pierre, Israel Potter, [[The Confidence-Man]], Tales & [[Billy Budd]]'' || {{sortname|Harrison|Hayford}} || 1985 || {{ISBNT|978-0-940450-24-0}}
+|-
+| 25 || {{sortname|William|Faulkner}} || ''Novels 1930–1935: As I Lay Dying/Sanctuary/Light in August/Pylon'' || {{sortname|Joseph|Blotner|nolink=1}} & Noel Polk || 1985 || {{ISBNT|978-0-940450-26-4}}
+|-
+| 26 || {{sortname|James Fenimore|Cooper}} || ''[[Leatherstocking Tales|The Leatherstocking Tales]], vol. 1'' || {{sortname|Blake|Nevius|nolink=1}} || 1985 || {{ISBNT|978-0-940450-20-2}}
+|-
+| 27 || {{sortname|James Fenimore|Cooper}} || ''The Leatherstocking Tales, vol. 2'' || {{sortname|Blake|Nevius|nolink=1}} || 1985 || {{ISBNT|978-0-940450-21-9}}
+|-
+| 28 || {{sortname|Henry David|Thoreau}} || ''A Week, [[Walden]], The Maine Woods, Cape Cod'' || {{sortname|Robert F.|Sayre|nolink=1}} || 1985 || {{ISBNT|978-0-940450-27-1}}
+|-
+| 29 || {{sortname|Henry|James}} || ''Novels 1881–1886'' || {{sortname|William T.|Stafford|nolink=1}} || 1985 || {{ISBNT|978-0-940450-30-1}}
+|-
+| 30 || {{sortname|Edith|Wharton}} || ''Novels'' || {{sortname|R. W. B.|Lewis}} || 1986 || {{ISBNT|978-0-940450-31-8}}
+|-
+| 31 || {{sortname|Henry|Adams}} || ''History of the United States during the Administrations of Jefferson'' || {{sortname|Earl N.|Harbert|nolink=1}} || 1986 || {{ISBNT|978-0-940450-34-9}}
+|-
+| 32 || {{sortname|Henry|Adams}} || ''History of the United States during the Administrations of Madison'' || {{sortname|Earl N.|Harbert|nolink=1}} || 1986 || {{ISBNT|978-0-940450-35-6}}
+|-
+| 33 || {{sortname|Frank|Norris}} || ''Novels and Essays: Vandover and the Brute/McTeague/The Octopus/Essays'' || {{sortname|Donald|Pizer|nolink=1}} || 1986 || {{ISBNT|978-0-940450-40-0}}
+|-
+| 34 || {{sortname|W. E. B.|Du Bois}} || ''Writings'' || {{sortname|Nathan I.|Huggins|Nathan Irvin Huggins}} || 1986 || {{ISBNT|978-0-940450-33-2}}
+|-
+| 35 || {{sortname|Willa|Cather}} || ''Early Novels and Stories'' || {{sortname|Sharon|O'Brien|nolink=1}} || 1987 || {{ISBNT|978-0-940450-39-4}}
+|-
+| 36 || {{sortname|Theodore|Dreiser}} || ''[[Sister Carrie]], [[Jennie Gerhardt]], Twelve Men'' || {{sortname|Richard|Lehan|nolink=1}} || 1987 || {{ISBNT|978-0-940450-41-7}}
+|-
+| 37A || {{sortname|Benjamin|Franklin}} || ''[[Silence Dogood]], The Busy-Body, & Early Writings'' || {{sortname|J. A. Leo|Lemay}} || 1987<br/>2005 || {{ISBNT|978-1-931082-22-8}}
+|-
+| 37B || {{sortname|Benjamin|Franklin}} || ''[[The Autobiography of Benjamin Franklin|Autobiography]], [[Poor Richard's Almanack|Poor Richard]], & Later Writings'' || {{sortname|J. A. Leo|Lemay}} || 1987<br/>2005 || {{ISBNT|978-1-883011-53-6}}
+|-
+| 38 || {{sortname|William|James}} || ''Writings'' 1902–1910 ||  {{sortname|Bruce|Kuklick}} || 1987 || {{ISBNT|978-0-940450-38-7}}
+|-
+| 39 || {{sortname|Flannery|O'Connor}} || ''Collected Works'' || {{sortname|Sally|Fitzgerald|nolink=1}} || 1988 || {{ISBNT|978-0-940450-37-0}}
+|-
+| 40 || {{sortname|Eugene|O'Neill}} || ''Complete Plays 1913–1920'' || {{sortname|Travis|Bogard|nolink=1}} || 1988 || {{ISBNT|978-0-940450-48-6}}
+|-
+| 41 || {{sortname|Eugene|O'Neill}} || ''Complete Plays 1920–1931'' || {{sortname|Travis|Bogard|nolink=1}} || 1988 || {{ISBNT|978-0-940450-49-3}}
+|-
+| 42 || {{sortname|Eugene|O'Neill}} || ''Complete Plays 1932–1943'' || {{sortname|Travis|Bogard|nolink=1}} || 1988 || {{ISBNT|978-0-940450-50-9}}
+|-
+| 43 || {{sortname|Henry|James}} || ''Novels 1886–1890'' || {{sortname|Daniel Mark|Fogel}} || 1989 || {{ISBNT|978-0-940450-56-1}}
+|-
+| 44 || {{sortname|William Dean|Howells}} || ''Novels 1886–1888'' || {{sortname|Don L.|Cook|nolink=1}} || 1989 || {{ISBNT|978-0-940450-51-6}}
+|-
+| 45 || {{sortname|Abraham|Lincoln}} || ''Speeches and Writings 1832–1858'' || {{sortname|Don E.|Fehrenbacher}} || 1989 || {{ISBNT|978-0-940450-43-1}}
+|-
+| 46 || {{sortname|Abraham|Lincoln}} || ''Speeches and Writings 1859–1865'' || {{sortname|Don E.|Fehrenbacher}} || 1989 || {{ISBNT|978-0-940450-63-9}}
+|-
+| 47 || {{sortname|Edith|Wharton}} || ''Novellas and Other Writings'' || {{sortname|Cynthia Griffin|Wolff|nolink=1}} || 1990 || {{ISBNT|978-0-940450-53-0}}
+|-
+| 48 || {{sortname|William|Faulkner}} || ''Novels 1936–1940: Absalom, Absalom!/The Unvanquished/If I Forget Thee, Jerusalem/The Hamlet'' || {{sortname|Joseph|Blotner|nolink=1}} & Noel Polk || 1990 || {{ISBNT|978-0-940450-55-4}}
+|-
+| 49 || {{sortname|Willa|Cather}} || ''Later Novels'' || {{sortname|Sharon|O'Brien|nolink=1}} || 1990 || {{ISBNT|978-0-940450-52-3}}
+|-
+| 50 || {{sortname|Ulysses S.|Grant}} || ''Personal Memoirs and Selected Letters'' || {{sortname|Mary Drake|McFeeley|nolink=1}} & William S. McFeeley || 1990 || {{ISBNT|978-0-940450-58-5}}
+|-
+| 51 || {{sortname|William Tecumseh|Sherman}} || ''Memoirs'' || {{sortname|Charles|Royster}} || 1990 || {{ISBNT|978-0-940450-65-3}}
+|-
+| 52 || {{sortname|Washington|Irving}} || ''[[Bracebridge Hall]], [[Tales of a Traveller]], [[Tales of the Alhambra|The Alhambra]]'' || {{sortname|Andrew|Myers|nolink=1}} || 1991 || {{ISBNT|978-0-940450-59-2}}
+|-
+| 53 || {{sortname|Francis|Parkman}} || ''[[The Oregon Trail: Sketches of Prairie and Rocky-Mountain Life|The Oregon Trail]], The Conspiracy of Pontiac'' || {{sortname|William R.|Taylor|nolink=1}} || 1991 || {{ISBNT|978-0-940450-54-7}}
+|-
+| 54 || {{sortname|James Fenimore|Cooper}} || ''Sea Tales, The Pilot, The Red Rover'' || {{sortname|Kay Seymour|House|nolink=1}} & Thomas Philbrick || 1991 || {{ISBNT|978-0-940450-70-7}}
+|-
+| 55 || {{sortname|Richard|Wright|Richard Wright (author)}} || ''Early Works: [[Black Boy]] (American Hunger) / [[The Outsider (Wright novel)|The Outsider]]'' || {{sortname|Arnold|Rampersad}} || 1991 || {{ISBNT|978-0-94045066-0}}
+|-
+| 56 || {{sortname|Richard|Wright|Richard Wright (author)}} || ''Later Works: [[Lawd Today!]] / [[Uncle Tom's Children]] / [[Native Son]]'' || {{sortname|Arnold|Rampersad}} || 1991 || {{ISBNT|978-0-940450-67-7}}
+|-
+| 57 || {{sortname|Willa|Cather}} || ''Stories, Poems, and Other Writings'' || {{sortname|Sharon|O'Brien|nolink=1}} || 1991 || {{ISBNT|978-0-940450-71-4}}
+|-
+| 58 || {{sortname|William|James}} || ''Writings 1878–1899'' || {{sortname|Gerald|Myers|nolink=1}} || 1992 || {{ISBNT|978-0-940450-72-1}}
+|-
+| 59 || {{sortname|Sinclair|Lewis}} || ''Main Street & Babbitt'' || {{sortname|John|Hersey}} || 1992 || {{ISBNT|978-0-940450-61-5}}
+|-
+| 60 || {{sortname|Mark|Twain}} || ''Collected Tales, Sketches, Speeches & Essays 1852–1890'' || {{sortname|Louis J.|Budd|nolink=1}} || 1992 || {{ISBNT|978-0-940450-36-3}}
+|-
+| 61 || {{sortname|Mark|Twain}} || ''Collected Tales, Sketches, Speeches & Essays 1891–1910'' || {{sortname|Louis J.|Budd|nolink=1}} || 1992 || {{ISBNT|978-0-940450-73-8}}
+|-
+| 62 || various || ''The Debate on the Constitution: Part One'' || {{sortname|Bernard|Bailyn}} || 1993 || {{ISBNT|978-0-940450-42-4}}
+|-
+| 63 || various || ''The Debate on the Constitution: Part Two'' || {{sortname|Bernard|Bailyn}} || 1993 || {{ISBNT|978-0-940450-64-6}}
+|-
+| 64 || {{sortname|Henry|James}} || ''Collected Travel Writings: Great Britain & America'' || {{sortname|Richard|Howard}} || 1993 || {{ISBNT|978-0-940450-76-9}}
+|-
+| 65 || {{sortname|Henry|James}} || ''Collected Travel Writings: The Continent'' || {{sortname|Richard|Howard}} || 1993 || {{ISBNT|978-0-940450-77-6}}
+|-
+| 66 || various || ''American Poetry: The Nineteenth Century, Vol. 1'' || {{sortname|John|Hollander}} || 1993 || {{ISBNT|978-0-940450-60-8}}
+|-
+| 67 || various || ''American Poetry: The Nineteenth Century, Vol. 2'' || {{sortname|John|Hollander}} || 1993 || {{ISBNT|978-0-940450-78-3}}
+|-
+| 68 || {{sortname|Frederick|Douglass}} || ''Autobiography'' || {{sortname|Henry Louis|Gates, Jr.}} || 1994 || {{ISBNT|978-0-940450-79-0}}
+|-
+| 69 || {{sortname|Sarah Orne|Jewett}} || ''Novels and Stories'' || {{sortname|Michael Davitt|Bell|nolink=1}} || 1994 || {{ISBNT|978-0-940450-74-5}}
+|-
+| 70 || {{sortname|Ralph Waldo|Emerson}} || ''Collected Poems and Translations'' || {{sortname|Harold|Bloom}} & Paul Kane || 1994 || {{ISBNT|978-0-940450-28-8}}
+|-
+| 71 || {{sortname|Mark|Twain}} || ''Historical Romances'' || {{sortname|Susan K.|Harris|nolink=1}} || 1994 || {{ISBNT|978-0-940450-82-0}}
+|-
+| 72 || {{sortname|John|Steinbeck}} || ''Novels and Stories, 1932–1937: The Pastures of Heaven/To a God Unknown/Tortilla Flat/In Dubious Battle/Of Mice and Men'' || {{sortname|Robert|DeMott}} & [[Elaine Anderson Steinbeck|Elaine A. Steinbeck]] || 1994 || {{ISBNT|978-1-883011-01-7}}
+|-
+| 73 || {{sortname|William|Faulkner}} || ''Novels 1942–1954: Go Down, Moses/Intruder in the Dust/Requiem for a Nun/A Fable'' || {{sortname|Joseph|Blotner|nolink=1}} & Noel Polk || 1994 || {{ISBNT|978-0-940450-85-1}}
+|-
+| 74 || {{sortname|Zora Neale|Hurston}} || ''Novels and Stories'' || {{sortname|Cheryl A.|Wall|Cheryl Wall}} || 1995 || {{ISBNT|978-0-940450-83-7}}
+|-
+| 75 || {{sortname|Zora Neale|Hurston}} || ''Folklore, Memoirs, and Other Writings'' || {{sortname|Cheryl A.|Wall|Cheryl Wall}} || 1995 || {{ISBNT|978-0-940450-84-4}}
+|-
+| 76 || {{sortname|Thomas|Paine}} || ''Collected Writings'' || {{sortname|Eric|Foner}} || 1995 || {{ISBNT|978-1-883011-03-1}}
+|-
+| 77 || various || ''Reporting World War II: American Journalism 1938–1944'' || Advisory Board: [[Samuel Hynes]], [[Anne Matthews]], et al. || 1995 || {{ISBNT|978-1-883011-04-8}}
+|-
+| 78 || various || ''Reporting World War II: American Journalism 1944–1946'' || Advisory Board: [[Samuel Hynes]], [[Anne Matthews]], et al. || 1995 || {{ISBNT|978-1-883011-05-5}}
+|-
+| 79 || {{sortname|Raymond|Chandler}} || ''Stories and Early Novels'' || {{sortname|Frank|MacShane|nolink=1}} || 1995 || {{ISBNT|978-1-883011-07-9}}
+|-
+| 80 || {{sortname|Raymond|Chandler}} || ''Later Novels and Other Writings'' || {{sortname|Frank|MacShane|nolink=1}} || 1995 || {{ISBNT|978-1-883011-08-6}}
+|-
+| 81 || {{sortname|Robert|Frost}} || ''Collected Poems, Prose & Plays'' || {{sortname|Richard|Poirier}} & Mark Richardson || 1995 || {{ISBNT|978-1-883011-06-2}}
+|-
+| 82 || {{sortname|Henry|James}} || ''Complete Stories 1892–1898'' || {{sortname|John|Hollander}}, [[David Bromwich]], [[Denis Donoghue (academic)|Denis Donoghue]] || 1996 || {{ISBNT|978-1-883011-09-3}}
+|-
+| 83 || {{sortname|Henry|James}} || ''Complete Stories 1898–1910'' || {{sortname|John|Hollander}}, [[David Bromwich]], [[Denis Donoghue (academic)|Denis Donoghue]] || 1996 || {{ISBNT|978-1-883011-10-9}}
+|-
+| 84 || {{sortname|William|Bartram}} || ''Travels and Other Writings'' || {{sortname|Thomas|Slaughter|nolink=1}} || 1996 || {{ISBNT|978-1-883011-11-6}}
+|-
+| 85 || {{sortname|John|Dos Passos}} || ''U.S.A.'' || {{sortname|Townsend|Ludington|nolink=1}} & [[Daniel Aaron]] || 1996 || {{ISBNT|978-1-883011-14-7}}
+|-
+| 86 || {{sortname|John|Steinbeck}} || ''The Grapes of Wrath and Other Writings, 1936–1941: The Grapes of Wrath/The Harvest Gypsies/The Long Valley/The Log from the Sea of Cortez'' || {{sortname|Robert|DeMott}} & [[Elaine Anderson Steinbeck|Elaine A. Steinbeck]] || 1996 || {{ISBNT|978-1-883011-15-4}}
+|-
+| 87 || {{sortname|Vladimir|Nabokov}} || ''Novels and Memoirs 1943–1951'' || {{sortname|Brian|Boyd}} || 1996 || {{ISBNT|978-1-883011-18-5}}
+|-
+| 88 || {{sortname|Vladimir|Nabokov}} || ''Novels 1955–1962'' || {{sortname|Brian|Boyd}} || 1996 || {{ISBNT|978-1-883011-19-2}}
+|-
+| 89 || {{sortname|Vladimir|Nabokov}} || ''Novels 1969–1974'' || {{sortname|Brian|Boyd}} || 1996 || {{ISBNT|978-1-883011-20-8}}
+|-
+| 90 || {{sortname|James|Thurber}} || ''Writings and Drawings'' || {{sortname|Garrison|Keillor}} || 1996 || {{ISBNT|978-1-883011-22-2}}
+|-
+| 91 || {{sortname|George|Washington}} || ''Writings'' || {{sortname|John|Rhodehamel|nolink=1}} || 1997 || {{ISBNT|978-1-883011-23-9}}
+|-
+| 92 || {{sortname|John|Muir}} || ''Nature Writings'' || {{sortname|William|Cronon}} || 1997 || {{ISBNT|978-1-883011-24-6}}
+|-
+| 93 || {{sortname|Nathanael|West}} || ''Novels and Other Writings'' || {{sortname|Sacvan|Bercovitch}} || 1997 || {{ISBNT|978-1-883011-28-4}}
+|-
+| 94 || various || ''Crime Novels: American Noir of the 1930s and 40s'' || {{sortname|Robert|Polito}} || 1997 || {{ISBNT|978-1-883011-46-8}}
+|-
+| 95 || various || ''Crime Novels: American Noir of the 1950s'' || {{sortname|Robert|Polito}} || 1997 || {{ISBNT|978-1-883011-49-9}}
+|-
+| 96 || {{sortname|Wallace|Stevens}} || ''Collected Poetry and Prose'' || {{sortname|Frank|Kermode}} & Joan Richardson || 1997 || {{ISBNT|978-1-883011-45-1}}
+|-
+| 97 || {{sortname|James|Baldwin}} || ''Early Novels and Stories'' || {{sortname|Toni|Morrison}} || 1998 || {{ISBNT|978-1-883011-51-2}}
+|-
+| 98 || {{sortname|James|Baldwin}} || ''Collected Essays'' || {{sortname|Toni|Morrison}} || 1998 || {{ISBNT|978-1-883011-52-9}}
+|-
+| 99 || {{sortname|Gertrude|Stein}} || ''Writings 1903–1932'' || {{sortname|Harriet|Chessman|nolink=1}} & Catharine R. Stimpson || 1998 || {{ISBNT|978-1-883011-40-6}}
+|-
+| 100 || {{sortname|Gertrude|Stein}} || ''Writings 1932–1946'' || {{sortname|Harriet|Chessman|nolink=1}} & Catharine R. Stimpson || 1998 || {{ISBNT|978-1-883011-41-3}}
+|-
+| 101 || {{sortname|Eudora|Welty}} || ''Complete Novels'' || {{sortname|Richard|Ford}} & Michael Kreyling || 1998 || {{ISBNT|978-1-883011-54-3}}
+|-
+| 102 || {{sortname|Eudora|Welty}} || ''Stories, Essays, & Memoir'' || {{sortname|Richard|Ford}} & Michael Kreyling || 1998 || {{ISBNT|978-1-883011-55-0}}
+|-
+| 103 || {{sortname|Charles Brockden|Brown}} || ''Three Gothic Novels'' || {{sortname|Sydney J.|Krause|nolink=1}} || 1998 || {{ISBNT|978-1-883011-57-4}}
+|-
+| 104 || various || ''Reporting Vietnam: American Journalism 1959–1969'' || Advisory board: Milton J. Bates, Lawrence Lichty, et al. || 1998 || {{ISBNT|978-1-883011-58-1}}
+|-
+| 105 || various || ''Reporting Vietnam: American Journalism 1969–1975'' || Advisory board: Milton J. Bates, Lawrence Lichty, et al. || 1998 || {{ISBNT|978-1-883011-59-8}}
+|-
+| 106 || {{sortname|Henry|James}} || ''Complete Stories 1874–1884'' || {{sortname|William|Vance|nolink=1}} || 1999 || {{ISBNT|978-1-883011-63-5}}
+|-
+| 107 || {{sortname|Henry|James}} || ''Complete Stories 1884–1891'' || {{sortname|Edward|Said}} || 1999 || {{ISBNT|978-1-883011-64-2}}
+|-
+| 108 || various || ''American Sermons: The Pilgrims to Martin Luther King Jr.'' || {{sortname|Michael|Warner}} || 1999 || {{ISBNT|978-1-883011-65-9}}
+|-
+| 109 || {{sortname|James|Madison}} || ''Writings'' || {{sortname|Jack N.|Rakove}} || 1999 || {{ISBNT|978-1-883011-66-6}}
+|-
+| 110 || {{sortname|Dashiell|Hammett}} || ''Complete Novels'' || {{sortname|Steven|Marcus}} || 1999 || {{ISBNT|978-1-883011-67-3}}
+|-
+| 111 || {{sortname|Henry|James}} || ''Complete Stories 1864–1874'' || {{sortname|Jean|Strouse}} || 1999 || {{ISBNT|978-1-883011-70-3}}
+|-
+| 112 || {{sortname|William|Faulkner}} || ''Novels 1957–1962: The Town/The Mansion/The Reivers'' || {{sortname|Noel|Polk|nolink=1}} (notes by Joseph Blotner) || 1999 || {{ISBNT|978-1-883011-69-7}}
+|-
+| 113 || {{sortname|John James|Audubon}} || ''Writings & Drawings'' || {{sortname|Christoph|Irmscher|nolink=1}} || 1999 || {{ISBNT|978-1-883011-68-0}}
+|-
+| 114 || various || ''Slave Narratives'' || {{sortname|William L.|Andrews|nolink=1}} & [[Henry Louis Gates, Jr.]] || 2000 || {{ISBNT|978-1-883011-76-5}}
+|-
+| 115 || various || ''American Poetry: The Twentieth Century, Vol. 1'' || Advisory board: [[Robert Hass]], [[John Hollander]], et al. || 2000 || {{ISBNT|978-1-883011-77-2}}
+|-
+| 116 || various || ''American Poetry: The Twentieth Century, Vol. 2'' || Advisory board: [[Robert Hass]], [[John Hollander]], et al. || 2000 || {{ISBNT|978-1-883011-78-9}}
+|-
+| 117 || {{sortname|F. Scott|Fitzgerald}} || ''Novels and Stories 1920–1922'' || {{sortname|Jackson R.|Bryer|nolink=1}} || 2000 || {{ISBNT|978-1-883011-84-0}}
+|-
+| 118 || {{sortname|Henry Wadsworth|Longfellow}} || ''Poems and Other Writings'' || {{sortname|J.D.|McClatchy}} || 2000 || {{ISBNT|978-1-883011-85-7}}
+|-
+| 119 || {{sortname|Tennessee|Williams}} || ''Plays 1937–1955'' || {{sortname|Mel|Gussow}} & Kenneth Holditch || 2000 || {{ISBNT|978-1-883011-86-4}}
+|-
+| 120 || {{sortname|Tennessee|Williams}} || ''Plays 1957–1980'' || {{sortname|Mel|Gussow}} & Kenneth Holditch || 2000 || {{ISBNT|978-1-883011-87-1}}
+|-
+| 121 || {{sortname|Edith|Wharton}} || ''Collected Stories 1891–1910'' || {{sortname|Maureen|Howard}} || 2001 || {{ISBNT|978-1-883011-93-2}}
+|-
+| 122 || {{sortname|Edith|Wharton}} || ''Collected Stories 1911–1937'' || {{sortname|Maureen|Howard}} || 2001 || {{ISBNT|978-1-883011-94-9}}
+|-
+| 123 || various || ''The American Revolution: Writings from the War of Independence'' || {{sortname|John|Rhodehamel|nolink=1}} || 2001 || {{ISBNT|978-1-883011-91-8}}
+|-
+| 124 || {{sortname|Henry David|Thoreau}} || ''Collected Essays and Poems'' || {{sortname|Elizabeth Hall|Witherell|Elizabeth Witherell}} || 2001 || {{ISBNT|978-1-883011-95-6}}
+|-
+| 125 || {{sortname|Dashiell|Hammett}} || ''Crime Stories and Other Writings'' || {{sortname|Steven|Marcus|}} || 2001 || {{ISBNT|978-1-931082-00-6}}
+|-
+| 126 || {{sortname|Dawn|Powell}} || ''Novels 1930–1942: Dance Night/Come Back to Sorrento/ Turn, Magic Wheel/Angels on Toast/A Time to Be Born'' || {{sortname|Tim|Page|Tim Page (music critic)}} || 2001 || {{ISBNT|978-1-931082-01-3}}
+|-
+| 127 || {{sortname|Dawn|Powell}} || ''Novels 1944–1962: My Home Is Far Away/The Locusts Have No King/The Wicked Pavilion/The Golden Spur'' || {{sortname|Tim|Page|Tim Page (music critic)}} || 2001 || {{ISBNT|978-1-931082-02-0}}
+|-
+| 128 || {{sortname|Carson|McCullers}} || ''Complete Novels'' || {{sortname|Carlos|Dews}} || 2001 || {{ISBNT|978-1-931082-03-7}}
+|-
+| 129 || {{sortname|Alexander|Hamilton}} || ''Writings'' || {{sortname|Joanne B.|Freeman|nolink=1}} || 2001 || {{ISBNT|978-1-931082-04-4}}
+|-
+| 130 || {{sortname|Mark|Twain}} || ''The Gilded Age and Later Novels'' || {{sortname|Hamlin L.|Hill|nolink=1}} || 2002 || {{ISBNT|978-1-931082-10-5}}
+|-
+| 131 || {{sortname|Charles W.|Chesnutt}} || ''Stories, Novels, and Essays'' || {{sortname|Werner|Sollors}} || 2002 || {{ISBNT|978-1-931082-06-8}}
+|-
+| 132 || {{sortname|John|Steinbeck}} || ''Novels, 1942–1952: The Moon Is Down/Cannery Row/The Pearl/East of Eden'' || {{sortname|Robert|DeMott}} || 2002 || {{ISBNT|978-1-931082-07-5}}
+|-
+| 133 || {{sortname|Sinclair|Lewis}} || ''Arrowsmith, Elmer Gantry, Dodsworth'' || {{sortname|Richard|Lingeman|nolink=1}} || 2002 || {{ISBNT|978-1-931082-08-2}}
+|-
+| 134 || {{sortname|Paul|Bowles}} || ''The Sheltering Sky, Let It Come Down, The Spider's House'' || {{sortname|Daniel|Halpern|nolink=1}} || 2002 || {{ISBNT|978-1-931082-19-8}}
+|-
+| 135 || {{sortname|Paul|Bowles}} || ''Complete Stories & Later Writings'' || {{sortname|Daniel|Halpern|nolink=1}} || 2002 || {{ISBNT|978-1-931082-20-4}}
+|-
+| 136 || {{sortname|Kate|Chopin}} || ''Complete Novels & Stories'' || {{sortname|Sandra M.|Gilbert}} || 2002 || {{ISBNT|978-1-931082-21-1}}
+|-
+| 137 || various || ''Reporting Civil Rights: American Journalism 1941–1963'' || Advisory board: [[Clayborne Carson]], [[David J. Garrow]], [[Bill Kovach]], Carol Polsgrove || 2003 || {{ISBNT|978-1-931082-28-0}}
+|-
+| 138 || various || ''Reporting Civil Rights: American Journalism 1963–1973'' || Advisory board: [[Clayborne Carson]], [[David J. Garrow]], [[Bill Kovach]], Carol Polsgrove || 2003 || {{ISBNT|978-1-931082-29-7}}
+|-
+| 139 || {{sortname|Henry|James}} || ''Novels 1896–1899'' || {{sortname|Myra|Jehlen}} || 2003 || {{ISBNT|978-1-931082-30-3}}
+|-
+| 140 || {{sortname|Theodore|Dreiser}} || ''An American Tragedy'' || {{sortname|Thomas P.|Riggio|nolink=1}} || 2003 || {{ISBNT|978-1-931082-31-0}}
+|-
+| 141 || {{sortname|Saul|Bellow}} || ''Novels 1944–1953'' || {{sortname|James|Wood|James Wood (critic)}} || 2003 || {{ISBNT|978-1-931082-38-9}}
+|-
+| 142 || {{sortname|John|Dos Passos}} || ''Novels 1920–1925'' || {{sortname|Townsend|Ludington|nolink=1}} || 2003 || {{ISBNT|978-1-931082-39-6}}
+|-
+| 143 || {{sortname|John|Dos Passos}} || ''Travel Books and Other Writings'' || {{sortname|Townsend|Ludington|nolink=1}} || 2003 || {{ISBNT|978-1-931082-40-2}}
+|-
+| 144 || {{sortname|Ezra|Pound}} || ''Poems and Translations'' || {{sortname|Richard|Sieburth}} || 2003 || {{ISBNT|978-1-931082-41-9}}
+|-
+| 145 || {{sortname|James Weldon|Johnson}} || ''Writings'' || {{sortname|William L.|Andrews|nolink=1}} || 2004 || {{ISBNT|978-1-931082-52-5}}
+|-
+| 146 || {{sortname|Washington|Irving}} || ''Three Western Narratives'' || {{sortname|James P.|Ronda|nolink=1}} || 2004 || {{ISBNT|978-1-931082-53-2}}
+|-
+| 147 || {{sortname|Alexis|de Tocqueville}} || ''Democracy in America'' || {{sortname|Olivier|Zunz|nolink=1}} || 2004 || {{ISBNT|978-1-931082-54-9}}
+|-
+| 148 || {{sortname|James T.|Farrell}} || ''Studs Lonigan: A Trilogy'' || {{sortname|Pete|Hamill}} || 2004 || {{ISBNT|978-1-931082-55-6}}
+|-
+| 149 || {{sortname|Isaac Bashevis|Singer}} || ''Stories Vol. 1'' || {{sortname|Ilan|Stavans}} || 2004 || {{ISBNT|978-1-931082-61-7}}
+|-
+| 150 || {{sortname|Isaac Bashevis|Singer}} || ''Stories Vol. 2'' || {{sortname|Ilan|Stavans}} || 2004 || {{ISBNT|978-1-931082-62-4}}
+|-
+| 151 || {{sortname|Isaac Bashevis|Singer}} || ''Stories Vol. 3'' || {{sortname|Ilan|Stavans}} || 2004 || {{ISBNT|978-1-931082-63-1}}
+|-
+| 152 || {{sortname|George|Kaufman}} & Co. || ''Broadway Comedies'' || {{sortname|Laurence|Maslon|nolink=1}} || 2004 || {{ISBNT|978-1-931082-67-9}}
+|-
+| 153 || {{sortname|Theodore|Roosevelt}} || ''The Rough Riders and an Autobiography'' || {{sortname|Louis|Auchincloss}} || 2004 || {{ISBNT|978-1-931082-65-5}}
+|-
+| 154 || {{sortname|Theodore|Roosevelt}} || ''Letters and Speeches'' || {{sortname|Louis|Auchincloss}} || 2004 || {{ISBNT|978-1-931082-66-2}}
+|-
+| 155 || {{sortname|H. P.|Lovecraft}} || ''Tales'' || {{sortname|Peter|Straub}} || 2005 || {{ISBNT|978-1-931082-72-3}}
+|-
+| 156 || {{sortname|Louisa May|Alcott}} || ''Little Women, Little Men, Jo's Boys'' || {{sortname|Elaine|Showalter}} || 2005 || {{ISBNT|978-1-931082-73-0}}
+|-
+| 157 || {{sortname|Philip|Roth}} || ''Novels and Stories 1959–1962: Goodbye, Columbus & Five Short Stories/Letting Go'' || {{sortname|Ross|Miller|nolink=1}} || 2005 || {{ISBNT|978-1-931082-79-2}}
+|-
+| 158 || {{sortname|Philip|Roth}} || ''Novels 1967–1972: When She Was Good/Portnoy's Complaint/Our Gang/The Breast'' || {{sortname|Ross|Miller|nolink=1}} || 2005 || {{ISBNT|978-1-931082-80-8}}
+|-
+| 159 || {{sortname|James|Agee}} || ''Let Us Now Praise Famous Men, A Death in the Family, Shorter Fiction'' || {{sortname|Michael|Sragow}} || 2005 || {{ISBNT|978-1-931082-81-5}}
+|-
+| 160 || {{sortname|James|Agee}} || ''Film Writing and Selected Journalism'' || {{sortname|Michael|Sragow}} || 2005 || {{ISBNT|978-1-931082-82-2}}
+|-
+| 161 || {{sortname|Richard Henry|Dana, Jr.}} || ''[[Two Years Before the Mast]] & Other Voyages'' || {{sortname|Thomas|Philbrick|nolink=1}} || 2005 || {{ISBNT|978-1-931082-83-9}}
+|-
+| 162 || {{sortname|Henry|James}} || ''Novels 1901–1902'' || {{sortname|Leo|Bersani}} || 2006 || {{ISBNT|978-1-931082-88-4}}
+|-
+| 163 || {{sortname|Arthur|Miller}} || ''Collected Plays 1944–1961'' || {{sortname|Tony|Kushner}} || 2006 || {{ISBNT|978-1-931082-91-4}}
+|-
+| 164 || {{sortname|William|Faulkner}} || ''Novels 1926–1929: Soldiers' Pay/Mosquitoes/Flags in the Dust/The Sound and the Fury'' || {{sortname|Joseph|Blotner|nolink=1}} & Noel Polk || 2006 || {{ISBNT|978-1-931082-89-1}}
+|-
+| 165 || {{sortname|Philip|Roth}} || ''Novels 1973–1977: The Great American Novel/My Life as a Man/The Professor of Desire'' || {{sortname|Ross|Miller|nolink=1}} || 2006 || {{ISBNT|978-1-931082-96-9}}
+|-
+| 166 || various || ''American Speeches: Revolution to Civil War'' || {{sortname|Ted|Widmer}} || 2006 || {{ISBNT|978-1-931082-97-6}}
+|-
+| 167 || various || ''American Speeches: Lincoln to Clinton'' || {{sortname|Ted|Widmer}} || 2006 || {{ISBNT|978-1-931082-98-3}}
+|-
+| 168 || {{sortname|Hart|Crane}} || ''Complete Poems and Selected Letters'' || {{sortname|Langdon|Hammer|nolink=1}} || 2006 || {{ISBNT|978-1-931082-99-0}}
+|-
+| 169 || {{sortname|Saul|Bellow}} || ''Novels 1956–1964'' || {{sortname|James|Wood|James Wood (critic)}} || 2007 || {{ISBNT|978-1-59853-002-5}}
+|-
+| 170 || {{sortname|John|Steinbeck}} || ''Travels with Charlie and Later Novels, 1947–1962: The Wayward Bus/Burning Bright/Sweet Thursday/The Winter of Our Discontent/Travels with Charlie in Search of America'' || {{sortname|Robert|DeMott}} & Brian Railsback || 2007 || {{ISBNT|978-1-59853-004-9}}
+|-
+| 171 || {{sortname|Captain John|Smith}} || ''Writings, with Other Narratives of Roanoke, Jamestown, and the English Settlement of America'' || {{sortname|James|Horn|nolink=1}} || 2007 || {{ISBNT|978-1-59853-001-8}}
+|-
+| 172 || {{sortname|Thornton|Wilder}} || ''Collected Plays and Writings on Theater'' || {{sortname|J. D.|McClatchy}} || 2007 || {{ISBNT|978-1-59853-003-2}}
+|-
+| 173 || {{sortname|Philip K.|Dick}} || ''Four Novels of the 1960s: The Man in the High Castle/The Three Stigmata of Palmer Eldritch/Do Androids Dream of Electric Sheep?/Ubik '' || {{sortname|Jonathan|Lethem}} || 2007 || {{ISBNT|978-1-59853-009-4}}
+|-
+| 174 || {{sortname|Jack|Kerouac}} || ''Road Novels: 1957–1960'' || {{sortname|Douglas|Brinkley}} || 2007 || {{ISBNT|978-1-59853-012-4}}
+|-
+| 175 || {{sortname|Philip|Roth}} || ''Zuckerman Bound: A Trilogy and Epilogue; Novels 1979–1985: The Ghost Writer/Zuckerman Unbound/The Anatomy Lesson/The Prague Orgy'' || {{sortname|Ross|Miller|nolink=1}} || 2007 || {{ISBNT|978-1-59853-011-7}}
+|-
+| 176 || {{sortname|Edmund|Wilson}} || ''Literary Essays and Reviews of the 1920s & 30s: The Shores of Light / Axel's Castle / Uncollected Reviews'' || {{sortname|Lewis M.|Dabney|nolink=1}} || 2007 || {{ISBNT|978-1-59853-013-1}}
+|-
+| 177 || {{sortname|Edmund|Wilson}} || ''Literary Essays and Reviews of the 1930s & 40s: The Triple Thinkers, The Wound and the Bow, Classics and Commercials, Uncollected Reviews'' || {{sortname|Lewis M.|Dabney|nolink=1}} || 2007 || {{ISBNT|978-1-59853-014-8}}
+|-
+| 178 || various || ''American Poetry: The Seventeenth and Eighteenth Centuries'' || {{sortname|David S.|Shields|nolink=1}} || 2007 || {{ISBNT|978-1-931082-90-7}}
+|-
+| 179 || {{sortname|William|Maxwell|William Keepers Maxwell, Jr.}} || ''Early Novels and Stories: Bright Center of Heaven / They Came Like Swallows / The Folded Leaf / Time Will Darken It / Stories 1938–1956'' || {{sortname|Christopher|Carduff|nolink=1}} || 2008 || {{ISBNT|978-1-59853-026-1}}
+|-
+| 180 || {{sortname|Elizabeth|Bishop}} || ''Poems, Prose and Letters'' || {{sortname|Robert|Giroux}} & [[Lloyd Schwartz]] || 2008 || {{ISBNT|978-1-59853-017-9}}
+|-
+| 181 || {{sortname|A. J.|Liebling}} || ''World War II Writings: The Road Back to Paris /Mollie and Other War Pieces / Uncollected War Journalism / Normandy Revisited'' || {{sortname|Pete|Hamill}} || 2008 || {{ISBNT|978-1-59853-040-7}}
+|-
+| 182 || various || ''American Earth: Environmental Writing Since Thoreau'' || {{sortname|Bill|McKibben}} (foreword by [[Al Gore]]) || 2008 || {{ISBNT|978-1-59853-020-9}}
+|-  id="Table_row_183"
+| 183 || {{sortname|Philip K.|Dick}} || ''Five Novels of the 1960s and 70s: Martian Time-Slip / Dr. Bloodmoney / Now Wait for Last Year / Flow My Tears, the Policeman Said / A Scanner Darkly'' || {{sortname|Jonathan|Lethem}} || 2008 || {{ISBNT|978-1-59853-025-4}}
+|-
+| 184 || {{sortname|William|Maxwell|William Keepers Maxwell, Jr.}} || ''Later Novels and Stories: The Château / So Long, See You Tomorrow / Stories and Improvisations 1957–1999'' || {{sortname|Christopher|Carduff|nolink=1}} || 2008 || {{ISBNT|978-1-59853-026-1}}
+|-
+| 185 || {{sortname|Philip|Roth}} || ''Novels and Other Narratives 1986 - 1991: The Counterlife / The Facts / Deception / Patrimony'' || {{sortname|Ross|Miller|nolink=1}} || 2008 || {{ISBNT|978-1-59853-030-8}}
+|-
+| 186 || {{sortname|Katherine Anne|Porter}} || ''Collected Stories and Other Writings'' || {{sortname|Darlene Harbour|Unrue|nolink=1}} || 2008 || {{ISBNT|978-1-59853-029-2}}
+|-
+| 187 || {{sortname|John|Ashbery}} || ''Collected Poems 1956–1987'' || {{sortname|Mark|Ford|Mark Ford (poet)}} || 2008 || {{ISBNT|978-1-59853-028-5}}
+|-
+| 188 || {{sortname|John|Cheever}} || ''Collected Stories and Other Writings'' || {{sortname|Blake|Bailey}} || 2009 || {{ISBNT|978-1-59853-034-6}}
+|-
+| 189 || {{sortname|John|Cheever}} || ''Complete Novels'' || {{sortname|Blake|Bailey}} || 2009 || {{ISBNT|978-1-59853-035-3}}
+|-
+| 190 || {{sortname|Lafcadio|Hearn}} || ''American Writings: Some Chinese Ghosts / Chita / Two Years in the French West Indies / Youma / Selected Journalism and Letters'' || {{sortname|Christopher|Benfey}} || 2009 || {{ISBNT|978-1-59853-039-1}}
+|-
+| 191 || {{sortname|A. J.|Liebling}} || ''The Sweet Science and Other Writings'' || {{sortname|Pete|Hamill}} || 2009 || {{ISBNT|978-1-59853-040-7}}
+|-
+| 192 || various || ''The Lincoln Anthology: Great Writers on His Life and Legacy from 1860 to Now'' || {{sortname|Harold|Holzer}} || 2009 || {{ISBNT|978-1-59853-033-9}}
+|-
+| 193 || {{sortname|Philip K.|Dick}} || ''VALIS and Later Novels'' || {{sortname|Jonathan|Lethem}} || 2009 || {{ISBNT|978-1-59853-044-5}}
+|-
+| 194 || {{sortname|Thornton|Wilder}} || ''The Bridge of San Luis Rey and Other Novels'' || {{sortname|J. D.|McClatchy}} || 2009 || {{ISBNT|978-1-59853-045-2}}
+|-
+| 195 || {{sortname|Raymond|Carver}} || ''Collected Stories'' || {{sortname|William L.|Stull|nolink=1}} & Maureen P. Carroll || 2009 || {{ISBNT|978-1-59853-046-9}}
+|-
+| 196 || various || ''[[American Fantastic Tales]]: Terror and the Uncanny from Poe to the Pulps'' || {{sortname|Peter|Straub}} || 2009 || {{ISBNT|978-1-59853-047-6}}
+|-
+| 197 || various || ''[[American Fantastic Tales]]: 1940s to Now'' || {{sortname|Peter|Straub}} || 2009 || {{ISBNT|978-1-59853-048-3}}
+|-
+| 198 || {{sortname|John|Marshall}} || ''Writings'' || {{sortname|Charles F.|Hobson|nolink=1}} || 2010 || {{ISBNT|978-1-59853-064-3}}
+|-
+| 199 || various || ''The Mark Twain Anthology: Great Writers on His Life and Works'' || {{sortname|Shelley Fisher|Fishkin|link=Shelley Fisher Fishkin}} || 2010 || {{ISBNT|978-1-59853-065-0}}
+|-
+| 200 || {{sortname|Mark|Twain}} || ''A Tramp Abroad, Following the Equator, Other Travels'' || {{sortname|Roy|Blount, Jr.}} || 2010 || {{ISBNT|978-1-59853-066-7}}
+|-
+| 201 || {{sortname|Ralph Waldo|Emerson}} || ''Selected Journals 1820–1842'' || {{sortname|Lawrence|Rosenwald|nolink=1}} || 2010 || {{ISBNT|978-1-59853-067-4}}
+|-
+| 202 || {{sortname|Ralph Waldo|Emerson}} || ''Selected Journals 1841–1877'' || {{sortname|Lawrence|Rosenwald|nolink=1}} || 2010 || {{ISBNT|978-1-59853-068-1}}
+|-
+| 203 || various || ''The American Stage: Writing on Theater from [[Washington Irving]] to [[Tony Kushner]]'' || {{sortname|Laurence|Senelick|nolink=1}} || 2010 || {{ISBNT|978-1-59853-069-8}}
+|-
+| 204 || {{sortname|Philip|Roth}} || ''Novels 1993-1995: Operation Shylock / Sabbath's Theater'' || {{sortname|Ross|Miller|nolink=1}} || 2010 || {{ISBNT|978-1-59853-078-0}}
+|-
+| 205 || {{sortname|Shirley|Jackson}} || ''Novels and Stories'' || {{sortname|Joyce Carol|Oates}} || 2010 || {{ISBNT|978-1-59853-072-8}}
+|-
+| 206 || {{sortname|Henry Louis|Mencken}} || ''Prejudices: First, Second, and Third Series'' || {{sortname|Marion Elizabeth|Rodgers|nolink=1}} || 2010 || {{ISBNT|978-1-59853-076-6}}
+|-
+| 207 || {{sortname|Henry Louis|Mencken}} || ''Prejudices: Fourth, Fifth, and Sixth Series'' || {{sortname|Marion Elizabeth|Rodgers|nolink=1}} || 2010 || {{ISBNT|978-1-59853-076-6}}
+|-
+| 208 || {{sortname|John Kenneth|Galbraith}} || ''The Affluent Society and Other Writings 1952–1967'' || {{sortname|James K.|Galbraith}} || 2010 || {{ISBNT|978-1-59853-077-3}}
+|-
+| 209 || {{sortname|Saul|Bellow}} || ''Novels 1970-1982: Mr. Sammler's Planet / Humboldt's Gift / The Dean's December'' || {{sortname|James|Wood|James Wood (critic)}} || 2010 || {{ISBNT|978-1-59853-079-7}}
+|-
+| 210 || {{sortname|Lynd|Ward}} || ''Gods' Man, Madman's Drum, Wild Pilgrimage'' || {{sortname|Art|Spiegelman}} || 2010 || {{ISBNT|978-1-59853-082-7}}
+|-
+| 211 || {{sortname|Lynd|Ward}} || ''Prelude to a Million Years, Song Without Words, Vertigo'' || {{sortname|Art|Spiegelman}} || 2010 || {{ISBNT|978-1-59853-082-7}}
+|-
+| 212 || various || ''The Civil War: The First Year Told by Those Who Lived It'' || {{sortname|Brooks D.|Simpson}} || 2011 || {{ISBNT|978-1-59853-088-9}}
+|-
+| 213 || {{sortname|John|Adams}} || ''Revolutionary Writings 1755-1775'' || {{sortname|Gordon S.|Wood}} || 2011 || {{ISBNT|978-1-59853-089-6}}
+|-
+| 214 || {{sortname|John|Adams}} || ''Revolutionary Writings 1775-1783'' || {{sortname|Gordon S.|Wood}} || 2011 || {{ISBNT|978-1-59853-090-2}}
+|-
+| 215 || {{sortname|Henry|James}} || ''Novels 1903-1911'' || {{sortname|Ross|Posnock|nolink=1}} || 2011 || {{ISBNT|978-1-59853-091-9}}
+|-
+| 216 || {{sortname|Kurt|Vonnegut}} || ''Novels and Stories 1963–1973'' || [[Sidney Offit]] || 2011 || {{ISBNT|978-1-59853-098-8}}
+|-
+| 217 || various || ''Harlem Renaissance Novels: Five Novels of the 1920s'' || {{sortname|Rafia|Zafar|nolink=1}} || 2011 || {{ISBNT|978-1-59853-099-5}}
+|-
+| 218 || various || ''Harlem Renaissance Novels: Five Novels of the 1930s'' || {{sortname|Rafia|Zafar|nolink=1}} || 2011 || {{ISBNT|978-1-59853-101-5}}
+|-
+| 219 || {{sortname|Ambrose|Bierce}} || ''[[The Devil's Dictionary]], Tales, & Memoirs'' || {{sortname|S. T.|Joshi}} || 2011 || {{ISBNT|978-1-59853-102-2}}
+|-
+| 220 || {{sortname|Philip|Roth}} || ''The American Trilogy 1997–2000'' || {{sortname|Ross|Miller|nolink=1}} || 2011 || {{ISBNT|978-1-59853-103-9}}
+|-
+| 221 || various || ''The Civil War: The Second Year Told by Those Who Lived It'' || {{sortname|Stephen W.|Sears}} || 2012 || {{ISBNT|978-1-59853-144-2}}
+|-
+| 222 || {{sortname|Barbara|Tuchman}} || ''The Guns of August, The Proud Tower'' || {{sortname|Margaret|MacMillan}} || 2012 || {{ISBNT|978-1-59853-145-9}}
+|-
+| 223 || {{sortname|Arthur|Miller}} || ''Collected Plays 1964–1982'' || {{sortname|Tony|Kushner}} || 2012 || {{ISBNT|978-1-59853-147-3}}
+|-
+| 224 || {{sortname|Thornton|Wilder}} || ''The Eighth Day, Theophilus North, & Autobiographical Writings'' || {{sortname|J. D.|McClatchy}} || 2012 || {{ISBNT|978-1-59853-146-6}}
+|-
+| 225 || {{sortname|David|Goodis}} || ''Five Noir Novels of the 1940s and 50s'' || {{sortname|Robert|Polito}} || 2012 || {{ISBNT|978-1-59853-148-0}}
+|-
+| 226 || {{sortname|Kurt|Vonnegut}} || ''Novels & Stories 1950–1962'' || [[Sidney Offit]] || 2012 || {{ISBNT|978-1-59853-150-3}}
+|-
+| 227 || various || ''American Science Fiction: Nine Classic Novels of the 1950s Volume 1: 1953–1956'' || {{sortname|Gary K.|Wolfe}} || 2012 || {{ISBNT|978-1-59853-158-9}}
+|-
+| 228 || various || ''American Science Fiction: Nine Classic Novels of the 1950s Volume 2: 1956–1958'' || {{sortname|Gary K.|Wolfe}} || 2012 || {{ISBNT|978-1-59853-159-6}}
+|-
+| 229 || {{sortname|Laura Ingalls|Wilder}} || ''The Little House Books Volume 1'' || {{sortname|Caroline|Fraser}} || 2012 || {{ISBNT|978-1-59853-160-2}}
+|-
+| 230 || {{sortname|Laura Ingalls|Wilder}} || ''The Little House Books Volume 2'' || {{sortname|Caroline|Fraser}} || 2012 || {{ISBNT|978-1-59853-161-9}}
+|-
+| 231 || {{sortname|Jack|Kerouac}} || ''Collected Poems'' || {{sortname|Marilène|Phipps-Kettlewell|Marilene Phipps}} || 2012 || {{ISBNT|978-1-59853-193-0}}
+|-
+| 232 || various || ''The War of 1812: Writings from America’s Second War of Independence'' || {{sortname|Donald R.|Hickey|nolink=1}} || 2013 || {{ISBNT|978-1-59853-195-4}}
+|-
+| 233 || various || ''American Antislavery Writings: Colonial Beginnings to Emancipation'' || {{sortname|James G.|Basker|James Basker}} || 2012 || {{ISBNT|978-1-59853-196-1}}
+|-
+| 234 || various || ''The Civil War: The Third Year Told by Those Who Lived It'' || {{sortname|Stephen W.|Sears}} || 2013 || {{ISBNT|978-1-59853-197-8}}
+|-
+| 235 || {{sortname|Sherwood|Anderson}} || ''Collected Stories'' || {{sortname|Charles|Baxter|Charles Baxter (author)}} || 2013 || {{ISBNT|978-1-59853-204-3}}
+|-
+| 236 || {{sortname|Philip|Roth}} || ''Novels 2001–2007: The Dying Animal/The Plot Against America/Exit Ghost'' || {{sortname|Ross|Miller|nolink=1}} || 2013 || {{ISBNT|978-1-59853-198-5}}
+|-
+| 237 || {{sortname|Philip|Roth}} || ''Nemeses: Everyman/Indignation/The Humbling/Nemesis'' || {{sortname|Ross|Miller|nolink=1}} || 2013 || {{ISBNT|978-1-59853-199-2}}
+|-
+| 238 || {{sortname|Aldo|Leopold}} || ''A Sand County Almanac & Other Writings on Conservation and Ecology'' || {{sortname|Curt|Meine|nolink=1}} || 2013 || {{ISBNT|978-1-59853-206-7}}
+|-
+| 239 || {{sortname|May|Swenson}} || ''Collected Poems'' || {{sortname|Langdon|Hammer|nolink=1}} || 2013 || {{ISBNT|978-1-59853-210-4}}
+|-
+| 240 || {{sortname|W. S.|Merwin}} || ''Collected Poems 1953–1993'' || {{sortname|J. D.|McClatchy}} || 2013 || {{ISBNT|978-1-59853-208-1}}
+|-
+| 241 || {{sortname|W. S.|Merwin}} || ''Collected Poems 1996–2013'' || {{sortname|J. D.|McClatchy}} || 2013 || {{ISBNT|978-1-59853-209-8}}
+|-
+| 242 || {{sortname|John|Updike}} || ''Collected Early Stories'' || {{sortname|Christopher|Carduff|nolink=1}} || 2013 || {{ISBNT|978-1-59853-251-7}}
+|-
+| 243 || {{sortname|John|Updike}} || ''Collected Later Stories'' || {{sortname|Christopher|Carduff|nolink=1}} || 2013 || {{ISBNT|978-1-59853-252-4}}
+|-
+| 244 || {{sortname|Ring|Lardner}} || ''Stories & Other Writings'' || {{sortname|Ian|Frazier}} || 2013 || {{ISBNT|978-1-59853-253-1}}
+|-
+| 245 || {{sortname|Jonathan|Edwards|Jonathan Edwards (theologian)}} || ''Writings from the Great Awakening'' || {{sortname|Philip F.|Gura}} || 2013 || {{ISBNT|978-1-59853-254-8}}
+|-
+| 246 || {{sortname|Susan|Sontag}} || ''Essays of the 1960s & 70s'' || {{sortname|David|Rieff}} || 2013 || {{ISBNT|978-1-59853-255-5}}
+|-
+| 247 || {{sortname|William Wells|Brown}} || ''Clotel & Other Writings'' || {{sortname|Ezra|Greenspan|nolink=1}} || 2014 || {{ISBNT|978-1-59853-291-3}}
+|-
+| 248 || {{sortname|Bernard|Malamud}} || ''Novels and Stories of the 1940s & 50s'' || {{sortname|Philip|Davis|nolink=1}}{{anchor|davis}} || 2014 || {{ISBNT|978-1-59853-292-0}}
+|-
+| 249 || {{sortname|Bernard|Malamud}} || ''Novels and Stories of the 1960s'' || {{sortname|Philip|Davis|nolink=1}} || 2014 || {{ISBNT|978-1-59853-293-7}}
+|-
+| 250 || various || ''The Civil War: The Final Year Told by Those Who Lived It'' || {{sortname|Aaron|Sheehan-Dean|nolink=1}} || 2014 || {{ISBNT|978-1-59853-294-4}}
+|-
+| 251 || various || ''Shakespeare in America: An Anthology from the Revolution to Now'' || {{sortname|James|Shapiro|James S. Shapiro}} || 2014 || {{ISBNT|978-1-59853-295-1}}
+|-
+| 252 || {{sortname|Kurt|Vonnegut}} || ''Novels 1976–1985'' || [[Sidney Offit]] || 2014 || {{ISBNT|978-1-59853-304-0}}
+|-
+| 253 || various || ''American Musicals: Volume 1: 1927–1949'' || {{sortname|Laurence|Maslon|nolink=1}} || 2014 || {{ISBNT|978-1-59853-258-6}}
+|-
+| 254 || various || ''American Musicals: Volume 2: 1950–1969'' || {{sortname|Laurence|Maslon|nolink=1}} || 2014 || {{ISBNT|978-1-59853-259-3}}
+|-
+| 255 || {{sortname|Elmore|Leonard}} || ''Four Novels of the 1970s'' || {{sortname|Gregg|Sutter|nolink=1}} || 2014 || {{ISBNT|978-1-59853-305-7}}
+|-
+| 256 || {{sortname|Louisa May|Alcott}} || ''Work, Eight Cousins, Rose in Bloom, Stories & Other Writings'' || {{sortname|Susan|Cheever}} || 2014 || {{ISBNT|978-1-59853-306-4}}
+|-
+| 257 || {{sortname|H. L.|Mencken}} || ''The Days Trilogy, Expanded Edition'' || {{sortname|Marion Elizabeth|Rodgers|nolink=1}} || 2014 || {{ISBNT|978-1-59853-308-8}}
+|-
+| 258 || {{sortname|Virgil|Thomson}} || ''Music Chronicles 1940–1954'' || {{sortname|Tim|Page|Tim Page (music critic)}} || 2014 || {{ISBNT|978-1-59853-309-5}}
+|-
+| 259 || various || ''Art in America 1945–1970: Writings from the Age of Abstract Expressionism, Pop Art, and Minimalism'' || {{sortname|Jed|Perl}} || 2014 || {{ISBNT|978-1-59853-310-1}}
+|-
+| 260 || {{sortname|Saul|Bellow}} || ''Novels 1984–2000'' || {{sortname|James|Wood|James Wood (critic)}} || 2015 || {{ISBNT|978-1-59853-352-1}}
+|-
+| 261 || {{sortname|Arthur|Miller}} || ''Collected Plays 1987–2004'' || {{sortname|Tony|Kushner}} || 2015 || {{ISBNT|978-1-59853-353-8}}
+|-
+| 262 || {{sortname|Jack|Kerouac}} || ''Visions of Cody, Visions of Gerard, Big Sur'' || {{sortname|Todd|Tietchen|nolink=1}} || 2015 || {{ISBNT|978-1-59853-374-3}}
+|-
+| 263 || {{sortname|Reinhold|Niebuhr}} || ''Major Works on Religion and Politics'' || {{sortname|Elisabeth|Sifton|nolink=1}} || 2015 || {{ISBNT|978-1-59853-375-0}}
+|-
+| 264 || {{sortname|Ross|Macdonald}} || ''Four Crime Novels of the 1950s'' || {{sortname|Tom|Nolan}} || 2015 || {{ISBNT|978-1-59853-376-7}}
+|-
+| 265 || various || ''The American Revolution: Writings from the Pamphlet Debate 1764–1772'' || {{sortname|Gordon S.|Wood}} || 2015 || {{ISBNT|978-1-59853-377-4}}
+|-
+| 266 || various || ''The American Revolution: Writings from the Pamphlet Debate 1773–1776'' || {{sortname|Gordon S.|Wood}} || 2015 || {{ISBNT|978-1-59853-378-1}}
+|-
+| 267 || {{sortname|Elmore|Leonard}} || ''Four Novels of the 1980s'' || {{sortname|Gregg|Sutter|nolink=1}} || 2015 || {{ISBNT|978-1-59853-412-2}}
+|-
+| 268 || various || ''Women Crime Writers: Volume 1: The 1940s'' || {{sortname|Sarah|Weinman|nolink=1}} || 2015 || {{ISBNT|978-1-59853-430-6}}
+|-
+| 269 || various || ''Women Crime Writers: Volume 2: The 1950s'' || {{sortname|Sarah|Weinman|nolink=1}} || 2015 || {{ISBNT|978-1-59853-431-3}}
+|-
+| 270 || {{sortname|Frederick Law|Olmsted}} || ''Writings on Landscape, Culture, and Society'' || {{sortname|Charles|Beveridge|nolink=1}} || 2015 || {{ISBNT|978-1-59853-452-8}}
+|-
+| 271 || {{sortname|Edith|Wharton}} || ''Four Novels of the 1920s'' || {{sortname|Hermione|Lee}} || 2015 || {{ISBNT|978-1-59853-453-5}}
+|-
+| 272 || {{sortname|James|Baldwin}} || ''Later Novels'' || {{sortname|Darryl|Pinckney}} || 2015 || {{ISBNT|978-1-59853-454-2}}
+|-
+| 273 || {{sortname|Kurt|Vonnegut}} || ''Novels 1987–1997'' || [[Sidney Offit]] || 2016 || {{ISBNT|978-1-59853-464-1}}
+|-
+| 274 || {{sortname|Henry|James}} || ''Autobiographies'' || {{sortname|Philip|Horne|nolink=1}} || 2016 || {{ISBNT|978-1-59853-471-9}}
+|-
+| 275 || {{sortname|Abigail|Adams}} || ''Letters'' || {{sortname|Edith|Gelles|nolink=1}} || 2016 || {{ISBNT|978-159853-465-8}}
+|-
+| 276 || {{sortname|John|Adams}} || ''Writings from the New Nation 1784–1826'' || {{sortname|Gordon S.|Wood}} || 2016 || {{ISBNT|978-159853-466-5}}
+|-
+| 277 || {{sortname|Virgil|Thomson}} || ''The State of Music & Other Writings'' || {{sortname|Tim|Page|Tim Page (music critic)}} || 2016 || {{ISBNT|978-159853-467-2}}
+|-
+| 278 || various || ''War No More: Three Centuries of American Antiwar & Peace Writing'' || {{sortname|Lawrence|Rosenwald|nolink=1}} || 2016 || {{ISBNT|978-1-59853-473-3}}
+|-
+| 279 || {{sortname|Ross|Macdonald}} || ''Three Novels of the Early 1960s'' || {{sortname|Tom|Nolan}} || 2016 || {{ISBNT|978-159853-479-5}}
+|-
+| 280 || {{sortname|Elmore|Leonard}} || ''Four Later Novels'' || {{sortname|Gregg|Sutter|nolink=1}} || 2016 || {{ISBNT|978-1-59853-492-4}}
+|-
+| 281 || {{sortname|Ursula K.|Le Guin}} || ''The Complete Orsinia'' || {{sortname|Brian|Attebery|nolink=1}} || 2016 || {{ISBNT|978-1-59853-493-1}}
+|-
+| 282 || {{sortname|John|O'Hara}} || ''Stories'' || {{sortname|Charles|McGrath|nolink=1}} || 2016 || {{ISBNT|978-1-59853-497-9}}
+|-
+| 283 || {{sortname|Jack|Kerouac}} || ''The Unknown Kerouac: Rare, Unpublished & Newly Translated Writings'' || {{sortname|Todd|Tietchen|nolink=1}} || 2016 || {{ISBNT|978-1-59853-498-6}}
+|-
+| 284 || {{sortname|Albert|Murray|Albert Murray (writer)}} || ''Collected Essays & Memoirs'' || {{sortname|Paul|Devlin|nolink=1}} & Henry Louis Gates Jr. || 2016 || {{ISBNT|978-1-59853-503-7}}
+|-
+| 285 || {{sortname|Loren|Eiseley}} || ''Collected Essays on Evolution, Nature, and the Cosmos: Volume One'' || {{sortname|William|Cronon|nolink=1}} || 2016 || {{ISBNT|978-1-59853-506-8}}
+|-
+| 286 || {{sortname|Loren|Eiseley}} || ''Collected Essays on Evolution, Nature, and the Cosmos: Volume Two'' || {{sortname|William|Cronon|nolink=1}} || 2016 || {{ISBNT|978-1-59853-507-5}}
+|-
+| 287 || {{sortname|Carson|McCullers}} || ''Stories, Plays & Other Writings'' || {{sortname|Carlos|Dews}} || 2017 || {{ISBNT|978-1-59853-511-2}}
+|-
+| 288 || {{sortname|Jane|Bowles}} || ''Collected Writings'' || {{sortname|Millicent|Dillon}} || 2017 || {{ISBNT|978-1-59853-513-6}}
+|-
+| 289 || various || ''World War I and America: Told by the Americans Who Lived It'' || {{sortname|A. Scott|Berg|nolink=1}} || 2017 || {{ISBNT|978-1-59853-514-3}}
+|-
+| 290 || {{sortname|Mary|McCarthy|Mary McCarthy (author)}} || ''Novels and Stories 1942–1963'' || {{sortname|Thomas|Mallon}} || 2017 || {{ISBNT|978-1-59853-516-7}}
+|-
+| 291 || {{sortname|Mary|McCarthy|Mary McCarthy (author)}} || ''Novels 1963–1979'' || {{sortname|Thomas|Mallon}} || 2017 || {{ISBNT|978-1-59853-517-4}}
+|-
+| 292 || {{sortname|Susan|Sontag}} || ''Later Essays'' || {{sortname|David|Rieff}} || 2017 || {{ISBNT|978-1-59853-519-8}}
+|-
+| 293 || {{sortname|John Quincy|Adams}} || ''Diaries 1779–1821'' || {{sortname|David|Waldstreicher|nolink=1}} || 2017 || {{ISBNT|978-1-59853-520-4}}
+|-
+| 294 || {{sortname|John Quincy|Adams}} || ''Diaries 1824–1848'' || {{sortname|David|Waldstreicher|nolink=1}} || 2017 || {{ISBNT|978-1-59853-522-8}}
+|-
+| 295 || {{sortname|Ross|Macdonald}} || ''Four Later Novels'' || {{sortname|Tom|Nolan}} || 2017 || {{ISBNT|978-1-59853-534-1}}
+|-
+| 296 || {{sortname|Ursula K.|Le Guin}} || ''Hainish Novels & Stories, Volume One'' || {{sortname|Brian|Attebery|nolink=1}} || 2017 || {{ISBNT|978-1-59853-538-9}}
+|-
+| 297 || {{sortname|Ursula K.|Le Guin}} || ''Hainish Novels & Stories, Volume Two'' || {{sortname|Brian|Attebery|nolink=1}} || 2017 || {{ISBNT|978-1-59853-539-6}}
+|-
+| 298 || [[Peter Matthew Hillsman Taylor|Peter Taylor]] || ''Complete Stories 1938-1959'' || {{sortname|Ann|Beattie}} || 2017 || {{ISBNT|978-1-59853-542-6}}
+|-
+| 299 || [[Peter Matthew Hillsman Taylor|Peter Taylor]] || ''Complete Stories 1960-1992'' || {{sortname|Ann|Beattie}} || 2017 || {{ISBNT|978-1-59853-543-3}}
+|-
+| 300 || {{sortname|Philip|Roth}} || ''Why Write? Collected Nonfiction 1960-2013'' ||  || 2017 || {{ISBNT|978-1-59853-540-2}}
+|-
+| 301 || {{sortname|John|Ashbery}} || ''Complete Poems 1991‒2000'' || {{sortname|Mark|Ford|Mark Ford (poet)}} || 2017 || {{ISBNT|978-1-59853-535-8}}
+|-
+| 302 || {{sortname|Wendell|Berry}} || ''Port William Novels & Stories (The Civil War to World War II)'' || {{sortname|Jack| Shoemaker}} || 2018 || {{ISBNT|978-1-59853-554-9}}
+|-
+| 303 || various || ''Reconstruction: Voices from America's First Great Struggle for Racial Equality'' || {{sortname|Brooks D.|Simpson}} || 2018 || {{ISBNT|978-1-59853-555-6}}
+|-
+| 304 || {{sortname|Albert|Murray|Albert Murray (writer)}} || ''Collected Novels & Poems'' || {{sortname|Paul|Devlin|nolink=1}} & Henry Louis Gates Jr. || 2018 || {{ISBNT|978-1-59853-561-7}}
+|-
+| 305 || {{sortname|Norman|Mailer}} || ''Four Books of the 1960s: An American Dream/Why Are We in Vietnam?/The Armies of the Night/Miami and the Siege of Chicago'' || {{sortname|J. Michael|Lennon}} || 2018 || {{ISBNT|978-1-59853-558-7}}
+|-
+| 306 || {{sortname|Norman|Mailer}} || ''Collected Essays of the 1960s'' || {{sortname|J. Michael|Lennon}} || 2018 || {{ISBNT|978-1-59853-559-4}}
+|-
+| 307 || {{sortname|Rachel|Carson}} || ''Silent Spring & Other Writings on the Environment'' || {{sortname|Sandra|Steingraber}}  || 2018 ||  {{ISBNT| 978-1-59853-560-0}} 
+|-
+| 308 || {{sortname|Elmore|Leonard}} || ''Westerns: Last Stand at Saber River/Hombre/Valdez is Coming/Forty Lashes Less One/Stories'' || {{sortname|Terrence|Rafferty}}  || 2018 ||  {{ISBNT| 978-1-59853-562-4}} 
+|-
+| 310 || {{sortname|Madeleine|L'Engle}} || ''The Wrinkle in Time Quartet: A Wrinkle in Time/A Wind in the Door/A Swiftly Tilting Planet/Many Waters'' || {{sortname|Leonard S.|Marcus}}  || 2018 ||  {{ISBNT| 978-1-59853-578-5}} 
+|-
+| 310 || {{sortname|Madeleine|L'Engle}} || ''The Polly O'Keefe Quartet: The Arm of the Starfish/Dragons in the Waters/A House Like a Lotus/An Acceptable Time'' || {{sortname|Leonard S.|Marcus}}  || 2018 ||  {{ISBNT| 978-1-59853-579-2}} 
+|-
+| 311 || {{sortname|John|Updike}} || ''Novels 1959-1965: The Poorhouse Fair/Rabbit, Run/The Centaur/Of the Farm'' || Christopher Carduff  || 2018 ||  {{ISBNT|978-1-59853-581-5}} 
+|-
+| 312 || {{sortname|James Fenimore|Cooper}} || ''Two Novels of the American Revolution: The Spy: A Tale of the Neutral Ground/Lionel Lincoln; or, The Leaguer of Boston'' || {{sortname|Alan|Taylor|Alan Taylor (historian)}}  || 2018 ||  {{ISBNT|978-1-59853-582-2}}
+|-
+| 313 || {{sortname|John|O'Hara}} || ''Four Novels of the 1930s: Appointment in Samarra/Butterfield 8/Hope of Heaven/Pal Joey'' || Steven Goldleaf || 2019 || {{ISBNT|978-1-59853-600-3}}
+|-
+| 314 || {{sortname|Ann|Petry}} || ''The Street, The Narrows'' || Farah Jasmine Griffin || 2019 || {{ISBNT|978-1-59853-601-0}}
+|-
+| 315 || {{sortname|Ursula K.|Le Guin}} || ''Always Coming Home'' (Author's Expanded Edition) || Brian Attebery || 2019 || {{ISBNT|978-1-59853-603-4}}
+|-
+| 316 || {{sortname|Wendell|Berry}} || ''What I Stand On: The Collected Essays of Wendell Berry 1969–1990'' || Jack Shoemaker || 2019 || {{ISBNT|978-159853-606-5}}
+|-
+| 317 || {{sortname|Wendell|Berry}} || ''What I Stand On: The Collected Essays of Wendell Berry 1993-2017'' || Jack Shoemaker || 2019 || {{ISBNT|978-159853-608-9}}
+|-
+| 318 || {{sortname|Cornelius|Ryan}} || ''The Longest Day, A Bridge Too Far'' || Rick Atkinson || 2019 || {{ISBNT|978-159853-611-9}}
+|-
+| 319 || {{sortname|Booth|Tarkington}} || ''Novels & Stories: The Magnificent Ambersons/Alice Adams/In the Arena'' || Thomas Mallon || 2019 || {{ISBNT|978-159853-620-1}}
+|-
+| 320 || {{sortname|Herman|Melville}} || ''Complete Poems'' || Hershel Parker || 2019 || {{ISBNT|978-159853-618-8}}
+|-
+| 321 || various || ''American Science Fiction: Eight Classic Novels of the 1960s, Volume 1: Four Classic Novels 1960–1966'' || Gary K. Wolfe || 2019 || {{ISBNT|978-159853-501-3}}
+|-
+| 322 || various || ''American Science Fiction: Eight Classic Novels of the 1960s, Volume 2: Four Classic Novels 1968–1969'' || Gary K. Wolfe || 2019 || {{ISBNT|978-159853-502-0}}
+|-
+| 323 || {{sortname|Frances Hodgson|Burnett}} || ''The Secret Garden, A Little Princess, Little Lord Fauntleroy'' || Gretchen Holbrook Gerzina || 2019 || {{ISBNT|978-159853-638-6}}
+|-
+| 324 || {{sortname|Jean|Stafford}} || ''Complete Novels'' || Kathryn Davis || 2019 || {{ISBNT|978-159853-644-7}}
+|-
+| 325 || {{sortname|Joan|Didion}} || ''The 1960s & 70s'' || David Ulin || 2019 || {{ISBNT|978-159853-645-4}}
+|}
+
+=== Special anthologies ===
+* ''Writing New York'' ([[Phillip Lopate]], ed. 1998) {{ISBN|978-1-883011-62-8}} 
+* ''American Sea Writing'' (Peter Neill, ed. 2000) {{ISBN|978-1-883011-83-3}} 
+* ''Baseball'' ([[Nicholas Dawidoff]], ed. 2002) {{ISBN|978-1-931082-09-9}} 
+* ''Writing Los Angeles'' (David L. Ulin, ed. 2002) {{ISBN|978-1-931082-27-3}} 
+* ''Americans in Paris'' ([[Adam Gopnik]], ed. 2004) {{ISBN|1-931082-56-1}} 
+* ''American Writers at Home'' ([[J.D. McClatchy]], author, Erica Lennar, photographer 2004) {{ISBN|978-1-931082-75-4}} 
+* ''American Movie Critics'' (Phillip Lopate, ed. 2006) {{ISBN|978-1-931082-92-1}}
+* ''American Religious Poems'' ([[Harold Bloom]] and Jesse Zuba, eds., 2006) {{ISBN|978-1-931082-74-7}}
+* ''American Food Writing'' (Molly O'Neill, ed., 2007) {{ISBN|978-1-59853-005-6}}; (paperback, 2009) {{ISBN|1-59853-041-0}}
+* ''[[True Crime: An American Anthology (book)|True Crime: An American Anthology]]'' (Harold Schechter, ed., 2008) {{ISBN|978-1-59853-031-5}}
+* ''Becoming Americans: Four Centuries of Immigrant Writing'' (Ilan Stavans, ed., 2009) {{ISBN|978-1-59853-051-3}}
+* ''At the Fights: American Writers on Boxing'' ([[George Edward Kimball|George Kimball]] and John Schulian, eds., 2011) {{ISBN|978-1-59853-092-6}}
+* ''Into the Blue: American Writers on Aviation and Spaceflight'' (Joseph J. Corn ed., 2011) {{ISBN|978-1-59853-108-4}}
+* ''The 50 Funniest American Writers* (*according to Andy Borowitz): A Humor Anthology from Mark Twain to The Onion'' (Andy Borowitz ed., 2011) {{ISBN|978-1-59853-107-7}}
+* ''The Cool School: Writing from America’s Hip Underground'' ([[Glenn O'Brien]] ed., 2013) {{ISBN|978-1-59853-256-2}}
+* ''Shake It Up: Great American Writing on Rock and Pop from Elvis to Jay Z'' (Kevin Dettmar and [[Jonathan Lethem]], eds., 2017) {{ISBN|978-1-59853-531-0}}
+* ''The Great American Sports Page: A Century of Classic Columns'' (John Schulian, ed., 2019) {{ISBNT|978-159853-612-6}}
+
+=== American poets project ===
+* ''[[James Agee]]: Selected Poems'' (Andrew Hudgins, editor 2008) {{ISBN|978-1-59853-032-2}}
+* ''American Sonnets'' ([[David Bromwich]], editor 2007) {{ISBN|978-1-59853-015-5}}
+* ''American Wits: An Anthology of Light Verse'' ([[John Hollander]], editor 2003) {{ISBN|978-1-931082-49-5}}
+* ''[[A. R. Ammons]]: Selected Poems'' ([[David Lehman]], editor 2006) {{ISBN|978-1-931082-93-8}}
+* ''[[John Berryman]]: Selected Poems'' ([[Kevin Young (poet)|Kevin Young]], editor 2004) {{ISBN|978-1-931082-69-3}}
+* ''The Essential [[Gwendolyn Brooks]]'' (Elizabeth Alexander, editor 2005) {{ISBN|978-1-931082-87-7}}
+*''[[Countee Cullen]]: Collected Poems'' (Major Jackson, editor 2013 ) {{ISBN|978-1-59853-083-4}}
+* ''[[Stephen Crane]]: Complete Poems'' ([[Christopher Benfey]], editor 2011) {{ISBN|978-1-59853-093-3}}
+* ''[[Kenneth Fearing]]: Selected Poems'' (Robert Polito, editor 2004) {{ISBN|978-1-931082-57-0}}
+*''[[Stephen Foster]] & Co.: Lyrics of America's First Great Popular Songs'' (Ken Emerson, editor 2010) {{ISBN|978-1-59853-070-4}}
+* ''[[Ira Gershwin]]: Selected Lyrics'' (Robert Kimball, editor 2009) {{ISBN|978-1-59853-052-0}}
+* ''[[Kenneth Koch]]: Selected Poems'' ([[Ron Padgett]], editor 2007) {{ISBN|978-1-59853-006-3}}
+* ''[[Emma Lazarus]]: Selected Poems'' ([[John Hollander]], editor 2005) {{ISBN|978-1-931082-77-8}}
+* ''[[Amy Lowell]]: Selected Poems'' (Honor Moore, editor 2004) {{ISBN|978-1-931082-70-9}}
+* ''[[Samuel Menashe]]: New and Selected Poems'' ([[Christopher Ricks]], editor 2005) {{ISBN|978-1-931082-85-3}}
+* ''[[Edna St. Vincent Millay]]: Selected Poems'' ([[J. D. McClatchy]], editor 2003) {{ISBN|978-1-931082-35-8}}
+* ''[[Edgar Allan Poe]]: Poems and Poetics'' ([[Richard Wilbur]], editor 2003) {{ISBN|978-1-931082-51-8}}
+* ''Poems from the Women's Movement'' ([[Honor Moore]], editor 2009) {{ISBN|978-1-59853-042-1}}
+* ''Poets of the Civil War'' ([[J. D. McClatchy]], editor 2005) {{ISBN|978-1-931082-76-1}}
+* ''Poets of World War II'' (Harvey Shapiro, editor 2003) {{ISBN|978-1-931082-33-4}}
+* ''[[Cole Porter]]: Selected Lyrics'' (Robert Kimball, editor 2006) {{ISBN|978-1-931082-94-5}}
+* ''[[Theodore Roethke]]: Selected Poems'' ([[Edward Hirsch]], editor 2005) {{ISBN|978-1-931082-78-5}}
+* ''[[Muriel Rukeyser]]: Selected Poems'' ([[Adrienne Rich]], editor 2004) {{ISBN|978-1-931082-58-7}}
+* ''[[Carl Sandburg]]: Selected Poems'' ([[Paul Berman]], editor 2007) {{ISBN|978-1-59853-100-8}}
+* ''[[Anne Stevenson]]: Selected Poems'' ([[Andrew Motion]], editor 2007) {{ISBN|978-1-59853-018-6}}
+* ''[[Karl Shapiro]]: Selected Poems'' ([[John Updike]], editor 2003) {{ISBN|978-1-931082-34-1}}
+* ''[[Edith Wharton]]: Selected Poems'' ([[Louis Auchincloss]], editor 2005) {{ISBN|978-1-931082-86-0}}
+* ''[[Walt Whitman]]: Selected Poems'' ([[Harold Bloom]], editor 2003) {{ISBN|978-1-931082-32-7}}
+* ''[[John Greenleaf Whittier]]: Selected Poems'' ([[Brenda Wineapple]], editor 2004) {{ISBN|978-1-931082-59-4}}
+* ''[[William Carlos Williams]]: Selected Poems'' ([[Robert Pinsky]], editor 2004) {{ISBN|978-1-931082-71-6}}
+* ''[[Yvor Winters]]: Selected Poems'' ([[Thom Gunn]], editor 2003) {{ISBN|978-1-931082-50-1}}
+* ''[[Louis Zukofsky]]: Selected Poems'' ([[Charles Bernstein]], editor 2006) {{ISBN|978-1-931082-95-2}}
+
+=== Special publications ===
+*''[[Isaac Bashevis Singer]]: An Album'' (Ilan Stavans, editor, 2004) {{ISBN|978-1-931082-64-8}}
+* [[Manny Farber]], ''Farber on Film: The Complete Film Writings of Manny Farber'' (Robert Polito, editor, 2009) {{ISBN|978-1-59853-050-6}}
+*[[John Updike]], ''Hub Fans Bid Kid Adieu: John Updike on [[Ted Williams]]'' (2010) {{ISBN|978-1-59853-071-1}}
+* ''The Age of Movies: Selected Writings of [[Pauline Kael]]'' (Sanford Schwartz, editor, 2011) 978-1-59853-109-1
+*[[Joe Brainard]], ''The Collected Writings of Joe Brainard'' (Ron Padgett, ed., 2012) {{ISBN|978-1-59853-149-7}}
+*[[Edgar Rice Burroughs]], ''[[A Princess of Mars]]'' (2012) {{ISBN|978-1-59853-165-7}}
+*[[Edgar Rice Burroughs]], ''[[Tarzan of the Apes]]'' (2012) {{ISBN|978-1-59853-164-0}}
+*[[Red Smith (sportswriter)|Red Smith]], ''American Pastimes: The Very Best of Red Smith'' (Daniel Okrent, ed., 2013) {{ISBN|978-1-59853-217-3}}
+* ''Football: Great Writing about the National Sport'' (John Schulian, editor, 2014) {{ISBN|978-1-59853-307-1}}
+
+== Notes and references ==
+{{Reflist|2}}
+
+== Bibliography ==
+* ''Book Business: Publishing Past, Present, and Future'' by Jason Epstein, W. W. Norton & Company 2001 {{ISBN|978-0-393-04984-8}}
+* Michael Gorra, "The Library of America at Thirty," ''The Sewanee Review'' 120.4 (Fall 2012), 545-553.
+
+== See also ==
+* ''[[Bibliothèque de la Pléiade]]''
+
+== External links ==
+* {{official}}
+* [http://www.loa.org/news-and-views The Reader's Almanac, official blog]
+* [http://storyoftheweek.loa.org/ Story of the Week blog]
+* Bookworm Interview (Audio) with [[Michael Silverblatt]]: [http://www.kcrw.com/news-culture/shows/bookworm/library-of-america/ April 2002]
+
+{{Portal bar|Literature|United States}}
+
+[[Category:American writers' organizations]]
+[[Category:Book publishing companies of the United States]]
+[[Category:Series of books]]
+[[Category:Publishing companies established in 1979]]
+[[Category:1979 establishments in the United States]]
+[[Category:Non-profit publishers]]
+[[Category:Literary publishing companies]]

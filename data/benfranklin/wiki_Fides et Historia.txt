@@ -1,0 +1,26 @@
+{{Infobox journal
+| title = Fides et Historia
+| cover = Fides et Historia cover.jpg
+| image_size = 150px
+| editor = [[Donald A. Yerxa]]
+| discipline = 
+| abbreviation = Fides Hist.
+| publisher = [[The Conference on Faith and History]]
+| country =
+| history = 1968–present
+| frequency = Semi-annually
+| website = http://www.faithandhistory.org/fides-et-historia/
+| ISSN = 0884-5379
+| OCLC = 643815799
+}}
+'''''Fides et Historia''''' is a semi-annual [[peer-review]]ed [[academic journal]] concerning the "intersection of Christian faith and historical inquiry". It is published by [[The Conference on Faith and History]]. It is edited by [[Donald A. Yerxa]].
+
+[[Category:Christianity studies journals]]
+[[Category:Publications established in 1968]]
+[[Category:Biannual journals]]
+[[Category:History journals]]
+[[Category:Academic journals published by learned and professional societies]]
+[[Category:Historiography of Christianity]]
+
+
+{{History-journal-stub}}

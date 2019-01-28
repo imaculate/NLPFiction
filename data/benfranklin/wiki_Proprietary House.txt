@@ -1,0 +1,165 @@
+{{Infobox NRHP
+| name                     = The Proprietary House
+| nrhp_type                = 
+| nrhp_type2               = 
+| nrhp_type3               = 
+| nrhp_type4               = 
+| designated_other1        =
+| designated_other1_name   = New Jersey Register of Historic Places
+| designated_other1_abbr   = NJRHP
+| designated_other1_color  = orange
+| designated_other1_link   = New Jersey Register of Historic Places
+| designated_other2        = 
+| designated_other2_name   = 
+| designated_other2_abbr   = 
+| designated_other2_color  = 
+| designated_other2_link   =
+| designated_other3        = 
+| designated_other3_name   = 
+| designated_other3_abbr   = 
+| designated_other3_color  = 
+| designated_other3_link   = 
+| partof                   = 
+| partof_refnum            = 
+| image                    = ProprietaryHousePerthAmboy.JPG
+| image_size               = 250
+| alt                      = 
+| caption                  = <small>Proprietary House as seen today (2009)
+| district_map             = 
+| locmapin                 = USA New Jersey Middlesex County
+| map_label                = 
+| label_position           =
+| label_size               =
+| label_background         =
+| map_width                = 235
+| map_alt                  = 
+| map_caption              = 
+| coordinates              = {{coord|40|30|13|N|74|16|09|W|region:US-NJ_type:landmark|format=dms|display=inline,title}}
+| location                 = 149 Kearny Ave <br/>[[Perth Amboy, New Jersey|Perth Amboy, NJ]] 08861
+| nearest_city             = [[Edison, New Jersey]]
+| area                     = {{convert|0.6|acre|km2}}
+| built                    = 1762
+| builder                  = John Edward Pryor<ref name=history_construction>{{cite web|title=History: Construction|url=http://theproprietaryhouse.org/History_Construction.html|website=The Proprietary House|accessdate=7 November 2014}}</ref>
+| demolished               =
+| restored                 = began in 1985
+| restored_by              = [http://www.theproprietaryhouse.org The Proprietary House Association]
+| architect                = John Edward Pryor<ref name="history_construction"/>
+| architecture             = [[Georgian architecture#Colonial Georgian architecture|Georgian]]
+| sculptor                 =
+| visitation_num           = 
+| visitation_year          = 
+| visitation_ref           = 
+| mpsub                    = 
+| governing_body           = [[New Jersey]] [[New Jersey Division of Parks and Forestry|Division of Parks and Forestry]]
+| sigdate1_label           =
+| sigdate1                 =
+| sigdate2_label           =
+| sigdate2                 =
+| sigdate3_label           =
+| sigdate3                 =
+| added                    = 
+| increase                 =
+| increase2                =
+| increase3                =
+| decrease                 =
+| decrease2                =
+| decrease3                =
+| delisted                 = 
+| designated_nrhp_type     = February 24, 1971<ref name=nrhp/>
+| designated_nrhp_type2    = 
+| designated_nrhp_type3    = 
+| designated_nrhp_type4    = 
+| designated_other1_date   = September 11, 1970<ref name=njrhp/>
+| designated_other2_date   = 
+| designated_other3_date   = 
+| delisted_nrhp_type       = 
+| delisted_nrhp_type2      =
+| delisted_nrhp_type3      = 
+| delisted_nrhp_type4      = 
+| delisted_other1_date     = 
+| delisted_other2_date     =
+| delisted_other3_date     =
+| refnum                   = 71000509<ref name=nrhp>{{cite web|title=National Register of Historic Places Inventory - Nomination Form|url={{NRHP url|id=71000509}}|website=National Park Service|publisher=US Department of the Interior|accessdate=7 November 2014}}</ref>
+| increase_refnum          =
+| increase2_refnum         =
+| increase3_refnum         =
+| decrease_refnum          =
+| decrease2_refnum         =
+| decrease3_refnum         =
+| designated_other1_number = 1900<ref name=njrhp>{{cite web|title=New Jersey and National Registers of Historic Places|url=http://www.nj.gov/dep/hpo/1identify/nrsr_lists/middlesex.pdf|website=NJ DEP|publisher=Historic Preservation Office|accessdate=7 November 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20141107045405/http://www.nj.gov/dep/hpo/1identify/nrsr_lists/middlesex.pdf|archivedate=7 November 2014|df=}}</ref>
+| designated_other1_num_position = bottom
+| designated_other2_number = 
+| designated_other2_num_position = both
+| designated_other3_number = 
+| designated_other3_num_position = both
+}}
+
+'''Proprietary House''' in [[Perth Amboy, New Jersey|Perth Amboy]], [[New Jersey]], [[United States]], is the only [[proprietary governor]]'s mansion of the original [[Thirteen Colonies]] still standing. Overseen by architect and builder John Edward Pryor, construction began in 1762 and was completed in 1764. The [[Georgian style]] "mansion" was first occupied by [[Chief Justice]] Frederick Smyth by rent and approval of "The Proprietors" on April 10, 1766 to 1773. In May 1773, the mansion was repaired and fitted to be the residence of the royal governor of New Jersey, and leased by the [[Proprietary governor|proprietors]] as such.
+
+==History==
+The home was occupied temporarily, 1774 to 1776, by the Royal Governor of New Jersey, [[William Franklin]] (the illegitimate son of [[Benjamin Franklin]]).<ref>{{cite web|title=History - Royal Governor's Mansion|url=http://www.theproprietaryhouse.org/History_Royal_Governor.html|website=The Proprietary House|accessdate=9 November 2014}}</ref> In January 1776, he was ordered to be held under [[house arrest]] on order of the [[Provincial Congress of New Jersey]] and under guard of the [[Committee of Safety (American Revolution)|Committee of Safety]]. In June, after the onset of hostilities between [[Great Britain]] and the fledgling nation, he was ordered arrested and taken to [[Princeton, New Jersey|Princeton]] for trial and then imprisoned in [[Litchfield, Connecticut]] until his release in a prisoner exchange in 1778.<ref>{{cite book|last1=Gerlach|first1=Larry R.|title=New Jersey in the American Revolution, 1763-1783: A Documentary History|date=1975|publisher=New Jersey Historical Commission|pages=209–210|url=http://www.njstatelib.org/slic_files/imported/NJ_Information/Digital_Collections/NJInTheAmericanRevolution1763-1783/7.4.pdf|accessdate=9 November 2014}}</ref>
+
+[[File:Prophouse.jpg|thumb|right|300px|Proprietary House in the late nineteenth century, pictured as The Brighton Hotel]]
+
+After the house was ravaged by a mysterious fire in the late eighteenth century a new owner, John Rattone, of Perth Amboy restored it. Rattone was an ambitious New Yorker who added a large wing and turned the property into [[The Brighton]], a hotel of grand stature in its day. It briefly flourished as an elegant and popular hotel until the [[War of 1812]] brought an end to tourism and the lifeblood of the hotel. [[Matthias Bruen|Mathias Bruen]], who bought the property at a sheriff's sale in 1817, became one of the wealthiest men in America while he lived here. His descendants made large contributions to America's social and political history.
+
+In subsequent years, the original 11.5 acre site was subdivided, and the former Proprietary House was converted into a [[Presbyterian]] retirement home. It was adapted again as a hotel, but with modest accommodations.  Now owned by the State of New Jersey, a portion of the building is operated as a museum by the Proprietary House Association. The upper floors of the original building and the 1809 wing are occupied by professional offices.
+
+The first floor and basement of the Proprietary House have been undergoing extensive repairs and restoration by the non-profit Proprietary House Association. The [[New Jersey Historic Trust]] and the Division of Parks and Forestry of the [[New Jersey Department of Environmental Protection]], along with private contributors, have greatly supported the effort to restore some of the former glory of the building.
+
+===Post-Revolution period===
+Either during and after the [[Revolution]], the House suffered extensive damage. A fire gutted the interior. On February 29, 1792 an ad in the ''New Jersey Journal and Political Intelligence'' stated "to be sold ... eleven acres of land ... the property of the [[East Jersey|proprietors of East New Jersey]]... the remains of the house lately burned, will be nearly sufficient for a new building."
+
+The property was not sold until John Rattoon, first official mayor of the then town of Perth Amboy.<ref>{{cite book|last1=Francy|first1=George|title=Images of America: South Amboy|date=2001|publisher=Arcadia|location=5th paragraph|isbn=0738538507|page=17|url=https://www.amazon.com/South-Amboy-NJ-Images-America/dp/0738538507|accessdate=10 November 2014|chapter=Introduction}}</ref> purchased it for $1,051 in 1794. Rattoon, a Perth Amboy merchant, had carefully concealed his work as an operator for the [[British secret service]]. He tore down the damaged rear portion of the upper story, put on a roof, and refurbished the interior.
+
+===The Brighton Hotel===
+In 1808 Rattoon sold the property to Richard M. Woodhull of [[New York City]] who converted it into a hotel called The Brighton. In addition to building a three-story wing, Woodhull added two stories to the main block. The smaller lintels of the third floor windows indicate the change. During the 1986 restoration, the attic chimneys revealed that the original roof had been only about eight feet lower than the present one. Woodhull replaced the huge front door, the outline of which is still distinguishable in the brick pattern. The massive brownstone steps were replaced with a two-story porch. A door leading to the second story of the porch replaced the Venetian window. Almost all of the present woodwork dates from the 1808-1809 period. It was then that the two handsome interior arches were constructed.  The New York Gazette of May 27, 1809, described the Brighton Hotel as a ''"Charming Place, magnificent by nature and elegant by art."''
+
+===The Bruen House===
+The [[War of 1812]] ruined the Brighton as a resort. In 1817, it was sold at sheriff's sale to [[Matthias Bruen|Mathias Bruen]], a Perth Amboy merchant who had become one of the wealthiest men in the nation. He resided there until his death in 1846.  The Bruen heirs renovated the property and renamed it as the Brighton. Depression and interruptions caused by the Mexican and [[American Civil War|Civil Wars]] doomed the project.
+
+===The Westminster===
+In 1883 the Bruen family conveyed the property to the Presbyterian Board of Relief for Disabled Ministers and the Wives and Orphans of Deceased Ministers, where it was used as a home for the families of deceased ministers.  After 20 years, the Presbytery returned the property to the Bruen family. In 1904, the family sold the property. Most of its eleven acres were divided into building lots, and Kearny Avenue was cut through.  The house experienced a series of owners. Over the years it deteriorated from a comfortable apartment house with a public restaurant to a dilapidated rooming house and suspected flophouse.
+
+==Restoration==
+In 1914 a group of Perth Amboy citizens founded the Westminster Historical Society to raise funds to purchase and restore the Proprietary House.  In the late 1930s, the house was measured and plans drawn by the Historical American Buildings Survey for a record of this significant property. The plans and photos are held by the [[Library of Congress]] in [[Washington, D.C.]] 
+ 
+Realizing that the importance of the property was as the Proprietary House and not as the Westminster, the Proprietary House Association was incorporated on September 7, 1966, to succeed the Westminster Historical Society.  The State was persuaded to purchase the property, and it was placed on both the State and [[National Register of Historic Places|National Registers of Historic Places]].
+
+Mainly with volunteer help, the Association cleaned out years of accumulated debris and removed walls which had divided the great rooms. The first two floors were open to visitors in 1976.  Gradually, it became recognized that the Proprietary House is of state and national as well as local significance. However, the process of decay continually outpaced the process of restoration. Neither the Association or the State were able to pay for historically accurate restoration. 
+ 
+In 1985 the Restoration Partnership of Boston, with William S. Pavlovsky as a principal, proposed a plan under which the Partnership would lease the house and 3.5 acres of surrounding land for 25 years. At its cost, the Partnership would restore and renovate the exterior, and finish the interior of the 1809 wing and the upper floors of the main block as offices. Income from the offices would reimburse the partnership. The plan was implemented in 1986. The ground and first floors of the original mansion are leased by the State to the Proprietary House Association, which is charged with raising funds for programming, interpretation, and historically accurate restoration.
+
+In late 2011 a historically accurate re-restoration began. Through paint analysis, soon each room on the first floor and basement levels will depict a colorful timeline of its many past occupants. The color of the rooms can now be seen and experienced as they were through the eyes of those viewing them in their era. This museum is a hands-on introduction to the events and people that helped shape this nation's history.
+
+Throughout these phases, the house/museum is always open for tours, events, and exhibits.
+
+==See also==
+*[[Perth Amboy City Hall]]
+*[[List of colonial governors of New Jersey#Governors of New Jersey only (1738–1776)]]
+*[[Proprietary colony]]
+*[[Proprietary governor]]
+*[[National Register of Historic Places listings in Middlesex County, New Jersey]]
+*[[List of the oldest buildings in New Jersey]]
+
+==References==
+<references/>
+
+==External links==
+*[http://www.theproprietaryhouse.org The Proprietary House - Royal Governor's Mansion]
+*[http://www.historicmapworks.com/Buildings/index.php?state=NJ&city=Perth%20Amboy&id=23298 Survey Photos, Drawings, Documentation]
+{{National Register of Historic Places}}
+
+[[Category:Houses on the National Register of Historic Places in New Jersey]]
+[[Category:New Jersey in the American Revolution]]
+[[Category:Colonial government in America]]
+[[Category:History of the Thirteen Colonies]]
+[[Category:Perth Amboy, New Jersey]]
+[[Category:Museums in Middlesex County, New Jersey]]
+[[Category:Historic house museums in New Jersey]]
+[[Category:Houses in Middlesex County, New Jersey]]
+[[Category:American Revolutionary War museums in New Jersey]]
+[[Category:National Register of Historic Places in Middlesex County, New Jersey]]
+[[Category:New Jersey Register of Historic Places]]
+[[Category:Houses completed in 1764]]
+[[Category:Georgian architecture in New Jersey]]

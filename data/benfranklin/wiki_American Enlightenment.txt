@@ -1,0 +1,162 @@
+{{Infobox historical era
+| name = American Enlightenment
+| start = 1732
+| end = 1845
+| image = Thomas Paine.jpg
+| alt = 
+| caption = [[Thomas Paine]]
+| before = [[European Enlightenment]]
+| including = [[American philosophy]]
+| after = [[American Revolution]]
+| monarch = 
+| leaders = [[Thomas Paine]], [[Benjamin Franklin]], [[Thomas Jefferson]], [[James Madison]], and [[George Washington]]
+}}
+
+The '''American Enlightenment''' was a period of intellectual ferment in the [[Thirteen Colonies|thirteen American colonies]] in the 17th to 18th century, which led to the [[American Revolution]], and the creation of the United States of America.  The American Enlightenment was influenced by the 17th-century [[Age of Enlightenment|European Enlightenment]] and its own native [[American philosophy]].  According to [[James MacGregor Burns]], the spirit of the American Enlightenment was to give Enlightenment ideals a practical, useful form in the life of the nation and its people.<ref>{{Cite encyclopedia |title=Fire and Light: How the Enlightenment Transformed Our World |publisher=Macmillan |url=https://books.google.com/books/about/Fire_and_Light.html?id=oagaz4yvHOEC |last=Burns |first=James MacGregor |date=2013 |page=132 |language=en |isbn=978-1-250-02490-9}}</ref>
+
+The Enlightenment applied scientific reasoning to politics, science, and religion.  It promoted religious tolerance and restored literature, arts, and music as important disciplines worthy of study in colleges.  "New-model" American style colleges were founded such as King's College New York (now [[Columbia University]]), and the College of Philadelphia (now [[University of Pennsylvania]]).  [[Yale University|Yale College]] and the [[College of William & Mary]] were reformed.  A non-denominational moral philosophy replaced theology in many college curricula.  Even Puritan colleges such as the College of New Jersey (now [[Princeton University]]) and [[Harvard University]] reformed their curricula to include natural philosophy (science), modern astronomy, and mathematics.
+
+Among the foremost representatives  of the American Enlightenment were presidents of colleges, including Puritan religious leaders [[Jonathan Edwards (theologian)|Jonathan Edwards]], [[Thomas Clap]], and [[Ezra Stiles]], and Anglican moral philosophers [[Samuel Johnson (American educator)|Samuel Johnson]] and [[William Smith (Episcopalian priest)|William Smith]].  The leading political thinkers were [[John Adams]], [[James Madison]], [[Thomas Paine]], [[George Mason]], [[James Wilson]], [[Ethan Allen]], and [[Alexander Hamilton]], and polymaths [[Benjamin Franklin]] and [[Thomas Jefferson]]. Leading scientists included Benjamin Franklin for his work on electricity, William Smith for his organization and observations of the Transit of Venus, [[Jared Eliot]] for his work in metallurgy and agriculture, the astronomer [[David Rittenhouse]] in astronomy, math, and instruments, [[Benjamin Rush]] in medical science,  [[Charles Willson Peale]] in natural history, and [[Cadwallader Colden]] for his work in botany and town sanitation. Colden's daughter, [[Jane Colden]], was the first female botanist working in America.  Count Rumford was a leading scientist, especially in the field of heat.
+
+==Terminology==
+The term "American Enlightenment" was coined in the post-World War II era. It was not used in the eighteenth century when English speakers commonly referred to a process of becoming "enlightened."<ref>Caroline Winterer, ''American Enlightenments: Pursuing Happiness in the Age of Reason'', Yale University Press, 2016</ref><ref>Winterer, What Was the American Enlightenment? in ''The Worlds of American Intellectual History'', eds. Joel Isaac, James Kloppenberg, and Jennifer Ratner-Rosenhagen, Oxford University Press, 2016</ref>
+
+==Dates==
+Various dates for the American Enlightenment have been proposed, including the dates 1750–1820,<ref>Ferguson ''Robert A., The American Enlightenment, 1750–1820'', Harvard University Press, 1994</ref> 1765–1815,<ref>Adrienne Koch, referenced by Woodward, C. Vann, ''The Comparative Approach to American History'', Oxford University Press, 1997</ref> and 1688–1815.<ref>Henry F. May, referenced by Byrne, James M., ''Religion and the Enlightenment: From Descartes to Kant'', Westminster John Knox Press, 1996, p. 50</ref> One more precise start date proposed<ref>Olsen,Neil C., ''Pursuing Happiness: The Organizational Culture of the Continental Congress'', Nonagram Publications, {{ISBN|978-1-4800-6550-5|1-4800-6550-1}}, 2013, p. 145</ref> is the date a collection of Enlightenment books by [[Colonial agent|Colonial Agent]] [[Jeremiah Dummer]] were donated into the library of the small college of [[Yale University|Yale]] at [[Old Saybrook, Connecticut|Saybrook Point, Connecticut]] on or just after October 15, 1714. They were received by a young post-graduate student [[Samuel Johnson (American educator)|Samuel Johnson]], of Guilford, Connecticut, who studied them.  He found that they contradicted all his hard-learned Puritan learning.  He wrote that, "All this was like a flood of day to his low state of mind",<ref>Johnson, Samuel, and Schneider, Herbert, ''Samuel Johnson, President of King's College; His Career and Writings'', editors Herbert and Carol Schneider, New York: Columbia University Press, 1929, Volume 1, p. 7</ref>  and that "he found himself like one at once emerging out of the glimmer of twilight into the full sunshine of open day".  Two years later in 1716 as a Yale Tutor, Johnson introduced a new curriculum into Yale using the donated Dummer books.  He offered what he called "The New Learning",<ref>Johnson and Schneider</ref> which included the works and ideas of Francis Bacon, John Locke, Isaac Newton, Boyle, Copernicus, and literary works by Shakespeare, Milton, and Addison.  Enlightenment ideas were introduced to the colonists and diffused through Puritan educational and religious networks especially through Yale College in 1718.<ref>Joseph J. Ellis, ''The New England Mind in Transition: Samuel Johnson of Connecticut, 1696–1772'', Yale University Press, 1973, Chapter II and p. 45</ref>
+
+==Religious tolerance==
+Enlightened Founding Fathers, especially [[Benjamin Franklin]], [[Thomas Jefferson]],  [[James Madison]] and [[George Washington]], fought for and eventually attained [[religious freedom]] for minority denominations. According to the founding fathers, the United States should be a country where peoples of all faiths could live in peace and mutual benefit. James Madison summed up this ideal in 1792 saying, "Conscience is the most sacred of all property."<ref>Bryan-Paul Frost and Jeffrey Sikkenga, ''History of American political thought'' (2003) p. 152</ref>
+
+A switch away from established religion to religious tolerance was one of the distinguishing features of the era from 1775 to 1818. The passage of the new ''[[Connecticut Constitutional History#The Constitution of 1818|Connecticut Constitution]]'' on October 5, 1818, overturned the 180-year-old "Standing Order" and [[Connecticut Constitutional History#The Connecticut Charter of 1662|The Connecticut Charter of 1662]], whose provisions dated back to the founding of the state in 1638 and the [[Fundamental Orders of Connecticut]]; it has been proposed as a date for the triumph if not the end of the American Enlightenment:).<ref>Olsen, p. 16</ref> The new constitution guaranteed freedom of religion, and disestablished the [[Congregational church]].
+
+==Intellectual currents==
+Between 1714 and 1818 a great intellectual change took place that changed the British Colonies of America from a distant backwater into a leader in the fields of moral philosophy, educational reform, religious revival, industrial technology, science, and, most notably, political philosophy. It saw a consensus on a "pursuit of happiness" based political philosophy.
+
+==Architecture==
+After 1780, the [[Federal architecture|Federal-style]] of [[Architecture of the United States|American Architecture]] began to diverge from the Georgian style and became a uniquely American genre; in 1813, the American architect [[Ithiel Town]] designed and in 1814–1816 built the first Gothic Style church in North America, [[Trinity Church on the Green]] in New Haven, predating the English [[Gothic Revival architecture|Gothic revival]] by a decade. In the fields of literature, poetry, music, and drama some nascent artistic attempts were made, particularly in pre-war Philadelphia, but American (non-popular) culture in these fields was largely imitative of British culture for most of the period and is generally considered not very distinguished.
+
+==Republicanism==
+Politically, the age is distinguished by an emphasis upon [[Classical liberalism|economic liberty]], [[Republicanism in the United States|republicanism]] and [[Freedom of religion in the United States|religious tolerance]], as clearly expressed in the [[United States Declaration of Independence]]. Attempts to reconcile [[science and religion]] resulted in a rejection of prophecy, miracle, and revealed religion, resulting in an inclination toward [[deism]] among some major political leaders of the age. [[Republicanism in the United States|American republicanism]] emphasized consent of the governed, riddance of the aristocracy, and fear of corruption. It represented the convergence of [[classical republicanism]] and English republicanism (of 17th century [[Commonwealthmen]] and 18th century [[Country Party (Britain)|English Country Whigs]]).<ref>Linda K. Kerber, "The Republican Ideology of the Revolutionary Generation," pp.&nbsp;474–95 [https://www.jstor.org/stable/2712578 in JSTOR]</ref>
+
+[[J.G.A. Pocock]] explained the intellectual sources in America:<ref>J.G.A. Pocock, ''The Machiavellian Moment'' p. 507</ref>
+{{quote|The Whig canon and the neo-Harringtonians, [[John Milton]], [[James Harrington (author)|James Harrington]] and [[Algernon Sydney|Sidney]], [[John Trenchard (writer)|Trenchard]], [[Thomas Gordon (writer)|Gordon]] and [[Henry St John, 1st Viscount Bolingbroke|Bolingbroke]], together with the Greek, Roman, and Renaissance masters of the tradition as far as [[Charles de Secondat, baron de Montesquieu|Montesquieu]], formed the authoritative literature of this culture; and its values and concepts were those with which we have grown familiar: a civic and patriot ideal in which the personality was founded on property, perfected in citizenship but perpetually threatened by corruption; government figuring paradoxically as the principal source of corruption and operating through such means as patronage, faction, standing armies (opposed to the ideal of the militia); established churches (opposed to the Puritan and deist modes of American religion); and the promotion of a monied interest—though the formulation of this last concept was somewhat hindered by the keen desire for readily available paper credit common in colonies of settlement.}}
+
+==European sources==
+Sources of the American Enlightenment are many and vary according to time and place. As a result of an extensive book trade with Great Britain, the colonies were well acquainted with European literature almost contemporaneously. Early influences were English writers, including [[James Harrington (author)|James Harrington]], [[Algernon Sidney]], the [[Henry St John, 1st Viscount Bolingbroke|Viscount Bolingbroke]], [[John Trenchard (writer)|John Trenchard]] and [[Thomas Gordon (writer)|Thomas Gordon]] (especially the two's [[Cato's Letters]]), and [[Joseph Addison]] (whose tragedy [[Cato, a Tragedy|Cato]] was extremely popular). A particularly important English legal writer was [[Sir William Blackstone]], whose  ''[[Commentaries on the Laws of England]]'' served as a major influence on the [[Founding Fathers of the United States|American Founders]] and is a key source in the development Anglo-American [[common law]]. Although [[John Locke|John Locke's]] ''[[Two Treatises of Government]]'' has long been cited as a major influence on American thinkers, historians David Lundberg and [[Henry F. May]] demonstrate that Locke's ''[[Essay Concerning Human Understanding]]'' was far more widely read than were his political ''Treatises''.<ref>See David Lundberg and Henry F. May, "The Enlightened Reader in America," ''American Quarterly'', vol. 28, no. 2 (1976): 267.</ref>
+
+The [[Scottish Enlightenment]] also influenced American thinkers. David Hume's ''Essays'' and his ''[[The History of England (Hume)|History of England]]'' were widely read in the colonies,<ref>See Mark G. Spencer, ''David Hume and Eighteenth-Century America'' (2005).</ref> and Hume's political thought had a particular influence on James Madison and the Constitution.<ref>See Douglass Adair, "'That Politics May Be Reduced to a Science': David Hume, James Madison, and the Tenth Federalist," ''Huntington Library Quarterly'', vol. 20, no. 4 (1957): 343–60; and Mark G. Spencer, "Hume and Madison on Faction," ''The William and Mary Quarterly'', 3rd ser., vol. 59, no. 4 (2002): 869–96.</ref> Another important Scottish writer was [[Francis Hutcheson (philosopher)|Francis Hutcheson]]. Hutcheson's ideas of ethics, along with notions of civility and politeness developed by the [[Anthony Ashley-Cooper, 3rd Earl of Shaftesbury|Earl of Shaftesbury]], and Addison and [[Richard Steele]] in their ''[[The Spectator (1711)|Spectator]]'', were a major influence on upper-class American colonists who sought to emulate European manners and learning.
+
+By far the most important French sources to the American Enlightenment, however, were [[Montesquieu|Montesquieu's]] ''[[Spirit of the Laws]]'' and [[Emer de Vattel|Emer de Vattel's]] ''[[The Law of Nations|Law of Nations]]''. Both informed early American ideas of government and were major influences on the Constitution.  [[Voltaire]]'s histories were widely read but seldom cited.  [[Jean-Jacques Rousseau|Rousseau]]'s influence was marginal.  [[Noah Webster]] used Rousseau's educational ideas of child development to structure his famous ''Speller.''  A German influence includes [[Samuel Pufendorf]], whose writings were also commonly cited by American writers.
+
+==Liberalism and republicanism==
+Since the 1960s, historians have debated the Enlightenment's role in the American Revolution. Before 1960 the consensus was that [[liberalism]], especially that of [[John Locke]], was paramount; republicanism was largely ignored.<ref>See for example, Vernon L. Parrington, ''Main Currents in American Thought'' (1927) online at [http://xroads.virginia.edu/~hyper/Parrington/vol1/bk03_01_ch02.html]</ref> The new interpretations were pioneered by [[J.G.A. Pocock]] who argued in ''[[The Machiavellian Moment]]'' (1975) that, at least in the early eighteenth-century, republican ideas were just as important as liberal ones. Pocock's view is now widely accepted.<ref>Shalhope (1982)</ref>  [[Bernard Bailyn]] and [[Gordon S. Wood|Gordon Wood]] pioneered the argument that the [[Founding Fathers of the United States]] were more influenced by [[republicanism]] than they were by [[liberalism]]. Cornell University Professor Isaac Kramnick, on the other hand, argues that Americans have always been highly [[Individualism|individualistic]] and therefore Lockean.<ref>Isaac Kramnick, ''Ideological Background," in Jack. P. Greene and J.R. Pole, ''The Blackwell Encyclopedia of the American Revolution'' (1994) ch. 9; Robert E. Shallhope, "Republicanism," ibid ch. 70.</ref>
+
+In the decades before the American Revolution (1776), the intellectual and political leaders of the colonies studied history intently, looking for guides or models for good (and bad) government. They especially followed the development of republican ideas in England.<ref>Trevor Colbourn, ''The Lamp of Experience: Whig History and the Intellectual Origins of the American Revolution'' (1965) [http://oll.libertyfund.org/Home3/Book.php?recordID=0009 online version]</ref> Pocock explained the intellectual sources in the United States:
+
+{{quote|The Whig canon and the neo-Harringtonians, [[John Milton]], [[James Harrington (author)|James Harrington]] and [[Algernon Sydney|Sidney]], [[John Trenchard (writer)|Trenchard]], [[Thomas Gordon (writer)|Gordon]] and [[Henry St John, 1st Viscount Bolingbroke|Bolingbroke]], together with the Greek, Roman, and Renaissance masters of the tradition as far as [[Charles de Secondat, baron de Montesquieu|Montesquieu]], formed the authoritative literature of this culture; and its values and concepts were those with which we have grown familiar: a civic and patriot ideal in which the personality was founded on property, perfected in citizenship but perpetually threatened by corruption; government figuring paradoxically as the principal source of corruption and operating through such means as patronage, faction, standing armies (opposed to the ideal of the militia), established churches (opposed to the Puritan and deist modes of American religion) and the promotion of a monied interest—though the formulation of this last concept was somewhat hindered by the keen desire for readily available paper credit common in colonies of settlement. A neoclassical politics provided both the ethos of the elites and the rhetoric of the upwardly mobile, and accounts for the singular cultural and intellectual homogeneity of the Founding Fathers and their generation.<ref>Pocock, ''The Machiavellian Moment'' p. 507</ref>}}
+
+The commitment of most Americans to these republican values made inevitable the [[American Revolution]], for Britain was increasingly seen as corrupt and hostile to republicanism, and a threat to the established liberties the Americans enjoyed.<ref>Bailyn, Bernard.'' The Ideological Origins of the American Revolution'' (1967)</ref>
+
+[[Leopold von Ranke]], a leading German historian, in 1848 claims that American republicanism played a crucial role in the development of European liberalism:
+
+{{quote|By abandoning English constitutionalism and creating a new republic based on the rights of the individual, the North Americans introduced a new force in the world. Ideas spread most rapidly when they have found adequate concrete expression. Thus republicanism entered our Romanic/Germanic world... Up to this point, the conviction had prevailed in Europe that monarchy best served the interests of the nation. Now the idea spread that the nation should govern itself. But only after a state had actually been formed on the basis of the theory of representation did the full significance of this idea become clear. All later revolutionary movements have this same goal... This was the complete reversal of a principle. Until then, a king who ruled by the grace of God had been the center around which everything turned. Now the idea emerged that power should come from below... These two principles are like two opposite poles, and it is the conflict between them that determines the course of the modern world. In Europe the conflict between them had not yet taken on concrete form; with the French Revolution it did.<ref>{{cite book|last=Adams|first=Willi Paul|title=The First American Constitutions: Republican Ideology and the Making of the State Constitutions in the Revolutionary Era|url=https://books.google.com/books?id=sTSMmWQSR7UC&pg=PA128|year=2001|publisher=Rowman & Littlefield|pages=128–29}}</ref>}}
+
+=="Life, Liberty and the pursuit of Happiness"==
+Many historians<ref>J. R. Pole, ''The pursuit of equality in American history'' (1978) p. 9</ref> find that the origin of [[Life, liberty and the pursuit of happiness|this famous phrase]] derives from  Locke's position  that "no one ought to harm another in his life, health, liberty, or possessions."<ref name = "locke">{{cite book | last = Locke | first = John | title = Two Treatises of Government (10th edition) | publisher = [[Project Gutenberg]] | year = 1690 | URL = http://www.gutenberg.org/files/7370/7370-h/7370-h.htm | accessdate = May 5, 2018}}</ref>  Others suggest that Jefferson took the phrase from Sir William Blackstone's ''Commentaries on the Laws of England.''<ref>Paul Sayre, ed., ''Interpretations of modern legal philosophies'' (1981) p. 189</ref>  Others note that [[William Wollaston]]'s 1722 book ''The Religion of Nature Delineated'' describes the "truest definition" of "natural religion" as being "''The pursuit of happiness'' by the practice of reason and truth."<ref>James W. Ely, ''Main themes in the debate over property rights'' (1997) p. 28</ref>
+
+The [[Virginia Declaration of Rights]], which was written by [[George Mason]] and adopted by the [[Fifth Virginia Convention|Virginia Convention of Delegates]] on June 12, 1776, a few days before Jefferson's draft, in part, reads:
+
+{{quote|That all men are by nature equally free and independent, and have certain inherent rights, of which, when they enter into a state of society, they cannot, by any compact, deprive or divest their posterity; namely, the enjoyment of life and liberty, with the means of acquiring and possessing property, and pursuing and obtaining happiness and safety.}}
+
+The [[United States Declaration of Independence]], which was primarily written by Jefferson, was adopted by the [[Second Continental Congress]] on July 4, 1776.  The text of the second section of the Declaration of Independence reads:
+
+{{quote|We hold these Truths to be [[self-evidence|self-evident]], that [[all men are created equal|all Men are created equal]], that they are endowed by their [[creator deity|Creator]] with certain [[Natural and legal rights|unalienable Rights]], that among these are [[Life, Liberty and the pursuit of Happiness]].}}
+
+==Deism==
+
+Both the Moderate Enlightenment and a Radical or Revolutionary Enlightenment were reactions against the [[authoritarianism]], irrationality, and [[obscurantism]] of the established churches. Philosophers such as [[Voltaire]] depicted organized [[Religion]] as hostile to the development of reason and the progress of science and incapable of verification.
+
+An alternative religion was [[deism]], the philosophical belief in a deity based on reason, rather than religious revelation or dogma. It was a popular perception among the ''philosophes'', who adopted deistic attitudes to varying degrees. Deism greatly influenced the thought of intellectuals and [[Founding Fathers of the United States|Founding Fathers]], including [[John Adams]], Benjamin Franklin, perhaps [[George Washington]] and, especially, [[Thomas Jefferson]].<ref>Sanford, Charles B. ''The Religious Life of Thomas Jefferson'' (1987) University of Virginia Press, {{ISBN|0-8139-1131-1}}</ref>  The most articulate exponent was  [[Thomas Paine]], whose ''[[The Age of Reason]]'' was written in France in the early 1790s, and soon reached the United States.  Paine was highly controversial; when Jefferson was attacked for his deism in the [[1800 election]], Democratic-Republican politicians took pains to distance their candidate from Paine.<ref>Eric Foner, ''Tom Paine and Revolutionary America'' (1977) p. 257</ref>
+Unitarianism and Deism were strongly connected, the former being brought to America by Joseph Priestley, the oxygen scientist.  Doctor Samuel Johnson called Lord Edward Herbert the "father of English Deism".
+
+==See also==
+{{Wikipedia books|Enlightenment}}
+* [[Age of Enlightenment]]
+* [[American Revolution]]
+* [[George Washington and religion]]
+* [[Common Sense (pamphlet)|''Common Sense'' pamphlet]] – by Thomas Paine
+* ''[[Jefferson Bible]]''
+* [[Liberal democracy]]
+* [[Liberalism]]
+* [[Republicanism]]
+* [[Secular state]]
+* [[Separation of Church and State]]
+* ''[[The Age of Reason]]'' – by Thomas Paine
+* [[Thomas Jefferson]]
+* [[George Mason]]
+* [[Thomas Paine]]
+* [[United States Declaration of Independence]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+
+===Biographies===
+* [[A. Owen Aldridge|Aldridge, A. Owen]], (1959). ''Man of Reason: The Life of Thomas Paine.'' Lippincott.
+* Cunningham, Noble E. ''In Pursuit of Reason'' (1988) well-reviewed short biography of Jefferson.
+* Weinberger, Jerry ''Benjamin Franklin Unmasked: On the Unity of His Moral, Religious, and Political Thought (University Press of Kansas, 2008) {{ISBN|0-7006-1584-9}}
+
+===Academic studies===
+* Allen, Brooke ''Moral Minority: Our Skeptical Founding Fathers'' (2007) Ivan R Dee, Inc, {{ISBN|1-56663-751-1}}
+* Bailyn, Bernard ''The Ideological Origins of the American Revolution'' (1992) Belknap Press of Harvard University Press, {{ISBN|0-674-44302-0}}
+* Bedini, Silvio A ''Jefferson and Science'' (2002) The University of North Carolina Press, {{ISBN|1-882886-19-4}}
+* Cohen, I. Bernard ''Science and the Founding Fathers: Science in the Political Thought of Jefferson, Franklin, Adams and Madison'' (1995) W.W. Norton & Co, {{ISBN|0-393-03501-8}}
+* [[Philip Dray|Dray, Philip]] ''Stealing God's Thunder: Benjamin Franklin's Lightning Rod and the Invention of America'' (2005) Random House, {{ISBN|1-4000-6032-X}}
+* Ellis, Joseph. "Habits of Mind and an American Enlightenment," ''American Quarterly '' Vol. 28, No. 2, Special Issue: An American Enlightenment (Summer, 1976), pp.&nbsp;150–14 [https://www.jstor.org/stable/2712347 in JSTOR]
+* Ferguson, Robert A. ''The American Enlightenment, 1750–1820'' (1997) Harvard University Press, {{ISBN|0-674-02322-6}}
+* Gay, Peter ''The Enlightenment: The Rise of Modern Paganism'' (1995)  W.W. Norton & Company, {{ISBN|0-393-31302-6}};  ''The Enlightenment: The Science of Freedom'' (1996) W.W. Norton & Company, {{ISBN|0-393-31366-2}}
+* Greeson, Jennifer "American Enlightenment: The New World and Modern Western Thought." ''American Literary History'' (2013)  [http://alh.oxfordjournals.org/content/early/2013/01/05/alh.ajs072.short online]
+* Israel, Jonathan ''A Revolution of the Mind – Radical Enlightenment and the Intellectual Origins of Modern Democracy'' (2009) Princeton University Press, {{ISBN|0-691-14200-9}}
+* Jayne, Allen ''Jefferson's Declaration of Independence: Origins, Philosophy and Theology'' (2000) The University Press of Kentucky, {{ISBN|0-8131-9003-7}}; [traces TJ's sources and emphasizes his incorporation of Deist theology into the Declaration.]
+* Koch, Adrienne. "Pragmatic Wisdom and the American Enlightenment," ''William and Mary Quarterly'' Vol. 18, No. 3 (July 1961), pp.&nbsp;313–29 [https://www.jstor.org/stable/1921168 in JSTOR]
+* May, Henry F. ''The Enlightenment in America'' (1978) Oxford University Press, US, {{ISBN|0-19-502367-6}}; the standard survey
+* May, Henry F. ''The Divided Heart: Essays on Protestantism and the Enlightenment in America'' (Oxford UP 1991) [https://www.questia.com/library/7315238/the-divided-heart-essays-on-protestantism-and-the online]
+* McDonald, Forrest ''Novus Ordo Seclorum: Intellectual Origins of the Constitution'' (1986) University Press of Kansas, {{ISBN|0-7006-0311-5}}
+* Meyer D.H. "The Uniqueness of the American Enlightenment," ''American Quarterly'' Vol. 28, No. 2, Special Issue: An American Enlightenment (Summer, 1976), pp.&nbsp;165–86 [https://www.jstor.org/stable/2712348 in JSTOR]
+* Nelson, Craig ''Thomas Paine: Enlightenment, Revolution, and the Birth of Modern Nations'' (2007) Penguin, {{ISBN|0-14-311238-4}}
+* Ralston, Shane "[https://web.archive.org/web/20111103122737/http://www.iep.utm.edu/amer-enl/ American Enlightenment Thought]" (2011), ''Internet Encyclopedia of Philosophy''.
+* Reid-Maroney, Nina ''Philadelphia's Enlightenment, 1740–1800: Kingdom of Christ, Empire of Reason'' (2000)
+* Richard, C.J. ''Founders and the Classics: Greece, Rome and the American Enlightenment'' (1995) Harvard University Press, {{ISBN|0-674-31426-3}}
+* Sanford, Charles B. ''The Religious Life of Thomas Jefferson'' (1987) University of Virginia Press, {{ISBN|0-8139-1131-1}}
+* Sheridan, Eugene R.'' Jefferson and Religion'', preface by [[Martin E. Marty|Martin Marty]], (2001) University of North Carolina Press, {{ISBN|1-882886-08-9}}
+* Staloff, Darren ''Hamilton, Adams, Jefferson: The Politics of Enlightenment and the American Founding''. (2005) Hill & Wang, {{ISBN|0-8090-7784-1}}
+* Winterer, Caroline ''American Enlightenments: Pursuing Happiness in the Age of Reason'' (2016) Yale University Press, {{ISBN|0-300-19257-6}}
+* Wood, Gordon S. ''The Radicalism of the American Revolution'' (1993) Vintage, {{ISBN|0-679-73688-3}}
+
+===Historiography===
+*Winterer, Caroline. "What Was the American Enlightenment?" in ''The Worlds of American Intellectual History,'' eds. Joel Isaac, James Kloppenberg, Michael O'Brien, and Jennifer Ratner-Rosenhagen (New York: Oxford University Press, 2016): 19–36.
+* Caron, Nathalie, and Naomi Wulf. "American Enlightenments: Continuity and Renewal." ''Journal of American History'' (2013) 99#4 pp: 1072–91. [http://jah.oxfordjournals.org/content/99/4/1072.short online]
+*Dixon, John M. "Henry F. May and the Revival of the American Enlightenment: Problems and Possibilities for Intellectual and Social History." ''William & Mary Quarterly'' (2014) 71#2 pp. 255–80. [https://www.jstor.org/stable/10.5309/willmaryquar.71.2.0255 in JSTOR]
+
+===Primary sources===
+* Torre, Jose, ed. ''Enlightenment in America, 1720–1825'' (4 vol. Pickering & Chatto Publishers, 2008) 1360 pages; table of contents online at Pickering & Chatto website
+* Lemay, A. Leo, ed. ''Franklin: Writings'' (Library of America, 1987)
+* Jefferson, Thomas. ''Thomas Jefferson, Political Writings'' ed by Joyce Appleby and Terence Ball. [https://www.questia.com/PM.qst?a=o&d=107255488 Cambridge University Press. 1999 online]
+* Paine, Thomas. ''Thomas Paine: Collected Writings''. Ed. [[Eric Foner]]. Library of America, 1995. {{ISBN|1-883011-03-5}}.
+* Smith, James Morton, ed. ''The Republic of Letters: The Correspondence between Thomas Jefferson and James Madison, 1776–1826'', 3 vols. (1995)
+
+{{Template group|
+|title = Articles related to American Enlightenment
+|list  =
+{{Age of Enlightenment}}
+{{Thomas Jefferson}}
+{{Benjamin Franklin}}
+{{James Madison}}
+{{John Adams}}
+{{Alexander Hamilton}}
+{{George Mason}}
+{{American Revolutionary War|Origins}}
+}}
+
+[[Category:American Enlightenment| ]]

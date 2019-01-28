@@ -1,0 +1,174 @@
+{{Infobox officeholder
+| image        = Peter Muhlenberg2.jpg
+| jr/sr        = United States Senator
+| state        = [[Pennsylvania]]
+| term_start   = March 4, 1801
+| term_end     = June 30, 1801
+| predecessor  = [[William Bingham]]
+| successor    = [[George Logan]]
+| state1       = [[Pennsylvania]]
+| district1    = {{ushr|PA|4|4th}}
+| term_start1  = March 4, 1799
+| term_end1    = March 4, 1801
+| predecessor1 = [[John Chapman (congressman)|John Chapman]]
+| successor1   = [[Isaac Van Horne]]
+| state2       = [[Pennsylvania]]
+| district2    = {{ushr|PA|AL|at-large}}
+| term_start2  = March 4, 1793
+| term_end2    = March 4, 1795
+| predecessor2 = ''Constituency established''
+| successor2   = ''Constituency abolished''
+| term_start3  = March 4, 1789
+| term_end3    = March 4, 1791
+| predecessor3 = ''Constituency established''
+| successor3   = ''Constituency abolished''
+| order4       = 8th
+| office4      = Vice-President of Pennsylvania
+| president4   = [[Benjamin Franklin]]
+| term_start4  = October 31, 1787
+| term_end4    = October 14, 1788
+| predecessor4 = [[Charles Biddle (Pennsylvania statesman)|Charles Biddle]]
+| successor4   = [[David Redick]]
+| birth_name   = John Peter Gabriel Muhlenberg
+| birth_date   = {{birth date|1746|10|1}}
+| birth_place  = [[Trappe, Pennsylvania|Trappe]], [[Pennsylvania]]
+| death_date   = {{death date and age|1807|10|1|1746|10|1}}
+| death_place  = [[Grays Ferry, Philadelphia, Pennsylvania|Gray's Ferry]], Pennsylvania
+| party        = 
+| spouse       = 
+| profession   = [[Minister (Christianity)|Minister]], Politician, Soldier
+<!-- RELIGION REMOVED PER PROJECT-WIDE CONSENSUS AT THE VILLAGE PUMP. https://en.wikipedia.org/wiki/Wikipedia:Village_pump_(policy)/Archive_126#RfC:_Religion_in_biographical_infoboxes -->
+| signature    = Appletons' Muhlenberg John Peter Gabriel signature.png
+| allegiance   = {{flag|United States|1777}}
+| branch       = {{flagicon image|Gadsden flag.svg}} [[Continental Army]]
+| serviceyears = 1776–1783
+| rank         = [[File:US-O8 insignia.svg|20px]] [[Major general (United States)|Major General]]
+| commands     = [[8th Virginia Regiment]]
+| battles      = [[American Revolutionary War]]<br>{{*}}[[Battle of Brandywine]]<br>{{*}}[[Battle of Germantown]]<br>{{*}}[[Battle of Monmouth]]<br>{{*}}[[Siege of Yorktown]]
+}}
+[[File:Peter Muhlenberg.jpg|frame|right|[[Peter Muhlenberg (Nevin)|Peter Muhlenberg statue]] by [[Blanche Nevin]] at the [[United States Capitol]] building.]]
+'''John Peter Gabriel Muhlenberg''' (October 1, 1746{{spaced ndash}}October 1, 1807) was an [[United States|American]] [[clergyman]], [[Continental Army]] soldier during the [[American Revolutionary War]], and political figure in the newly independent United States. A [[Lutheranism|Lutheran]] minister, he served in the [[United States House of Representatives]] and [[United States Senate]] from [[Pennsylvania]].
+
+==Early life and education==
+Muhlenberg was born to [[Pennsylvania German]] parents Anna Maria and [[Henry Muhlenberg]] in [[Trappe, Pennsylvania]]. He was sent, together with his brothers, [[Frederick Muhlenberg|Frederick Augustus]] and [[Gotthilf Henry Ernst Muhlenberg|Gotthilf Henry Ernst]] in 1763 to [[Halle, Saxony-Anhalt|Halle]]. They were educated in Latin at the [[Francke Foundations]].<ref>Archiv der Franckeschen Stiftungen, AF St/S B I 94 I, 575–577</ref>  He left school in 1767 to start as a sales assistant in [[Lübeck]], but returned that same year to Pennsylvania.
+
+He served briefly in the British [[60th Regiment of Foot]],<ref>{{cite journal |last=Horn |first=Joshua |title=Peter Muhlenberg: The Pastor Turned Soldier |date=9 November 2015 |journal=Journal of the American Revolution |url=http://allthingsliberty.com/2015/11/peter-muhlenberg-the-pastor-turned-soldier/#_edn2 |accessdate=29 November 2015}}</ref> and also served briefly in the German [[dragoon]]s, earning the [[nickname]] "Teufel Piet" (Devil Pete) before returning to Philadelphia in 1767, where he was given a classical education from the [[Academy of Philadelphia]] (the modern [[University of Pennsylvania]]).  He was ordained in 1768 and headed a Lutheran congregation in [[Bedminster, New Jersey]], before moving to [[Woodstock, Virginia]]. In 1770 he married Anna Barbara "Hannah" Meyer, the daughter of a successful potter. Together they had six children.
+
+Muhlenberg visited England in 1772 and was ordained into the priesthood of  the [[Anglican Church]], although he served a Lutheran congregation. Since the Anglican Church was the state church of Virginia, he was required to be ordained in an Anglican church in order to serve a congregation in Virginia. Besides his new congregation, he led the [[Committee of Safety (American Revolution)|Committee of Safety]] and [[Committee of correspondence|Correspondence]] for [[Dunmore County, Virginia]]. He was elected to the [[House of Burgesses]] in 1774, and was a delegate to the [[First Virginia Convention]].
+
+==Military career==
+Toward the end of 1775, Muhlenberg was authorized to raise and command as its [[Colonel (United States)|colonel]] the [[8th Virginia Regiment]] of the [[Continental Army]]. After [[George Washington]] personally asked him to accept this task, he agreed. However, his brother Fredrick Augustus Muhlenberg, who was also a minister, did not approve of him going into the army until the British burned down his own church in front of him. Then he  joined the military himself.
+
+According to a biography written by his great nephew in the mid-19th century,<ref name="pbs">{{cite web |url= http://www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-13/505_muhlenbergrobe.pdf |title=History Detectives Season 5, Episode 5 – Transcript |accessdate=2008-08-20 |publisher=Oregon Public Broadcasting |year=2007  |format=PDF}}</ref>
+on January 21, 1776 in the Lutheran church in [[Woodstock, Virginia]], Reverend Muhlenberg took his sermon text from the third chapter [[Ecclesiastes]], which starts with ''"To every thing there is a season..."''; after reading the eighth verse, "a time of war, and a time of peace," he declared, "And this is the time of war," removing his clerical robe to reveal his Colonel's uniform. Outside the church door the drums began to roll as men turned to kiss their wives and then walked down the aisle to enlist, and within half an hour, 162 men were enrolled.<ref>[http://www.horseshoe.cc/pennadutch/history/american/revwar.htm ]{{dead link|date=April 2018}}</ref> The next day he led out 300 men from the county to form the nucleus of the [[8th Virginia Regiment]]. Though it is accepted that Muhlenberg helped form and lead the 8th, historians doubt the account of the sermon, as there are no reports prior to Muhlenberg's great-nephew's biography.<ref name="pbs" /><ref name="thelutheran">{{cite web| url=http://www.thelutheran.org/article/article.cfm?article_id=6654| title=Muhlenberg a recruiter for the Revolutionary War?| publisher=The Lutheran| year=2007| deadurl=yes| archiveurl=https://web.archive.org/web/20140104203943/http://www.thelutheran.org/article/article.cfm?article_id=6654| archivedate=2014-01-04| df=}}</ref>
+
+Muhlenberg's unit was first posted to the [[Southern theater of the American Revolutionary War|South]], to defend the coast of [[South Carolina]] and [[Georgia (U.S. state)|Georgia]]. In early 1777, the Eighth Regiment was sent north to join Washington's main army. Muhlenberg was made a [[Brigadier general (United States)|brigadier general]] of the [[Virginia Line]] and commanded that [[Brigade]] in [[Nathanael Greene]]'s division at [[Valley Forge]]. Muhlenberg saw service in the Battles of [[Battle of Brandywine|Brandywine]], [[Battle of Germantown|Germantown]], and [[Battle of Monmouth|Monmouth]]. After Monmouth, most of the Virginia Line was sent to the far south, while General Muhlenberg was assigned to head up the defense of Virginia using mainly [[militia]] units.
+
+At the [[Battle of Yorktown (1781)|Battle of Yorktown]], he commanded the first brigade in [[Marquis de Lafayette|Lafayette's]] Light Division.<ref>Hamner, Christopher. [http://teachinghistory.org/history-content/ask-a-historian/24635 Black-Robed Regiment]. [http://www.teachinghistory.org Teachinghistory.org]. Accessed 2 June 2011.</ref> His brigade was part of the Corps of Light Infantry, consisting of the light infantry companies of the line regiments of [[Massachusetts]] (ten companies), [[Connecticut]] (five companies), [[New Hampshire]] (five companies), and [[Rhode Island]] and [[New Jersey]] (one each). They held the right flank and manned the two trenches built to move American cannons closer to Cornwallis' defenses. The battalion commanded by American Lt. Colonel [[Alexander Hamilton]] and French Lieutenant Colonel [[Jean-Joseph Sourbader de Gimat]] led the night bayonet attack that stormed Redoubt No. 10 on October 14, 1781.
+
+At the end of the war (1783), he was [[Brevet (military)|brevet]]ted to [[Major general (United States)|major general]] and settled in [[Montgomery County, Pennsylvania]].
+
+Muhlenberg was also an original member of the Pennsylvania [[Society of the Cincinnati]].
+
+==Political career==
+After the war, Muhlenberg was elected to the [[Supreme Executive Council of the Commonwealth of Pennsylvania]] in 1784. He was elected [[Vice-President of Pennsylvania|Vice-President of the Council]], a position comparable to that of [[Lieutenant Governor of Pennsylvania|Lieutenant Governor]], on October 31, 1787. His term as Vice-President ended on a mysterious note. On October 14, 1788 the minutes of the Executive Council report that Muhlenberg had left Philadelphia without tendering his resignation—why his resignation was needed or expected is not noted—so a messenger was sent after him. That night, after the messenger returned with the resignation, the Council met at President [[Benjamin Franklin]]'s home to choose Muhlenberg's successor, electing [[David Redick]] to the position.
+
+Muhlenberg was elected to the [[1st United States Congress|1st Congress]] (1789–1791) as one of the [[at-large]] representatives from Pennsylvania. His brother [[Frederick Muhlenberg|Frederick]] was the [[Speaker of the United States House of Representatives|Speaker of the House]] for that same Congress. He was the first founder of the [[Democratic-Republican Societies]] in 1793. Muhlenberg served in Congress as a Republican during the [[3rd United States Congress|3rd Congress]] 1793–1795 and [[5th United States Congress|5th Congress]] 1799–1801 for the 1st district. Muhlenberg was elected by the legislature to the U.S. Senate on a second ballot in February 1801 over [[George Logan]], but resigned on June 30 of that same year. <ref> Sanford W. Higginbotham, ''The Keystone in the Democratic Arch: Pennsylvania Politics, 1800-1816'' (Harrisburg, PA: Pennsylvania Historical and Museum Commission, 1952), pp. 32-34.</ref>
+
+President [[Thomas Jefferson]] appointed him the [[supervisor of revenue]] for Pennsylvania in 1801 and customs collector for Philadelphia in 1802. He served in the latter post until his death.
+
+On August 3, 1805, Muhlenberg wrote a letter to the residents of the primarily-German Northampton and Berks counties in a successful attempt to tilt those counties toward incumbent Governor [[Thomas McKean]], who, in the midst of a badly fractured state Republican Party, was running with Federalist support, in his bid for reelection. Muhlenberg noted that although McKean's opponent, [[Simon Snyder]], was of German descent, his election would elevate the Republican Party's radical Democratic faction to power and, with calls for a Constitutional Convention to elevate the power of the state legislature over the governor and especially the judiciary, result in anarchy.<ref>Sanford W. Higginbotham, ''The Keystone in the Democratic Arch: Pennsylvania Politics, 1800-1816'' (Harrisburg, PA: Pennsylvania Historical and Museum Commission, 1952), pp. 96-100.</ref> McKean's margin of victory, 6,772-3,216, over Snyder in Northampton and Berks secured his narrow, 43,644-38,483, statewide margin of victory over Snyder.<ref>Sanford W. Higginbotham, ''The Keystone in the Democratic Arch: Pennsylvania Politics, 1800-1816'' (Harrisburg, PA: Pennsylvania Historical and Museum Commission, 1952), pp. 99-100.</ref>
+
+On his 61st birthday, Muhlenberg died in [[Montgomery County, Pennsylvania]] on October 1, 1807 and is buried at the [[Augustus Lutheran Church]] in Trappe, Pennsylvania.
+
+==Legacy==
+[[File:PeterMuhlenberg.jpg|thumb|right|[[John Peter Gabriel Muhlenberg (Hufford)|Peter Muhlenberg Memorial]] in [[Washington, D.C.|Washington, DC]] on Connecticut Avenue. The inscription reads ''John Peter Gabriel Muhlenberg 1746{{spaced ndash}}1807 Serving His Church, His Country, His State''.]]
+*Muhlenberg is the namesake of [[Muhlenberg County, Kentucky]].<ref>{{cite book | url=https://books.google.com/books?id=luoxAQAAMAAJ&pg=PA36#v=onepage&q&f=false | title=The Register of the Kentucky State Historical Society, Volume 1 | publisher=Kentucky State Historical Society | year=1903 | page=36}}</ref>
+*A memorial to Peter Muhlenberg is located in [[Washington, D.C.|Washington, DC]] on Connecticut Avenue (see image).
+*Another memorial to him stands behind the [[Philadelphia Museum of Art]]. 
+*Two statues of Peter Muhlenberg are located in front of the [[Shenandoah County Courthouse]] in [[Woodstock, Virginia]], and the town's Emmanuel Lutheran congregation preserves communion vessels, a baptismal font and altar cloth that he used.<ref>Bicentennial:Dunmore 1772-1778; Shenandoah 1778-1972 *Shenandoah County Bicentennial Committee 1972) p. 54</ref>
+*[[Muhlenberg College]] in [[Allentown, Pennsylvania]] displays a statue of John P. G. Muhlenberg in front of the Haas College Center, 2300 Chew Street.
+
+==References==
+[[File:Statue of Peter Muhlenberg in Woodstock, Virginia.jpg|thumb|right|Peter Muhlenberg statue in front of the [[Shenandoah County Courthouse]] in [[Woodstock, Virginia]]]]
+{{reflist}}
+==Further reading==
+* Hocker, Edward W. ''The Fighting Parson of the American Revolution: A Biography of General Peter Muhlenberg, Lutheran Clergyman, Military Chieftain, and Political Leader'' (1936).
+* Muhlenberg, Henry Augustus. ''The Life of Major-General Peter Muhlenberg: Of the Revolutionary Army'' (1849). [https://archive.org/details/lifemajorgenera02muhlgoog online]
+* Rightmyer, Thomas Nelson. "The Holy Orders of Peter Muhlenberg." ''Historical Magazine of the Protestant Episcopal Church'' 30.3 (1961): 183-197. [https://www.jstor.org/stable/42972929 online]
+
+==External links==
+*[http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001066 His Congressional Biography]
+*[http://www.aoc.gov/cc/art/nsh/muhlenberg.cfm National Statuary Hall Collection Biography]
+*[http://www.archives.upenn.edu/people/1700s/muhlenberg_johnpg.html Biography and statue at the University of Pennsylvania]
+*[https://www.pbs.org/opb/historydetectives/investigation/muhlenberg-robe/ History Detectives: Muhlenberg Robe] [https://web.archive.org/web/20090327104703/http://www.pbs.org/opb/historydetectives/pdf/505_muhlenbergrobe.pdf PDF]
+*{{Cite EB1911|wstitle=Muhlenberg, John Peter Gabriel |short=x}}
+*{{Cite NIE|wstitle=Muhlenberg, John Peter Gabriel|year=1905 |short=x}}
+*{{Cite Appletons'|wstitle=Muhlenberg, Henry Melchior|year=1900 |short=x}}
+
+{{s-start}}
+{{s-off}}
+{{succession box | before=  [[Daniel Hiester]] |title=Member, [[Supreme Executive Council of the Commonwealth of Pennsylvania|Supreme Executive Council of Pennsylvania]], <br/> representing [[Montgomery County, Pennsylvania|Montgomery County]]  | years=   October 24, 1785 – October 16, 1788  | after= Zebulon Potts }}
+{{succession box | before= [[Charles Biddle (Pennsylvania statesman)|Charles Biddle]]  |title=[[Vice-President of Pennsylvania]]  | years= October 31, 1787 – October 14, 1788 | after= [[David Redick]] }}
+{{s-par|us-hs}}
+{{USRepSuccessionBox
+| state    = Pennsylvania
+| district = AL
+| before   = District Created
+| after    = [[Frederick A.C. Muhlenberg]], [[Thomas Fitzsimons]], [[Thomas Hartley]], [[Israel Jacobs]], [[John W. Kittera]], [[Daniel Hiester]], [[William Findley]], and [[Andrew Gregg]]
+| years    = 1789–1791
+| alongside = [[George Clymer]], [[Thomas Fitzsimons]], [[Thomas Hartley]], [[Frederick A.C. Muhlenberg]], [[Henry Wynkoop]], [[Daniel Hiester]] and [[Thomas Scott (American politician)|Thomas Scott]]
+}}
+{{USRepSuccessionBox
+| state    = Pennsylvania
+| district = AL
+| before   = [[Frederick A.C. Muhlenberg]], [[Thomas Fitzsimons]], [[Thomas Hartley]], [[Israel Jacobs]], [[John W. Kittera]], [[Daniel Hiester]], [[William Findley]], and [[Andrew Gregg]]
+| after    = <br/>
+[[Pennsylvania's 1st congressional district|1st]]: [[John Swanwick]] <br/>
+[[Pennsylvania's 2nd congressional district|2nd]]: [[Frederick A.C. Muhlenberg]] <br/>
+[[Pennsylvania's 3rd congressional district|3rd]]: [[Richard Thomas (Pennsylvania)|Richard Thomas]] <br/>
+[[Pennsylvania's 4th congressional district|4th]]: [[Samuel Sitgreaves]] and [[John Richards (Pennsylvania)|John Richards]] <br/>
+[[Pennsylvania's 5th congressional district|5th]]: [[Daniel Hiester]] <br/>
+[[Pennsylvania's 6th congressional district|6th]]: [[John Andre Hanna]] <br/>
+[[Pennsylvania's 7th congressional district|7th]]: [[John W. Kittera]] <br/>
+[[Pennsylvania's 8th congressional district|8th]]: [[Thomas Hartley]] <br/>
+[[Pennsylvania's 9th congressional district|9th]]: [[Andrew Gregg]] <br/>
+[[Pennsylvania's 10th congressional district|10th]]: [[David Bard]] and [[Samuel Maclay]] <br/>
+[[Pennsylvania's 11th congressional district|11th]]: [[William Findley]] <br/>
+[[Pennsylvania's 12th congressional district|12th]]: [[Albert Gallatin]]
+| years = 1793–1795
+| alongside = [[Thomas Fitzsimons]], [[John W. Kittera]], [[Thomas Hartley]], [[Frederick A.C. Muhlenberg]], [[James Armstrong (Pennsylvania)|James Armstrong]], [[Thomas Scott (American politician)|Thomas Scott]], [[Andrew Gregg]], [[Daniel Hiester]], [[William Irvine (physician)|William Irvine]], [[William Findley]], [[John Smilie]], and [[William Montgomery (Pennsylvania)|William Montgomery]]
+}}
+{{USRepSuccessionBox
+| state    = Pennsylvania
+| district = 4
+| before   = [[Robert Brown (Pennsylvania)|Robert Brown]]<br/>[[John Chapman (congressman)|John Chapman]]
+| after    = [[Robert Brown (Pennsylvania)|Robert Brown]]<br/>[[Isaac Van Horne]]
+| years    = 1799–1801 <br/> alongside: [[Robert Brown (Pennsylvania)|Robert Brown]]
+}}
+{{s-par|us-sen}}
+{{U.S. Senator box|class=3|state=Pennsylvania| before = [[William Bingham]]| after = [[George Logan]] | years =1801| alongside=[[James Ross (Pennsylvania congressman)|James Ross]] }}
+{{s-end}}
+
+{{USSenPA}}
+{{Lieutenant Governors and Vice-Presidents of Pennsylvania}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Muhlenberg, Peter}}
+[[Category:1746 births]]
+[[Category:1807 deaths]]
+[[Category:People from Trappe, Pennsylvania]]
+[[Category:American Lutherans]]
+[[Category:Pennsylvania Democratic-Republicans]]
+[[Category:Members of the United States House of Representatives from Pennsylvania]]
+[[Category:United States Senators from Pennsylvania]]
+[[Category:Muhlenberg family]]
+[[Category:Burials in Pennsylvania]]
+[[Category:Clergy in the American Revolution]]
+[[Category:Continental Army generals]]
+[[Category:Continental Army officers from Virginia]]
+[[Category:Democratic-Republican Party United States Senators]]
+[[Category:People of colonial Pennsylvania]]
+[[Category:People of Pennsylvania in the American Revolution]]
+[[Category:Democratic-Republican Party members of the United States House of Representatives]]

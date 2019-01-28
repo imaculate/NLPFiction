@@ -1,0 +1,150 @@
+{{About|the second book of the Torah and of the Old Testament|the events related in that book|The Exodus|other uses|Exodus (disambiguation)}}
+{{Tanakh OT |Torah |Pentateuch}}
+
+The '''Book of Exodus''' or '''Exodus''' is the second book of the [[Torah]] and the [[Hebrew Bible]] (the [[Old Testament]]) immediately following Genesis.
+
+The book tells how the [[Israelites]] leave slavery in Egypt through the strength of [[Yahweh]], the god who has chosen Israel as his people. Led by their prophet [[Moses]] they journey through the wilderness to [[Mount Sinai]], where Yahweh promises them the land of [[Canaan]] (the "[[Promised Land]]") in return for their faithfulness. Israel enters into a [[biblical covenant|covenant]] with Yahweh who gives them their laws and instructions to build the [[Tabernacle]], the means by which he will come here from heaven and dwell with them and lead them in a holy war to possess the land, and then give them peace.
+
+Traditionally [[Mosaic authorship|ascribed to Moses]] himself, modern scholarship sees the book as initially a product of the [[Babylonian captivity|Babylonian exile]] (6th century BCE), based on earlier written and oral traditions, with final revisions in the [[Yehud Medinata|Persian post-exilic period]] (5th century BCE).<ref>Johnstone, p. 72.</ref><ref name="Finkelstein, I. p.68">Finkelstein, p. 68</ref> [[Carol Meyers]] in her commentary on Exodus suggests that it is arguably the most important book in the Bible, as it presents the defining features of Israel's identity: memories of a past marked by hardship and escape, a binding covenant with God, who chooses Israel, and the establishment of the life of the community and the guidelines for sustaining it.<ref>Meyers, p. xv.</ref>
+
+==Name==
+[[File:1867 Edward Poynter - Israel in Egypt.jpg|thumb|400px|Children of Israel in Egypt (1867 painting by [[Edward Poynter]])]]
+The English name ''Exodus'' comes from the {{lang-grc|ἔξοδος}}, ''éxodos'', meaning "going out". In Hebrew the book is called שְׁמוֹת, ''shemot'', "Names", from the [[Incipit|beginning words of the text]]: "These are the names of the sons of Israel" ({{lang-he-n|וְאֵלֶּה שְׁמֹות בְּנֵי יִשְׂרָאֵל}}).<ref>Dozeman, p. 1.</ref>
+
+== Structure ==
+There is no unanimous agreement among scholars on the structure of Exodus. One strong possibility is that it is a [[diptych]] (i.e., divided into two parts), with the division between parts 1 and 2 at the [[crossing of the Red Sea]] or at the beginning of the [[theophany]] (appearance of God) in chapter 19.<ref>Meyers, p. 17.</ref> On this plan, the first part tells of God's rescue of his people from Egypt and their journey under his care to Sinai (chapters 1–19) and the second tells of the covenant between them (chapters 20–40).<ref>Stuart, p. 19.</ref>
+
+== Summary ==
+[[File:Dura Europos fresco Moses from river.jpg|thumb|''[[Finding of Moses]]'' in the [[Dura-Europos Synagogue]], c. 244]]
+[[Jacob]]'s sons and their families join their brother, [[Joseph (Genesis)|Joseph]], in Egypt.  Once there, the Israelites begin to grow in number. Egypt's [[Pharaoh of the Exodus|Pharaoh]], fearful that the [[Israelites]] could be a [[fifth column]], forces the Israelites into slavery and orders that all newborn boys be thrown into the [[Nile]]. A [[Levite]] woman (identified elsewhere as [[Jochebed]]) saves her baby by [[Finding of Moses|setting him adrift]] on the river Nile in an [[ark of bulrushes]]. The [[Bithiah|Pharaoh's daughter]] finds the child, names him [[Moses]], and brings him up as her own. But Moses is aware of his origins, and one day, when grown, he kills an Egyptian overseer who is beating a [[Hebrew]] slave and has to flee into [[Midian]]. There he marries [[Zipporah]], the daughter of Midianite priest [[Jethro (Bible)|Jethro]], and encounters God in a [[burning bush]]. Moses asks God for his name: God replies: "[[I Am that I Am|I AM that I AM]]." God tells Moses to return to Egypt and lead the Hebrews into [[Canaan]], the land promised to [[Abraham]].
+
+Moses returns to Egypt and fails to convince the Pharaoh to release the Israelites.  God smites the Egyptians with 10 terrible plagues ([[Plagues of Egypt]]) including a river of blood, many frogs, and the death of first-born sons.  Moses leads the Israelites out of bondage after a final chase when the Pharaoh reneges on his coerced consent ([[Parting of the Red Sea|Crossing the Red Sea]] and [[Yam Suph]]). The desert proves arduous, and the Israelites complain and long for Egypt, but God provides [[manna]] and miraculous water for them. The Israelites arrive at the mountain of God, where Moses' father-in-law Jethro visits Moses; at his suggestion Moses appoints [[Biblical judges|judges]] over Israel. God asks whether they will agree to be his people. They accept. The people gather at the foot of the mountain, and with thunder and lightning, fire and clouds of smoke, and the sound of trumpets, and the trembling of the mountain, God appears on the peak, and the people see the cloud and hear the voice [or possibly "sound"] of God. Moses is told to ascend the mountain. God pronounces the [[Ten Commandments]] (the [[Ethical Decalogue]]) in the hearing of all Israel. Moses goes up the mountain into the presence of God, who pronounces the [[Covenant Code]] (a detailed code of ritual and civil law), and promises [[Canaan]] to them if they obey. Moses comes down the mountain and writes down God's words and the people agree to keep them. God calls Moses up the mountain where he remains for 40 days and 40 nights. At the conclusion of the 40 days and 40 nights, Moses returns holding the set of stone [[tablet (religious)|tablets]].
+
+God gives Moses instructions for the construction of the [[tabernacle (Judaism)|tabernacle]] so that God could dwell permanently among his chosen people, as well as instructions for the [[Priestly robe (Judaism)|priestly vestments]], the altar and its appurtenances, the procedure to be used to ordain the priests, and the daily sacrifices to be offered. Aaron is appointed as the first [[High Priest of Israel|hereditary high priest]]. God gives Moses the two tablets of stone containing the words of the ten commandments, written with the [[Finger of God (Commandments)|"finger of God"]].<ref>{{Bibleref2|Exodus|31:18}}; {{bibleref2|Deuteronomy|9:10|9}}</ref>
+[[File:Gerrit de Wet - The Adoration of the Golden Calf - WGA25563.jpg|thumb|''Worship of the Golden Calf'', [[Gerrit de Wet]], 17th-century]]
+
+While Moses is with God, Aaron makes a [[golden calf]], which the people worship. God informs Moses of their [[apostasy]] and threatens to kill them all, but relents when Moses pleads for them. Moses comes down from the mountain, smashes the stone tablets in anger, and commands the [[Levites]] to massacre the unfaithful Israelites. God commands Moses to make two new tablets on which He will personally write the words that were on the first tablets. Moses ascends the mountain, God dictates the Ten Commandments (the [[Ritual Decalogue]]), and Moses writes them on the tablets.
+
+Moses descends from the mountain, and his face is transformed, so that from that time onwards he has to hide his face with a veil. Moses assembles the Hebrews and repeats to them the commandments he has received from God, which are to keep the [[Sabbath]] and to construct the Tabernacle. "And all the construction of the Tabernacle of the Tent of Meeting was finished, and the children of Israel did according to everything that God had commanded Moses", and from that time God dwelt in the Tabernacle and ordered the travels of the Hebrews.
+
+== Composition ==
+[[File:Rembrandt Harmensz. van Rijn 079.jpg|thumb|right|upright|[[Moses]] with the Ten Commandments, by [[Rembrandt]] (1659)]]
+
+=== Authorship ===
+Jewish and Christian tradition viewed [[Mosaic authorship|Moses as the author of Exodus]] and the entire Pentateuch, but by the end of the 19th century the increasing awareness of discrepancies, inconsistencies, repetitions and other features of the Pentateuch had led scholars to abandon this idea.<ref>Meyers, p. 16.</ref> In approximate round dates, the process which produced Exodus and the Pentateuch probably began around 600 BCE when existing oral and written traditions were brought together to form books recognisable as those we know, reaching their final form as unchangeable sacred texts around 400 BCE.{{sfn|McEntire|2008|p=8}}
+
+=== Genre and sources ===
+The story of [[the exodus]] is the [[Origin myth#Founding myth|founding myth]] of Israel, telling how the [[Israelites]] were delivered from slavery by [[Yahweh]] and therefore belong to him through the [[Mosaic covenant]].{{sfn|Sparks|2010|p=73}} The Book of Exodus is not a historical narrative in any modern sense:<ref>Fretheim, p. 7.</ref> modern history writing requires the critical evaluation of sources, and does not accept God as a cause of events,<ref name="Dozeman">Dozeman, p. 9.</ref> but in Exodus, everything is presented as the work of God, who appears frequently in person, and the historical setting is only very hazily sketched.<ref>Houston, p. 68.</ref> The purpose of the book is not to record what really happened, but to reflect the historical experience of the exile community in Babylon and later Jerusalem, facing foreign captivity and the need to come to terms with their understanding of God.<ref>Fretheim, p. 8.</ref>
+
+Although [[Myth|mythical elements]] are not so prominent in Exodus as in [[Book of Genesis|Genesis]], ancient [[legend]]s have an influence on the book's content: for example, the story of the infant Moses's salvation from the Nile is based on an earlier legend of king [[Sargon of Akkad]], while the story of the [[parting of the Red Sea]] trades on Mesopotamian [[creation myth]]ology.  Similarly, the [[Covenant Code]] (the law code in Exodus 20:22–23:33) has some similarities in both content and structure with the [[Laws of Hammurabi]]. These influences serve to reinforce the conclusion that the Book of Exodus originated in the exiled Jewish community of 6th-century BCE [[Babylon]], but not all the sources are Mesopotamian: the story of Moses's flight to Midian following the murder of the Egyptian overseer may draw on the Egyptian ''[[Story of Sinuhe]]''.<ref>Kugler,Hartin, p. 74.</ref>
+
+== Themes ==
+[[File:David Roberts-IsraelitesLeavingEgypt 1828.jpg|thumb|300px|''Departure of the Israelites'', by [[David Roberts (painter)|David Roberts]], 1829]]
+
+=== Salvation ===
+Biblical scholars describe the Bible's theologically-motivated history writing as "[[salvation history]]", meaning a history of God's saving actions that give identity to Israel – the promise of offspring and land to the ancestors, [[the exodus]] from Egypt (in which God saves Israel from slavery), the wilderness wandering, the revelation at Sinai, and the hope for the future life in the [[promised land]].<ref name="Dozeman" />
+
+=== Theophany ===
+A [[theophany]] is a manifestation (appearance) of a god – in the Bible, an appearance of the God of Israel, accompanied by storms – the earth trembles, the mountains quake, the heavens pour rain, thunder peals and lightning flashes.<ref>Dozeman, p. 4.</ref> The theophany in Exodus begins "the third day" from their arrival at Sinai in chapter 19: Yahweh and the people meet at the mountain, God appears in the storm and converses with Moses, giving him the [[Ten Commandments]] while the people listen. The theophany is therefore a public experience of divine law.<ref>Dozeman, p. 427.</ref>
+
+The second half of Exodus marks the point at which, and describes the process through which, God's theophany becomes a permanent presence for Israel via the [[Tabernacle]]. That so much of the book (chapters 25–31, 35–40) is spent describing the plans of the Tabernacle demonstrates the importance it played in the perception of [[Second Temple Judaism]] at the time of the text's redaction by the Priestly writers: the Tabernacle is the place where God is physically present, where, through the priesthood, Israel could be in direct, literal communion with him.<ref>Dempster, p. 107.</ref>
+
+=== Covenant ===
+The heart of Exodus is the [[Mosaic covenant|Sinaitic covenant]].<ref>Wenham, p. 29.</ref> A covenant is a legal document binding two parties to take on certain obligations towards each other.<ref>Meyers, p. 148.</ref> There are several covenants in the Bible, and in each case they exhibit at least some of the elements found in real-life treaties of the ancient Middle East: a preamble, historical prologue, stipulations, deposition and reading, list of witnesses, blessings and curses, and ratification by animal sacrifice.<ref>Meyers, pp. 149–150.</ref> Biblical covenants, in contrast to Eastern covenants in general, are between a god, Yahweh, and a people, Israel, instead of between a strong ruler and a weaker vassal.<ref>Meyers, p. 150.</ref>
+
+=== Election of Israel ===
+Israel is elected for salvation because the "sons of Israel" are "the firstborn son" of the God of Israel, descended through Shem and Abraham to the chosen line of [[Jacob]] whose name is changed to Israel. The goal of the divine plan as revealed in Exodus is a return to humanity's state in [[Garden of Eden|Eden]], so that God can dwell with the Israelites as he had with [[Adam and Eve]] through the Ark and Tabernacle, which together form a model of the universe; in later [[Abrahamic religion]]s this came to be interpreted as Israel being the guardian of God's plan for humanity, to bring "God's creation blessing to mankind" begun in Adam.<ref>Dempster, p. 100.</ref>
+
+== Contents according to Judaism's weekly Torah portions ==
+[[File:The Crossing fo The Red Sea.jpg|thumb|300px|''Crossing of the Red Sea'', [[Nicholas Poussin]]]]
+
+{{main|Weekly Torah portion}}
+
+:*[[Shemot (parsha)|Shemot]], on Exodus 1–5: Affliction in Egypt, Moses is found and called, Pharaoh
+:*[[Va'eira (parsha)|Va'eira]], on Exodus 6–9: Plagues 1 to 7 of Egypt
+:*[[Bo (parsha)|Bo]], on Exodus 10–13: Last plagues of Egypt, first Passover
+:*[[Beshalach (parsha)|Beshalach]], on Exodus 13–17: Parting the Sea, water, manna, Amalek
+:*[[Yitro (parsha)|Yitro]], on Exodus 18–20: Jethro’s advice, The Ten Commandments
+:*[[Mishpatim (parsha)|Mishpatim]], on Exodus 21–24: The Covenant Code
+:*[[Terumah (parsha)|Terumah]], on Exodus 25–27: God's instructions on the Tabernacle and furnishings
+:*[[Tetzaveh (parsha)|Tetzaveh]], on Exodus 27–30: God's instructions on the first priests
+:*[[Ki Tissa]], on Exodus 30–34: Census, anointing oil, golden calf, stone tablets, Moses radiant
+:*[[Vayakhel (parsha)|Vayakhel]], on Exodus 35–38: Israelites collect gifts, make the Tabernacle and furnishings
+:*[[Pekudei (parsha)|Pekudei]], on Exodus 38–40: The Tabernacle is set up and filled
+
+== See also ==
+{{Portal|Bible}}
+* [[The Exodus]]
+* [[Ketef Hinnom]]
+* [[Moses]]
+* [[Song of the sea]]
+* [[Tabernacle]]
+* [[List of films based on the Bible#Moses and the 40 years in the desert|Film adaptations of the Book of Exodus]]
+* [[History of the Jews in Egypt#Ancient times|History of the Jews in Ancient Egypt]]
+
+== References ==
+
+=== Citations ===
+{{reflist|30em}}
+
+=== Bibliography ===
+{{refbegin}}
+*{{Cite book|last=Childs|first=Brevard S|title=The Book of Exodus|publisher=Eerdmans|year=1979|url=https://books.google.com/books?id=Z7sKWo7FRAgC&printsec=frontcover&dq=Childs+Exodus#v=onepage&q&f=false|isbn=9780664229689|ref=harv}}
+*{{Cite book|last=Dempster|first=Stephen G|author-link=Stephen Dempster|title=Dominion and Dynasty|publisher=InterVarsity Press|year=2006|url=https://books.google.com/?id=G329hmhyBa8C&printsec=frontcover&dq=Dominion+and+dynasty#v=onepage&q=Dominion%20and%20dynasty&f=false|isbn=9780830826155|ref=harv}}
+*{{Cite book|last=Dozeman|first=Thomas B|title=Commentary on Exodus|publisher=Eerdmans|year=2009|url=https://books.google.com/books?id=fRXjfa6RWPwC&printsec=frontcover&dq=Exodus#v=onepage&q&f=false|isbn=9780802826176|ref=harv}}
+*Finkelstein, I., Silberman, NA., (2001). ''The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts''.
+*{{Cite book|last=Fretheim|first=Terence E|title=Exodus|publisher=Westminster John Knox Press|year=1991|url=https://books.google.com/books?id=hU546phUN0oC&printsec=frontcover&dq=Exodus#v=onepage&q&f=false|isbn=9780664237349|ref=harv}}
+*{{Cite book|last=Houston|first=Walter J|chapter=Exodus|url=https://books.google.com/books?id=3surkLVdw3UC&pg=PA67&dq=5.+Exodus+walter+houston#v=onepage&q=5.%20Exodus%20walter%20houston&f=false|editor=John Barton|title=Oxford Bible Commentary|publisher=Oxford University Press|year=1998|isbn=9780198755005|ref=harv}}
+*{{Cite book|last=Johnstone|first=William D|chapter=Exodus|url=https://books.google.com/books?id=2Vo-11umIZQC&pg=PA72&dq=Exodus+William+D.+Johnstone#v=onepage&q=Exodus%20William%20D.%20Johnstone&f=false|editor=James D. G. Dunn, John William Rogerson|title=Eerdmans Bible Commentary|publisher=Eerdmans|year=2003|isbn=9780802837110|ref=harv}}
+*{{Cite book|last1=Kugler|first1=Robert|last2=Hartin|first2=Patrick|title=An Introduction to the Bible|publisher=Eerdmans|year=2009|url=https://books.google.com/books?id=L8WbXbPjxpoC&printsec=frontcover&dq=Robert+Kugler,+Patrick+Hartin#v=onepage&q&f=false|isbn=9780802846365|ref=harv}}
+*{{Cite book|last=McEntire|first=Mark|title=Struggling with God: An Introduction to the Pentateuch|publisher=Mercer University Press|year=2008|url=https://books.google.com/books?id=VwOs9f1FpmsC&pg=PA87&dq=william+propp+exodus+1-18#v=onepage&q=william%20propp%20exodus%201-18&f=false|isbn=9780881461015|ref=harv}}
+*{{Cite book|last=Meyers|first=Carol|author-link=Carol Meyers|title=Exodus|publisher=Cambridge University Press|year=2005|url=https://books.google.com/?id=0QHHITXsyskC&printsec=frontcover&dq=Carol+Meyers+Exodus#v=onepage&q=Carol%20Meyers%20Exodus&f=false|isbn=9780521002912|ref=harv}}
+*Newman, Murray L (2000) [http://www.vts.edu/ftpimages/95/download/download_group10629_id314910.pdf  ''Exodus''] Forward Movement Publications
+*[[Gunther Plaut|Plaut, Gunther]]. ''The Torah: A Modern Commentary'' (1981), {{ISBN|0-8074-0055-6}}
+*{{cite book
+| last           = Sparks
+| first          = Kenton L.
+| editor1-last   = Dozeman
+| editor1-first  = Thomas B.
+| title          = Methods for Exodus
+| chapter        = Genre Criticism
+| year           = 2010
+| publisher      = Cambridge University Press
+| url            = https://books.google.com/?id=CiqF7sVqDQcC&pg=PA73&dq=%22The+entire+book+of+Exodus+can+be+generically+understood+as+a+%22charter+myth%22%22#v=onepage&q=%22The%20entire%20book%20of%20Exodus%20can%20be%20generically%20understood%20as%20a%20%22charter%20myth%22%22&f=false
+|ref             =harv | isbn          = 9781139487382
+}}
+*{{Cite book|last=Stuart|first=Douglas K|title=Exodus|publisher=B&H Publishing Group|year=2006|url=https://books.google.com/books?id=8H9E00e5PSwC&printsec=frontcover&dq=Douglas+Exodus#v=onepage&q&f=false|isbn=9780805401028|ref=harv}}
+*{{Cite book|last=Wenham|first=Gordon|title=The Book of Leviticus|publisher=Eerdmans|year=1979|url=https://books.google.com/books?id=9SKlbar7-SkC&printsec=frontcover&dq=wenham+leviticus#v=onepage&q&f=false|isbn=9780802825223|ref=harv}}
+{{refend}}
+
+== External links ==
+{{wikiquote}}
+{{Wikisource|Exodus (Bible)}}
+{{commons category|Book of Exodus}}
+*[http://www.biblegateway.com/passage/?search=Exodus%201&version=ESV Exodus] at [[BibleGateway.com]]
+*[http://bible-book.org/en/pentateuch/exodus Exodus] at Bible-Book.Org
+*[http://www.mgketer.org/mikra/2/1/1 Shmot (book of Exodus) - Mikraot Gedolot Haketer - online edition], [[Menachem Cohen (scholar)|Menachem Cohen]], Bar Ilan University (Hebrew)
+*[http://www.mechon-mamre.org/e/et/et0201.htm Exodus at Mechon-Mamre] (Jewish Publication Society translation)
+*[http://bible.ort.org/books/pentd2.asp?ACTION=displaypage&BOOK=2&CHAPTER=1 Exodus (The Living Torah)] Rabbi [[Aryeh Kaplan]]'s translation and commentary at Ort.org
+*[http://www.chabad.org/article.asp?aid=8161 Shemot – Exodus (Judaica Press)] translation [with [[Rashi]]'s commentary] at Chabad.org
+*[http://www.mechon-mamre.org/p/pt/pt0201.htm ''Shmot''] (Original [[Hebrew language|Hebrew]] – English at Mechon-Mamre.org)
+* {{librivox book | title=Exodus}} Various versions
+
+{{s-start}}
+{{s-hou | [[Torah|Pentateuch]]|||}}
+{{S-bef | before = [[Book of Genesis|Genesis]] | rows = 2 }}
+{{S-ttl | title = [[Tanakh|Hebrew Bible]] }}
+{{s-aft | after = [[Book of Leviticus|Leviticus]] | rows= 2 }}
+{{S-ttl | title = [[Christianity|Christian]]<br>[[Old Testament]] }}
+{{s-end}}
+{{Books of the Bible}}
+{{Ancient Near East}}
+{{Book of Exodus}}
+{{Authority control}}
+{{DEFAULTSORT:Book Of Exodus}}
+[[Category:6th-century BC books]]
+[[Category:5th-century BC books]]
+[[Category:Book of Exodus| ]]
+[[Category:Torah books|2]]
+[[Category:Books in political philosophy]]
+[[Category:Tabernacle and Temples in Jerusalem]]

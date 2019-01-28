@@ -1,0 +1,221 @@
+{{about||the former administrative district of Canada's Northwest Territories|District of Franklin|the city in Tennessee|Franklin, Tennessee}}
+{{Use mdy dates|date=April 2013}}
+{{Infobox Former Subdivision
+|_noautocat = no
+|native_name =
+|conventional_long_name = Free Republic of Franklin (Frankland)
+|common_name = Franklin
+|subdivision = 
+*  '''Extra-Legal States and Territories'''
+*  [[Historic regions of the United States|Historic Regions]]
+|nation = the [[Continental Congress|United States]]
+|government_type = Republic / Organized, extralegal territory
+<!-- Titles and names of the first and last leaders and their deputies -->
+|title_leader = "Governor" (President)
+|title_deputy = [[President of the Senate|Speaker of the Senate]]
+|leader1 = President/Governor [[John Sevier|Col. John Sevier]] 
+|year_leader1 = December 1784{{spaced ndash}}December 1788
+|deputy1 = [[Landon Carter (Franklin)|Landon Carter]]
+|year_deputy1 = December 1784{{spaced ndash}}December 1788
+|deputy2 = [[William Cage (Tennessee)|William Cage]]
+|year_deputy2 = '''[[Speaker (politics)|Speaker of the House]]'''<br> August 1784 – June 1785 
+|deputy3 = [[Joseph Hardin, Sr.|Col. Joseph Hardin]]
+|year_deputy3 = '''[[Speaker (politics)|Speaker of the House]]'''<br> June 1785 – December 1788
+<!-- Legislature -->
+|legislature = Congress of Greeneville
+|house1 = Senate
+|house2 = House of Representatives
+|type_house1 = ''Upper house''
+|type_house2 = ''Lower House''
+<!-- General information -->
+|capital = '''Provisional'''<br>
+Jonesborough, August 1784 – December 1785<br>
+'''Permanent'''<br>
+Greeneville, December 1785 – 1788
+|coordinates = {{Coord|36|10|N|82|49|W|display=inline,title|region:US_type:city}}
+|national_motto = 
+|national_anthem = 
+|political_subdiv = Counties
+|today = [[Tennessee]], United States
+<!-- Rise and fall, events, years and dates -->
+|event_start = Secedes from [[North Carolina]] and blocks federal government claims; Franklin proclaimed
+|date_start = August 23
+|year_start = 1784
+|event_end = Disbanded; and re-acquired by North Carolina
+|date_end = March–September 1788
+|year_end = 1788
+|event1 = Petition for Frankland statehood sent to Congress
+|date_event1 = May 16, 1785
+|event2 = Provisional name changed to "Franklin"
+|date_event2 = December 24, 1785
+|life_span = August 1784 – December 1788
+|era = post American Revolution
+|event_pre = North Carolina cedes the [[Washington District, North Carolina|Washington District]] to federal government
+|date_pre = April 1784
+|event_post   = Area is designated part of the [[Southwest Territory]]
+|date_post  = 1790
+<!-- Images -->
+|image_flag = 
+|image_border = <!-- "no" -->
+|flag_type = <!-- Default "Flag" -->
+|flag = <!-- Default: Flag of {{{common_name}}} -->
+|image_coat =
+|symbol_type =
+|symbol =
+|image_map = 8FranklinCounties.png
+|image_map_caption = The State of Franklin and its counties
+<!-- Flag navigation: "p1" to "p5" and "s1" to "s8" -->
+|p1 = North Carolina
+|flag_p1= Flag of the United States (1777-1795).svg
+|border_p1 = 
+|s1= North Carolina
+|flag_s1= Flag of the United States (1777-1795).svg
+|border_s1 = <!-- "no" -->
+}}
+The '''State of Franklin''' (also the '''Free Republic of Franklin''' or the '''State of Frankland''')<ref group="note">Landrum, refers to the proposed state as "the proposed republic of Franklin; while Wheeler has it as ''Frankland''."  In ''That's Not in My American History Book'', Thomas Ayres maintains that the official title was "Free Republic of Franklin".</ref> was an unrecognized and [[Autonomous entity|autonomous]] territory located in what is today [[East Tennessee|Eastern Tennessee]], [[United States]]. Franklin was created in 1784 from part of the territory west of the [[Appalachian Mountains]] that had been offered by [[North Carolina]] as a cession to [[Continental Congress|Congress]] to help pay off debts related to the [[American Revolutionary War|American War for Independence]]. It was founded with the intent of becoming the fourteenth state of the new United States.
+
+Franklin's first capital was [[Jonesborough, Tennessee|Jonesborough]]. After the summer of 1785, the government of Franklin (which was by then based in [[Greeneville, Tennessee|Greeneville]]), ruled as a "parallel government" running alongside (but not harmoniously with) a re-established North Carolina bureaucracy. Franklin was never admitted into the union. The ''extra-legal'' state existed for only about four and a half years, ostensibly as a republic, after which North Carolina re-assumed full control of the area.
+
+The creation of Franklin is novel, in that it resulted from both a [[cession]] (an offering from North Carolina to [[Congress of the Confederation|Congress]]) and a [[secession]] (seceding from North Carolina, when its offer to Congress was not acted upon and the original cession was [[rescind]]ed).
+
+== Concept ==
+The concept of a new western state came from [[Arthur Campbell (Virginia)|Arthur Campbell]] of [[Washington County, Virginia]] and [[John Sevier]].<ref name="TNE"/>  They believed the [[Overmountain Men|Overmountain towns]] should be admitted to the United States as a separate state.  They differed, however, on the details of such a state, although John Sevier (in a letter written in 1782) acknowledged Campbell's leadership on the issue.{{Citation needed|date=October 2015}}  Campbell's proposed state would have included southwestern [[Virginia]], [[East Tennessee|eastern Tennessee]] and parts of [[Kentucky]], [[Georgia (U.S. state)|Georgia]], and [[Alabama]].  Sevier favored a more limited state, that being the eastern section of the old [[Washington District, North Carolina|Washington District]] which was then part of North Carolina.
+
+Although many of the frontiersmen supported the idea, Campbell's calls for the creation of an independent state carved out of parts of Virginia territory caused Virginia Governor and Kentucky [[land speculator]] [[Patrick Henry]] — who opposed a loss of territory for the state — to pass a law which forbade anyone to attempt to create a new state from Virginia.<ref name="TNE">[http://tennesseeencyclopedia.net/entry.php?rec=183 ''Arthur Campbell'']; Mielnik, Tara Mitchell; article; The Tennessee Encyclopedia of History and Culture; accessed October 2015.</ref>  After Virginia Gov. Henry stopped Campbell, Sevier and his followers renamed their proposed state Franklin, and sought support for their cause from [[Benjamin Franklin]].  The Frankland movement had little success on the Kentucky frontier, as settlers there wanted their own state (which they achieved in 1792).{{Citation needed|date=October 2015}}
+
+== Cession and rescission ==
+
+=== Franklin's support===
+The [[Confederation Congress|United States Congress]] was heavily in debt at the close of the [[American Revolutionary War|American War for Independence]]. In April 1784, the state of [[North Carolina]] voted "to give Congress the {{convert|29000000|acre|sqmi km2}}<ref group="note">About 40 times the size of Rhode Island.</ref> lying between the [[Allegheny Mountains]]" (as the entire Appalachian range was then called) "and the [[Mississippi River]]" to help offset its war debts.<ref name=Arthur>Arthur, John Preston (1914); {{sic}} "History of Western North Carolina – Chapter VI – The State of Franklin"; John Preston Arthur; 1914; (HTML by Jeffrey C. Weaver); October 1998. Retrieved from [http://www.newrivernotes.com/nc/wnc6.htm New River].</ref> This area was a large part of what had been the [[Washington District, North Carolina|Washington District]] (usually referred to simply as the ''Western Counties'').<ref name="Haywood">[https://archive.org/stream/civilpoliticalhi00hayw/civilpoliticalhi00hayw_djvu.txt A civil and political history of the state of Tennessee"]; by John Haywood</ref> These western counties had originally been acquired by lease from the Overhill Cherokee, out of which the [[Watauga Association|Watauga Republic]] had arisen.
+
+The North Carolina cession to the federal government had a stipulation that Congress would have to accept responsibility for the area within two years, which, for various reasons, it was reluctant to do. The cession effectively left the western settlements of North Carolina alone in dealing with the Cherokee of the area, many of whom had not yet made peace with the new nation. These developments were not welcomed by the [[frontier]]smen, who had pushed even further westward, gaining a foothold on the western [[Cumberland River]] at [[Fort Nashborough]] (now [[Nashville, Tennessee|Nashville]]), or the [[Overmountain Men]], many of whom had settled in the area during the days of the old Watauga Republic.<ref name="caruso">Caruso, John A (1959). "The Appalachian Frontier: America's First Surge Westward"; Bobbs-Merrill Co., Indianapolis; 1959; Library of Congress Cat. No. 59-7226.</ref> Inhabitants of the region feared that the cash-starved federal Congress might even be desperate enough to sell the frontier territory to a competing foreign power (such as France or Spain).<ref name=Arthur/>
+
+=== North Carolina's reluctance ===
+A few months later, a newly elected North Carolina Legislature reevaluated the situation. Realizing the land could not at that time be used for its intended purpose of paying the debts of Congress and weighing the perceived economic loss of potential real estate opportunities, it rescinded the offer of cession  and re-asserted its claim to the remote western district.  The North Carolina lawmakers ordered judges to hold court in the western counties and arranged to enroll a [[brigade]] of soldiers for defense, appointing [[John Sevier]] to form it.<ref name=Arthur/>
+
+== Secessionist movement ==
+[[File:Map of Tennessee highlighting Former State of Franklin.png|300px|thumb|left|The State of Franklin (in red) superimposed on a map of modern Tennessee]]
+
+Rapidly increasing dissatisfaction with North Carolina's governance led to the [[frontier]]smen's calls to establish a separate, secure, and independent state. On August 23, 1784, delegates from the North Carolina counties of [[Washington County, Tennessee|Washington]] (which at the time included present day [[Carter County, Tennessee|Carter County]]), [[Sullivan County, Tennessee|Sullivan]], Spencer (now [[Hawkins County, Tennessee|Hawkins County]]) and [[Greene County, Tennessee|Greene]]—all of which are in present-day [[Tennessee]]—convened in the town of [[Jonesborough, Tennessee|Jonesborough]]. There, they declared the lands to be independent of the State of North Carolina.<ref>Williams, ''History of the Lost State of Franklin'', p. 30</ref>
+
+Leaders were [[republic|duly]] elected. John Sevier reluctantly became governor; Landon Carter, Speaker of the Senate; [[William Cage (Tennessee)|William Cage]], first Speaker of the House of Representatives; and [[David Campbell (judge)|David Campbell]], Judge of the Superior Court. Thomas Talbot served as Senate clerk, while Thomas Chapman served as clerk of the House. The delegates were called to a constitutional convention held at Jonesborough in December of that year.  They drafted a constitution that excluded lawyers, doctors, and preachers as candidates for election to the legislature.<ref>{{cite book|last=Gunther|first=John|authorlink=John Gunther|title=[[Inside U.S.A. (book)|Inside U.S.A.]]|page=63|location=[[New York City|New York]], [[London]]|publisher=[[Harper & Brothers]]|year=1947}}</ref> The constitution was defeated in [[referendum]]. Afterward, the area continued to operate under tenets of the North Carolina state constitution.<ref name="mytenn">{{cite web|url=http://www.genealogyinc.com/tennessee/state-of-franklin/|title=The Lost State of Franklin|publisher=GenealogyInc.com|archive-url=https://web.archive.org/web/20130211170133/http://www.genealogyinc.com/tennessee/state-of-franklin/|archivedate=February 11, 2013|accessdate=March 10, 2016}}</ref>
+
+== Attempt at statehood ==
+On May 16, 1785, a delegation submitted a petition for [[U.S. state|statehood]] to [[Congress of the Confederation|Congress]].  Eventually, seven states voted to admit what would have been the 14th federal state under the proposed name of ''Frankland''. This was, however, less than the two-thirds [[absolute majority|majority]] required under the [[Articles of Confederation]] to add additional states to the confederation.  The following month, the Franklin government convened to address their options and to replace the vacancy at Speaker of the House, to which position they elected [[Joseph Hardin, Sr.|Joseph Hardin]].  In an attempt to curry favor for their cause, delegation leaders changed the "official" name of the area to ''Franklin'' (ostensibly after [[Benjamin Franklin]]).  Sevier even tried to persuade Franklin to support their cause by letter, but he declined, writing:
+{{Quote|
+... I am sensible of the honor which your Excellency and your council thereby do me. But being in Europe when your State was formed, I am too little acquainted with the circumstances to be able to offer you anything just now that may be of importance, since everything material that regards your welfare will doubtless have occurred to yourselves. ... I will endeavor to inform myself more perfectly of your affairs by inquiry and searching the records of Congress and if anything should occur to me that I think may be useful to you, you shall hear from me thereupon.|Benjamin Franklin|Letter to Governor John Sevier, 1787<ref>[http://www.next1000.com/family/GRUBB/sullivan.tenn.html State of Franklin History]</ref>
+}}
+
+== Independent republic ==
+[[File:Capitol-replica-greeneville-tn1.jpg|left|175px|thumb|Replica of the Capitol of the State of Franklin in [[Greeneville, Tennessee]] ]]
+Franklin, still at odds with North Carolina over taxation, protection, and other issues, began operating as a ''de facto'' independent republic after the failed statehood attempt.<ref name="Haywood" />  [[Greeneville, Tennessee|Greeneville]] was declared the new capital.  The government had previously been assembling at Jonesborough, only blocks away from the North Carolina-backed, rival seat of government.  The first legislature met in Greeneville in December 1785.  The delegates adopted a permanent constitution, known as the ''Holston Constitution'',<ref name="mytenn"/> which was modeled closely upon that of North Carolina.  John Sevier also proposed to commission a Franklin state [[flag]], but it was never designed.
+
+Franklin opened courts, incorporated and annexed five new counties (see map below), and fixed taxes and officers' salaries.<ref name="mytenn"/>  [[Barter]] became the economic system ''[[de jure]]'', with anything in common use among the people allowed in payment to settle debts, including corn, tobacco, apple brandy, and skins.  (Sevier was often paid in deer hides.)   Federal or foreign currencies were accepted.  All citizens were granted a two-year reprieve on paying taxes, but the lack of hard currency and economic infrastructure slowed development and often created confusion.
+
+{{-}}
+
+===Relations with the Indians===
+The new legislature made peace treaties with the [[Native Americans in the United States|Indian]] tribes in the area (with few exceptions, the most notable being the [[Chickamauga Cherokee]]).  The Cherokee claim to sovereignty over much of the area of southern Franklin, though already occupied by whites, was maintained at the 1785 [[Treaty of Hopewell]] with the Federal government.  In 1786, [[Samuel Wear]] helped negotiate the competing [[Cherokee–American wars#Treaty of Coyatee|Treaty of Coyatee]] on behalf of the State of Franklin.  Coyattee re-affirmed the 1785 [[Cherokee treaties|Treaty of Dumplin]] which the republic had secured from the Cherokee, and which [[Dragging Canoe]]'s Chickamauga faction had refused to recognize.  The new treaty extended the area for white settlement almost as far south as the [[Little Tennessee River]], along which the main "[[Overhill Cherokee]]" towns were located.<ref name="t-gen"/>  The Cherokee did not formally relinquish their claim to this territory to the U.S. until the July 1791 [[Treaty of Holston]]<ref>Mooney; ''Myths of the Cherokee''; p. 64 ff</ref> and even then, hostilities continued in the area for years afterward.
+
+===Drawn-out end===
+The year 1786 was the beginning of the end of the small state, with several key residents and supporters of the state withdrawing their support in favor of a newly re-interested North Carolina.<ref name="Haywood" />  Up until this point, Franklin had not had the benefit of either the federal army or the North Carolina militia.  In late 1786, North Carolina offered to waive all back taxes if Franklin would reunite with its government.  When this offer was popularly rejected in 1787, North Carolina moved in with troops under the leadership of [[John Tipton (Tennessee)|Col. John Tipton]]<ref group="note">[[John Tipton (Tennessee)|Col. John Tipton]] was the great-uncle of future Senator from Indiana, [[John Tipton]].</ref> and re-established its own courts, jails, and government at Jonesborough.  The two rival administrations now competed side by side.
+
+====Battle of Franklin====
+In 1787, the "Franklinites" continued to expand their territory westward toward the [[Cumberland Mountains]] by forcibly seizing land from the Native American populations.  The frontier shifted back and forth often throughout the [[Cherokee–American wars]].  The September 1787 meeting of the Franklin legislature, however, was its last.<ref name="Haywood" />
+
+At the end of 1787, loyalties were divided among the area's residents, and came to a head in early February 1788.  Jonathan Pugh, the North Carolina sheriff of [[Washington County, North Carolina|Washington County]], was ordered by the county court to seize any property of Sevier's to settle tax debts North Carolina contended were owed to them.  The property seized included several slaves, who were brought to Tipton's home and secured in his underground kitchen.  On February 27, Governor Sevier arrived at the Tipton house leading a force numbering more than 100 men.  During a heavy snowstorm in the early morning of February 29, Colonel George Maxwell arrived with a force equivalent to Sevier's to reinforce Tipton.  After ten minutes of skirmishing, Sevier and his force withdrew to Jonesborough.  A number of men were captured or wounded on both sides, and three men killed.<ref>[http://www.tipton-haynes.org/research/history/colonel-john-tipton/battle-of-the-state-of-franklin-february-27-29-1788/] Tipton-Haynes State Historic Site website</ref><ref>[http://www.coloneljohntipton.com/coljohn John Tipton] memorial website</ref>
+
+===Frontier intrigues===
+In late March 1788, the Chickamauga, [[Chickasaw]] and other tribes collectively began to attack American frontier settlements in Franklin. A desperate Sevier sought a loan from the Spanish government.  With help from [[James White (North Carolina politician)|Dr. James White]] (who was later found to be a paid agent of Spain's), he attempted to place Franklin under Spanish rule.  Opposed to any foreign nation gaining a foothold in Franklin, North Carolina officials arrested Sevier in August 1788.  Sevier's supporters quickly freed him from the local jail and retreated to "Lesser Franklin".  In February 1789,<ref name="NChist">[http://www.northcarolinahistory.org/commentary/99/entry North Carolina History Project – State of Franklin]</ref> Sevier, and the last holdouts of the "Lost State," swore oaths of allegiance to North Carolina after turning themselves in.<ref name="NChist"/> North Carolina sent their militia to aid in driving out the Cherokee and Chickasaw.
+
+===Lesser Franklin===
+After the dissolution of the State of Franklin in February 1789, continued support of the separate state movement was confined largely to Sevier County, specifically in the country south of the [[French Broad River]].  The people there realized that the only entity recognizing title to their land holdings had been Franklin.  Both North Carolina and the Federal (Confederation) government supported the Cherokee claims as set forth in the Treaty of Hopewell, and considered settlers in the area "[[squatter]]s".  This led to the formation of a "Lesser Franklin" government, with an Articles of Association similar to the earlier [[Watauga Association|Watauga Constitution]].  In 1789 these Articles were adopted at Newell's Station, which served as the seat of government for the wider area of Lesser Franklin, including all the settled country south of the French Broad.<ref name="t-gen">[http://sevier.tngenealogy.net/about-sevier/31-history/160-sevier-county-settlers-vs-the-cherokee-indians ''Sevier County Settlers vs. the Cherokee Indians'']; [[Tennessee Genealogy]] web online; accessed March 2014.</ref>
+
+The Lesser Franklin government finally ended in 1791, when Governor [[William Blount]], of the newly formed [[Southwest Territory]], met the Cherokee chieftains on the site of the future [[Knoxville]], and they made the Treaty of Holston.  The Overhill Cherokee now acknowledged the authority of the United States government, and ceded to the Federal government all of their lands south of the French Broad, almost as far as the [[Little Tennessee River]].<ref name="t-gen"/>
+
+== Subsequent status ==
+By early 1789, the government of the State of Franklin outside of Lesser Franklin had collapsed entirely and the territory was firmly back under the control of North Carolina. Soon thereafter, North Carolina once again ceded the area to the federal government to form the [[Southwest Territory]], the precursor to the [[State of Tennessee]].  Sevier was elected in 1790 to the US Congress to represent the territory, and became Tennessee's first [[Governor of Tennessee|governor]], in 1796.<ref name="t-gen"/>  Col. John Tipton signed the [[Tennessee Constitution]] as the representative from [[Washington County, Tennessee|Washington County]].
+
+==Notable Franklinites==
+* [[John Sevier]] (1745–1815); Governor of Franklin; first governor of Tennessee.<ref>Driver, Carl Samuel. ''John Sevier: Pioneer of the Old Southwest''. Chapel Hill: University of North Carolina Press, 1932</ref>
+* Lt. [[Samuel Wear]] (1753–April 3, 1817); co-founder of Franklin; veteran of the Revolutionary War, War of 1812, and the Indian wars; fought at the [[Battle of Kings Mountain]].
+* Col. [[Joseph Hardin]] (1734–1801); Speaker of the House for the State of Franklin; trustee of [[Tusculum College|Greeneville]] (now Tusculum) College.<ref>{{cite book | last = Patterson | first = Prof. Tommie Cochran | title = Joseph Hardin: A Biographical & Genealogical Study | series = Dissertation Manuscript | publisher = Library of the University of Texas at Austin, Texas; Austin, TX | year = 1931 | isbn = | OCLC =13179015 | url = }}</ref>
+* [[Samuel Doak]] (1749–1830); Presbyterian minister, pioneer, founded earliest schools and churches in [[East Tennessee]]; delegate to the "Lost State" of Franklin which convened in Greeneville.<ref>[http://tennesseeencyclopedia.net/entry.php?rec=385 ''Samuel Doak'']; E. Alvin Gerhardt, Jr.; "The Tennessee Encyclopedia of History and Culture;" 2002; retrieved June 3, 2008.</ref>
+* [[William Cocke]] (1748–August 22, 1828); American lawyer, pioneer, and statesman.
+* [[David Crockett|David "Davy" Crockett]] (August 17, 1786 – March 6, 1836); famed frontiersman and statesman, born in Greene County, Franklin.<ref>[http://tennesseeencyclopedia.net/entry.php?rec=333 ''David "Davy" Crockett'']; Michael Lofaro; "The Tennessee Encyclopedia of History and Culture;" 2002; retrieved November 19, 2011.</ref>
+* [[James White (General)|Gen. James White]] (1747–August 14, 1821); American pioneer and soldier who founded [[Knoxville, Tennessee]].<ref>Lucile Deaderick; ''Heart of the Valley: A History of Knoxville, Tennessee''; Knoxville, Tennessee; [[East Tennessee Historical Society]]; 1976.</ref>
+
+== Legacy ==
+{{unref|section|date=August 2018}}
+The Washington County farm of Col. John Tipton where the 1788 Battle of Franklin was fought has been preserved by the State of Tennessee as the [[Tipton-Haynes State Historic Site]] in southeastern [[Johnson City, Tennessee]].
+
+Samuel Tipton, a son of Col. John Tipton, donated land for a town to be located along east side of the [[Doe River]] near its [[confluence]] with the [[Watauga River]] in what was then known as Wayne County and the town was named in his honor as Tiptonville (not to be confused with present day [[Tiptonville, Tennessee]] in West Tennessee).  The losers of the Battle of Franklin (1788) would later regain political power and rename Wayne County as Carter County (after the former State of Franklin Senate Speaker Landon Carter), and also rename Tiptonville as [[Elizabethton, Tennessee|Elizabethton]] (after the wife of Landon Carter, Elizabeth Carter) when Tennessee was first admitted to the Union in 1796 and John Sevier became the first governor of Tennessee.
+
+The Franklin area also played a role in the [[Southern Unionist]] [[East Tennessee Convention]]. Throughout the first half of the 19th century, East Tennessee was frequently at odds with Tennessee's two other grand divisions, [[Middle Tennessee]] and [[West Tennessee]].  Many East Tennesseans felt the state legislature showed persistent favoritism toward the other two divisions, especially over funding for [[internal improvements]]. In the early 1840s, several East Tennessee leaders, among them Congressman (and future President) [[Andrew Johnson]], led a movement to form a separate state in East Tennessee known as "Frankland."  Though this movement was unsuccessful, the idea that East Tennessee should be a separate state periodically resurfaced over the subsequent two decades.<ref name=lacy>Eric Lacy, ''Vanquished Volunteers: East Tennessee Sectionalism from Statehood to Secession'' (Johnson City, Tenn.: East Tennessee State University Press, 1965), pp. 122-126, 217-233.</ref>
+
+Many businesses in the State of Franklin use that name to keep the legacy alive, such as the "State of Franklin Bank", based in [[Johnson City, Tennessee]].<ref>https://www.manta.com/c/mm5nnhg/state-of-franklin-bank-a-division-of-jefferson-federal-bank accessed Dec 22, 2018</ref>
+
+One of the main thoroughfares in Johnson City is named "State of Franklin Road" and passes by [[East Tennessee State University]].<ref>http://www.stateoffranklin.net/johnsons/photos7.htm accessed Dec 23, 2018.</ref>
+
+In law school examinations in the U.S., a fictional "State of Franklin" is used as a [[placeholder name]] for a generic state, often the one in which the property of [[Blackacre]] is located.  This way, variations in existing state law do not complicate the theoretical legal issues arising from the property disputes.  By convention, Blackacre is located in Acre County, Franklin.
+
+The combined present-day (as of 2015 census) population of the counties that would have made up the State of Franklin is 540,000, which would have made the State about 40,000 people smaller than Wyoming, the current least-populous state.
+
+==References in popular culture==
+
+=== Literature ===
+*The novel ''Crown of Creation, 2046: Two Nations, One Murder'' by Robert Arias envisions the Republic of Franklin as a breakaway nation from the United States in the near future.
+*The novel ''The Cumberland Rifles'' by Noel B. Gerson takes place in the State of Franklin.
+*The novel ''The Canebreak Men'' by Cameron Judd details events related to the founding and the history of the State of Franklin.
+*In the fantasy novel ''[[American Gods]]'' by [[Neil Gaiman]], [[Johnny Appleseed]] describes the State of Franklin as the home of the last remaining [[Thunderbird (mythology)|Thunderbirds]].
+*The alternative-history novel ''Joyleg'' by [[Ward Moore]] and [[Avram Davidson]] depicts an independent State of Franklin in the 20th century, having somehow escaped the notice of the federal government for nearly 200 years. The novel skewers politicians and the media.
+*The alternative-history short story "Assault on Fat Mountain" by [[R. A. Lafferty]] details the aftermath of a military victory in 1788 by the Free State of Franklin over North Carolina, resulting in the creation of a new world power, the Free Nation of Appalachia, and the shrinking of the United States Union into a poor backwater nation.
+*The alternative-history novel [[The Two Georges]] by Harry Turtledove and Richard Dreyfus mentions a province called Franklin (named after [[Benjamin Franklin]]), one of the major coalmining provinces of the North American Union, the borders of which match the state of [[Kentucky]].
+
+===Television===
+* The State of Franklin was featured in the [[History (U.S. TV channel)|History]] channel documentary series ''[[How the States Got Their Shapes]]'' as one of the many "ghost states" of America.
+
+===Music===
+* State of Franklin is an alternative rock band out of Boone, NC, that was formed in 2013 and has released several CDs and EPs.<ref>https://girth-records.squarespace.com/</ref>
+
+== See also ==
+*[[Historic regions of the United States]]
+
+==Notes==
+{{Reflist|group="note"}}
+
+==References==
+{{Reflist|30em}}
+
+== Further reading ==
+* {{cite book|last=Appleby|first=Joyce Oldham|authorlink=Joyce Appleby |author2=[[Alan Brinkley]] |author3=[[James M. McPherson]]|title=The American Journey|location=Columbus, OH|publisher=Glencoe/McGraw-Hill|year=2009|isbn=978-0-07-877713-4}}
+* {{cite book|last=Barksdale|first=Kevin T.|title=The Lost State of Franklin: America's First Secession|location=Lexington|publisher=[[University Press of Kentucky]]|year=2008|isbn=978-0-8131-2521-3}}
+* {{cite book | url=https://books.google.com/books?id=3NV6QTmv8BcC&pg=PA51 | title =  Declarations of Independence: Encyclopedia of American Autonomous and Secessionist Movement | first=James L. |last=Erwin | publisher = Greenwood Publishing Group | year= 2007 | isbn = 978-0-313-33267-8 | pages = 52–53 }}
+* {{cite book|last=Gerson|first=Noel B.|title=Franklin: America's "Lost State"|location=New York|publisher=Crowell-Collier|year=1968|oclc=228843}}
+* {{cite book|last=Landrum|first=J. B. O.|title=Colonial and Revolutionary History of Upper South Carolina|series=South Carolina heritage series, no. 1.|location=Spartanburg, SC|publisher=Reprint Co|year=1959|oclc=3521908}}
+* {{cite book|last=Williams|first=Samuel Cole|author2=Carl S. Driver|title=History of the Lost State of Franklin|location=Johnson City, TN|publisher=Overmountain|year=1974|isbn=978-0-87991-348-9}}
+* {{cite book|last=Roosevelt|first=Theodore|title=The Winning of the West, Vol III|location=www.gutenberg.org/files/11943/11943-8.txt|publisher=Review of Reviews, Co.|year=1898}}
+*[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/America/United_States/_Topics/history/_Texts/WILLSF/home.html Samuel Cole Williams, "History of the Lost State of Franklin", 362pp, 1924 rev. 1933]
+* [https://archive.org/stream/civilpoliticalhi00hayw/civilpoliticalhi00hayw_djvu.txt "The civil and political history of the state of Tennessee from its earliest settlement up to the year 1796, including the boundaries of the state"]
+* J. G. M. Ramsey; ''The Annals of Tennessee to the End of the Eighteenth Century''; 1853; Chapter: "The State of Franklin."
+
+==External links==
+* [http://www.newrivernotes.com/nc/wnc.htm History of Western North Carolina]
+* [https://www.npr.org/templates/story/story.php?storyId=1592249 NPR Interview with Michael Toomey of the East Tennessee Historical Society]
+* [http://www.stateoffranklin.net/johnsons/pdf/barksdale_state_of_franklin.pdf ''Upon the Shoulders of Giants: Deconstructing the Lost State of Franklin, 1784-2005''. Kevin T. Barksdale, 2005.] 
+
+{{State of Franklin|Expanded}}
+{{Benjamin Franklin}}
+{{Davy Crockett}}
+
+{{DEFAULTSORT:Franklin}}
+[[Category:Davy Crockett]]
+[[Category:Former political entities in North America]]
+[[Category:Former regions and territories of the United States]]
+[[Category:History of North Carolina]]
+[[Category:Pre-statehood history of Tennessee]]
+[[Category:Proposed states of the United States]]
+[[Category:State of Franklin| ]]
+[[Category:States and territories established in 1784]]
+[[Category:1784 establishments in North Carolina]]
+[[Category:Micronations in the United States]]

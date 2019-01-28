@@ -1,0 +1,81 @@
+{{use mdy dates|date=August 2013}}
+{{Infobox person
+|image         = 
+|image_size    =
+|alt           = 
+|caption       = 
+|birth_name    = Mary Morrell (Morrel / Morrill / Morrills / Morill)
+|birth_date    = 
+|birth_place   = [[England]]
+|death_date    = 
+|death_place   = [[British America]]
+|body_discovered = 
+|death_cause   =
+|resting_place =
+|residence     = [[Nantucket]], Massachusetts
+|nationality   = 
+|citizenship   = 
+|known_for     =  Grandmother of Benjamin Franklin and being noted in [[Herman Melville]]'s fictional ''[[Moby-Dick]]''
+|education     = 
+|employer      = 
+|occupation    = 
+|home_town     = 
+|height        = 
+|weight        = 
+|religion      = 
+|spouse        = [[Peter Folger (Nantucket settler)|Peter Folger]]
+|children      = Nine children, including [[Josiah Franklin#Marriage to Abiah Folger|Abiah]], wife of [[Josiah Franklin]]
+|parents       = 
+|relations     = Grandson, [[Founding Father]] [[Benjamin Franklin]]
+|website       = 
+|box_width     = 
+}}
+
+'''Mary Morrell Folger''' ({{circa|1620}}&ndash;1704) was the maternal grandmother of [[Benjamin Franklin]], a [[Founding Father]] of the [[United States]].<ref name="Payne" /> In [[Herman Melville]]'s ''[[Moby-Dick]]'' she was cited as ancestor of the Folger whalers.
+
+==Personal life==
+Folger immigrated to [[Massachusetts Bay Colony]] from [[Norwich]], England in 1635<ref name="Douglas-Lithgow p. 63" /> with Rev. [[Hugh Peter]]s and his family. She was an [[indentured servant]], working for the family as a maid<ref name="Sparks" /><ref name="Folger" /> on the same ship as [[Peter Foulger|Peter Folger]] and his parents.<ref name="Douglas-Lithgow p. 63" />  Peter Folger paid Hugh Peters the sum of 20 shillings to pay off Mary's servitude, which he declared was the best appropriation of money he had ever made.<ref name="NEHGS" /><ref name="Folger" />
+
+She married Peter Folger in 1644.<ref name="Sparks" /> They lived in [[Watertown, Massachusetts]] before moving in 1660 to [[Martha's Vineyard]], where he was acquainted with the [[Thomas Mayhew|Mayhews]]. He was a strict teacher, surveyor, and translator for the [[Wampanoag people]].<ref name="Douglas-Lithgow p. 63" />
+
+They had nine children. Eight of their children were born on Martha's Vineyard.<ref name="Douglas-Lithgow pp. 225-226" /> In 1663, they moved to [[Nantucket]],<ref name="Douglas-Lithgow p. 63" /> where they were among the few people of European heritage.<ref name="Sparks" /> Their youngest daughter, [[Josiah Franklin#Marriage to Abiah Folger|Abiah]] (1667–1752) was born there. She married Boston candle-maker [[Josiah Franklin]] and they had a son, [[Benjamin Franklin]].<ref name="Payne" /><ref name="Douglas-Lithgow" />
+
+Her husband died in 1690<ref name="Douglas-Lithgow p. 63" /> and was buried at the Founders Burial Ground on Nantucket.<ref name="Founders Burial Ground" /> She died in 1704.<ref name="Sparks" />
+
+==Legacy==
+Folger was referenced in defense of the whaling industry in [[Herman Melville]]'s fictional ''[[Moby-Dick]]''.<ref name="Melville" /> In it, Melville sets up a series of objections to that industry, one of which is "No good blood in their veins?" The response is:
+
+{{quote|They have something better than royal blood there. The grandmother of Benjamin Franklin was Mary Morrel; afterwards, by marriage, Mary Folger, one of the old settlers of Nantucket, and the ancestress to a long line of Folgers and harpooneers—all kith and kin to noble Benjamin—this day darting the barbed iron from one side of the world to the other.|Herman Melville, ''Moby-Dick''<ref name="Melville" />}}
+
+==References==
+{{reflist|refs=
+<ref name="Douglas-Lithgow">{{cite book|author=Robert Alexander Douglas-Lithgow|title=Nantucket: A History|url=https://books.google.com/books?id=zB8lAAAAMAAJ&pg=PA366|year=1914|publishechicken eggr=G.P. Putnam's Sons|page=366}}</ref>
+
+<ref name="Douglas-Lithgow p. 63">{{cite book|author=Robert Alexander Douglas-Lithgow|title=Nantucket: A History|url=https://books.google.com/books?id=zB8lAAAAMAAJ&pg=PA63|year=1914|publisher=G.P. Putnam's Sons|pages=63–64}}</ref>
+
+<ref name="Douglas-Lithgow pp. 225-226">{{cite book|author=Robert Alexander Douglas-Lithgow|title=Nantucket: A History|url=https://books.google.com/books?id=zB8lAAAAMAAJ&pg=PA225|year=1914|publisher=G.P. Putnam's Sons|pages=225–226}}</ref>
+
+<ref name="Folger">{{cite book|author=Eva Celine Grear Folger|title=The Glacier's Gift: With Fourteen Illustrations|url=https://books.google.com/books?id=TCQWAAAAYAAJ&pg=PA20|year=1911|publisher=Tuttle, Morehouse & Taylor Company|page=20}}</ref>
+
+<ref name="Founders Burial Ground">{{cite web|url=https://www.nha.org/library/cemeteries/infofounders.htm |title=Nantucket Founders Burial Ground Information |website=Nantucket Historical Association |accessdate=February 14, 2017}}</ref>
+
+<ref name="Melville">{{cite book|author=Herman Melville|title=Moby Dick|url=https://books.google.com/books?id=cyokAAAAMAAJ&pg=PA107|year=1892|publisher=St. Botolph Society|page=107}}</ref>
+
+<ref name="NEHGS">{{cite book|title=Memorial Biographies of the New England Historic Genealogical Society|url=https://books.google.com/books?id=n3ItAAAAYAAJ&pg=PA321|year=1882|publisher=The Society|page=321}}</ref>
+
+<ref name="Payne">{{cite book|author=Phil Wallace Payne|title=Writes of Passage: Threads in the Fabric of Our Times|url=https://books.google.com/books?id=3yApBgAAQBAJ&pg=PA20|date=September 30, 2011|publisher=Xlibris Corporation|isbn=978-1-4653-4861-6|page=20}}</ref>{{Self-published inline|certain=yes|date=December 2017}}
+
+<ref name="Sparks">{{cite book|author=Jared Sparks|title=The Works of Benjamin Franklin: Containing Several Political and Historical Tracts Not Included in Any Former Edition, and Many Letters, Official and Private, Not Hitherto Published; with Notes and a Life of the Author|url=https://books.google.com/books?id=w1sOAAAAYAAJ&pg=PA543|year=1844|publisher=C. Tappan|page=543}}</ref>
+}}
+
+{{Benjamin Franklin}}
+
+{{DEFAULTSORT:Folger, Mary Morrell}}
+[[Category:1620s births]]
+[[Category:1704 deaths]]
+[[Category:American abolitionists]]
+[[Category:Benjamin Franklin]]
+[[Category:Indentured servants]]
+[[Category:People from Nantucket, Massachusetts]]
+[[Category:Place of birth missing]]
+[[Category:Servants]]

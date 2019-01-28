@@ -1,0 +1,223 @@
+{{Use mdy dates|date=July 2017}}
+{{Infobox person
+| name        = Matthew Fontaine Maury
+| image       = Lt. Matthew Maury.jpg
+| alt         = Photograph of a man, seated, in double-breasted naval uniform
+| caption     = Lieut. Matthew Fontaine Maury U.S. Navy
+| birth_date  = {{Birth date|1806|1|14}}
+| birth_place = [[Spotsylvania County, Virginia]], U.S.
+| death_date  = {{Death date and age|1873|2|1|1806|1|14}}
+| death_place = [[Lexington, Virginia]], U.S.
+| resting_place = [[Hollywood Cemetery (Richmond, Virginia)|Hollywood Cemetery]]
+| nationality = American
+| other_names = 
+| known_for   = 
+| occupation  = Oceanographer, naval officer, educator, author
+| module        = {{Infobox military person|embed=yes
+| allegiance    = {{Flag|United States of America|1861}}<br />{{flag|Confederate States of America}}
+| branch        = {{flag|United States Navy|1861}}<br />{{navy|CSA}}
+| serviceyears  = 1825–1861 (USN)<br />1861–1865 (CSN)
+| rank          = [[File:USN com rank insignia.jpg|35px]] [[Commander (United States)|Commander]] (USN)<br />[[File:Csn strap cmdr.png|35px]] Commander (CSN)
+}}
+}}
+'''Matthew Fontaine Maury''' (January 14, 1806{{spaced ndash}}February 1, 1873) was an American astronomer, [[United States Navy]] officer, historian, [[oceanographer]], [[meteorologist]], [[cartographer]], author, geologist, and educator.
+
+He was nicknamed "Pathfinder of the Seas" and "Father of Modern Oceanography and Naval Meteorology" and later, "Scientist of the Seas" for his extensive works in his books, especially ''The Physical Geography of the Sea'' (1855), the first such extensive and comprehensive book on oceanography to be published. Maury made many important new contributions to charting winds and ocean currents, including [[ocean lanes]] for passing ships at sea.
+
+In 1825, at 19, Maury obtained, through US Representative [[Sam Houston]], a [[Midshipman#United States Navy .281794.E2.80.931845.29|midshipman's warrant]] in the United States Navy.<ref>[[Wikisource:Popular Science Monthly/Volume 37/July 1890/Sketch of Matthew Fontaine Maury]]</ref> As a midshipman on board the frigate {{USS|Brandywine|1825|6}}, he almost immediately began to study the seas and record methods of navigation. When a leg injury left him unfit for sea duty, Maury devoted his time to the study of navigation, meteorology, winds, and currents. He became Superintendent of the [[United States Naval Observatory]] and head of the Depot of Charts and Instruments. There, Maury studied thousands of ships' logs and charts. He published the Wind and Current Chart of the North Atlantic Ocean, which showed sailors how to use the ocean's currents and winds to their advantage, drastically reducing the length of ocean voyages. Maury's uniform system of recording oceanographic data was adopted by navies and merchant marines around the world and was used to develop charts for all the major trade routes.
+
+With the outbreak of the [[American Civil War]], Maury, a [[Virginia]]n, resigned his commission as a US Navy commander and joined the Confederacy. He spent the war in the [[Southern United States|South]] as well as abroad, in Great Britain, Ireland, and France. He helped acquire a ship, {{ship|CSS|Georgia|cruiser|6}}, for the [[Confederate States of America|Confederacy]] while he also advocated stopping the war in America among several European nations. Following the war, Maury accepted a teaching position at the [[Virginia Military Institute]] in [[Lexington, Virginia]]. He died at the institute in 1873, after he had completed an exhausting state-to-state lecture tour on national and international weather forecasting on land. He had also completed his book, ''Geological Survey of Virginia'', and a new series of geography for young people.
+
+==Early life and career==
+Maury was a descendant of the Maury family, a prominent Virginia family of [[Huguenot]] ancestry that can be traced back to 15th-century [[France]]. His grandfather ([[James Maury|the Reverend James Maury]]) was an inspiring teacher to a future US president, [[Thomas Jefferson]]. Maury also had [[Dutch American|Dutch-American]] ancestry from the "Minor" family of early Virginia.
+
+He was born in 1806 in [[Spotsylvania County, Virginia]], near [[Fredericksburg, Virginia|Fredericksburg]]; his parents were Richard Maury and Diane Minor Maury. The family moved to [[Franklin, Tennessee]], when he was five. He wanted to emulate the naval career of his older brother, Flag Lieutenant [[John Minor Maury]], who, however, caught [[yellow fever]] after fighting [[pirate]]s as an officer in the US Navy. As a result of John's painful death, Matthew's father, Richard, forbade him from joining the Navy. Maury strongly considered attending [[West Point]] to get a better education than the Navy could offer at that time, but instead, he obtained a naval appointment through the influence of Tennessee Representative [[Sam Houston]], a family friend, in 1825, at the age of 19.
+
+Maury joined the Navy as a [[midshipman]] on board the [[frigate]] {{USS|Brandywine|1825|2}} which was carrying [[Gilbert du Motier, marquis de La Fayette|the Marquis de La Fayette]] home to France, following La Fayette's famous [[Visit of the Marquis de Lafayette to the United States|visit to the United States]]. Almost immediately, Maury began to study the seas and to record methods of [[navigation]]. One of the experiences that piqued this interest was a circumnavigation of the globe on the {{USS|Vincennes|1826|6}}, his assigned ship and the first US warship to travel around the world.
+
+==Scientific career==
+His seagoing days came to an abrupt end at the age of 33, after a stagecoach accident broke his right leg. Thereafter, he devoted his time to the study of naval meteorology, [[navigation]], charting the winds and currents, seeking the "Paths of the Seas" mentioned in Psalms 8:8 as: "The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas." Maury had known of the [[Psalms of David]] since childhood. In ''A Life of Matthew Fontaine Maury'' (compiled by his daughter, Diana Fontaine Maury Corbin, 1888), she states on pages 7–8:
+: "Matthew's father was very exact in the religious training of his family, now numbering five sons and four daughters, viz., John Minor, Mary, Walker, Matilda, Betsy, Richard Launcelot, Matthew Fontaine, Catherine, and Charles. He would assemble them night and morning to read the Psalter for the day, verse and verse about; and in this way, so familiar did this barefooted boy [M. F. Maury] become with the Psalms of David, that in after life he could cite a quotation, and give chapter and verse, as if he had the Bible open before him. His Bible is depicted on his monument beside his left leg. (See enlarged image on this page)<ref name=diana>Diana Fontaine Maury-Corbin [[s:Matthew Fontaine Maury|"Life of Matthew Fontaine Maury USN & CSN"]] ''Life of Matthew Fontaine Maury, U.S.N. and C.S.N.''</ref>
+
+As officer-in-charge of the United States Navy office in [[Washington, DC]], called the "Depot of Charts and Instruments" the young lieutenant became a librarian of the many unorganized log books and records in 1842. From his initiative, he sought to improve seamanship through organizing the information in his office and instituting a reporting system among the nation's shipmasters to gather further information on sea conditions and observations. The product of his work was international recognition and the publication in 1847 of "Wind and Current Chart of the North Atlantic."<ref name=Bowditch>Bowditch, Nathaniel. (1966). "U.S. Hydrographic Office". American Practical Navigator: an Epitome of Navigation. Washington, DC: U.S. Government Printing Office. p. 31.</ref> His international recognition assisted in the change of purpose and name of the depot to the [[United States Naval Observatory]] and Hydrographical Office in 1854.<ref name=Bowditch/> He continued holding that position until his resignation, in April 1861. Maury was one of the principal advocates for the founding of a national observatory, and he appealed to science enthusiast and former US President, Representative [[John Quincy Adams]] for the creation of what would eventually become the Naval Observatory. Maury occasionally hosted Adams, who enjoyed astronomy as an avocation, at the Naval Observatory. Concerned that Maury always had a long trek to and from his home on upper Pennsylvania Avenue, Adams introduced an appropriations bill that funded a Superintendent's House on the Observatory grounds. Adams now thus felt no constraints in regularly stopping by for a look through the facility's telescope.
+
+As a sailor, Maury noted that there were numerous lessons that had been learned by ship-masters about the effects of adverse winds and drift currents on the path of a ship. The captains recorded the lessons faithfully in their logbooks, but they were then forgotten. At the Observatory, Maury uncovered an enormous collection of thousands of old ships' logs and charts in storage in trunks dating back to the start of the US Navy.<ref>{{Cite book|title="Every Ship a Floating Laboratory: Matthew Fontaine Maury and the Acquisition of Knowledge at Sea" in Soundings and Crossings: Doing Science at Sea 1800 - 1970|last=Penelope|first=Hardy|publisher=Science History Publications|year=2016|isbn=9780881351446|location=|pages=24}}</ref> Maury pored over the documents to collect information on winds, calms, and currents for all seas in all seasons. His dream was to put that information in the hands of all captains.<ref name=gaz>David L. Cohn ''Pathfinder of the Seas''. The Nautical Gazette, May '40</ref>
+
+Maury also used the old ships' logs to chart the [[animal migration|migration]] of whales. Whalers at the time went to sea, sometimes for years, without knowing that whales migrate and that their paths could be charted.
+
+Maury's work on [[ocean currents]] led him to advocate his theory of the [[Northwest Passage]] as well as the hypothesis that an area in the ocean near the [[North Pole]] is occasionally free of ice. The reasoning behind that was sound. Logs of old whaler ships indicated the designs and the markings of harpoons. Harpoons found in captured whales in the Atlantic had been shot by ships in the Pacific and vice versa at a frequency that would have been impossible if the whales had traveled around [[Cape Horn]].
+
+Maury, knowing a whale to be a mammal, theorized that a northern passage between the oceans that was free of ice must exist to enable the whales to surface and breathe. That became a popular idea that inspired many explorers to seek a reliably-navigable sea route. Many of the explorers died in their search.
+
+Lieutenant Maury published his ''Wind and Current Chart of the North Atlantic'', which showed sailors how to use the ocean's currents and winds to their advantage and to drastically reduce the length of ocean voyages. His ''Sailing Directions'' and ''Physical Geography of the Seas and Its Meteorology'' remain standard. Maury's uniform system of recording [[Joint Typhoon Warning Center|synoptic oceanographic data]] was adopted by navies and [[merchant marine]]s around the world and was used to develop charts for all the major trade routes.
+
+[[File:Matthew Fontaine Maury-wmm6.jpg|thumb|USN Matthew Fontaine Maury 1855]]
+
+Maury's Naval Observatory team included midshipmen assigned to him: [[James Melville Gilliss]], Lieutenants [[John Mercer Brooke]], [[William Lewis Herndon]], [[Lardner Gibbon]], Lieutenants [[Isaac Strain]], John "Jack" Minor Maury II of the USN [[s:Darien Exploring Expedition (1854)|1854 Darien Exploration Expedition]], and others. Their duty was always temporary at the Observatory, and new men had to be trained over and over again. Thus Lt. Maury was working with astronomical work and nautical work at the same time and constantly training new temporary men to assist in those works. As Maury's reputation grew, the competition among young midshipmen to be assigned to work with him intensified. He always had able assistants even though they constantly changed, as they were reassigned as part of their duties.
+
+Maury advocated much in the way of naval reform, including a school for the Navy that would rival the army's West Point. That reform was heavily pushed by Maury's many "Scraps from the Lucky Bag" and other articles printed in the newspapers and many changes came about in the navy, including his finally-fulfilled dream of the creation of the [[United States Naval Academy]].
+
+During its first 1848 meeting, Maury helped launch the [[American Association for the Advancement of Science]] (AAAS).
+
+In 1849, Maury spoke out on the need for a transcontinental railroad to join the [[Eastern United States]] to [[California]]. He recommended a southerly route with [[Memphis, Tennessee]] as the eastern terminus, as it is equidistant from [[Lake Michigan]] and the [[Gulf of Mexico]]. He argued that a southerly route running through [[Texas]] would avoid winter snows and could open up commerce with the northern states of [[Mexico]]. Maury also advocated construction of a railroad across the [[Isthmus of Panama]].<ref>Sigafoos, R.A. ''Cotton Row to Beale Street: A business history of Memphis.'' Memphis State University Press, 1979. p. 19.</ref>
+
+==International meteorological conference==
+Maury also called for an international sea and land weather service. Having charted the seas and currents, he worked on charting land weather forecasting. Congress refused to appropriate funds for a land system of weather observations.
+
+Maury early became convinced that adequate scientific knowledge of the sea could be obtained only by international co-operation. He proposed for the United States to invite the maritime nations of the world to a conference to establish a "universal system" of meteorology, and he was the leading spirit of [[International Meteorological Organization|a pioneer scientific conference]] when it met in [[Brussels]] in 1853. Within a few years, nations owning three fourths of the shipping of the world were sending their oceanographic observations to Maury at the Naval Observatory, where the information was evaluated and the results given worldwide distribution.<ref>Frances L. Williams ''Matthew Fontaine Maury, Scientist of the Sea'' (1969) {{ISBN|0-8135-0433-3}}</ref>
+
+As its representative at the conference, the US sent Maury. As a result of the Brussels Conference, a large number of nations, including many traditional enemies, agreed to co-operate in the sharing of land and sea weather data using uniform standards.<ref name=gaz/> It was soon after the Brussels conference that Prussia, Spain, Sardinia, the Free City of Hamburg, the Republic of Bremen, Chile, Austria, and Brazil, and others agreed to joined the enterprise.
+
+The Pope established honorary flags of distinction for the ships of the Papal States, which could be awarded only to the vessels that filled out and sent to Maury in Washington, DC, the Maury abstract logs.<ref>Charles Lee Lewis, associate professor of the [[United States Naval Academy]], [https://archive.org/details/matthewfontainem00lewi ''Matthew Fontaine Maury: The Pathfinder of the Seas''] (1927) Annapolis. {{ISBN|0-405-13045-7}} Reprinted (1980).</ref>
+
+==Attempted liquidation of United States slaves abroad==
+In 1851, Maury sent his cousin, Lieutenant [[William Lewis Herndon]], and another former coworker at the United States Naval Observatory, Lieutenant [[Lardner Gibbon]], to explore the [[exploration of the Valley of the Amazon|valley of the Amazon]], while gathering as much information as possible for both trade and slavery in the area. Maury thought the Amazon might serve as a "safety valve" by allowing Southern slaveowners to resettle or sell their slaves there. (Maury's plan was basically following the idea of northern slavetraders and slaveholders who had sold their slaves to the Southern states.) The expedition aimed to map the area for the day when slave owners would go "with their goods and chattels to settle and to trade goods from South American countries along the river highways of the Amazon valley."<ref name="CharlesMann">{{citation |url= https://books.google.com/books?id=IqaMEWNvsJQC&printsec=frontcover#v=onepage&q&f=false |title= 1493: Uncovering the New World Columbus Created |pages= 260–261 |author= [[Charles C. Mann]] |publisher= Random House Digital |date=2011 |isbn= 978-0-307-59672-7}}</ref> Brazil's slavery was extinguished after a slow process that began with the end of the international traffic in slaves in 1850 but did not end with complete abolition of slavery until 1888. Maury knew, when he wrote in the news journals of the day, that Brazil was bringing in new slaves from Africa. He proposed that moving the slaves in the United States to Brazil would reduce or eliminate slavery in time in as many areas of the United States as possible. He also hoped to stop the bringing of new slaves to Brazil, which only increased slavery by the capture and enslavement of more Africans. "Imagine," Maury wrote to his cousin, "waking up some day and finding our country free of slavery!"<ref>[[s:Matthew Fontaine Maury/9|Letter]] to his cousin, dated National Observatory, December 24, 1851.</ref><ref name=diana/>
+
+Maury started a campaign to force the Brazilian government to open up navigation in the Amazon River and to oblige it to receive the American colonizers and trade. However, Emperor [[Pedro II of Brazil|Pedro II]]'s government firmly rejected the proposals. It was mindful of the background of previous US territorial annexations of parts of Mexico: immigration, provocation, conflict and annexation. Brazil thus acted diplomatically and through the press to avoid, by all means, the colonization proposed by Maury. By 1855, the project had certainly failed. Brazil authorized free navigation to all nations in the Amazon in 1866 but only when it was at war against Paraguay and free navigation in the area had become necessary.<ref>CERVO, A. L.; BUENO, C. History of Brazilian Foreign Politics. 4th edition. Brasilia: UnB, 2011, pp. 111 – 116</ref>
+
+==American Civil War==
+[[File:Matthew Fontaine Maury wmm2.jpg |thumb|right|Commander Matthew Fontaine Maury]]
+
+With the outbreak of the [[American Civil War]], Maury, a native of Virginia, ended the career that he dearly loved by handing in his commission as a US Navy commander to serve Virginia, which had joined the Confederacy, as Chief of Sea Coast, River and Harbor Defenses. Because he was an international figure, he was ordered to go abroad for many reasons, including disseminating propaganda for the Confederacy, pursuing peace, and purchasing ships. He went to England, Ireland, and France, acquiring ships and supplies for the Confederacy. By speeches and newspaper publications, Maury tried desperately to get other nations to stop the American Civil War, carrying pleas for peace in one hand and a sword in the other, both to deal with whatever the outcome.
+
+Maury was elected by the [[Confederate Congress]] a commissioner of Weights and Measures in association with a mathematics professor, Francis H. Smith, of the University of Virginia.<ref>Tyler, Lyon Gardner, "Encyclopedia of Virginia Biography", Lewis Hist. Publ. Co., 1915, New York</ref>
+
+Maury also perfected an "electric torpedo" ([[naval mine]]), which raised havoc with northern shipping. Maury had experience with the transatlantic cable and electricity flowing through wires underwater when working with [[Cyrus West Field]] and [[Samuel Finley Breese Morse]]. The torpedoes, similar to present-day contact mines, were said by the Secretary of the Navy in 1865 "to have cost the Union more vessels than all other causes combined."<ref name=gaz/>
+
+==Later life==
+The war brought ruin to many in Fredericksburg, where Maury's immediate family lived. Thus, returning there was not immediately considered. After the war, after serving [[Maximilian I of Mexico|Maximilian]] in Mexico as "Imperial Commissioner of Immigration" and building Carlotta and [[New Virginia Colony]] for displaced Confederates and immigrants from other lands, Maury accepted a teaching position at the [[Virginia Military Institute]], holding the chair of physics.
+
+Maury advocated the creation of an agricultural college to complement the institute. That led to the establishment of the [[Virginia Agricultural and Mechanical College]] (Virginia Tech) in [[Blacksburg, Virginia]], in 1872.<ref>{{cite journal
+ | author = Captain Miles P. DuVal, Jr.&#44; USN (Ret.)
+ | title = Matthew Fontaine Maury: Benefactor of Mankind
+ | publisher = Naval Historical Foundation
+ | url = http://www.history.navy.mil/library/online/maury_mat_bene.htm
+ | accessdate = February 18, 2008
+}}</ref> Maury declined the offer to become its first president partly because of his age. He had previously been suggested as president of the [[College of William & Mary]] in [[Williamsburg, Virginia]], in 1848 by [[Benjamin Blake Minor]] in his publication the ''[[Southern Literary Messenger]]''. Maury considered becoming president of [[St. John's College (Annapolis/Santa Fe)|St. John's College]] in Annapolis Maryland, the [[University of Alabama]], and the [[University of Tennessee]].<ref name="Lewis1980">{{cite book|author=Charles Lee Lewis|title=Matthew Fontaine Maury|url=https://books.google.com/books?id=Xveu35zy7AkC|accessdate=September 14, 2011|date=June 1980|publisher=Ayer Publishing|isbn=978-0-405-13045-8}}</ref> It appears that he preferred being close to [[General Robert E. Lee]] in Lexington from statements that Maury made in letters. Maury served as a pall bearer for Lee.<ref>[[Southern Historical Society]]'s Papers</ref>
+
+During his time at Virginia Military Institute, Maury wrote a book, entitled ''The [[Physical Geography]] of Virginia''. He had once been a gold mining superintendent outside Fredericksburg and had studied geology intensely during that time and so was well equipped to write such a book. During the Civil War, more battles took place in Virginia than in any other state (Tennessee was second), and Maury's aim was to assist wartorn Virginia in discovering and extracting minerals, improving farming and whatever else could assist it to rebuild after such a massive destruction.
+
+Maury later gave talks in Europe about co-operation on a weather bureau for land, just as he had charted the winds and predicted storms at sea many years before. He gave the speeches until his last days, when he collapsed giving a speech. He went home after he recovered and told Ann Hull Herndon-Maury, his wife, "I have come home to die."
+
+==Death and burial==
+He died at home in Lexington at 12:40&nbsp;pm, on Saturday, February 1, 1873. He was exhausted from traveling throughout the nation while he was giving speeches promoting land meteorology. He was attended by his eldest son, Major Richard Launcelot Maury and son-in-law, Major Spottswood Wellford Corbin. Maury asked his daughters and wife to leave the room. His last words were "all's well," a nautical expression telling of calm conditions at sea.<ref name=diana/>
+
+His body was placed on display in the Virginia Military Institute library. Maury was initially buried in the Gilham family vault in Lexington's cemetery, across from [[Stonewall Jackson]], until, after some delay into the next year, his remains were taken through [[Goshen Pass]] to [[Richmond, Virginia]]. He was reburied between Presidents [[James Monroe]] and [[John Tyler]] in [[Hollywood Cemetery (Richmond, Virginia)|Hollywood Cemetery]] in Richmond, Virginia.
+
+==Legacy==
+[[File:Matthew Fontaine Maury memorial at Goshen Pass overlooking the Maury River.jpg|thumb|left|Maury Memorial at Goshen Pass overlooking the Maury River]]
+[[File:Mfmauryhofjeh.JPG|thumb|right|Bust of Maury in the [[Hall of Fame for Great Americans]], New York City]]
+
+After decades of national and international hard work averaging 14 hours per day, Maury received fame and honors, including being knighted by several nations and given medals with precious gems as well as a collection of all medals struck by [[Pope Pius IX]] during his pontificate, a book dedication and more from Father [[Angelo Secchi]], who was a student of Maury from 1848 to 1849 in the [[United States Naval Observatory]]. The two remained lifelong friends. Other religious friends of Maury included [[James Hervey Otey]], his former teacher who, before 1857, worked with Bishop [[Leonidas Polk]] on the construction of the [[University of the South]] in Tennessee. While visiting there, Maury was convinced by his old teacher to give the "cornerstone speech."
+
+As a US Navy officer, he was required to decline awards from foreign nations. Some were offered to Maury's wife, Ann Hull Herndon-Maury, who accepted them for her husband. Some have been placed at Virginia Military Institute, others were lent to the [[Smithsonian]], and yet others remain in the family. He became a [[commodore (rank)|commodore]] (often a [[title of courtesy]]) in the Virginia Provisional Navy and a commander in the Confederacy.
+
+[[File:Matthew Fontaine Maury Statue.jpg|thumb|left|Matthew Fontaine Maury ''Pathfinder of the Seas'' monument, [[Monument Avenue]], Richmond, Virginia. Dedicated November 11, 1929]]
+A monument to Maury, by sculptor [[Frederick William Sievers]], was unveiled in Richmond on November 11, 1929. Maury Hall, the home of the Naval Science Department at the [[University of Virginia]] and headquarters of the University's Navy [[ROTC]] [[battalion]], was named in his honor.<ref>{{cite web|url=http://www.virginia.edu/webmap/popPages/55-MauryHall.html|title=U.Va. Web Map: Maury Hall|website=www.virginia.edu|accessdate=September 30, 2018}}</ref> The original building of the [[College of William & Mary]] [[Virginia Institute of Marine Science]] is named Maury Hall as well. Another Maury Hall, named after him, houses the Electrical and Computer Engineering Department and the Systems Engineering Department at the [[United States Naval Academy]] in [[Annapolis, Maryland]].
+
+Ships have been named in his honor, including three US Navy ships named {{USS|Maury}}. A fourth US Navy ship named in his honor was the USS ''Commodore Maury'' (SP-656), patrol vessel and minesweeper.<ref>{{cite web|url=http://www.history.navy.mil/photos/sh-usn/usnsh-c/sp656.htm|title=USN Ships – USS Commodore Maury (SP-656), 1917–1918|publisher=|accessdate=September 30, 2018}}</ref> of World War I. A World War II [[Liberty Ship]] was also named in his honor. Additionally, Tidewater Community College, based in [[Norfolk, Virginia]], owns the R/V Matthew F. Maury.<ref>[http://www.tcc.edu/academics/divisions/ms/geoscience/projects/maury.htm Research Vessel Matthew F. Maury (formerly PCF-2)] {{webarchive|url=https://web.archive.org/web/20090119134214/http://www.tcc.edu/academics/divisions/ms/geoscience/projects/maury.htm |date=January 19, 2009 }}</ref> The ship is used for oceanography research and student cruises.  In March 2013, in Maury's honor, the US Navy launched the USNS Maury in Mississippi. The ''Maury'' is designed to be an oceanographic survey ship for the Navy.
+
+[[File:Commander Matthew Fontaine Maury USN painting.jpg|thumb|Portrait of Matthew Fontaine Maury by Ella Sophonisba Hergesheimer, 1923]]
+
+[[Lake Maury]], in [[Newport News, Virginia]], is named after Maury. The lake is located on the [[Mariners' Museum]] property and is encircled by a walking trail. The [[Maury River]], entirely in [[Rockbridge County, Virginia]], near Virginia Military Institute (where Maury taught), also honors the scientist, as does [[Maury (crater)|Maury crater]], on the Moon.
+
+A high school in Norfolk, Virginia, is named after him: [[Matthew Fontaine Maury High School]].
+
+Matthew Maury Elementary School, [[Alexandria, Virginia|Alexandria,]] Virginia was built in 1929.<ref>{{cite web|url=https://www.acps.k12.va.us/Page/1853|title=About Our School / History of Our School|website=www.acps.k12.va.us|accessdate=September 30, 2018}}</ref>
+
+[[James Madison University]] has a Maury Hall named in honor of Matthew Fontaine Maury. It was the university's first academic and administrative building.<ref>{{cite web|url=http://www.jmu.edu/map/buildings/MAUR.shtml|title=James Madison University - Campus Map|website=www.jmu.edu|accessdate=September 30, 2018}}</ref>
+
+Numerous historical markers commemorate Maury throughout the South, including those in Richmond, Virginia,<ref>[http://www.hmdb.org/marker.asp?marker=30000 The Historical Marker Database:  Matthew Fontaine Maury].</ref> [[Fletcher, North Carolina]],<ref>[http://www.hmdb.org/marker.asp?marker=81023 The Historical Marker Database:  Matthew Fontaine Maury].</ref> and several in [[Chancellorsville, Virginia]].<ref>[http://www.hmdb.org/marker.asp?marker=3597 The Historical Marker Database:  Matthew Fontaine Maury: Pathfinder of the Seas], [http://www.hmdb.org/marker.asp?marker=21934 The Historical Marker Database:  Matthew Fontaine Maury: Birthplace of Matthew Fontaine Maury (1806-1873)] and [http://www.hmdb.org/marker.asp?marker=21933 The Historical Marker Database:  Matthew Fontaine Maury: Maury House Trail].</ref>
+
+==Publications==
+[[File:Rear map.jpg|thumb|right|First printed map of oceanic [[bathymetry]], published by Maury in ''Explanations'' with data from [[USS Dolphin (1836)]]]]
+*''On the Navigation of Cape Horn''
+*Whaling Charts
+*Wind and Current Charts
+*Sailing Directions
+*{{cite book| archiveurl= https://web.archive.org/web/19990203095704/http://www.cstone.net/~wmm/MAURY/mfmhonor.htm | url= http://www.cstone.net/~wmm/MAURY/mfmhonor.htm| archivedate= February 3, 1999| title= US Navy Contributions to Science and Commerce |year= 1847| access-date=}}
+*Explanations and Sailing Directions to Accompany the Wind and Current Charts, 1851, 1854, 1855
+*Lieut. Maury's Investigations of the Winds and Currents of the Sea, 1851
+*On the Probable Relation between Magnetism and the Circulation of the Atmosphere, 1851
+*''Maury's Wind and Current Charts: Gales in the Atlantic'', 1857
+*{{cite book| url= https://books.google.com/books?id=hlxDAAAAIAAJ&dq=Matthew+Fontaine+Maury&as_brr=1| title= The Physical Geography of the Sea| publisher= Harper & Brothers| edition= 1858 | year= 1855| via= Google Books}}
+*Observations to Determine the Solar Parallax, 1856
+*''Amazon, and the Atlantic Slopes of South America'', 1853
+*Commander M. F. Maury on American Affairs, 1861
+*''The Physical Geography of the Sea and Its Meteorology'', 1861
+*''Maury's New Elements of Geography for Primary and Intermediate Classes''
+*Geography: "First Lessons"
+*''Elementary Geography: Designed for Primary and Intermediate Classes''
+*Geography: "The World We Live In"
+*Published Address of Com. M. F. Maury, before the Fair of the Agricultural & Mechanical Society
+*Geology: A Physical Survey of [[Virginia]]; Her Geographical Position, Its Commercial Advantages and National Importance, [[Virginia Military Institute]], 1869
+
+==See also==
+{{Portal|Earth sciences|Atlas|Virginia}}
+*[[National Institute for the Promotion of Science]]
+*[[Oceanography#Notable oceanographers|Notable global oceanographers]]
+*[[Bathymetric chart]]
+
+==Sources==
+* ''[[Flying Cloud (clipper)|Flying Cloud]]'' – An 1851 true story of America's most famous clipper ship that raced other ships from New York, around Cape Horn, to San Francisco by using both Maury's ''Wind and Current Charts'' and his ''Sailing Directions''. The clipper ship, Flying Cloud, was captained by [[Josiah Perkins Creesy]] and navigated by his wife, [[Eleanor Creesy]], who was the first person to navigate around Cape Horn by using the new route laid down by then-Lieutenant Matthew Fontaine Maury, of the National Observatory, at Washington. She used Maury's ''Sailing Directions'' and ''Winds and Currents''. She gained and held the 89-day speed record of that route for decades. The old route was usually more than 100 days from New York, around the dangerous Cape Horn at the tip of South America and then onward to San Francisco. Source: ''Flying Cloud'' by David W. Shaw (copyright) 2001. {{ISBN|0-06-093478-6}} (pbk.) and ''Physical Geography of the Sea'' (1855) by Matthew Fontaine Maury.
+* ''[[Physical Geography]] of the Sea'' by Matthew Fontaine Maury 1855.
+* ''Physical Geography of the Sea and its [[Meteorology]]'' by Matthew Fontaine Maury (1861).
+* ''Wind and [[Ocean current|Current]] Charts'' by Matthew Fontaine Maury
+* ''[[Sailing Directions]]''  by Matthew Fontaine Maury
+*[https://www.amazon.com/Sky-Ocean-Joined-Observatory-1830-2000/dp/0521815991] ''Sky and Ocean Joined—The U.S. Naval Observatory 1830–2000'' by Steven J. Dick (2003) ("The Maury Years" 1844–1861)
+* ''The Pathfinder of the Seas, The Life of Matthew Fontaine Maury'', by John W. Wayland, (1930). Professor Wayland writes, in the back of the book, under ''Chronology'', that ''in 1916 the Virginia legislature created a law whereby "Maury Day " "..would be celebrated in all Virginia schools"'' (and it was); but it has been abandoned for unknown reasons.
+* ''Tracks in the sea: Matthew Fontaine Maury and the Mapping of the Oceans'' by Chester G. Hearn (Camden, Maine: International Marine, 2002) {{ISBN|0-07-136826-4}}
+* ''[[Prophet Without Honor]]'' a 1939 [[Academy Award]]-nominated short film biography of Matthew Fontaine Maury
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikisource author}}
+{{Commons category|Matthew Fontaine Maury}}
+{{Wikisource}}
+*{{Internet Archive author |sname=Matthew Fontaine Maury}}
+*{{webarchive |url=https://web.archive.org/web/19990203095704/http://www.cstone.net/~wmm/MAURY/mfmhonor.htm |date=February 3, 1999 |title=Images of Maury's medals and letters }}. 1996 website retrieved via the [[Wayback Machine|Wayback]] Search Engine
+*[http://www.cbn.com/CBNnews/141284.aspx CBNnews VIDEO on Commander Matthew Fontaine Maury "''The Father of Modern Oceanography''"]
+*[https://web.archive.org/web/20061002203002/https://www.navo.navy.mil/pa/library.htm Naval Oceanographic Office—Matthew Fontaine Maury Oceanographic Library&nbsp; — The World's Largest Oceanographic Library].
+*[https://web.archive.org/web/20070930130602/http://www.mfmnscc.com/ United States Naval Sea Cadet Corps&nbsp;— Matthew Fontaine Maury&nbsp;— Pathfinders Division].
+*[http://www.ametsoc.org/amsedu/mauryframes.html The Maury Project; A comprehensive national program of teacher enhancement based on studies of the physical foundations of oceanography].
+*[http://www.mariner.org/membership/join/MatthewFM.php The Mariner's Museum: Matthew Fontaine Maury Society].
+*[https://web.archive.org/web/20110902105031/http://william-morris.net/Maury-Adams/ Letter to President John Quincy Adams from Commander Matthew Fontaine Maury (1847)] on the "National" [[United States Naval Observatory]] regarding a written description of the observatory, in detail, with other information relating thereto, including an explanation of the objects and uses of the various instruments.
+*[http://william-morris.net/1849/ The National (Naval) Observatory and The Virginia Historical Society] (May 1849)
+*[http://www.history.navy.mil/branches/teach/ends/maury.htm Biography of Matthew Fontaine Maury] at [[Naval Historical Center|U.S. Navy Historical Center]].
+*[http://thehouseoncarolinestreet.blogspot.com/2007/12/diary-of-betty-herndon-maury-june-3.html The Diary of Betty Herndon Maury], daughter of Matthew Fontaine Maury, 1861–1863.
+*[https://images.google.com/hosted/life/l?q=Maury,+Matthew+F.+source:life&prev=/images%3Fq%3DMaury,%2BMatthew%2BF.%2Bsource:life%26hl%3Den&imgurl=aa6839d8d3dd9b24 Matthew Fontaine Maury School in Richmond, Virginia, USA, 1950s]. Photographer: Nina Leen. Approximately 200 TIME-LIFE photographs
+*[https://web.archive.org/web/20110724131251/http://william-morris.net/Observatory/ Astronomical Observations from the Naval Observatory 1845].
+*Obituary in: {{Cite PSM|wstitle=Obituary|month-and-year=April 1873|volume=2 |short=x}}
+*[http://collections.lib.uwm.edu/cdm4/results.php?CISOOP1=all&CISOBOX1=maury%20wind%20and%20current%20charts&CISOFIELD1=CISOSEARCHALL&CISOOP2=exact&CISOBOX2=&CISOFIELD2=CISOSEARCHALL&CISOOP3=any&CISOBOX3=&CISOFIELD3=CISOSEARCHALL&CISOOP4=none&CISOBOX4=&CISOFIELD4=CISOSEARCHALL&CISOROOT=/agdm&t=a Sample charts by Maury held the American Geographical Society Library, UW Milwaukee] in the digital map collection.
+
+{{Maury family tree}}
+{{University of Alabama presidents}}
+{{Hall of Fame for Great Americans}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Maury, Matthew Fontaine}}
+[[Category:Matthew Fontaine Maury|*]]
+[[Category:1806 births]]
+[[Category:1873 deaths]]
+[[Category:American astronomers]]
+[[Category:American earth scientists]]
+[[Category:American educators]]
+[[Category:American geographers]]
+[[Category:American oceanographers]]
+[[Category:American people of Dutch descent]]
+[[Category:American people of French descent]]
+[[Category:American Protestants]]
+[[Category:American science writers]]
+[[Category:Microscopists]]
+[[Category:People from Spotsylvania County, Virginia]]
+[[Category:People of Virginia in the American Civil War]]
+[[Category:Science and technology in the United States]]
+[[Category:United States Navy officers]]
+[[Category:Writers from Virginia]]
+[[Category:Hall of Fame for Great Americans inductees]]
+[[Category:Maury family of Virginia]]
+[[Category:People from Franklin, Tennessee]]
+[[Category:United States Navy]]

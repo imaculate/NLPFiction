@@ -1,0 +1,58 @@
+{{Short description|American painter}}
+{{Infobox artist
+| bgcolour      = #6495ED
+| name          = Jean Leon Gerome Ferris
+| image         = The First Thanksgiving cph.3g04961.jpg
+| imagesize     = 
+| caption       = ''The First Thanksgiving 1621''
+| birth_name     = 
+| birth_date     = {{Birth date |1863|8|18|}}
+| birth_place      = [[Philadelphia]], [[Pennsylvania]]
+| death_date     = {{death date and age |1930|3|18|1863|8|18}}
+| death_place    = Philadelphia, Pennsylvania
+| nationality   = [[United States|American]] 
+| field         = [[Painting]]
+| training      = [[Pennsylvania Academy of the Fine Arts]]
+| movement      = 
+| works         = 
+| patrons       = 
+| influenced by = [[Christian Schussele]], [[Jean-Léon Gérôme]]
+| influenced    =
+| awards        = 
+}}
+'''Jean Leon Gerome Ferris''' (August 18, 1863 &ndash; March 18, 1930<ref>{{cite web | url=http://www.sgipt.org/politpsy/usa/kuk/paint/ferris.htm | title=J.L.G. Ferris (1863-1930) | publisher=Allgemeine und Integrative Psychotherapie | first=Rudolf | last=Sponsel | accessdate=2010-08-01|language=de}}</ref>) was an [[United States|American]] [[Painting|painter]] best known for his series of 78 scenes from American history, entitled ''The Pageant of a Nation'', the largest series of American historical paintings by a single artist.<ref name="nuhn">{{cite web | url=http://antiqueshoppefl.com/archives/rnuhn/ferris.htm | title=J. L. G. Ferris | first=Roy | last=Nuhn | publisher=The Antique Shoppe Newspaper | date=April 2007 | accessdate=2010-08-01}}</ref>
+
+==Life and career==
+
+Ferris was born in [[Philadelphia]], [[Pennsylvania]], the son of Stephen James Ferris, a portrait painter who was a devotee of [[Jean-Léon Gérôme]] (after whom he was named) and also an admirer of [[Mariano Fortuny (painter)|Mariano Fortuny]].<ref name="si">{{cite web | url=http://americanhistory.si.edu/prints/06ferrc.htm | title=The Ferris Collection | work=Building a National Collection | publisher=[[Smithsonian Institution]] | accessdate=2010-08-01}}</ref> He grew up around art; he was trained by his father<ref name="nuhn"/> and his uncles [[Edward Moran]] and [[Thomas Moran]] were both acclaimed painters.<ref name="mitnick">{{cite book | title=Picturing History: American Painting 1770&ndash;1930 | chapter=Paintings for the People | first=Barbara J. | last=Mitnick | editor=Ayres, William | publisher=[[Rizzoli International Publications]] | year=1993 | isbn=0-8478-1745-8 | pages=167&ndash;8}}</ref>
+
+Ferris enrolled in the [[Pennsylvania Academy of the Fine Arts]] in 1879 and trained further at the [[Académie Julian]] beginning in 1883 under [[William-Adolphe Bouguereau]].<ref name="nuhn"/> He also met his namesake [[Jean-Léon Gérôme]], who greatly influenced his decision to paint scenes from American history. Ferris wrote, "[Gérôme's] axiom was that one would paint best that with which he is most familiar".<ref name="mitnick"/>
+
+His early subjects were [[Orientalism|Orientalist]] in nature since that movement was in vogue when he was young. In 1882, he exhibited a painting entitled ''Feeding the Ibis'' which was valued at $600.<ref name="ackerman">{{cite book | title=American Orientalists | first=Gerald M. | last=Ackerman | publisher=ACR Edition | year=1994 | isbn=2-86770-078-7 | pages=82&ndash;3 | url=https://books.google.com/books?id=onraQlj_C7wC&pg=PA82 }}</ref> By 1895, he had gained a reputation as a historical painter, and he embarked on his dream of creating a series of paintings that told a historical narrative. In 1898, he sold ''General Howe's Levee, 1777'', but he later realized that such a series could not be complete if the separate paintings could not be kept together. Consequently, he never sold another, but he did sell the reproduction rights to various publishing companies. This had the effect of greatly popularizing his work, as these companies made prints, postcards, calendars, and blank-backed trade cards to use in advertisements. Laminated cards of these works were still being sold as late as 1984.<ref name="nuhn"/>
+
+Ferris married Annette Amelia Ryder in 1894, and the couple had a daughter named Elizabeth Mary.<ref>{{cite book | title=The National cyclopaedia of American biography, Volume 13 | publisher=J. T. White Co. | year=1906 | page=403 | url=https://books.google.com/books?id=THRMAAAAYAAJ&pg=PA403&dq=jean+leon+gerome+ferris&hl=en&ei=fBhVTIXtKImWsgOcltDaAg&sa=X&oi=book_result&ct=result&resnum=10&ved=0CF4Q6AEwCTgo#v=onepage&q=jean%20leon%20gerome%20ferris&f=false}}</ref> He died in Philadelphia in 1930.
+
+[[File:The Landing of William Penn cph.3g12141.jpg|thumb|''The Landing of William Penn'']]
+The paintings showed idealized portrayals of famous moments from American history. The complete series was shown at [[Independence Hall]] in Philadelphia from 1913 to 1930, then moved next door to [[Congress Hall]]. In later years, it was shown in a number of locations, including the [[Smithsonian Institution]], before being returned to the Ferris family.<ref name="ackerman"/> His works were widely popular for many years, but modern critics are far less generous in their praise. The [[American Philosophical Society]] claims that his historical paintings confuse "verity with verisimilitude",<ref>{{cite book | title=History of the portrait collection, Independence National Historical Park | first=Doris Devine | last=Fanelli |author2=Diethorn, Karie | publisher=[[American Philosophical Society]] | year=2001 | isbn=0-87169-242-2 | page=55 | url=https://books.google.com/books?id=9D2iAQEAc30C&pg=PA55&dq=jean+leon+gerome+ferris&hl=en&ei=4RJVTOzAB4-osQOunJDjCw&sa=X&oi=book_result&ct=result&resnum=7&ved=0CE8Q6AEwBjgU#v=onepage&q=jean%20leon%20gerome%20ferris&f=false}}</ref> and art historian Gerald Ackerman describes them as "splendid in the accuracy of accessories, clothing and especially in the details of land conveyances and ships", but "extremely dry in execution and rather monotonous in composition."<ref name="ackerman"/>
+
+==See also==
+* [[List of Orientalist artists]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Commonscat-inline}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ferris, Jean Leon Gerome}}
+[[Category:1863 births]]
+[[Category:1930 deaths]]
+[[Category:19th-century American painters]]
+[[Category:20th-century American painters]]
+[[Category:Alumni of the Académie Julian]]
+[[Category:American male painters]]
+[[Category:Artists from Philadelphia]]
+[[Category:Orientalist painters]]
+[[Category:Pennsylvania Academy of the Fine Arts alumni]]

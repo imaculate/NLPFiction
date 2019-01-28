@@ -1,0 +1,87 @@
+[[File:Franklin stove.jpg|right|thumb|250px|A Franklin stove]]
+
+The '''Franklin stove''' is a metal-lined [[fireplace]] named after [[Benjamin Franklin]], who invented it in 1741.<ref>L.W. Labaree, W. Bell, W.B. Willcox, et al., eds., ''The Papers of Benjamin Franklin'' (New Haven, Connecticut:  Yale University Press, 1959–1986), vol. 2, page 419.</ref>  It had a hollow [[Baffle (in vessel)|baffle]] near the rear (to transfer more heat from the fire to a room's air) and relied on an "inverted siphon" to draw the fire's hot fumes around the baffle.<ref>Samuel Y. Edgerton, Jr., "Supplement:  The Franklin Stove" in I. Bernard Cohen, ''Benjamin Franklin's Science'' (Cambridge, Massachusetts:  Harvard University Press, 1990) , pages 204–206.</ref>  It was intended to produce more heat and less smoke than an ordinary open fireplace, but it achieved few sales until it was improved by [[David Rittenhouse]].  It is also known as a "circulating stove" or the "Pennsylvania fireplace".
+
+==History==
+The two distinguishing features of Franklin's stove were a hollow [[Baffle (in vessel)|baffle]] (a metal panel that directed the flow of the fire's fumes) and a flue that acted as an upside-down [[siphon]].
+[[File:Franklin stove, cross-sectional diagram.jpg|thumb|The Franklin stove. Cool air enters the baffle through a duct under the floor. Smoke exits through a U-shaped duct in the floor.]]
+
+===Baffles in fireplaces===
+
+Baffles were used to lengthen the path that either a room's air or a fire's fumes had to flow through ductwork, thereby allowing more heat to be transferred to the room's air or from the fire's fumes.  Specifically, ducts could be installed within the brickwork around a hearth; cool room air would then enter the lower end of a duct, be heated by the hot walls of the duct, rise, and finally exit from the duct's upper end and return to the room.  The longer the path through which the air flowed, the more heat would be transferred from the fire to the air.  Similarly, the longer the duct through which a fire's fumes had to flow before reaching the chimney, the more heat would be transferred from the fumes to the room's air.
+
+The use of baffles to extract more heat from a fire and its fumes was not new.  In 1618, [[Franz Kessler]] (c. 1580–1650) of Frankfurt-am-Main, Germany published ''Holzsparkunst'' (''The Art of Saving Wood''), featuring a stove in which the fumes from a fire were forced to snake through five chambers, one above the other, before entering the chimney.<ref>Franz Kessler, ''Holzsparkunst'' [The Art of Saving Wood] (Frankfurt am Main, (Germany):  Anthoni Hummen, 1618), [https://books.google.com/books?id=EjpAAAAAcAAJ&pg=PA72#v=onepage&q&f=false pages 72] and [https://books.google.com/books?id=EjpAAAAAcAAJ&pg=PA80#v=onepage&q&f=false 80].<br>
+Reprinted in French as: François Keslar, ''Épargne bois, c'est à dire, nouvelle et par ci-devant non commune, ni mise en lumiere, invention de certains et divers fourneaux artificiels, etc....'' [Wood Saver, that is, the new and hitherto neither commonplace nor well-known invention of some and various fireplaces, etc....] (Oppenheim, Germany: Jean-Théodore de Bry, 1619).</ref>  Kessler also documented an enclosed heating stove that, like Franklin's stove, had a baffle directly behind the fire, thereby lengthening the path that the fire's fumes had to travel before reaching the chimney.<ref>Kessler, 1618; page 69, figure 25.</ref>
+
+In 1624, a French physician, Louis Savot (1579–1640), described a fireplace that he had built in the [[Musée du Louvre|Louvre]].  Ducts passed under, behind, and above the fire in the hearth.  Cool air in the room entered the lower opening of a duct, was warmed, rose, and returned to the room through the duct's upper opening.<ref>Louis Savot, ''L'Architecture Françoise des Bastimens particuliers'' [The French Architecture of Private Houses] (1642 ed.) (Paris, France:  Sébastien Cramoisy, 1624), [https://books.google.com/books?id=raA5AAAAcAAJ&pg=PA147&lpg=PA147#v=onepage&q&f=false Chapter 25 (pages 147–151)].  Cited in:  Tomlinson (1864), pages 82–83.</ref>  In 1713, Frenchman Nicolas Gauger (c. 1680–1730) published a book, ''La Mécanique du Feu'' (The Mechanics of Fire), in which he presented novel designs for fireplaces. Gauger surrounded the hearth with hollow spaces.  Inside these spaces were baffles.  Cool room air entered the spaces through lower openings, was warmed as it snaked around the baffles in the spaces, and returned to the room through upper openings.<ref>Nicolas Gauger, [https://books.google.com/books?id=hDA7AAAAcAAJ&printsec=frontcover#v=onepage&q&f=false ''La Mécanique du Feu''...] (Paris, France:  1713).  Cited in:  Tomlinson (1864), pages 88–94; see especially page 92.</ref>
+
+In Franklin's stove, a hollow baffle was positioned inside and near the rear of the stove.  The baffle was a wide but thin cast-iron box, which was open to the room's air at its bottom and at two holes on its sides, near its top.  Air entered the bottom of the box and was heated both by the fire and by the fumes flowing over the front and back of the box.  The warmed air then rose inside the baffle and exited through the holes in the baffle's sides.<ref>Edgerton (1990), page 206</ref>  Franklin’s baffle thus performed at least two functions: like Kessler's heating stove, it lengthened the path that the fire's fumes had to follow before reaching the chimney, allowing more heat to be extracted from the fumes; and like Gauger's fireplace, it placed a duct near the fire, which heated the room's air via convection.
+
+===Inverted siphons in fireplaces===
+
+Some early experimenters reasoned that if a fire in a fireplace were connected by a U-shaped duct to the chimney, the hot gases ascending through the chimney would draw the fire's smoke and fumes first downwards through one leg of the U and then upwards through the other leg and the chimney.  This was what Franklin called an "aerial syphon" or "syphon revers'd".<ref>Edgerton (1990), page 204.</ref>  This inverted siphon was used to draw the fire's hot fumes up the front and down the back of the Franklin stove's hollow baffle, in order to extract as much heat as possible from the fumes.
+
+The earliest known example of such an inverted siphon was the 1618 fireplace of Franz Kessler.<ref>Franz Kessler, ''Holzsparkunst'' [The Art of Saving Wood] (Frankfurt am Main, (Germany):  Anthoni Hummen, 1618), [https://books.google.com/books?id=EjpAAAAAcAAJ&pg=PA69#v=onepage&q&f=false page 69, figure 25]; the heater is described on page 59.  Kessler's illustration of an inverted siphon is reproduced in:  Figure CLIV on [https://books.google.com/books?id=YzhLAAAAYAAJ&pg=177#v=onepage&q&f=false page 177] of Walter Bernan, ''On the History and Art of Warming and Ventilating Rooms and Buildings''... (London, England:  George Bell, 1845), volume 2.</ref>  The fire burned in a ceramic box.  Inside the box and behind the fire was a baffle.  The baffle forced the fire's fumes to descend behind the baffle before exiting to the chimney.  The intention was to extract as much heat as possible from the fumes by extending the path that the fumes had to follow before they reached the chimney.
+
+The 1678 fireplace of [[Prince Rupert of the Rhine|Prince Rupert]] (1619–1682) also included an inverted siphon.  Rupert placed a hanging iron door between the fire grate and the chimney.  In order to exit through the chimney, the fire's fumes and smoke first had to descend below the edge of the door before rising through the chimney.<ref>Charles Tomlinson, ''A Rudimentary Treatise on Warming and Ventilation'' ... , 3rd ed. (London, England: Virtue Brothers & Co., 1864), [https://books.google.com/books?id=rjZGAAAAYAAJ&pg=PA85#v=onepage&q&f=false pages 85–86].</ref>
+
+Another early example of an inverted siphon was a stove that was exhibited in 1686 at the annual [[Théâtre de la foire#Foire Saint-Germain | Foire Saint-Germain, Paris]].  Its inventor, André Dalesme (1643–1727), called it a smokeless stove (''furnus acapnos'').  The stove consisted of an iron bowl in which the fuel was burned.  A pipe extended from the bowl's bottom and then upwards into a chimney.  Shortly after starting a fire in the bowl, hot air would begin to rise through the pipe and then up the chimney; this created a downward draft through the bowl, which drew the fire and its fumes down into the bowl.  Once the draft was initiated, it was self-sustaining as long as the fire burned.<ref>See:
+#  Tomlinson (1864), pages 86–87.
+#  John Pickering Putnam, ''The Open Fire-place in All Ages'' (Boston, Massachusetts:  James R. Osgood and Co., 1881), [https://books.google.com/books?id=8EdGAAAAMAAJ&pg=PA38&lpg=PA38#v=onepage&q&f=false pages 38–39].
+#  "Mr. Justell" ([[Henri Justel]]) (10 March 1686) "An account of an engine that consumes smoak, shown lately at St. Germans fair in Paris," ''Philosophical Transactions of the Royal Society of London'', vol. 16, [https://books.google.com/books?id=Quwzyb98bvsC&pg=RA1-PA78&lpg=RA1-PA78 page 78].
+#  Anon. (1686) "Machine qui consume la fumée, de l'invention du Sieur Dalesme" (Machine which consumes smoke, on the invention of Mr. Dalesme), ''Journal des Savants'', vol. 14, [https://books.google.com/books?id=mmEz05Ci0LoC&pg=PA116&lpg=PA116#v=onepage&q&f=false pages 116–119].
+#Herman Boerhaave, ''Elementa chemiae'' (The Elements of Chemistry), 2nd ed. (Paris, France:  Guillaume Cavelier, 1733), vol. 1, pages 163–164 and [https://books.google.com/books?id=MgqZZRfpN1QC&pg=PP184#v=onepage&q&f=false illustrations on preceding plate] (in Latin).
+#  Franklin (1786), page 57.</ref>  Dalesme's stove could burn wood, incense, and even "coal steept in cats-piss" yet produce very little smoke or smell.<ref>Justel (1686), page 78.</ref><ref>A German, Johann Georg Leutmann, claimed to have invented Dalesme's stove earlier; however, Leutmann's design appears to be unworkable.  See:
+*  Putnam (1881), page 39.
+*  Johann Georg Leutmann, ''Vulcanus Famulans oder Sonderbahre Feuer-Nutzung''... (Würtemberg, Germany:  Zimmermann, 1720).  In the 1755 (4th) edition of Leutmann's book, see [https://books.google.com/books?id=I5A-AAAAcAAJ&pg=PA62#v=onepage&q&f=false page 62] (Von den unter sich treibenden Trag-Ofen (On the portable heater that drives [smoke] downwards)) and the illustration on [https://books.google.com/books?id=I5A-AAAAcAAJ&pg=PA169#v=onepage&q&f=false page 169, Fig. 2].
+*  Franklin (1786), pages 58–60.
+*  The Franklin Stove: [https://www.jstor.org/stable/3907033 "A Classic Invention"], ''The Science News-Letter''. Vol. 20, No. 548 (Oct. 10, 1931). p. 230.</ref> These results showed that fires could be used inside a room, without filling the house with smoke.
+
+Franklin's stove contained a baffle directly behind the fire, which forced the fire's fumes to flow downward before they reached the chimney.  This required a U-shaped duct in the floor behind the stove, so that the fumes could flow from the stove into the chimney.  Thus Franklin's stove incorporated an inverted siphon.
+
+===Franklin's research and development===
+
+Gauger's book on his innovative fireplace designs was translated into English – ''Fires Improv'd:  Being a New Method of Building Chimneys, So as to Prevent their Smoaking'' (1715) – by a French immigrant to England, [[John Theophilus Desaguliers|Jean Théophile Desaguliers]] (1683–1744).  In a postscript to Desaguliers' book ''A Course in Experimental Philosophy'' (1744), Desaguliers again briefly described Gauger's fireplaces and mentioned his own work on the subject.<ref>J.T. Desaguliers, ''A Course of Experimental Philosophy'', vol. 2  (London, England:  1744), [https://books.google.com/books?id=g5MPAAAAQAAJ&pg=PA556&lpg=PA556#v=onepage&q&f=false pages 556–561].</ref>  Franklin read both of Desaguliers' books<ref>Edgerton (1990), page 203.</ref> and developed his own designs for a stove that could provide more heat with less smoke.
+
+In 1742, Franklin finished his first design which implemented new scientific concepts about heat which had been developed by the Dutch physician [[Herman Boerhaave]] (1668–1738), a proponent of Isaac Newton's ideas.<ref>Edgerton (1990), page 201.</ref>  Two years later, Franklin wrote a pamphlet describing his design and how it operated in order to sell his product.<ref>Franklin, Benjamin, An Account of the new Invented Pennsylvanian Fire-Places. Philadelphia, Franklin, 1744. pp. 1–42</ref> Around this time, the deputy governor of Pennsylvania, George Thomas, made an offer to Franklin to patent his design, but Franklin never patented any of his designs and inventions. He believed “that as we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours, and this we should do freely and generously”.<ref>[[Raymond Seeger|Seeger, Raymond John]], and Benjamin Franklin. ''Benjamin Franklin, New World Physicist'', Oxford: Pergamon, 1973. {{ISBN|0-08-017648-8}} p. 159</ref> As a result, many others were able to use Franklin’s design and improve it. Although his stove was intended to have the double purpose of cooking and heating a room, as time progressed and new stove designs became available, the Franklin stove’s main use became to heat a room. Many others improved on the Franklin stove design, but to this day, most American fireplaces are box-shaped, similar to the Franklin stove. The exception is the [[Rumford fireplace]], developed by Benjamin Thompson.
+
+==Stove design==
+The stove was about 30 inches (76 cm) tall, with a box shape. The front was open, except for a decorative panel in the upper part of the box. The back of the box was to be placed a few inches away from the flue (chimney). On the bottom panel there were several holes to allow the smoke to escape; these were connected to the chimney. The panels were bolted together with iron screws through pre-cast ears.<ref>Cohen, I. Bernard, and Samuel Y. Edgerton, Jr. [https://books.google.com/books?id=pKz2RvwGb38C&pg=PA204 Benjamin Franklin's Science]. Cambridge, MA: Harvard UP, 1996. {{ISBN|0-674-06659-6}} pp. 205–206.</ref> Inside there was a small, thin rectangular prism that would force the smoke into the holes. The plates were all made from iron.{{Citation needed|date=January 2012}}
+
+Franklin's stove sold poorly.<ref>Edgerton (1990), pages 207-208.</ref> The problem lay with the inverted siphon: the smoke had to pass through a cold flue (which was set in the floor) before the smoke could enter the chimney; consequently, the smoke cooled too much and the stove did not have a good draft.<ref>Edgerton (1990), page 209.</ref> The inverted siphon would operate properly only if the fire burned constantly, so that the temperature in the flue was high enough to produce a draft.
+
+A later version, designed by [[David Rittenhouse]], solved many of the problems Franklin's original stove had, and became popular.  Franklin's fame outweighed Rittenhouse's, though, so history remembers the Franklin Stove rather than the Rittenhouse Stove.<ref>{{cite web|url=http://www.woot.com/blog/post/the-debunker-did-benjamin-franklin-invent-the-franklin-stove?ref=cnt_cmty_blg_tl|title=The Debunker: Did Benjamin Franklin Invent the Franklin Stove?|publisher=}}</ref> The smaller [[Latrobe stove]], often referred to as a Baltimore Heater, was patented in 1846 and became popular.
+
+==See also==
+{{div col|colwidth=30em}}
+*[[Air-tight stove]]
+*[[Angithi]]
+*[[Bukhari (heater)]], traditional Indian wood stove
+*[[Rocket mass heater]]
+*[[Rumford fireplace]]
+*[[Space heater]]
+*[[Wood-burning stove]]
+*[[Robert Grace]]
+
+{{div col end}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+*Franklin, Benjamin, [https://books.google.com/books?id=l1c-AAAAYAAJ&pg=RA2-PA543&lpg=RA2-PA543#v=onepage&q&f=false Description of a New Stove for Burning of Pitcoal, and Consuming All Its Smoke]. Transactions of the American Philosophical Society. Vol. 2, (1786), pp.&nbsp;57–74. American Philosophical Society.
+*Rogers, Jr. et al.. Franklin Stove. {{US patent|3213846}}. 26 Oct. 1965.
+*Franklin, Benjamin. [http://www.earlyamerica.com/lives/franklin/ "The Autobiography of Benjamin Franklin."] Archiving Early America: Primary Source Material from 18th Century America. Web. 14 Nov. 2010.
+
+==External links==
+* [https://web.archive.org/web/20090331081747/http://web.mit.edu/invent/iow/franklin.html The Franklin stove at the Lemelson-MIT Program]
+* [http://www.ideafinder.com/history/inventions/frankstove.htm The Franklin Stove at The Great Idea Finder]
+*[http://www.uh.edu/engines/frbook8.jpg Image of a Franklin Stove]. [[University of Houston]].
+*[http://www.hmdb.org/marker.asp?marker=51340 Warwick Furnace, Chester County, PA 1st maker of the Franklin Stove – HMdb Marker]
+{{Benjamin Franklin}}
+
+{{DEFAULTSORT:Franklin Stove}}
+[[Category:American inventions]]
+[[Category:1742 introductions]]
+[[Category:Inventions by Benjamin Franklin]]
+[[Category:Fireplaces]]

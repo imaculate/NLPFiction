@@ -1,0 +1,131 @@
+{{about|the museum and historic site in Downtown Crossing|the United Church of Christ church at Copley Square|Old South Church}}
+{{Use mdy dates|date=May 2012}}
+{{Infobox NRHP | name =Old South Meeting House
+  | nrhp_type = nhl
+  | image = Old South Meetinghouse BW.jpg
+  | caption = The Old South Meeting House, 1968
+  | alt=On a city street, an old brick church with a tall steeple is flanked by modern buildings.
+  | location= Boston, Massachusetts
+  | coordinates = {{coord|42|21|25|N|71|3|31|W|display=inline,title}}
+| locmapin = Boston#Massachusetts#USA
+  | area =
+  | built =1729
+| architect= Twelves, Robert
+| architecture= Georgian
+|designated_nrhp_type=October 9, 1960
+ | added = October 15, 1966
+ | governing_body = Private
+ | refnum=66000778<ref name="nris">{{NRISref|2007a}}</ref>
+}}
+
+The '''Old South Meeting House''' is a historic [[Congregationalism in the United States|Congregational]] church building located at the corner of [[Milk Street, Boston|Milk]] and [[Washington Street (Boston)|Washington Street]]s in the [[Downtown Crossing]] area of [[Boston, Massachusetts]], built in 1729. It gained fame as the organizing point for the [[Boston Tea Party]] on December 16, 1773. Five thousand or more colonists<ref>John Galvin puts that number as high as 8,000 (''Three Men of Boston'', New York: Thomas Cromwell, 1976, p. 268).</ref> gathered at the Meeting House, the largest building in Boston at the time.
+
+==History==
+
+===Church (1729–1872)===
+The church was completed in 1729, with its 56&nbsp;m (183&nbsp;ft) steeple. The congregation was gathered in 1669 when it broke off from [[First Church of Boston]], a [[Congregationalism in the United States|Congregational]] church founded by [[John Winthrop]] in 1630. The site was a gift of Mrs. Norton, widow of [[John Norton (Puritan divine)|John Norton]], pastor of the [[First Church in Boston]].<ref>{{cite book |title= The Pilgrims of Boston and their Descendants|last=Bridgeman |first=Thomas |year= 1856|publisher=D. Appleton and Company |location=New York |isbn= |pages= 54–58|url=https://books.google.com/books?id=oPQWAAAAYAAJ&printsec=frontcover&dq=the+pilgrims+of+boston |accessdate=April 29, 2009 }}</ref> The church's first pastor was Rev. Thomas Thatcher, a native of [[Salisbury]], England. Thatcher was also a physician and is known for publishing the first medical tract in Massachusetts.
+
+[[Image:2010 OldSouth Boston 4602722461.jpg|left|thumb|100px|Interior of Old South, 2010]]
+
+After the [[Boston Massacre]] in 1770, yearly anniversary meetings were held at the church until 1775, featuring speakers such as [[John Hancock]] and [[Dr. Joseph Warren]]. In 1773, 5,000 people met in the Meeting House to debate British taxation and, after the meeting, a group raided three tea ships anchored nearby in what became known as the [[Boston Tea Party]].
+
+In 1775, the British occupied the Meeting House due to its association with the Revolutionary cause. They gutted the building, filled it with dirt, and then used the interior to practice horse riding. They destroyed much of the interior and stole various items, including [[William Bradford (Plymouth governor)|William Bradford]]'s [[Of Plymouth Plantation]] (1620), a unique Pilgrim manuscript hidden in Old South's tower.  After the British evacuated Boston, the plan for rebuilding the interior of the church was drawn by [[Thomas Dawes]].<ref>Eckley, Joseph.  "Obituary: Sketch of the Character of the Late Hon. Thomas Dawes, Esq.," 1809, Boston Athenaeum Library, Tracts B438, B1213.</ref>
+
+Old South Meeting House was almost destroyed in the [[Great Boston Fire of 1872]], saved by the timely arrival of a fire engine from Portsmouth, New Hampshire, but the fire caused the city's residential districts to shift toward the Back Bay, away from the church.  The congregation then built a new church building (the "New" [[Old South Church]] at [[Copley Square]]) which remains its home to this day. The Old South congregation returns to Old South Meeting House for services in its ancestral home once a year, on the Sunday before [[Thanksgiving]].
+[[File:USA-Old South Meeting House0.jpg|thumb|Old South Meeting House]]
+[[File:USA-Old South Meeting House.jpg|thumb|Old South Meeting House]]
+
+====Ministers====
+* Thomas Thacher (1620–1678), minister 1670–1678<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-n85-311869 Thacher, Thomas 1620-1678]</ref>
+* [[Samuel Willard]] (1640–1707), minister 1678–1707<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-n50-17065 Willard, Samuel 1640-1707]</ref>
+* Ebenezer Pemberton (1672–1717), minister 1700–1717<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-n85-144029 Pemberton, Ebenezer 1672-1717]</ref>
+* Joseph Sewall (1688–1769), minister 1713–1769<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-n85-352301 Sewall, Joseph 1688-1769]</ref>
+* [[Thomas Prince]] (1687–1758), minister 1718–1758<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-n85-67265 Prince, Thomas 1687-1758]</ref>
+* Alexander Cumming (1726–1763), minister 1761–1763<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-n85-9125 Cumming, A. (Alexander) 1726-1763]</ref>
+* [[Samuel Blair (chaplain)|Samuel Blair]] (1741–1818), minister 1766-1769<ref>Cyclopaedia of Biblical, theological, and ecclesiastical literature. 1894</ref><ref name=AAS1>{{cite book|last1=Weis|first1=Frederick Lewis|title=Colonial Clergy of the Middle Colonies, New York, New Jersey, and Pennsylvania 1628-1776|publisher=[[American Antiquarian Society]]|url=http://www.americanantiquarian.org/proceedings/44539283.pdf}}</ref>
+* John Bacon (b.1737), minister 1772–1775<ref>New England historical & genealogical register, v.26. 1872</ref>
+* Joseph Eckley (1750–1811), minister 1779–1811<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-n85-28256 Eckley, Joseph 1750-1811]</ref>
+* [[Joshua Huntington]] (1786–1819), minister 1808–1819<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-nr2002-44724 Huntington, Joshua 1786-1819]</ref>
+* Benjamin B. Wisner (1794–1835), minister 1821–1832<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-nr91-14565 Wisner, Benjamin B. (Benjamin Blydenburg) 1794-1835]</ref>
+* Samuel H. Stearns (1801–1837), minister 1834–1836<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-nr2001-15285 Stearns, Samuel H. (Samuel Horatio) 1801-1837]</ref><ref>Bowen's picture of Boston, 3rd ed. 1888.</ref>
+* George W. Blagden (1802–1884), minister 1836–1872<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-nr90-27976 Blagden, George W. (George Washington) 1802-1884]</ref><ref>{{cite journal |journal=Gleasons Pictorial |location=Boston, Mass. |url=https://archive.org/stream/gleasonspictoria0506glea#page/n17/mode/1up |title=Boston Pulpit |year=1853 |volume=5 }}</ref>
+* Jacob M. Manning (1824–1882), minister 1857–1872<ref>WorldCat. [http://www.worldcat.org/wcidentities/lccn-n86-837826 Manning, Jacob M. (Jacob Merrill) 1824-1882]</ref>
+
+====Notable congregants====
+*[[Samuel Adams]]
+*[[William Dawes]]
+*[[Benjamin Franklin]]
+*[[Samuel Sewall]]
+*[[Phillis Wheatley]]
+
+===Museum (1877–present)===
+Old South Meeting House has been an important gathering place for nearly three centuries. Renowned for the protest meetings held here before the American Revolution when the building was termed a ''[[mouth-house]],'' this [[National Historic Landmark]] has long served as a platform for the free expression of ideas. Today, the Old South Meeting House is open daily as a museum and continues to provide a place for people to meet, discuss and act on important issues of the day. The stories of the men and women who are part of Old South's vital heritage reveal why the Old South Meeting House occupies an enduring place in the history of the United States.
+
+The museum and historic site is located at the intersection of [[Washington Street (Boston)|Washington]] and [[Milk Street, Boston|Milk Street]]s and can be visited for a nominal sum. It is located near the [[State Street (MBTA station)|State Street]], [[Downtown Crossing (MBTA station)|Downtown Crossing]] and [[Park Street (MBTA station)|Park Street]] [[MBTA]] (subway) stations.
+
+The Old South Meeting House is claimed to be the second oldest establishment existent in the United States. It is currently under consideration for local landmark status by the [[Boston Landmarks Commission]].<ref>https://www.cityofboston.gov/images_documents/PETSTATS_June2016_tcm3-53570.pdf</ref>
+
+==Images==
+<gallery mode=packed heights="140px">
+Image:JosephSewall OldSouth Boston.png|Joseph Sewall, minister ca.1713–1769
+Image:ThomasPrince ca1750 byJosephBadger AmericanAntiquarianSociety.png|[[Thomas Prince]], minister ca.1718–1758; portrait by [[Joseph Badger]] (courtesy [[American Antiquarian Society]])
+File:Old South Meeting House American Revolution interior in Boston MA.jpg|Old South Meeting House when the British Army used it for horse riding
+Image:1808 CongressSt Boston 3 copy.png|View of Old South from [[Congress Street (Boston)|Congress Street]] in 1808 (conjectural illustration)
+Image:1835 OldSouth BostonBewickCo Boyton Boston map detail.png|1835
+Image:1850 FederalStChurch BirdsEyeView Boston byJohnBachmann.png|Overview of Financial District, showing Old South steeple (center left), 1850
+Image:JacobManning OldSouth Boston.png|Jacob Manning, minister ca.1857–1872
+File:Boston, as the Eagle and the Wild Goose See It.jpg|Aerial photo of Financial District, showing Old South (center left), 1860 ([[James Wallace Black|J.W. Black]])
+Image:Milk Street, from Robert N. Dennis collection of stereoscopic views.jpg|After the fire (Old South at left), 1872
+Image:Old South Church, by Kilburn Brothers.jpg|After the fire, 1872
+File:Old South Meeting House 1877 in Boston MA.jpg|Old South Meeting House, ca. 1877
+Image:The Old South Meeting House.jpg|ca.1898
+Image:Detroit Photographic Company (0369).jpg|Washington & Milk St., 1900
+Image:1920 WashingtonSt Boston byLeonAbdalian 2589548639.jpg|Washington St. (Old South in distance), 1920
+File:Old South Meeting House in Boston MA.jpg|Old South Meeting House in 2009
+Image:2010 OldSouth Boston 4602725063.jpg|Interior, 2010
+</gallery>
+
+==See also==
+* [[Old South Church|New Old South Church]], Copley Square, Back Bay, Boston
+* [[List of National Historic Landmarks in Boston]]
+* [[National Register of Historic Places listings in northern Boston, Massachusetts]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* B. Wisner. [https://books.google.com/books?id=JrkAcWSakbsC History of the Old South Church in Boston]: in four sermons. 1830.
+* Hamilton Andrews Hill. History of the Old South Church (Third Church) Boston: 1669–1884. [https://books.google.com/books?id=QNcMAAAAYAAJ v.1] + [https://books.google.com/books?id=EuSVOPIwcosC  v.2]. Houghton, Mifflin and Co., 1889.
+
+== External links ==
+{{Commons category|Old South Meeting House}}
+* [http://www.oldsouthmeetinghouse.org/ The Old South Meeting House]
+* [http://www.oldsouth.org/ Old South Church in Boston] (the congregation formerly located at the Meeting House)
+* [http://www.nps.gov/bost/historyculture/osmh.htm Boston National Historical Park Official Website]
+* [https://www.loc.gov/pictures/item/MA0470/?sid=5741053a0b50191f68eb05809316b1f7 Historic American Buildings Survey] (Library of Congress). Old South Meetinghouse, Washington & Milk Streets, Boston, Suffolk, MA
+
+{{s-start}}
+{{succession box |
+  before=[[Old Corner Bookstore]]  |
+  title=Locations along Boston's [[Freedom Trail]]  |
+  years= '''Old South Meeting House''' |
+  after= [[Old State House (Boston)|Old State House]]
+}}
+{{s-end}}
+
+{{Registered Historic Places|state=expanded}}
+{{Samuel Adams}}
+
+[[Category:Buildings and structures in Boston]]
+[[Category:Landmarks in Financial District, Boston]]
+[[Category:Museums in Boston]]
+[[Category:National Historic Landmarks in Boston]]
+[[Category:Churches on the National Register of Historic Places in Massachusetts]]
+[[Category:Towers in Massachusetts]]
+[[Category:Churches in Boston]]
+[[Category:Churches completed in 1729]]
+[[Category:History museums in Massachusetts]]
+[[Category:Boston National Historical Park]]
+[[Category:18th-century churches in the United States]]
+[[Category:1729 establishments in Massachusetts]]
+[[Category:National Register of Historic Places in Boston]]

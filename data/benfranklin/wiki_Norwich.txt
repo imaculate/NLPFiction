@@ -1,0 +1,1163 @@
+{{about|the city in England|other places with the same name}}
+{{Use British English|date=August 2011}}
+{{Use dmy dates|date=January 2018}}
+{{Infobox settlement
+| name                   = Norwich 
+| settlement_type        = [[City status in the United Kingdom|City]] and [[non-metropolitan district]]
+| image_skyline          = Norwich Collage.png
+| image_size             = 300px
+| image_caption          = Clockwise from top left: Princes Street, [[Norwich Cathedral]], [[Norwich City Hall]], [[Norwich Castle]], [[St John the Baptist Cathedral, Norwich|St John the Baptist Cathedral]]
+| image_flag             =
+| image_seal             =
+| image_shield           = {{PH wikidata|image_shield}}
+| motto                  = {{PH wikidata|motto}}
+|nickname         = {{Flatlist|
+* "A Fine City"
+* "City of Stories"
+ }}
+| image_map              = Norwich UK locator map.svg
+| map_caption            = Location within [[Norfolk]]
+| pushpin_map            = England#UK
+| pushpin_map_caption    = Location within England##Location within the United Kingdom
+| pushpin_relief = 1
+| coordinates            = {{coord|3=region:GB_source:enwiki-osgb36(TG232085)_type:city|display=inline,title}}
+| subdivision_type       = [[Sovereign state]]
+| subdivision_name       = [[United Kingdom]]
+| subdivision_type1      = {{nowrap|[[Countries of the United Kingdom|Constituent country]]}}
+| subdivision_type2      = [[Regions of England|Region]]
+| subdivision_type3      = [[Ceremonial County|County]]
+| subdivision_name1      = [[England]]
+| subdivision_name2      = [[East of England]]
+| subdivision_name3      = [[Norfolk]]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+| government_footnotes   =
+| government_type        = [[Non-metropolitan district]] council
+<!-- Founded ----------------->
+|established_title = Founded
+|established_date = c.43 [[Anno Domini|AD]] as Northwic
+|established_title2 = City status
+|established_date2 = [[List of cities in the United Kingdom|1094]]
+| seat_type        = Admin HQ
+| seat             = [[Norwich City Hall]]
+<!-- Politics --------------- -->
+| leader_title           = Local Authority
+| leader_name            = [[Norwich City Council]]
+| leader_title1          = [[List of MPs elected in the United Kingdom general election, 2015|MPs]]
+| leader_name1           = [[Clive Lewis (politician)|Clive Lewis]] ([[Labour Party (UK)|L]])<br>[[Chloe Smith]] ([[Conservative Party (UK)|C]])
+| total_type             = City
+| unit_pref              = <!-- Enter: Imperial, to display imperial before metric -->
+| area_footnotes         =
+| area_urban_km2         = {{PH wikidata|area}}
+| area_water_km2         =
+| elevation_footnotes    = 
+| elevation_m            =
+| elevation_min_m        =
+| elevation_max_m     =
+<!-- Population   --------------------- -->
+| population_total       = {{English district population|GSS = E07000123}} ([[List of English districts by population|ranked {{English district rank|GSS = E07000123}}]])
+| population_as_of       = {{English statistics year}}
+| population_footnotes   =
+| population_density_km2 = auto
+| population_urban       = 213,166
+| population_density_urban_km2 = auto
+| population_metro       = {{nowrap|376,500 ([[Travel to Work Area|TTWA]])<ref name=norwich>{{cite web|url=http://www.norwich.gov.uk |title=Home |publisher=Norwich.gov.uk |date=7 October 2010 |accessdate=13 September 2013}}</ref>}}
+| population_density_metro_km2 =
+<br>
+|population_blank2_title = Ethnicity <br><small>(2011 Census)<ref name=2011census>[http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls "2011 Census: Key Statistics for Local Authorities in England and Wales"]. [[Office for National Statistics|ONS]]. Retrieved 25 December 2012</ref> </small>
+|population_blank2       = {{Collapsible list
+|title                   = '''90.9% [[White people|White]]'''
+|frame_style             = border:none; padding: 0;
+|list_style              = text-align:left;display:none;
+|1                       = 84.6% [[White British]]
+|2                       = 0.09% [[Irish Briton|White Irish]]
+|3                       = 0.08% [[Romani people|Gypsy]] or [[Irish Travellers|Irish Traveller]]
+|4                       = 5.38% [[White Other (United Kingdom Census)|Other White]]
+|5                       = &nbsp;
+|6                       = '''4.5% [[British Asian|Asian]]'''
+|7                       = 1.2% [[Indian British|Indian]]
+|8                       = 0.1% [[Pakistani British|Pakistani]]
+|9                       = 0.4% [[British Bangladeshi|Bangladeshi]]
+|10                      = 1.2% [[British Chinese|Chinese]]
+|11                      = 1.2% [[British Asian|Other Asian]]
+|12                      = &nbsp;
+|13                      = '''1.6% [[Black British|Black]]'''
+|14                      = 1.3% [[African British|Black African]]
+|15                      = 0.2% [[British African-Caribbean community|Black Caribbean]]
+|16                      = 0.1% [[Black British|Other Black]]
+|17                      = &nbsp;
+|18                      = '''2.3% [[British Mixed|Mixed]]'''
+|19                      = 0.5% [[British Mixed|White & Black Caribbean]]
+|20                      = 0.4% [[British Mixed|White & Black African]]
+|21                      = 0.6% [[British Mixed|White and Asian]]
+|22                      = 0.6% [[British Mixed|Other mixed]]
+|23                      = &nbsp;
+|24                      = '''1.1% [[Other ethnic group (United Kingdom Census)|Other]]'''
+|25                      = 0.4% [[British Arabs|Arab]]
+|26                      = 0.35% [[Other ethnic group (United Kingdom Census)|Other]]
+}}
+| population_demonym  = Norvician
+| population_note     =
+| postal_code_type    = [[Postcodes in the United Kingdom|Postcode]]
+| postal_code         = [[NR postcode area|NR]]
+| area_code_type      = {{nowrap|[[Telephone numbers in the United Kingdom|Area&nbsp;code]] ([[International direct dialing|IDD]])}}
+| area_code           = 01603
+| footnotes           =
+| timezone            = [[Greenwich Mean Time|GMT]]
+| utc_offset          = 0
+| timezone_DST        = [[British Summer Time|BST]]
+| utc_offset_DST      = +1
+| blank_name          = [[ONS coding system|ONS code]]
+| blank_info          = 33UK
+| blank4_name         = Primary airport
+| blank4_info         = [[Norwich Airport]]
+| website             = {{URL|https://www.norwich.gov.uk/}}
+}}
+'''Norwich''' ({{IPAc-en|audio=en-uk-Norwich.ogg|ˈ|n|ɒr|ɪ|dʒ|,_|-|ɪ|tʃ}}) is a cathedral [[city status in the United Kingdom|city]] in [[Norfolk]], [[England]]. Situated on the [[River Wensum]] in [[East Anglia]], it lies approximately {{convert|100|mi|km|0}} north-east of [[London]]. It is the [[county town]] of [[Norfolk]] and is considered the capital of [[East Anglia]], with a population of 141,300. From the [[Middle Ages]] until the [[Industrial Revolution]], Norwich was the largest city in [[England]] after [[London]], and one of the most important.{{sfn|Williams|Jones|Lee|Griffiths|2006|p=11}}
+
+The city is the most complete medieval city in the UK,<ref name="Visit Norwich">{{Cite web|url=https://www.visitnorfolk.co.uk/explore/Norwich.aspx|title=Visit Norwich|website=www.visitnorfolk.co.uk|language=en|access-date=2018-08-29}}</ref> including cobbled streets such as [[Elm Hill, Norwich|Elm Hill]], Timber Hill and Tombland, ancient buildings such as [[St. Andrew's and Blackfriars' Hall, Norwich|St Andrew's Hall]], half-timbered houses such as [[Dragon Hall, Norwich|Dragon Hall]], [[Norwich Guildhall|The Guildhall]] and [[Strangers' Hall]], the [[Art Nouveau]] of the 1899 Royal Arcade, many medieval lanes and the winding [[River Wensum]] that flows through the city centre towards [[Norwich Castle]].<ref name="Visit Norwich"/> The city has two universities, the [[University of East Anglia]] and the [[Norwich University of the Arts]], and two cathedrals, [[Norwich Cathedral]] and [[St John the Baptist Cathedral, Norwich|St John the Baptist Cathedral]].
+
+Norwich is the only city within a [[National park|National Park]], the [[The Broads|Norfolk Broads]], and it also holds the largest permanent undercover market in [[Europe]].<ref name="Visit Norwich"/> The urban area of Norwich had a population of 213,166 according to the [[United Kingdom Census 2011|2011 Census]].<ref name="2011 Census - Built-up areas">{{cite web | url=http://www.nomisweb.co.uk/articles/747.aspx|title=2011 Census – Built-up areas| work= | publisher=[[Office for National Statistics|ONS]] | accessdate=29 June 2013}}</ref> The parliamentary seats cross over into adjacent local-government districts. A total of 132,512 (2011 census)<ref>{{cite web|url=http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-270247 |title=Release Edition Reference Tables |publisher=Ons.gov.uk |date=17 December 2012 |accessdate=13 September 2013}}</ref> people live in the City of Norwich and the population of the Norwich Travel to Work Area (i.e., the self-contained labour market area in and around Norwich in which most people live and commute to work) is 282,000 (mid-2009 estimate).<ref name="ons2013">{{cite web|url=http://www.ons.gov.uk/ons/rel/subnational-labour/regional-labour-market-statistics/january-2013/rft-lm-table-li03-january-2013.xls|title=LI03 Local labour market indicators by Travel-to-Work Area<!-- as in spreadsheet-->|publisher=Office for National Statistics|accessdate=10 September 2013|format=XLS|year=2013}}</ref> Norwich is the fourth most densely populated local-government district in the [[East of England]], with 3,480 people per square kilometre (8,993 per square mile).
+
+In May 2012, Norwich was designated England's first [[UNESCO]] [[City of Literature]].<ref>{{cite news|url=http://bbc.co.uk/news/uk-england-norfolk-18016481 |title= Norwich named as UNESCO City of Literature |publisher=BBC |date=10 May 2012 |accessdate=13 September 2013}}</ref> One of the UK's most popular tourist destinations, it was voted by [[The Guardian]] in 2016 as the "happiest city to work in the UK" <ref>{{Cite news|url=http://www.theguardian.com/careers/gallery/2016/feb/02/the-10-happiest-cities-to-work-in-the-uk-in-pictures|title=The 10 happiest cities to work in the UK – in pictures|last=Seager|first=Charlotte|date=2016-02-02|work=The Guardian|access-date=2018-09-03|language=en-GB|issn=0261-3077}}</ref> and in 2013 as one of the best small cities in the world by [[The Times]] Good University Guide.<ref>{{Cite web|url=https://www.intostudy.com/en-gb/universities/newton-a-level-programme/living/living-in-norwich|title=What's it like to live in Norwich? {{!}} INTO|website=INTO Study|access-date=2018-09-03}}</ref> In 2018, Norwich was voted one of the "Best Places To Live" in the UK by ''[[The Sunday Times]]''.<ref>{{Cite news|url=https://www.thetimes.co.uk/article/norwich-norfolk-best-places-to-live-8z880tdmb|title=Best Places to Live 2018|last=Times|first=The Sunday|date=|work=|access-date=2018-09-17|language=en|issn=0140-0460}}</ref>
+
+==History==
+{{see also|Timeline of Norwich}}
+
+===Roman===
+The capital of the [[Iceni]] tribe was a settlement located near to the village of [[Caistor St. Edmund]] on the [[River Tas]] approximately {{convert|8|km|mi|0}} to the south of modern-day Norwich.{{sfn|Morley|2006}} Following an uprising led by [[Boudica]] around AD&nbsp;60 the Caistor area became the [[Roman Britain|Roman]] capital of [[East Anglia]] named ''[[Venta Icenorum]]'', literally "the marketplace of the Iceni".{{sfn|Morley|2006}} The Roman settlement fell into disuse around 450 and the [[Anglo-Saxons]] settled on the site of the modern city between the 5th and 7th centuries,{{sfn|Adams|2005|p=11}} founding the towns of ''Northwic'' (from which Norwich gets its name),{{sfn|Stenton|1970}} ''Westwic'' (at [[Norwich Over the Water|Norwich-over-the-Water]]) and the secondary settlement at Thorpe. According to a local rhyme, the demise of ''Venta Icenorum'' led to the development of Norwich: "Caistor was a city when Norwich was none, Norwich was built of Caistor stone."{{sfn|Morley|2006}}
+
+===Early English and Norman conquest===
+[[File:Norwich Cathedral, spire and south transept.jpg|thumb|[[Norwich Cathedral]] is one of the great Norman buildings of England.]]
+
+There are two suggested models of development for Norwich. It is possible that three separate early Anglo-Saxon settlements, one on the north of the river and two either side on the south, joined together as they grew or that one Anglo-Saxon settlement, on the north of the river, emerged in the mid-7th century after the abandonment of the previous three. The ancient city was a thriving centre for trade and commerce in [[East Anglia]] in 1004 when it was raided and burnt by [[Sweyn I of Denmark|Swein Forkbeard]] the [[Viking]] king of Denmark. [[Mercia]]n coins and shards of pottery from the [[Rhineland]] dating from the 8th century suggest that long-distance trade was happening long before this. Between 924 and 939, Norwich became fully established as a town, with its own mint. The word ''Norvic'' appears on coins across Europe minted during this period, in the reign of [[Athelstan|King Athelstan]]. The Vikings were a strong cultural influence in Norwich for 40 to 50 years at the end of the 9th century, setting up an [[Anglo-Scandinavian]] district near the north end of present day King Street. At the time of the [[Norman Conquest]] the city was one of the largest in England. The [[Domesday Book]] states that it had approximately 25 churches and a population of between 5,000 and 10,000. It also records the site of an Anglo-Saxon church in Tombland, the site of the Saxon market place and the later [[Norwich Cathedral|Norman cathedral]]. Norwich continued to be a major centre for trade, the [[River Wensum]] being a convenient export route to the [[River Yare]] and [[Great Yarmouth]], which served as the [[Port of Norwich|port for Norwich]]. [[Quern stone]]s and other artefacts from Scandinavia and the Rhineland have been found during excavations in Norwich city centre. These date from the 11th century onwards.
+
+[[File:Norwich Castle.jpg|thumb|[[Norwich Castle]]'s 12th-century keep]]
+
+[[Norwich Castle]] was founded soon after the Norman Conquest.<ref>{{PastScape|mnumber=132268 |mname=Norwich Castle |accessdate=29 December 2010}}</ref> The [[Domesday Book]] records that 98 Saxon homes were demolished to make way for the castle.{{sfn|Harfield|1991|pp=373, 384}} The [[Normans]] established a new focus of settlement around the Castle and the area to the west of it: this became known as the "New" or "French" borough, centred on the Normans' own market place which survives to the present day as Norwich Market. In 1096, [[Herbert de Losinga]], Bishop of Thetford, began construction of [[Norwich Cathedral]]. The chief building material for the Cathedral was limestone, imported from Caen in Normandy. To transport the building stone to the site, a canal was cut from the river (from the site of present-day Pulls Ferry), all the way up to the east wall. Herbert de Losinga then moved his [[Episcopal see|See]] there to what became the cathedral church for the [[Anglican Diocese of Norwich|Diocese of Norwich]]. The Bishop of Norwich still signs himself ''Norvic''. Norwich received a [[royal charter]] from [[Henry II of England|Henry II]] in 1158, and another one from [[Richard I of England|Richard ''the Lionheart'']] in 1194. Following a riot in the city in 1274, Norwich has the distinction of being the only complete English city to be excommunicated by the Pope.{{sfn|Miller|1806}}
+
+===Middle Ages===
+The first recorded presence of [[Jews]] in Norwich is 1134.<ref name="heritagecity1">{{cite web |url=http://www.heritagecity.org/research-centre/churches-and-creeds/jews-in-norwich.htm |archive-url=https://archive.is/20130806235625/http://www.heritagecity.org/research-centre/churches-and-creeds/jews-in-norwich.htm |dead-url=yes |archive-date=6 August 2013 |title=Jews in Norwich |publisher=Heritagecity.org |accessdate=13 September 2013 }}</ref> In 1144, the Jews of Norwich were accused of [[ritual murder]] after a boy ([[William of Norwich]]) was found dead with stab wounds.<ref name="heritagecity1"/> William acquired the status of martyr and was subsequently [[canonization|canonised]]. Pilgrims made offerings to a shrine at the Cathedral (largely finished by 1140) up to the 16th century, but the records suggest there were few of them.{{sfn|Nilson|2001|p=157}} In 1174, Norwich was sacked by the Flemings. In February 1190, all the Jews of Norwich were massacred except for a few who found refuge in the castle. At the site of a medieval well, the bones of 17 individuals, including 11 children, were found in 2004 by workers preparing the ground for construction of a Norwich shopping centre. The remains were determined by [[forensic science|forensic scientists]] to be most probably the remains of such murdered Jews, and a [[Genetic genealogy|DNA]] expert determined that the victims were all related, so that they most probably came from one [[Ashkenazi Jews|Ashkenazi Jewish]] family.{{sfn|Jewish Telegraphic Agency|2011}} The study of these remains was featured in an episode of the [[BBC Television|BBC television]] documentary series ''[[History Cold Case]]''.<ref>{{Cite episode |title=The Bodies in the Well |url=http://www.bbc.co.uk/programmes/b0125kbf |series=History Cold Case |network=[[BBC HD]] |airdate=28 June 2011 |seriesno=2 |number=3 }}</ref>
+
+[[File:Ethelbert Gate from Tombland, Norwich, UK.jpg|thumb|St Ethelbert's Gate at Tombland was built as penance for riots which occurred in the 1270s.]]
+In 1216, the castle fell to Louis, Dauphin of France and Hildebrand's Hospital was founded, followed ten years later by the [[Franciscan]] Friary and [[Dominican Order|Dominican]] Friary. The Great Hospital dates from 1249 and the College of St Mary in the Field from 1250. In 1256, Whitefriars was founded. In 1266 the city was sacked by the "Disinherited". It has the distinction of being the only English city ever to be excommunicated, following a riot between citizens and monks in 1274.{{sfn|Miller|1806}} As a penance, St Ethelbert's Gate, one of the entrances to the cathedral priory, was constructed by Norwich citizens. In 1278 the Cathedral received final consecration. In 1290 the city flooded. Austin Friary was founded in that year.
+
+The engine of trade was [[wool]] from Norfolk's [[sheepwalk]]s. Wool made England rich, and the [[staple right|staple port]] of Norwich "in her state doth stand With towns of high'st regard the fourth of all the land", as [[Michael Drayton]] noted in ''[[Poly-Olbion]]'' (1612). The wealth generated by the [[wool#History|wool trade]] throughout the [[Middle Ages]] financed the construction of many fine churches, so that Norwich still has more medieval churches than any other city in Western Europe north of the [[Alps]]. Throughout this period Norwich established wide-ranging trading links with other parts of Europe, its markets stretching from [[Scandinavia]] to Spain and the city housing a [[Hanseatic League|Hanseatic]] warehouse. To organise and control its exports to the [[Low Countries]], [[Great Yarmouth]], as the port for Norwich, was designated one of the staple ports under the terms of the 1353 [[Statute of the Staple]].
+
+From 1280 to 1340 the [[defensive wall|city walls]] were built. At around {{convert|4|km|1|abbr=in}}, these walls, along with the river, enclosed a larger area than that of the [[City of London]]. However, when the city walls were constructed it was made illegal to build outside them, inhibiting expansion of the city. Around this time, the city was made a [[county corporate]] and became the seat of one of the most densely populated and prosperous [[ancient counties of England|counties]] of England. Part of these walls remain standing today.
+
+===Early modern period (1485–1640)===
+Hand-in-hand with the wool industry, this key religious centre experienced a Reformation significantly different to other parts of England. The magistracy in Tudor Norwich unusually found ways of managing religious discord whilst maintaining civic harmony.{{sfn|McClendon|1999}}
+
+[[File:John Crome 002.jpg|thumb|''Mousehold Heath, Norwich'' by Norfolk-based artist [[John Crome]]]]
+The year 1549 saw an unprecedented rebellion in Norfolk. Unlike popular challenges elsewhere in the Tudor period, it appears to have been [[Protestant]] in nature. For several weeks [[Kett's Rebellion|Kett's rebels]] camped outside Norwich on [[Mousehold Heath]] and took control of the city, with the support of many of its poorer inhabitants. Unusually in England, it divided the city and appears to have linked Protestantism with the plight of the urban poor. In the case of Norwich this process was underscored later by the arrival of [[Dutch people|Dutch]] and [[Flemish people|Flemish]] "[[Elizabethan Strangers|Strangers]]" fleeing persecution from the [[Catholic]]<nowiki/>s and eventually numbering as many as one third of the city's population.{{sfn|Houlbroke|McClendon|2004|p=257}} Large numbers of such exiles came to the city, especially Flemish Protestants  from the Westkwartier ("Western Quarter"), the region in the [[Southern Netherlands]] where the first [[Calvinist]] fires of the [[Dutch Revolt]] had spread. Inhabitants of [[Ypres]] in particular chose Norwich above other destinations.{{sfn|Fagel|2003|p=52}} Perhaps in response to Kett, Norwich became the first provincial city to initiate compulsory payments for a civic scheme of poor relief, which it has been claimed led to its wider introduction, forming the basis of the later Elizabethan Poor Law of 1597–98.{{sfn|Pound|2004|pp=50–56}}
+
+Norwich has traditionally been the home of various minorities, notably French [[Huguenot]] and Belgian [[Walloons|Walloon]] communities in the 16th and 17th centuries. The great "Stranger" immigration of 1567 brought a substantial Flemish and Walloon community of Protestant [[weaver (occupation)|weaver]]s to Norwich, where they are said to have been made welcome.{{sfn|Ketton-Cremer|1957}} The merchant's house which was their earliest base in the city — now a museum — is still known as [[Strangers' Hall]]. It seems that the Strangers were integrated into the local community without much animosity, at least among the business fraternity, who had the most to gain from their skills. Their arrival in Norwich boosted trade with mainland Europe and fostered a movement toward religious reform and radical politics in the city.
+
+The [[Domestic Canary|Norwich Canary]] was first introduced into England by Flemings fleeing from Spanish persecution in the 16th century. They brought with them not only advanced techniques in textile working but also pet canaries, which they began to breed locally, the little yellow bird eventually becoming, in the 20th century, a mascot of the city and the emblem of its football club, [[Norwich City F.C.]], who are nicknamed The Canaries.
+
+Printing was introduced to the city in 1567 by Anthony de Solempne, one of the "Strangers", but it did not take root and had died out by about 1572.{{sfn|Stoker|1981}}
+
+===Civil Wars to Victorian era===
+Across the Eastern Counties [[Oliver Cromwell]]'s powerful [[Eastern Association]] was eventually dominant. However, to begin with, there had been a large element of Royalist sympathy within Norwich, which seems to have experienced a continuity of its two-sided political tradition throughout the period. Bishop [[Matthew Wren]] was a forceful supporter of [[Charles I of England|Charles I]]. Nonetheless, [[Roundhead|Parliamentary]] recruitment took hold. The strong Royalist party was stifled by a lack of commitment from the aldermen and isolation from Royalist-held regions.{{sfn|Hopper|2004}} Serious inter-factional disturbances culminated in "The Great Blow" of 1648, when Parliamentary forces tried to quell a Royalist riot. The latter's gunpowder was set off by accident in the city centre, causing mayhem. (According to {{harvnb|Hopper|2004}}, the explosion "ranks among the largest of the century".) Stoutly defended though East Anglia was by the Parliamentary army, there are said to have been pubs in Norwich where the king's health was still drunk and the name of the Protector sung to ribald verse.
+
+At the cost of some discomfort to the Mayor, the moderate [[Joseph Hall (bishop)|Joseph Hall]] was targeted because of his position as Bishop of Norwich.
+
+Norwich was marked in the period after the [[Restoration (England)|Restoration]] of 1660 and the ensuing century by a  golden age of its cloth industry, comparable only to those in the [[West Country]] and Yorkshire.{{sfn|Wilson|2004a}} But unlike other cloth-manufacturing regions, Norwich weaving brought greater urbanisation, substantially concentrated in the surrounds of the city itself, creating an urban society, with features such as leisure time, alehouses, and other public forums of debate and argument.{{sfn|Wilson|2004b}}
+
+[[File:Original Norfolk and Norwich Hospital - geograph.org.uk - 84361.jpg|thumb|Founded in 1771, the [[Norfolk and Norwich Hospital]] cared for the city's poor and sick. It closed in 2003 after services were moved to the [[Norfolk and Norwich University Hospital]].]]
+Writing of the early 18th century, Pound describes the city's rich cultural life, the winter theatre season, the festivities accompanying the summer assizes, and other popular entertainments. Norwich was the wealthiest town in England, with a sophisticated system of [[poor relief]], and a large influx of foreign refugees.{{sfn|Pound|2004|p=61}} Despite severe outbreaks of plague, the city had a population of almost 30,000. This made Norwich unique in England, although there were some 50 cities of similar size in Europe. In some, like Lyon or [[Dresden]], this was, as in the case of Norwich, linked to an important proto-industry, such as textiles or china pottery, in some, such as Vienna, Madrid or Dublin, to the city's status as an administrative capital, and in others such as Antwerp, Marseilles or Cologne to a position on an important maritime or river trade route.{{efn|1=For table of city sizes see {{harvtxt|Corfield|2004|p=143}}}}
+
+Norwich in the late 17th century was riven politically. Churchman [[Humphrey Prideaux]] described "two factions, [[Whig (British political party)|Whig]] and [[Tory]] &hellip; and both contend for their way with the utmost violence."{{sfn|Knights|2004}} Nor did the city accept the outcome of the 1688 [[Glorious Revolution]] with a unified voice. The pre-eminent citizen, Bishop William Lloyd, would not take the oaths of allegiance to the new monarchs. One report has it that in 1704 the landlord of Fowler's alehouse "with a glass of beer in hand, went down on his knees and drank a health to James the third, wishing the Crowne [sic] well and settled on his head."{{sfn|Knights|2004|pp=168–174|quote= "Never was a city in the miserable kingdom so wretchedly divided as this," said the ''London Post''}}
+
+In 1716, at a play at the ''New Inn'', the Pretender was cheered and the audience booed and hissed every time King George's name was mentioned. In 1722 supporters of the king were said to be "hiss'd at and curst as they go in the streets," and in 1731 "a Tory mobb, in a great body, went through several parts of this city, in a riotous manner, cursing and abusing such as they knew to be friends of the government."{{efn|1=Reports quoted by {{harvnb|Knights|2004|pp=168–174}}}} But the Whigs gradually gained control and by the 1720s they had successfully petitioned Parliament to allow all adult males working in the textile industry to take up the freedom, on the correct assumption that they would vote Whig. But it had the effect of boosting the city's popular Jacobitism, says Knights, and contests of the kind described continued in Norwich well into a period in which political stability had been discerned at a national level. The city's Jacobitism perhaps only ended with 1745, well after it had ceased to be a significant movement outside Scotland.{{sfn|Knights|2004|pp=168–174}} Despite the Highlanders reaching Derby and Norwich citizens mustering themselves into an association to protect the city, some Tories refused to join in and the vestry of [[St Peter Mancroft]] resolved that it would not ring its bells to summon the defence. Still, it was the end of the road for Norwich Jacobites, and the Whigs organised a notable celebration after the [[Battle of Culloden]].{{sfn|Knights|2004|pp=168–174}}
+
+What the events of this period illustrate is that Norwich had had a strong tradition of popular protest favouring Church and Stuarts and attached to the street and alehouse. Knights tells how in 1716 the mayoral election had ended in a riot, with both sides throwing "brick-ends and great paving stones" at each other.{{sfn|Knights|2004|pp=168–174}} A renowned Jacobite watering-hole, the ''Blue Bell Inn'' (nowadays ''The Bell Hotel''), owned in the early 18th century by the high-church Helwys family, became the central rendezvous of the Norwich Revolution Society in the 1790s.{{sfn|Jewson|1975|p=38}}
+
+Britain's first provincial newspaper, the ''[[Norwich Post]]'', appeared in 1701. By 1726 there were rival Whig and Tory presses and even in mid-century, three-quarters of the males in some parishes were literate.{{efn|1=Quoted by {{harvnb|Knights|2004|pp=181–182}}}} The Norwich municipal library claims an excellent collection of these newspapers, also a folio collection of scrapbooks on 18th-century Norwich politics, which Knights says are "valuable and important". Norwich alehouses had 281 clubs and societies meeting in them in 1701, and at least 138 more were formed before 1758. The [[Theatre Royal, Norwich|Theatre Royal]] opened in 1758, alongside the city's stage productions in inns and puppet shows in rowdy alehouses.{{sfn|Chandler|1998}}{{sfn|Blackwell|Blackwell|2007|loc=Chap 2}} In 1750 Norwich could boast nine booksellers and after 1780 a "growing number of circulating and subscription libraries".{{sfn|Dain|2004}} {{harvnb|Knights|2004}} says: "[All this] made for a lively political culture, in which independence from governmental lines was particularly strong, evident in campaigns against the war with America and for reform... in which trade and the impact of war with [[Revolutionary France]] were key ingredients. The open and contestable structure of local government, the press, the clubs and societies, and dissent all ensured that politics overlapped with communities bound by economics, religion, ideology and print in a world in which public opinion could not be ignored."{{sfn|Knights|2004|pp=168–174}}
+
+[[File:OctagonChapel.JPG|thumb|left|The Octagon Chapel]]
+Amid this metropolitan culture the city burghers had built a sophisticated political structure. Freemen, who had the right to trade and to vote at elections, numbered about 2,000 in 1690, rising to over 3,300 by the mid-1730s. With growth partly the result of political manipulation, their numbers did at one point reach one-third of the adult male population.{{sfn|Knights|2004|pp=168–174}} This was notoriously the age of [[rotten borough|"rotten"]] and [[pocket borough|"pocket"]] boroughs, and Norwich was unusual in having such a high proportion of its citizens able to vote. "Of the political centres where the Jacobin propaganda had penetrated most deeply only Norwich and Nottingham had a franchise deep enough to allow radicals to make use of the electoral process."{{sfn|Thompson|1968|p=513}} "Apart from London, Norwich was probably still the largest of those boroughs which were democratically governed," says {{harvnb|Jewson|1975}}, describing other towns under the control of a single [[fief]]dom. In Norwich, he says, a powerful Anglican establishment, symbolised by the Cathedral and the great church of St Peter Mancroft was matched by scarcely less powerful [[wikt:congeries|congeries]] of Dissenters headed by the wealthy literate body [of Unitarians] worshipping at the [[Octagon Chapel, Norwich|Octagon Chapel]].{{sfn|Jewson|1975}}
+
+[[File:Map of Norwich 1781.jpg|thumb|Map of Norwich 1781]]
+In the middle of political disorders of the late 18th century, Norwich intellectual life flourished. It contained one, so far unmentioned characteristic: [[Harriet Martineau]] wrote of the city's ''literati'' of the period, which included such people as [[William Taylor (scholar)|William Taylor]], one of the first German scholars in England. The city "boasted of her intellectual supper-parties, where, amidst a pedantry which would now make laughter hold both his sides, there was much that was pleasant and salutary: and finally she called herself ''The Athens of England''."{{sfn|Martineau|1869}}
+
+[[File:St Peter Mancroft.jpg|thumb|[[St Peter Mancroft]]]]
+Notwithstanding Norwich's hitherto industrial prosperity, the wool trade was experiencing intense competition by the 1790s, from Yorkshire woollens and increasingly from Lancashire cottons. The effects were aggravated by the loss of continental markets after Britain went to war with France in 1793.{{efn|1={{harvnb|Hayes|1958}} Quote: "a major city manufacturer, and government supporter, Robert Harvey Jr as writing on 12 March 1793: 'The consequences of this just and inevitable war visit this poor city severely and suspend the operations of the Dutch, German and Italian trade and the only lingering employment in the manufactory is the completion of a few Russian orders, and the last China [[camlet|cambletts]] which I hope will find encouragement in the new East India Charter. This languid trade has doubled our poor rate and a voluntary subscription of above £2,000 is found inadequate to the exigencies of the poor."}} The early 19th century saw de-industrialisation accompanied by bitter squabbles. The 1820s were marked by wage cuts and personal recrimination against owners. So amid the rich commercial and cultural heritage of its recent past, Norwich suffered in the 1790s from incipient decline exacerbated by a serious trade recession.
+
+As early in the war as 1793, a major city manufacturer and government supporter, Robert Harvey, complained of low order books, languid trade and a doubling of the poor rate.{{efn|1=Quotations and facts from {{harvtxt|Wilson|2004b}}}} As with many generations of their Norwich forebears, the hungry poor took their complaints on to the streets. Hayes describes a meeting of 200 people in a Norwich public house, at which "Citizen Stanhope" spoke.{{efn|1=Lord Stanhope was a radical peer, seen by many at the time as a dangerous menace. He is said to have given his rabble-rousing speech in a Norwich public house in 1794.}} The gathering "[roared its] applause at Stanhope's declaration that the Ministers, unless they changed their policy, deserved to have their heads brought to the block; – and if there was a people still in England, the event might turn out to be so." Hayes says that "the outbreak of war, in bringing the worsted manufacture almost to a standstill and so plunging the mass of the Norwich weavers into sudden distress made it almost inevitable that a crude appeal to working-class resentment should take the place of a temperate process of education which the earliest reformers had intended."{{sfn|Hayes|1958|pp=242–243}}
+
+At this period opposition to Pitt's government and their war came—in their case almost unanimously—from a circle of radical Dissenter intellectuals who are of interest in their own right  They included the Rigby, Taylor, Aitkin, Barbold, and Alderson families—all Unitarians, and some of the Quaker Gurneys (one of their girls, Elizabeth, was, under her married name Fry, to be famous campaigner for prison reform). Their activities included visits to revolutionary France (prior to the execution of Louis XVI), the earliest British research into German literature, studies on medical science, petitioning for parliamentary reform, and publishing a highbrow literary magazine called "The Cabinet" (in 1795). Their mixing of politics, religion and social campaigning was suspicious to Pitt and Windham—and caused Pitt to denounce Norwich as "the Jacobin city". Edmund Burke attacked John Gurney in print for his sponsoring anti-war protests. Politics aside, it is safe to say that Norwich was the most active intellectual hotbed outside London in the 1790s, and did not achieve a comparable prominence until the University of East of Anglia arrived in the late 20th century.
+Sources—C B Jewson "Jacobin City"; I Scott "Reactions to Radicalism in Norwich 1989-1802; J P Foynes "East Anglia against the Tricolor 1789-1815"; Cambridge Modern History).
+ 
+By 1795 it was not just the Norwich rabble who were causing the government concern. In April that year the Norwich Patriotic Society was established, its manifesto declaring "that the great end of civil society was general happiness; that every individual &hellip; had a right to share in the government &hellip;"{{sfn|Jewson|1975|p=66}} In December the price of bread reached its highest yet, and in May 1796, when William Windham was forced to seek re-election following his appointment as war secretary, he only just held his seat.{{efn|1=Prior to the 20th century it was the practice that a sitting member, upon appointment to ministerial office, was obliged to seek re-election.}} Amid the same disorder and violence as was often the case with Norwich elections, it was only by the narrowest of margins that the radical Bartlett Gurney, campaigning on the platform of "Peace and Gurney – No More War – No more Barley Bread" failed to unseat him.{{sfn|Thompson|1994}}
+
+Though informed by issues of recent national importance, the two-sided political culture of Norwich in the 1790s cannot be totally disconnected from local tradition. Two features stand out from a political continuum of three centuries. The first is the dichotomous power balance. From at least the time of the Reformation, there is a record of Norwich as a "two-party city". In the mid-16th century the weaving parishes actually fell under the control of opposition forces, as Kett's rebels held the north of the river, in support of poor cloth workers. Secondly, there seems to be a case for saying that with this tradition of two-sided disputation, the city had over a long period of time developed an infrastructure, evident in her many cultural and institutional networks of politics, religion, society, news media and the arts, whereby argument could be managed short of outright confrontation. Indeed at a time of hunger and tension on the Norwich streets, with the alehouse crowds ready to have "a Minister's head brought to the block", the Anglican and Dissenting clergy were doing their best to conduct a collegiate dialogue, seeking common ground, and reinforcing the same well-mannered civic tradition of consensus as that illustrated by historians of earlier periods.
+
+[[File:Surrey House on Surrey Street - geograph.org.uk - 22919.jpg|thumb|left|[[Surrey House]], historic headquarters of the Norwich Union insurance company]]
+In 1797 [[Thomas Bignold]], a 36-year-old wine merchant and banker, founded the first [[Norwich Union|Norwich Union Society]]. Some years earlier, when he moved from Kent to Norwich, Bignold had been unable to find anyone willing to insure him against the threat from highwaymen. With the entrepreneurial thought that nothing was impossible, and aware that in a city built largely of wood the threat of fire was uppermost in people's minds, Bignold formed the "Norwich Union Society for the Insurance of Houses, Stock and Merchandise from Fire". The new business, which became known as the Norwich Union Fire Insurance Office, was a "mutual" enterprise. [[Aviva|Norwich Union]] was later to become the country's largest insurance giant.
+
+From earliest times, Norwich was a textile centre. In the 1780s, the manufacture of Norwich [[shawl]]s became an important industry<ref>[http://www.museums.norfolk.gov.uk/Research/Academic_Articles/Social_History/Norwich_Shawls/index.htm Norfolk Museums & Archaeology Service website] {{webarchive|url=https://web.archive.org/web/20120324192534/http://www.museums.norfolk.gov.uk/Research/Academic_Articles/Social_History/Norwich_Shawls/index.htm |date=24 March 2012 }}—"Norwich Shawls"</ref> and remained so for nearly a hundred years. The shawls were a high-quality fashion product and rivalled those made in other towns such as [[Paisley, Renfrewshire|Paisley]] (which entered shawl manufacture in about 1805, some 20 or more years after Norwich). With changes in women's fashion in the later [[Victorian period]], the popularity of shawls declined and eventually manufacture ceased. Examples of Norwich shawls are now highly sought after by collectors of textiles.
+
+Norwich's geographical isolation was such that until 1845, when a railway connection was established, it was often quicker to travel to [[Amsterdam]] by boat than to London. The railway was introduced to Norwich by [[Samuel Morton Peto|Morton Peto]], who also built the line to [[Great Yarmouth]]. From 1808 to 1814, Norwich had a station in the [[Semaphore line|shutter telegraph chain]] that connected the [[Admiralty]] in London to its naval ships in the port of [[Great Yarmouth]]. A permanent military presence was established in the city with the completion of [[Britannia Barracks]] in 1897.<ref name=museum>{{cite web|url=http://www.rnrm.org.uk/web_trail/web_bar_02.html|title=Britannia Barracks|publisher=Royal Norfolk Regiment Museum|accessdate=9 November 2014}}</ref> The [[Bethel Street drill hall, Norwich|Bethel Street]] and [[Cattle Market Street drill hall, Norwich|Cattle Market Street]] [[drill hall]]s were built around the same time.<ref>{{cite web|url=http://www.drillhalls.org/Counties/Norfolk/TownNorwich.htm|title=Norwich|publisher=Drill halls project|accessdate=16 July 2017}}</ref>
+
+===20th century===
+[[File:Norfolk Terrace.JPG|thumb|UEA's [[Brutalist architecture|Brutalist]] [[ziggurat]]s. The university opened in 1963.]]
+In the early part of the 20th century Norwich still had several major manufacturing industries. Among them were the manufacture of shoes (for example the [[Start-rite]] and Van Dal brands), clothing, joinery (including the cabinet makers and furniture retailer [[Arthur Brett and Sons]], which continues in business in the 21st century), and structural engineering, as well as aircraft design and manufacture. Important employers included [[Boulton & Paul]], Barnards (ironfounders, and inventors of machine produced [[wire netting]]), and electrical engineers Laurence Scott and Electromotors.
+
+Norwich also has a long association with chocolate manufacture, primarily through the local firm of Caley's, which began as a manufacturer and bottler of mineral water and later diversified into making chocolate and [[Christmas crackers]]. The Caley's cracker-manufacturing business was taken over by Tom Smith<ref>{{cite web|url=http://www.tomsmithcrackers.co.uk/ |title=Tom Smith Crackers |publisher=Tom Smith Crackers |accessdate=13 September 2013}}</ref> in 1953, and the Norwich factory in Salhouse Road eventually closed in 1998. Caley's was acquired by Mackintosh in the 1930s, and merged with [[Rowntree's]] in 1969 to become Rowntree-Mackintosh. Finally, it was bought by [[Nestlé]] and closed in 1996, with all operations moving to [[York]] after an association of 120 years with Norwich. The demolished factory stood on the site of what is now the Chapelfield development. Caley's chocolate has since made a reappearance as a brand in the city, although it is no longer made in Norwich.<ref>{{cite web|url=http://www.edp24.co.uk/content/edp24/news/story.aspx?brand=EDPOnline&category=News&tBrand=EDPOnline&tCategory=xDefault&itemid=NOED17%20Jul%202010%2008%3A08%3A21%3A243|publisher=Eastern Daily Press|title=Caley's New Cocoa Cafe..|accessdate=17 July 2010}}</ref>
+
+[[HMSO]], once the official publishing and stationery arm of the British government and one of the largest print buyers, printers and suppliers of office equipment in the UK, moved most of its operations from London to Norwich in the 1970s. It occupied the purpose-built 1968 Sovereign House building, near Anglia Square, which, in 2017, stands empty, and is due for demolition if the long-postponed redevelopment of Anglia Square goes ahead.
+
+[[File:Jarrolds.JPG|thumb|[[Jarrolds]] department store has been based in Norwich since 1823.]]
+[[Jarrolds]], established in 1810, was a nationally well-known printer and publisher. In 2004, after nearly 200 years, the printing and publishing businesses were sold. Today, the company remains privately owned and the Jarrold name is now best known and recognised as being that of Norwich's only independent [[department store]]. The company is also active in property development in Norwich and has a business training division.<ref>[http://www.jarrold.co.uk/index.html Jarrold's store] {{webarchive|url=https://web.archive.org/web/20091101022117/http://www.jarrold.co.uk/index.html |date=1 November 2009 }} Retrieved 16 November 2009.</ref>
+
+==== Pubs and brewing ====
+The city was home to a long-established tradition of brewing,<ref>[http://www.museums.norfolk.gov.uk/default.asp?Document=400.740.51x2 Norfolk Museums & Archaeology Service website] {{webarchive|url=https://web.archive.org/web/20110727215221/http://www.museums.norfolk.gov.uk/default.asp?Document=400.740.51x2 |date=27 July 2011 }} — "Brewing in Norwich".</ref> with several large [[brewery|breweries]] continuing in business into the second half of the century. The main ones were Morgans, Steward and Patteson, Youngs Crawshay and Youngs, Bullard and Son, and the Norwich Brewery. Despite takeovers and consolidation in the 1950s and 1960s, by the 1970s only the Norwich Brewery (owned by [[Watney Combe & Reid|Watney Mann]] and on the site of Morgans) remained. That too closed in 1985 and was subsequently demolished. Only [[Microbrewery|microbreweries]] can be found today.
+
+It was stated by Walter Wicks in his book that Norwich once had "a pub for every day of the year, and a church for every Sunday". This was in fact significantly under the actual amount, with the highest number of pubs in the city was in the year 1870, with over 780 beer-houses. A Licensing Act in 1872, had several detrimental effects for landlords and customers, with the total number of pubs dropping to 634.{{citation needed|date=August 2018}} A "Drink Map" was produced in 1892,{{by whom|date=August 2018}} which showed 631 pubs in and around the city centre and surrounding districts. By 1900, the number had dropped to 441 pubs within the City Walls. The title of a pub for every day of the year survived until 1966, when the Chief Constable informed the Licensing Justices that only 355 licences were still operative{{citation needed|date=August 2018}}, with the number slowly shrinking, as over 25 have closed in the last decade.<ref>{{Cite news|url=http://www.edp24.co.uk/news/the-city-of-pubs-but-more-than-25-have-closed-in-the-past-decade-1-5176681|title=The city of pubs – but more than 25 have closed in the past decade|last=Betts|first=Marc|work=Eastern Daily Press|access-date=2018-08-29|language=en}}</ref> As of 2018, around 100 pubs still trade in the city centre and surrounding areas.
+
+====Nazi bombing of Norwich====
+
+{{main|Norwich Blitz}}
+
+Norwich suffered extensive bomb damage during World War II, affecting large parts of the old city centre and Victorian terrace housing around the centre. Industry and the rail infrastructure also suffered. The heaviest raids occurred on the nights of 27/28 and 29/30 April 1942; as part of the [[Baedeker raids]] (so-called because Baedeker's series of tourist guides to the [[British Isles]] were used to select propaganda-rich targets of cultural and historic significance rather than strategic importance). [[Lord Haw-Haw]] made reference to the imminent destruction of Norwich's new [[City Hall, Norwich|City Hall]] (completed in 1938), although in the event it survived unscathed. Significant targets hit included the Morgan's Brewery building, [[Colman's]] [[Wincarnis]] works, [[Norwich City railway station|City Station]], the Mackintosh chocolate factory, and shopping areas including St Stephen's St and St Benedict's St, the site of Bond's [[department store]] (now [[John Lewis (department store)|John Lewis]]) and Curl's department store.
+229 citizens were killed in the two [[Baedeker Blitz|Baedeker raids]] with 1000 others injured, and 340 by bombing throughout the war—giving Norwich the highest air raid casualties in Eastern England. Out of the 35,000 domestic dwellings in Norwich, 2,000 were destroyed, and another 27,000 suffered some damage.<ref name="oldcity.org.uk">{{Cite web|url=http://www.oldcity.org.uk/norwich/history/history09.php|title=A History of Norwich - 20th Century Norwich|website=www.oldcity.org.uk|access-date=2018-08-05}}</ref> In 1945 the city was also the intended target of a brief V2 rocket campaign, though all these missed the city. (Sources: 4 Civil Defence Region bombing reports at National Archive; M J F Bowyer "Air Raid").
+
+====Post-Second World War redevelopment====
+As the war ended, the city council revealed what it had been working on before the war. It was published as a book - 'The City of Norwich Plan 1945' or commonly known as 'The '45 Plan' <ref>{{Cite news|url=https://www.invisibleworks.co.uk/the-1945-plan/|title=Imagined futures past: '45 Plan - Invisible Works|date=2014-05-13|work=Invisible Works|access-date=2018-08-05|language=en-GB}}</ref> - a grandiose scheme of massive redevelopment which never properly materialised. However, the ten years between 1960 and 1970 completely altered the city, and significantly large areas of Norwich were cleared to make way for modern redevelopment.
+
+In 1960, the inner-city district of Richmond, locally known as 'the Village on the Hill' was condemned as slums, and many residents were forced to leave due to [[compulsory purchase order]]s on the old terraces and lanes. The whole borough was demolished, which consisted of around 56 acres of existing streets, including 833 dwellings (612 considered unfit for human habitation), 42 shops, 4 offices, 22 public houses and 2 schools.<ref>{{Cite news|url=http://www.eveningnews24.co.uk/views/derek-james/returning-to-the-lost-village-on-the-hill-in-old-norwich-1-1697965|title=Returning to the lost "village on the hill" in old Norwich.|last=James|first=Derek|work=Norwich Evening News|access-date=2018-08-30|language=en}}</ref> Communities were moved to high rise buildings such as Normandie Tower, or new housing estates such as the Tuckswood Estate, that were being built around the city at the time. A new road, Rouen Road was developed in the area's place, which consists mainly of light industrial units and council flats. [[Ber Street, Norwich|Ber Street]], a once historical main road into the city had its whole eastern side demolished. The final part of St Peters Street (at the top of [[St Peter Mancroft]] church), along with large Georgian houses at the top of Bethel Street was demolished to make way for car park for the new City Library in 1961.<ref name="oldcity.org.uk"/> This later burnt down in April 1994, and in 2001, [[The Forum, Norwich|The Forum]] was built in its place.
+
+Many more buildings were demolished during the construction of the inner-ring road, which saw an ancient road junction, Stump Cross with Tudor and Georgian buildings in Magdalen Street, Botolph Street and most notably Pitt Street, cleared to make way for a fly-over and [[Brutalist architecture|Brutalist]] concrete shopping centre, [[Anglia Square Shopping Centre, Norwich|Anglia Square]] and office blocks such as HMSO building Sovereign House. Other areas affected by the ring-road were Grapes Hill, a once narrow lane lined with Georgian and Victorian cottages, being cleared and widened to form a dual carriageway leading up in to a roundabout in 1970. Shortly before the construction of this roundabout, the city's old [[Chapel Field Road drill hall, Norwich|Drill Hall]] was demolished, along with parts of the original city wall and other larger townhouses along the start of Unthank Road. Its unusual name comes from the Unthank family who were local landowners. <ref>{{cite web |last1=James |first1=Derek |title=The real story behind Unthank Road |url=https://www.eveningnews24.co.uk/views/norwich-golden-triangle-unthank-derek-james-1-5352280 |website=Evening News}}</ref> The north westerly corner of Chapelfield Gardens was also cut off in order to accommodate the new roundabout. About a mile of Georgian houses along Chapelfield Road and Queens Road; which saw many houses that were built into the city walls, were bulldozed in 1964. This included the surrounding area near Vauxhall Street, consisting of Georgian cottages which were condemned as slums. Post-war housing and maisonettes flats now stand where the [[Rookery (slum)|Rookery slums]] once did. Some aspects of The '45 Plan were put into action, which saw large three-story Edwardian houses in Grove Avenue and Grove Road, and other large properties on Southwell Road, demolished in 1962 to make way for flat-roofed single story style maisonettes, that still stand today.<ref>{{Cite web|url=https://norfolk.spydus.co.uk/cgi-bin/spydus.exe/FULL/PICNOR/BIBENQ/155332801/2219614,5?FMT=IMG|title=Spydus - Image Display - Record 5 of 8|website=Civica|publisher=Norfolk County Council|language=en|access-date=2018-09-09}}</ref> Heigham Hall, a large Victorian manor house was also demolished in 1963, to build Dolphin Grove flats.
+
+Further housing developments in the private and public sector took place after the Second World War, partly to accommodate the growing population of the city and also to replace condemned and bomb damaged areas, such as the Heigham Grove district between Barn Road and Old Palace Road, and West Pottergate off Dereham Road. Other central streets such as St Stephens Street was widened, firstly by [[Norwich Union]]'s new office blocks and shortly after redeveloped with new buildings after it suffered extensive damage during the [[Baedeker Blitz|Baedeker raids]]. On Surrey Street, many six-storey Georgian buildings were demolished to make way for Norwich Union's office. Other notable buildings that were lost were three theatres, Norwich Hippodrome on St Giles Street, which is now a multi-storey car park, The Grosvenor Rooms and the Electric Theatre of Prince of Wales Road, The Corn Hall on Exchange Street, the Free Library on Duke Street and the Great Eastern Hotel, that stood facing [[Norwich railway station|Norwich Station]].
+
+==== Other notable events ====
+In 1976 the city's pioneering spirit was on show when Motum Road in Norwich, allegedly the scene of "a number of accidents over the years", became the third road in Britain to be equipped with [[sleeping policemen]], intended to encourage adherence to the road's 30&nbsp;mph (48&nbsp;km/h) speed limit.<ref name=Autocar197605>{{cite journal| journal=[[Autocar (magazine)|Autocar]] |volume = 144 | issue = 4147 | authorlink =Peter Garnier (Ed)|title =News: Humps – another road|page = 2| date = 1 May 1976}}</ref> The bumps, installed at intervals of 50 and 150 yards, stretched 12 feet across the width of the road and their curved profile was, at its highest point, 4&nbsp;inches (10&nbsp;cm) high.<ref name=Autocar197605/> The responsible [[Transport Research Laboratory|quango]] gave an assurance that the experimental devices would be removed not more than one year after installation.<ref name=Autocar197605/>
+
+From 1980 to 1985 the City became a frequent focus of national media due to the squatting of [[Argyle Street, Norwich|Argyle Street]], a Victorian street that was demolished in 1986, despite being the last street left to survive the Richmond Hill redevelopment. On 23 November 1981, a minor [[1981 United Kingdom tornado outbreak|F0/T1 tornado]] struck Norwich as part of the record-breaking nationwide tornado outbreak on that day, causing minor damage in Norwich city centre and surrounding suburbs.<ref>http://www.eswd.eu/cgi-bin/eswd.cgi</ref>
+
+==Government==
+{{Main|Norfolk County Council|Norwich City Council}}{{see also|Norwich local elections}}
+[[File:Norwich City Hall - geograph.org.uk - 24665.jpg|thumb|[[Norwich City Hall]], the meeting place of the city council]]
+
+===City and county councils===
+Norwich has been governed by two tiers of [[local government in the United Kingdom|local government]] since the implementation of the [[Local Government Act 1972]]. The upper tier is [[Norfolk County Council]], which manages strategic services such as schools, social services and libraries across the county of [[Norfolk]]. The lower tier is Norwich City Council, which manages local services such as housing, planning, leisure and tourism.<ref>{{cite book |title=Local government in England and Wales: A Guide to the New System |year=1974 |publisher=[[HMSO]] |location=London |isbn=0-11-750847-0 |page=72}}</ref>
+
+Norwich elects 13 county councillors to the 84-member county council. The city is divided into single-member electoral divisions, and county councillors are elected every four years.<ref>{{cite web |url=http://www.opsi.gov.uk/si/si2005/uksi_20050173_en.pdf |title=The County of Norfolk (Electoral Changes) Order 2005 |date=1 February 2005 |publisher=[[Office of Public Sector Information]] |accessdate=13 February 2010}}</ref>
+
+Norwich City Council consists of 39 councillors elected to represent 13 [[ward (politics)|wards]] — three councillors per ward. Elections are held by thirds, where one councillor in each ward is elected annually for a four-year term, except in the year of county council elections.<ref>{{cite web |url=http://www.opsi.gov.uk/si/si2002/uksi_20023222_en.pdf |title=The City of Norwich (Electoral Changes) Order 2002 |date=18 December 2002 |publisher=[[Office of Public Sector Information]] |accessdate=13 February 2010}}</ref> It is currently controlled by the Labour Party. Following the 2016 local elections, the distribution of council seats is Labour 26, Green Party 10, Liberal Democrats 3.<ref>{{cite web| url=https://www.norwich.gov.uk/info/20021/elections_and_voting/1791/local_election_results_may_2016 |work=Norwich City Council  | title=Local election results May 2016}}</ref>
+
+===Lord mayoralty and shrievalty===
+[[File:Norwich Guildhall from south.jpg|thumb|[[Norwich Guildhall]], the seat of local government from the early 15th century until 1938]]
+{{see also|List of Lord Mayors of Norwich}}
+The ceremonial head of the city is the [[List of Lord Mayors of Norwich|Lord Mayor]]; though now simply a ceremonial position, in the past the office carried considerable authority, with executive powers over the finances and affairs of the city council. {{As of|2017}}, the Lord Mayor is Cllr. David Fullman and the Deputy Lord Mayor is Cllr. Martin Schmierer. The office of mayor of Norwich dates from 1403 and was raised to the dignity of [[List of lord mayoralties and lord provostships in the United Kingdom|lord mayor]] in 1910 by [[Edward VII of the United Kingdom|Edward VII]] "in view of the position occupied by that city as the chief city of East Anglia and of its close association with His Majesty".<ref name=mayor>{{cite web|url=http://www.norwich.gov.uk/webapps/atoz/service_page.asp?id=1407&pid=1014 |title=Lord Mayor of Norwich |publisher=Norwich City Council |accessdate=13 February 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110716110301/http://www.norwich.gov.uk/webapps/atoz/service_page.asp?id=1407&pid=1014 |archivedate=16 July 2011 |df= }}</ref><ref>{{cite news |title=The King and Norwich |newspaper=[[The Times]] |date=7 February 1910 }}</ref> The title was regranted on local government reorganisation in 1974.<ref>{{London Gazette|issue=46255|page=4400|date=4 April 1974}}</ref> From 1404 the citizens of Norwich, as a [[county corporate]], had the privilege of electing two sheriffs. Under the [[Municipal Corporations Act 1835]] this number of sheriffs was reduced to one, and it became an entirely ceremonial post. Both Lord Mayor and sheriff are elected at the council's annual meeting.<ref name=mayor/><ref>{{cite web|url=http://www.norwich.gov.uk/webapps/atoz/service_page.asp?id=1408&pid=1014 |title=Sheriff of Norwich |publisher=Norwich County Council |accessdate=13 February 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110716110317/http://www.norwich.gov.uk/webapps/atoz/service_page.asp?id=1408&pid=1014 |archivedate=16 July 2011 |df= }}</ref>
+
+===Unitary status proposal===
+In October 2006, the [[Department for Communities and Local Government]] produced a Local Government [[White paper|White Paper]] inviting councils to submit proposals for [[Unitary authority|unitary]] restructuring. Norwich submitted its proposal in January 2007, which was rejected in December 2007, as it did not meet all the rigorous criteria for acceptance. In February 2008, the [[Boundary Committee for England]] (from 1 April 2010 incorporated in the [[Local Government Boundary Commission for England]]), was asked to consider alternative proposals for the whole or part of Norfolk, including whether Norwich should become a unitary authority, separate from Norfolk County Council. In December 2009, the Boundary Committee recommended a single unitary authority covering all of Norfolk, including Norwich.<ref>{{cite web|url=http://www.norfolk.gov.uk/consumption/idcplg?IdcService=SS_GET_PAGE&nodeId=3679 |archive-url=https://web.archive.org/web/20080801125709/http://www.norfolk.gov.uk/consumption/idcplg?IdcService=SS_GET_PAGE&nodeId=3679 |dead-url=yes |archive-date=1 August 2008 |title=Local Government White Paper, Strong and Prosperous Communities |publisher=Norfolk County Council |accessdate=10 September 2009 |df= }}</ref><ref>{{cite web|url=http://www.norwich.gov.uk/site_files/pages/City_Council__Unitary_Council__The_business_case.html |title=The business case for unitary Norwich |publisher=Norwich City Council |accessdate=13 February 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20081207121634/http://www.norwich.gov.uk/site_files/pages/City_Council__Unitary_Council__The_business_case.html |archivedate=7 December 2008 }}</ref><ref>{{cite web|url=http://www.communities.gov.uk/index.asp?id=1509022 |title=Proposals for future unitary structures: Stakeholder consultation |publisher=[[Communities and Local Government]] |accessdate=13 February 2010 |deadurl=yes |archiveurl=http://webarchive.nationalarchives.gov.uk/20120919132719/http://www.communities.gov.uk/index.asp?id=1509022 |archivedate=19 September 2012 |df= }}</ref><ref>{{cite web |url=http://www.lgbce.org.uk/__documents/lgbce-documents/draftfinal-reports-and-consultation-papers/2009/norfolk-sr-final-dec09.pdf |title=Our advice to the Secretary of State on unitary local government in Norfolk (PDF Document) |publisher=The Boundary Committee |date=7 December 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20120111080052/http://www.lgbce.org.uk/__documents/lgbce-documents/draftfinal-reports-and-consultation-papers/2009/norfolk-sr-final-dec09.pdf |archivedate=11 January 2012 |df=dmy-all }}</ref>
+
+However, in February 2010, it was announced that, contrary to the December 2009 recommendation of the Boundary Committee, Norwich would be given separate unitary status.<ref>{{cite web |url=http://www.communities.gov.uk/news/localgovernment/1463780 |archive-url=http://webarchive.nationalarchives.gov.uk/20100304114510/http://www.communities.gov.uk/news/localgovernment/1463780 |dead-url=yes |archive-date=4 March 2010 |title=Minister's Statement of 10 February 2010 |publisher=[[Communities and Local Government]] |accessdate=13 February 2010}}</ref> The proposed change was strongly resisted, principally by Norfolk County Council and the Conservative opposition in Parliament.<ref>{{cite web |url=https://publications.parliament.uk/pa/cm200809/cmhansrd/cm090224/halltext/90224h0001.htm |title=Unitary Authorities |date=24 February 2009 |work=House of Commons Hansard Debates |publisher=[[Parliament of the United Kingdom]] |accessdate=13 February 2010}}</ref> Reacting to the announcement, Norfolk County Council said it would look to challenge the decision in the courts.<ref>{{cite web |url=http://www.norfolk.gov.uk/consumption/idcplg?IdcService=SS_GET_PAGE&ssDocName=NCC074317&ssSourceNodeId=&ssTargetNodeId=3018 |title=Reaction to announcement on Local Government Reorganisation Announcement |date=10 February 2010 |work=News Archive |publisher=Norfolk County Council |accessdate=13 February 2010 }}{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> A letter was leaked to the local media, in which the Permanent Secretary for the Department for Communities and Local Government noted that the decision did not meet all the criteria and that the risk of it "being successfully challenged in judicial review proceedings is very high."<ref>{{cite news |title=Peter Housden's letter in full |newspaper=[[Eastern Daily Press]] |date=12 February 2010 |url=http://www.edp24.co.uk/content/edp24/news/story.aspx?brand=EDPOnline&category=NewsSplash&tBrand=EDPOnline&tCategory=xDefault&itemid=NOED11%20Feb%202010%2020%3A18%3A28%3A560 }}</ref> The Shadow Local Government and Planning Minister, [[Bob Neill]], stated that should the [[Conservative Party (UK)|Conservative Party]] win the [[United Kingdom general election, 2010|2010 general election]], they would reverse the decision.<ref name=edp2feb>{{cite news |title=At last, a verdict on Norfolk councils' future |author=Shaun Lowthorpe |newspaper=[[Eastern Daily Press]] |date=2 February 2010 |url=http://www.edp24.co.uk/content/edp24/news/story.aspx?brand=EDPOnline&category=NewsSplash&tBrand=EDPOnline&tCategory=xDefault&itemid=NOED02+Feb+2010+09%3A25%3A04%3A570 }}</ref>
+
+Following the [[United Kingdom general election, 2010|2010 general election]], [[Eric Jack Pickles|Eric Pickles]] was appointed [[Secretary of State for Communities and Local Government]] in a [[Cameron–Clegg coalition|Conservative–Liberal Democrat coalition government]]. According to press reports, he instructed his department to take urgent steps to reverse the decision and maintain the status quo in line with the Conservative Party manifesto.<ref>{{cite news |title=Government chief moves to axe Norwich unitary plans |first=Shaun |last=Lowthorpe |newspaper=[[Eastern Daily Press]] |date=14 May 2010 |url=http://www.edp24.co.uk/content/edp24/news/story.aspx?brand=EDPOnline&category=News&tBrand=EDPOnline&tCategory=xDefault&itemid=NOED13%20May%202010%2019%3A12%3A43%3A450 }}</ref><ref>{{cite web|url=http://www.communities.gov.uk/news/corporate/159177711|title=Pickles stops unitary councils in Exeter, Norwich and Suffolk|publisher=Department for Communities and Local Government|accessdate=25 July 2010}}</ref> However, the unitary plans were supported by the Liberal Democrat group on the city council, and by [[Simon Wright (politician)|Simon Wright]], LibDem MP for [[Norwich South (UK Parliament constituency)|Norwich South]], who intended to lobby the party leadership to allow the changes to go ahead.<ref>{{cite news |title=New bid to end unitary plans |newspaper=Yarmouth Mercury |date=17 May 2010 |url=http://www.greatyarmouthmercury.co.uk/content/yarmouthmercury/news/story.aspx?brand=GYMOnline&category=news&tBrand=GYMonline&tCategory=news&itemid=NOED17%20May%202010%2009%3A50%3A04%3A040 }}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+The [[Local Government Act 2010]] to reverse the unitary decision for Norwich (and Exeter and Suffolk) received Royal Assent in December 2010. The disputed award of unitary status had meanwhile been referred to the [[High Court of Justice|High Court]], and in June 2010 the court ruled it unlawful, and revoked it; the city failed to attain unitary status.<ref>{{cite news |title=September by-elections for Exeter and Norwich|publisher=BBC News |accessdate=19 July 2010|url=https://www.bbc.co.uk/news/uk-england-10687867 | date=19 July 2010}}</ref>
+
+===Westminster===
+{{see also|Norwich North (UK Parliament constituency)|Norwich South (UK Parliament constituency)}}
+
+Since 1298 Norwich has returned two members of parliament to the [[House of Commons of the United Kingdom|House of Commons]]. Until [[Representation of the People Act 1948|1950]] the city was an [[Norwich (UK Parliament constituency)|undivided constituency]], returning two MPs. Since that date the area has been divided between two single-member constituencies: [[Norwich North (UK Parliament constituency)|Norwich North]] and [[Norwich South (UK Parliament constituency)|Norwich South]].{{sfn|Youngs|1980|p=751}} Both constituencies have proved to be marginal seats in recent elections; until 2010 switching between the Labour and Conservative parties.
+
+Norwich North, which includes some rural wards of [[Broadland]] District, was held by Labour from 1966 to 1983 when it was gained by the Conservatives. Labour regained the seat in 1997, holding it until a [[Norwich North by-election, 2009|by-election in 2009]]. The current MP is the Conservative, [[Chloe Smith]], who held the seat in the [[United Kingdom general election, 2015|2015 General Election]].<ref>{{cite news |url=https://www.theguardian.com/politics/constituency/1195/norwich-north|title=Norwich North |series=Politics |work=The Guardian |location=London |accessdate=13 February 2010 }}</ref> Norwich South, which includes part of [[South Norfolk]] District, was held by Labour from 1966 to 1983 when it was gained by the Conservatives. John Garrett regained the seat for Labour in 1987. [[Charles Clarke]] became Labour MP for Norwich South in 1997.<ref>{{cite news |url=https://www.theguardian.com/politics/constituency/1196/norwich-south |title=Norwich South |series=Politics |work=The Guardian |location=London |accessdate=13 February 2010 }}</ref> In the [[United Kingdom general elections|2010 General Election]], Labour lost the seat to the [[Liberal Democrats (UK)|Liberal Democrats]], with [[Simon Wright (politician)|Simon Wright]] becoming MP.<ref>{{cite web |url=http://www.edp24.co.uk/content/edp24/news/story.aspx?brand=EDPOnline&category=News&tBrand=EDPOnline&tCategory=xDefault&itemid=NOED07%20May%202010%2004%3A52%3A55%3A767 |title=Clarke Out as Lib Dems win Norwich South |accessdate=7 May 2010 |publisher=''Eastern Daily Press''}}</ref> At the 2015 General Election, [[Clive Lewis (politician)|Clive Lewis]] regained the seat for Labour.<ref>{{cite web |url=http://www.edp24.co.uk/news/labour_win_norwich_south_on_night_of_misery_for_lib_dems_1_4065583 |title=Labour win Norwich South on night of misery for Lib Dems |accessdate=9 May 2015 }}</ref>
+
+In the [[United Kingdom general election, 2017|2017 General Election]], both the incumbent 2015 MPs held their seats.<ref>{{cite web | url= http://www.edp24.co.uk/news/politics/general-election-2017-winners-and-losers-after-results-declared-in-norfolk-and-waveney-1-5054661 |title= General Election 2017; What happened in Norfolk and Waveney? |publisher="Eastern Daily Press"" |accessdate=14 August 2017 }}</ref>
+
+==Demography==
+{{Historical populations
+| title    = Population Change
+| type     = UK
+| cols     = 3
+| shadings = off
+| footnote = <ref>{{cite web |url=http://www.visionofbritain.org.uk/unit/10168697/cube/TOT_POP |title=Norwich District: Total Population |accessdate=26 February 2014 |work=A Vision of Britain Through Time |publisher=Great Britain Historical GIS Project }}</ref><ref name="Norwich 2011">{{cite web |url=http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&b=6275192&c=Norwich&d=13&e=62&g=6449900&i=1001x1003x1032x1004&m=0&r=1&s=1393418909625&enc=1|title=Norwich (Local Authority) |author=United Kingdom Census 2011 |publisher=Office for National Statistics |accessdate=24 February 2014}} Nb. Only used for 2011 data.</ref>
+|1801 |35633
+|1821 |48792
+|1841 |60418
+|1861 |70958
+|1881 |79977
+|1901 |100815
+|1921 |112533
+|1941 |112669
+|1951 |110633
+|1961 |116231
+|1971 |122118
+|1981 |119764
+|1991 |127074
+|2001 |121553
+|2011 |132512
+}}
+
+The [[United Kingdom Census 2011]] reported a resident population for the City of Norwich of 132,512, a 9% increase over the 2001 census.<ref name="Norwich 2011"/> The urban or built-up area of Norwich had a population of 213,166 according to the 2011 census.<ref name="2011 Census - Built-up areas"/> This area extends beyond the city boundary, with extensive suburban areas on the western, northern and eastern sides, including [[Costessey]], [[Taverham]], [[Hellesdon]], [[Bowthorpe]], [[Old Catton]], [[Sprowston]] and [[Thorpe St Andrew]]. The parliamentary seats cross over into adjacent local-government districts. The population of the Norwich Travel to Work Area (i. e. the self-contained labour-market area in and around Norwich in which most people live and commute to work) is 282,000 (mid-2009 estimate).<ref name=ons2013/> Norwich is the fourth most densely populated local-government district in the [[East of England]], with 3,480 people per square kilometre (8,993 per square mile).
+
+In 2011 the racial composition of Norwich's population was 90.9% [[White people|White]] (84.7% [[White British]], 0.7% [[Irish migration to Great Britain|White Irish]], 0.1% [[Gypsy (term)|Gypsy]] or [[Irish Traveller]], 5.4% [[Other White]]), 4.5% [[British Asian|Asian]] (1.3% [[British Indian|Indian]], 0.2% [[British Pakistanis|Pakistani]], 0.4% [[British Bangladeshi|Bangladeshi]], 1.3% [[British Chinese|Chinese]], 1.3% Other Asian), 2.3% of [[Mixed (United Kingdom ethnicity category)|mixed race]] (0.5% White and Black Caribbean, 0.5% White and Black African, 0.7% White and Asian, 0.6% Other Mixed), 1.6% [[Black British|Black]] (1.3% African, 0.2% [[British African-Caribbean people|Caribbean]], 0.1% [[Other Black]]), 0.5% [[British Arab|Arab]] and 0.4% of other ethnic heritage.<ref name=census2011ethnicities>{{cite web |url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls |title=2011 Census: Ethnic group, local authorities in England and Wales |publisher=ONS |accessdate=10 March 2014}}</ref> In terms of religion, 44.9% of the population are Christian, 2% are Muslim, 0.8% are Hindu, 0.7% are Buddhist, 0.2% are Jewish, 0.1% are Sikh, 0.7% belong to another religion, 42.5% have no religion and 8.2% did not state their religion.<ref>{{cite web |url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks209ew.xls |title=2011 Census: Religion, local authorities in England and Wales |accessdate=26 February 2014 |work=United Kingdom Census 2011 |publisher=Office for National Statistics }}</ref> In both the 2001 and 2011 censuses Norwich was found to be the least religious city in England, with the largest proportion of respondents with no reported religion, compared to 25.1% across England and Wales.<ref name=bbcreligion>{{cite news|url=https://www.bbc.co.uk/news/uk-england-20679514|title=Census shows Norwich 'least religious city' in England and Wales|website=BBC News|author=John Welch|date=12 December 2012|accessdate=8 February 2014}}</ref>
+
+The largest [[quinary]] group is 20 to 24-year-olds (14.6%) because of the large university student population.<ref>{{cite web |url=http://www.empho.org.uk/download.aspx?urlid=10305&urlt=1 |title=Mid-2005 Population Estimates: Quinary age groups and sex for local authorities in the United Kingdom. |accessdate=26 February 2014 |work=National Statistics |publisher=Office for National Statistics }}{{Dead link|date=August 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Education==
+
+===Primary and secondary===
+The city has 56 primary schools (including 16 academies and free schools) and 13 secondary schools, 11 of which are academies.<ref name="Gov.uk.norwich">{{cite web|url=https://www.compare-school-performance.service.gov.uk/?keywords=Norwich&LocationCoordinates=&searchtype=search-by-location|title=Search Results – Compare School Performance|publisher=Gov.uk|accessdate=25 February 2017}}</ref> The city's eight independent schools include [[Norwich School (independent school)|Norwich School]] and the [[Norwich High School for Girls]].<ref name="Gov.uk.norwich"/> There are also five special schools.<ref>{{cite web|url=http://www.esinet.norfolk.gov.uk/schoolfinder/placeresults.asp?id=462&range=|title=SchoolFinder|website=Norfolk County Council|accessdate=1 February 2014}}</ref>
+
+The former Norwich High School for Boys, on Upper St Giles Street, has a [[blue plaque]] commemorating Sir [[John Mills]] who was a pupil there.<ref>{{cite web |title=John Mills blue plaque in Norwich |url=http://www.blueplaqueplaces.co.uk/john-mills-blue-plaque-in-norwich-4208#.XDfLslz7TIU |website=Blue Plaque Places}}</ref>
+
+===Universities and colleges===
+[[File:University College of the Arts, Duke St - geograph.org.uk - 1398450.jpg|thumb|[[Norwich University of the Arts]]]]
+
+Norwich has two universities, the [[University of East Anglia]] and [[Norwich University of the Arts]]. The student population of the city is around 15,000,<ref>{{cite web|url=http://www.thecompleteuniversityguide.co.uk/cities/norwich/|title=Norwich|website=Complete University Guide|accessdate=1 February 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140203050336/http://www.thecompleteuniversityguide.co.uk/cities/norwich/|archivedate=3 February 2014|df=dmy-all}}</ref> many of whom come from overseas. The University of East Anglia was founded in 1963 and is located on the outskirts of the city. It is well known for its creative-writing programme, established by [[Malcolm Bradbury]] and [[Angus Wilson]], whose graduates include [[Kazuo Ishiguro]] and [[Ian McEwan]]. The university campus is the home of the [[Sainsbury Centre for Visual Arts]], which houses a number of important art collections. The Norwich University of the Arts dates back to 1845 as the Norwich School of Design. Founded by artists and followers of the [[Norwich School (art movement)|Norwich School]] art movement, it was established to provide designers for local industries. Previously a specialist art school (as the Norwich School of Art and Design), it achieved university status in 2013.
+
+Norwich has three [[further education]] colleges. [[City College Norwich]], situated on Ipswich Road, was founded in 1891 and is one of the largest colleges in the country.<ref>{{cite news|url=https://www.telegraph.co.uk/education/universityeducation/universities-and-colleges/8533258/City-College-Norwich-guide.html|title=City College Norwich Guide|newspaper=The Telegraph|accessdate=1 February 2014|location=London|first=Andrew|last=Marszal|date=17 April 2013}}</ref> [[Access to Music]] is located on Magdalen Street at Epic Studios, and [[Easton & Otley College]]'s Easton Campus is located {{convert|11|km}} west of the city.<ref>[https://www.eastonotley.ac.uk/ Easton & Otley College]</ref>
+
+==Culture and attractions==
+Historically Norwich has been associated with art, literature and publishing, which continues to the present day. Norwich was the site of the first provincial library in England, which opened in 1608, and was the first city to implement the [[Public Libraries Act 1850]].<ref name=unesco10>{{cite web|url=http://www.unesco.org.uk/uploads/Norwich%20UNESCO%20City%20of%20Literature%2010%20things.pdf|title=10 things to know about Norwich|publisher=UNESCO|date=November 2012|accessdate=26 February 2014}}</ref> The ''[[Norwich Post]]'' was the first provincial newspaper outside London, first published in 1701.<ref name=unesco10/> The [[Norwich School (art movement)|Norwich School]] of artists was the first provincial art movement, with nationally acclaimed artists such as [[John Crome]] associated with the movement.{{sfn|Cundall|1920}} Other literary firsts associated with the city include [[Julian of Norwich]]'s ''[[Revelations of Divine Love]]'', published in 1395, which was the first book written in the English language by a woman, and the first poem written in [[blank verse]], composed by [[Henry Howard, Earl of Surrey]], in the 16th century.<ref name=unesco10/>
+
+Today the city is a regional centre for publishing, with 5% of the UK's independent publishing sector based in the city in 2012.<ref name=unesco10/> In 2006 Norwich became the UK's first City of Refuge, part of the [[International Cities of Refuge Network]] (ICORN) which promotes free speech.<ref name=unesco10/> Norwich made the shortlist for the first city to be designated [[UK City of Culture]], but in July 2010 it was announced that [[Derry]] had been selected.<ref name="Derry wins City of Culture">{{cite news|url=https://www.bbc.co.uk/news/entertainment-arts-10653989|title=Londonderry named the UK City of Culture|publisher=BBC News |accessdate=15 July 2010 | date=15 July 2010}}</ref> In May 2012 Norwich was designated as England's first [[UNESCO]] [[City of Literature]].<ref>{{cite web|url=http://m.bbc.co.uk/news/uk-england-norfolk-18016481 |title= Norwich named as UNESCO City of Literature |publisher=BBC |date=10 May 2012 |accessdate=13 September 2013}}</ref>
+
+===Attractions===
+[[File:Pulls Ferry, Norwich.jpg|thumb|left|[[Pulls Ferry, Norwich|Pulls Ferry]], once a 15th-century [[Watergate (architecture)|watergate]]]]
+
+Norwich is a popular destination for a city break; attractions include [[Norwich Cathedral]], the cobbled streets and museums of old Norwich, [[Norwich Castle]], [[Cow Tower, Norwich|Cow Tower]], [[Dragon Hall, Norwich|Dragon Hall]] and [[The Forum, Norwich|The Forum]]. Norwich is one of the UK's top ten shopping destinations, with a mix of chain retailers and independent stores as well as [[Norwich Market]], one of the largest outdoor markets in England. It is ranked about the 150th biggest city in Europe.
+
+The Forum, designed by [[Michael Hopkins (architect)|Michael Hopkins]] and Partners and opened in 2002 is a building designed to house the Norfolk and Norwich Millennium Library, a replacement for the Norwich Central Library building which burned down in 1994, and the regional headquarters and television centre for [[BBC East]]. For the seventh consecutive year since 2006 it has been the most visited library in the UK, with 1.3 million visits in 2013.<ref>{{cite news|url=https://www.theguardian.com/books/2013/dec/11/norfolk-norwich-library-most-popular-top-20|title=Norfolk & Norwich Millennium tops list of most popular UK libraries|first=Liz|last=Bury|newspaper=The Guardian|location=London|date=11 December 2013|accessdate=25 February 2014}}</ref> The collections contains the [[2nd Air Division]] Memorial Library, a collection of material about American culture and the American relationship with East Anglia, especially the role of the [[United States Air Force]] on UK airbases throughout the Second World War and [[Cold War]]. Much of the collection was lost in the 1994 fire, but the collection has been restored by contributions from many veterans of the war, both European and American. The building also provides a venue for art exhibitions, concerts and events, although the city still lacks a dedicated concert venue.
+
+Recent attempts to shed the backwater image of Norwich and market it as a popular tourist destination, as well as a centre for science, commerce, culture and the arts, have included the refurbishment of the [[Norwich Castle|Norwich Castle Museum]] and the opening of the Forum. The proposed new slogan for Norwich as ''England's Other City'' has been the subject of much discussion and controversy. It remains to be seen whether it will be finally adopted. A number of signs at the approaches to the city still display the traditional phrase: "Norwich — a fine city."
+
+[[File:The Forum Norwich 2015.JPG|thumb|[[The Forum, Norwich|The Forum]], housing, among other things, the Norfolk and Norwich Millennium Library and the [[BBC]]'s East of England headquarters and studios]]
+The city promotes its architectural heritage through a collection of notable buildings in Norwich called the "[[Norwich 12]]". The group consists of: [[Norwich Castle]], [[Norwich Cathedral]], The [[Great Hospital]], [[St. Andrew's Hall, Norwich|St Andrew's Hall and Blackfriars' Hall]], [[Norwich Guildhall|The Guildhall]], [[Dragon Hall, Norwich|Dragon Hall]], [[The Assembly House]], [[St James Mill]], [[St John the Baptist Cathedral, Norwich|St John the Baptist RC Cathedral]], [[Surrey House]], [[City Hall, Norwich|City Hall]] and [[The Forum, Norwich|The Forum]].
+
+===Art and music===
+Each year the [[Norfolk and Norwich Festival]] celebrates the arts, drawing many visitors into the city from all over eastern England. The [[Norwich Twenty Group]], founded in 1944, presents exhibitions of its members to promote awareness of modern art. Norwich was home to the first arts festival in Britain in 1772.<ref>{{cite web|url=http://www.nnfestival.org.uk/about_us/history|title=Norfolk & Norwich Festival - About us - History|first=Silk Pearce |last=www.silkpearce.com|publisher=}}</ref>
+
+[[Norwich Arts Centre]] is a notable live music venue, concert hall and theatre located in St Benedict's Street. OPEN in Bank Plain is a large, popular music and conference venue and the King of Hearts in Fye Bridge Street is another centre for art and music. Norwich has a thriving music scene based around local venues such as the University of East Anglia LCR, Norwich Arts Centre, [[The Waterfront, Norwich|The Waterfront]], The Owl Sanctuary, Epic Studios and The Blueberry. Live music, mostly contemporary musical genres, is also to be heard at a number of other [[public house]] and club venues around the city. The city is host to many artists that have achieved national and international recognition such as [[Cord (band)|Cord]], [[The Kabeedies]], [[Serious Drinking]], [[Tim Bowness]], [[Sennen (band)|Sennen]], [[Magoo (band)|Magoo]] and [[KaitO]]. Norwich is also the home of jazz and blues vocalist [[Albert Cooper (musician)|Albert Cooper]] (born 1931), who has performed on innumerable occasions in the city since 1954.
+
+Norwich was selected to host the 2015 BBC [[Radio 1 Big Weekend]]. The event was held on 23–24 May in Earlham Park.<ref>BBC Big Weekend Norwich [http://www.bbc.co.uk/events/ewh8q9] Retrieved 5 April 2016</ref>
+
+Established record labels in Norwich include; All Sorted Records,<ref>{{cite web
+| url         = http://allsortedrecords.com
+| title       = All Sorted !?! Records
+| archiveurl  = https://web.archive.org/web/20120723215728/http://www.allsortedrecords.com/
+| archivedate = 23 July 2012
+| deadurl     = yes
+| accessdate  = 27 April 2011
+| publisher   = East Anglian Music Archive
+| others      = Label owner Dudley Garner
+}}</ref> NR ONE,<ref>[http://www.nrone.co.uk/nrone record label]{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }} Retrieved 2 March 2010</ref> [[Hungry Audio]] and Burning Shed.
+
+British artist [[Stella Vine]] lived in Norwich from the age of seven,<ref name="Vine Times">{{cite news|author=Lynn Barber |url=https://www.theguardian.com/artanddesign/2007/jul/08/art |title=Vine Times |work=The Guardian |accessdate=13 September 2013 |location=London |date=9 July 2007}}</ref> including for a short while in [[Argyle Street, Norwich]] and again later in life with her son Jamie. Vine depicted the city in a large painting, ''Welcome to Norwich a fine city'' (2006).<ref name="Stella Vine at Modern Art Oxford">[http://www.modernartoxford.org.uk/Press/80 Stella Vine at Modern Art Oxford, 2007] {{webarchive |url=https://web.archive.org/web/20090124053418/http://www.modernartoxford.org.uk/Press/80 |date=24 January 2009 }}</ref>
+
+===Theatres===
+[[File:St Swithin's church in St Benedicts Street, Norwich.jpg|thumb|[[Norwich Arts Centre]], opened in 1977, on St. Benedict's Street]]
+[[File:Norwich Theatre Royal.JPG|thumb|The [[Theatre Royal, Norwich|Theatre Royal]], Norwich's largest theatre]]
+[[File:NorwichPlayhouse.JPG|thumb|[[Norwich Playhouse]], located on St. George's Street]]
+
+Norwich has theatres ranging in capacity from 100 to 1,300 seats and offering a wide variety of programmes. The [[Theatre Royal, Norwich|Theatre Royal]] is the largest and has been on its present site for nearly 250 years, through several rebuildings and many alterations. It has 1,300 seats and hosts a mix of national touring productions including musicals, dance, drama, family shows, stand-up comedians, opera and pop.
+
+The [[Maddermarket Theatre]] opened in 1921 and was the first permanent recreation of an [[Elizabethan theatre]]. The founder was [[Nugent Monck]] who had worked with [[William Poel]]. The theatre is a [[Shakespearean]]-style playhouse and has a [[seating capacity]] of 310. [[Norwich Puppet Theatre]] was founded in 1979 by Ray and Joan DaSilva as a permanent base for their touring company and was first opened as a public venue in 1980, following the conversion of the medieval church of St. James in the heart of Norwich. Under subsequent artistic directors — Barry Smith and Luis Z. Boy — the theatre established its current pattern of operation. It is a nationally unique venue dedicated to puppetry, and currently houses a 185-seat raked auditorium, the 50-seat Octagon Studio, workshops, an exhibition gallery, shop and licensed bar. It is the only theatre in the Eastern region with a year-round programme of family-centred entertainment. [[Norwich Arts Centre]] theatre opened in 1977 in St Benedict's Street, and has a capacity of 290. The [[Norwich Playhouse]], which opened in 1995 and has [[seating capacity]] of 300, is a venue in the heart of the city and one of the most modern performance spaces of its size in East Anglia.
+
+The Garage studio theatre can seat up to 110 people in a range of layouts. It can also be used for standing events to accommodate up to 180 people. Platform Theatre is in the grounds of the City College Norwich. Productions are staged mainly during the autumn and summer months. The theatre is raked and seats about 250 people. On 20 April 2012, the theatre held a large relaunch event with an evening performance, show-casing it at its best with previews of upcoming performances and scenes from some of its past performances.<ref>[http://www.ccn.ac.uk/news/new-building-boost-creative-arts-city-college-norwich City College Norwich] {{webarchive |url=https://web.archive.org/web/20120406070519/http://www.ccn.ac.uk/news/new-building-boost-creative-arts-city-college-norwich |date=6 April 2012 }} Retrieved 23 March 2012</ref>
+
+The Whiffler Theatre was built 1981 and was given to the people of Norwich by the local newspaper group Eastern Daily Press. It is an open-air facility in Norwich Castle Gardens, with fixed-raked seating for up to 80 people and standing for another 30 on the balcony. The stage is brick-built and has its dressing-rooms set in a small building to stage left. The Whiffler mainly plays host to small Shakespeare productions. [[Sewell Barn Theatre]] is the smallest theatre in Norwich and has a [[seating capacity]] of just 100. The auditorium features raked seating on three sides of an open acting space. This unusual staging helps to draw the audience closely into the performance.
+
+Public performance spaces include the Forum in the city centre, which has a large open-air [[amphitheatre]], hosting performances of many types throughout the year. Additionally, the [[cloister]]s of Norwich Cathedral are used for open-air performances as part of an annual Shakespeare festival.<ref>[http://www.cathedral.org.uk/whats-on/shakespeare-in-the-cloisters-2013-tour.aspx Shakespeare in the cloisters] {{webarchive|url=https://web.archive.org/web/20130121155413/http://www.cathedral.org.uk/whats-on/shakespeare-in-the-cloisters-2013-tour.aspx |date=21 January 2013 }} Retrieved 13 December 2012</ref>
+
+===Museums===
+Norwich has a number of important museums which reflect the rich history of the city and of Norfolk as well as wider interests. The largest is [[Norwich Castle|Norwich Castle Museum]]. This has extensive collections of archaeological finds from the county of Norfolk, of art (including a fine collection of paintings by the [[Norwich School (art movement)|Norwich School of painters]]), of ceramics (including the largest collection of British teapots), of silver, and of natural history. Of particular interest are dioramas of Norfolk scenery, showing wildlife and landscape. It has been extensively remodelled to enhance the display of the many collections, and hosts frequent temporary exhibitions of art and other subjects.<ref>[http://www.museums.norfolk.gov.uk/Visit_Us/Norwich_Castle/index.htm Norfolk Museums and Archaeology Service website] – Norwich Castle Museum and Art Gallery</ref>
+
+The Museum of Norwich (until 2014 called The Bridewell Museum), in Bridewell Alley, was closed in 2010 for a major refurbishment of the building and overhaul of the displays,<ref>[http://www.eveningnews24.co.uk/content/eveningnews24/norwich-news/story.aspx?brand=ENOnline&category=News&tBrand=ENOnline&tCategory=xNews&itemid=NOED06%20May%202010%2015%3A34%3A05%3A700 Eastern Evening News]—"Work begins on Norwich Bridewell Museum"</ref> and re-opened in July 2012.<ref>[http://www.edp24.co.uk/news/education/re_opening_of_norwich_s_bridewell_museum_delayed_until_next_year_1_815654 Eastern Daily Press 1 March 2011]– "Re-opening of Norwich's Bridewell Museum delayed."</ref><ref>[http://www.edp24.co.uk/news/click_clack_sound_to_return_to_norwich_after_loom_restored_during_1_5m_bridewell_revamp_1_1424120 Eastern Daily Press 28 June 2012]–"Click-clack sound to return to Norwich &hellip;"</ref> There are several galleries and groups of displays. These include "Life in Norwich: Our City 1900–1945"; "Life in Norwich: Our City 1945 Onwards"; and "England's Second City" depicting Norwich in the 18th century. "Made in Norwich", "Industrious City" and "Shoemakers" have exhibits connected with the historic industries of Norwich, including weaving, shoe and boot making, iron foundries and the manufacture of metal goods, engineering, milling, brewing, chocolate-making and other food manufacturing. "Shopping and Trading" contains exhibits from the early 19th century to the 1960s.<ref>[http://www.museums.norfolk.gov.uk/Visit_Us/Museum_of_Norwich_at_the_Bridewell/index.htm Norfolk Museums and Archaeology Service website] – The Museum of Norwich at the Bridewell</ref>
+
+[[Strangers' Hall]], at Charing Cross, is one of the oldest buildings in Norwich: a merchant's house dating from the early 14th century. The many rooms are furnished and equipped in the styles of different eras, from the [[Tudor period|Early Tudor]] to the [[Victorian era|Late Victorian]]. Exhibits include costumes and textiles, domestic objects, children's toys and games, and children's books. The last two collections are considered to be of national importance.<ref>[http://www.museums.norfolk.gov.uk/Visit_Us/Strangers_Hall/index.htm Norfolk Museums and Archaeology Service website] – Strangers’ Hall</ref>
+
+The [[Royal Norfolk Regiment|Royal Norfolk Regimental Museum]] was, until 2011, housed in part of the former Shirehall, close to the castle. Although archives and the reserve collections are still held in the Shirehall, the principal museum display there closed in September 2011, and was relocated to the main Norwich Castle Museum, reopening fully in 2013.<ref>[https://www.bbc.co.uk/news/uk-england-norfolk-14292962 BBC Norfolk News 26 July 2011] "-Royal Norfolk Museum Moves to Norwich Castle"</ref> Its exhibits illustrate the history of the regiment from its 17th-century origins to its incorporation into the [[Royal Anglian Regiment]] in 1964, along with many aspects of military life in the regiment. There is an extensive and representative display of medals awarded to soldiers of the regiment, including two of the six [[Victoria Cross]]es won.<ref>[http://www.museums.norfolk.gov.uk/Visit_Us/Royal_Norfolk_Regimental_Museum/index.htm Norfolk Museums – Royal Norfolk Regiment museum]"- Royal Norfolk Regiment Museum at Norwich Castle</ref><ref>[http://www.rnrm.org.uk/index.html Royal Norfolk Regimental Museum website] – Royal Norfolk Regimental Museum</ref>
+
+The [[City of Norwich Aviation Museum]] is located at [[Horsham St Faith|Horsham St. Faith]], on the northern edge of the city and close to [[Norwich International Airport|Norwich Airport]]. There are static displays of both military and civil aircraft, together with various collections of exhibits, including one concerned with the [[Eighth Air Force|United States 8th Army Air Force]].<ref>[http://www.cnam.org.uk City of Norwich Aviation Museum website] – Aviation Museum</ref> The John Jarrold [[Printing]] Museum, at Whitefriars, is dedicated to the history of printing and contains many examples of printing machinery, presses, books, and related equipment. Exhibits range in date from the early 19th century to the present day. Many were donated by Jarrold Printing.<ref>[http://www.johnjarroldprintingmuseum.org.uk/home.html John Jarrold Printing Museum website] – John Jarrold Printing Museum</ref> In November 2018, redevelopment plans for the museum site caused some uncertainty about its future, but it has been announced that the museum will be relocated in the new development.<ref>[https://www.bbc.co.uk/news/uk-england-norfolk-45764356 BBC Norfolk news 5 October 2018] "Norwich printing museum: Owners seek new location"</ref><ref>[https://www.eveningnews24.co.uk/news/john-jarrold-printing-museum-in-norwich-to-relocate-1-5794094 Norwich Evening News 24 November 2018]"Norwich printing museum to relocate amid demolition plans"</ref> However, the proposed new museum will occupy a considerably smaller space, and concerns remain about the future number and scope of the exhibits. <ref>[https://www.edp24.co.uk/news/print-museum-pledge-fails-to-quell-objections-to-jarrold-s-norwich-site-scheme-1-5840554 Eastern Daily Press 4 January 2019] "Print Museum pledge fails to quell objections"</ref>
+
+[[Dragon Hall, Norwich|Dragon Hall]], in King Street, is a fine example of a medieval merchants' trading hall. Mostly dating from about 1430, it is unique in Western Europe. In 2006 the building underwent a thorough restoration. Its magnificent architecture is complemented by displays showing the history of the building and its role in the life of Norwich through the ages. The Norfolk Museums and Archaeology Service Costume and Textiles Study Centre, at the Shirehall in Market Avenue, contains an extensive collection of more than 20,000 items, built up over a period of some 130 years, and previously kept in other Norwich museums. Although not a publicly open museum in the usual sense, the collection is accessible to the general public, students, researchers and others by prior appointment.<ref>[http://www.museums.norfolk.gov.uk/Visit_Us/Norwich_Castle_Study_Centre/index.htm/ Norwich Textiles website] {{Webarchive|url=https://web.archive.org/web/20150706075947/http://www.museums.norfolk.gov.uk/Visit_Us/Norwich_Castle_Study_Centre/index.htm |date=6 July 2015 }}—Costumes and Textiles Study Centre</ref>
+
+===Entertainment===
+Norwich has three cinema complexes. [[Odeon Cinemas|Odeon]] Norwich is located in the Riverside Leisure Centre, [[Vue Cinemas|Vue]] in the Castle Mall and Hollywood Cinema at [[Anglia Square Shopping Centre, Norwich|Anglia Square]], north of the city centre. [[Norwich Cinema City|Cinema City]] is an art-house cinema showing non-mainstream productions operated by [[Picturehouse Cinemas|Picturehouse]] on St Andrews Street opposite [[St. Andrew's Hall, Norwich|St Andrew's Hall]], whose patron was actor [[John Hurt]].<ref>{{cite web|url=http://www.edp24.co.uk/news/john_hurt_announced_as_new_patron_of_norwich_s_cinema_city_1_1996857|title=John Hurt announced as new patron of Norwich's Cinema City|date=29 March 2013|first=Sabbah|last=Meddings|newspaper=Eastern Daily Press|accessdate=26 February 2014}}</ref> Owing to its agricultural history, Norwich has a large number of pubs throughout the city. Prince of Wales Road in the city centre, running from the Riverside district near [[Norwich railway station]] to Norwich Castle, is home to many pubs, bars and clubs.
+
+===Media and film===
+[[File:Anglia Television.JPG|thumb|Anglia House, the headquarters of Anglia Television, today [[ITV Anglia]]]]
+
+Norwich is the headquarters of BBC East, its presence in the east of England, and [[BBC Radio Norfolk]], ''[[BBC Look East]]'', ''Inside Out'' and ''[[The Politics Show]]'' are all broadcast from BBC studios in The Forum. [[Independent radio]] stations based in Norwich include [[Heart Norwich|Heart]], [[Smooth Radio]], [[99.9 Radio Norwich]], and the University of East Anglia's Livewire 1350, an online station. A community station, [[Future Radio]], was launched on 6 August 2007.
+
+[[ITV Anglia]], formerly [[Anglia Television]], is based in Norwich. Although one of the smaller ITV companies, it supplied the network with some of its most popular shows such as ''[[Tales of the Unexpected (TV series)|Tales of the Unexpected]]'', ''[[Survival (TV series)|Survival]]'' and ''[[Sale of the Century (UK game show)|Sale of the Century]]'' (1971–1983), which began each edition with [[John Benson (announcer)|John Benson]]'s enthusiastic announcement: "And now from Norwich, it's the quiz of the week!" The company also had a subsidiary called Anglia Multimedia, which produced educational content on CD and DVD mainly for schools, and was one of the three companies, along with [[Granada TV]] and the [[BBC]] vying for the right to produce a digital television station for English schools and colleges.
+
+Launched in 1959, Anglia Television lost its independence in 1994 following a takeover by [[Meridian Broadcasting]] and subsequent mergers have seen it reduced from a significant producer of programmes to a regional news centre. The company is still based in Anglia House, the former Norfolk and Norwich Agricultural Hall, on Agricultural Hall Plain near Prince of Wales Road. However, despite the contraction of Anglia, television production in Norwich has by no means ended. Anglia's former network production centre at Magdalen Street has been taken over by Norfolk County Council and extensively re-vamped. After total investment of £4m from the East of England Development Agency (EEDA) it has re-opened as Epic Studios (East of England Production Innovation Centre). Degree courses in film and video are also run at the centre by Norwich University of the Arts. Epic has commercial, broadcast quality post-production facilities, a real-time virtual studio and a smaller HD discussion studio. The main studio opened as an HD facility in November 2008. Throughout 2008, the centre has concentrated on the development of new TV formats and has worked on pilot shows with Les Dennis, Gaby Roslin and Christopher Biggins.
+
+[[Archant]] publishes two daily newspapers in Norwich, the ''[[Norwich Evening News]]'', and the regional ''[[Eastern Daily Press]]'' (EDP), and had its own television operation, [[Mustard TV]], which has now closed.
+
+The character of [[Alan Partridge]] in the sitcom ''[[I'm Alan Partridge]]'' (1997–2002) and the comedy film ''[[Alan Partridge: Alpha Papa]]'' (2013) is a Norwich broadcaster played by [[Steve Coogan]].
+
+===Esoteric associations===
+
+Because Norwich was England's second city during the Middle Ages and Renaissance, it has, though little acknowledged, a number of significant associations with [[esoteric]] spirituality. It was the home of [[William Cuningham]], a physician who published ''An Invective Epistle in Defense of Astrologers'' in 1560.<ref>Bryan's Dictionary of Painters and Engravers by Michael Bryan, edited by Robert Edmund Graves and Sir Walter Armstrong, an 1886–1889 publication now in the public domain</ref> The [[Elizabethan era|Elizabethan]] dramatist [[Robert Greene (dramatist)|Robert Greene]], author of [[Friar Bacon and Friar Bungay]], was born in Norwich in 1558.The city was also the retirement residence of [[Arthur Dee]] (died Norwich, 1651) the eldest son of the alchemist [[John Dee]]{{sfn|Fleay|1891|pp=251–252}}<ref>Dictionary of National Biography, 1885–1900, Volume 14</ref> [[File:St John the Baptist Church - The Layer Monument.jpg|thumb|The Layer Monument, marble polychrome c. 1600]]
+
+Norwich was also the residence of the physician and [[hermeticism|hermetic]] philosopher Sir [[Thomas Browne]], author of [[The Garden of Cyrus]] (1658). Many influential esoteric books-titles are listed as once in Browne's [[Library of Sir Thomas Browne#Esoteric|library]].<ref>Catalogue of the libraries of Sir Thomas Browne and his son Edward Browne, edited with an introduction by J.S.Finch E.J.Brill Publications 1986</ref> His coffin-plate, on display at the church of [[St Peter Mancroft]], alludes to [[Paracelsian]] medicine and alchemy. Translated from Latin it reads, ''Great Virtues, &hellip; sleeping here the dust of his [[spagyric]] body converts the lead to gold''. Browne is also a significant figure in the history of [[physiognomy]].
+
+The [[Church of St John Maddermarket]]'s graveyard includes the Crabtree headstone, which has the pre-Christian symbol of the [[Ouroboros]] along with [[Masonic]] [[Square and Compasses]] carved upon it. Housed within the church there is [[the Layer Monument]], a rare example of an alchemical [[mandala]] in European funerary art.{{sfn|Faulkner|2013}}
+
+From 1787 the congregation of the [[New Jerusalem Church]] of [[Swedenborgians]], followers of the mystic [[Emanuel Swedenborg]], worshipped at the church of St. Mary the Less; in 1852 they moved to Park Lane, Norwich to establish the Swedenborgian Chapel.<ref>[http://www.norwich-churches.org/St%20Mary%20the%20Less/home.shtm Norwich historic churches – St Mary the Less] {{webarchive |url=https://web.archive.org/web/20131016080407/http://www.norwich-churches.org/St%20Mary%20the%20Less/home.shtm |date=16 October 2013 }} Retrieved 9 October 2013</ref><ref>[http://www.norfolkchurches.co.uk/norwichsweden/norwichsweden.htm Norfolk Churches – Swedenborgian Chapel] Retrieved 8 October 2013</ref>
+
+==Architecture==
+{{See also|Grade I listed buildings in Norwich|Grade II* listed buildings in Norwich}}
+Norwich has a wealth of historical architecture. The medieval period is represented by the 11th-century [[Norwich Cathedral]], 12th-century [[castle]] (now a museum) and a large number of [[parish church]]es. During the [[Middle Ages]], 57 churches stood within the city wall; 31 still exist today, and seven are still used for worship.<ref>{{cite web |url = http://www.norwich-churches.org/map/map.shtm |title = Norwich Churches – Map |work = Norwich Churches |accessdate = 28 May 2015 |archive-url = https://web.archive.org/web/20150624152503/http://www.norwich-churches.org/map/map.shtm |archive-date = 24 June 2015 |dead-url = yes |df = dmy-all }}</ref> <!-- It is claimed that Norwich has more churches per square mile than anywhere else in Europe.—who claims? restore when citation found --> This gave rise to the common regional saying that it had a church for every week of the year, and a pub for every day. Norwich is said to have more standing medieval churches than any city north of the [[Alps]].<ref name=bbcreligion/> The [[Adam and Eve (public house)|Adam and Eve]] pub is believed to be the oldest pub in the city,<ref name=telegraph>{{cite news|url=https://www.telegraph.co.uk/foodanddrink/pubs/9139020/Pint-to-pint-Adam-and-Eve-Norwich.html|title=Pint to pint: Adam and Eve, Norwich|newspaper=The Telegraph|location=London|author=Adrian Tierney-Jones|accessdate=8 February 2014|date=12 March 2012}}</ref> with the earliest known reference made in 1249.<ref name=edp>{{cite web|url=http://www.edp24.co.uk/norfolk-life/norfolk-history/1_adam_and_eve_1_213829 |title=1. Adam and Eve |newspaper=Eastern Daily Press |date=14 April 2010 |accessdate=8 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140222003821/http://www.edp24.co.uk/norfolk-life/norfolk-history/1_adam_and_eve_1_213829 |archivedate=22 February 2014 |df=dmy }}</ref> Most of the medieval buildings are in the city centre. Notable examples of [[Secularity|secular]] medieval architecture are [[Dragon Hall, Norwich|Dragon Hall]], built in about 1430, and [[Norwich Guildhall|The Guildhall]], built 1407–1413, with later additions. From the 18th century the pre-eminent local name is [[Thomas Ivory]], who built the Assembly Rooms (1776), the Octagon Chapel (1756), St Helen's House (1752) in the grounds of the [[Great Hospital]], and innovative speculative housing in Surrey Street (c. 1761). Ivory should not be confused with the Irish architect of the same name and similar period.
+
+The 19th century saw an explosion in Norwich's size and much of its housing stock, as well as commercial building in the city centre, dates from this period. The local architect of the [[Victorian era|Victorian]] and [[Edwardian era|Edwardian]] periods who has continued to command most critical respect was [[George Skipper]] (1856–1948). Examples of his work include the headquarters of [[Norwich Union]] on Surrey Street; the [[Art Nouveau]] Royal Arcade; and the Hotel de Paris in the nearby seaside town of [[Cromer]]. The [[neo-Gothic]] Roman Catholic [[St John the Baptist Cathedral, Norwich|cathedral]] dedicated to [[St John the Baptist]] on [[Earlham Road]], begun in 1882, is by [[George Gilbert Scott Junior]] and his brother, [[John Oldrid Scott]].
+
+The city continued to grow through the 20th century, and much housing, particularly in areas further out from the city centre, dates from that century. The first notable building post-Skipper was the [[City Hall, Norwich|City Hall]] by CH James and SR Pierce, opened in 1938; at the same time, they moved the [[Norwich War Memorial|City War Memorial]], designed by [[Sir Edwin Lutyens]], to sit in a memorial garden between the city hall and the market place. Bombing during the Second World War, while resulting in relatively little loss of life, caused significant damage to housing stock in the city centre. Much of the replacement postwar stock was designed by the local authority architect, David Percival. However, the major postwar development in Norwich from an architectural point of view was the opening of the [[University of East Anglia]] in 1964. Originally designed by [[Denys Lasdun]] (his design was never completely executed), it has been added to over subsequent decades by major names such as [[Norman Foster, Baron Foster of Thames Bank|Norman Foster]] and [[Rick Mather]].
+
+<gallery heights="132" mode="packed">
+Norwichcathedral2.jpg|Norwich Cathedral lies close to Tombland in the city centre.
+ElmHill.jpg|[[Elm Hill, Norwich|Elm Hill]] is an intact medieval street.
+Cowtower.jpg|[[Cow Tower, Norwich|Cow Tower]] stands on the banks of the River Wensum.
+Gentlemanswalk.JPG|The varying styles of architecture along Gentleman's Walk
+</gallery>
+
+===Parks, gardens and open spaces===
+[[File:Riverside Flats Norwich - geograph.org.uk - 73621.jpg|thumb|Riverside flats Norwich]]
+''See also [[List of parks, gardens and open spaces in Norwich]]''
+
+Chapelfield Gardens in central Norwich became the city's first [[public park]] in November 1880. From the start of the 20th century, Norwich Corporation, now Norwich City Council, began buying and leasing land to develop parks when funds became available. [[Sewell Park, Norwich|Sewell Park]] and James Stuart Gardens are examples of land donated by benefactors.
+
+After World War I the corporation took advantage of government grants and made the decision to construct a series of formal parks as a means to alleviate unemployment. Under the guidance of Parks Superintendent Captain Sandys-Winsch<ref>[http://www.friendsofeatonpark.co.uk/Sandys-Winsch.html Captain Sandys-Winsch] {{webarchive |url=https://web.archive.org/web/20120326015145/http://www.friendsofeatonpark.co.uk/Sandys-Winsch.html |date=26 March 2012 }} Retrieved 24 June 2011</ref>  four parks were completed; Heigham Park (1924), Wensum Park (1925), Eaton Park (1928), Waterloo Park (1933). These parks retain many features from Sandys-Winsch's original plans and have been placed on the [[English Heritage Register of Parks and Gardens of Special Historic Interest]].<ref>[http://www.norwich.gov.uk/webapps/atoz/service_page.asp?id=1204 Historic parks of Norwich] {{webarchive|url=https://web.archive.org/web/20071004231854/http://www.norwich.gov.uk/webapps/atoz/service_page.asp?id=1204 |date=4 October 2007 }} Retrieved 24 June 2011</ref>
+
+As of 2015, the city has 23 parks, 95 open spaces and 59 natural areas managed by the local authority.<ref>[http://www.norwich.gov.uk/webapps/atoz/service_page.asp?id=1233 Norwich parks] {{webarchive |url=https://web.archive.org/web/20090404131852/http://www.norwich.gov.uk/webapps/atoz/service_page.asp?id=1233 |date=4 April 2009 }} Retrieved 1 July 2011</ref> In addition there are several privately owned gardens which are occasionally opened to the public in aid of charity<ref>[http://www.ngs.org.uk/news-features/local-news/norwich-a-ngs-garden-trail.aspx National Garden Scheme] {{webarchive|url=https://web.archive.org/web/20110927042346/http://www.ngs.org.uk/news-features/local-news/norwich-a-ngs-garden-trail.aspx |date=27 September 2011 }} Retrieved 1 July 2011</ref> with the exception of the [[Plantation Garden, Norwich|Plantation Garden]]<ref>[http://www.plantationgarden.co.uk/ Plantation Garden] Retrieved 1 July 2011</ref>  located close to the [[St John the Baptist Cathedral, Norwich|St John the Baptist Cathedral]] which opens daily.
+
+== Sport ==
+[[File:Norwich City Football Ground "Carrow Road" - geograph.org.uk - 43449.jpg|thumb|[[Carrow Road]] – the home of [[Norwich City F.C.]]]] The principal local [[association football|football]] club is [[Norwich City F.C.|Norwich City]], also known as the ''Canaries'', who play in the second tier of English football, the Championship, after being relegated from the Premier League at the end of the 2015–16 season. Majority-owned by celebrity chef [[Delia Smith]] and her husband Michael Wynn-Jones, their ground is at [[Carrow Road]]. They have a strong [[East Anglian Derby|East Anglian rivalry]] with [[Ipswich Town F.C.|Ipswich Town]]. The club has enjoyed considerable success in the past, having played in the top division regularly since 1972, their longest spell being a nine-year run from 1986 to 1995. They have also won two [[Football League Cup]]s, and finished third in the inaugural [[Premier League]] in 1993. They were relegated two years later and did not reclaim their top flight place for nine years, going down again after just one season, only to return in 2011 after two successive promotions.
+
+Perhaps Norwich City's most famous result to date came later in 1993 when they eliminated German giants [[Bayern Munich]] from the [[UEFA Cup]], in what is to date their only season in European competitions; they had qualified for the UEFA Cup three times between 1985 and 1989 but were unable to compete as there was a ban on English clubs in European competitions at the time. Before emerging as a top division club, they famously eliminated [[Manchester United F.C.|Manchester United]] from the FA Cup in 1959, and went on to reach the semi-finals of the competition, a run they achieved again in 1989 and most recently in 1992. In the 1980s and early 1990s, the club produced some of the most highly rated talent of that era, including striker [[Chris Sutton]], winger [[Ruel Fox]], defender [[Andy Linighan]], midfielder [[Mike Phelan]], midfielder [[Tim Sherwood]] and striker [[Justin Fashanu]]. The club's most successful managers have included [[Kenneth Brown (footballer born 1934)|Ken Brown]], [[Ron Saunders]], [[Dave Stringer]], [[Mike Walker (Welsh footballer)|Mike Walker]], [[Nigel Worthington]] and [[Paul Lambert]].
+
+The city's second club, [[Norwich United F.C.|Norwich United]] (who are based in [[Blofield]] some {{convert|8|km|mi}} east of the city) and [[Norwich CBS F.C.|Norwich CBS]] play in the [[Eastern Counties Football League|Eastern Counties League]]. The now-defunct [[Gothic F.C.|Gothic]] were also based in Norwich. Local football clubs are served by the [[Norwich and District Saturday Football League]].
+
+Norwich also has an [[athletics (sport)|athletics]] club, City of Norwich AC (CoNAC), a [[rugby football|rugby]] club, the Norwich Lions, and a [[Team handball|handball]] Club, Norwich HC.
+
+Norwich also has five [[field hockey]] clubs. In the 2012/13 season the club playing the highest level on the men's side will be Norwich City Hockey Club<ref>[http://www.norwichcityhc.co.uk/ Norwich City Hockey Club] Retrieved 18 September 2012</ref>  in the East Hockey Premier B, which is two levels below National League.  The second highest level is Norwich Dragons in Division Two North, then the students only [[University of East Anglia]] Men's Hockey Club in Division Three North East, then Norfolk Nomads Men's Hockey Club in Division Six North East.  On the Ladies' side of the game both Norwich City Hockey Club and Norwich Dragons Hockey club play in East Hockey's Division One North, two levels below National League. Following them the students from the [[University of East Anglia]] Women's Hockey Club play in the Norfolk Premier Division.  Also in Norwich there is the veterans only side Norwich Exiles.
+
+Outside the city boundary, the dry ski and snowboarding slopes of Norfolk Ski Club is located at Whitlingham Lane in [[Trowse]]. Located close by in the parish of [[Whitlingham]] is the Whitlingham Country Park<ref>[http://www.south-norfolk.gov.uk/leisure/1226.asp Whitlingham Country Park] {{webarchive |url=https://web.archive.org/web/20100716202235/http://www.south-norfolk.gov.uk/leisure/1226.asp |date=16 July 2010 }} Retrieved 23 November 2009</ref> home to the Outdoor Education Centre.<ref>[http://www.whitlinghamoec.co.uk/ Whitlingham Outdoor Centre] Retrieved 23 November 2009</ref> The centre is based on the south bank of the Great Broad which is also used by [[Scuba diving|scuba]] divers from one of the city's three diving schools and other water and land sports.<ref>{{cite web|url=http://www.divenorwich.com |title=DiveNorwich – scuba diving |publisher=Divenorwich.com |accessdate=13 September 2013}}</ref>
+
+Norwich has two main [[Rowing (sport)|rowing]] clubs in the Yare Boat Club, which is the older but smaller of the two, based on an island on the [[River Yare]] accessed from beside the Rivergarden pub on Thorpe Road in Norwich; and Norwich Rowing Club which is larger and, in partnership with [[Norwich Canoe Club]], UEA Boat Club, Norwich School Boat Club and Norwich High School Rowing Club, has recently built a new boat house alongside Whitlingham Little Broad and the [[River Yare]]. Norwich Canoe Club<ref>[http://www.norwichcanoeclub.co.uk/ Norwich Canoe Club] Retrieved 9 June 2013</ref>  specialise in sprint and marathon racing. They hold the highest British Canoe Union<ref>[http://www.bcu.org.uk/ British Canoe Union] Retrieved 9 June 2013</ref>  Top Club Gold accreditation and are one of the more successful clubs in the UK. [[Ian Wynne]], 2004 Olympics K1 500m bronze medallist, is an honorary member of the club.
+
+[[Motorcycle speedway|Speedway]] racing was staged in Norwich both before and after World War II at The Firs Stadium on the Holt Road, [[Hellesdon]]. The [[Norwich Stars]] raced in the Northern League of 1946 and the [[Speedway National League Division Two|National League Division Two]] between 1947 and 1951, winning it in 1951. They were subsequently elevated to the [[National League (1932–1964)|National League]] and raced at the top flight until the stadium was closed at the end of the 1964 season.<ref>[http://www.speedwayresearcher.org.uk/norwich.html Norwich Speedway] Retrieved 17 January 2008</ref> One meeting was staged at a venue at [[Hevingham]] but the event, staged without an official permit, did not lead to a revival of the sport in the Norwich area.
+
+In the world of [[boxing]], Norwich can boast former [[European Boxing Union|European]] and British lightweight champion [[Jon Thaxton]],<ref>{{cite news|url=https://www.telegraph.co.uk/sport/othersports/boxingandmma/3141844/Determined-Jon-Thaxton-rolls-back-years-Boxing.html |title=Thaxton rolls back the years |publisher=Telegraph.co.uk |accessdate=13 September 2013 |location=London |first=Gareth A |last=Davies |date=6 October 2008}}</ref>  reigning English light heavyweight champion [[Danny McIntosh]]<ref>[http://www.boxingnewsonline.net/BN08/detail.asp?id=984 Boxing News | Interview with English champion Danny McIntosh] {{webarchive |url=https://web.archive.org/web/20120629140122/http://www.boxingnewsonline.net/BN08/detail.asp?id=984 |date=29 June 2012 }}</ref> and heavyweight [[Sam Sexton]], a former winner of the [[Prizefighter series|Prizefighter]] tournament.<ref>{{cite web|url=http://www.bbc.co.uk/norfolk/content/articles/2007/06/09/sport_sexton_warrendeal_20070609_feature.shtml |title=BBC Sport &#124; Sexton joins the big guns |publisher=Bbc.co.uk |date=14 July 2007 |accessdate=13 September 2013}}</ref> Based in Norwich-[[Herbie Hide]] has been [[WBO]] [[Heavyweight]] World Champion twice. He won the championship in 1994–95 and for a second time in 1997.<ref>[http://news.uk.msn.com/photos/photos.aspx?cp-documentid=152856649&page=5 Herbie Hide] Retrieved 1 March 2013</ref>
+
+Norwich also have a UK [[Baseball]] team the [[Norwich Iceni]] who compete at the Single A level of the [[British Baseball Federation|BBF]].<ref>[http://www.norwichbaseball.co.uk Norwich Baseball Club] Retrieved 15 October 2017</ref> The team were founded in 2015 with players from the UEA Blue Sox who wished to carry on playing after university. The team officially joined the league in 2017 and were crowned BBF Single A champions in their first season going undefeated with 17 wins.<ref>[http://www.britishbaseball.org British Baseball Federation] Retrieved 15 October 2017</ref>
+
+==Statistics==
+Norwich was the second city of England (after London) for several centuries before industrialisation, which came late to Norwich due to its isolation and lack of raw materials{{Citation needed|reason=Much as I'm aware,anecdotally, that this is true, it needs citation!|date=June 2018}}.
+
+In November 2006 the city was voted the greenest in the UK.<ref>{{cite press release | work=Norwich Evening News | url = http://www.eveningnews24.co.uk/content/News/story.aspx?brand=ENOnline&category=News&tBrand=enonline&tCategory=news&itemid=NOED13%20Nov%202006%2009%3A19%3A16%3A667 | title =  Norwich voted greenest place in UK| author=Powles, David | date = 13 November 2006 | accessdate =14 November 2006}}</ref> There is currently an initiative taking place to make it a [[transition town]]. Norwich has recently been the scene of open discussions in public spaces, known as "meet in the street", that cover social and political issues.<ref>{{cite web|url=http://www.freewebs.com/meetinthestreetenglish/latestnews.htm |title=Meet in The Street – Positive Change through Public Discussion |publisher=Freewebs.com |accessdate=26 March 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20121022200243/http://www.freewebs.com/meetinthestreetenglish/latestnews.htm |archivedate=22 October 2012 |df= }}</ref>
+
+Articles in the past have suggested that, compared with other UK cities, Norwich was top of the league for the percentage of population who use the popular Internet auction site [[eBay]].<ref>{{cite press release | publisher=eBay.co.uk | title = Norwich is eBay capital of UK | url = http://pages.ebay.co.uk/community/aboutebay/news/pressreleases/consumer/2_2_2005.html | date = 2 February 2005 | accessdate =23 April 2006}}</ref> The city also unveiled the biggest free [[Wi-Fi]] network in the UK, which opened in July 2006.<ref>{{cite news | publisher=theregister.co.uk | title = Norwich turns on UK's largest Wi-Fi network | url = https://www.theregister.co.uk/2006/08/02/norwich_gets_free_wifi/ | author=Oates, John | date = 2 August 2006 | accessdate =5 August 2006}}</ref>
+
+In August 2007 Norwich was shortlisted as one of nine finalists in its population group for the International Awards for Liveable Communities ([https://web.archive.org/web/20070929161429/http://www.livcomawards.com/media-2007/finalists.htm LivCom Awards]). The city eventually won a silver award in the small city category.
+
+== Economy and infrastructure ==
+[[File:2004 norwich 06.JPG|thumb|The Royal Arcade, designed by [[George Skipper]], opened in 1899.]]
+
+Norwich's economy was historically manufacturing based, with a large shoemaking industry, but transitioned throughout the 1980s and 1990s to a service-based economy.<ref>{{cite web|last1=Montague|first1=Ros|title=Norwich Shoemaking: From Howlett and White to Norvic|url=https://norfolkrecordofficeblog.org/2016/11/10/norwich-shoemaking-from-howlett-and-white-to-norvic/|website=Norfolk Record Office Blog|publisher=Norfolk Record Office|accessdate=3 March 2017}}</ref>
+
+The greater Norwich economy (which includes Norwich, [[Broadland]] and [[South Norfolk]] government districts) as measured by [[Gross value added|GVA]] was estimated at £7.4 billion in 2011 (2011 GVA at 2006 prices).<ref name=gndp>{{cite web|url=http://www.gndp.org.uk/content/wp-content/uploads/downloads/2012/05/2012_05_17_-Economic-assessment-2012.pdf |title=An Economic Assessment of Greater Norwich – 2012 |author=Greater Norwich Development Partnership |page=10 |accessdate=28 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140307153452/http://www.gndp.org.uk/content/wp-content/uploads/downloads/2012/05/2012_05_17_-Economic-assessment-2012.pdf |archivedate=7 March 2014 |df= }}</ref> The city's largest employment sectors are business and financial services (31%), public services (26%), retail (12%), manufacturing (8%) and tourism (7%).<ref>{{cite web
+ |url=http://www.norwich.gov.uk/Business/WhyNorwich/pages/PopulationAndEmploymentFigures.aspx 
+ |title=Population and Employment Figures 
+ |website=Norwich City Council 
+ |accessdate=3 February 2014 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20140218061718/http://www.norwich.gov.uk/Business/WhyNorwich/pages/PopulationAndEmploymentFigures.aspx 
+ |archivedate=18 February 2014 
+ |df= 
+}}</ref>
+Unemployment in urban Norwich and the Norwich City Council area was 2.7% and 3.7% respectively in January 2014, compared to 3% across Great Britain.<ref name=barometer>{{cite web|url=http://www.norwich.gov.uk/Business/WhyNorwich/Documents/EconomicBarometer.pdf |title=Norwich Economic Barometer |author=Norwich City Council |date=February 2014 |accessdate=7 March 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140307153956/http://www.norwich.gov.uk/Business/WhyNorwich/Documents/EconomicBarometer.pdf |archivedate=7 March 2014 |df= }}</ref>
+
+New developments on the former [[Boulton and Paul]] site include the [[Riverside (Norwich)|Riverside]] entertainment complex with nightclubs and other venues featuring the usual national leisure brands. Nearby, the football stadium is being upgraded with more residential property development alongside the river Wensum.
+
+[[Archant]], formerly known as Eastern Counties Newspapers (ECN), is a national publishing group that has grown out of the city's local newspapers and is headquartered in Norwich.
+
+Norwich has long been associated with the manufacture of [[Mustard (condiment)|mustard]]. The world-famous [[Colman's]] brand, with its yellow packaging, was founded in 1814 and operates from its factory at Carrow, although that site is due to close by the end of 2019.<ref>{{Cite web|url=https://www.theguardian.com/business/2018/jan/04/unilever-to-close-160-year-old-colmans-mustard-factory-in-norwich|title=Unilever to close 160-year-old Colman's Mustard factory in Norwich|last=Kollewe|first=Julia|date=2018-01-04|website=the Guardian|language=en|access-date=2018-02-09}}</ref> Colman's is now exported worldwide by its parent company [[Unilever]] (Unilever UK Export), putting Norwich on the map of British heritage brands. The Colman's Mustard Shop, which sold Colman's products and related gifts, was, until 2017, located in the Royal Arcade in the centre of Norwich, but closed in that year without any prospect of it reopening elsewhere.<ref>{{cite web|url=https://www.edp24.co.uk/news/http-www-edp24-co-uk-news-coleman-s-artefacts-put-into-storage-as-plans-for-a-reborn-mustard-shop-are-scrapped-1-5225045-1-5225045 |title=Norwich mustard shop won't reopen |publisher=Eastern Daily Press |accessdate= 6 October 2017}}</ref>
+
+To the south-west of the city is the Norwich Research Park, which {{As of|2012|lc=y}} is set to undergo a period of investment and expansion. The NRP comprises a community of research organisations with world-leading science credentials, including the [[Institute of Food Research]] and the [[John Innes Centre]], as well as over 30 science and technology-based businesses, the [[University of East Anglia]] and the [[Norfolk and Norwich University Hospital]].
+
+Norwich's night-time economy of bars and night clubs is mainly located in Tombland, Prince of Wales Road and the Riverside area adjacent to Norwich railway station.
+
+===Retail===
+[[File:Norwich Market from Gentlemans Walk.jpg|thumb|Gentleman's Walk, showing the stalls of [[Norwich Market]], [[City Hall, Norwich|City Hall]] and the [[Norwich Guildhall|Guildhall]] (right)]]
+
+Norwich was the eighth most prosperous shopping destination in the UK in 2006.<ref>[http://www.caci.co.uk/index.asp?url=press-060515.htm CACI web site] – CACI Retail Footprint, 2006</ref> Norwich has an [[Norwich Market|ancient market place]], established by the Normans between 1071 and 1074, which is today the largest six-days-a-week open-air market in England. In 2006, the market was downsized and redeveloped, and the new market stalls have proved controversial: with 20% less floorspace than the original stalls, higher rental and other charges, and inadequate rainwater handling, which has been unpopular with many stallholders and customers alike. In 2007 the local ''[[Norwich Evening News]]'' characterised Norwich Market as an ongoing conflict between the market traders and Norwich [[City Council]], which operates the market.<ref>[http://www.eveningnews24.co.uk/content/news/story.aspx?brand=ENOnline&category=News&tBrand=ENOnline&tCategory=news&itemid=NOED04%20Jan%202007%2012%3A46%3A06%3A363 Norwich Evening News web site] – Market is hit by new cash blow</ref>
+
+The Castle Mall, a shopping centre designed by the local practice Lambert, Scott & Innes and opened in 1993, presents an ingenious solution to the problem of accommodating new retail space in a historic city-centre environment — the building is largely concealed underground and built into the side of a hill, with a public park created on its roof in the area south of the castle.
+
+A second shopping mall, [[Intu Chapelfield]] (formally known as Chapelfield) was opened in 2005 on the site of a closed Caley's (later [[Rowntree Mackintosh]] and [[Nestlé]]) chocolate factory. Chapelfield opened in September 2005, featuring as its flagship department store [[House of Fraser]]. Detractors have criticised Chapelfield as unnecessary and damaging to local businesses; its presence has prompted smaller retailers to band together to promote the virtues of independent shops. Despite this, in August 2006 it was reported by the Javelin Group that Norwich was one of the top five retail destinations in the UK,<ref>{{cite news | publisher=Norwich Evening News | title = New centre sees city climb shops league| url = http://www.eveningnews24.co.uk/content/news/story.aspx?brand=ENOnline&category=News&tBrand=ENOnline&tCategory=news&itemid=NOED19%20Aug%202006%2013%3A37%3A04%3A253 | author=Jenkinson, Caroline | date = 19 August 2006 | accessdate =21 August 2006}}</ref> and in October 2006 the city centre was voted the best in the UK, in a shopping satisfaction survey run by Goldfish Credit Card.<ref>{{cite news|publisher=Norwich Evening News |title=Norwich is top of the shops |url=http://new.en24.co.uk/search/story.aspx?brand=ENOnline&category=News&itemid=NOED13%20Oct%202006%2010:00:29:760&tBrand=ENOnline&tCategory=search |author=Chessum, Dominic |date=13 October 2006 |accessdate=29 October 2006 |deadurl=yes |archiveurl=https://web.archive.org/web/20070929201206/http://new.en24.co.uk/search/story.aspx?brand=ENOnline&category=News&itemid=NOED13%20Oct%202006%2010%3A00%3A29%3A760&tBrand=ENOnline&tCategory=search |archivedate=29 September 2007 |df= }}</ref>
+
+A section of central Norwich, in an area approximately bounded by Bethel Street/Upper St Giles Street, Grapes Hill, St Benedict's and St Andrew's Hill/London Street/Castle Meadow, forms a [[quarter (urban subdivision)|quarter]] now known, and promoted, as [[Norwich Lanes]]. A series of mostly-pedestrianised small lanes, alleyways and streets, it is noted for its independent retailers, and eating and drinking establishments. The area also contains a number of the city's cultural attractions, including museums, theatres and other venues. As part of a nationwide drive to recognise the importance, and to maintain the character and individuality of Britain's high streets, Norwich Lanes was the Great British High Street Awards 2014 national winner in the "City" category.<ref>{{cite news | publisher = Eastern Daily Press | title =  Norwich Lanes wins national high street award | url = http://www.edp24.co.uk/news/norwich_lanes_wins_national_high_street_award_1_3839215 | date = 8 November 2014 | accessdate = 18 November 2014}}</ref>
+
+To the north of the city centre is the [[Anglia Square Shopping Centre, Norwich|Anglia Square]] shopping centre. The centre and the surrounding area is to be redeveloped; demolition work was due to commence in 2010 after an archaeological dig (conducted in 2009 and due to the centre being located around the site of a Saxon fortified settlement). The new development is planned to be a mixture of shops and housing, unlike the original which consisted of offices, shops and a cinema.<ref>[http://www.calvertsquare.co.uk/about.asp Calvert Square] Retrieved 1 December 2008  {{webarchive |url=https://web.archive.org/web/20091012023148/http://www.calvertsquare.co.uk/about.asp |date=12 October 2009 }}</ref> In February 2009, it was announced that, due to the economic climate, plans for the area have been delayed and the developers are unable to say for certain when work will commence.<ref>{{cite web|title=Development plannings|url=http://www.eveningnews24.co.uk/content/news/story.aspx?brand=ENOnline&category=News&tBrand=ENOnline&tCategory=news&itemid=NOED02%20Feb%202009%2012%3A23%3A27%3A320|publisher=www.eveningnews24.co.uk|accessdate=4 September 2016}}</ref>
+
+In 2014, the centre was bought by investment manager Threadneedle Investments for £7.5 million.<ref>[http://www.eveningnews24.co.uk/news/norwich_shopping_centre_s_price_tag_is_revealed_following_sale_of_anglia_square_1_3634579 Evening News report] Retrieved 9 June 2014</ref>
+
+The current owners and their partner Weston Homes announced in November 2016, they have been holding talks with chief officers at [[Norwich City Hall]]. Plans submitted include the demolition of Anglia Square, the former stationery office and Gildengate House. More than 1000 homes are planned to be built above shop units and a new public square.<ref>{{cite web|author1=Dan Grimmer|title=Norwich's Anglia Square could be demolished as revamp plans, including 1000 homes, are revealed|url=http://www.edp24.co.uk/home/norwich_s_anglia_square_could_be_demolished_as_revamp_plans_including_more_than_1_000_new_homes_are_revealed_1_4758973|website=Eastern Daily Press|accessdate=10 January 2017|date=2 November 2016}}</ref><ref>{{cite web|title=Anglia Square and the surrounding area|url=https://www.norwich.gov.uk/info/20238/current_consultations/1875/anglia_square_and_surrounding_area|website=Norwich City Council|accessdate=10 January 2017}}</ref>
+
+In early 2018, Weston Homes and landowner Columbia Threadneedle submitted regeneration plans for the site. These include 1200 homes, major supermarket, hotel, green squares and central courtyards.<ref>{{cite web|author1=David Hannant|title='My hope is for a common sense approach'- Reaction to plans for Anglia Square|url=http://www.edp24.co.uk/news/politics/anglia-square-plans-submitted-1-5436987|website=Eastern Daily Press|accessdate=24 April 2018|date=15 March 2018}}</ref>
+
+==Transport==
+
+===Road===
+Norwich stands north of the [[A47 road|A47]] (bypassed to the south of the city), which connects it with [[Great Yarmouth]] to the east, and [[Kings Lynn]] and [[Peterborough]] to the west. There are plans to upgrade the A47, especially sections that are still single-carriageway, prompted partly by the ongoing construction of Great Yarmouth Outer Harbour. Norwich is linked to [[Cambridge]] via the [[A11 road (England)|A11]], which leads to the [[M11 motorway]] for London and the [[M25 motorway|M25]]. It is linked to [[Ipswich]] to the south by the [[A140 road|A140]] and to [[Lowestoft]] to the south-east by the [[A146 road|A146]]. Norwich has the UK's first not-for-profit city-wide car club.<ref>{{cite web|url=http://www.norfolkcarclub.com/ |title=Norfolk car club |publisher=Norfolk car club |accessdate=13 September 2013}}</ref>
+
+===Rail===
+{{Main|Norwich railway station}}
+[[File:Norwich UK train station.JPG|thumb|[[Norwich railway station]]]]
+Norwich railway station lies east of Norwich city centre, and is managed by [[Greater Anglia (train operating company)|Greater Anglia]]. It forms the northern terminus of the [[Great Eastern Main Line]] with half-hourly services to [[Liverpool Street railway station|London Liverpool Street]] hauled by [[British Rail Class 90|Class 90]] locomotives, and is also linked to the [[English Midlands|Midlands]] with hourly services to [[Liverpool Lime Street railway station|Liverpool Lime Street]], operated by [[East Midlands Trains]] [[British Rail Class 158|Class 158]] [[Diesel multiple unit|DMU]]s via [[Peterborough railway station|Peterborough]], [[Nottingham railway station|Nottingham]], [[Sheffield railway station|Sheffield]] and [[Manchester Piccadilly railway station|Manchester Piccadilly]]. Additional hourly regional services to [[Cambridge railway station|Cambridge]], and out of Norwich as far as [[Ely railway station|Ely]], are run along the [[Breckland Line]] also by Greater Anglia which additionally runs hourly local services to [[Great Yarmouth railway station|Great Yarmouth]] and [[Lowestoft railway station|Lowestoft]], using the [[Wherry Lines]], and to [[Sheringham railway station|Sheringham]], using the [[Bittern Line]]. These all use either [[British Rail Class 156|Class 156]] or [[British Rail Class 170|Class 170]] DMUs. Norwich is the site of [[Norwich Crown Point]] Traction Maintenance Depot ([[Traction maintenance depot|TMD]]).{{citation needed|date=May 2016}}
+
+===Bus and coach===
+[[File:NorwichBusStation.jpg|thumb|[[Norwich bus station]]]]
+The bus companies serving Norwich include BorderBus, [[First Norfolk & Suffolk]], [[Konectbus]] and Sanders Coaches. Destinations throughout Norfolk and beyond are served, as are [[Peterborough]] and [[Lowestoft]]. [[National Express Coaches|National Express]] run ten coaches a day to the three main London airports ([[Stansted Airport|Stansted]], [[Heathrow Airport|Heathrow]] and [[Gatwick Airport|Gatwick]]), five a day to [[Victoria Coach Station|London]], and one a day to [[Birmingham Coach Station|Birmingham]]. [[Megabus (Europe)|Megabus]] also operate a daily service to London. Most bus and coach services run from [[Norwich bus station]] or from Castle Meadow.
+
+The [[Norwich park and ride]] network has six sites run by Konectbus. It is one of the larger UK [[park & ride]] operations.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/england/norfolk/3820385.stm |title=Work starts on new park and ride |publisher=news.bbc.co.uk |accessdate=29 September 2010 | date=19 June 2004}}</ref><ref>{{cite news |url=https://www.norwichparkandride.co.uk |title=Norwich Park & Ride |accessdate=15 August 2018 }}</ref> Almost 5,000 parking spaces are provided, and in 2006 3.4&nbsp;million passengers used the service.<ref>{{cite web|url=http://www.norfolk.gov.uk/Travel_and_transport/Public_transport_and_community_transport/Park_and_ride/index.htm |title=Norfolk County Council – Park and Ride |publisher=norfolk.gov.uk |accessdate=29 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100830024606/http://www.norfolk.gov.uk/Travel_and_transport/Public_transport_and_community_transport/Park_and_ride/index.htm |archivedate=30 August 2010 |df= }}</ref>
+
+===Air===
+{{Main|Norwich Airport}}
+Norwich Airport is a feeder to [[KLM]]'s [[Schiphol Airport|Schiphol]] hub. [[FlyBe]], [[Eastern Airways]] all serve Norwich. Through [[Bristow Helicopters]] Norwich airport serves the offshore oil and gas industry. There is a strong holiday charter flight business. The airport was originally the airfield of [[RAF Horsham St Faith]]. One of the old RAF hangars was once the home of [[Air UK]], which grew out of [[Air Anglia]] and was then absorbed by the Dutch airline KLM.
+
+===Bicycle===
+[[File:Norwich Whitlingham.png|thumb|[[Cycling]]]]
+[[National Cycle Route]] [[National Cycle Route#Main routes|1]] passes through Norwich, linking [[Beccles]] and [[Fakenham]] (and eventually [[Dover]] and the [[Shetland Islands]]).<ref>[http://www.norwich.gov.uk/TransportAndStreets/Transport/Cycling/Documents/CyclingMapFront.pdf Norwich Cycle Map] {{webarchive|url=https://web.archive.org/web/20140202172939/http://www.norwich.gov.uk/TransportAndStreets/Transport/Cycling/Documents/CyclingMapFront.pdf |date=2 February 2014 }}</ref>
+
+===Water===
+The [[River Yare]] is navigable from the sea at [[Great Yarmouth]] up to Trowse, south of the city. From there the [[River Wensum]] is navigable into Norwich up to New Mills, and is crossed by the [[Novi Sad Friendship Bridge]]. Scheduled trips through the city and out to the nearby [[The Broads]] are run by City Boats from outside Norwich station and also Elm Hill. In June 2012, Norwich City Council gave permission for [[punt (boat)|punting]] on the River Wensum.<ref>[https://www.bbc.co.uk/news/uk-england-norfolk-18532389 BBC news report] Retrieved 24 November 2012</ref>
+
+===Proposed developments===
+In 2017 the first part of a new {{convert|11|km|mi|adj=on}} road, the [[Norwich Northern Distributor Road]], linking from the A1067 to the north west of the city to the A47 road to the east of Norwich was opened. The remainder of the road opened in 2018. There is also discussion of building the [[Norwich Western Link]] section from the A1067 to the A47 southern bypass to the west, as originally proposed.<ref name=EN24-1>{{cite web|url=http://www.eveningnews24.co.uk/content/news/story.aspx?brand=ENOnline&category=News&tBrand=ENOnline&tCategory=news&itemid=NOED17%20Dec%202009%2008%3A38%3A40%3A063|title=How NDR will help transport in Norwich|work=Evening News 24|accessdate=6 January 2010}}</ref>
+
+[[Sustrans]] plans to build a bridge between the Riverside area and Whitlingham Country Park as part of the [[Connect2]] project, using funds from the [[National Lottery (United Kingdom)|National Lottery]]. The country park is currently cut off from the main residential areas by the River Yare and River Wensum.<ref>{{cite web|url=http://www.sustransconnect2.org.uk/schemes/project_detail.php?id=119|title=Norwich, Connections to Whitlingham County Park|accessdate=23 November 2009}}</ref>
+
+Other proposals in the Norwich Transport Strategy include limiting traffic on some roads, introducing five rapid bus links into the city, and creating a train/tram link to the [[Rackheath eco-town]].<ref>{{cite web|url=http://www.eveningnews24.co.uk/content/news/story.aspx?brand=ENOnline&category=NewsSplash&tBrand=ENOnline&tCategory=NewsSplash&itemid=NOED17%20Dec%202009%2008%3A39%3A58%3A127|title=NDR is key to transport plans|work=Evening News 24|accessdate=6 January 2010}}</ref>
+
+== Geography ==
+Norwich is 100 miles (161 km) northeast of [[London]], 102 miles (164 km) east of [[Leicester]], 130 miles (209 km) east-northeast of [[Birmingham]], 40 miles (64 km) north of [[Ipswich]] and 65 miles (104 km) east of [[Peterborough]].
+
+=== Climate ===
+[[File:SeaFogEastAnglia.JPG|thumb|[[Sea fog]] clinging to the East Anglian coast, February 2008; Norwich is denoted by the yellow dot.]]
+Norwich, like the rest of the [[British Isles]], has a temperate maritime climate. It does not suffer extreme temperatures, and benefits from rainfall fairly evenly spread throughout the year. [[Coltishall]], about {{convert|18|km|mi}} to the northeast, was the nearest official met-office weather station for which records are available, although it ceased reporting in early 2006 – now Norwich airport provides readings. Norwich's position in East Anglia, jutting out into the [[North Sea]] can produce weather conditions that have less effect on other parts of the country, such as snow or [[Rain and snow mixed|sleet]] showers during the winter months on a northerly or easterly wind, or sea fog/[[Haar (fog)|haar]] during the summer half of the year. An example of Norwich being afflicted by sea fog is shown in the adjacent image.
+
+The highest temperature recorded at Coltishall was {{convert|33.1|C}}<ref>{{cite web
+|url=http://eca.knmi.nl/utils/monitordetail.php?seasonid=12&year=1976&indexid=TXx&stationid=2282
+|title=1976 Maximum
+|accessdate=1 March 2011}}</ref> during June 1976. However, go back further to 1932, and Norwich's absolute record high stands at {{convert|35.6|C}}.<ref>{{cite web
+ |url=http://archive.greenpeace.org/climate/database/records/zgpz0697.html 
+ |title=Temperature records by county 
+ |accessdate=1 March 2011 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20110604014041/http://archive.greenpeace.org/climate/database/records/zgpz0697.html 
+ |archivedate=4 June 2011 
+ |df= 
+}}</ref> Typically the warmest day of the year should reach {{convert|28.8|C}}<ref>{{cite web
+|url=http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1971-2000&indexid=TXx&stationid=2282
+|title=1971-00 Annual average max temp
+|accessdate=1 March 2011}}</ref> and 9.9 days<ref>{{cite web
+|url=http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1971-2000&indexid=SU&stationid=2282
+|title=Max &gt;25c days
+|accessdate=1 March 2011}}</ref> should register a temperature of {{convert|25.1|C}} or higher.
+
+The lowest temperature recorded at Coltishall was {{convert|−15.3|C}}<ref>{{cite web
+|url=http://eca.knmi.nl/utils/monitordetail.php?seasonid=7&year=1979&indexid=TNn&stationid=2282stationid=1860
+|title=January 1979 minimum
+|accessdate=1 March 2011}}</ref> during January 1979. In a typical year however, the coldest night should only fall to {{convert|−7.5|C}}.<ref>{{cite web
+|url=http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1971-2000&indexid=TNn&stationid=2282
+|title=1971-00 Annual average min temp
+|accessdate=1 March 2011}}</ref> On average 39.4<ref>{{cite web
+|url=http://eca.knmi.nl/utils/calcdetail.php?seasonid=0&periodid=1971-2000&indexid=FD&stationid=2282
+|title=1971-00 Annual average air frost
+|accessdate=1 March 2011}}</ref> air frosts will be recorded during the course of the year. More recently, the temperature at Norwich airport fell to {{convert|−14.4|C}}<ref>{{cite web
+|url=http://metofficenews.wordpress.com/2010/12/18/minimum-temperatures-and-snow-across-the-uk-last-night-4/
+|title=December 2010
+|accessdate=1 March 2011}}</ref> on 18 December 2010 with unofficial weather stations reporting localised readings of {{convert|−17| and |−18|C}}.
+
+The nearest sunshine monitoring weather station for which records are available is [[Morley, Norfolk|Morley]] agricultural research centre, about {{convert|11|mi}} southwest of Norwich city centre. For the 1961–90 period, it averaged 1558 hours<ref>{{cite web
+|url=http://www.cru.uea.ac.uk/cru/data/hulme/uk/morley.htm
+|title=1961–90 average sunshine
+|accessdate=1 March 2011}}</ref> of sunshine a year, a relatively high total for an inland part of the British Isles outside of southern England. In reality, given Norwich's position nearer to the coast and as such suffering from less convective cloud development during summer, true totals may even be slightly higher than this.
+
+Rainfall, at around 650 millimetres (25 inches), is low, although as much as 100 millimetres (4 inches) higher than other, more sheltered parts of East Anglia, as Norwich is more prone to showers originating from the North Sea.<ref>{{cite web| url=http://www.metoffice.gov.uk/public/weather/climate/u12gmt1fz| title=Climate Normals 1981–2010| publisher=Met Office| accessdate=4 August 2015}}</ref>
+
+==Travellers' comments==
+In 1507 the poet [[John Skelton]] (1460–1529) wrote of two destructive fires in his ''Lament for the City of Norwich''.
+: ''All life is brief, and frail all man's estate. City, farewell: I mourn thy cruel fate''.
+
+[[Thomas Fuller]] in his ''The Worthies of England'' described the City in 1662 as:
+: ''Either a city in an orchard or an orchard in a city, so equally are houses and trees blended in it, so that the pleasure of the country and the populousness of the city meet here together. Yet in this mixture, the inhabitants participate nothing of the rusticalness of the one, but altogether the urbanity and civility of the other''.
+
+[[Celia Fiennes]] (1662–1741) visited Norwich in 1698 and described it as
+: '' a city walled full round of towers, except on the river side which serves as a wall; they seem the best in repair of any walled city I know''.
+
+She also records that three times a year the city held:
+: ''great fairs. &hellip; to which resort a vast concourse of people and wares a full trade'', Norwich being ''a rich, thriving industrious place full of weaving, knitting and dyeing''.
+
+[[Daniel Defoe]] in his ''Tour of the whole Island of Great Britain'' (1724) wrote:
+: ''the inhabitants being all busy at their manufactures, dwell in their garrets at their looms, in their combing-shops, so they call them, twisting-mills, and other work-houses; almost all the works they are employed in being done within doors''.
+
+[[John Evelyn]] (1620–1706), royalist, traveller and diarist, wrote to [[Sir Thomas Browne]]:
+: '' I hear Norwich is a place very much addicted to the flowery part''.
+
+He visited the City as a courtier to [[Charles II of England|King Charles II]] in 1671 and described it thus:
+: ''The suburbs are large, the prospect sweet, and other amenities, not omitting the flower-garden, which all the Inhabitants excel in of this City, the fabric of stuffs, which affords the Merchants, and brings a vast trade to this populous Town''.
+
+[[George Borrow]] in his semi-autobiographical novel [[Lavengro]] (1851) wrote of Norwich as:
+: ''A fine old city, perhaps the most curious specimen at present extant of the genuine old English Town &hellip;.There it spreads from north to south, with its venerable houses, its numerous gardens, its thrice twelve churches, its mighty mound &hellip;.There is an old grey castle on top of that mighty mound: and yonder rising three hundred feet above the soil, from amongst those noble forest trees, behold that old Norman master-work, that cloud-enriched cathedral spire &hellip;.Now who can wonder that the children of that fine old city are proud, and offer up prayers for her prosperity?''
+
+Borrow wrote far less favourably of the City in his translation of [[Faust]]:
+: ''They found the people of the place modelled after so unsightly a pattern, with such ugly figures and flat features that the devil owned he had never seen them equalled, except by the inhabitants of an English town, called Norwich, when dressed in their Sunday's best''.
+
+In 1812, Andrew Robertson wrote to the painter [[Constable]]:
+: ''I arrived here a week ago and find it a place where the arts are very much cultivated &hellip; some branches of knowledge, chemistry, botany, etc. are carried to a great length. General literature seems to be pursued with an ardour which is astonishing when we consider that it does not contain a university, as is merely a manufacturing town.''
+
+In 1962, [[Nikolaus Pevsner|Sir Nikolaus Pevsner]] stated in his North-West Norfolk and Norwich volume of ''[[The Buildings of England]]'' that:
+: ''Norwich is distinguished by a prouder sense of civic responsibility than any other town of about the same size in Britain.''
+
+==Notable people==
+[[File:Thomas Browne statue.jpg|thumb|Statue of Sir [[Thomas Browne]] on Hay Hill, near to where he lived. Browne is buried in [[St Peter Mancroft]] church]]
+
+===Past===
+Norwich has long been associated with [[Radicalization|radical]] politics, [[political dissent]], liberalism, [[nonconformist|nonconformism]] and [[the arts]]. Past names associated with the city include:
+
+* [[Rev. John Abbs]] (1810–1888), [[missionary]] and author of ''Twenty-Two years' Missionary Experience in Travancore''
+* [[Louisa Sewell Abbs]] (née Skipper) (1811–1872), founder of girls' [[boarding schools]] in [[Travancore]], [[India]], who established the [[lace-making]] and [[embroidery]] industries there
+* [[Michael Andrews (artist)|Michael Andrews]] (1928–1995), painter
+* [[Sarah Austin (translator)|Sarah Austin]] (1793–1867), translator from German and editor, born in Norwich
+* [[Frances Catherine Barnard]] (1796–1869), author
+* [[Carol Barnes]] (1944–2008), journalist and broadcaster, born in Norwich<ref>{{cite news|title=Carol Barnes: Authoritative television journalist who anchored 'News at Ten'|url=https://www.independent.co.uk/news/obituaries/carol-barnes-authoritative-television-journalist-who-anchored-news-at-ten-793670.html|work=The Independent|accessdate=4 September 2013|location=London|date=10 March 2008}}</ref>
+* [[Elizabeth Bentley (writer)|Elizabeth Bentley]] (1767–1839), author of "Tales for Children in Verse", lived at 45 St Stephen's Square
+* [[Billy Bluelight]] (1859/1863?–1949), pseudonym of William Cullum, known for his races against steam pleasure boats
+* [[George Borrow]] (1803–1881), writer and traveller, resident in his youth at Willow Lane, who attended the Norwich [[Norwich School (educational institution)|King Edward VI's Grammar School]]. He recalls the city and conversations with the [[philologist]] [[William Taylor (scholar)|William Taylor]] in his semi-autobiographical novel ''[[Lavengro]]''
+* [[Thomas Browne|Sir Thomas Browne]] (1605–1682), medical doctor, scientist, Christian mystic, [[polymath]], author of acclaimed works in English literature
+* [[Edith Cavell]] (1865–1915), born in [[Swardeston]], {{convert|4|mi|km}} south of Norwich, a World War I nurse [[Execution by firing squad|executed by firing squad]] by the [[Germans]] for helping Allied prisoners escape, and buried on Life's Green on the east side of Norwich Cathedral
+* [[William Calthorpe]], purchased Erpingham manor in St.Martin's at the Palace, Norwich in 1447
+* [[Vernon Castle]] (1887–1918), ballroom dancer and promoter of modern dancing
+* [[Geoffrey Colman]] (1892-1935), first-class cricketer and member of the Colman family
+* [[John Crome]] (1768–1821), [[Joseph Stannard]] (1797–1830) and [[John Sell Cotman]] (1782–1842), who established the [[Norwich School (art movement)|Norwich school]] of painters
+* [[John Berney Crome]] (1794–1842), a son of John Crome, known as "Young Crome", painter
+* [[William Crotch]] (1775–1847), musical infant prodigy, composer, artist, and teacher
+* [[William Cuningham]], Elizabethan physician, cartographer and astrologer
+* [[Sir Thomas Erpingham]] (1357–1428), officer in the [[Battle of Agincourt]] and [[Knight of the Garter]]
+* [[Pablo Fanque]] (1796–1871), the first [[black people|black]] [[circus]] proprietor in Britain, born in Norwich
+* [[Elizabeth Fry]] (1780–1845), [[prison reform]]er, philanthropist and [[Religious Society of Friends|Quaker]], born at Gurney Court in Magdalen Street, portrayed on the Series E (2005) £5 banknote.
+* [[Robert Greene (dramatist)|Robert Greene]] (1558–1592), author of [[Friar Bacon and Friar Bungay]] (c. 1590)
+* [[Joseph John Gurney]] (1788–1847), banker and philanthropist who worked with his sister Elizabeth Fry (see above) on [[prison reform]], and also active on abolition of the [[slave trade]] and in the [[temperance movement]]
+* [[Richard Hearne|Richard Lewis Hearne (Mr Pastry)]], (1908–1979), born in Norwich, actor, comedian, producer and writer
+* [[Louisa Gurney Hoare]], (1784–1836), diarist and writer on education
+* [[Vyvyan Holt|Sir Vyvyan Holt]] (1896–1960), diplomat, orientalist and British minister, captured during the [[Korean War]]
+* [[William Jackson Hooker]] (1785–1865), [[botanist]] and [[Fellow of the Royal Society]]
+* [[Robert William Bilton Hornby]] (1821–1884), antiquarian, priest and lord of the manor, from the City of York, ordained [[deacon]] in Norwich in 1844
+* [[Julian of Norwich]], medieval Christian [[mysticism|mystic]] and contemporary of [[Chaucer]], author of ''The Revelations of Divine Love'', the first known book in English written by a woman
+* [[Robert Kett]], Norwich's [[Robin Hood]], a landowner from [[Wymondham]] who led [[Kett's Rebellion]] in 1549 against corrupt Norfolk landowners. He was hanged for treason at [[Norwich Castle]] on 7 December 1549
+* [[Alfred Lungley]] (1905–1989), awarded the [[George Cross]] after the [[1935 Quetta earthquake]]
+* [[Louis Marchesi]] (1898–1968), founder of the [[Round Table (club)|Round Table]], a fellowship and community charitable organisation for young businessmen
+* [[Harriet Martineau]] (1802–1876), daughter of a Norwich manufacturer of [[Huguenot]] descent and devout [[Unitarianism|Unitarian]], whose writings include ''Illustrations of Political Economy'' (1832–34). She supported the [[Abolitionism in the United States|abolitionist]] campaign
+* [[James Martineau]] (1805–1900), philosopher and brother to Harriet
+* [[Bernard Meadows]] (1915–2005), [[modernism|modernist]] [[sculpture|sculptor]]
+* [[Sir John Mills]] (1908–2005), actor born in [[North Elmham]] in Norfolk and educated at [[Norwich High School for Boys]]
+* [[Thomas Morley]] (1558–1602), composer taught by [[William Byrd]] and organist at St Paul's
+* [[George Henry Morse|Sir George Henry Morse]] (1857–1931), mountaineer and lord mayor of Norwich<ref>‘MORSE, Sir George Henry’, in ''[[Who's Who (UK)|Who Was Who]]'' (London: A. & C. Black); [http://www.ukwhoswho.com/view/article/oupww/whowaswho/U214433 online edition] by [[Oxford University Press]], December 2007, accessed 30 March 2014 (subscription site)</ref>
+* [[R. H. Mottram]] (1883–1971), novelist and [[lord mayor]] of Norwich
+* [[Ross Nichols]] (1902–1975), poet and founder of [[Order of Bards, Ovates and Druids]]
+* [[Amelia Opie]] (1769–1853), Norwich author and [[Religious Society of Friends|Quaker]] convert
+* [[Matthew Parker]] (1504–1575), [[archbishop of Canterbury]]
+* [[Thomas Rawlins (sculptor)|Thomas Rawlins]] (1727–1789) Monument Mason with works in several Norwich churches 
+* [[Elizabeth Scott (hymnwriter)]] (1708–1776), poet, hymnwriter
+* [[Ayrton Senna]] (1960-1994), racing driver; he lived in Norwich in the early 1980s
+* [[W. G. Sebald]], (1944–2001), writer, professor of German literature at the University of East Anglia
+* [[Edmund Sheffield, 1st Baron Sheffield]] (1521–1549), murdered near the [[Adam and Eve (public house)|''Adam and Eve'']] pub off the Cathedral Close during [[Kett's Rebellion]]
+* [[Obadiah Short]] (1803-1886), an amateur landscape artist and a member of the [[Norwich School of painters]]
+* [[Tony Sheridan]] (1940–2013), rock musician, born in Norwich
+* [[John Palgrave Simpson]] (1807–1887), born in Norwich, a prolific and successful playwright
+* [[George Skipper]] (1856–1948), architect of many buildings in the city and elsewhere
+* [[Sir James Edward Smith]] (1759–1828), botanist, natural historian and one-time owner of the Linnean collection of [[Carl Linnaeus]]
+* [[William Smith (abolitionist)|William Smith]] (1756–1835), [[British Whig Party|Whig]] politician, [[dissenter]] and [[Abolitionism in the United Kingdom|abolitionist]], [[Member of Parliament|MP]] for Norwich from 1807
+
+===Present===
+
+* [[Stuart Ashen]] (born 1976), reviewer, comedian, animator, actor and writer
+* [[Ed Balls]], former Labour Party MP, born 1967 in Norwich
+* [[Paige (wrestler)|Saraya-Jade Bevis]], professional wrestler born 1992 and raised in Norwich, signed to WWE, performing as "Paige"
+* [[Martin Burgess]] (born 1931), builder of Gurney Clock in the Castle Mall
+* [[Tanya Burr]] (born 1989), make-up artist on [[YouTube]]
+* [[Diana Burrell]], composer, born 1948 in Norwich
+* [[Dominic Byrne]] (born 1972 in Norwich), newsreader and presenter on [[The Chris Moyles Show]] ([[BBC Radio 1]] – 2004–2012) ([[Radio X (United Kingdom)|Radio X]] – 2015)
+* [[Samantha Chapman]] (born 1977), make-up artist who has worked with the likes of [[Paul McCartney]]
+* [[Sam Claflin]], actor famous for Finnick in [[The Hunger Games]], born 1986 in Norwich and attended Costessey High School (now [[Ormiston Victory Academy]])
+* [[Charles Clarke]] (born 1950), former Labour MP for Norwich South and Home Secretary, now visiting professor at [[University of East Anglia]]
+* [[Olivia Colman]], actress, born 1974 in Norwich
+* [[Cathy Dennis]], singer-songwriter, born 1969 in Norwich
+* [[Hannah Diamond]], [[PC Music]] singer-songwriter, born 1991 in Norwich
+* [[Andrew Digby]], astronomer and ecologist, born 1975 in Norwich
+* [[Will Evans (rugby union)|Will Evans]] (born 1997), rugby union player for [[Leicester Tigers]]
+* [[Ralph Firman]], [[Formula One]] driver, born 1975 in Norwich and living in [[Attleborough]]. Races in [[A1 Grand Prix]] series for Ireland
+* [[Jess French]], zoologist, naturalist and presenter of "Minibeast Adventure with Jess" on the [[Cbeebies]] channel, grew up around Norwich and attended [[Norwich School (educational institution)|Norwich School]]
+* [[Stephen Fry]] (born 1957), comedian, author, actor and film maker, studied at [[City College Norwich]], a Norwich City F.C. director
+* [[Mike Gascoyne]] (born 1963), automotive engineer, technical director of the [[Caterham]] [[Formula One]] team
+* [[Trisha Goddard]] (born 1957), chat show host, lives just outside the city
+* [[Herbie Hide]] (born 1971), boxer, two-time WBO Heavyweight champion, was born in Nigeria, but lived and fought out of Norwich
+* [[Jake Humphrey]] (born 1978), TV presenter for [[CBBC]] and [[BBC]] coverage of [[Formula One]], moved to Norwich aged nine and attended the [[The Hewett School, Norwich|Hewett School]]
+* [[Myleene Klass]] (born 1978), singer, model, designer and classical music DJ, formerly of pop band Hear'Say, went to school in Norwich
+* [[Marek Larwood]], actor and comedian, was born 1976 in Norwich
+* [[Jane Manning]], opera [[soprano]], was born 1938 and raised in Norwich, and attended [[Norwich High School for Girls|Norwich High School]]
+* [[Danny Mills]], (born 1977), footballer, was born in Norwich and played for [[Norwich City F.C|Norwich City]] 1995-1998
+* Professor Sir [[Paul Nurse]], winner of the 2001 [[Nobel Prize in Physiology or Medicine]], president of the [[Royal Society]] from 2010, was born 1949 in Norwich and educated at [[University of East Anglia]]
+* [[Beth Orton]], award-winning singer-songwriter, was born 1970 in [[Dereham]], spent much of her childhood in Norwich, and attended [[The Hewett School, Norwich|The Hewett School]]
+* [[Steve Osborne]] (born 1963), musician and record producer, grew up in Norwich, left in 1986
+* [[Ronan Parke]] (born 1998), singer, came second in [[Britain's Got Talent]] 2011
+* [[Alan Partridge]] (born 1955), fictional radio and television personality played by comedian [[Steve Coogan]] 
+* [[Norwich Puppet Man|David Perry]] (born 1942), [[busker|street entertainer]] known as the Norwich Puppet Man
+* [[Emma Pooley]] (born 1982), Olympic cycling silver medallist and winner of 2009 Women's Tour de France, attended [[Norwich School (educational institution)|The Norwich School]]
+* Sir [[Philip Pullman]], children's writer, author of the ''[[His Dark Materials]]'' trilogy, was born in Norwich
+* [[Mark Robinson (darts player)|Mark Robinson]], (born 1963), [[Professional Darts Corporation|PDC]] professional darts player
+* [[Colin Self]] (born 1941), contemporary artist, was brought up in Sprowston and attended Norwich School of Art
+* [[Delia Smith]] (born 1941), celebrity chef and joint majority owner of Norwich City F.C.
+* [[Chris Sutton]] (born 1973), football player (striker), joint top scorer for Premier League in 1997/8, attended [[Hellesdon High School]], where father, [[Mike Sutton (footballer)|Mike Sutton]], taught
+* [[D. J. Taylor]] (born 1960, Norwich), biographer, critic, novelist
+* [[Jon Tickle]] (born 1974), contestant on [[Big Brother (TV series)|Big Brother]] and presenter on ''[[Brainiac: Science Abuse]]''
+* [[Stella Vine]] (born 1969), painter, lived in Norwich from aged seven, and played at Norwich Theatre Royal. Later she moved back to Norwich and painted the large sign ''Welcome to Norwich a fine city'' (2006).<ref>{{cite web|author1=Jackie Wullschlager|title=Where art history meets Hello!|url=https://www.ft.com/content/bd956e1c-3672-11dc-ad42-0000779fd2ac|website=Financial Times|accessdate=30 December 2017|date=20 July 2007}}</ref>
+* [[Paul Warne]] (born 1973), former professional footballer and manager of [[Rotherham United F.C.]] (2016–present), born in Norwich
+* [[Tim Westwood]] (born 1957), BBC Radio 1 Rap DJ and presenter of the MTV show "Pimp My Ride (UK)", grew up in East Anglia and attended [[Norwich School (educational institution)|Norwich School]] and the [[The Hewett School, Norwich|Hewett School]]
+* [[Eileen Whelan]] (born 1911), the oldest ever international cricketer<ref>https://sports.ndtv.com/cricket/meet-eileen-whelan-the-oldest-living-international-cricketer-who-just-turned-107-1940162</ref>
+* [[Tom Youngs]] (born 1987), rugby union player, hooker for [[Leicester Tigers]] and [[England national rugby union team|England]] 
+{{refend}}
+
+==Twin cities==
+Norwich has [[Twin towns and sister cities|town twinning]] agreements with four towns and cities:
+*{{flagicon|FRA}} [[Rouen]], France,<ref>{{cite web|url=http://www.completefrance.com/language-culture/twin-towns|title=British towns twinned with French towns|accessdate = 11 July 2013|work=Archant Community Media Ltd}}</ref> since 1951
+*{{flagicon|GER}} [[Koblenz]], Germany,<ref>{{cite web|title=Twinning Leaflet |website=Norwich City Council |accessdate=1 February 2014 |url=http://www.norwich.gov.uk/Twinning/documents/Twinningleaflet.pdf |deadurl=yes |archiveurl=https://web.archive.org/web/20140203004921/http://www.norwich.gov.uk/Twinning/documents/Twinningleaflet.pdf |archivedate=3 February 2014 |df= }}</ref> since 1978
+*{{flagicon|SER}} [[Novi Sad]], Serbia,<ref>{{citation|url=http://www.novisad.rs/eng/links |title=Links: Sister Cities |publisher=Official Website of City of Novi Sad|date=22 September 2011|accessdate=5 September 2013}}</ref> since 1985
+*{{flagicon|NCA}} [[El Viejo]], Nicaragua,<ref>[http://www.norwich.gov.uk/Twinning/pages/Twinning.aspx Norwich-twinning] {{webarchive|url=https://web.archive.org/web/20121024221422/http://www.norwich.gov.uk/Twinning/pages/Twinning.aspx |date=24 October 2012 }} Retrieved 31 March 2013</ref> since 1996
+
+==See also==
+*[[Argyle Street, Norwich]]
+*[[Church of Saint John the Baptist, Maddermarket, Norwich]]
+*[[St Augustine's Church, Norwich]]
+*[[St Laurence's Church, Norwich]]
+
+==Notes==
+
+{{notelist}}
+
+==References==
+
+{{reflist}}
+
+==Sources==
+
+{{refbegin}}
+
+* {{cite book
+| title         = An Archaeological Evaluation at 17–27 Fishergate, Norwich, Norfolk
+| date          = 2005
+| publisher     = NORFOLK ARCHAEOLOGICAL UNIT
+| url           = http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-413-1/dissemination/pdf/norfolka1-15734_1.pdf
+| doi           = 10.5284/1002151
+| first1        = David
+| last1         = Adams
+| issue         = 1062
+| ref           = harv
+}}
+* {{cite book
+| last1         = Blackwell
+| first1        = Michael P.
+| last2         = Blackwell
+| first2        = Carole A.
+| others        = with a foreword by [[Harriet Walter]]
+| title         = Norwich Theatre Royal – The First 250 years
+| publisher     = Connaught
+| location      = Norwich
+| isbn          = 978-0955745409
+| date          = 2007
+| ref           = harv
+}}
+* {{cite journal
+| last1         = Chandler
+| first1        = D.
+| url           = http://www.erudit.org/revue/ron/1998/v/n12/005819ar.html
+| title         = The Conflict: Hannah Brand and Theatre politics in the 1790s
+| journal       = Romanticism on the net
+| issue         = 12
+| date          = 1998
+| doi           = 10.7202/005819ar
+| ref           = harv
+}}
+* {{cite book
+| last1         = Cundall
+| first1        = Herbert Minton
+| editor-first1 = Charles Geoffrey
+| editor-last1  = Holme
+| title         = The Norwich School
+| url           = https://archive.org/details/norwichschooljoh00holmuoft
+| date          = 1920
+| publisher     = The Studio
+| oclc          = 1356134
+| ref           = harv
+}}
+* {{cite encyclopedia
+| last1         = Fagel
+| first1        = Raymond
+| title         = Immigrant Roots: The Geographical Origins of Newcomers from the Low Countries in Tudor England
+| encyclopedia  = Immigrants in Tudor and Early Stuart England
+| editor-first1 = Nigel
+| editor-last1  = Goose
+| editor-first2 = Lien
+| editor-last2  = Luu
+| isbn          = 978-1903900147
+| location      = Brighton
+| publisher     = Sussex Academic
+| date          = 2003
+| ref           = harv
+}}
+* {{cite web
+| title         = The Layer Monument
+| first1        = Kevin
+| last1         = Faulkner
+| publisher     = Pride
+| url           = https://www.academia.edu/8267356/The_Layer_Monument
+| date          = 2013
+| ref           = harv
+}}
+* {{cite book
+| title         = A biographical chronicle of the English drama, 1559–1642
+| first1        = Frederick Gard
+| last1         = Fleay
+| author1-link  = Frederick Gard Fleay
+| date          = 1891
+| publisher     = Reeves and Turner
+| ref           = harv
+}}
+* {{cite journal
+| last1         = Harfield
+| first1        = C. G.
+| date          = 1991
+| title         = A Hand-list of Castles Recorded in the Domesday Book
+| journal       = English Historical Review
+| publisher     = OUP
+| volume        = 106
+| issue         = 419
+| pages         = 371–392
+| jstor         = 573107
+| ref           = harv
+| doi=10.1093/ehr/cvi.ccccxix.371
+}}
+* {{cite thesis
+| title         = Politics in Norfolk, 1750–1832  
+| last1         = Hayes
+| first1        = B. D.  
+| date          = 1958
+| type          = PhD
+| publisher     = University of Cambridge
+| id            = EThOS: uk.bl.ethos.603880 
+| ref           = harv
+}}
+* {{cite encyclopedia
+| encyclopedia  = Medieval Norwich
+| editor-last1  = Rawcliffe
+| editor-first1 = Carole
+| editor-last2  = Wilson
+| editor-first2 = Richard
+| isbn          = 978-1852854492
+| date          = 2004
+| publisher     = Hambledon
+| title         = The Reformation
+| last1         = Houlbroke
+| first1        = Ralph
+| last2         = McClendon
+| first2        = Muriel
+| ref           = harv
+}}
+* {{cite news
+ |title=Jewish bones found in medieval well in England 
+ |url=http://www.jta.org/news/article/2011/06/27/3088324/jewish-bones-found-in-medieval-well-in-england 
+ |last1=Jewish Telegraphic Agency 
+ |first1=Toby Axelrod 
+ |accessdate=17 October 2016 
+ |date=27 June 2011 
+ |archiveurl=https://web.archive.org/web/20150725230351/http://www.jta.org/2011/06/27/news-opinion/world/jewish-bones-found-in-medieval-well-in-england 
+ |archivedate=25 July 2015 
+ |deadurl=no 
+ |ref=harv 
+ |df= 
+}}
+* {{cite book
+| last1         = Jewson
+| first1        = Charles Boardman
+| title         = The Jacobin City – a Portrait of Norwich in its Reaction to the French Revolution: 1788–1802
+| location      = Glasgow
+| publisher     = Blackie
+| date          = 1975
+| isbn          = 978-0216898745
+| ref           = harv
+}}
+* {{cite book
+| work          = Norfolk assembly
+| title         = The Coming of the Strangers
+| first1        = Robert Wyndham
+| last1         = Ketton-Cremer
+| author1-link  = R. W. Ketton-Cremer
+| date          = 1957
+| publisher     = Faber and Faber
+| oclc          = 2768949
+| ref           = harv
+}}
+* {{cite book
+| last1         = Martineau
+| first1        = Harriet
+| author1-link  = Harriet Martineau
+| title         = Biographical Sketches 1852–1868
+| date          = 1870
+| url           = https://babel.hathitrust.org/cgi/pt?id=chi.13709130
+| publisher     = Macmillan
+| ref           = harv
+}}
+* {{cite book
+| last1         = McClendon
+| first1        = Muriel C.
+| title         = The Quiet Reformation: Magistrates and the Emergence of Protestantism in Tudor Norwich
+| publisher     = Stanford UP
+| date          = 1999
+| isbn          = 978-0804735131
+| ref           = harv
+}}
+* {{cite citation
+| work          = The city of Norwich
+| title         = '''Chap. 13''' Of the city in Edward I's time
+| url           = http://www.british-history.ac.uk/topographical-hist-norfolk/vol3/pp60-76
+| first1        = W.
+| last1         = Miller
+| editor-first1 = Francis
+| editor-last1  = Blomefield
+| editor1-link  = Francis Blomefield
+| series        = An Essay Towards A Topographical History of the County of Norfolk
+| volume        = '''Vol. 3''' The History of the City and County of Norwich, Part I
+| location      = London
+| date          = 1806
+| publisher     = British History Online
+| accessdate    = 15 October 2016
+| archiveurl    = https://web.archive.org/web/20160130123559/http://www.british-history.ac.uk/topographical-hist-norfolk/vol3/pp60-76
+| archivedate   = 30 January 2016
+| deadurl       = no
+| ref           = harv
+}}
+* {{cite news
+| url           = http://www.culture24.org.uk//places-to-go/east-of-england/norwich/art38229
+| title         = 10-Year Archaeological Project For Caistor Roman Town
+| newspaper     = Culture24
+| first1        = Sarah
+| last1         = Morley
+| date          = 23 June 2006
+| accessdate    = 11 January 2013
+| archiveurl    = https://web.archive.org/web/20160102191326/http://www.culture24.org.uk//places-to-go/east-of-england/norwich/art38229
+| archivedate   =  2 January 2016
+| deadurl       = no
+| ref           = harv
+}}
+* {{cite book
+| last1         = Nilson
+| first1        = Benjamin John 
+| date          = 2001
+| title         = Cathedral Shrines of Medieval England
+| publisher     = Boydell
+| isbn          = 978-0851158082
+| ref           = harv
+}}
+* {{cite book
+| title         = Norwich since 1550
+| editor-last1  = Rawcliffe
+| editor-first1 = Carole
+| editor-last2  = Wilson
+| editor-first2 = Richard
+| editor-last3  = Clark
+| editor-first3 = Christine
+| isbn          = 978-1852854508
+| date          = 2004
+| publisher     = Hambledon
+}}
+:* {{cite book
+| date          = 2004
+| volume        = Introduction
+| title         = The Changing Face of Norwich
+| last1         = Wilson
+| first1        = John
+| pages         = 1–34
+| ref           = harv
+}}
+:* {{cite book
+| date          = 2004
+| volume        = 1
+| title         = Government to 1660
+| last1         = Pound
+| first1        = John
+| pages         = 35–62
+| ref           = harv
+}}
+:* {{cite book
+| date          = 2004
+| volume        = 4
+| title         = The Civil War
+| last1         = Hopper
+| first1        = Andrew
+| pages         = 89–116
+| ref           = harv
+}}
+:* {{cite book
+| date          = 2004
+| volume        = 6
+| title         = From Second City to Regional Capital
+| last1         = Corfield
+| first1        = Penelope J.
+| pages         = 139–166
+| ref           = harv
+}}
+:* {{cite book
+| date          = 2004
+| volume        = 7
+| title         = Politics, 1660–1835
+| last1         = Knights
+| first1        = Mark
+| pages         = 167–192
+| ref           = harv
+}}
+:* {{cite book
+| date          = 2004
+| volume        = 8
+| title         = An Enlightened and Polite Society
+| last1         = Dain
+| first1        = Angela
+| pages         = 193–218
+| ref           = harv
+}}
+:* {{cite book
+| date          = 2004
+| volume        = 9
+| title         = The Textile Industry
+| last1         = Wilson
+| first1        = Richard
+| pages         = 219–242
+| ref           = harv
+}}
+:<hr />
+* {{cite book
+| series        = Oxford History of England
+| title         = Anglo-Saxon England
+| edition       = 3rd
+| first1        = Frank M.
+| last1         = Stenton
+| chapter       = Key to Anglo-Saxon Place-names
+| publisher     = OUP
+| year          = 1970
+| isbn          = 978-0198217169
+| ref           = harv
+}}
+* {{cite journal
+ |last1        = Stoker
+ |first1       = David A.
+ |title        = Anthony de Solempne: attributions to his press
+ |url          = http://users.aber.ac.uk/das/texts/solart.htm
+ |journal      = The Library
+ |volume       = s6-3
+ |issue        = 1
+ |pages        = 17–32
+ |publisher    = OUP / [[Bibliographical Society]]
+ |date         = 1981
+ |ref          = harv
+ |doi          = 10.1093/library/s6-3.1.17
+ |access-date  = 18 October 2016
+ |archive-url  = https://web.archive.org/web/20170202113006/http://users.aber.ac.uk/das/texts/solart.htm
+ |archive-date = 2 February 2017
+ |dead-url     = yes
+ |df           = dmy-all
+}}
+* {{cite book
+| last1         = Thompson
+| first1        = Edward Palmer
+| author1-link  = E. P. Thompson
+| title         = The Making of the English Working Class
+| publisher     = Harmondsworth
+| date          = 1968
+| isbn          = 978-0140210002
+| ref           = harv
+}}
+* {{cite journal
+| last1         = Thompson
+| first1        = Edward Palmer
+| author1-link  = E. P. Thompson
+| title         = Hunting the Jacobin Fox
+| journal       = [[Past & Present (journal)|Past & Present]]
+| publisher     = OUP / The Past and Present Society
+| date          = 1994
+| volume        = 142
+| issue         = 1
+| pages         = 94–140
+| doi           = 10.1093/past/142.1.94
+| ref           = harv
+}} 
+* {{cite web
+| url           = http://www.greaternorwichgrowth.org.uk/dmsdocument/174
+| title         = Enabling Norwich in the Knowledge Economy
+| accessdate    = 14 July 2017
+| last1         = Williams
+| first1        = Laura
+| first2        = Alexandra
+| last2         = Jones
+| first3        = Neil
+| last3         = Lee
+| first4        = Simon
+| last4         = Griffiths
+| work          = Ideopolis: Knowledge City-Regions
+| date          = 2006
+| publisher     = Lancaster University: The Work Foundation
+| ref           = harv
+}}
+* {{cite book
+| last1         = Youngs
+| first1        = Frederic A.
+| date          = 1979
+| title         = Guide to the Local Administrative Units of England
+| volume        = Vol. 1: Southern England
+| publisher     = Royal Historical Society
+| isbn          = 978-0901050670
+| ref           = harv
+}}
+
+{{refend}}
+
+==External links==
+<!-- Please note Wikipedia is not a directory. It may be that one or two links will add to a page, however they should only be placed on the relevant page. -->
+{{Wikivoyage|Norwich}}
+{{Commons category||Norwich}}
+{{Collier's poster|Norwich (England)|Norwich}}
+* [http://www.norwich.gov.uk Norwich City Council]
+* [http://www.literarynorfolk.co.uk/norwich.htm Norwich Literary History]
+* {{Cite AmCyc|wstitle=Norwich (Norfolk)|display=Norwich, a city, capital of the county of Norfolk, England |short=x}}
+* [http://www.norwich-yards.co.uk/norwich_map_1885/norwich_map_15600.asp?ID=2008 A zoomable map of Norwich] (1884)
+
+<!--Navigation boxes-->
+{{Navboxes
+|title=Articles related to Norwich
+|list=
+{{Norfolk}}
+{{East of England}}
+{{UK cities}}
+}}
+
+{{Authority control}}
+
+[[Category:Norwich|*]]
+[[Category:Pages including recorded pronunciations (UK English)]]
+[[Category:Cities in the East of England]]
+[[Category:County towns in England]]
+[[Category:Esoteric Norwich]]
+[[Category:Local government districts of the East of England]]
+[[Category:Non-metropolitan districts of Norfolk]]
+[[Category:UNESCO Creative Cities Network]]

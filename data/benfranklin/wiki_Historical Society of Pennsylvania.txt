@@ -1,0 +1,69 @@
+{{Infobox Organization 
+|name = Historical Society of Pennsylvania
+|image = Phila_HSP01.jpg
+|size = 250px 
+|caption = Historical Society of Pennsylvania main building
+|map = 
+|msize = 
+|mcaption = 
+|type = Historical Society
+|headquarters = 1300 Locust Street<br>Philadelphia, PA 19107
+|location =
+|membership = 
+|leader_name = Charles T. Cullen<ref>{{cite web |title=Staff – Historical Society of Pennsylvania |url=https://hsp.org/staff |website=hsp.org |language=en}}</ref>
+|leader_title = President and CEO
+|formation = 1824
+|website = [https://hsp.org/ Homepage]
+}}
+
+The '''Historical Society of Pennsylvania''' is a historical society founded in 1824 and based in [[Philadelphia]]. The Society's building, designed by [[Addison Hutton]] and listed on Philadelphia's Register of Historical Places, houses some 600,000 printed items and over 19 million manuscript and graphic items. The Society maintains printed collections on [[Pennsylvania]] and regional history and manuscript collections covering 17th-, 18th- and 19th-century history. The holdings of the Balch Institute for Ethnic Studies were added in 2002 and those of the [[Genealogical Society of Pennsylvania]] in 2006. The Historical Society has recently undertaken efforts to appeal to a younger demographic, including having [[beverage function|open bar]] events.<ref>{{cite web|url=https://hsp.org/become-a-member/young-friends|title=Young Friends – Historical Society of Pennsylvania|author=|date=|website=hsp.org|accessdate=8 April 2018}}</ref>
+
+==Building==
+The society's building on the southwest corner of 13th and Locust Streets was formerly the site of the Patterson Mansion. General [[Robert Patterson]], a general of the [[Mexican–American War|Mexican-American]] and [[Civil war|Civil War]]s purchased the mansion from [[John Hare Powell]], the founder of the Pennsylvania Agricultural Society. After Patterson’s death in 1881, the Historical Society of Pennsylvania purchased the mansion as its permanent home. The mansion was demolished between 1905 and 1909 and the main block of a new fireproof building, again designed by Addison Hutton, was constructed on site. The totally fireproof building was dedicated in 1910.
+
+== Constitutive Act ==
+Membership was regulated by the statutory of the Association.
+In particular, article IV stated that "the members of the Historical Society of Pennsylvania shall be deemed qualified voters at the meetings and elections, who have subscribed to the Constitution, and who have paid all their dues to the Society"<ref>{{cite book | url = https://books.google.it/books?id=XiG27B6jnS8C&printsec=frontcover&hl=it| title = | year = 1856 | language = en | pages = 84 | access-date = Sep 16, 2018 | archive-url = | archive-date = | deadurl = no}}</ref><ref>{{cite book | url = https://www.forgottenbooks.com/en/books/TheHistoricalSocietyofPennsylvania_10192851 | title = The Historical Society of Pennsylvania | publisher = Pennsylvania. Historical Society | language  = en | access-date = Sep 16, 2018 | pages = 17 | isbn = 978-0-365-69159-4 | archive-url = | archive-date = | deadurl = no}}</ref>.
+
+==Collections==
+The Society’s collections include a number of different types of materials:
+
+*Books and pamphlets: ranging from limited-edition and out-of-print volumes to current reference works and scholarly monographs. The Society’s pre-1820 imprints are housed next door at The [[Library Company of Philadelphia]].
+*Serials and newspapers: spanning almost 300 years, in either original format or microfilm copy.
+*Manuscripts: materials such as letters, diaries, account books, deeds, minutes, and scrapbooks. Manuscript collections include personal papers created by individuals and families, and records created by organizations and businesses.
+*Graphics: prints, watercolors, and other works of art on paper, architectural drawings, photographs, broadsides, maps, posters, and other images.
+*Printed ephemera: such as event programs, brochures, invitations, advertisements, trade cards, certificates, and menus.
+*Microforms: microfilm and microfiche reproductions of newspapers, genealogical resources, manuscript collections, and other materials.
+
+To help researchers find the materials they need, all of these resources are available through the "Online Catalogs and Research Tools" of the society's web site.<ref name=tools>{{cite web |url=http://www.hsp.org/default.aspx?id=557 |title=Online Catalogs & Research Tools : Historical Society of Pennsylvania |format= |work= |accessdate=2010-02-06}}</ref>
+
+==Publications==
+The society publishes ''Sidelights'', a semi-annual newsletter, ''Pennsylvania Legacies'', a semi-annual illustrated history [[magazine]], and the ''[[Pennsylvania Magazine of History and Biography]]'', a quarterly [[academic journal|scholarly journal]] published since 1877.
+
+==In popular culture==
+*In May 2016, a play by [[Ain Gordon]], ''217 Boxes of Dr. Henry Anonymous'' – based on Gordon's research as an "embedded artist" at the Historical Society of Pennsylvania, where Dr. [[John E. Fryer]]'s papers are archived – premiered at the [[Painted Bride Art Center]] in Philadelphia.  The play explores Fryer and the circumstances around his disguised appearance at the [[American Psychiatric Association]]'s 1972 convention in [[Dallas, Texas|Dallas]] as "Dr. Henry Anonymous" in a debate called "Psychiatry: Friend or Foe to the Homosexual?" in a successful attempt to have homosexuality removed from the APA's ''[[Diagnostic and Statistical Manual of Mental Disorders]]'', where it was listed as a mental disease. The play uses monologues by three people who knew him: Alfred A. Gross, the New York-based head of the George W. Henry Foundation, a social charity which helped homosexual men who had gotten into trouble with the law; Katherine Luder, Fryer's long-time secretary; and Fryer's father, Ercel Ray Fryer.<ref>[https://hsp.org/playwright "An Artist Embedded"] Historical Society of Pennsylvania website</ref><ref>Staff (April 25, 2016) [http://www.broadwayworld.com/philadelphia/article/Ain-Gordon-World-Premiere-Set-for-Painted-Bride-Arts-Center-20160425 "Ain Gordon World Premiere Set for Painted Bride Arts Center"] ''Broadway World Philadelphia''</ref><ref>Derakhshani, Tirdad (May 5, 2016) [http://www.philly.com/philly/entertainment/arts/20160505__217_Boxes__at_the_Painted_Bride__A_courageous_mystery_man_who_changed_history.html "'217 Boxes' at the Painted Bride: A courageous mystery man who changed history"] ''[[Philadelphia Inquirer]]''</ref><ref>Crimmins, Peter (May 4, 2016) [http://www.newsworks.org/index.php/local/arts-culture/93398-raising-the-curtain-on-life-of-dr-anonymous-philly-gay-rights-pioneer "Raising the curtain on life of Dr. Anonymous, Philly gay rights pioneer"] ''Newsworks''</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{NIE Poster|Pennsylvania, Historical Society of|{{PAGENAME}}}}
+* [https://hsp.org/ Historical Society of Pennsylvania], Official site
+* {{cite web|title=Collections|url=https://hsp.org/collections|website=Historical Society of Pennsylvania}}
+
+<!--spacing-->
+
+{{Philadelphia|state=collapsed}}
+{{U.S. state historical societies}}
+{{Mid-Atlantic U.S. historical societies}}
+
+[[Category:State historical societies of the United States]]
+[[Category:1824 establishments in Pennsylvania]]
+[[Category:Organizations based in Philadelphia]]
+[[Category:History of Pennsylvania]]
+[[Category:Historical societies in Pennsylvania]]
+[[Category:Libraries in Philadelphia]]
+[[Category:Museums in Philadelphia]]
+[[Category:Library buildings completed in 1910]]
+[[Category:Center City, Philadelphia]]
+[[Category:Special collections libraries]]

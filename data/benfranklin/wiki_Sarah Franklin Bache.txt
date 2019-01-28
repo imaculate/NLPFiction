@@ -1,0 +1,76 @@
+{{Infobox person|name = Sarah Franklin Bache 
+|image         = Sarah Franklin Bache1793.jpg
+|caption       = Sarah Franklin Bache <br/> by [[John Hoppner]], 1793<ref>{{cite web|title=Mrs. Richard Bache (Sarah Franklin, 1743–1808)|url=http://www.metmuseum.org/search-results#!/search?q=john%20hoppner|website=Metropolitan Museum of Art}}</ref>
+|birth_name=Sarah Franklin
+|birth_date = {{Birth date|1743|9|11}}
+|birth_place = [[Philadelphia]], [[Province of Pennsylvania]]
+|death_date  = {{death date and age|1808|10|5|1743|9|11}}
+|death_place= Philadelphia, [[Pennsylvania]]
+|residence =   Philadelphia
+|burial = 
+|nationality = American
+|profession        = 
+|field = 
+|spouse=  {{marriage|[[Richard Bache]]|October 29, 1767}}
+|children     = 8, including [[Benjamin Franklin Bache (journalist)|Benjamin]], [[Louis Franklin Bache|Louis]], and [[Richard Bache Jr.|Richard]]
+|parents      = [[Benjamin Franklin]]<br/>[[Deborah Read]]
+|education  = 
+}}
+
+'''Sarah "Sally" Franklin Bache''' (September 11, 1743 – October 5, 1808) was the daughter of [[Benjamin Franklin]] and [[Deborah Read]]. She was a leader in relief work during the [[American Revolutionary War]] and frequently served as her father's political hostess, as her mother had done before her death in 1774.
+
+==Early life and education==
+Born Sarah Franklin and known as "Sally" throughout her life, she was the only surviving child of her parents, [[Deborah Read]] and [[Benjamin Franklin]]. Their son Francis Franklin died of smallpox at age four. Also in their household was her older half-brother [[William Franklin]], her father's illegitimate son whom her parents raised from infancy. She was carefully educated by her father about political life.
+
+==Marriage and family==
+Sarah married [[Richard Bache]] on October 29, 1767, although her family was worried about his financial position. The couple had eight children together:<ref>[http://www.ushistory.org/franklin/biography/app01.htm ''The Autobiography of Benjamin Franklin'', by Benjamin Franklin, Appendix 1]</ref>
+
+*[[Benjamin Franklin Bache (journalist)|Benjamin Franklin Bache]] (b. 1769, d. 1798, during the Philadelphia yellow fever epidemic). A publisher, he was jailed and awaiting trial under the [[Alien and Sedition Acts|Sedition Act]] at the time of his death. Married to Margaret Markoe.
+*William Franklin Bache (31 May 1773 &ndash; 1814), married Catherine Wistar. Their son was [[Benjamin Franklin Bache]].
+*Sarah Franklin Bache (1 December 1775 &ndash; 17 August 1776)<ref>[http://www.americanrevolution.org/women30.html "Women of the American Revolution: Sarah Bache"], American Revolution website</ref>
+*Eliza Franklin Bache (10 September 1777 &ndash; 1820) married John Harwood. Their son was [[Andrew A. Harwood]].
+*[[Louis Franklin Bache]] (7 October 1779 &ndash; 4 October 1818), married Margaret Riley (1781&ndash;1806). He was a Lt. Col. in the Pennsylvania State Militia Volunteers during the [[War of 1812]]. Assigned by Pennsylvania Gov. Snyder to defend the City of Philadelphia against the British.<ref>Carl Edward Skeen, "Citizen Soldiers in the War of 1812," Ch. 8, ''Federal-State Relations,''  Vol. 1998, p. 141,</ref>
+*Deborah Franklin Bache (1 October 1781 &ndash; 12 February 1863 ) married [[William J. Duane]], a lawyer who was appointed as the 11th [[United States Secretary of the Treasury]].
+*[[Richard Bache Jr.|Richard Franklin Bache]] (11 March 1784 &ndash; 17 March 1848), married Sophia Durrell Dallas, the eldest daughter of Arabella Maria Smith and [[Alexander J. Dallas (statesman)|Alexander J. Dallas]]. Bache, Jr. became a politician in Texas.
+*Sarah Franklin Bache (12 September 1788 &ndash; 6 October 1863), married [[Thomas Sergeant]] (1782&ndash;1860), who later was appointed as an associate justice of the [[Pennsylvania Supreme Court]] and postmaster of Philadelphia.<ref>[https://books.google.com/books?id=8yVAAAAAYAAJ&pg=PA16 ''Lamb's Biographical Dictionary of the United States''], Volume 7, p. 16</ref>
+
+==Revolutionary War years==
+Sarah Bache was an ardent Patriot during the [[American Revolutionary War]]. She did extensive relief work. After her father's return in 1775 from a diplomatic mission to France, she frequently acted as his political hostess, as her mother had died in 1774.
+
+She raised money for the [[Continental Army]] and is known for her involvement in the Ladies Association of [[Philadelphia]]. In 1780, under her leadership, the group made 2,200 shirts for the soldiers in the Continental Army at the army's winter quarters at [[Valley Forge]]. The women often met to work together at [[The Cliffs]], a country estate owned by [[Samuel Rowland Fisher|Samuel R. Fisher]] on the [[Schuylkill River]], two miles north of [[Philadelphia]].
+
+==Personal life==
+Bache loved music and reading, and was considered a skilled harpsichordist. When her father died in 1790, he left most of his estate to her. Among the items bequeathed to her was a small portrait of [[Louis XVI]] surrounded by diamonds, which she sold to finance a trip to London. In 1794, she and her family moved to a farm outside Philadelphia, to the north along the [[Delaware River]].
+
+Sarah Franklin Bache died in 1808 and is buried in [[Christ Church Burial Ground]], Philadelphia.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* "Bache and Wistar Family Correspondence 1777-1895", Department of Rare Books and Special Collections, Princeton University Library
+* Benjamin Franklin, ''The Autobiography of Benjamin Franklin''
+* Article in ''The Evening Bulletin'', November 22, 1971, on the plans to convert [[The Cliffs]] to an historic farm.
+* Article in ''The Evening Bulletin'', January 27, 1975, on the plans to restore 16 historic houses, including The Cliffs.
+* Article in ''The Philadelphia Inquirer'', February 23, 1986, on the burning of [[The Cliffs]].
+
+==External links==
+* [https://web.archive.org/web/20060927114508/http://www.amphilsoc.org/library/mole/b/bachesf.htm "The Sarah Franklin Bache Papers, 1768-1807"], American Philosophical Society
+*{{Find a Grave|9282003}}
+
+{{Benjamin Franklin}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bache, Sarah Franklin}}
+[[Category:1743 births]]
+[[Category:1808 deaths]]
+[[Category:American political hostesses]]
+[[Category:Colonial American women]]
+[[Category:Women in the American Revolution]]
+[[Category:People of colonial Pennsylvania]]
+[[Category:People of Pennsylvania in the American Revolution]]
+[[Category:Franklin family]]
+[[Category:Burials at Christ Church, Philadelphia]]
+[[Category:People from Philadelphia]]
+[[Category:People of the American Revolution]]

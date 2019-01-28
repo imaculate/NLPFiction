@@ -1,0 +1,369 @@
+{{Infobox institute
+|name        = Russian Academy of Sciences
+|image       = Ras-logo.svg
+|image_name  = RAN
+|image_size  = 250px
+|image_alt   = 
+|caption     =
+|latin_name  = 
+|established = {{start date and age|1724|2|8|df=yes}}<br>[[Saint Petersburg]], Russia
+|president   = [[Alexander Sergeev (physicist)|Alexander Sergeev]]<ref>{{cite web|url= http://en.kremlin.ru/events/president/news/55719 |title= Meeting with newly elected President of the Russian Academy of Sciences Alexander Sergeyev |date=2017-09-27|publisher= [[Kremlin.ru]]}}</ref><br> (since September 27, 2017)
+|chairman    = 
+|head_label  = 
+|head        = 
+|faculty     = 
+|staff       = 
+|budget      = 
+|endowment   = 
+|debt        = 
+|members     = [[#Institutions|See text]]
+|location    = 
+|city        = 
+|state       = 
+|province    = 
+|country     = Russia
+|coor        = 
+|address     = Leninsky prospekt 14, Moscow
+|website     = {{url|http://www.ras.ru/}}
+|footnotes   = 
+}}
+
+The '''Russian Academy of Sciences''' ('''RAS'''; {{lang-ru|Росси́йская акаде́мия нау́к (РАН)}} ''Rossíiskaya akadémiya naúk'') consists of the [[national academy]] of [[Russia]]; a network of scientific research institutes from across the Russian Federation; and additional scientific and social units such as libraries, publishing units, and hospitals.
+
+Headquartered in [[Moscow]], the Academy (RAS) is considered a civil, self-governed, non-commercial organization<ref name="about">[http://www.ras.ru/about.aspx General information about the Academy] (in Russian)</ref> chartered by the [[Government of Russia]]. It combines the members of RAS (see below) and scientists employed by institutions. Near the central academy building there is a monument to [[Monument to Yuri Gagarin|Yuri Gagarin]] in the square bearing his name.
+
+As of November 2017, the Academy included 1008 institutions and other units;<ref>[http://pravo.gov.ru/proxy/ips/?docbody=&prevDoc=102355707&backlink=1&&nd=102170655 Official list of units under jurisdiction of the Federal Agency for Scientific Organizations] (these are units of RAS), 27 October 2017, in Russian.</ref> in total about 125,000 people were employed of whom 47,000 were scientific researchers.<ref>[http://fano.gov.ru/common/upload/press_center/2017/03/obshchee_sobranie_2017.pdf Report of the Federal Agency for Scientific Organizations] (number of employees: page 8), 20 March 2017, in Russian.</ref>
+
+==Membership==
+There are three types of membership in the RAS: full members ([[academician]]s), corresponding members, and foreign members. Academicians and corresponding members must be citizens of the Russian Federation when elected. However, some academicians and corresponding members were elected before the collapse of the USSR and are now citizens of other countries. Members of RAS are elected based on their scientific contributions – election to membership is considered very prestigious.<ref name=members>[http://www.ras.ru/members.aspx Academy membership] (in Russian)</ref> In the years 2005–2012, the academy had approximately 500 full and 700 corresponding members. But in 2013, after the Russian Academy of Agricultural Sciences and the [[Russian Academy of Medical Sciences]] became incorporated into the RAS, a number of the RAS members accordingly increased.
+
+The last elections to the renewed Russian Academy of Sciences were organized in October 2016. In the beginning of January 2019, the Academy had 1947 living Russian members (full: 858, corresponding: 1089) and 467 foreign members.
+
+Since 2015, the Academy also awards, on a competitive basis, the honorary scientific rank of a [[Professor of the Russian Academy of Sciences|RAS Professor]] to the top-level researchers with Russian citizenship. Now there are 605 scientists with this rank.<ref name="listsofprofs">{{cite web|url=
+http://ras.ru/about/awards/professorofras/list.aspx|script-title=ru:Постановления президиума РАН о присвоении звания "Профессор РАН"|language=Russian}}</ref><ref name="nextelect">{{cite web|url=https://prof-ras-elections-2018.ru/|script-title=ru:Присвоение званий “Профессор РАН” в 2018 году [Awarding the RAS Professor ranks in 2018]|language=Russian}}</ref> RAS professorship is not a membership type but its holders are considered as possible candidates for membership; so 104 professors were elected already in autumn 2016 and are now titled "RAS professor, corresponding member of the RAS".
+
+==Present structure==
+The RAS consists of 13 specialized scientific divisions, three territorial branches and 15 regional scientific centers. The Academy has numerous councils, committees, and commissions, all organized for different purposes.<ref>[http://www.ras.ru/sciencestructure.aspx Academy structure] (in Russian)</ref>
+
+===Territorial branches===
+;Siberian Branch of the Russian Academy of Sciences (SB RAS)
+{{main | Siberian Branch of the Russian Academy of Sciences}}
+:The Siberian Branch was established in 1957, with [[Mikhail Lavrentyev]] as founding chairman. Research centers are in [[Novosibirsk]] ([[Akademgorodok]]), [[Tomsk]], [[Krasnoyarsk]], [[Irkutsk]], [[Yakutsk]], [[Ulan-Ude]], [[Kemerovo]], [[Tyumen]] and [[Omsk]]. As of end-2017, the Branch employed over 12,500 scientific researchers, 211 of whom were members of the Academy (109 full + 102 corresponding).<ref name=sbras>{{cite web|url= http://www.sbras.ru/ru/cmn/general |title=About the Siberian Branch|publisher=|accessdate=31 March 2018}}</ref>
+
+;Ural Branch of the Russian Academy of Sciences (UB RAS)
+:The Ural Branch was established in 1932, with Aleksandr Fersman as its founding chairman. Research centers are in [[Yekaterinburg]], [[Perm]], [[Cheliabinsk]], [[Izhevsk]], [[Orenburg]], [[Ufa]] and [[Syktyvkar]]. As of 2016, 112 Ural scientists were members of the Academy (41 full + 71 corresponding).<ref name=ubras>{{cite web|url= http://www.uran.ru/sites/default/files/otchet2016.pdf |title=About the Ural Branch (2016 year report)|publisher=|accessdate=31 March 2018}}</ref>
+
+;Far East Branch of the Russian Academy of Sciences (FEB RAS)
+:The Far East Branch includes the Primorsky Scientific Center in [[Vladivostok]], the Amur Scientific Center in [[Blagoveschensk]], the [[Khabarovsk]] Scientific Center, the Sakhalin Scientific Center in [[Yuzhno-Sakhalinsk]], the Kamchatka Scientific Center in [[Petropavlovsk-Kamchatsky]], the North-Eastern Scientific Center in [[Magadan]], the Far East Regional Agriculture Center in [[Ussuriysk]] and several Medical institutions. As of 2017, there were 64 Academy members in the Branch (23 full + 41 corresponding).<ref name=febras1> {{cite web|url= http://febras.ru/instituty.html |title=Scientific Centers and Institutes of the Far East Branch|publisher=|accessdate=31 March 2018}}</ref><ref name=febras2>{{cite web|url= http://febras.ru/spravochnik/akademiki-chleny-korrespondenty-ran |title=Academy members of the Far East Branch|publisher=|accessdate=31 March 2018}}</ref>
+
+===Regional centers===
+[[Image:Russian Academy of Sciences SPB.jpg|thumb|300px|The building of the Imperial Academy of Sciences in Saint Petersburg on [[Universitetskaya Embankment]]]]
+* Kazan Scientific Center
+* Pushchino Scientific Center
+* Samara Scientific Center
+* Saratov Scientific Center
+* Vladikavkaz Scientific Center of the RAS and the Government of the Republic Alania- Northern Ossetia
+* Dagestan Scientific Center
+* Kabardino-Balkarian Scientific Center
+* [[Karelian Research Centre of RAS]]
+* Kola Scientific Center
+* Nizhny Novgorod Center
+* Science Scientific of the RAS in Chernogolovka
+* St. Petersburg Scientific Center
+* Ufa Scientific Center
+* [[Southern Scientific Center RAS|Southern Scientific Center]]
+* [[Troitsk, Moscow|Troitsk Scientific Center]]
+
+==Institutions==
+{{external links|section|date=June 2015}}
+The Russian Academy of Sciences comprises a large number of research institutions, including:
+{{Div col}}
+* [[Budker Institute of Nuclear Physics]]
+* [[Central Economic Mathematical Institute CEMI]]
+* [[Dorodnitsyn Computing Centre]]
+* [[Engelhardt Institute of Molecular Biology]]
+* {{ill|Institute of Archaeology, Russian Academy of Sciences|lt=Institute of Archaeology|ru|Институт археологии РАН}} (Moscow)
+* [http://www.inafran.ru/en Institute for African Studies] (Moscow)
+* [https://web.archive.org/web/20060516205921/http://inesnet.ru/ENG/ Institute for Economic Strategies] (Moscow)
+* [https://web.archive.org/web/20120127075814/http://www.archeo.ru/eng/index.htm Institute for the History of Material Culture] (St Petersburg)
+* [http://www.zoominfo.com/p/Maxim-Dianov/395168353 Institute for Informatics and Control of Regional Problems]
+* [http://ipmras.ru/en/index Institute for Physics of Microstructures]
+* [[Institute for Slavic Studies of the Russian Academy of Sciences]]
+* [[Institute for Spectroscopy]]
+* [[Institute for System Programming]]
+* [http://ipfran.ru/english/info_e.html Institute of Applied Physics]
+* Institute of Cell Biophysics
+* Institute of Biological Instrumentation
+* [http://www.imbp.ru/ Institute for Biomedical Problems] (IMBP, also IBMP) ([[:ru:Институт медико-биологических проблем РАН]]), known in the West particularly for the [[MARS-500]] experiment simulating manned flight to Mars
+* Institute of Ecology and Evolution
+* Institute of Economy (RAS)
+* Institute of Human Brain (St.-Petersburg)
+* Institute of Gene Biology
+* Institute of Silicate Chemistry
+* Institute of High Current Electronics
+* [[Institute of Linguistics of the Russian Academy of Sciences|Institute of Linguistics]]
+* [[Institute of Oriental Studies of the Russian Academy of Sciences|Institute of Oriental Studies]] (Moscow)
+* [[Institute of Oriental Manuscripts of the Russian Academy of Sciences|Institute of Oriental Manuscripts]] (St Petersburg)
+* [[Institute of Philosophy, Russian Academy of Sciences|Institute of Philosophy]]
+* [[Institute of Radio-engineering and Electronics]]
+* [[Institute of Solid State Physics (Russia)|Institute of Solid State Physics]]
+* [[Institute of State and Law (RAS)|Institute of State and Law]]
+* [[Institute for US and Canadian Studies|Institute of the U.S.A. and Canada (ISKRAN)]]
+* [[Institute of World Economy and International Relations]] (IMEMO)
+* Institute of World Literature (Moscow)
+* [[Ioffe Physico-Technical Institute]]
+* [[Keldysh Institute of Applied Mathematics]]
+* [[Komarov Botanical Institute]]
+* Komi Science Centre<ref>{{cite web|title=Russian Academy of Sciences, Ural Division, Komi Science Centre|url=http://www.komisc.ru/old/en_ksc.html|website=Komi Science Centre|accessdate=26 February 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160301162330/http://www.komisc.ru/old/en_ksc.html|archivedate=1 March 2016|df=}}</ref>
+* Kutateladze Institute for Thermal Physics
+* [[Landau Institute for Theoretical Physics]]
+* Laser and Information Technology Institute
+* [[Lebedev Institute of Precision Mechanics and Computer Engineering]]
+* [[Lebedev Physical Institute]]
+* [[N.N. Miklukho-Maklai Institute of Ethnology and Anthropology]]
+* [https://web.archive.org/web/20070628222109/http://www.ineos.ac.ru/eng/home.html Nesmeyanov Institute of Organoelement Chemistry]
+* [[Northeast Science Station (Russia)|Northeast Science Station]] ({{lang|ru|Северо-Восточная научная станция РАН}})
+* Obukhov Institute of Atmospheric Physics
+* [[Paleontological Institute of Russian Academy of Sciences|Paleontological Institute]]
+* [http://skif.pereslavl.ru/psi-info/index.en.html Program Systems Institute]
+* Prokhorov General Physics Institute
+* Schmidt Institute of the Physics of the Earth
+* [[Russian Space Research Institute|Space Research Institute]]
+* Shemyakin and Ovchinnikov Institute of Bioorganic Chemistry
+* [[Shirshov Institute of Oceanology]]
+* [[Special Astrophysical Observatory]]
+* [[State Public Scientific & Technological Library]]
+* [[Steklov Institute of Mathematics]]
+* [[St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences|St. Petersburg Department of Steklov Institute of Mathematics]]
+* [[Sukachev Institute of Forest]]
+* Vernadsky Institute of Geochemistry and Analytical Chemistry
+* Vingoradov [[Russian Language Institute]]
+* [[Institute of Scientific Information on Social Sciences of the Russian Academy of Sciences|Institute of Scientific Information on Social Sciences]]
+* [http://www.ioc.ac.ru/english Zelinsky Institute of Organic Chemistry]
+* [http://www.zin.ru/index_e.htm Zoological Institute]
+{{Div col end}}
+
+Member institutions are linked via a dedicated Russian Space Science Internet (RSSI). Started with just three members, The RSSI now has 3,100 members, including 57 from the largest research institutions.
+
+Russian universities and technical institutes are not under the supervision of the RAS (they are subordinated to the Ministry of Education of Russian Federation), but a number of leading universities, such as [[Moscow State University]], [[St. Petersburg State University]], [[Novosibirsk State University]], and the [[Moscow Institute of Physics and Technology]], make use of the staff and facilities of many institutes of the RAS (as well as of other research institutions); the [[Moscow Institute of Physics and Technology|MIPT]] faculty refers to this arrangement as the "Phystech System".
+
+From 1933 to 1992, the main scientific journal of the Soviet Academy of Sciences was the ''[[Proceedings of the USSR Academy of Sciences]]'' (Doklady Akademii Nauk SSSR); after 1992, it became simply ''Proceedings of the Academy of Sciences'' (''Doklady Akademii Nauk'').
+
+The Academy is also increasing its presence in the educational area. In 1990 the [[Higher Chemical College of the Russian Academy of Sciences]] was founded, a specialized university intended to provide extensive opportunities for students to choose an academic path.
+
+==Awards==
+{{further|Named prizes and medals of the Russian Academy of Sciences}}
+The Academy gives out a number of different prizes, medals and awards among which:<ref>{{cite web|url=http://www.ras.ru/about/awards/medalsandprizes.aspx|title=Именные премии и медали|publisher=|accessdate=12 June 2015}}</ref>
+{{Div col}}
+* [[Lomonosov Gold Medal]]
+* [[Landau Gold Medal]]
+* [[Kurchatov Medal]]
+* [[Demidov Prize]]
+* [[Lobachevsky Prize]]
+* [[Pushkin Prize]]
+* [[Lebedev Prize]]
+* [[Andrey Markov|Markov]] Prize
+* [[Nikolay Bogolyubov|Bogolyubov]] Medal
+{{Div col end}}
+
+==History==
+{{refimprove section|date=January 2011}}
+
+=== Foundation. The Russian Empire times ===
+[[Image:Kunstkamera SPB 01.jpg|thumb|250px|Original headquarters of the Imperial Academy of Sciences - the [[Kunstkamera]] in [[Saint Petersburg]]]]
+
+The Emperor [[Peter I of Russia|Peter the Great]], inspired and advised by [[Gottfried Leibniz]], founded the Academy in [[Saint Petersburg]]; the Senate [[decree]] of February 8 (January 28 old style), 1724 implemented the establishment.<ref name="about"/><ref name=NTRS>{{cite document|author1=Sagdeyev, R. Z. |author2=Shtern, M. I. |title= The Conquest of Outer Space in the USSR 1974 |work= NASA |publisher= NASA Technical Reports Server |hdl=2060/19770010175 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+Originally called ''The Saint Petersburg Academy of Sciences'' ({{lang-ru|[[:ru:Петербургская Академия наук|Петербургская Академия наук]]}}), the organization went under various names over the years, becoming ''The Imperial Academy of Sciences and Arts'' (Императорская Академия наук и художеств; 1747–1803), ''The Imperial Academy of Sciences'' (Императорская Академия Наук; 1803—1836), and finally, ''The Imperial Saint Petersburg Academy of Sciences'' (Императорская Санкт-Петербургская Академия Наук, from 1836 and until the end of the [[Russian Empire|empire]] in 1917).
+
+Foreign scholars invited to work at the academy included the [[mathematicians]] [[Leonhard Euler]] (1707-1783), [[Anders Johan Lexell]], [[Christian Goldbach]], [[Georg Bernhard Bilfinger]], [[Nicholas II Bernoulli|Nicholas Bernoulli]] (1695-1726) and [[Daniel Bernoulli]] (1700-1782), botanist [[Johann Georg Gmelin]], embryologists [[Caspar Friedrich Wolff]], [[astronomer]] and [[geographer]] [[Joseph-Nicolas Delisle]], physicist [[:ru:Крафт, Георг Вольфганг|Georg Wolfgang Kraft]], [[historian]] [[Gerhard Friedrich Müller]] and English [[Astronomer Royal]] [[Nevil Maskelyne]]<ref>
+{{cite web
+|title= Papers of Nevil Maskelyne: Certificate and seal from Catherine the Great, Russia
+|url= http://cudl.lib.cam.ac.uk/view/MS-REG-00009-00037/1
+|website= University of Cambridge Digital Library
+|publisher= Cambridge Digital Library|accessdate= 19 January 2015
+}}
+</ref> (1732-1811).
+
+Expeditions to explore remote parts of the country had Academy scientists as their leaders or most active participants. These included [[Vitus Bering]]'s Second [[Kamchatka Peninsula|Kamchatka]] Expedition of 1733–1743, expeditions to observe the [[1761 transit of Venus|1769 transit of Venus]] from eight locations in [[Russian Empire]], and the expeditions of [[Peter Simon Pallas]] (1741-1811) to [[Siberia]].
+
+<!-- ===The Russian Academy===
+{{main article|Russian Academy}} -->
+A separate organization, called the [[Russian Academy]] ({{lang-ru|Академия Российская}}), was created in 1783 to work on the study of the [[Russian language]]. Presided over by Princess [[Yekaterina Vorontsova-Dashkova|Yekaterina Dashkova]] (who at the same time was the Director of the Imperial Academy of Arts and Sciences, i.e., the country's "main" academy), the Russian Academy was engaged in compiling the six-volume ''Academic Dictionary of the Russian Language'' (1789–1794). The Russian Academy was merged into the Imperial Saint Petersburg Academy of Sciences in 1841.
+
+===The  Academy of Sciences of the USSR===
+<!-- "Academy of Sciences of the USSR" redirects here -->
+Shortly after the [[October Revolution]], in December 1917, [[Sergey Oldenburg|Sergey Fedorovich Oldenburg]], a leading [[ethnographer]] and political activist in the [[Kadet]] party, met with [[Vladimir Lenin]] to discuss the future of the Academy. They agreed that the expertise of the Academy would be applied to addressing questions of state construction, while in return the Soviet regime would give the Academy financial and political support. <!-- By the early 1918 it was agreed that the Academy would report to the Department of the Mobilisation of Scientific Forces of the [[Narkompros|People's Commissariat for Education]] which replaced the Provisional Government's Ministry of Education. -->
+
+The most important activities of the Academy in the 1920s included an investigation of the large [[Kursk Magnetic Anomaly]], of the minerals in the [[Kola Peninsula]], and participation in the [[GOELRO plan]] targeted electrification of the whole country. In these years, many research institutions were established, and the number of scientists became four times larger than in 1917. In 1925 the [[Soviet government]] recognized the Russian Academy of Sciences as the "highest all-Union scientific institution" and renamed it the Academy of Sciences of the USSR.
+
+In 1934 the Academy headquarters moved from [[Saint Petersburg|Leningrad]] to the capital, [[Moscow]].
+
+The [[Josef Stalin|Stalin]] years are marked with a rapid [[industrialisation]] of the Soviet Union for which a great deal of research, mainly in the technical fields, has been done. However, on the other hand, in these very times, many scientists underwent [[Ideological repression in the Soviet Union#Ideological repression in science|repressions]] from ideological reasons.
+
+In the years of the [[World War II|Second World War]], the Soviet Academy of Sciences made a big contribution to a development of modern weapons – [[tank]]s (new series of [[T-34]]), [[airplane]]s, [[degaussing]] the ships (for protection against the [[naval mine]]s) etc. – and therefore to victory of the USSR over the [[Nazi Germany]]. During and after the war, the Academy was involved in the [[Soviet atomic bomb project]]; due to its success and other achievements in military techniques, the USSR became one of the [[superpower]]s in the [[Cold War]] era.
+
+At the end of the 1940s, the Academy consisted of eight divisions (Physico-Mathematical Science, Chemical Sciences, Geological-Geographical Sciences, Biological Science, Technical Science, History and Philosophy, Economics and Law, Literature and Languages); three committees (one for coordinating the scientific work of the Academies of the Republics, one for scientific and technical propaganda, and one for editorial and publications), two commissions (for publishing popular scientific literature, and for museums and archives), a laboratory for scientific photography and cinematography and Academy of Science Press departments external to the divisions.<ref>Ashby, Eric. 1947. "Scientist in Russia". Pelican books</ref> <!-- ; 7 branches ([[Azerbaijan]], [[Kazakhstan]], [[Kirghizia]], [[Tadzhikistan]], [[Turkmenistan]], [[Ural (region)|Ural]]s, and West Siberian), and 8 undependent Academies  in [[Ukraine]], [[Belarus]], [[Armenia]], [[Georgia (country)|Georgia]], [[Lithuania]], [[Uzbekistan]], [[Latvia]], and [[Estonia]]. -->
+
+The  Academy of Sciences of the USSR helped to establish national Academies of Sciences in all Soviet republics (with the exception of the [[Russian SFSR]]), in many cases delegating prominent scientists to live and work in other republics. In the case of the Ukraine, its academy was formed by the local Ukrainian scientists and prior to occupation of the [[Ukrainian People's Republic]] by [[Bolshevik]]s. These academies were:
+
+{|class="wikitable sortable"
+|-
+!Republic!!Local Name!!Established!!successor
+|-
+|[[Ukrainian SSR]]||Академія наук Української РСР||1918||[[National Academy of Sciences of Ukraine]]
+|-
+|[[Byelorussian SSR]]||Акадэмія Навукаў Беларускай ССР ||1929||[[National Academy of Sciences of Belarus]]
+|-
+|[[Uzbek SSR]]||Ўзбекистон ССР Фанлар академияси||1943||[[Academy of Sciences of Uzbekistan]]
+|-
+|[[Kazakh SSR]]||Қазақ ССР Ғылым Академиясы||1946||[[National Academy of Sciences of the Republic of Kazakhstan]]
+|-
+|[[Georgian SSR]]||საქართველოს სსრ მეცნიერებათა აკადემია||1941 ||[[Georgian Academy of Sciences]]
+|-
+|[[Azerbaijan SSR]]||Азәрбајҹан ССР Елмләр Академијасы||1945||[[National Academy of Sciences of Azerbaijan]]
+|-
+|[[Lithuanian SSR]]||Lietuvos TSR Mokslų akademija||1941||[[Lithuanian Academy of Sciences]]
+|-
+|[[Moldavian SSR]]||Академия де Штиинце а РСС Молдовенешть ||1946||[[Academy of Sciences of Moldova]]
+|-
+|[[Latvian SSR]]||Latvijas PSR Zinātņu akadēmija||1946||[[Latvian Academy of Sciences]]
+|-
+|[[Kirghiz SSR]]||Кыргыз ССР Илимдер академиясы ||1954||[[National Academy of Sciences of the Kyrgyz Republic]]
+|-
+|[[Tajik SSR]]||Академияи Фанҳои РСС Тоҷикистон||1953||[[Academy of Sciences of the Republic of Tajikistan]]
+|-
+|[[Armenian SSR]]||Հայկական ՍՍՀ գիտությունների ակադեմիա||1943||[[National Academy of Sciences of Armenia]]
+|-
+|[[Turkmen SSR]]||Түркменистан ССР Ылымлар Академиясы||1951||[[Academy of Sciences of Turkmenistan]]
+|-
+|[[Estonian SSR]]||Eesti NSV Teaduste Akadeemia||1946||[[Estonian Academy of Sciences]]
+|}
+
+Among the most important achievements of the Academy of the second half of the 20th century, there is, first of all, the [[Soviet space program]]. In 1957 the [[Sputnik 1|first satellite]] was launched, in 1961 [[Yury Gagarin]] became the first person in space, and in 1971 the first [[Salyut 1|space station Salyut 1]] began its operation. Substantial discoveries were also made in the nuclear branch and in other fields of physics. Furthermore, the Academy participated in opening new universities or new study programs in the already existed universities, whose best absolvents started their career at the research institutes of the Academy.
+
+Generally, the Soviet period was the most fruitful in the history of the Russian (Soviet, at these times) Academy of Sciences and is now recalled with nostalgy by many Russian scientists.
+
+===Post-Soviet period of the Academy===
+After the [[dissolution of the Soviet Union|collapse of the Soviet Union]], by [[Decree of the President of Russia|decree]] of the [[President of Russia]] of December 2, 1991, the academy again became the ''Russian Academy of Sciences'',<ref name=about/> inheriting all facilities of the USSR Academy of Sciences in the territory of the Russian Federation.
+
+The [[Economic history of the Russian Federation|crisis of the 1990s]] in the post-Soviet Russia and a consequent drastic reduction of the state support for science have forced many scientists to leave Russia for Europe, Israel or the United States. Some excellent university graduates who could have become promising researchers also switched to other activities, predominately in commerce. The Russian Academy practically lost a generation of people born from mid-1960s to mid-1970s; this age category is now underrepresented in all research institutes.
+
+In the 2000s, the situation in the Russian science and technology has improved, the government announced a [[Medvedev modernisation programme|modernization campaign]]. Nevertheless, according to the Russian Academy of Sciences, total R&D spending in 2013 still hovered about 40% below the pre-crisis 1990 levels.<ref name="postsoviet">{{cite journal | url= http://www.nature.com/nature/journal/v537/n7618_supp/full/537S10a.html| title= Russia: A faltering recovery| journal= Nature| volume= 537| issue= 7618| accessdate=2017-10-08 | author= O. Dobrovidova| authorlink= | date= 2016-09-01 | pages= S10–S11| language= en |quote= | bibcode= 2016Natur.537S..10D| doi= 10.1038/537S10a}}</ref> Furthermore, a lack of competition, decayed infrastructure and continuing, though slightly reduced, [[brain drain]] play their part.
+
+====Reforms (2013—2018)====
+On June 28, 2013, the Russian Government unexpectedly announced a draft law presuming a dissolution of the RAS and creation of a new "public-governmental" organization with the same name. <!-- The draft law introduced severe restrictions on the autonomy of academic institutions in Russia and deprived RAS of the control over all of its material assets.-->The buildings and other property of the Academy were supposed to be taken under control of a government-established [[Federal Agency for Scientific Organizations]] (FASO Russia). The declared idea was to enable scientists to concentrate exclusively on research activities without worrying about housing-maintenance services or administrative things. The reform was allegedly authored by [[Mikhail Kovalchuk]], brother of [[Yury Kovalchuk]], known as [[Vladimir Putin]]'s personal banker.<ref>{{cite web|url=http://www.lib.ru/HISTORY/FELSHTINSKY/naslednik.txt|title=Владимир Прибыловский, Юрий Фельштинский. Операция "Наследник". Главы из книги|publisher=|accessdate=12 June 2015}}</ref> <!-- Mikhail Kovalchuk is a corresponding member of the RAS and was repeatedly rejected during elections to full membership in the Academy.<ref>[http://www.strf.ru/material.aspx?CatalogId=221&d_no=57508 Наука и технологии России - «Вместо экспертов теперь набежит одна шпана»]</ref> -->
+
+The draft law, which, in its initial form, would have fundamentally changed the system of science organization in Russia, provoked conflicts with the academic circles and strong refutation by many prominent individuals.<ref>[http://www.nature.com/news/russian-roulette-1.13315 Russian roulette. Reforms without consultation will destroy the Russian Academy of Sciences], [[Nature (journal)|Nature]] editorial</ref> A large group of the RAS members signalized their intention not to join the new academy if the reform is run as planned in the draft.<ref>{{cite web|url=http://polit.ru/article/2013/07/02/open_letter/|title=Открытое письмо членов РАН по поводу ликвидации Российской академии наук. Letter of members of Russian Academy of Sciences|publisher=|accessdate=12 June 2015}}</ref> The world's leading scientists (including [[Pierre Deligne]], [[Michael Atiyah]], [[David Mumford|Mumford]], and others) have written open letters which referred to the planned reform of the RAS as "shocking" and even "criminal".<ref>{{cite web|url=http://www.mi.ras.ru/index.php?c=ref|title=Письма зарубежных ученых|publisher=|accessdate=12 June 2015}}</ref> In this situation, the draft was softened in some details, e.g. there remained no words about “dissolution” in the text, — and approved on September 27, 2013.
+
+Since 2013 the academy institutions were managed by the FASO, which was the key item of the reforms. This agency was empowered to “evaluate”, relying on its own criteria, an efficiency of the institutions and rearrange ineffective ones (this point is felt dangerous by many scientists<ref>A very negative experience of such a selection made by Government officials was demonstrated previously during monitoring of the educational institutions in Russia. Many popular and highly reputed universities have been declared "ineffective" according to the rules that in fact have little to do with assessing real scientific level.</ref>). Furthermore, according to the law, the two other Russian national academies — [[Russian Academy of Agricultural Sciences|for Agriculture]] and [[Russian Academy of Medical Sciences|for Medicine]] — were fused to the RAS as its new specialized scientific divisions.
+
+During the years 2014—2017 there occurred no large-scale protest actions, but, in general, a scientific community has not supported the launched reforms and a management style of the FASO. Sometimes the reorganizations were interpreted as nothing else than a redistribution of real estate. In 2017, when the new presidium of the Academy was being elected, the candidates for presidency critically estimated the situation in the Russian science. However the elected RAS president [[Alexander Sergeev (physicist)|Alexander Sergeev]] tries to establish working relationships with the state authorities at various levels. De-facto, the reform has already been implemented — and at the General Meeting of the RAS in March 2018, Sergeev said that the Academy enters now the post-reform period.<ref>[http://tass.ru/nauka/5077550 The RAS President announced a completion of the reform (in Russian).]</ref> One of the next steps will be fixation of the legal status of the RAS, with a correction of the law-2013 so that to somewhat expand the powers of the Academy (the corresponding draft was submitted by [[Vladimir Putin]] to the [[State Duma]] and finally approved in July 2018).
+
+In May 2018, it was decided to liquidate the FASO as an independent governmental agency but to make it henceforth part of the Ministry of Science and Higher Education. The latter is created by splitting the [[Ministry of Education and Science (Russia)|Ministry of Education and Science]].<ref name="split18meduza">{{cite web |url= https://meduza.io/en/news/2018/05/15/putin-splits-russia-s-education-ministry-and-renames-the-communications-ministry |title= Putin splits Russia's Education Ministry and renames the Communications Ministry |author=  |publisher= [[Meduza]] |date= 2018-05-15|accessdate=2018-05-17}}</ref>
+
+==Presidents==
+The following persons occupied the position of the Academy's President (or, sometimes, Director):<ref>[http://www.ras.ru/about/president/allpresidents.aspx Президенты Российской академии наук за всю историю] Presidents of the Russian Academy of Sciences throughout its history {{ru icon}} - at the Academy's official site</ref><ref>Алексей Торгашев [http://www.freetowns.ru/ru/news/eggheaded/-/ras_election Академия наук, которой не было] ("The Academy which wasn't") {{ru icon}} {{webarchive |url=https://web.archive.org/web/20090417061701/http://www.freetowns.ru/ru/news/eggheaded/-/ras_election |date=April 17, 2009 }}</ref>
+{{Div col}}
+* [[Laurentius Blumentrost]] ([[:ru:Блюментрост, Лаврентий Лаврентьевич|Лаврентий Лаврентьевич Блюментрост]]), 1725–1733
+* [[Hermann-Karl von Keyserlingk]] ([[:ru:Кейзерлинг, Герман Карл фон|Герман Карл фон Кейзерлинг]]) 1733–1734
+* [[Johann Albrecht Korf]] ([[:ru:Корф, Иоганн Альбрехт|Иоганн Альбрехт Корф]]), 1734–1740
+* [[Karl von Brevern]] ([[:ru:Бреверн, Карл фон|Карл фон Бреверн]]), 1740–1741
+* (Post vacant, April 1741 – October 1766)
+* Count [[Kirill Razumovsky]], 1746–1766 (nominally, till 1798)
+* Count [[Vladimir Grigorievich Orlov]] ([[:ru:Орлов, Владимир Григорьевич|Владимир Григорьевич Орлов]]), 1766–1774 (Director)<ref name="Euler">{{cite book|last=edited by Robert E. Bradley, Ed Sandifer|title=Leonhard Euler: Life, Work and Legacy| year=2007|publisher=Elsevier|isbn=978-0080471297|pages=83–84}}</ref><ref>{{cite web|url=http://www.hrono.ru/biograf/bio_o/orlov_vg.html|title=Орлов Владимир Григорьевич|publisher=|accessdate=12 June 2015}}</ref>
+* [[Alexey Reshevski]] ([[:ru:Ржевский, Алексей Андреевич|Алексей Андреевич Ржевский]]), 1771–1773 (Occasional Substitute of [[Vladimir Grigorievich Orlov|Orlov]] )<ref>{{cite book|last=Douglas|first=Alfred|title=How to Consult the I Ching, the Oracle of Change|year=1971|publisher=Springer|isbn=978-3764375393|page=129}}</ref> 
+* [[Sergei G. Domashnev]] ([[:ru:Домашнев, Сергей Герасимович|Сергей Герасимович Домашнев]]), 1775–1782 (Director)<ref name="Euler" /><ref>{{cite web|url=http://www.pushkinskijdom.ru/Default.aspx?tabid=799 |title=Пушкинский Дом (ИРЛИ РАН) > Новости |publisher= |accessdate=12 June 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20141227222024/http://www.pushkinskijdom.ru/Default.aspx?tabid=799 |archivedate=December 27, 2014 }}</ref>
+* Princess [[Yekaterina Romanovna Vorontsova-Dashkova]], 1783–1796 (Director; sent into ''de facto'' retirement in 1794. Simultaneously served as the President of the [[Russian Academy]])<ref>{{cite web|url=http://www.pushkinskijdom.ru/Default.aspx?tabid=754 |title=Пушкинский Дом (ИРЛИ РАН) > Новости |publisher= |accessdate=12 June 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20140815080110/http://www.pushkinskijdom.ru/Default.aspx?tabid=754 |archivedate=August 15, 2014 }}</ref>
+* [[Pavel Bakunin]] ([[:ru:Бакунин, Павел Петрович|Павел Петрович Бакунин]]), 1794–1796 (acting Director), 1796–1798 (Director). Simultaneously served as the President of the [[Russian Academy]]
+* [[Ludwig Heinrich von Nicolay]], 1798–1803
+* [[Nikolay Nikolayevich Novosiltsev]], 1803–1810
+* (Post vacant, April 1810–Jan 1818)
+* Count [[Sergey Uvarov]], 1818–1855
+* [[Dmitry Bludov]] ([[:ru:Блудов, Дмитрий Николаевич|Дмитрий Николаевич Блудов]]), 1855–1864
+* [[Fyodor Petrovich Litke]], 1864–1882
+* Count [[Dmitry Tolstoy]], 1882–1889
+* [[Grand Duke Constantine Constantinovich of Russia]], 1889–1915
+* (Post vacant, June 1915–May 1917)
+* [[Alexander Karpinsky]], 1917–1936
+* [[Vladimir Leontyevich Komarov]], 1936–1945
+* [[Sergey Ivanovich Vavilov]], 1945–1951
+* [[Alexander Nesmeyanov]], 1951–1961
+* [[Mstislav Keldysh]], 1961–1975
+* [[Anatoly Alexandrov (physicist)|Anatoly Alexandrov]], 1975–1986
+* [[Gury Marchuk]], 1986–1991
+* [[Yury Osipov]], 1991–2013
+* [[Vladimir Fortov]], 2013–2017 
+* [[Valery Kozlov]], 2017 (acting)
+* [[Alexander Sergeev (physicist)|Alexander Sergeev]], since September 2017
+{{Div col end}}
+The last presidential elections in the Academy (and also elections of the presidium) were organized on September 25—28, 2017. Initially the event was planned for March 2017, but unexpectedly all candidates retracted their nominations, and the elections were postponed.<ref>{{cite news|url=http://www.nature.com/news/election-chaos-at-russian-academy-of-sciences-1.21715|title= Election chaos at Russian Academy of Sciences |author= O. Dobrovidova|date=27 March 2017|publisher=[[Nature (journal)|Nature]]|language=en|accessdate=11 August 2017}}</ref>
+
+==Nobel Prize laureates affiliated with the Academy ==
+{{Div col}}
+* [[Ivan Petrovich Pavlov]], medicine, 1904
+* [[Ilya Ilyich Mechnikov]], medicine, 1908
+* [[Ivan Alekseyevich Bunin]], literature, 1933
+* [[Nikolay Nikolayevich Semyonov]], chemistry, 1956
+* [[Igor Yevgenyevich Tamm]], physics, 1958
+* [[Ilya Mikhailovich Frank]], physics, 1958
+* [[Pavel Alekseyevich Cherenkov]], physics, 1958
+* [[Lev Davidovich Landau]], physics, 1962
+* [[Nikolay Gennadiyevich Basov]], physics, 1964
+* [[Aleksandr Mikhailovich Prokhorov]], physics, 1964
+* [[Mikhail Aleksandrovich Sholokhov]], literature, 1965
+* [[Aleksandr Isayevich Solzhenitsyn]], literature, 1970
+* [[Leonid Vitaliyevich Kantorovich]], economics, 1975
+* [[Andrei Dmitrievich Sakharov]], peace, 1975
+* [[Pyotr Leonidovich Kapitsa]], physics, 1978
+* [[Zhores Ivanovich Alferov]], physics, 2000
+* [[Alexei Alexeyevich Abrikosov]], physics, 2003
+* [[Vitaly Lazarevich Ginzburg]], physics, 2003
+* [[Andre Geim]], physics, 2010
+{{Div col end}}
+
+==See also==
+{{Portal|Russia|University}}
+{{Div col}}
+*[[Academy of Sciences Glacier]]
+*[[Academy of Sciences Range]]
+*[[Akademgorodok (Krasnoyarsk)|Akademgorodok in Krasnoyarsk]]
+*[[Akademgorodok|Akademgorodok in Novosibirsk]]
+*[[Akademgorodok (Tomsk)|Akademgorodok in Tomsk]]
+*[[Lev Davidovich Belkind]] has released a number of books on the unique contribution of Russian scientists and engineers to the technological progress.
+*[[Neuro-linguistic programming]]
+*[[Constitutional economics]]
+*[[Energy Research Institute of Russian Academy of Sciences]]
+*[[Library of the Russian Academy of Sciences]]
+*[[List of Russian explorers]]
+*[[List of Russian inventors]]
+*[[List of Russian scientists]]
+*[[MARS-500]]
+*[[Nauka (publisher)|Nauka]], RAS publishing division
+* [[Open access in Russia]]
+*[[Pushchino Radio Astronomy Observatory]]
+*[[Timeline of Russian inventions and technology records]]
+*[[VINITI Database RAS]]
+*[[Named prizes and medals of the Russian Academy of Sciences]]
+{{Div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Russian Academy of Sciences}}
+* [https://web.archive.org/web/20150325003332/http://www.ras.ru/en/index.aspx Official website] {{en-icon}}
+* [http://www.ras.ru/ Official website] {{ru-icon}}
+* {{webarchive|url=https://web.archive.org/web/20040609093419/http://www.pran.ru/|title=Website of RAS management|date=9 June 2004}}
+* [https://maps.google.com/maps?ll=55.720512,37.593455&spn=0.001160,0.003404&t=k&hl=en Satellite photo of the RAS Old Building]
+
+{{coord|55|42|39|N|37|34|41|E|region:RU-MOW_type:landmark_source:dewiki|display=title}}
+{{International Council for Science}}
+{{European Academies of Sciences}}
+
+{{Authority control}}
+
+[[Category:Russian Academy of Sciences|*]]
+[[Category:1724 establishments in the Russian Empire]]
+[[Category:Scientific organizations established in 1724]]
+[[Category:Members of the International Council for Science]]

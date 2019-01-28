@@ -1,0 +1,192 @@
+{{redirect|Museum of Science|other science museums|Science Museum (disambiguation)}}
+{{Infobox museum
+ | name = Museum of Science, Boston
+ | native_name = 
+ | native_name_lang = 
+ | logo = 
+ | logo_upright = 
+ | logo_alt = 
+ | logo_caption = 
+ | image = Museumofsciencebostonaugust2005.jpg
+ | image_upright = 
+ | alt = 
+ | caption = Main entrance
+ | map_type = Boston
+ | map_relief = 
+ | map_size = 
+ | map_caption =
+ | coordinates = {{coord|42.367778|-71.070997|display=inline,title}}
+{{collapsed infobox section begin}}
+ | established = 1830
+ | dissolved =
+ | location = [[Boston|Boston, Massachusetts]]
+ | type = [[Science museum]], indoor zoo
+ | accreditation = [[American Alliance of Museums|AAM]], [[Association of Science-Technology Centers|ASTC]], [[Association of Zoos and Aquariums|AZA]]
+ | key_holdings = 
+ | collections = 
+ | collection_size = 
+ | visitors = 1.53 million (2016)<ref>{{cite web |url=https://www.aecom.com/content/wp-content/uploads/2017/06/2016-ThemeMuseum-Index.pdf |title=TEA-AECOM 2016 Theme Index and Museum Index: The Global Attractions Attendance Report |pages=68–73 |publisher=[[Themed Entertainment Association]] |accessdate=23 March 2018}}</ref>
+ | founder = 
+ | director = Ioannis Miaoulis
+ | president = 
+ | chairperson = 
+ | curator = 
+ | architect =
+ | historian =
+ | owner = 
+ | publictransit = {{rail color box|system=MBTA|line=Green}} [[Science Park (MBTA station)|Science Park station]] {{access icon}}
+ | parking = Dedicated [[parking garage]] (fee)
+ | network = 
+ | website = {{URL|http://www.mos.org/|mos.org}}
+ | embedded = 
+}}
+{{collapsed infobox section end}}
+
+The '''Museum of Science''' ('''MoS''') is a [[science museum]] and indoor zoo in [[Boston]], [[Massachusetts]], located in Science Park, a plot of land spanning the [[Charles River]]. Along with over 700 interactive exhibits, the museum features a number of live presentations throughout the building every day, along with shows at the [[Charles Hayden (banker)|Charles Hayden]] Planetarium and the [[Mugar Omni Theater]], the only domed [[IMAX]] screen in [[New England]]. The museum is also an accredited member of the [[Association of Zoos and Aquariums]] (AZA) and is home to over 100 animals, many of which have been rescued and rehabilitated from various dangerous situations.
+
+==History==
+[[File:East Cambridge Bridge, 1910s.jpg|thumb|[[Lechmere Viaduct]] in the 1910s. The museum is later constructed behind the Metropolitan Police Station on the left]]
+[[File:OldCharlesRiverLock2001.jpg|thumb|Original [[Charles River]] [[Lock (water transport)|lock]] adjacent to the museum and positioned just west of the [[Charles River Dam Bridge]]]]
+[[File:Mugar Omni Theater, Boston MA.jpg|thumb|Mugar Omni Theater]]
+[[File:Museum of Science, Boston, MA - IMG 3282.JPG|thumb|New England Habitats exhibit]]
+
+===Origin and early years===
+
+The museum began as the [[Boston Society of Natural History]] in 1830, founded by a collection of men who wished to share scientific interests. Their first meeting was held on February 9, 1830 with seven original members in attendance: [[Walter Channing (physician)|Walter Channing]], Benjamin E. Green, [https://www.ncbi.nlm.nih.gov/pubmed/15976986 George Hayward], John Ware, Edward Brooks, [[Amos Binney]], and [[George Barrell Emerson|George B. Emerson]]. It was more commonly called the Boston Museum of Natural History in the 19th century, and this name occurs frequently in the literature. In 1862, after the society had gone through several temporary facilities, a building was constructed in the [[Back Bay]] area of the city and dubbed the "New England Museum of Natural History." The museum was located next to the original [[Campus of the Massachusetts Institute of Technology#Boston Tech|Rogers Building]] of the [[Massachusetts Institute of Technology]] (MIT), and both neoclassical structures were designed by [[William G. Preston]].  The original MIT building was demolished in 1939, but the Natural History Museum building survives today, as a home furnishings showcase.
+
+A great deal of scientific work was done by the society, especially around geology, and the results of this work can be found in the ''Proceedings of the Boston Society of Natural History'' which are now freely available online.  A library and children's rooms were added to the museum around 1900. It was renamed the Museum of Science in 1939, under the directorship of [[Bradford Washburn|Henry Bradford Washburn, Jr.]], a renown American mountaineer.<ref>{{Cite web|url=https://www.mos.org/history|title=Museum History {{!}} Museum of Science, Boston|website=www.mos.org|language=en-us|access-date=2018-11-20}}</ref>
+
+The Boston Museum of Natural History of 1830/1864–1945 should not be confused with the private Warren Museum of Natural History (1858–1906, formerly on Chestnut Street in Boston).  The contents of the latter collection, including the first intact [[mastodon]], were relocated to the [[American Museum of Natural History]] of New York City in 1906.
+
+''Museum Then and Now'', an exhibit of artifacts from the early years of the society, is located near the second floor Blue Wing entrance to the Theater of Electricity in today's museum.
+
+===Post WWII===
+After World War II, the old Museum of Science building was sold, and the museum was relocated, again under the name '''Boston Museum of Science'''. Under the leadership of Bradford Washburn, the society negotiated with the [[Metropolitan District Commission]] for a 99-year lease of the land on the [[Charles River Dam Bridge]], now known as Science Park. The museum pays $1 a year to the state for use of the land. Construction and development began in 1948, and the museum opened in 1951, arguably the first all-encompassing science museum in the country.
+
+In these first few years, the museum developed a traveling planetarium, a version of which is still brought to many elementary schools in the [[Greater Boston]] area every year. They also obtained during these early years "Spooky", a [[great horned owl]] who became a symbol or mascot of the museum; he lived to age 38, the longest any great horned owl is known to have lived.  Today, a number of other [[taxidermy|taxidermed]] specimens remain on display, teaching children about the animals of [[New England]] and of the world.
+
+The [[Science Park (MBTA station)|Science Park/West End]] [[Massachusetts Bay Transportation Authority|MBTA]] station was opened in August 1955, allowing easier access to the museum by public transportation.  The '''Charles Hayden Planetarium''' was opened in 1958.
+
+Many more expansions continued into the 1970s and 1980s. In 1999, [[The Computer Museum, Boston|The Computer Museum]] in Boston closed and became part of the Museum of Science, integrating some of its displays, although the most of the historical artifacts were moved to the [[Computer History Museum]] in [[Mountain View, California|Mountain View]], [[California]].<ref>{{cite web|url=http://www.computerhistory.org/press/backgrounder/ |title=Computer History Museum &#124; Backgrounder |publisher=Computerhistory.org |date= |accessdate=2013-06-04}}</ref>
+
+A major renovation and expansion took place during 2005 and 2006. In 2010, the Charles Hayden Planetarium was closed for renovation, and has since reopened.<ref>{{cite web |title=Planetarium History |url=http://www.mos.org/exhibits_shows/planetarium|publisher=Mos.org|accessdate=2013-08-19}}</ref>
+
+The main entrance to the museum straddles the border between the cities of Boston and Cambridge, and the boundary is indicated by a marker embedded in the floor inside the museum. In 2013, the Museum of Science was the venue for the first joint session of the Boston and Cambridge city councils, to discuss policy measures to improve retention of talented recent university graduates in the area.<ref>{{cite news |title=Boston and Cambridge City Councils Unite Around Retention Issues |author=Boston Fab |url=http://thefabempire.com/2013/04/02/boston-and-cambridge-city-councils-unite-around-retention-issues/ |format= |agency= |newspaper= |publisher= |location= |date=April 2, 2013 |page= |pages= |accessdate=July 5, 2013 |quote=The same day that Mayor Menino shared the end of his 20 year reign,  Boston and Cambridge city councils led by Tito Jackson (Boston) and Leland Cheung (Cambridge) met on neutral ground – the Museum of Science – to talk retention of talent in both cities. |ref=}}</ref>
+
+===Future===
+Starting in 2013, the Museum of Science has been undergoing a major renovation to upgrade the physical structure and develop new educational content. This $250 million campaign will upgrade nearly half of the Exhibit Halls from 2012, and open three new major exhibits: the ''Hall of Human Life'', the Yawkey Gallery on the Charles River, and ''What Is Technology?''<ref name=Ross>{{cite news|last=Ross|first=Casey|title=Museum of Science gallery to overlook Charles|url=https://www.bostonglobe.com/business/2013/01/29/museum-science-begin-new-gallery-charles/O4YxhExbuDMPv6lJWTVxqL/story.html|accessdate=4 June 2013|newspaper=Boston Globe|date=January 29, 2013}}</ref> The ''Hall of Human Life'' opened in November 2013 in the newly expanded Level 2 of the Green Wing, and has a focus on human biology.<ref name=MOS-HHL>{{cite web|title=Hall of Human Life|url=http://www.mos.org/exhibits/hall-human-life|work=Museum of Science|publisher=Museum of Science, Boston|accessdate=4 June 2013}}</ref>  The audio kinetic sculpture "Archimedean Excogitation" has been moved to the atrium to make way for a new exhibit in the lower lobby called The Yawkey Gallery on the Charles River. This exhibit opened in 2016, creating a new entry to the museum with better views of the Charles River and Boston-Cambridge skyline.<ref>{{Cite web|url=https://www.mos.org/node/36122836|title=Museum of Science opens new, transformative exhibit, the Yawkey Gallery on the Charles River  {{!}} Museum of Science, Boston|website=www.mos.org|language=en-us|access-date=2017-07-15}}</ref>
+
+On October 18, 2016 former [[Mayor of New York City|mayor]] of [[New York City]] [[Michael Bloomberg]] revealed that his foundation, [[Bloomberg Philanthropies]], is donating $50 million to the museum, the largest gift in the institution's 186-year history.<ref>{{cite web|url=https://www.bostonglobe.com/business/2016/10/17/museum-science-changed-michael-bloomberg-life-gives-back-with-million-gift/SFj5KnsTQfma3v0VWcLIqO/story.html|title=With $50m, Bloomberg thanks Museum of Science|date=October 18, 2016|accessdate=October 18, 2016|author=Shirley Leung|publisher=[[The Boston Globe]]|registration=yes}}</ref>
+
+The museum also opened a new exhibit named ''Wicked Smart: Invented in the Hub'' which has information about new technologies, especially those created in or around the Boston area. This new exhibit also contains a few interactive activities including a wheel chair visitors can sit in and an Xbox [[Kinect]] and projector.
+
+== Exhibit halls ==
+[[File:Decavitator, Boston MA.jpg|thumb|right|[[Decavitator]] hanging above the main entrance lobby of the museum]]
+[[File:Boston science museum demonstration.jpg|thumb|right|Demonstration of the world's largest open-air [[Van de Graaff generator]]]]
+'''Blue Wing'''<ref>{{cite web |title=Museum Map |url=http://www.mos.org/web_media/MOS_Floor_Plan.pdf|publisher=Mos.org|accessdate=2013-08-19}}</ref><ref name=Activities>{{cite web|title=Field Trip Activities|url=http://mos.org/field-trip-activities|work=Museum of Science|publisher=Museum of Science, Boston|accessdate=22 May 2013}}</ref>
+* ''Butterfly Garden'': a walk-through [[greenhouse]] containing exotic [[butterflies]] with an area dedicated to botanical education
+* ''Seeing is Deceiving'': a collection of [[optical illusion]]s, including many motorized illusions
+* ''Making Models'': exhibit on the use of physical and abstract models to understand the real world
+* ''[[Mathematica: A World of Numbers... and Beyond]]'': a roomful of classic mathematical exhibits by designers [[Charles and Ray Eames]]
+* ''Natural Mysteries'': an investigative exhibit on [[Categorization|classification]] of mysterious objects and natural history specimens
+* ''Theater of Electricity'': features the world's largest air-insulated [[Van de Graaff generator]], designed by Professor [[Robert J. Van de Graaff]] and donated by [[Massachusetts Institute of Technology|MIT]] in 1956. Demonstrations of "artificial lightning bolts", [[Tesla coil]]s, and other electrical apparatus
+* ''Math Moves!: Experiencing Ratio and Proportion:'' an immersive exploration of math and proportion including the former exhibit, ''Clark Collection of Mechanical Movements'': over 100 working models of mechanical motions and [[linkage (mechanical)|linkage]]s<ref name=ClarkColl>{{cite web|title=Clark Collection of Mechanical Movements|url=http://kmoddl.library.cornell.edu/clark.php|work=KMODDL|publisher=Cornell University|accessdate=21 May 2013}}</ref>
+* ''Innovative Engineers'': exhibits and brief biographies of Boston engineers, including minorities and women
+* ''Investigate!'': a house-sized collection of rooms to explore using [[scientific thinking]]
+* ''Energize!'': exhibits of [[renewable energy]] technologies
+* ''Nanotechnology''
+* ''Mapping the World Around Us''
+* ''Take a Closer Look''
+* ''Dinosaurs: Modeling the Mesozoic:'' a collection of fossils and life-size models of dinosaurs and extinct animals, including a full-size Tyrannosaurus rex model
+*''Colossal Fossil: Triceratops Cliff:'' a 65-million-year-old fossil, discovered in the Dakota Badlands in 2004
+* ''Machines & Transportation''
+* ''Living on the Edge''
+* ''To the Moon''
+* ''Behind the Scenes''
+* ''Wicked Smart: Invented in the Hub''
+
+'''Green Wing'''
+* ''New England Habitats''
+* ''A Bird's World''
+* ''Colby Room'': a classic explorer's [[trophy room]] filled with stuffed animal heads from [[big-game hunting]], preserved as a historical exhibit and also used for meetings
+* ''Hall of Human Life'': an exhibit of interactive activities focusing on human biology
+
+'''Red Wing'''
+* ''Mugar Omni Theater'': largest [[IMAX|Omnimax]] movie theater in New England
+* ''Charles Hayden Planetarium''
+* ''Cosmic Light''
+* ''Discovery Center'': offers the opportunity to talk with scientists and participate in experiments
+* ''[[Foucault pendulum]]'': shows the effect of the rotation of the earth
+* ''Museum Store''
+* ''Polage'': a wall-sized [[polarized light]] [[collage]] of shapes by artist Austine Wood Comarow
+* ''Soundstair'': a stairway fitted by artist [[Christopher Janney]] with [[photoelectric cells]] which trigger musical sounds
+* ''Archimedean Excogitation'': a large [[rolling ball sculpture]] by [[George Rhoads]]
+* ''Thrillride 360:'' Simulator ride
+
+'''Miscellaneous'''
+* ''Yawkey Gallery on the Charles River'': an open area filled with information about the [[Charles River]] and river science in general
+* ''The Rock Garden''
+
+==Live presentations and programs==
+[[File:Museum of Science, Boston, MA - IMG 3150.JPG|thumb|right|300px|The many exhibits in the Blue Wing]]
+The museum offers many free live presentations to the visitors.<ref>{{cite web |title=Live presentations |url=http://www.mos.org/exhibits_shows/live_presentations|publisher=Mos.org|accessdate=2013-08-19}}</ref>
+
+== Tech Studio ==
+Tech Studio is an exhibit on the first level in the Blue Wing that sees about 200–800 visitors a day.<ref name=":0" /> It includes various different design challenges and other more one-on-one "cart activities" for visitors. The design center includes about a dozen activities for visitors to attempt while learning about the [[engineering process]] run twice a day from 10am-12pm and from 1:30pm–3:30pm during the school year, and also 4:30pm–6:30pm during the summer.<ref name=":0">{{Cite web|url=https://www.mos.org/designchallenges|title=Design Challenges|last=|first=|date=|website=MOS Website|access-date=18 January 2018}}</ref> The cart activities include robotics and circuitry and are more meant for teaching visitors about new technology. All activities also include a magnet for visitors who attempted the activities.
+
+==Notable past exhibits==
+* In the 1950s, a small [[cloud chamber|Wilson cloud chamber]] was featured in the main entrance hall. Visitors could come within inches of radioactive material to watch the vapor trails of the particles they emitted.
+* The first [[Fresnel lens]] using electricity in the US ([[Navesink Twin Lights|Navesink]] lighthouse), was on display from the early 1950s until 1979.
+* In 1988, the museum was host to an exhibit focusing on the life and times of [[Ramses II]]. The exhibit displayed more than 70 artifacts, on loan from the Egyptian Museum in Cairo. Arguably, the centerpiece of the exhibit was a 40-foot-tall model of an Egyptian temple which housed a 3,000-year-old, 57-ton granite statue of Ramses. The exhibit ran from May 7, 1988 through August 30, 1988.<ref>{{cite web |title=Ramses II Visits a Boston Museum |url=https://www.nytimes.com/1988/05/01/arts/ramses-ii-visits-a-boston-museum.html |publisher=Nytimes.com |accessdate=2014-02-18 }}</ref><ref>{{cite web |title=Ramses the Great Will Shift His Weight |url=http://www.deseretnews.com/article/18764/RAMSES-THE-GREAT-WILL-SHIFT-HIS-WEIGHT.html?pg=all |publisher=deseretnews.com |accessdate=2014-02-18 }}</ref>
+* From August to October 2004, the museum was host to the US premiere of ''[[The Lord of the Rings]] [[Lord of the Rings the Motion Picture Trilogy the Exhibition|the Motion Picture Trilogy the Exhibition]]'', developed by the [[Museum of New Zealand Te Papa Tongarewa|Te Papa]] museum in [[New Zealand]], and containing many of the costumes and props from the films.
+* ''Gunther von Hagens' [[Body Worlds]] 2: The Anatomical Exhibition of Real Human Bodies'' was at the Museum of Science from July 29, 2006 to January 7, 2007.
+* From October 25, 2009 to February 21, 2010, ''[[Harry Potter: The Exhibition]]'' was at the museum.<ref>{{cite web |title=Fuel for Wizards |url=http://www.zagat.com/Blog/entrylist.aspx?SNP=NB&SCID=34&pg=1|publisher=Zagat.com|accessdate=2013-08-19 }}</ref>
+* The Museum of Science built and designed its own film-based exhibit, entitled ''[[Star Wars: Where Science Meets Imagination]]''. It was on display there from October 2005 to April 2006, and traveled to other venues.
+* [http://sciencebehindpixar.org/ The Science Behind Pixar] is a 13,000 square foot exhibition currently on tour around the US. It was created by the Museum of Science, Boston, in collaboration with [[Pixar|Pixar Animation Studios]]. This exhibit featured some of the activities, videos, and images that describe the math, computer science, and science that go into making computer animated films.
+
+[[File:MOS Boston on Charles.jpg|thumb|800px|center|The Museum of Science spans the length of the [[Charles River Dam]], including a dedicated [[parking garage]] at far left. The [[Leonard P. Zakim Bunker Hill Memorial Bridge]] is visible in the background]]
+
+==Computing exhibits==
+[[Image:Morris Worm.jpg|thumb|right|200px|A disk containing the source code for the [[Morris worm]] was located in the museum's ''Computing Revolution'' exhibit.]]
+
+Although the history artifacts of [[The Computer Museum, Boston|The Computer Museum]] (TCM) were moved from Boston to [[Silicon Valley]] to become the core of the current [[Computer History Museum]], some former TCM educational exhibits and objects were transferred to the Boston Museum of Science where two new computing and technology exhibits were created. ''The Computing Revolution,'' an exhibit no longer on display at the Museum of Science, related the history of computing through a variety of hands-on interactive exhibits. ''Cahners ComputerPlace, ''previously located in the Blue Wing, Level 1, housed displays ranging from educational [[video game]]s to an interactive [[AIBO]] ERS-7 [[robot]].
+
+==Other attractions==
+* The museum has developed a to-scale community [[solar system model]] that spans as far as the [[Riverside (MBTA station)|Riverside]] [[MBTA]] station (in [[Newton, Massachusetts]]). The models of the [[Sun]], [[Mercury (planet)|Mercury]] and [[Venus]] are located on the museum grounds.
+* Construction began on a rooftop Wind Turbine Lab in 2009.<ref name="rooftop_turbine_lab">{{cite web |url=http://www.renewableenergyworld.com/rea/news/article/2009/06/new-us-rooftop-wind-turbine-lab |title=New US Rooftop Wind Turbine Lab |date=2009-06-01|accessdate=2009-07-07 |publisher=Renewable Energy World}}</ref> The lab tests nine wind turbines from five different manufacturers on the roof of the museum. An exhibit in the Blue Wing, Catching the Wind, includes a live data stream on how much electricity each turbine is producing.
+* Overnights: Students in grades 1–7, as well as Scout groups, spend a night at the museum.
+
+==See also==
+* [[Boston Society of Natural History]], predecessor to the museum
+* Intel [[Computer Clubhouse]] Network, global after-school technology program headquartered at the museum
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{commons category|Museum of Science, Boston}}
+* {{Official website|http://www.mos.org}}
+* [https://web.archive.org/web/20080828111908/http://www.mos.org/cst The museum's current Science & Technology Center]
+* [http://www.bostoncentral.com/activities/boston_museum_of_science/p134.php Current Exhibits & Reviews]
+* [https://web.archive.org/web/20060207061850/http://www.mos.org/cst/article/6140/1.html A science podcast from the Current Science & Technology Center]
+* [http://www.nps.gov/nr/twhp/wwwlps/lessons/131lighthouse/131visual3.htm Navesink lighthouse information from the National Park Service]
+* [https://www.youtube.com/watch?v=HOBv-4vwBD8 "Human Connections"]  Video on the making of this large interactive polarized light mural, located in the atrium of the Mugar Imax Wing of the MOS (Artist: Austine Wood Comarow)
+* MOS is a member of [[Nanoscale Informal Science Education Network|NISE Net]], and participates in [http://www.whatisnano.org/nanodays NanoDays]
+
+{{BostonMA}}
+{{Boston Landmarks}}
+{{Zoos of Massachusetts}}
+
+[[Category:1830 establishments in Massachusetts]]
+[[Category:Association of Science-Technology Centers member institutions]]
+[[Category:Buildings and structures in Boston]]
+[[Category:Dinosaur museums in the United States]]
+[[Category:IMAX venues]]
+[[Category:Landmarks in Boston]]
+[[Category:Museums established in 1830]]
+[[Category:Museums in Boston|Museum of Science]]
+[[Category:Natural history museums in Massachusetts]]
+[[Category:Science museums in Massachusetts]]
+[[Category:Zoos in Massachusetts]]
+[[Category:Towers in Massachusetts]]
+[[Category:Wind power in Massachusetts]]

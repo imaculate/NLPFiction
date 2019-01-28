@@ -1,0 +1,568 @@
+{{Redirect|USN}}
+{{pp-move-indef}}
+{{short description|Naval warfare branch of the United States Armed Forces}}
+{{Use American English|date=December 2014}}
+{{Use dmy dates|date=October 2018}}
+{{Infobox military unit
+| unit_name = United States Navy
+| image = Emblem of the United States Navy.png
+| caption = Emblem of the United States Navy
+| country = {{flagu|United States}}
+| type = [[Navy]]
+| role = [[Naval warfare]], [[power projection]], [[Massive retaliation|nuclear deterrence]], and [[sealift]]
+| size = 329,867 active duty personnel<ref name="status"/> <br>274,300 civilian employees<ref name="status"/> <br>100,495 ready reserve personnel<ref name="status"/> <br>287 deployable ships<ref name="status"/> <br>480 [[List of current ships of the United States Navy|total ships]] <br>3,700+<ref name="status"/> Dept. of Navy manned aircraft combined (U.S. Navy operates 2,623 manned aircraft and the U.S. Marine Corps operates 1,304 manned aircraft)<ref name="WAF2018">{{cite journal |title=World Air Forces 2018 |journal=Flightglobal |page=17 |url=https://www.flightglobal.com/asset/21905 |accessdate=13 June 2018}}</ref>
+| command_structure = [[United States Department of Defense|U.S. Department of Defense]]
+* [[United States Department of the Navy|Dept. of the Navy]] <small>(since 1798)</small>
+| garrison = [[The Pentagon]] <br />{{nowrap|[[Arlington County, Virginia]], U.S.}}
+| garrison_label = Headquarters
+| nickname = 
+| patron = 
+| motto = "''Semper Fortis''" ({{lang-en|"Always Courageous"}}), (official) <br />"''Non sibi sed patriae''" ({{lang-en|"Not for self but for country"}}) (unofficial)
+| colors = Blue, Gold<ref>{{cite web|title=US Navy Traditions, Customs, & Core Values|url=https://www.navy.com/about/tradition.html|publisher=United States Navy|accessdate=February 11, 2018|quote=The Navy's colors themselves have special meaning: Blue represents the ocean and seas; gold is the color of integrity and valor.}}</ref><ref>{{cite web|url=http://rgb.to/pantone/ |title=Pantone colors. Convert Pantone colors to RAL, CMYK, RGB, Hex, HSL, HSB, JSON |author=Carlos Cabo |publisher= }}</ref><br />{{color box|#002F6C}}&nbsp;{{color box|#FFB81C}}
+| colors_label = Colors
+| march = "[[Anchors Aweigh]]" {{audio|AnchorsAweigh.ogg|Play}}
+| mascot =
+| equipment = see [[#Equipment|Equipment]] section below
+| equipment_label =
+| dates = 1775–1785,<ref name="Establishment of the Navy, 13 October 1775">{{cite web|url= https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/e/establishment-of-the-navy.html|title=Establishment of the Navy, 13 October 1775|publisher=Naval History and Heritage Command|accessdate=6 July 2017|df= }}</ref> 1794–present
+| battles = {{collapsible list
+ | titlestyle = background:transparent;text-align:left;font-weight:normal;
+ | title = ''See list''
+|[[American Revolutionary War]] <br />[[Quasi-War]] <br />[[First Barbary War]] <br />[[War of 1812]] <br />[[Second Barbary War]] <br />[[West Indies Anti-Piracy Operations of the United States|West Indies Anti-Piracy Operations]] <br />[[Seminole Wars]] <br />[[African Anti-Slavery Operations of the United States|African Anti-Slavery Operations]] <br />[[Aegean Sea Anti-Piracy Operations of the United States|Aegean Sea Anti-Piracy Operations]] <br />[[First Sumatran expedition]] <br />[[United States Exploring Expedition|United States exploration expedition]] <br />[[Patriot War]] <br />[[Second Sumatran expedition]] <br />[[Ivory Coast Expedition]] <br />[[Capture of Monterey]] <br />[[Mexican–American War]] <br />[[Bombardment of San Juan del Norte|Bombardment of Greytown]] <br />[[Battle of Ty-ho Bay]] <br />[[First Fiji Expedition]] <br />[[Filibuster War]] <br />[[Second Opium War]] <br />[[Second Fiji Expedition]] <br />[[Reform War]] <br />[[Paraguay expedition]] <br />[[American Civil War]] <br />[[Bombardment of Qui Nhon]] <br />[[Shimonoseki Campaign]] <br />[[Formosa Expedition]] <br />[[United States expedition to Korea]] <br />[[Egyptian Expedition (1882)]] <br />[[Bering Sea Anti-Poaching Operations]] <br />[[Overthrow of the Kingdom of Hawaii|Kingdom of Hawaii overthrowal]] <br />[[Second Samoan Civil War]] <br />[[Banana Wars]]
+* [[Spanish–American War]]
+* [[Negro Rebellion]]
+* [[United States occupation of Nicaragua|Occupation of Nicaragua]]
+* [[United States occupation of Haiti|Occupation of Haiti]]
+* [[United States occupation of the Dominican Republic (1916–24)|Occupation of the Dominican Republic (1916)]]
+[[Philippine–American War]] <br />[[Boxer Rebellion]] <br />[[World War I]] <br />[[Bombardment of Samsun]] <br />[[World War II]] <br />[[Korean War]] <br />[[1958 Lebanon crisis]] <br />[[Vietnam War]] <br />[[United States occupation of the Dominican Republic (1965–66)|Occupation of the Dominican Republic (1965)]] <br />[[Operation Eagle Claw|Iranian Hostage Rescue]] <br />[[Multinational Force in Lebanon]] <br />[[Invasion of Grenada]] <br />[[Bombing of Libya (1986)]] <br />[[Iran–Iraq War#Persian Gulf Tanker War|Tanker War]]
+* [[Operation Earnest Will|Earnest Will]]
+* [[Operation Prime Chance|Prime Chance]]
+* [[Operation Eager Glacier|Eager Glacier]]
+* [[Operation Nimble Archer|Nimble Archer]]
+* [[Operation Praying Mantis|Praying Mantis]]
+[[United States Invasion of Panama|Invasion of Panama]] <br />[[Gulf War]] <br />[[Iraqi no-fly zones]] <br />[[Somali Civil War]] <br />[[1995 NATO bombing campaign in Bosnia and Herzegovina|Bosnian War]] <br />[[1999 NATO bombing of the Federal Republic of Yugoslavia|Kosovo War]] <br />[[International Force for East Timor]] <br />
+[[Operation Enduring Freedom]]
+* [[War in Afghanistan (2001–2014)|Afghanistan (2001–2014)]]
+* [[Operation Enduring Freedom – Philippines|Philippines]]
+* [[Operation Enduring Freedom – Horn of Africa|Horn of Africa]]
+* [[Georgia Train and Equip Program|Pankisi Gorge]]
+* [[Operation Enduring Freedom – Trans Sahara|Trans Sahara]]
+* [[Operation Enduring Freedom – Caribbean and Central America|Caribbean and Central America]]
+[[Iraq War]] <br />[[Operation Burnt Frost]]<br />[[Operation Odyssey Dawn]] <br />[[2014 military intervention against ISIS|2014 Intervention against ISIL]] <br />[[Operation Inherent Resolve]] <br />[[War in Afghanistan (2015–present)]] <br />[[2017 Shayrat missile strike]]
+}}
+| anniversaries = 
+| decorations = [[File:Streamer PUC Navy.PNG|200px]] <br />[[Presidential Unit Citation (United States)|Presidential Unit Citation]] <br />[[File:Navy Unit Commendation streamer (USMC).svg|200px]] <br />[[Navy Unit Commendation]] <br />[[File:Meritorious Unit Commendation (Navy-Marine) Streamer.jpg|200px]] <br />[[Meritorious Unit Commendation]]
+| battle_honours = <!-- Commanders -->
+| website = {{URL|www.navy.mil}}
+| commander1 = [[President of the United States|President]] [[Donald Trump]]
+| commander1_label = [[Commander-in-chief#United States|Commander-in-Chief]]
+| commander2 = [[Patrick M. Shanahan]] (acting)
+| commander2_label = [[United States Secretary of Defense|Secretary of Defense]]
+| commander3 = [[Richard V. Spencer]]
+| commander3_label = [[United States Secretary of the Navy|Secretary of the Navy]]
+| commander4 = [[Admiral (United States)|ADM]] [[John M. Richardson (admiral)|John M. Richardson]]
+| commander4_label = [[Chief of Naval Operations]]
+| commander5 = ADM [[William F. Moran (admiral)|William F. Moran]]
+| commander5_label = [[Vice Chief of Naval Operations]]
+| commander6 = MCPON [[Russell L. Smith]]
+| commander6_label = [[Master Chief Petty Officer of the Navy]]
+| notable_commanders = <!-- Insignia -->
+| identification_symbol = [[File:Flag of the United States Navy (official).svg|border|100px]]
+| identification_symbol_label = [[Flag of the United States Navy|Flag]]
+| identification_symbol_2 = [[File:United States Department of the Navy Seal.svg|100px]]
+| identification_symbol_2_label = Seal of the [[United States Department of the Navy|Department of the Navy]]
+| identification_symbol_3 = [[File:Naval Jack of the United States.svg|border|100px]]
+| identification_symbol_3_label = [[Jack of the United States|Jack]]
+| identification_symbol_4 = [[File: Commissioning Pennant.svg|90px]]
+| identification_symbol_4_label = [[Commissioning pennant|Pennant]]
+| identification_symbol_5 = [[File:Roundel of the USAF.svg|75px]]
+| identification_symbol_5_label = Roundel
+| identification_symbol_6_label = Anchor, ''Constitution'', and Eagle
+| identification_symbol_6 = [[File:Anchor, Constitution, and Eagle.svg|100px]]
+}}
+
+<!-- summary -->
+The '''United States Navy''' ('''USN''') is the [[naval warfare]] service branch of the [[United States Armed Forces]] and one of the seven [[uniformed services of the United States]]. It is the largest and most capable [[navy]] in the world,<ref>{{cite web|url=http://carllavo.blogspot.de/2015/03/the-gigantic-advantage-us-navy-has-over.html|title=Carl Lavo: The gigantic advantage the U.S. Navy has over all others|work=carllavo.blogspot.de|accessdate=12 November 2015}}</ref><ref>{{cite news |url=http://nation.time.com/2012/12/03/if-more-money-buys-a-smaller-fleet-what-will-less-money-buy/ |work=Time |title=If More Money Buys a Smaller Fleet, What Will Less Money Buy? |date=3 December 2012}}</ref><ref>{{cite web|url=http://www.defense.gov/speeches/speech.aspx?speechid=1460|archive-url=https://web.archive.org/web/20100521061551/http://www.defense.gov/speeches/speech.aspx?speechid=1460|dead-url=yes|archive-date=21 May 2010|title=Speech View|work=defense.gov|accessdate=12 November 2015}}</ref> with the highest combined [[List of countries with warships#Warship table|battle fleet tonnage]]<ref>{{cite journal |url=http://www.foreignaffairs.com/articles/63717/robert-m-gates/a-balanced-strategy |title=A Balanced Strategy: Reprogramming the Pentagon for a New Age |last=Gates |first=Robert M. |authorlink=Robert M. Gates |journal=[[Foreign Affairs]] |date=January–February 2009 |publisher=Council on Foreign Relations |subscription=yes}}</ref><ref>{{cite web|url=http://www.businessinsider.com/the-russian-navy-is-aiming-to-be-much-larger-than-the-us-navy-2014-9?IR=T|title=The Russian Navy Is Aiming To Be Much Larger Than The US Navy|date=24 September 2014|work=Business Insider|accessdate=12 November 2015}}</ref> and the world's largest [[aircraft carrier]] fleet, with [[List of aircraft carriers in service|eleven in service]], and two new carriers under construction. With 319,421 personnel on [[active duty]] and 99,616 in the [[Ready Reserve]], the Navy is the third largest of the service branches. It has 282 deployable combat vessels and more than 3,700 operational aircraft {{as of|2018|03|lc=y}},<ref name="status">{{cite web |url=http://www.navy.mil/navydata/nav_legacy.asp?id=146 |title=The U.S. Navy |publisher=U.S. Navy |date=14 June 2018 |accessdate=14 June 2018}}</ref> making it the second largest and second most powerful air force in the world.<ref>https://nationalinterest.org/blog/buzz/real-top-guns-5-most-deadly-air-forces-planet-earth-26266</ref>
+
+<!-- history in brief -->
+The U.S. Navy traces its origins to the [[Continental Navy]], which was established during the [[American Revolutionary War]] and was effectively disbanded as a separate entity shortly thereafter. The U.S. Navy played a major role in the [[American Civil War]] by blockading the [[Confederate States of America|Confederacy]] and seizing control of its rivers. It played the central role in the [[World War II]] defeat of Imperial Japan. The US Navy emerged from World War II as the most powerful navy in the world, a title it still holds to this day. The 21st century U.S. Navy maintains a sizable global presence, deploying in strength in such areas as the Western [[Pacific Ocean|Pacific]], the [[Mediterranean]], and the [[Indian Ocean]]. It is a [[blue-water navy]] with the ability to [[power projection|project force]] onto the [[littoral zone|littoral regions]] of the world, engage in forward deployments during peacetime and rapidly respond to regional crises, making it a frequent actor in U.S. foreign and military policy.<!-- any history details in between belongs in the History/Origins section below -->
+
+<!-- today's navy -->
+The Navy is administratively managed by the [[United States Department of the Navy|Department of the Navy]], which is headed by the civilian [[United States Secretary of the Navy|Secretary of the Navy]]. The Department of the Navy is itself a division of the [[United States Department of Defense|Department of Defense]], which is headed by the [[United States Secretary of Defense|Secretary of Defense]]. The [[Chief of Naval Operations]] (CNO) is the most senior naval officer serving in the Department of the Navy.<ref>{{cite web |title=Responsibilities |url=http://www.navy.mil/navydata/leadership/cno_resp.asp |publisher=United States Navy |website=[[Chief of Naval Operations]] |accessdate=15 June 2013}}</ref>
+
+==Mission==
+{{quote|The mission of the Navy is to maintain, train and equip combat-ready Naval forces capable of winning wars, deterring aggression and maintaining freedom of the seas.|Mission statement of the United States Navy<ref name="MissionOfTheNavy">{{cite web |url=http://www.navy.mil/navydata/organization/org-top.asp |title=Mission of the Navy |publisher=U.S. Navy |website=Navy Organization |accessdate=29 November 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20081205081838/http://www.navy.mil/navydata/organization/org-top.asp |archivedate=5 December 2008 |df=dmy-all }}</ref>}}
+
+The U.S. Navy is a seaborne branch of the [[military of the United States]]. The Navy's three primary areas of responsibility:<ref>{{USC|10|5062}}</ref>
+* The preparation of naval forces necessary for the effective prosecution of war.
+* The maintenance of naval aviation, including land-based naval aviation, air transport essential for naval operations, and all air weapons and air techniques involved in the operations and activities of the Navy.
+* The development of [[aircraft]], weapons, tactics, technique, organization, and equipment of naval combat and service elements.
+
+U.S. Navy training manuals state that the mission of the U.S. Armed Forces is "to be prepared to conduct prompt and sustained combat operations in support of the national interest." As part of that establishment, the U.S. Navy's functions comprise [[sea control]], [[power projection]] and [[Massive retaliation|nuclear deterrence]], in addition to "[[sealift]]" duties.<ref>{{cite book |url=http://www.med.navy.mil/sites/nmcp/EduTrain/hmtraining/Documents/14325.pdf#page=575 |archive-url=https://web.archive.org/web/20120927012607/http://www.med.navy.mil/sites/nmcp/EduTrain/hmtraining/Documents/14325.pdf |dead-url=yes |archive-date=27 September 2012 |title=Basic Military Requirements |id=NAVEDTRA 14325 |publisher=United States Navy |pages=20–7 |date=February 2002}}</ref>
+
+==History==
+{{main|History of the United States Navy}}
+
+===Origins===
+{{quote|It follows then as certain as that night succeeds the day, that without a decisive naval force we can do nothing definitive, and with it, everything honorable and glorious.|[[George Washington]]<ref name="FamousNavyQuotes">{{cite web |url=http://www.history.navy.mil/browse-by-topic/heritage/famous-navy-quotes.html |title=Famous Navy Quotes: Who Said Them&nbsp;... and When |publisher=[[Naval History & Heritage Command]] |accessdate=20 June 2015}}</ref>}}
+
+{{quote|Naval power . . . is the natural defense of the United States|[[John Adams]]<ref>{{Cite book |url=https://books.google.com/books?id=PZZWBgAAQBAJ&pg=PA9&dq=naval+power+adams+navy+miller&hl=en&sa=X&ved=0ahUKEwiUsPiWvqvdAhXo24MKHZKiCSgQ6AEINDAC#v=onepage&q=naval%2520power%2520adams%2520navy%2520miller&f=false |title=The U.S. Navy: A History, Third Edition |last=Miller |first=Nathan |date=1997 |publisher=Naval Institute Press |isbn=9781612518923 |pages=9}}</ref>}}
+
+The Navy was rooted in the colonial seafaring tradition, which produced a large community of sailors, captains, and shipbuilders.<ref>{{cite book|url=https://books.google.com/books?id=5yB7hMbYjjUC&pg=PG1|title=American Naval History, 1607–1865: Overcoming the Colonial Legacy|last=Dull|first=Jonathan R.|publisher=U. of Nebraska Press|year=2012|isbn=978-0-8032-4471-9|pages=1–16}}</ref> In the early stages of the [[American Revolutionary War]], [[Massachusetts]] had its own [[Massachusetts Naval Militia]]. The rationale for establishing a national navy was debated in the [[Second Continental Congress|Second]] [[Continental Congress]]. Supporters argued that a navy would protect shipping, defend the coast, and make it easier to seek out support from foreign countries. Detractors countered that challenging the British [[Royal Navy]], then the world's preeminent naval power, was a foolish undertaking. [[President of the United States|Commander in Chief]] [[George Washington]] resolved the debate when he commissioned the ocean-going schooner [[USS Hannah|USS ''Hannah'']] to interdict British merchant ships, and reported the captures to the Congress.  On 13 October 1775, the Continental Congress authorized the purchase of two vessels to be armed for a cruise against British merchant ships; this resolution created the [[Continental Navy]] and is considered the first establishment of the U.S. Navy.<ref name="Continental"/> The Continental Navy achieved mixed results; it was successful in a number of engagements and raided many British merchant vessels, but it lost twenty-four of its vessels<ref name="love">{{cite book |last=Love |first=Robert W., Jr. |title=History of the US Navy |volume=Volume One: 1775–1941 |location=Harrisburg |publisher=Stackpole Books |year=1992 |isbn=978-0-8117-1862-2}}</ref> and at one point was reduced to two in active service.<ref name="howarth">{{cite book |last=Howarth |first=Steven |title=To Shining Sea: A history of the United States Navy 1776–1991 |location=New York |publisher=Random House |year=1991 |isbn=0-394-57662-4}}</ref> In August 1785, after the Revolutionary War had drawn to a close, [[Congress of the Confederation|Congress]] had sold {{USS|Alliance|1778|2}}, the last ship remaining in the Continental Navy due to a lack of funds to maintain the ship or support a navy.<ref name="Alliance">{{cite DANFS |title=Alliance |url=http://www.history.navy.mil/danfs/a7/alliance-i.htm |accessdate=31 August 2009}}</ref><ref name="AbbotVIPICXV">Abbot 1896, Volume I Part I Chapter XV</ref>
+
+In 1972, the Chief of Naval Operations, Admiral [[Elmo Zumwalt]], authorized the Navy to celebrate its birthday on 13 October to honor the establishment of the Continental Navy in 1775.<ref name="New Navy Birthday">{{cite web |url=https://www.history.navy.mil/browse-by-topic/commemorations-toolkits/navy-birthday/OriginsNavy.html |title=Origins of the Navy |publisher=Naval History & Heritage Command |work=[[Naval History & Heritage Command]] |accessdate=1 July 2017 |df=}}</ref><ref name="Continental">{{cite web |url=http://www.history.navy.mil/faqs/faq59-13.htm |title=Establishment of the Navy, 13&nbsp;October 1775 |publisher=US Navy |work=[[Naval History & Heritage Command]] |accessdate=5 November 2009 |dead-url=yes |archive-url=https://web.archive.org/web/19990204022651/http://history.navy.mil/faqs/faq59-13.htm |archive-date=4 February 1999 |df=}}</ref>
+
+===From re-establishment to the Civil War===
+[[File:USSConstellationVsInsurgente.jpg|thumb|right|[[USS Constellation vs L'Insurgente|USS ''Constellation'' vs ''L'Insurgente'']] during the [[Quasi-War]] ]]
+
+The United States was without a navy for nearly a decade, a state of affairs that exposed U.S. maritime merchant ships to a series of attacks by the [[Barbary pirates]]. The sole armed maritime presence between 1790 and the launching of the U.S. Navy's first warships in 1797 was the [[U.S. Revenue Cutter Service|U.S. Revenue-Marine]], the primary predecessor of the [[U.S. Coast Guard]]. Although the USRCS conducted operations against the pirates, their depredations far outstripped its abilities and Congress passed the [[Naval Act of 1794]] that established a permanent standing navy on 27 March 1794.<ref name="US">{{cite web |url=https://www.archives.gov/education/lessons/new-us-navy/act-draft.html|title=Launching the New U.S. Navy, 27 March 1794 |publisher=National Archives and Records Administration Center for Legislative Archives Records of the U.S. Senate Record Group 46 |work=[[National Archives]] |accessdate=1 July 2017 |df=}}</ref> The Naval Act ordered the construction and manning of [[Original six frigates of the United States Navy|six frigates]] and, by October 1797,<ref name="love"/> the first three were brought into service: {{USS|United States|1797|6}}, {{USS|Constellation|1797|6}}, and {{USS|Constitution}}. Due to his strong posture on having a strong standing Navy during this period, [[John Adams]] is "often called the father of the American Navy".<ref>{{cite web|url=http://www.history.navy.mil/research/histories/ship-histories/danfs/j/john-adams-frigate-i.html|title=John Adams I (Frigate) 1799–1867|publisher=USA.gov|accessdate=22 August 2015}}</ref> In 1798–99 the Navy was involved in an undeclared [[Quasi-War]] with France.<ref>{{cite web|url=http://www.americanhistorycentral.com/entries/quasi-war/|title=Quasi-War |author=Randal Rust|publisher=R.Squared Communications |accessdate=5 April 2017}}</ref> From 1801 to 1805, in the [[First Barbary War]], the U.S. Navy defended U.S. ships from the Barbary pirates, blockaded the Barbary ports and executed attacks against the Barbary' fleets.
+
+The U.S. Navy saw substantial action in the [[War of 1812]], where it was victorious in eleven single-ship duels with the Royal Navy. It drove all significant British forces off [[Lake Erie]] and [[Lake Champlain]] and prevented them from becoming British-controlled zones. The result was a major defeat for the [[War of 1812#Niagara Frontier, 1813|British invasion of New York state]], and the defeat of the military threat from the Native American allies of the British. Despite this, the U.S. Navy was unable to prevent the British from blockading its ports and landing troops.<ref name="multiple1">{{cite web |url=http://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/h/history-of-the-us-navy/continental-period.html |title=The Navy: The Continental Period, 1775–1890 |last=Palmer |first=Michael A. |publisher=[[Naval History & Heritage Command]] |accessdate=20 June 2015}}</ref> But after the War of 1812 ended in 1815, the U.S. Navy primarily focused its attention on protecting American shipping assets, sending squadrons to the Caribbean, the Mediterranean, where it participated in the [[Second Barbary War]] that ended piracy in the region, South America, Africa, and the Pacific.<ref name="love" /> From 1819 to the outbreak of the Civil War, the [[Africa Squadron]] operated to suppress the [[slave trade]], seizing 36 slave ships, although its contribution was smaller than that of the much larger British Royal Navy.
+
+[[File:USS Constitution vs Guerriere.jpg|thumb|left|[[USS Constitution vs HMS Guerriere|USS ''Constitution'' vs HMS ''Guerriere'']] during the [[War of 1812]] ]]
+During the [[Mexican–American War]] the U.S. Navy blockaded Mexican ports, capturing or burning the Mexican fleet in the [[Gulf of California]] and capturing all major cities in [[Baja California]] peninsula. In 1846–1848 the Navy successfully used the [[Pacific Squadron]] under Commodore [[Robert Stockton]] and its marines and blue-jackets to facilitate the capture of California with large scale land operations coordinated with the local militia organized in the [[California Battalion]]. The Navy conducted the U.S. military's first large-scale amphibious joint operation by successfully landing 12,000 army troops with their equipment in one day at [[Veracruz, Veracruz|Veracruz, Mexico]]. When larger guns were needed to bombard Veracruz, Navy volunteers landed large guns and manned them in the successful bombardment and capture of the city. This successful landing and capture of Veracruz opened the way for the capture of Mexico City and the end of the war.<ref name="multiple1" /> The U.S. Navy established itself as a player in [[United States foreign policy]] through the actions of [[Commodore (USN)|Commodore]] [[Matthew Perry (naval officer)|Matthew Perry]] in Japan, which resulted in the [[Convention of Kanagawa]] in 1854.
+[[File:Officer, Union Army (6169770467).jpg|thumb|right|200px|A [[carte de visite]] of a US Navy Lieutenant during the  Civil war era.]]
+Naval power played a significant role during the [[American Civil War]], in which the [[Union (American Civil War)|Union]] had a distinct advantage over the [[Confederate States of America|Confederacy]] on the seas.<ref name="multiple1" /> A [[Union blockade]] on all major ports shut down exports and the coastal trade, but blockade runners (mostly owned and operated by British companies) provided a thin lifeline. The [[Brown-water navy]]'s control of the river systems made internal travel difficult for Confederates and easy for the Union. The war saw [[ironclad warship]]s in combat for the first time at the [[Battle of Hampton Roads]] in 1862, which pitted {{USS|Monitor}} against {{ship|CSS|Virginia}}.<ref>{{cite book |last=McPherson |first=James M. |title=War on the Waters: The Union and Confederate Navies, 1861–1865 |url=https://books.google.com/books?id=80LQH0Aoe3QC&pg=PA3 |year=2012 |publisher=University of North Carolina Press |isbn=978-0-8078-3588-3 |pages=3–4}}</ref> For two decades after the war, however, the U.S. Navy's fleet was neglected and became technologically obsolete.{{citation needed|date=February 2017}}
+
+===20th century===
+[[File:Us-atlantic-fleet-1907.jpg|thumb|The [[Great White Fleet]] demonstrates U.S. naval power in 1907; it was proof that the U.S. Navy had [[blue-water navy|blue-water capability]].]]
+{{quote|Our ships are our natural bulwarks.|[[Woodrow Wilson]]<ref name="FamousNavyQuotes"/>}}
+
+A modernization program beginning in the 1880s when the first steel hulled warships stimulated the American steel industry, and "the new steel navy" was born.<ref>{{cite book |last=Hacker |first=Barton C. |last2=Vining |first2=Margaret |title=American Military Technology |url=https://books.google.com/books?id=a3KLJN5kigQC&pg=PA53 |year=2007 |page=53 |publisher=The Johns Hopkins University Press |isbn=978-0-8018-8772-7}}</ref> This rapid expansion of the U.S. Navy and its easy victory over the [[Spanish Navy]] in 1898 brought a new respect for American technical quality. Rapid building of at first pre-dreadnoughts, then [[dreadnoughts]] brought the U.S. in line with the navies of countries such as [[United Kingdom|Britain]] and [[Germany]]. In 1907, most of the Navy's battleships, with several support vessels, dubbed the [[Great White Fleet]], were showcased in a 14-month circumnavigation of the world. Ordered by President [[Theodore Roosevelt]], it was a mission designed to demonstrate the Navy's capability to extend to the global theater.<ref name="love"/> By 1911, the U.S. had begun building the super-dreadnoughts at a pace to eventually become competitive with Britain.<ref>{{cite book |last=O'Brien |first=Phillips P. |title=British and American Naval Power: Politics and Policy, 1900–1936 |url=https://books.google.com/books?id=gf1_mPYBwS8C&pg=PP1 |pages=7, 154–156 |year=1998 |publisher=Greenwood Publishing Group |isbn=978-0-275-95898-5}}</ref> The 1911 also saw the first naval aircraft with the navy<ref>https://www.airplanesofthepast.com/us-naval-marine-aviation.htm</ref> which would lead to the informal establishment of '''United States Naval Flying Corps''' to protect shore bases. It was not until 1921 [[Bureau of Aeronautics|US naval aviation]] truly commenced.
+
+[[File:Puck cover2.jpg|thumb|left|upright|[[Columbia (name)|Columbia]], personification of the United States, wearing a warship bearing the words "World Power" as her "Easter bonnet" on the cover of ''[[Puck (magazine)|Puck]]'', 6 April 1901.]]
+
+====World War I and interwar years====
+During [[World War I]], the U.S. Navy spent much of its resources protecting and shipping hundreds of thousands of Soldiers and Marines of the [[American Expeditionary Force]] and war supplies across the Atlantic in [[U-boat]] infested waters with the [[Cruiser and Transport Force]]. It also concentrated on laying the [[North Sea Mine Barrage]]. Hesitation by the senior command meant that naval forces were not contributed until late 1917. [[United States Battleship Division Nine (World War I)|Battleship Division Nine]] was dispatched to Britain and served as the Sixth Battle Squadron of the British Grand Fleet. Its presence allowed the British to decommission some older ships and reuse the crews on smaller vessels. Destroyers and U.S. Naval Air Force units like the [[Northern Bombing Group]] contributed to the anti-submarine operations. The strength of the United States Navy grew under an ambitious ship building program associated with the [[Naval Act of 1916]].
+
+Naval construction, especially of battleships, was limited by the [[Washington Naval Conference]] of 1921–22. The aircraft carriers {{USS|Saratoga|CV-3}} and {{USS|Lexington|CV-2}} were built on the hulls of partially built battle cruisers that had been canceled by the treaty. The [[New Deal]] used [[Public Works Administration]] funds to build warships, such as {{USS|Yorktown|CV-5}} and {{USS|Enterprise|CV-6}}. By 1936, with the completion of {{USS|Wasp|CV-7}}, the U.S. Navy possessed a carrier fleet of 165,000 tonnes [[displacement (ship)|displacement]], although this figure was nominally recorded as 135,000 tonnes to comply with treaty limitations. Franklin Roosevelt, the number two official in the Navy Department during World War I, appreciated the Navy and gave it strong support. In return, senior leaders were eager for innovation and experimented with new technologies, such as magnetic torpedoes, and developed a strategy called [[War Plan Orange]] for victory in the Pacific in a hypothetical war with Japan that would eventually become reality.<ref>{{cite journal |last=Holwitt |first=Joel I. |title=Reappraising the Interwar US Navy |journal=[[Journal of Military History]] |type=Book review |date=January 2012 |volume=76 |issue=1 |pages=193–210}}</ref>
+
+====World War II====
+{{main|United States Navy in World War II|Naval history of World War II}}
+[[File:New Mexico class battleship bombarding Okinawa.jpg|thumb|upright|The battleship {{USS|Idaho|BB-42|6}} [[Battle of Okinawa|shells Okinawa]] on 1 April 1945]]
+
+The U.S. Navy grew into a formidable force in the years prior to [[World War II]], with battleship production being restarted in 1937, commencing with {{USS|North Carolina|BB-55}}. Though ultimately unsuccessful, Japan attempted to neutralize this strategic threat with the surprise [[attack on Pearl Harbor]] on 7 December 1941. Following American entry into the war, the U.S. Navy grew tremendously as the United States was faced with a two-front war on the seas. It achieved notable acclaim in the [[Pacific War|Pacific Theater]], where it was instrumental to the Allies' successful "[[Leapfrogging (strategy)|island hopping]]" campaign.<ref name="howarth"/> The U.S. Navy participated in many significant battles, including the [[Battle of the Coral Sea]], the [[Battle of Midway]], the [[Solomon Islands Campaign]], the [[Battle of the Philippine Sea]], the [[Battle of Leyte Gulf]], and the [[Battle of Okinawa]].  By war's end in 1945, the U.S. Navy had added hundreds of new ships, including 18 aircraft carriers and 8 battleships, and had over 70% of the world's total numbers and total tonnage of naval vessels of 1,000 tons or greater.<ref name="Defense Analysis; Dec 2001, Vol. 17 Issue 3, p. 259–265">{{cite journal |title=Weighing the US Navy |first=David T. |last=Burbach |first2=Marc |last2=Devore |first3=Harvey M. |last3=Sapolsky |first4=Stephen |last4=Van Evera |journal=Defense Analysis |volume=17 |issue=3 |date=1 December 2001 |pages=259–265 |doi=10.1080/07430170120093382 }}</ref><ref>{{cite book |last=King |first=Ernest J., USN |authorlink=Ernest J. King |url=http://www.ibiblio.org/hyperwar/USN/USNatWar/USN-King-B.html |title=US Navy at War 1941–1945: Official Report to the Secretary of the Navy |date=3 December 1945 |accessdate=8 April 2006}}</ref> At its peak, the U.S. Navy was operating 6,768 ships on [[V-J Day]] in August 1945.<ref>{{cite web |url=http://www.history.navy.mil/research/histories/ship-histories/us-ship-force-levels.html |title=U.S. Navy Active Ship Force Levels, 1886–present |publisher= U.S. Navy |website=[[Naval History & Heritage Command]] |date=20 June 2015}}</ref>
+
+Doctrine had significantly shifted by the end of the war. The U.S. Navy had followed in the footsteps of the navies of Great Britain and Germany which favored concentrated groups of battleships as their main offensive naval weapons.<ref>{{cite journal |title=The Evolution of Fleet Tactical Doctrine in the U.S. Navy, 1922–1941 |first=Trent |last=Hone |journal=The Journal of Military History |volume=67 |issue=4 |date=October 2003 |pages=1107–1148 |publisher=Society for Military History |jstor=3396884 |doi=10.1353/jmh.2003.0300}}</ref> The development of the aircraft carrier and its devastating utilization by the Japanese against the U.S. at Pearl Harbor, however, shifted U.S. thinking. The Pearl Harbor attack destroyed or took out of action a significant number of U.S. Navy battleships. This placed much of the burden of retaliating against the Japanese on the small number of aircraft carriers.<ref>{{cite journal |title=Tactical Use of Air Power in World War II: The Navy Experience |first=Henry M. |last=Dater |journal=Military Affairs |volume=14 |issue=4 |year=1950 |pages=192–200 |publisher=Society for Military History |jstor=1982840 |doi=10.2307/1982840}}</ref>
+
+====Cold War====
+[[File:USS George Washington (SSBN-598).jpg|thumb|{{USS|George Washington|SSBN-598}}, a ballistic missile submarine]]
+
+The potential for armed conflict with the [[Soviet Union]] during the [[Cold War]] pushed the U.S. Navy to continue its technological advancement by developing new weapons systems, ships, and aircraft. U.S. naval strategy changed to that of forward deployment in support of U.S. allies with an emphasis on carrier battle groups.<ref>{{cite web |url=http://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/h/history-of-the-us-navy/transoceanic-period.html |title=The Navy: The Transoceanic Period, 1945–1992 |last=Palmer |first=Michael A. |publisher= U.S. Navy |website=[[Naval History & Heritage Command]] |accessdate=20 June 2015}}</ref>
+
+The navy was a major participant in the [[Vietnam War]], blockaded Cuba during the [[Cuban Missile Crisis]], and, through the use of [[ballistic missile submarines]], became an important aspect of the United States' [[Mutual assured destruction|nuclear strategic deterrence]] policy. The U.S. Navy conducted various combat operations in the Persian Gulf against Iran in 1987 and 1988, most notably [[Operation Praying Mantis]]. The Navy was extensively involved in [[Operation Urgent Fury]], [[Operation Desert Shield (Gulf War)|Operation Desert Shield]], [[Operation Desert Storm]], [[Operation Deliberate Force]], [[Operation Allied Force]], [[Operation Desert Fox]] and [[Operation Southern Watch]].
+
+The U.S. Navy has also been involved in search and rescue/search and salvage operations, sometimes in conjunction with vessels of other countries as well as with U.S. Coast Guard ships. Two examples are the [[1966 Palomares B-52 crash]] incident and the subsequent search for missing hydrogen bombs, and Task Force 71 of the Seventh Fleet's operation in search for [[Korean Air Lines Flight 007]], shot down by the Soviets on 1 September 1983.
+
+===21st century===
+{{Quote|When a crisis confronts the nation, the first question often asked by policymakers is: 'What naval forces are available and how fast can they be on station?'|Admiral [[Carlisle A. H. Trost]]<!-- May 1990 --><ref>{{cite web |author=Chief of Naval Operations |authorlink=Chief of Naval Operations |title=The United States Navy in Operations "Desert Storm" / "Desert Shield{{"-}} |url=http://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm.html |publisher= U.S. Navy |website=[[Naval History & Heritage Command]] |date=15 May 1991}}</ref>}}
+
+The U.S. Navy continues to be a major support to U.S. interests in the 21st century. Since the end of the [[Cold War]], it has shifted its focus from preparations for large-scale war with the [[Soviet Union]] to special operations and strike missions in regional conflicts.<ref name="forward">{{cite web |url=http://www.navy.mil/navydata/policy/fromsea/ffseanoc.html |title=Forward&nbsp;... From the Sea |website=[[Department of the Navy]] |date=March 1997 |accessdate=25 July 2006}}</ref> The navy participated in [[War in Afghanistan (2001–present)|Operation Enduring Freedom]], [[Operation Iraqi Freedom]], and is a major participant in the ongoing [[War on Terror]], largely in this capacity. Development continues on new ships and weapons, including the {{sclass-|Gerald R. Ford|aircraft carrier|2}} and the [[Littoral combat ship]]. Because of its size, weapons technology, and ability to project force far from U.S. shores, the current U.S. Navy remains a potent asset for the United States. Moreover, it is the principal means through which the U.S. maintains international global order, namely by safeguarding global trade and protecting allied nations.<ref>{{cite web|last1=Farley|first1=Robert|title=A US Navy With 350 Ships... But What For?|url=http://thediplomat.com/2016/11/a-us-navy-with-350-ships-but-what-for/|website=thediplomat.com|publisher=The Diplomat|accessdate=22 November 2016}}</ref>
+
+In 2007, the U.S. Navy joined with the [[U.S. Marine Corps]] and [[U.S. Coast Guard]] to adopt a new maritime strategy called [[A Cooperative Strategy for 21st Century Seapower]] that raises the notion of prevention of war to the same philosophical level as the conduct of war. The strategy was presented by the [[Chief of Naval Operations]], the [[Commandant of the Marine Corps]], and [[Commandant of the Coast Guard]] at the International Sea Power Symposium in [[Newport, Rhode Island|Newport, RI]] on 17 October 2007.<ref>{{cite news |url=http://www.navy.mil/search/display.asp?story_id=32655 |title=Sea Services Unveil New Maritime Strategy |work=Navy News Service |date=17 October 2007 |first=Jim |last=Garamone |id=NNS071017-13 |agency=[[American Forces Press Service]]}}</ref> The strategy recognized the economic links of the global system and how any disruption due to regional crises (man-made or natural) can adversely impact the U.S. economy and quality of life. This new strategy charts a course for the Navy, Coast Guard, and Marine Corps to work collectively with each other and international partners to prevent these crises from occurring or reacting quickly should one occur to prevent negative impacts on the U.S.
+
+In 2010, Chief of Naval Operations, Admiral Gary Roughead, noted that demands on the Navy have grown as the fleet has shrunk and that in the face of declining budgets in the future, the U.S. Navy must rely even more on international partnerships.<ref>{{cite news |url=http://www.navytimes.com/news/2010/06/navy_cno_at_mast_062210w/ |archive-url=https://archive.is/20120908023524/http://www.navytimes.com/news/2010/06/navy_cno_at_mast_062210w/ |dead-url=yes |archive-date=8 September 2012 |title=CNO: Global challenges need global responses |work=[[Navy Times]] |date=22 June 2010 |first=Lance M. |last=Bacon |subscription=yes}}</ref>
+
+In its 2013 budget request, the navy focused on retaining all eleven big deck carriers, at the expense of cutting numbers of smaller ships and delaying the SSBN replacement.<ref>{{cite news |url=http://aviationweek.com/awin/pentagon-saves-carrier-other-programs-expense |title=Pentagon Saves Carrier At Other Programs’ Expense |date=27 January 2012|last =Fabey|first = Michael|work = Aviation Week|subscription = yes}}</ref> By the next year the USN found itself unable to maintain eleven aircraft carriers in the face of the expiration of budget relief offered by the [[Bipartisan Budget Act of 2013]] and CNO [[Jonathan Greenert]] said that a ten ship carrier fleet would not be able to sustainably support military requirements.<ref>{{cite news |url=http://www.stripes.com/navy-s-top-admiral-reducing-carrier-fleet-would-burn-out-sailors-ships-1.284362 |title=Navy's top admiral: Reducing carrier fleet would burn out sailors, ships |last1=Harper |first1=Jon |date=22 May 2014 |website=www.stripes.com |publisher=Stars and Stripes |accessdate=22 May 2014}}</ref> The British [[First Sea Lord]] [[George Zambellas]] said that<ref name="thediplomat1">{{cite web|last1=Stashwick|first1=Steven|title=Road to 350: What Does the US Navy Do Anyway?|url=http://thediplomat.com/2016/11/road-to-350-what-does-the-us-navy-do-anyway/|website=thediplomat.com|publisher=The Diplomat|accessdate=22 November 2016}}</ref> the USN had switched from "outcome-led to resource-led" planning.<ref>{{cite news |url=http://aviationweek.com/defense/opinion-scotland-missile-defense-and-subs |title=Scotland, Missile Defense And Subs |last1=Sweetman |first1=Bill |date=11 August 2014 |website=aviationweek.com |publisher=Penton |accessdate=11 August 2014}}</ref>
+
+One significant change in U.S. policymaking that is having a major effect on naval planning is the [[East Asian foreign policy of the Barack Obama administration|Pivot to East Asia]]. In response, the [[Secretary of the Navy]] [[Ray Mabus]] stated in 2015 that 60 percent of the total U.S. fleet will be deployed to the [[Pacific Ocean|Pacific]] by 2020.<ref>{{cite web|url=http://thediplomat.com/2015/03/us-navy-secretary-we-will-have-over-300-ships-by-2020/|title=US Navy Secretary: We Will Have Over 300 Ships by 2020|author=Franz-Stefan Gady, The Diplomat|work=The Diplomat|accessdate=12 November 2015}}</ref> The Navy's most recent 30-year shipbuilding plan, published in 2016, calls for a future fleet of 350 ships in order to meet the challenges of an increasingly competitive international environment.<ref name="thediplomat1"/> A provision of the 2018 [[National Defense Authorization Act for Fiscal Year 2018|National Defense Authorization Act]] called for expanding the naval fleet to 355 ships "as soon as practicable", but did not establish additional funding nor a timeline.<ref>{{cite web |last1=Larter |first1=David B. |title=Trump just made a 355-ship Navy national policy |url=https://www.defensenews.com/congress/2017/12/14/trump-just-made-355-ships-national-policy/ |website=www.defensenews.com |publisher=Defense News |accessdate=2 November 2018}}</ref>
+
+<gallery mode="packed" heights="200px">
+File:US_Navy_100913-N-4973M-012_Lt._j.g._Craig_Mueller,_from_St._Louis,_Mo.,_and_Lt._j.g._Zach_Decker,_from_Boulder,_Co.,_monitor_the_defense_systems_ab.jpg|U.S. Navy officers aboard the aircraft carrier [[USS Abraham Lincoln (CVN-72)|USS ''Abraham Lincoln'' (CVN-72)]] monitor defense systems during early 2010s [[maritime security operations]] exercises.
+File:USS America (LHA-6) off Pascagoula in 2013.JPG|The [[USS America (LHA-6)|USS ''America'']] [[Amphibious assault ship]], launched in 2012.
+File:US Navy 090210-N-9671T-144 A port security boat patrols the waters near Kuwait Naval Base.jpg|U.S. Navy patrol boat near [[Kuwait Naval Base]] in 2009
+</gallery>
+
+==Organization==
+{{main|Structure of the United States Navy}}
+[[File:US Navy organization.svg|thumb|upright=1.15|Simplified flowchart of U.S. Navy command structure]]
+
+The U.S. Navy falls under the administration of the [[United States Department of the Navy|Department of the Navy]], under civilian leadership of the [[United States Secretary of the Navy|Secretary of the Navy (SECNAV)]]. The most senior naval officer is the [[Chief of Naval Operations|Chief of Naval Operations (CNO)]], a four-star admiral who is immediately under and reports to the Secretary of the Navy. At the same time, the Chief of Naval Operations is one of the [[Joint Chiefs of Staff]], which is the second-highest deliberatory body of the armed forces after the [[United States National Security Council]], although it only plays an advisory role to the President and does not nominally form part of the [[command hierarchy|chain of command]]. The Secretary of the Navy and Chief of Naval Operations are responsible for organizing, recruiting, training, and equipping the Navy so that it is ready for operation under the command of the [[Unified Combatant Command|unified combat command commanders]].
+
+===Operating forces===
+{{main|List of units of the United States Navy}}
+[[File:USN Fleets (2009).png|alt=Areas of responsibility for each of the United States Navy Fleets.|thumb|Areas of responsibility for each of the United States Navy Fleets. [[United States Tenth Fleet|Tenth Fleet]] serves as the numbered fleet for [[U.S. Fleet Cyber Command]], and therefore is not shown.]]
+
+There are nine components in the operating forces of the U.S. Navy: the [[United States Fleet Forces Command]] (formerly United States Atlantic Fleet), [[United States Pacific Fleet]], [[United States Naval Forces Central Command]], [[United States Naval Forces Europe]], [[Naval Network Warfare Command]], [[United States Navy Reserve|Navy Reserve]], [[United States Naval Special Warfare Command]], [[Operational Test and Evaluation Force]], and [[Military Sealift Command]]. Fleet Forces Command controls a number of unique capabilities, including Military Sealift Command, [[Naval Expeditionary Combat Command]], and [[Navy Cyber Forces]].
+
+The United States Navy has seven active numbered fleets&nbsp;– [[United States Second Fleet|Second]], [[United States Third Fleet|Third]], [[United States Fifth Fleet|Fifth]], [[United States Sixth Fleet|Sixth]], [[United States Seventh Fleet|Seventh Fleet]] and [[United States Tenth Fleet|Tenth Fleets]] are each led by a [[Vice admiral (United States)|vice admiral]], and the [[United States Fourth Fleet|Fourth Fleet]] is led by a [[Rear admiral (United States)|rear admiral]]. These seven fleets are further grouped under Fleet Forces Command (the former Atlantic Fleet), Pacific Fleet, Naval Forces Europe-Africa, and Naval Forces Central Command, whose commander also doubles as Commander Fifth Fleet; the first three commands being led by four-star admirals. The [[United States First Fleet]] existed after the Second World War from 1947, but it was redesignated the Third Fleet in early 1973. The [[United States Second Fleet]] was deactivated in September 2011, but reestablished in August 2018 amid heightened tensions with Russia.<ref>{{Cite news|url=https://www.cnn.com/2018/05/04/politics/us-navy-second-fleet-russia-tensions/index.html|title=US Navy re-establishes Second Fleet amid Russia tensions|last=CNN|first=Ryan Browne,|work=CNN|access-date=2018-11-16}}</ref> It is headquartered in Norfolk, Virginia, with responsibility over the East Coast and North Atlantic.<ref>{{Cite news|url=https://www.navy.mil/submit/display.asp?story_id=106837|title=Navy Establishes U.S. 2nd Fleet, Vice Adm. Lewis Assumes Command|last=Affairs|first=This story was written by U.S. Fleet Forces Public|access-date=2018-11-16|language=en}}</ref> In early 2008, the navy reactivated the [[United States Fourth Fleet]] to control operations in the area controlled by Southern Command, which consists of US assets in and around Central and South America.<ref>{{cite news |url=http://www.navy.mil/search/display.asp?story_id=36606 |title=Navy Reestablishes U.S. Fourth Fleet |work=Navy News Service |date=24 April 2008 |last=Gragg |first=Alan, MCS3 |id=NNS080424-13}}</ref>
+
+===Shore establishments===
+[[File:USS Kitty Hawk at Yokosuka.jpg|thumb|{{USS|Kitty Hawk|CV-63}} docks at the U.S. Navy base in [[Yokosuka, Kanagawa|Yokosuka, Japan]].]]
+
+Shore establishments exist to support the mission of the fleet through the use of facilities on land. Among the commands of the shore establishment, {{as of|2011|04|lc=y}}, are the [[Naval Education and Training Command]], the [[Commander, Naval Meteorology and Oceanography Command|Naval Meteorology and Oceanography Command]], the [[Space and Naval Warfare Systems Command]], the [[Naval Facilities Engineering Command]], the [[Naval Supply Systems Command]], the [[Naval Air Systems Command]], the [[Naval Sea Systems Command]], the [[Bureau of Medicine and Surgery]], the [[Bureau of Naval Personnel]], the [[United States Naval Academy]], the [[Naval Safety Center]], the [[Naval Strike and Air Warfare Center]], and the [[United States Naval Observatory]].<ref>{{cite web |url=http://www.navy.mil/navydata/organization/org-shor.asp |title=The shore establishment |publisher=United States Navy |website=Navy Organization |date=28 November 2006 |deadurl=yes |archiveurl=https://web.archive.org/web/20150423070709/http://www.navy.mil/navydata/organization/org-shor.asp |archivedate=23 April 2015 |df=dmy-all }}</ref> Official Navy websites list the [[Office of the Chief of Naval Operations]] and the Chief of Naval Operations as part of the shore establishment, but these two entities effectively sit superior to the other organizations, playing a coordinating role.{{citation needed|date=February 2017}}
+
+===Relationships with other service branches===
+
+====United States Marine Corps====
+[[File:F-18A Hornet VMFA-451 USS Coral Sea 1989.jpeg|thumb|A [[United States Marine Corps|Marine]] [[F/A-18]] from [[VMFA-451]] prepares to launch from {{USS|Coral Sea|CV-43}}]]
+{{main|United States Marine Corps}}
+
+In 1834, the [[United States Marine Corps]] came under the [[Department of the Navy]].<ref>{{cite web |url=http://www.lejeune.usmc.mil/2dfssg/med/files/102.htm |title=Navy and Marine Corps History, Customs, and Courtesies – Fundamentals |website=[[Marine Corps Base Camp Lejeune]] |publisher=[[United States Marine Corps]] |archiveurl=https://web.archive.org/web/20120314062316/http://www.lejeune.usmc.mil/2dfssg/med/files/102.htm |archivedate=14 March 2012}}</ref> Historically, the Navy has had a unique relationship with the USMC, partly because they both specialize in seaborne operations. Together the Navy and Marine Corps form the Department of the Navy and report to the [[United States Secretary of the Navy|Secretary of the Navy]]. However, the Marine Corps is a distinct, separate service branch<ref name=NSA1947sec606>{{cite web |url=http://global.oup.com/us/companion.websites/9780195385168/resources/chapter10/nsa/nsa.pdf |format=PDF |title=National Security Act of 1947 (As amended 3 August 2007), (50 U.S.C. 426) |date=26 July 1947 |at=§606.(9) p. 69}}</ref> with its own uniformed service chief – the Commandant of the Marine Corps, a four-star general.
+
+The Marine Corps depends on the Navy for medical support ([[dentists]], [[Medical doctor|doctors]], [[nurse]]s, medical technicians known as [[Hospital corpsman|corpsmen]]) and religious support ([[chaplains]]). Thus Navy officers and enlisted sailors fulfill these roles. When attached to Marine Corps units deployed to an operational environment they generally wear Marine camouflage uniforms, but otherwise they wear Navy [[dress uniform]]s unless they opt to conform to Marine Corps grooming standards.{{citation needed|date=February 2017}}
+
+In the operational environment, as an expeditionary force specializing in amphibious operations, Marines often embark on Navy ships to conduct operations from beyond territorial waters. Marine units deploying as part of a Marine Air-Ground Task Force (MAGTF) operate under the command of the existing Marine chain of command. Although Marine units routinely operate from amphibious assault ships, the relationship has evolved over the years much as the Commander of the Carrier Air Group/Wing (CAG) does not work for the carrier commanding officer, but coordinates with the ship's CO and staff. Some Marine aviation squadrons, usually fixed-wing assigned to carrier air wings train and operate alongside Navy squadrons; they fly similar missions and often fly sorties together under the cognizance of the CAG. Aviation is where the Navy and Marines share the most common ground, since aircrews are guided in their use of aircraft by standard procedures outlined in series of publications known as [[NATOPS]] manuals.
+
+====United States Coast Guard====
+[[File:Flickr - Official U.S. Navy Imagery - U.S. Coast Guard helicopters land aboard USS Wasp..jpg|thumb|right|A U.S. Coast Guard helicopter prepares to land on the flight deck of the amphibious assault ship {{USS|Wasp|LHD-1}}.]]
+{{main|United States Coast Guard}}
+
+The [[United States Coast Guard]], in its peacetime role with the [[Department of Homeland Security]], fulfills its law enforcement and rescue role in the maritime environment. It provides [[Law Enforcement Detachments]] (LEDETs) to Navy vessels, where they perform arrests and other law enforcement duties during naval boarding and interdiction missions. In times of war, the Coast Guard operates as a service in the Navy.<ref>{{cite web |url=https://www.law.cornell.edu/uscode/text/14/3- |website=[[Legal Information Institute]] |publisher=[[Cornell University Law School]] |title=14 USC 3. Relationship to Navy Department |accessdate=28 July 2013}}</ref> At other times, Coast Guard [[Port Security Unit]]s are sent overseas to guard the security of ports and other assets. The Coast Guard also jointly staffs the Navy's naval coastal warfare groups and squadrons (the latter of which were known as harbor defense commands until late-2004), which oversee defense efforts in foreign littoral combat and inshore areas.
+
+==Personnel==
+{{main|Personnel of the United States Navy}}
+[[File:US Navy SEALs at Zhawar Kili cave entrance.jpg|thumb|[[United States Navy SEALs|Navy SEALs]] at one of the entrances [[Zhawar Kili]] cave complex.]]
+
+The United States Navy has over 400,000 personnel, approximately a quarter of whom are in ready reserve. Of those on active duty, more than eighty percent are [[enlisted]] sailors, and around fifteen percent are [[commissioned officer]]s; the rest are [[midshipmen]] of the [[United States Naval Academy]] and midshipmen of the [[Naval Reserve Officer Training Corps]] at over 180 universities around the country and officer candidates at the Navy's [[Officer Candidate School (U.S. Navy)|Officer Candidate School]].<ref name="status" />
+
+Enlisted sailors complete basic military training at [[Recruit Training Command, Great Lakes, Illinois|boot camp]] and then are sent to complete training for their individual [[List of United States Navy ratings|careers]].<ref>{{cite web|url = http://www.military.com/Recruiting/Content/0,13898,rec_step10_training,,00.html|title = Training After Boot Camp|work = 10 Steps to Joining the Military|publisher = Military.com|deadurl = yes|archiveurl = https://web.archive.org/web/20160818221303/http://www.military.com/Recruiting/Content/0,13898,rec_step10_training,,00.html|archivedate = 18 August 2016|access-date = 16 September 2017|df = dmy-all}}</ref>
+
+Sailors prove they have mastered skills and deserve responsibilities by completing Personnel Qualification Standards (PQS) tasks and examinations. Among the most important is the "warfare qualification", which denotes a journeyman level of capability in Surface Warfare, Aviation Warfare, Information Dominance Warfare, Naval Aircrew, Special Warfare, Seabee Warfare, Submarine Warfare or Expeditionary Warfare. Many qualifications are denoted on a sailor's uniform with [[Badges of the United States Navy|U.S. Navy badges and insignia]].
+
+===Uniforms===
+{{See also|Uniforms of the United States Navy}}
+
+The uniforms of the U.S. Navy have evolved gradually since the first uniform regulations for [[officer (military)|officers]] were issued in 1802 on the formation of the Navy Department. The predominant colors of U.S. Navy uniforms are [[navy blue]] and [[white]]. U.S. Navy uniforms were based on [[Royal Navy]] uniforms of the time, and have tended to follow that template.<ref>{{cite web|title=History of US Navy Uniforms, 1776–1981|url=https://www.history.navy.mil/browse-by-topic/heritage/uniforms-and-personal-equipment/history-of-us-navy-uniforms-1776-1981.html|website=Naval History and Heritage Command|publisher=US Navy|accessdate=22 November 2016}}</ref>
+
+====Commissioned officers====
+{{See also|United States Navy officer rank insignia|Ranks and insignia of NATO navies officers}}
+
+The commissioned officer ranks of the U.S. Navy are divided into three categories: [[junior officer]]s, [[Military rank#Field or senior officers|senior officers]], and [[flag officer]]s. Junior officers are those officers in pay grades O-1 to O-4, while senior officers are those in pay grades O-5 and O-6, and flag officers are those in pay grades of O-7 and above.
+
+{{Ranks and Insignia of United States Navy}}
+
+Navy officers serve either as a [[line officer]] or as a [[List of United States Navy staff corps|staff corps officer]].  Line officers wear an embroidered gold star above their rank of the naval service dress uniform while staff corps officers and commissioned warrant officers wear unique specialty devices.<ref>[http://www.public.navy.mil/bupers-npc/support/uniforms/uniformregulations/chapter4/Pages/4102.aspx U.S. Navy Uniform Regulations, 4102 - Sleeve Designs for Line and Staff Corps], updated 28 January 11, accessed 22 January 12</ref><ref>[http://www.public.navy.mil/bupers-npc/officer/communitymanagers/ldo_cwo/Documents/LDOCWODESIGNATORCODES.doc U.S. Navy Personnel Command, Officer, Community Managers, LDO/CWO OCM, References, LDO/CWO Designators] {{Webarchive|url=https://web.archive.org/web/20130927085427/http://www.public.navy.mil/bupers-npc/officer/communitymanagers/ldo_cwo/Documents/LDOCWODESIGNATORCODES.doc |date=2013-09-27 }}, rout page updated 4 October 11, accessed 22 January 12</ref>
+
+{| style="text-align:center; border:1px solid #8888aa; background-color:white; padding:5px; font-size:95%; margin: 0px 8px 8px 0px;"
+|-
+! Type !! [[Line officer]] !! [[Navy Medical Corps|Medical Corps]] !! [[Navy Dental Corps|Dental Corps]] !! [[Navy Nurse Corps|Nurse Corps]] !! [[Navy Medical Service Corps|Medical Service Corps]] !! [[Judge Advocate General's Corps, U.S. Navy|Judge Advocate General's Corps]]
+|-
+| '''Insignia'''
+| [[File:USN Line Officer.png|60px]]
+| [[File:USN Med-corp.gif|40px]]
+| [[File:USN Dental.gif|40px]]
+| [[File:USN Nurse.gif|40px]]
+| [[File:USN Msc.gif|40px]]
+| [[File:USN Jag-corp.gif|60px]]
+|-
+| '''[[List of Naval Officer Designators|Designator]]'''<sup>1</sup>||1XXX||210X||220X||290X||230X||250X
+|-
+! [[Navy Chaplain Corps|Chaplain Corps]]<br />''[[Christianity|(Christian Faith)]]'' !! [[Navy Chaplain Corps|Chaplain Corps]]<br />''[[Jewish|(Jewish Faith)]]'' !! [[Navy Chaplain Corps|Chaplain Corps]]<br />''[[Muslim|(Muslim Faith)]]'' !! [[Navy Chaplain Corps|Chaplain Corps]]<br />''[[Buddhist|(Buddhist Faith)]]'' !! [[Navy Supply Corps|Supply Corps]] !! [[Civil Engineer Corps]] !! [[Judge Advocate General's Corps, U.S. Navy|Law Community]]<br />''[[Limited duty officer|(Limited Duty Officer)]]''
+|-
+| [[File:USN Chapchr.gif|50px]]
+| [[File:USN Chap-jew.gif|40px]]
+| [[File:USN Chap-mus.gif|50px]]
+| [[File:USN - Chaplian Insignia - Buddhist 2.jpg|60px]]
+| [[File:United States Navy Supply Corps insignia.gif|60px]]
+| [[File:USN Ce-corp.gif|70px]]
+| [[File:USN Law Community.png|60px]]
+|-
+|410X||410X||410X||410X||310X||510X||655X
+|-
+|colspan=7|
+|}
+
+=====Warrant officers=====
+[[File:USN Chief Warrant Officer Specialty Devices.png|450px|thumb|left|U.S. Navy warrant officer specialty insignias]]
+{| class="wikitable" style="margin-left: border: none; width:40%; text-align:center; cellpadding: 2; cellspacing: 0;"
+|-
+! Pay grade!!W-1!!W-2!!W-3!!W-4!!W-5
+|-
+!Insignia
+| [[File:US Navy WO1 insignia.svg|40px]]
+| [[File:US Navy CW2 insignia.svg|40px]]
+| [[File:US Navy CW3 insignia.svg|40px]]
+| [[File:US Navy CW4 insignia.svg|40px]]
+| [[File:US Navy CW5 insignia.svg|40px]]
+|-
+!Title
+| [[Warrant Officer (United States)|Warrant Officer One]]
+| [[Warrant Officer (United States)|Chief Warrant Officer Two]]
+| [[Warrant Officer (United States)|Chief Warrant Officer Three]]
+| [[Warrant Officer (United States)|Chief Warrant Officer Four]]
+| [[Warrant Officer (United States)|Chief Warrant Officer Five]]
+|-
+!Abbreviation
+|WO-1||CWO-2||CWO-3||CWO-4||CWO-5
+|}
+
+====Enlisted====
+{{See also|List of United States Navy enlisted rates|Ranks and insignia of NATO navies enlisted}}
+
+Sailors in pay grades E-1 through E-3 are considered to be in apprenticeships.<ref name="NAVYDAT2">{{cite web |title= Group rate marks for pay grades E-1 through E-3 |work = |publisher =U. S. Navy |url =http://www.navy.mil/navydata/ranks/rates/rates2.html |accessdate = 25 January 2007 }}</ref> They are divided into five definable groups, with colored group rate marks designating the group to which they belong: Seaman, Fireman, Airman, Constructionman, and Hospitalman.  '''E-4''' to '''E-6''' are [[non-commissioned officer]]s (NCOs), and are specifically called [[Petty officer]]s in the Navy.<ref name="BUPERS">{{cite book|title=United States Navy Uniform Regulations |publisher=BUPERS, U. S. Navy |url=http://buperscd.technology.navy.mil/bup_updt/508/unireg/chapter4/chapter_4sec2pt2.htm |accessdate=26 January 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20061206095348/http://buperscd.technology.navy.mil/bup_updt/508/unireg/chapter4/chapter_4sec2pt2.htm |archivedate=6 December 2006 }}</ref> Petty Officers perform not only the duties of their specific career field but also serve as leaders to junior enlisted personnel.  E-7 to E-9 are still considered Petty Officers, but are considered a separate community within the Navy. They have separate berthing and dining facilities (where feasible), wear separate uniforms, and perform separate duties.
+
+After attaining the rate of Master Chief Petty Officer, a service member may choose to further his or her career by becoming a [[Command Master Chief Petty Officer]] (CMC). A CMC is considered to be the senior-most enlisted service member within a command, and is the special assistant to the [[Commanding Officer]] in all matters pertaining to the health, welfare, job satisfaction, morale, utilization, advancement and training of the command's enlisted personnel.<ref name="MILCMDMC">{{cite web
+ |title = Navy Enlisted Advancement System – Master Chief
+ |publisher = Navy Professional Development Center, Military.com
+ |url =http://www.military.com/MilitaryCareers/Content/0,14556,Promotions_Navy_E9,00.html
+ |accessdate = 28 January 2007}}</ref><ref name="IPUBCMC">{{cite web
+ |title=Senior And Master Chiefs As Principal Enlisted Advisor
+ |work=Military Requirements for Senior and Master Chief Petty Officer Chief
+ |publisher=Integrated Publishing
+ |url=http://tpub.com/content/advancement/14148/css/14148_26.htm
+ |accessdate=28 January 2007
+ |deadurl=yes
+ |archiveurl=https://web.archive.org/web/20070929102806/http://tpub.com/content/advancement/14148/css/14148_26.htm
+ |archivedate=29 September 2007
+ |df=
+}}</ref> CMCs can be Command level (within a single unit, such as a ship or shore station), Fleet level (squadrons consisting of multiple operational units, headed by a flag officer or commodore), or Force level (consisting of a separate community within the Navy, such as Subsurface, Air, Reserves).<ref name="OPNAV1306">{{cite web
+ |title =Chief of Naval Operations OPNAV Instructions 1306.2D
+ |publisher =Navydata, U. S. Navy
+ |url =http://www.navy.mil/navydata/mcpon/cmcinst.html
+ |accessdate = 28 January 2007}}</ref>
+
+CMC insignia are similar to the insignia for Master Chief, except that [[List of United States Navy ratings|the rating symbol]] is replaced by an inverted five-point star, reflecting a change in their rating from their previous rating (i.e., MMCM) to CMDCM. The stars for Command Master Chief are silver, while stars for Fleet or Force Master Chief are gold. Additionally, CMCs wear a badge, worn on their left breast pocket, denoting their title (Command/Fleet/Force).<ref name="IPUBCMC"/><ref name="BUPERSCPO">{{cite web|title=United States Navy Uniform Regulations CPO Rating |publisher=BUPERS, U. S. Navy |url=http://buperscd.technology.navy.mil/bup_updt/508/unireg/chapter4/chapter_4sec2pt1.htm |accessdate=26 January 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20061206095333/http://buperscd.technology.navy.mil/bup_updt/508/unireg/chapter4/chapter_4sec2pt1.htm |archivedate=6 December 2006 }}</ref>
+
+{{Enlisted Ranks and Insignia of the United States Navy}}
+
+====Badges of the United States Navy====
+{{See also|Badges of the United States Navy}}
+
+'''Insignia and badges of the United States Navy''' are military "badges" issued by the [[United States Department of the Navy]] to naval service members who achieve certain qualifications and accomplishments while serving on both active and reserve duty in the United States Navy.  Most naval aviation insignia are also permitted for wear on uniforms of the [[Badges of the United States Marine Corps|United States Marine Corps]].
+
+As described in Chapter 5 of U.S. Navy Uniform Regulations,<ref name="navy reg">{{cite web
+  |url=http://www.public.navy.mil/BUPERS-NPC/SUPPORT/UNIFORMS/UNIFORMREGULATIONS/Pages/default.aspx
+  |title=United States Navy Uniform Regulations
+  |publisher=United States Navy
+  |accessdate=16 October 2009}}</ref> "badges" are categorized as ''breast insignia'' (usually worn immediately above and below ribbons) and ''identification badges'' (usually worn at breast pocket level).<ref name="chapter 5">{{cite web
+  |url=http://www.public.navy.mil/bupers-npc/support/uniforms/uniformregulations/chapter5/Pages/default.aspx
+  |title=Uniform Regulations, Chapter 5, Identification Badges/Awards/Insignia
+  |publisher=United States Navy
+  |accessdate=2 April 2007}}</ref> Breast insignia are further divided between ''command'' and ''warfare and other qualification''.<ref name="section 2">{{cite web
+  |url=http://www.public.navy.mil/bupers-npc/support/uniforms/uniformregulations/chapter5/Pages/5201.aspx
+  |title=Uniform Regulations, Chapter 5, Section 2, Breast Insignia
+  |publisher=United States Navy
+  |accessdate=18 November 2007}}</ref>
+
+Insignia come in the form of metal "pin-on devices" worn on formal uniforms and embroidered "tape strips" worn on work uniforms. For the purpose of this article, the general term "insignia" shall be used to describe both, as it is done in Navy Uniform Regulations. The term "badge", although used ambiguously in other military branches and in informal speak to describe any pin, patch, or tab, is exclusive to ''identification badges''<ref name="article 5201.2">{{cite web
+  |url=http://www.public.navy.mil/bupers-npc/support/uniforms/uniformregulations/chapter5/Pages/5201.aspx
+  |title=Uniform Regulations, Chapter 5, Section 2, Article 5201.2, Warfare and Other Qualifications
+  |publisher=United States Navy
+  |accessdate=18 November 2007}}</ref> and authorized ''[[Distinguished Shot Badge|marksmanship awards]]''<ref name="article 5310">{{cite web
+  |url=http://www.public.navy.mil/BUPERS-NPC/SUPPORT/UNIFORMS/UNIFORMREGULATIONS/CHAPTER5/Pages/5301.aspx
+  |title=Uniform Regulations, Chapter 5, Section 3, Article 5310, Marksmanship Awards (Badges)
+  |publisher=United States Navy
+  |accessdate=18 November 2007}}</ref> according to the language in Navy Uniform Regulations, Chapter 5.  Below are just a few of the many badges maintained by the Navy.  The rest can be seen in the article cited at the top of this section:
+
+<gallery class="center">
+File:Naval Aviator Badge.jpg|Naval Aviator Badge
+File:USN - Submarine Officer and Enlisted.jpg|Submarine Officer and Enlisted
+File:Surface Warfare Officer Insignia.png|Surface Warfare Officer Insignia
+</gallery>
+
+==Bases==
+{{main|List of United States Navy installations}}
+[[File:United States Navy bases.svg|thumb|upright=1.35|Map of Navy bases in the United States]]
+
+The size, complexity, and international presence of the United States Navy requires a large number of navy installations to support its operations. While the majority of bases are located inside the United States itself, the navy maintains a significant number of facilities abroad, either in U.S.-controlled territories or in foreign countries under a [[Status of Forces Agreement]] (SOFA).
+
+===Eastern United States===
+The second largest concentration of installations is at [[Hampton Roads]], [[Virginia]], where the navy occupies over {{convert|36000|acres}} of land. Located at Hampton Roads are [[Naval Station Norfolk]], homeport of the Atlantic Fleet; [[Naval Air Station Oceana]], a [[Master Jet Base]]; [[Naval Amphibious Base Little Creek]]; and [[Training Support Center Hampton Roads]] as well as a number of Navy and commercial shipyards that service navy vessels. The Aegis Training and Readiness Center is located at the [[Naval Support Activity South Potomac]] in [[Dahlgren, Virginia]]. Maryland is home to [[Naval Air Station Patuxent River|NAS Patuxent River]], which houses the Navy's [[United States Naval Test Pilot School|Test Pilot School]]. Also located in Maryland is the [[United States Naval Academy]], situated in [[Annapolis]]. [[Naval Station Newport|NS Newport]] in [[Newport, Rhode Island]] is home to many schools and tenant commands, including the [[Officer Candidate School]], [[Naval Undersea Warfare Center]], and more, and also maintains inactive ships.{{clarify|date=December 2017}}
+
+There is also a naval base in Charleston, South Carolina. This is home to the Nuclear A-School, and the Nuclear Field Power school, and one of two nuclear 'Prototype' Schools. The state of Florida is the location of three major bases, [[Naval Station Mayport|NS Mayport]], the Navy's fourth largest, in [[Jacksonville, Florida]]; [[Naval Air Station Jacksonville|NAS Jacksonville]], a Master Air Anti-submarine Warfare base; and [[Naval Air Station Pensacola|NAS Pensacola]]; home of the [[Naval Education and Training Command]], the Naval Air Technical Training Center that provides specialty training for enlisted aviation personnel and is the primary flight training base for Navy and Marine Corps [[Naval Flight Officer]]s and enlisted [[Naval Aircrewman]]. There is also [[Naval Support Activity Panama City|NSA Panama City]], Florida which is home to the Navy Diving and Salvage Training Center.
+
+The main U.S. Navy [[submarine base]]s on the east coast are located in [[Naval Submarine Base New London]] in [[Groton, Connecticut]] and [[Naval Submarine Base Kings Bay|NSB Kings Bay]] in [[Kings Bay, Georgia]]. The [[Portsmouth Naval Shipyard]] near [[Portsmouth, New Hampshire]],<ref>{{cite web|url=http://www.militaryinstallations.dod.mil/pls/psgprod/f?p=132:CONTENT:0::NO::P4_INST_ID,P4_INST_TYPE:6055,INSTALLATION |archive-url=https://web.archive.org/web/20160122174351/http://www.militaryinstallations.dod.mil/pls/psgprod/f?p=132%3ACONTENT%3A0%3A%3ANO%3A%3AP4_INST_ID%2CP4_INST_TYPE%3A6055%2CINSTALLATION |dead-url=yes |archive-date=22 January 2016 |title=MilitaryINSTALLATIONS – U.S. Department of Defense |author=scot.greber |publisher= |df= }}</ref> which repairs naval submarines.<ref name="status"/> [[Naval Station Great Lakes|NS Great Lakes]], north of [[Chicago, Illinois]] is the home of the Navy's [[United States Navy Recruit Training|boot camp]] for enlisted sailors.
+
+The [[Washington Navy Yard]] in [[Washington, DC]] is the Navy's oldest shore establishment and serves as a ceremonial and administrative center for the U.S. Navy, home to the [[Chief of Naval Operations]], and is headquarters for numerous commands.
+
+===Western United States and Hawaii===
+[[File:US Navy SEALs SEAL jumps over side boat.jpg|thumb|[[Underwater Demolition Team]] members using the casting technique from a speeding boat.]]
+[[File:US Navy 120209-N-XD935-302 Mass Communication Specialist 1st Class Shane Tuck, assigned to the Expeditionary Combat Camera Underwater Photo Team, c.jpg|thumb|right|Combat Camera Underwater Photo Team – A US Navy diver during [[underwater photography]] training off the coast of Guantanamo Bay.]]
+
+The navy's largest complex is [[Naval Air Weapons Station China Lake]], California, which covers {{convert|1.1|million acres}} of land, or approximately 1/3 of the United States Navy's total land holdings.<ref name="status"/>
+
+[[Naval Base San Diego]], California, is the main homeport of the Pacific Fleet (although its headquarters is located in [[Pearl Harbor]], Hawaii). [[NAS North Island]] is located on the north side of [[Coronado, California|Coronado]], and is home to Headquarters for Naval Air Forces and Naval Air Force Pacific, the bulk of the Pacific Fleet's helicopter squadrons, and part of the West Coast [[aircraft carrier]] fleet. [[Naval Amphibious Base Coronado|NAB Coronado]] is located on the southern end of the Coronado Island and is home to the navy's west coast SEAL teams and special boat units. NAB Coronado is also home to the [[Naval Special Warfare Center]], the primary training center for SEALs.
+
+The other major collection of naval bases on the west coast is in [[Puget Sound]], [[Washington (U.S. state)|Washington]]. Among them, [[Naval Station Everett|NS Everett]] is one of the newer bases and the navy states that it is its most modern facility.<ref>{{cite web |url=https://www.everett.navy.mil/index.asp |website=Naval Station Everett |title=Naval Station Everett Official Site |archiveurl=https://web.archive.org/web/20050909071923/http://www.everett.navy.mil/index.asp |archivedate=9 September 2005}}</ref>
+
+[[NAS Fallon]], Nevada serves as the primary training ground for navy strike aircrews, and is home to the [[Naval Strike Air Warfare Center]]. [[Master Jet Base]]s are also located at [[NAS Lemoore]], California and [[NAS Whidbey Island]], Washington, while the carrier-based airborne early warning aircraft community and major air test activities are located at [[NAS Point Mugu]], California. The naval presence in Hawaii is centered on [[Naval Station Pearl Harbor|NS Pearl Harbor]], which hosts the headquarters of the Pacific Fleet and many of its subordinate commands.
+
+===United States territories===
+[[File:US Navy 030527-N-0000X-001 The aircraft carrier USS Carl Vinson (CVN 70) pier side in Apra Harbor, Guam.jpg|thumb|{{USS|Carl Vinson|CVN-70}} pier side in [[Apra Harbor]], [[Guam]].]]
+
+[[Guam#Villages and military bases|Guam]], an island strategically located in the Western Pacific Ocean, maintains a sizable U.S. Navy presence, including [[Naval Base Guam|NB Guam]]. The westernmost U.S. territory, it contains a natural deep water harbor capable of harboring aircraft carriers in emergencies.<ref>{{cite web |url=http://www.globalsecurity.org/military/facility/guam.htm |title=Guam |website=GlobalSecurity |accessdate=19 May 2007}}</ref> Its naval air station was deactivated<ref>{{cite web |url=http://www.globalsecurity.org/military/facility/agana.htm |title=Naval Air Station, Agana [Tiyan] |website=GlobalSecurity |accessdate=19 February 2010}}</ref> in 1995 and its flight activities transferred to nearby [[Andersen Air Force Base]].
+
+[[Puerto Rico]] in the Caribbean formerly housed [[Roosevelt Roads Naval Station|NS Roosevelt Roads]], which was shut down in 2004 shortly after the controversial closure of the live ordnance training area on nearby [[Vieques, Puerto Rico|Vieques Island]].<ref name="status"/>
+
+===Foreign countries===
+The largest overseas base is the [[United States Fleet Activities Yokosuka]], Japan,<ref>{{cite web |url=http://www.globalsecurity.org/military/facility/yokosuka.htm |title=Yokosuka, Japan 35°17'N 139°40'E |website=GlobalSecurity |accessdate=19 April 2006}}</ref> which serves as the home port for the navy's largest forward-deployed fleet and is a significant base of operations in the Western Pacific.
+
+European operations revolve around facilities in Italy ([[Naval Air Station Sigonella|NAS Sigonella]] and [[Naval Computer and Telecommunications Station Naples, Italy|Naval Computer and Telecommunications Station Naples]]) with [[Naval Support Activity Naples|NSA Naples]] as the homeport for the [[United States Sixth Fleet|Sixth Fleet]] and Command Naval Region Europe, Africa, Southwest Asia (CNREURAFSWA), and additional facilities in nearby [[Gaeta]]. There is also [[Naval Station Rota, Spain|NS Rota]] in [[Spain]] and [[Crete Naval Base|NSA Souda Bay]] in [[Greece]].
+
+In the Middle East, naval facilities are located almost exclusively in countries bordering the [[Persian Gulf]], with [[Naval Support Activity Bahrain|NSA Bahrain]] serving as the headquarters of [[U.S. Naval Forces Central Command]] and [[U.S. Fifth Fleet]].
+
+[[Guantanamo Bay Naval Base|NS Guantanamo Bay]] in Cuba is the oldest overseas facility and has become known in recent years as the location of a [[Guantanamo Bay detention camp|detention camp]] for suspected [[al-Qaeda]] operatives.<ref name="ForeignFacilities">{{cite web|url=http://militarybases.com/navy/ |title=Naval facilities outside the US |publisher=United States Navy |accessdate=20 June 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150518160349/http://militarybases.com/navy/ |archivedate=18 May 2015 }}</ref>
+
+==Equipment==
+{{main|Equipment of the United States Navy}}
+
+{{As of|2018}}, the navy operates over 460 ships, including vessels operated by the Military Sealift Command (MSC) crewed by a combination of civilian contractors and a small number of uniformed Naval personnel, 3,650+ aircraft, 50,000 non-combat vehicles and owns 75,200 buildings on {{convert|3300000|acre|km2}}.
+
+===Ships===
+{{main|List of United States Navy ships|List of current ships of the United States Navy}}
+{{See also|List of currently active United States military watercraft|United States Navy ships|United States ship naming conventions}}
+
+The names of commissioned ships of the U.S. Navy are prefixed with the letters "USS", designating "United States Ship".<ref>{{cite web |url=http://www.history.navy.mil/browse-by-topic/heritage/customs-and-traditions/ship-naming.html |title=Ship Naming in the United States Navy |publisher=United States Navy |website=[[Naval History & Heritage Command]] |accessdate=20 June 2015}}</ref> Non-commissioned, civilian-manned vessels of the navy have names that begin with "USNS", standing for "United States Naval Ship" The names of ships are officially selected by the secretary of the navy, often to honor important people or places.<ref>O'Rourke, Ronald. (2013). [https://fas.org/sgp/crs/weapons/RS22478.pdf Navy Ship Names: Background For Congress.] Washington, D.C.: [[Congressional Research Service]].</ref> Additionally, each ship is given a letter-based [[hull classification symbol]] (for example, CVN or DDG) to indicate the vessel's type and number. All ships in the navy inventory are placed in the [[Naval Vessel Register]], which is part of "the Navy List" (required by article 29 of the United Nations Convention on the Law of the Sea).{{dubious |date=July 2013}} The register tracks data such as the current status of a ship, the date of its commissioning, and the date of its decommissioning. Vessels that are removed from the register prior to disposal are said to be ''stricken'' from the register. The navy also maintains a [[United States Navy reserve fleets|reserve fleet]] of inactive vessels that are maintained for reactivation in times of need.
+
+The U.S. Navy was one of the first to install [[nuclear reactor]]s aboard naval vessels;<ref>{{cite web |url=http://www.globalsecurity.org/military/systems/ship/cvn-65.htm |title=CVN-65 Enterprise |website=GlobalSecurity |accessdate=7 March 2007}}</ref> today, [[Nuclear power|nuclear energy]] powers all active U.S. aircraft carriers and [[submarine]]s. In the case of the {{sclass-|Nimitz|aircraft carrier|0}} carrier, two [[United States Naval reactor|naval reactors]] give the ship almost unlimited range and provide enough electrical energy to power a city of 100,000 people.<ref>{{cite web |url=http://www.globalsecurity.org/military/systems/ship/cvn-68.htm |title=CVN-68 Nimitz Class |website=GlobalSecurity |accessdate=8 April 2006}}</ref> The U.S. Navy previously operated [[Nuclear powered cruisers of the United States Navy|nuclear-powered cruisers]], but all have been decommissioned.
+
+The U.S. Navy had identified a need for 313 combat ships in early 2010s, but under its plans at the time could only afford 232 to 243.<ref>{{cite web |url=http://www.defensenews.com/story.php?i=4366292&c=FEA&s=INT |archive-url=https://wayback.archive-it.org/all/20170525032325/https://www.defensenews.com/error-404 |dead-url=yes |archive-date=25 May 2017 |title=Vice Adm. Barry McCullough |website=Defense News |df=dmy-all }}</ref> In March 2014, the Navy started counting self-deployable support ships such as minesweepers, surveillance craft, and tugs in the "battle fleet" in order to reach a count of 272 as of October 2016,<ref>[http://www.nvr.navy.mil/NVRSHIPS/FLEETSIZE.HTML Fleet Size] US Navy Retrieved 17 October 2016</ref><ref>{{cite web |url=http://www.defensenews.com/article/20140309/DEFREG02/303090012/US-Navy-Budget-Plan-Major-Questions-Abound |archive-url=http://webarchive.loc.gov/all/20140309211717/http://www.defensenews.com/article/20140309/DEFREG02/303090012/US-Navy-Budget-Plan-Major-Questions-Abound |dead-url=yes |archive-date=9 March 2014 |title=US Navy Budget Plan: Major Questions Abound |last1=CAVAS |first1=CHRISTOPHER P. |date=9 March 2014 |website= defensenews.com |publisher=Gannett Government Media |accessdate=9 March 2014}}</ref> and it includes ships that have been put in "shrink wrap".<ref>{{cite web |url=http://breakingdefense.com/2014/03/outrage-on-capitol-hill-as-navy-changes-ship-counting-rules/ |title= Outrage on Capitol Hill As Navy Changes Ship-Counting Rules |last1=Freedberg Jr. |first1=Sydney J. |date=11 March 2014 |website=breakingdefense.com |publisher=Breaking Media, Inc. |accessdate=11 March 2014}}</ref>
+
+====Aircraft carriers====
+[[File:USS Nimitz in Victoria Canada 036.jpg|thumb|{{USS|Nimitz|CVN-68}}, a {{sclass-|Nimitz|aircraft carrier}}.]]
+{{main|List of aircraft carriers of the United States Navy}}
+
+An [[aircraft carrier]] is typically deployed along with a host of additional vessels, forming a [[carrier strike group]]. The supporting ships, which usually include three or four [[Aegis combat system|Aegis]]-equipped cruisers and destroyers, a frigate, and two attack submarines, are tasked with protecting the carrier from air, missile, sea, and undersea threats as well as providing additional strike capabilities themselves. Ready logistics support for the group is provided by a combined ammunition, oiler, and supply ship. Modern carriers are [[United States ship naming conventions|named]] after American admirals and politicians, usually presidents.
+
+The Navy has a statutory requirement for a minimum of 11 aircraft carriers.<ref>{{cite news |url=https://www.reuters.com/article/idCNN0615186020100507?rpc=44 |title=US Navy to Gates: Yes, we need 11 aircraft carriers |work=[[Reuters]] |date=6 May 2010 |last=Wolf |first=Jim}}</ref> Currently there are 10 that are deployable and one, the {{USS|Gerald R. Ford|CVN-78}}, is currently undergoing extensive systems and technologies testing until around 2021.<ref name="USNIdeploy">{{cite web |first=Sam |last=LaGrone |title=Delay in Aircraft Carrier Ford Testing Could Compress Workups for First Deployment |url=https://news.usni.org/2017/01/18/delay-in-aircraft-carrier-ford-testing-could-compress-workups-for-first-deployment |work=[[United States Naval Institute|USNI News]] |date=18 January 2017 |accessdate=8 June 2017 |deadurl=no |archiveurl=https://web.archive.org/web/20170218122842/https://news.usni.org/2017/01/18/delay-in-aircraft-carrier-ford-testing-could-compress-workups-for-first-deployment |archivedate=18 February 2017 |df=dmy-all }}</ref>
+
+====Amphibious warfare vessels====
+[[File:USS Bataan (LHD-5);10080504.jpg|thumb|{{USS|Bataan|LHD-5}}, a {{sclass-|Wasp|amphibious assault ship}}.]]
+[[File:LPD-17 Class.jpg|thumb|{{USS|San Antonio|LPD-17}}, a {{sclass-|San Antonio|amphibious transport dock}}.]]
+{{main|List of United States Navy amphibious warfare ships}}
+
+[[Amphibious assault ship]]s are the centerpieces of US amphibious warfare and fulfill the same power projection role as aircraft carriers except that their striking force centers on land forces instead of aircraft. They deliver, command, coordinate, and fully support all elements of a 2,200-strong [[Marine Expeditionary Unit]] in an amphibious assault using both air and amphibious vehicles. Resembling small aircraft carriers, amphibious assault ships are capable of [[V/STOL]], [[STOVL]], [[VTOL]], tiltrotor, and rotary wing aircraft operations. They also contain a [[well deck]] to support the use of [[Landing Craft Air Cushion]] (LCAC) and other amphibious assault watercraft. Recently, amphibious assault ships have begun to be deployed as the core of an [[expeditionary strike group]], which usually consists of an additional [[amphibious transport dock]] and [[dock landing ship]] for amphibious warfare and an Aegis-equipped cruiser and destroyer, frigate, and attack submarine for group defense. Amphibious assault ships are typically named after World War II aircraft carriers.
+
+[[Amphibious transport docks]] are warships that embark, transport, and land Marines, supplies, and equipment in a supporting role during amphibious warfare missions. With a landing platform, amphibious transport docks also have the capability to serve as secondary aviation support for an expeditionary group. All amphibious transport docks can operate helicopters, LCACs, and other conventional amphibious vehicles while the newer ''San Antonio'' class of ships has been explicitly designed to operate all three elements of the Marines' "mobility triad": [[Expeditionary Fighting Vehicle]]s (EFVs), the [[V-22 Osprey]] tiltrotor aircraft, and LCACs. Amphibious transport docks are typically named after U.S. cities.
+
+The [[dock landing ship]] is a medium amphibious transport that is designed specifically to support and operate LCACs, though it is able to operate other amphibious assault vehicles in the United States inventory as well. Dock landing ships are normally deployed as a component of an expeditionary strike group's amphibious assault contingent, operating as a secondary launch platform for LCACs. All dock landing ships are named after cities or important places in U.S. and U.S. Naval history.
+
+====Cruisers====
+{{main|List of cruisers of the United States Navy}}
+[[File:US Navy 030903-N-5024R-003 USS Port Royal (DDG 73) departed on deployment.jpg|thumb|{{USS|Port Royal|CG-73}}, a {{sclass-|Ticonderoga|cruiser}}.]]
+
+[[Cruiser]]s are large surface combat vessels that conduct anti-air/anti-missile warfare, surface warfare, anti-submarine warfare, and strike operations independently or as members of a larger task force. Modern guided missile cruisers were developed out of a need to counter the [[anti-ship missile]] threat facing the United States Navy. This led to the development of the [[AN/SPY-1]] phased array radar and the [[RIM-67 Standard|Standard missile]] with the [[Aegis combat system]] coordinating the two. {{sclass-|Ticonderoga|cruiser|2}}s were the first to be equipped with Aegis and were put to use primarily as anti-air and anti-missile defense in a battle force protection role. Later developments of [[vertical launch system]]s and the [[BGM-109 Tomahawk|Tomahawk missile]] gave cruisers additional long-range land and sea strike capability, making them capable of both offensive and defensive battle operations. The ''Ticonderoga'' class is the only active class of cruiser. All cruisers in this class are named after battles.
+
+====Destroyers====
+{{main|List of destroyers of the United States Navy}}
+[[File:Future USS Zumwalt's first underway at sea.jpg|thumb|{{USS|Zumwalt|DDG-1000}}, a [[Zumwalt-class destroyer|''Zumwalt'' -class]] [[stealth ship|stealth]] [[guided missile destroyer]].]]
+
+[[Destroyers]] are multi-mission medium surface ships capable of sustained performance in anti-air, anti-submarine, anti-ship, and offensive strike operations. Like cruisers, guided missile destroyers are primarily focused on surface strikes using [[BGM-109 Tomahawk|Tomahawk missiles]] and fleet defense through Aegis and the Standard missile. Destroyers additionally specialize in anti-submarine warfare and are equipped with [[ASROC|VLA rockets]] and [[Sikorsky SH-60 Seahawk|LAMPS Mk III Sea Hawk]] helicopters to deal with underwater threats. When deployed with a carrier strike group or expeditionary strike group, destroyers and their fellow Aegis-equipped cruisers are primarily tasked with defending the fleet while providing secondary strike capabilities. With very few exceptions, destroyers are named after U.S. Navy, Marine Corps, and Coast Guard heroes.
+
+====Frigates and Littoral combat ships====
+{{main|List of frigates of the United States Navy}}
+{{See also|Littoral combat ship}}
+[[File:USS Independence LCS-2 at pierce (cropped).jpg|thumb|{{USS|Independence|LCS-2}}, a [[Littoral combat ship]].]]
+[[File:USS-Freedom-130222-N-DR144-174-crop.jpg|thumb|{{USS|Freedom|LCS-1}} underway in special [[Dazzle camouflage|naval camouflage]].]]
+
+Modern U.S. [[frigate]]s mainly perform anti-submarine warfare for carrier and expeditionary strike groups and provide armed escort for supply convoys and merchant shipping. They are designed to protect friendly ships against hostile submarines in low to medium threat environments, using torpedoes and LAMPS helicopters. Independently, frigates are able to conduct counterdrug missions and other maritime interception operations. As in the case of destroyers, frigates are named after U.S. Navy, Marine Corps, and Coast Guard heroes.  As of autumn 2015, the U.S. Navy has retired its most recent class of frigates, and expects that by 2020 the [[Littoral Combat Ship]]s (LCS) will assume many of the duties the frigate had with the fleet.
+
+The LCS is a class of relatively small surface vessels intended for operations in the littoral zone (close to shore). It was "envisioned to be a networked, agile, stealthy surface combatant capable of defeating anti-access and asymmetric threats in the littorals".{{cn|date=January 2019}} They have the capabilities of a small assault transport, including a flight deck and hangar for housing two helicopters, a stern ramp for operating small boats, and the cargo volume and payload to deliver a small assault force with fighting vehicles to a roll-on/roll-off port facility. The ship is easy to reconfigure for different roles, including [[anti-submarine warfare]], [[mine countermeasures]], [[anti-surface warfare]], intelligence, surveillance and reconnaissance, homeland defense, maritime intercept, special operations, and logistics, all by swapping mission-specific modules as needed.
+
+The LCS program is still relatively new as of 2018 with only ten active ships, but the navy has announced plans for up to 32 ships. (See: [[Littoral combat ship#List of LCS ships|List of littoral combat ships]]) The navy has announced that a further 20 vessels to be built after that will be redesignated as 'frigates'.<ref>[http://news.usni.org/2015/01/15/sna-modified-littoral-combat-ship-class-changed-fast-frigate SNA: Modified Littoral Combat Ships to be Designated Frigates] – News.USNI.org, 15 January 2015</ref>
+
+A special case is the {{USS|Constitution}}, commissioned in 1797 as one of the [[original six frigates of the United States Navy]], and which remains in commission at the Charlestown Navy Yard in Boston. She serves as a tribute to the heritage of the Navy, and occasionally sails for commemorative events such as [[Independence Day (United States)|Independence Day]] and various victories during the [[War of 1812]]. ''Constitution'' is currently the oldest commissioned warship afloat. {{HMS|Victory}} is older, and in commission, but is in permanent drydock.
+
+====Mine countermeasures ships====
+{{main|List of mine warfare vessels of the United States Navy}}
+[[File:Uss warrior.jpg|thumb|{{USS|Warrior|MCM-10}} in port]]
+
+[[Mine countermeasures vessel]]s are a combination of [[minehunter]]s, a naval vessel that actively detects and destroys individual [[naval mines]], and [[minesweeper]]s, which clear mined areas as a whole, without prior detection of the mines. The navy has approximately a dozen of these in active service, but the mine countermeasure (MCM) role is also being assumed by the incoming classes of littoral combat ships. MCM vessels have mostly legacy names of previous US Navy ships, especially WWII-era minesweepers.
+
+====Patrol boats====
+{{main|List of patrol vessels of the United States Navy}}
+[[File:USS Typhoon (PC-5).jpg|thumb|{{USS|Typhoon|PC-5}} departing [[Naval Amphibious Base Little Creek]] in [[Virginia]].]]
+
+A [[patrol boat]] is a relatively small naval vessel generally designed for coastal defense duties. There have been many designs for patrol boats, though the navy currently only has a single class. They may be operated by a nation's navy or coast guard, and may be intended for marine ("[[blue water]]") or estuarine or river ("[[brown water]]") environments. The Navy has approximately a dozen in active service, which are mainly used in the littoral regions of the [[Persian Gulf]], but have also been used for home port patrols and [[drug interdiction]] missions. The navy's current class of patrol boats have names based on weather phenomena.
+
+====Submarines====
+{{main|Submarines in the United States Navy}}
+[[File:USS Kentucky (SSBN-737).jpg|thumb|{{USS|Kentucky|SSBN-737}}, an {{sclass-|Ohio|submarine|0}} [[ballistic missile submarine]].]]
+[[File:US Navy 040730-N-1234E-002 PCU Virginia (SSN 774) returns to the General Dynamics Electric Boat shipyard.jpg|thumb|right|{{USS|Virginia|SSN-774}}, a [[Virginia-class submarine|''Virginia'' -class]] [[attack submarine]].]]
+
+All current and planned U.S. Navy submarines are nuclear-powered, as only nuclear propulsion allows for the combination of stealth and long duration, high-speed sustained underwater movement that makes modern nuclear submarines so vital to a modern blue-water navy. The U.S. Navy operates three types: [[ballistic missile submarine]]s, [[guided missile submarine]]s, and [[attack submarine]]s. U.S. Navy (nuclear) ballistic missile submarines carry the stealthiest leg of the U.S. strategic triad (the other legs are the land-based U.S. strategic missile force and the air-based U.S. strategic bomber force). These submarines have only one mission: to carry and, if called upon, to launch the [[Trident nuclear missile]]. The primary missions of attack and guided missile submarines in the U.S. Navy are peacetime engagement, surveillance and intelligence, special operations, precision strikes, and control of the seas.<ref>{{cite web |url=http://www.globalsecurity.org/military/systems/ship/sub-mission.htm |title=Submarine Missions |website=GlobalSecurity |accessdate=8 April 2006}}</ref> To these, attack submarines also add the battlegroup operations mission. Attack and guided missile submarines have several tactical missions, including sinking ships and other subs, launching [[cruise missile]]s, gathering intelligence, and assisting in special operations.
+
+As with other classes of naval vessels, most U.S. submarines (or "boats") are named according to specific conventions. The boats of the current U.S. ballistic missile submarine class, {{sclass-|Ohio|submarine|0}}, are named after U.S. states. As the four current U.S. guided missile submarines are converted ''Ohio''-class boats, they have retained their U.S. state names. The members of the oldest currently-commissioned attack submarine class, the {{sclass-|Los Angeles|submarine|4}}, are typically named for cities. The follow-on {{sclass-|Seawolf|submarine|0}}' three submarines—''Seawolf'', ''Connecticut'' and ''Jimmy Carter''—share no consistent naming scheme. With the current {{sclass-|Virginia|submarine|0}} class attack submarines, the U.S. Navy has extended the ''Ohio'' class' state-based naming scheme to these submarines.  Attack submarines prior to the ''Los Angeles'' class were named for denizens of the deep, while pre-''Ohio''-class ballistic missile submarines were named for famous Americans and foreigners with notable connections to the United States.
+
+===Aircraft===
+[[File:Four Super Hornets.jpg|thumb|left|Four Navy [[F/A-18E/F Super Hornet|F/A-18F Super Hornets]].]]
+{{main|List of United States naval aircraft|List of military aircraft of the United States (naval)}}
+{{See also|List of United States Navy aircraft squadrons|List of active United States military aircraft}}
+
+Carrier-based aircraft are able to strike air, sea, and land targets far from a carrier strike group while protecting friendly forces from enemy aircraft, ships, and submarines. In peacetime, aircraft's ability to project the threat of sustained attack from a mobile platform on the seas gives United States leaders significant diplomatic and crisis-management options. Aircraft additionally provide logistics support to maintain the navy's readiness and, through helicopters, supply platforms with which to conduct [[search and rescue]], [[special operations]], [[anti-submarine warfare]] (ASW), and [[anti-surface warfare]] (ASuW).
+
+The U.S. Navy began to research the use of aircraft at sea in the 1910s, with Lieutenant Theodore G. "Spuds" Ellyson becoming the first naval aviator on 28 January 1911, and commissioned its first aircraft carrier, {{USS|Langley|CV-1}}, in 1922.<ref>{{cite web |url=http://www.navy.mil/navydata/nav_legacy.asp?id=1 |title=A Brief History of U.S. Navy Aircraft Carriers: Part I – The Early Years |publisher=United States Navy |website=The Carriers |accessdate=30 June 2011}}</ref> United States naval aviation fully came of age in World War II, when it became clear following the [[Attack on Pearl Harbor]], the [[Battle of the Coral Sea]], and the [[Battle of Midway]] that aircraft carriers and the planes that they carried had replaced the battleship as the greatest weapon on the seas. Leading navy aircraft in World War II included the [[Grumman F4F Wildcat]], the [[Grumman F6F Hellcat]], the Chance [[Vought F4U Corsair]], the [[Douglas SBD Dauntless]], and the [[Grumman TBF Avenger]]. Navy aircraft also played a significant role in conflicts during the following Cold War years, with the [[F-4 Phantom II]] and the [[F-14 Tomcat]] becoming military icons of the era. The navy's current primary fighter and attack airplanes are the multi-mission [[F/A-18 Hornet|F/A-18C/D Hornet]] and its newer cousin, the [[F/A-18E/F Super Hornet]]. The [[F-35 Lightning II]] is presently under development and was scheduled to replace the C and D versions of the Hornet beginning in 2012.<ref>{{cite web |url=http://www.globalsecurity.org/military/systems/aircraft/f-35c.htm |title=F-35C Carrier Variant Joint Strike Fighter (JSF) |website=GlobalSecurity |accessdate=18 July 2006}}</ref> Initial operational capability of the F-35C is now expected to be February 2019.<ref>{{cite news |url=http://www.navy.mil/submit/display.asp?story_id=74523 |title=Services Deliver F-35 Initial Operational Capability Timelines to Congress |work=Navy News Service |date=31 May 2013 |id=NNS130531-06}}</ref> The Navy is also looking to eventually replace its F/A-18E/F Super Hornets with the [[F/A-XX]] program.
+
+The Aircraft Investment Plan sees naval aviation growing from 30 percent of current aviation forces to half of all procurement funding over the next three decades.<ref>{{cite news |url=http://www.huffingtonpost.com/winslow-t-wheeler/this-pentagon-needs-watch_b_492210.html |title=This Pentagon Needs Watching |work=[[The Huffington Post]] |last=Wheeler |first=Winslow T. |date=9 March 2010}}</ref>
+
+===Weapons===
+{{main|List of United States Navy weapons}}
+
+Current U.S. Navy shipboard weapons systems are almost entirely focused on missiles, both as a weapon and as a threat. In an offensive role, missiles are intended to strike targets at long distances with accuracy and precision. Because they are unmanned weapons, missiles allow for attacks on heavily defended targets without risk to human pilots. Land strikes are the domain of the [[BGM-109 Tomahawk]], which was first deployed in the 1980s and is continually being updated to increase its capabilities. For anti-ship strikes, the navy's dedicated missile is the [[Harpoon Missile]]. To defend against enemy missile attack, the navy operates a number of systems that are all coordinated by the Aegis combat system. Medium-long range defense is provided by the [[RIM-67 Standard|Standard Missile 2]], which has been deployed since the 1980s. The Standard missile doubles as the primary shipboard anti-aircraft weapon and is undergoing development for use in theater ballistic missile defense. Short range defense against missiles is provided by the [[Phalanx CIWS]] and the more recently developed [[ESSM|RIM-162 Evolved Sea Sparrow Missile]]. In addition to missiles, the navy employs [[Mark 46 torpedo|Mark 46]] and [[Mark 50 torpedo]]es and various types of naval mines.
+
+[[File:US Navy 050112-N-5345W-074 Aviation Ordnancemen prepare to load 500-pound laser guided bombs (GBU-12) onto weapon pylons under an F-14B Tomcat.jpg|thumb|Aviation Ordnancemen loading [[GBU-12 Paveway II|GBU-12]] bombs in 2005.]]
+Naval fixed-wing aircraft employ much of the same weapons as the [[United States Air Force]] for both air-to-air and air-to-surface combat. Air engagements are handled by the heat-seeking [[AIM-9 Sidewinder|Sidewinder]] and the radar guided [[AIM-120 AMRAAM|AMRAAM]] missiles along with the [[M61 Vulcan]] cannon for close range dogfighting. For surface strikes, navy aircraft utilize a combination of missiles, smart bombs, and dumb bombs. On the list of available missiles are the [[AGM-65 Maverick|Maverick]], [[Standoff Land Attack Missile|SLAM-ER]] and [[AGM-154 Joint Standoff Weapon|JSOW]]. Smart bombs include the GPS-guided [[JDAM]] and the laser-guided [[Paveway]] series. Unguided munitions such as dumb bombs and [[cluster bomb]]s make up the rest of the weapons deployed by fixed-wing aircraft.
+
+Rotary aircraft weapons are focused on anti-submarine warfare (ASW) and light to medium surface engagements. To combat submarines, helicopters use Mark 46 and Mark 50 torpedoes. Against small watercraft, they utilize [[AGM-114 Hellfire|Hellfire]] and [[Penguin missile|Penguin]] air to surface missiles. Helicopters also employ various types of mounted anti-personnel machine guns, including the [[M60 machine gun|M60]], [[M240 machine gun|M240]], [[GAU-16]]/A, and [[Minigun|GAU-17/A]].
+
+Nuclear weapons in the U.S. Navy arsenal are deployed through ballistic missile submarines and aircraft. The ''Ohio''-class submarine carries the latest iteration of the [[Trident missile]], a three-stage, [[submarine-launched ballistic missile]] (SLBM) with [[MIRV]] capability; the current Trident II (D5) version is expected to be in service past 2020.<ref>{{cite web |url=http://www.navy.mil/navydata/fact_display.asp?cid=2200&tid=1400&ct=2 |title=''Trident'' Fleet Ballistic Missile |website=U.S. Navy Fact File |accessdate=8 April 2006}}</ref> The navy's other nuclear weapon is the air-deployed [[B61 nuclear bomb]]. The B61 is a thermonuclear device that can be dropped by strike aircraft such as the F/A-18 Hornet and Super Hornet at high speed from a large range of altitudes. It can be released through free-fall or parachute and can be set to detonate in the air or on the ground.
+
+==Naval jack==
+[[File:Naval Jack of the United States.svg|thumb|upright=0.45|U.S. Naval Jack]]
+[[File:US Naval Jack.svg|thumb|upright=0.45|[[File:FIAV historical.svg|23x15px]] [[File:FIAV 000001.svg|23x15px]] Former U.S. Naval Jack]]
+
+The current [[Maritime flags#Jacks|naval jack]] of the United States is the [[First Navy Jack]], traditionally regarded as having been used during the American Revolutionary War. On 31 May 2002, [[Secretary of the Navy]] [[Gordon R. England]] directed all U.S. naval ships to fly the First Navy Jack for the duration of the "[[War on Terror]]". Many ships chose to shift colors later that year on the first anniversary of the [[September 11, 2001 attacks]]. The previous naval jack was a blue field with 50 white stars, identical to the canton of the [[ensign]] (the [[flag of the United States]]) both in appearance and size, and remains in use with vessels of the [[U.S. Coast Guard]] and [[National Oceanic and Atmospheric Administration]]. A jack of similar design was used in 1794, though with 13 stars arranged in a 3–2–3–2–3 pattern. When a ship is moored or anchored, the jack is flown from the [[bow (ship)|bow]] of the ship while the ensign is flown from the [[stern]]. When underway, the ensign is raised on the mainmast. The First Naval Jack, however, has always been flown on the oldest ship in the active American fleet, which is currently {{USS|Blue Ridge|LCC-19}}.
+
+==Notable sailors==
+{{main|List of United States Navy people}}
+
+Many past and present United States historical figures have served in the navy. Notable officers include [[John Paul Jones]], [[John Barry (naval officer)|John Barry]] ([[Continental Navy]] officer and first flag officer of the United States Navy),<ref>{{cite web |author=One Hundred Ninth Congress |authorlink=109th United States Congress |url=http://www.gpo.gov/fdsys/pkg/BILLS-109hjres38enr/pdf/BILLS-109hjres38enr.pdf |format=PDF |title=Joint Resolution Recognizing Commodore John Barry as the first flag officer of the United States Navy |website=[[United States Government Publishing Office|Government Printing Office]] |accessdate=30 June 2009 |date=}}</ref> [[Edward Preble]], [[James Lawrence]] (whose [[last words]] "don't give up the ship" are memorialized in [[Bancroft Hall]] at the [[United States Naval Academy]]), [[Stephen Decatur Jr.]], [[David Farragut]], [[David Dixon Porter]], [[Oliver Hazard Perry]], [[Matthew Perry (naval officer)|Commodore Matthew Perry]] (whose [[Black Ships]] forced the [[Convention of Kanagawa|opening of Japan]]), [[George Dewey]] (the only person in the history of the United States to have attained the rank of [[Admiral of the Navy (United States)|Admiral of the Navy]]), and the officers who attained the rank of [[Fleet admiral (United States)|Fleet Admiral]] during World War II: [[William D. Leahy]], [[Ernest J. King]], [[Chester W. Nimitz]], and [[William F. Halsey Jr.]].
+
+The first American [[President of the United States|president]] who served in the navy was [[John F. Kennedy]] (who commanded the famous ''[[Motor Torpedo Boat PT-109|PT-109]]''). Others included [[Lyndon B. Johnson]], [[Richard Nixon]], [[Gerald Ford]], [[Jimmy Carter]], and [[George H. W. Bush]]. Both [[Theodore Roosevelt]] and [[Franklin D. Roosevelt]] were the [[Assistant Secretary of the Navy]] prior to their presidencies. Many members of [[United States Congress|Congress]] served in the navy, notably [[United States Senator|U.S. Senators]] [[Bob Kerrey]], [[John McCain]], and [[John Kerry]]. Other notable former members of the U.S. Navy include astronauts, entertainers, authors and professional athletes.{{citation needed|date=February 2017}}
+{{Clear}}
+
+==See also==
+{{Portal|Military of the United States|United States Navy}}
+* [[Disestablished commands of the United States Navy]]
+* [[Ohio Replacement Submarine]]
+* [[Spearhead-class expeditionary fast transport]]
+* [[Bibliography of early American naval history]]
+* [[Modern United States Navy carrier air operations]]
+* [[Naval militia]]
+* [[Women in the United States Navy]]
+* [[United States Merchant Marine Academy]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|United States Navy}}
+{{Wikiquote}}
+* {{Official website|url=http://www.navy.mil/}}
+* {{cite web|url=http://www.usni.org/|title=U.S. Naval Institute}}
+* [http://www.navy.mil/maritime A Cooperative Strategy for 21st Century Seapower]
+* {{cite web|url=http://www.navy.com/ |title=Navy.com, USN official recruitment site}}
+* {{cite web |url=http://www.news.navy.mil/swf/index.asp |title=U.S. Navy News website |deadurl=yes |archiveurl=https://web.archive.org/web/20071223134622/http://www.news.navy.mil/swf/index.asp |archivedate=23 December 2007 |df=dmy-all }}; official news
+* {{cite web |url=http://www.globalsecurity.org/military/agency/navy/index.html |website=GlobalSecurity |title=US Navy}}
+* {{cite web |url=http://www.nosi.org/ |title=Naval Open Source Intelligence |editor-first=Michael P. |editor-last=D'Alessandro}}
+* {{cite web |url=http://www.navy.mil/ |title=United States Navy Official Website}}
+* {{cite web |url=http://www.microworks.net/pacific/ |title=The Pacific War: The U.S. Navy |first=Tim |last=Lanzendörfer}}
+* {{cite web|url=http://www.navymemorial.org/ |title=United States Navy Memorial}}
+* [http://www.life.com/image/first/in-gallery/57081/americas-naval-hardware#index/0 America's Naval Hardware] – ''[[Life magazine]]'' slideshow
+* {{cite web|url=http://www.navsource.org |title=Photographic History of The U.S. Navy |work=Naval History |publisher=NavSource}}
+* {{cite web|url=http://www.hazegray.org/ |title=Haze Gray & Underway – Naval History and Photography |publisher=HazeGray.org}}
+* {{cite web|url=https://fas.org/man/dod-101/sys/ship/ |accessdate= |title=U.S. Navy Ships |work=Military Analysis Network |publisher=Federation of America Scientists }}
+* [https://web.archive.org/web/20121215042844/http://repository.library.georgetown.edu/handle/10822/552708 U.S. Navy during the Cold War] from the [http://www.library.georgetown.edu/digital/krogh Dean Peter Krogh Foreign Affairs Digital Archives]
+* {{cite web|url=http://www.worldwar1atsea.net/WW1NavyUS.htm |accessdate=3 February 2007 |title=United States Navy in World War I |publisher=World War I at Sea.net}} (Includes warship losses.)
+* {{cite web|url=http://www.ibiblio.org/hyperwar/USN/ |title=U.S. Navy in World War II |work=World War II on the World Wide Web |publisher=Hyper War}} (Includes ''The Official Chronology of the U.S. Navy in World War II''.)
+* {{cite web|url=https://digital.library.unt.edu/permalink/meta-dc-1023:2 |title=Our Fighting Ships |work=U.S. WW II Newsmap |publisher=Army Orientation Course |date=29 June 1942}} Hosted by the [https://digital.library.unt.edu/ UNT Libraries Digital Collections]
+* {{cite web|url=http://www.naval-history.net/WW2USN193909.htm |accessdate=3 February 2007 |title=Strict Neutrality&nbsp;– Britain & France at War with Germany, September 1939 – May 1940 |work=United States Navy and World War II |publisher=Naval-History.net |archiveurl = https://web.archive.org/web/20061118003814/http://www.naval-history.net/WW2USN193909.htm <!-- Bot retrieved archive --> |archivedate = 18 November 2006}} (Chronology of the lead up of U.S. entry into World War II.)
+* {{cite web |url=http://www.whitehouse.gov/nsc/nss/2006/intro.html |title=The National Security Strategy of the United States of America |deadurl=yes |archiveurl=https://web.archive.org/web/20070817104224/http://www.whitehouse.gov/nsc/nss/2006/intro.html |archivedate=17 August 2007 |df=dmy-all }}
+* {{cite web|url=http://gvsu.cdmhost.com/cdm/search/searchterm/%20United%20States.%20Naval%20Reserve/mode/exact/ |title=Naval recognition-Grand Valley State University Archives and Special Collections}}
+* {{cite web|url=http://information.usnavyseals.com/ |title=US Navy SEALs Information}}
+* {{cite web|url=http://directory.usnavyseals.org/ |title=US Navy SEALs Directory |deadurl=yes |archiveurl=https://web.archive.org/web/20100404070050/http://directory.usnavyseals.org/ |archivedate=4 April 2010 }}
+* {{webarchive |url=https://web.archive.org/web/19970104104533/http://www.navy.mil/ |date=4 January 1997 |title=United States Navy }}
+
+{{US Navy navbox}}
+{{US military navbox}}
+{{DOD agencies navbox}}
+{{NATO Maritime Forces}}
+{{United States topics}}
+
+[[Category:United States Navy| ]]
+[[Category:Navies by country]]
+[[Category:Uniformed services of the United States|Navy]]
+[[Category:1775 establishments in the Thirteen Colonies]]
+[[Category:Military units and formations established in 1775]]
+[[Category:United States Armed Forces service branches]]

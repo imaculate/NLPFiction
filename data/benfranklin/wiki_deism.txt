@@ -1,0 +1,734 @@
+{{other uses}}
+{{distinguish|theism}}
+{{God |isms}}
+
+'''Deism''' ({{IPAc-en|Audio=En-uk-deism.ogg|ˈ|d|iː|ɪ|z|əm}} {{respell|DEE|iz-əm}}{{px1}}<ref>{{cite book |title=The Concise Oxford Dictionary |author=R. E. Allen (ed) |publisher=Oxford University Press |year=1990}}</ref><ref>{{cite web |url=http://www.merriam-webster.com/dictionary/deist |title=Deist – Definition and More from the Free Merriam-Webster Dictionary |publisher=Merriam-webster.com |year=2012 |accessdate=2012-10-10}}</ref> or {{IPAc-en|ˈ|d|eɪ|.|ɪ|z|əm}} {{respell|DAY|iz-əm}}; derived from [[Latin]] "[[deus]]" meaning "[[god]]") is a philosophical belief that posits that [[God]] exists as an uncaused [[First Cause]] ultimately responsible for the creation of the universe, but does not interfere directly with the created world.  Equivalently, deism can also be defined as the view which posits God's existence as the cause of all things, and admits its perfection (and usually the existence of [[natural law]] and [[Divine providence|Providence]]) but rejects divine revelation or direct intervention of God in the universe by [[miracle]]s.  It also rejects [[revelation]] as a source of religious knowledge and asserts that [[reason]] and [[observation]] of the [[Nature|natural world]] are sufficient to determine the existence of a [[Creator deity|single creator]] or [[Absolute (philosophy)|absolute principle]] of the [[universe]].<!--
+ --><ref>{{cite encyclopedia |title=Deism |encyclopedia=Encyclopædia Britannica |year=2012 |url=http://www.britannica.com/EBchecked/topic/156154/Deism |quote=In general, deism refers to what can be called natural religion, the acceptance of a certain body of religious knowledge that is inborn in every person or that can be acquired by the use of reason and the rejection of religious knowledge when it is acquired through either revelation or the teaching of any church.}}</ref><!--
+ --><ref>{{cite encyclopedia |url=http://jewishencyclopedia.com/articles/5049-deism |title=Deism |encyclopedia=Jewish Encyclopedia |year=1906 |quote=DEISM:  A system of belief which posits God's existence as the cause of all things, and admits its perfection, but rejects Divine revelation and government, proclaiming the all-sufficiency of natural laws.|accessdate=2012-10-10}}</ref><!--
+ --><ref>{{cite encyclopedia |title=Deism |encyclopedia=The Encyclopedia of Christian Civilization |year=2011 |quote=Deism is a rationalistic, critical approach to theism with an emphasis on natural theology. The deists attempted to reduce religion to what they regarded as its most foundational, rationally justifiable elements. Deism is not, strictly speaking, the teaching that God wound up the world like a watch and let it run on its own, though that teaching was embraced by some within the movement. |doi=10.1002/9780470670606.wbecc0408/abstract}}</ref>
+
+Deism gained prominence among intellectuals as a form of the [[natural theology]] widespread during the [[Age of Enlightenment]], especially in Britain, France, Germany, and the United States. Typically, deists had been raised as [[Christians]] and believed in [[Monotheism|one God]], but had become disenchanted with [[organized religion]] and orthodox teachings such as the [[Trinity]], [[Biblical inerrancy]], and the [[supernatural]] interpretation of events, such as [[miracle]]s.<ref>{{cite book |last=Thomsett |first=Michael C. |title=Heresy in the Roman Catholic Church: A History |url=https://books.google.com/books?id=LDbhV7u1_yIC |accessdate=2013-05-16 |year=2011 |publisher=McFarland |isbn=978-0-7864-8539-0 |page=222}}</ref> Included in those influenced by its ideas were leaders of the [[American Revolution|American]] and [[French Revolution]]s.<ref name="books.google">{{cite encyclopedia |last1=Wilson |first1=Ellen Judy |last2=Reill |first2=Peter Hanns |title=Deism |url=https://books.google.com/books?id=t1pQ4YG-TDIC |accessdate=2013-05-16 |year=2004 |publisher=Infobase Publishing |isbn=978-0-8160-5335-3 |pages=146–148}}</ref>
+<!--
+  Something here about deism during the 19th and 20th centuries..?
+--->
+
+Deism is considered to exist in the classical and modern forms,<ref>{{cite web |last=Hardwick |first=J |title=Modern Deism |url=http://moderndeism.com/index.html |publisher=J. Hardwick |accessdate=23 September 2012}}</ref> where the classical view takes what is called a "cold" approach by asserting the non-intervention of a [[deity]] in the natural behavior of the created universe, while the modern deist formulation can be either "warm" (citing an involved deity) or "cold" (citing an uninvolved deity). These lead to many subdivisions of modern deism, which serves as an overall category of belief.<ref name="modern_deism_categories">{{cite book | title=The Universe Next Door: A Basic Worldview Catalog | author=James W. Sire | pages=59–64 | year=2009 | publisher=InterVarsity Press | url=https://books.google.com/books?id=obhdLJK8UjEC&lpg=PA59&dq=modern%20deism&pg=PA59#v=onepage&q&f=false}}</ref> <!---Despite this classification of deism today, classical deists themselves rarely wrote or accepted that the Creator is a non-interventionist during the flowering of deism in the 16th and 17th centuries; using [[straw man]] arguments, their theological critics attempted to force them into this position.<ref>{{cite encyclopedia |url=http://www.britannica.com/topic/Deism |title=Deism |encyclopedia=The Encyclopædia Britannica |year=2015 |quote=In the 19th and early 20th centuries, the word Deism was used by some theologians in contradistinction to theism, the belief in an immanent God who actively intervenes in the affairs of men. In this sense, Deism was represented as the view of those who reduced the role of God to a mere act of creation in accordance with rational laws discoverable by man and held that, after the original act, God virtually withdrew and refrained from interfering in the processes of nature and the ways of man. So stark an interpretation of the relations of God and man, however, was accepted by very few Deists during the flowering of the doctrine, though their religious antagonists often attempted to force them into this difficult position.
+ |accessdate=24 September 2015}}</ref><ref>{{cite web |last=Wingate |first=T |title=The True and False Definitions of Deism |url=http://www.deism.com/deismdefined.htm |publisher=Deism.com |accessdate=24 September 2015}}</ref>--->
+
+==Overview==
+{{See also|Theism}}
+Deism is a [[theology|theological]] theory concerning the relationship between a creator and the natural world. Deistic viewpoints emerged during the [[scientific revolution]] of 17th-century Europe and came to exert a powerful influence during the 18th-century Enlightenment. Deism stood between the narrow dogmatism of the period and [[Philosophical skepticism|skepticism]]. Though deists rejected [[atheism]],<ref 
+    name="González1984">{{Cite book
+    |author=        Justo L. González
+    |title=            The Reformation to the present day
+    |url=              https://books.google.com/books?id=GWoHUb5qQccC&pg=PA190
+    |accessdate= 2010-08-14
+    |year=           1984
+    |publisher=   HarperCollins
+    |isbn=             978-0-06-063316-5
+    |page= 190}}
+</ref> they often were called "atheists" by more traditional theists.<ref 
+    name="McLellandReligion1988">{{Cite book
+    |author1=      Joseph C. McLelland
+    |author2=      Canadian Corporation for Studies in Religion
+    |title=            Prometheus rebound: the irony of atheism
+    |url=              https://books.google.com/books?id=y0LP9AiNS_wC&pg=PA83
+    |accessdate= 2010-08-14
+    |date=           November 1988
+    |publisher=   Wilfrid Laurier Univ. Press
+    |isbn=            978-0-88920-974-9
+    |page=           85
+}}</ref> There were a number of different forms in the 17th and 18th centuries. In England, deists included a range of people from anti-Christian to non-Christian theists.<ref
+    name="ForcePopkin1990">{{Cite book
+    |author1=      James E. Force
+    |author2=      Richard Henry Popkin
+    |title=            Essays on the context, nature, and influence of Isaac Newton's theology
+    |url=              https://books.google.com/books?id=modLIHCBCIoC&pg=PA43
+    |accessdate= 2010-08-14
+    |year=           1990
+    |publisher=   Springer
+    |isbn=           978-0-7923-0583-5
+    |page=          43
+}}</ref>
+
+For deists, human beings can know God only via reason and the observation of nature, but not by revelation or by supernatural manifestations (such as miracles) – phenomena which deists regard with caution if not [[Religious skepticism|skepticism]]. Deism is related to [[Naturalism (philosophy)|naturalism]] because it credits the formation of life and the universe to a higher power, using only natural processes.  The classical deism of the 17th and 18th centuries is a form of natural theology and denies that that power has any continuing involvement with the world.  Modern deism may also include a spiritual element, involving experiences of God and nature.<ref>{{cite web
+    |url=                 http://moderndeism.com/html/deism_defined.html
+    |archive-url=    https://archive.is/20120719064712/http://moderndeism.com/html/deism_defined.html
+    |dead-url=        yes
+    |archive-date= 2012-07-19
+    |title=               Deism Defined
+    |publisher=       Moderndeism.com
+    |accessdate=     2012-09-25
+}}</ref>
+
+The words ''deism'' and ''theism'', originally synonyms in English, both derive from words for "god": the former from Latin ''deus'', the latter from Greek ''theos'' (θεός).  By the 17th Century the English terms were starting to diverge, with ''deism'' referring to the new form of belief.<ref>{{cite book
+    |last=          Orr
+    |first=          John
+    |title=          English Deism: Its Roots and Its Fruits
+    |publisher= Eerdmans
+    |year=         1934
+}}                    “Prior to the 17th Century the terms ["deism" and "deist"] were used interchangeably with the terms "theism" and "theist", respectively. .. Theologians and philosophers of the 17th Century began to give a different signification to the words. .. Both [theists and deists] asserted belief in one supreme God, the Creator. .. But the theist taught that God remained actively interested in and operative in the world which he had made, whereas the Deist maintained that God endowed the world at creation with self-sustaining and self-acting powers and then surrendered it wholly to the operation of these powers acting as second causes.”  (p.13)
+</ref>  The term ''deist'' first appeared in its new sense in [[Robert Burton (scholar)|Robert Burton]]'s ''[[The Anatomy of Melancholy]]'' (1621).<ref 
+    name="books.google"/>
+
+Deism is usually thought of as having taken root first in England and subsequently spread to mainland Europe.  But the term ''déiste'' appears in French, in the new sense, as early as 1564.<ref>
+{{cite book
+    | last1 =                    Bayle
+    | first1 =                   Pierre
+    | author-link1 =        Pierre Bayle
+    | orig-year =
+    | chapter =               Viret
+    | title =                     Dictionnaire historique et critique
+    | url =                       https://books.google.com/books?id=pHAHjxIW7uEC
+    | language =             fr
+    | volume =               14
+    | edition =                Nouvelle
+    | location =              Paris
+    | publisher =            Desoer
+    | publication-date =
+    | page =
+    | access-date =         2017-11-23
+}} (1697/1820)            Bayle quotes Viret (see below) as follows: “J'ai entendu qu'il y en a de ceste bande, qui s'appellent déistes, d'un mot tout nouveau, lequel ils veulent opposer à l'athéiste,” remarking on the term as a neologism (''un mot tout nouveau'').  (p.418)
+</ref>  [[Pierre Viret]], a Swiss [[Calvinism|Calvinist]], wrote of deism as a heretical development from Italian Renaissance naturalism, resulting from misuse of the liberty conferred by the Reformation to criticise idolatry and superstition.<ref>{{cite book 
+    | last=           Viret
+    | first=           Pierre
+    | authorlink= Pierre Viret
+    | title=           Instruction Chrétienne en la doctrine de la foi et de l'Évangile (Christian teaching on the doctrine of faith and the Gospel)
+    | date=          1564
+}}                     Viret wrote that a group of people believed, like the Jews and Turks, in a God of some kind - but regarded the doctrine of the evangelists and the apostles as a mere myth.  Contrary to their own claim, he regarded them as atheists.  See the ''Dictionary of the History of Ideas'' online, [http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist1.xml;chunk.id=dv1-77;toc.depth=1;toc.id=dv1-77;brand= "Deism"]
+</ref>
+
+[[Lord Herbert of Cherbury]] (1583–1648) is considered the "father of English deism",<ref 
+name="Willey, 1934">
+{{cite book
+    | last=           Willey
+    | first=           Basil
+    | authorlink= Basil Willey
+    | title=           The Seventeenth Century Background: Studies in the Thought of the Age in Relation to Poetry and Religion
+    | year=           1934
+}}</ref> and his book ''[[De Veritate]]'' (1624) the first major statement of deism. Deism flourished in England between 1690 and 1740, at which time [[Matthew Tindal]]'s ''Christianity as Old as the Creation'' (1730), also called "The Deist's Bible," gained much attention. Later deism spread to France (notably through the work of [[Voltaire]]), to Germany, and to North America.
+
+==Features==
+The concept of deism covers a wide variety of positions on a wide variety of religious issues.  Reviewing classical deism a century later, [[Leslie Stephen|Sir Leslie Stephen]] presented it as having "constructive" and "critical" aspects.<ref>{{cite book
+    | last= Stephen
+    | first= Leslie
+    | date= 1881
+    | title= History of English Thought in the Eighteenth Century 3rd Edition 2 vols (reprinted 1949)
+    | url=  http://catalog.hathitrust.org/Record/001915511
+    | location= London
+    | publisher= Smith, Elder & Co
+    | page=
+    | isbn= 978-0844614212
+    | author-link= Leslie Stephen
+}} Stephen’s book, despite its “perhaps too ambitious” title (preface, Vol.I p.vii), was conceived as an “account of the deist controversy” (p.vi).  Stephen evidently regards this as entirely post-dating Locke.  The “constructive” and “critical” aspects are treated in Chapters III and IV: the terms appear in the chapter titles.
+
+*  Stephen also notes the difficulty of interpreting the primary sources, as religious toleration was yet far from complete in law, and entirely not a settled fact in practice (Ch.II s.12): deist authors “were forced to .. cover [their opinions] with a veil of decent ambiguity.”  He writes of deist books being burned by the hangman, mentions the Aikenhead blasphemy case (1697) [https://en.m.wikisource.org/wiki/Indytment_of_Thomas_Aikenhead], and names five deists who were banished, imprisoned etc.
+</ref><ref>{{cite book
+    |url= https://books.google.co.uk/books/about/Deism_an_anthology.html?id=1kruAAAAMAAJ&redir_esc=y
+    |title= Deism: An Anthology
+    |editor-last= Gay (Fröhlich)  <!--  Editor surname  -->
+    |editor-first= Peter Joachim  <!--  Editor forename[s / etc]  -->
+    |editor-link= Peter Gay  <!--  Title of Wikipedia article (if any) on editor  -->
+    |location= Princeton etc
+    |publisher= Van Nostrand
+    |year= 1968
+    |isbn= 978-0686474012    <!--  recent reprint / reissue  -->
+}}    
+*  Note that the terms ''constructive'' and ''critical'' are used to refer to aspects of deistic thought, not sects or subtypes of deism. It would be incorrect to classify any particular deist author as "a constructive deist" or "a critical deist": "All Deists were in fact both critical and constructive Deists. All sought to destroy in order to build, and reasoned either from the absurdity of Christianity to the need for a new philosophy or from their desire for a new philosophy to the absurdity of Christianity. Each deist, to be sure, had his special competence. While one specialized in abusing priests, another specialized in rhapsodies to nature, and a third specialized in the skeptical reading of sacred documents. Yet whatever strength the movement had—and it was at times formidable—it derived that strength from a peculiar combination of critical and constructive elements."  (p.13)
+</ref> Elements common to the deist writers, on the constructive side, identify deism as a form of natural theology, and include:
+* God exists<ref 
+name="Waring1967">{{cite book
+    | last=Waring
+    | first=Edward Graham
+    | title=Deism and Natural Religion: A Source Book
+    | url=https://books.google.com/books?id=_JHXAAAAMAAJ
+    | accessdate=2013-05-16
+    | year=1967
+    | publisher=F. Ungar Pub. Co.
+    | pages=Introduction, p. xv
+    | nopp=true}}
+      One of the remarkable features of deism is that the critical elements did not overpower the constructive elements: "A strange feature of the [Deist] controversy is the apparent acceptance of all parties of the conviction of the existence of God." 
+</ref><ref>{{cite book
+    | last= Willey
+    | first= 1934
+    | title=  (see above)
+}} “M. [[Paul Hazard]] has recently described the Deists of this time 'as rationalists with nostalgia for religion': men, that is, who had allowed the spirit of the age to separate them from orthodoxy, but who liked to believe that the slope they had started upon was not slippery enough to lead them to atheism.” (p.11)
+</ref> and created the universe.
+* God gave humans the ability to reason.
+Most regarded themselves as Christians (though many of their orthodox opponents accused them inaccurately of [[atheism]]).
+
+Deists differed more from one another in their critical concerns, and these were their chief differences from their orthodox contemporaries.<ref>{{cite book
+    | last= Stephens
+    | first= William
+    | authorlink= William Stephens (minister)
+    | title= An Account of the Growth of Deism in England
+    | url= http://www.gutenberg.org/ebooks/37302
+    | accessdate= 2019-01-04
+    | year=
+}} (1696 / 1990). Introduction (James E. Force, 1990): "Defining the essence of English deism is a formidable task. Like ''priestcraft'', ''atheism'', and ''freethinking'', ''deism'' was one of the dirty words of the age. Deists were stigmatized{{spaced ndash}}often as atheists{{spaced ndash}}by their Christian opponents. Yet some Deists claimed to be Christian, and as Leslie Stephen argued in retrospect, "the Deists shared so many fundamental rational suppositions with their orthodox opponents .. that it is practically impossible to distinguish between them." But the term ''deism'' is nevertheless a meaningful one. .. Too many men of letters of the time agree about the essential nature of English deism for modern scholars to ignore the simple fact that what sets the Deists apart from even their most [[latitudinarian]] Christian contemporaries is their desire to lay aside scriptural revelation as rationally incomprehensible, and thus useless, or even detrimental, to human society and to religion. While there may possibly be exceptions, .. most Deists, especially as the eighteenth century wears on, agree that revealed Scripture is nothing but a joke or "well-invented flam." About mid-century, [[John Leland (Presbyterian)|John Leland]], in his historical and analytical account of the movement [''View of the Principal Deistical Writers'' [https://catalog.hathitrust.org/Record/008682251] (1754–1755)], squarely states that the rejection of revealed Scripture is ''the'' characteristic element of deism, a view further codified by such authorities as [[Ephraim Chambers]] and [[Samuel Johnson]]. .. "DEISM," writes Stephens bluntly, "is a denial of all reveal'd Religion."”
+</ref>  Critical elements common to deist thought include:
+* Rejection of religion based on books claiming to contain the revealed word of God.
+* Rejection of religious dogma and demagogy.
+* Skepticism of reports of miracles, prophecies and religious "mysteries".
+
+Most, at least, rejected the doctrine of the Trinity. Some deists rejected the claim of Jesus' divinity but continued to hold him in high regard as a moral teacher, a position known as [[Christian deism]], exemplified by [[Thomas Jefferson]]'s famous ''[[Jefferson Bible]]'' and Matthew Tindal's ''Christianity as Old as the Creation.'' 
+
+===Concepts of reason===
+According to the deists reason provides all the information needed,<ref> For example Tindal: "By natural religion, I understand the belief of the existence of a God, and the sense and practice of those duties which result from the knowledge we, by our reason, have of him and his perfections; and of ourselves, and our own imperfections, and of the relationship we stand in to him, and to our fellow-creatures; so that the religion of nature takes in everything that is founded on the reason and nature of things." ''Christianity as Old as the Creation'' (II), quoted in Waring ''(see above)'', p.113.</ref> and they attempted to use it as a critical tool for exposing and rejecting what they saw as nonsense.<ref> For example Toland: “I hope to make it appear that the use of reason is not so dangerous in religion as it is commonly represented .. There is nothing that men make a greater noise about than the "mysteries of the Christian religion". The divines gravely tell us "we must adore what we cannot comprehend" ..  [Some] contend [that] some mysteries may be, or at least seem to be, contrary to reason, and yet received by faith. [Others contend] that no mystery is contrary to reason, but that all are "above" it. On the contrary, we hold that reason is the only foundation of all certitude ..  Wherefore, we likewise maintain, according to the title of this discourse, that ''there is nothing in the Gospel contrary to reason, nor above it; and that no Christian doctrine can be properly called a mystery''." ''Christianity Not Mysterious: or, a Treatise Shewing That There Is Nothing in the Gospel Contrary to Reason, Nor above It'' (1696), quoted in Waring ''(see above)'',  pp.1–12
+</ref>
+
+===Arguments for the existence of a god===
+Some deists used the [[cosmological argument]] for the existence of God - as did [[Thomas Hobbes]] in several of his writings.<ref>{{cite book
+    | last=  Hobbes
+    | first= Thomas
+    | title=  Works
+}}            “The effects we acknowledge naturally, do include a power of their producing, before they were produced; and that power presupposeth something existent that hath such power; and the thing so existing with power to produce, if it were not eternal, must needs have been produced by somewhat before it, and that again by something else before that, till we come to an eternal, that is to say, the first power of all powers and first cause of all causes; and this is it which all men conceive by the name of God, implying eternity, incomprehensibility, and omnipotence.”  (pp.59-60; quoted in Orr ''(see above)'', p.76.)
+</ref>
+
+===  History of religion and the deist mission  ===
+A central theme of deist thinking was that the religions of their day were corruptions of an original, pure, natural religion, simple and rational: subsequently corrupted by "priests" manipulating it for personal gain and for the class interests of the priesthood in general,<ref>{{cite book
+    | last=Champion
+    | first=J.A.I.
+    | title=The Pillars of Priestcraft Shaken: The Church of England and its Enemies, 1660-1730
+    | year=2014
+    | publisher=Cambridge University Press (Cambridge Studies in Early Modern British History)
+}} Champion maintains that historical argument was a central component of the deists' defences of what they considered true religion.</ref> and thus encrusted with superstitions and "mysteries"{{spaced ndash}}irrational theological doctrines. They referred to this manipulation of religious doctrine as "priestcraft," an intensely derogatory term.<ref>{{cite book
+    | last=  Paine
+    | first= Thomas
+    | title= [[The Age of Reason]]
+}} "As priestcraft was always the enemy of knowledge, because priestcraft supports itself by keeping people in delusion and ignorance, it was consistent with its policy to make the acquisition of knowledge a real sin." (Part 2, p.129)</ref>
+
+They declared that laymen were thus kept dependent on the priesthood for information about the requirements for salvation, and baffled by these "mysteries" &ndash; giving the priesthood a position of great power, which they worked to maintain and increase.  Deists saw it as their mission to strip away "priestcraft" and "mysteries".  Tindal, perhaps the most prominent deist writer, claimed that this was the proper original role of the Christian Church.<ref>“It can't be imputed to any defect in the light of nature that the pagan world ran into idolatry, but to their being entirely governed by priests, who pretended communication with their gods, and to have thence their revelations, which they imposed on the credulous as divine oracles. Whereas the business of the Christian dispensation was to destroy all those traditional revelations, and restore, free from all idolatry, the true primitive and natural religion implanted in mankind from the creation.” ''Christianity as Old as the Creation'' (XIV), quoted in Waring ''(see above)'', p.163.</ref>
+
+A clear implication of this deist [[creation myth]] was that primitive societies, or societies that existed in the distant past, should have religious beliefs less encrusted with superstitions and closer to those of natural theology.  This position gradually became less plausible as thinkers such as [[David Hume]] began studying the [[Four Dissertations#The Natural History of Religion|natural history of religion]] and suggesting that the origins of religion lay not in reason but in the emotions, specifically fear of the unknown.
+
+===Freedom and necessity===
+Enlightenment thinkers, under the influence of [[Newtonianism|Newtonian science]], tended to view the universe as a vast machine, created and set in motion by a creator being, that continues to operate according to natural law, without any divine intervention. This view naturally led to what was then usually called [[necessitarianism]]<ref>David Hartley, for example, described himself as "quite in the necessitarian scheme. See Ferg, Stephen, "Two Early Works of David Hartley", ''Journal of the History of Philosophy'', vol. 19, no. 2 (April 1981), pp. 173–89.</ref> (the modern term is [[determinism]]): the view that everything in the universe – including human behavior – is completely causally determined by antecedent circumstances and natural law. (See, for example, [[La Mettrie]]'s [http://www.cscs.umich.edu/~crshalizi/LaMettrie/Machine/ ''L'Homme machine''].) As a consequence, debates about [[Free will|freedom]] versus "necessity" were a regular feature of Enlightenment religious and philosophical discussions.
+
+Because of their high regard for natural law and for the idea of a universe without miracles, deists were especially susceptible to the temptations of determinism. Reflecting the intellectual climate of the time, there were differences among deists about freedom and determinism. Some, such as [[Anthony Collins]], actually were necessitarians.<ref>See for example ''Liberty and Necessity'' (1729).</ref>
+
+===Immortality of the soul===
+Deists hold a variety of beliefs about the soul.  The noted deist authors declare a range of beliefs.  Anthony Collins,<ref>
+{{cite book
+    |last= Orr
+    |title=(see above)
+}}          p.134.</ref> [[Henry St John, 1st Viscount Bolingbroke|Bolingbroke]], [[Thomas Chubb]], and [[Peter Annet]] were materialists and either denied or doubted the immortality of the soul.<ref>
+{{cite book
+    |last= Orr
+    |title=(see above)
+}}          p.78.</ref>  [[Benjamin Franklin]] believed in reincarnation or resurrection.  Lord Herbert of Cherbury and [[William Wollaston]],<ref>
+{{cite book
+    |last= Orr
+    |title=(see above)
+}} p.137.</ref> held that souls exist, survive death, and in the afterlife are rewarded or punished by God for their behavior in life. [[Thomas Paine]] declared very specific beliefs about the immortality of the soul.<ref>
+''[[The Age of Reason|Age of Reason]]'', Pt I:  
+{{quote|
+    I believe in one God, and no more; and I hope for happiness beyond this life.
+}}
+and (in the Recapitulation)
+{{quote|
+    I trouble not myself about the manner of future existence. I content myself with believing, even to positive conviction, that the power that gave me existence is able to continue it, in any form and manner he pleases, either with or without this body; and it appears more probable to me that I shall continue to exist hereafter than that I should have had existence, as I now have, before that existence began.
+}}</ref>
+
+===Terminology===
+Deist authors – and 17th- and 18th-century theologians in general – referred to God using a variety of vivid circumlocutions such as:{{citation needed|date=September 2017}}
+* [[Divine Providence]]
+* [[Supreme Being]]
+* [[Watchmaker analogy|Divine Watchmaker]]
+* Nature's God. Used in the [[United States Declaration of Independence]]
+* Father of Lights. Benjamin Franklin used this terminology when proposing that meetings of the [[Philadelphia Convention|Constitutional Convention]] begin with prayers''<ref>{{cite web|author=Michael E. Eidenmuller |url=https://www.americanrhetoric.com/speeches/benfranklin.htm |title=Benjamin Franklin – Constitutional Convention Address on Prayer |publisher=Americanrhetoric.com |date= |accessdate=2010-09-27}}</ref>
+
+==Classical deism==
+
+===Historical background===
+Deistic thinking has existed since ancient times. Among the Ancient Greeks, [[Heraclitus]] conceived of a [[logos]], a supreme rational principle, and said the wisdom "by which all things are steered through all things" was "both willing and unwilling to be called [[Zeus]] (God)." [[Plato]] envisaged God as a [[Demiurge]] or 'craftsman'. Outside ancient Greece many other cultures have expressed views that resemble deism in some respects. However, the word "deism", as it is understood today, is generally used to refer to the movement toward natural theology or [[freethinking]] that occurred in 17th-century Europe, and specifically in Britain.
+
+Natural theology is a facet of the revolution in world view that occurred in Europe in the 17th century. To understand the background to that revolution is also to understand the background of deism. Several cultural movements of the time contributed to the movement.<ref>The discussion of the background of deism is based on the excellent summary in "The Challenge of the Seventeenth Century" in ''The Historical Jesus Question'' by Gregory W. Dawes (Westminster: John Knox Press, 2001). Good discussions of individual deist writers can be found in  [[Basil Willey]]’s ''The Seventeenth Century Background'' (see above) and ''The Eighteenth Century Background: Studies on the Idea of Nature in the Thought of the Period'' (1940).</ref>
+
+====Discovery of diversity====
+{{Refimprove section|date=October 2012}}
+[[File:LifeAndWorksOfConfucius1687.jpg|thumb|right|upright=0.9|''Confucius, Philosopher of the Chinese, or, Chinese Knowledge Explained in Latin'', published by a team of [[Jesuit China mission|Jesuit missionaries]] at Paris in 1687.<ref>{{citation |url=https://archive.org/stream/confuciussinarum00conf_0#page/n5/mode/2up |title=Confucius Sinarum Philosophus, sive, Scientia Sinensis Latine Exposita ''[''Confucius, Philosopher of the Chinese, or, Chinese Knowledge Explained in Latin'']'' |editor-last=Couplet |editor-first=Philippe |display-editors=1 |editor-link=Philippe Couplet |editor2-last=Intorcetta |editor2-first=Prospero |editor3=Christian Wolfgang Herdtrich |editor4=François de Rougemont |ref={{harvid|Couplet & al.|1687}} |date=1687 |location=Paris |publisher=Daniel Horthemels }}. {{la icon}}</ref>]]
+The [[Humanism|humanist]] tradition of the [[Renaissance]] included a revival of interest in Europe's classical past in ancient Greece and Rome. The veneration of that classical past, particularly pre-Christian Rome, the new availability of Greek philosophical works, and the successes of humanism and [[natural science]], along with the fragmentation of Christianity and an increased understanding of other faiths, all helped erode the image of the [[Catholic Church]] as the unique source of wisdom, destined to dominate the whole world.
+
+In addition, study of classical documents led to the realization that some historical documents are less reliable than others, leading to the beginnings of [[biblical criticism]]. In particular, scholars working on biblical manuscripts began to develop the principles of textual criticism and a view of the [[New Testament]] as the product of a particular historical period different from their own.
+
+Alongside diversity in the past, Europeans discovered diversity in the present. The voyages of discovery of the 16th and 17th centuries acquainted Europeans with new and different cultures in the Americas, in [[Asia]], and in the Pacific. They discovered cultural diversity on a scale never imagined, and the question arose of how this vast range of human diversity could be compatible with the biblical account of [[Noah]]'s descendants. In particular, the ideas of [[Confucius]], translated into European languages by [[Jesuit China mission|Jesuit missionaries]] like [[Michele Ruggieri]], [[Philippe Couplet]], and [[François Noël (missionary)|François Noël]], are thought to have had considerable influence on the deists and other philosophical groups of the Enlightenment who were interested by the integration of the system of morality of Confucius into [[Christianity]].<ref>"Windows into China", John Parker, p.25, {{ISBN|0-89073-050-4}}</ref><ref>"The Eastern origins of Western civilization", John Hobson, p194-195, {{ISBN|0-521-54724-5}}</ref>  In particular, cultural diversity with respect to religious beliefs could no longer be ignored.<ref>
+    See for example [[Lord Herbert of Cherbury]], ''De Religione Laici'' (1645): “Many faiths or religions, clearly, exist or once existed in various countries and ages, and certainly there is not one of them that the lawgivers [of that time / place] have not pronounced to be as it were divinely ordained, so that the wayfarer finds one in Europe, another in Africa, and in Asia, still another in the very Indies [India].”
+</ref>
+
+====Religious conflict in Europe====
+{{Refimprove section|date=October 2012}}
+Europe had been plagued by [[Sectarianism|sectarian conflicts]] and [[religious war]]s since the beginning of the [[Protestant Reformation|Reformation]]. In 1642, when [[Edward Herbert, 1st Baron Herbert of Cherbury|Lord Herbert of Cherbury]]'s ''De Veritate'' was published, the [[Thirty Years War]] had been raging on continental Europe for nearly 25 years. It was an enormously destructive war that (it is estimated) destroyed 15–20% of the population of Germany. At the same time, the [[English Civil War]] pitting King against Parliament was just beginning.
+
+Such massive violence led to a search for natural religious truths{{spaced ndash}}truths that could be universally accepted, because they had been either "written in the book of Nature" or "engraved on the human mind" by God.
+
+====Advances in scientific knowledge====
+{{Refimprove section|date=October 2012}}
+The 17th century saw a remarkable advance in scientific knowledge, the scientific revolution. The work of [[Nicolaus Copernicus|Copernicus]], [[Johannes Kepler|Kepler]], and [[Galileo]] set aside the old notion that the earth was the center of the universe. These discoveries posed a serious challenge to biblical and religious authorities, Galileo's condemnation for heresy being an example. In consequence the Bible came to be seen as authoritative on matters of faith and morals but no longer authoritative (or meant to be) on science.
+
+[[Isaac Newton]]'s (1642–1727) mathematical explanation of universal gravitation explained the behavior both of objects here on earth and of objects in the heavens in a way that promoted a worldview in which the natural universe is controlled by laws of nature. This, in turn, suggested a theology in which God created the universe, set it in [[Watchmaker analogy|motion]] controlled by natural law and retired from the scene. The new awareness of the explanatory power of universal natural law also produced a growing skepticism about such religious staples as [[miracle]]s (violations of natural law) and about religious books that reported them.
+
+===Precursors===
+{{Refimprove section|date=October 2012}}
+
+[[File:Edward Herbert 1st Baron Herbert of Cherbury by Isaac Oliver.jpg|thumb|Edward Herbert, portrait by [[Isaac Oliver]] (1560–1617)]]
+
+[[Edward Herbert, 1st Baron Herbert of Cherbury|Edward, Lord Herbert of Cherbury]] (d. 1648) has been called the "father of English deism".<ref name="Willey, 1934"/>
+
+Like his contemporary [[Descartes]], Herbert searched for the foundations of knowledge, and the first two thirds of his book ''[[De Veritate]]'' (''On Truth, as It Is Distinguished from Revelation, the Probable, the Possible, and the False'': 1624) are devoted to an exposition of Herbert's [[Epistemology|theory of knowledge]]. Herbert distinguished truths obtained through experience, and through reasoning about experience, from innate truths and from revealed truths. Innate truths are imprinted on our minds, and the evidence that they are so imprinted is that they are universally accepted. Herbert's term for universally accepted truths was ''notitiae communes''{{spaced ndash}}Common Notions.
+
+Common Notions provide both foundation and limits of his conclusions, as is apparent in his reasoning that “we ought to be sorry for our sins and repent of them”:<ref
+name="Orr, 1934, p.62">
+{{cite book
+    |last= Orr
+    |title=(see above)
+}}  Herbert’s list of these Notions is quoted at p.62.</ref>
+
+    {{quote|
+
+There is no general agreement concerning the various rites or mysteries which the priests have devised for the expiation of sin. .. General agreement among religions, the nature of divine goodness, and above all conscience, tell us that our crimes may be washed away by true penitence ..
+    }}
+
+and
+
+    {{quote |
+
+ I do not wish to consider here whether any other more appropriate means exists by which the divine justice may be appeased, since I have undertaken in this work only to rely on truths which are .. derived from the evidence of immediate perception and admitted by the whole world.
+
+        |Lord Herbert of Cherbury, ''De Veritate''<ref>
+{{cite book
+    | last= Gay
+    | title= (see above)
+}}  The extracts are from a longer passage (pp.29 ff.) where the fundamental impact of Locke's attack on innate ideas in Herbert's philosophy is obvious: 
+        {{quote|
+No general agreement exists concerning the Gods, but there is universal recognition of God. Every religion in the past has acknowledged, every religion in the future will acknowledge, some sovereign deity among the Gods. ..
+
+Accordingly that which is everywhere accepted as the supreme manifestation of deity, by whatever name it may be called, I term God.
+
+While there is no general agreement concerning the worship of Gods, sacred beings, saints, and angels, yet the Common Notion or Universal Consent tells us that adoration ought to be reserved for the one God. Hence divine religion &mdash; and no race, however savage, has existed without some expression of it &mdash; is found established among all nations. ..
+
+The connection of Virtue with Piety, defined in this work as the right conformation of the faculties, is and always has been held to be, the most important part of religious practice. There is no general agreement concerning rites, ceremonies, traditions .. ; but there is the greatest possible consensus of opinion concerning the right conformation of the faculties. .. Moral virtue .. is and always has been esteemed by men in every age and place and respected in every land. ..
+
+There is no general agreement concerning the various rites or mysteries which the priests have devised for the expiation of sin. .. General agreement among religions, the nature of divine goodness, and above all conscience, tell us that our crimes may be washed away by true penitence, and that we can be restored to new union with God. .. I do not wish to consider here whether any other more appropriate means exists by which the divine justice may be appeased, since I have undertaken in this work only to rely on truths which are not open to dispute but are derived from the evidence of immediate perception and admitted by the whole world.
+
+The rewards that are eternal have been variously placed in heaven, in the stars, in the [[Elysium|Elysian fields]] .. Punishment has been thought to lie in [[metempsychosis]], in hell, .. or in temporary or everlasting death. But all religion, law, philosophy, and .. conscience, teach openly or implicitly that punishment or reward awaits us after this life. .. [T]here is no nation, however barbarous, which has not and will not recognise the existence of punishments and rewards. That reward and punishment exist is, then, a Common Notion, though there is the greatest difference of opinion as to their nature, quality, extent, and mode.
+
+It follows from these considerations that the dogmas which recognize a sovereign Deity, enjoin us to worship Him, command us to live a holy life, lead us to repent our sins, and warn us of future recompense or punishment, proceed from God and are inscribed within us in the form of Common Notions.
+
+Revealed truth exists; and it would be unjust to ignore it. But its nature is quite distinct from the truth [based on Common Notions] .. [T]he truth of revelation depends upon the authority of him who reveals it. We must, then, proceed with great care in discerning what actually is revealed. .. [W]e must take great care to avoid deception, for men who are depressed, superstitious, or ignorant of causes are always liable to it.
+        }}
+</ref>
+    }}
+
+In the realm of religion, Herbert believed that there were five Common Notions.<ref name="González1984"/>
+
+{{quote|
+* There is one Supreme God.
+* He ought to be worshipped.
+* Virtue and piety are the chief parts of divine worship.
+* We ought to be sorry for our sins and repent of them
+* Divine goodness doth dispense rewards and punishments both in this life and after it.
+    | Lord Herbert of Cherbury, ''The Antient Religion of the Gentiles, and Causes of Their Errors'', pp. 3–4<ref
+name="Orr, 1934, p.62"/>}}
+
+''De Veritate'' has been described as "the first major statement of deism",<ref>
+{{cite book
+    |last= Orr
+    |title=(see above)
+}} p.59ff.</ref> but Herbert was convinced of divine intervention, particularly in response to prayer, and this is a clear conflict with its basic ideas.<ref>{{cite journal
+    | last=       Waligore
+    | first=       Joseph
+    | date=       2012
+    | title=       The Piety of the English Deists
+    | journal=  Intellectual History Review
+    | volume= 22
+    | issue=     2
+    | pages=    181–197
+    | doi=        10.1080/17496977.2012.693742
+ }}                 Waligore mentions Herbert’s account (Herbert, ''The Life of Edward Lord Herbert of Cherbury'' (Dublin, 1771), 244–245) in which he states he “prayed "I am not satisfied enough whether I shall publish this Book, De Veritate; if it be for Thy glory, I beseech Thee give me some Sign from Heaven, if not, I shall suppress it" and recounts that the response was "a loud tho' yet gentle Noise came from the Heavens (for it was like nothing on Earth). .. I had the Sign I demanded."” (p.189)  Waligore argues that instead of saying Herbert was not a deist, we should change our notions about the deists and their relationship to God through prayer.
+</ref>
+
+In the years following ''De Veritate'', early works of biblical criticism, such as Thomas Hobbes's ''[[Leviathan (Hobbes book)|Leviathan]]'' (1651/ 1668) and [[Spinoza]]'s ''[[Theologico-Political Treatise]]'' (1670), as well as works by lesser-known authors such as [[Richard Simon (priest)|Richard Simon]] (1678) and [[Isaac La Peyrère]] (1655/1656), paved the way for the development of critical deism.
+
+According to Gay, Herbert himself had relatively few followers, and it was not until the 1680s that Herbert found a true successor in [[Charles Blount (deist)|Charles Blount]] (1654–1693). Blount drew on pagan ideas from antiquity to attack Christianity.<ref>{{
+        Cite book
+            |last=    Gay
+            |title=   (see above)
+        }} "By utilizing his wide classical learning, Blount demonstrated how to use pagan writers, and pagan ideas, against Christianity. ... Other Deists were to follow his lead." (pp.47-48)</ref>
+
+===Deism in Britain===
+
+====John Locke====
+The publication of [[John Locke]]'s ''An Essay Concerning Human Understanding'' (1689, but dated 1690) marks a major turning point in the history of deism. Since Herbert's ''De Veritate'', [[innate idea]]s had been the foundation of deist [[epistemology]]. Locke's famous attack on innate ideas in the first book of the ''Essay'' effectively destroyed that foundation and replaced it with a theory of knowledge based on experience. ''Innatist'' deism was replaced by ''empiricist'' deism. Locke himself was not a deist. He believed in both miracles and revelation, and he regarded miracles as the main proof of revelation.<ref>
+{{cite book
+    |last= Orr
+    |title=(see above)
+}} pp.96-99.</ref>
+
+After Locke, constructive deism could no longer appeal to innate ideas for justification of its basic tenets such as the existence of God. Instead, under the influence of Locke and Newton, deists turned to natural theology and to arguments based on experience and nature: the cosmological argument and the [[argument from design]].
+
+===={{anchor|The rise of British deism (1690–1740)}}Flowering of classical deism, 1690–1740====
+<!-- This Anchor tag serves to provide a permanent target for incoming section links. Please do not move it out of the section heading, even though it disrupts edit summary generation (you can manually fix the edit summary before saving your changes). Please do not modify it, even if you modify the section title. It is always best to anchor an old section header that has been changed so that links to it won't be broken. See [[Template:Anchor]] for details. (This text: [[Template:Anchor comment]]) -->
+Peter Gay places the zenith of deism "from the end of the 1690s, when the vehement response to [[John Toland]]'s ''[[Christianity not Mysterious]]'' (1696) started the deist debate, to the end of the 1740s when the tepid response to [[Conyers Middleton]]'s ''Free Inquiry'' signalled its close."  Among the notable figures, he describes Toland and [[Matthew Tindal]] as the best known but as talented publicists rather than philosophers or scholars.  He regards Middleton and [[Anthony Collins]] as contributing more to the substance of debate; in contrast with fringe writers such as [[Thomas Chubb]] and [[Thomas Woolston]].<ref
+name="Gay, 1968, pp.9-10">
+{{Cite book
+    |last=Gay
+    |title=(see above)
+}}  “Among the Deists, only Anthony Collins (1676–1729) could claim much philosophical competence; only Conyers Middleton (1683–1750) was a really serious scholar. The best known Deists, notably John Toland (1670–1722) and Matthew Tindal (1656–1733), were talented publicists, clear without being deep, forceful but not subtle. ... Others, like Thomas Chubb (1679–1747), were self-educated freethinkers; a few, like Thomas Woolston (1669–1731), were close to madness.” (pp.9-10)</ref>
+
+Other British deists prominent during the period include [[William Wollastson]], [[Charles Blount (deist)|Charles Blount]], and
+[[Henry St John, 1st Viscount Bolingbroke]],<ref>{{Cite news
+    |url=https://www.britannica.com/topic/Deism
+    |title=Deism {{!}} religious philosophy
+    |work=Encyclopedia Britannica
+    |access-date=2017-09-27
+    |language=en
+}}</ref> and, in the latter part, [[Peter Annet]], [[Thomas Chubb]] and [[Thomas Morgan (deist)|Thomas Morgan]].
+
+[[Anthony Ashley-Cooper, 3rd Earl of Shaftesbury|Anthony Ashley-Cooper, Third Earl of Shaftesbury]] was also influential.  Though not presenting himself as a deist, he shared many of their key attitudes and is now usually so regarded.<ref>
+{{Cite book
+    |last=Gay
+    |title=(see above)
+}}        Gay describes him (pp.78-79) as "a Deist in fact, if not in name".</ref>
+
+====Matthew Tindal====
+Especially noteworthy is Matthew Tindal's ''Christianity as Old as the Creation'' (1730), which "became, very soon after its publication, the focal center of the deist controversy. Because almost every argument, quotation, and issue raised for decades can be found here, the work is often termed 'the deist's Bible'."<ref>{{cite book
+    | last=Waring
+    | title=(see above)
+}}           p.107.</ref>  Following Locke's successful attack on innate ideas, Tindal's 'Bible' redefined the foundation of deist [[theory of knowledge|epistemology]] as knowledge based on experience or human reason. This effectively widened the gap between traditional Christians and what he called "Christian Deists", since this new foundation required that "revealed" truth be validated through human reason.
+
+====David Hume====
+[[File:David Hume.jpg|thumb|upright|David Hume]]
+
+Views differ on whether [[David Hume]] was a deist, an [[atheist]], or something else. Hume himself was uncomfortable with both terms, and Hume scholar [[Paul Russell (philosopher)|Paul Russell]] has argued that the best and safest term for Hume's views is ''[[irreligion]]''.<ref>
+{{cite encyclopedia
+    |url=                  http://plato.stanford.edu/entries/hume-religion/
+    |title=                Hume on Religion
+    |encyclopedia= Stanford Encyclopedia of Philosophy
+    |year=               2005
+    |first=                Paul
+    |last=                 Russell
+    |authorlink=      Paul Russell (philosopher)
+    |accessdate=     2009-12-17
+}}
+</ref>  His writings are sometimes credited with causing or contributing to the decline of deism, but his works on religion lacked influence at the time they were published,<ref>
+{{cite book
+    |last= Orr
+    |title=(see above)
+}} p.173.</ref> and in England deism was already in decline.<ref>
+{{Cite book
+    |last=Gay
+    |title=(see above)
+}} p.140.</ref>  By the time of his famous ''Dialogues Concerning Natural Religion'' (1779) it had almost vanished.
+
+His skepticism about miracles makes him a natural ally of deism, but in his ''Natural History of Religion'' (1757),  he contends that polytheism, not monotheism, was "the first and most ancient religion of mankind" and that the psychological basis of religion is not reason, but fear of the unknown.<ref>{{Cite book
+    | last=             Hume
+    | first=            David
+    | authorlink=  David Hume
+    | title=            The Natural History of Religion
+    | year=            1779
+}}  “The primary religion of mankind arises chiefly from an anxious fear of future events; and what ideas will naturally be entertained of invisible, unknown powers, while men lie under dismal apprehensions of any kind, may easily be conceived. Every image of vengeance, severity, cruelty, and malice must occur, and must augment the ghastliness and horror which oppresses the amazed religionist. .. And no idea of perverse wickedness can be framed, which those terrified devotees do not readily, without scruple, apply to their deity.”  (Section XIII)
+</ref>
+
+His skepticism about the validity of natural religion cuts equally against both deism and its opponents, who were also deeply involved in natural theology.  “The clear reasonableness of natural religion disappeared before a semi-historical look at what can be known about uncivilized man— "a barbarous, necessitous animal," as Hume termed him. Natural religion, if by that term one means the actual religious beliefs and practices of uncivilized peoples, was seen to be a fabric of superstitions. Primitive man was no unspoiled philosopher, clearly seeing the truth of one God. And the history of religion was not, as the deists had implied, retrograde; the widespread phenomenon of superstition was caused less by priestly malice than by man's unreason as he confronted his experience.”<ref>{{cite book
+    | last=Waring
+    | title=(see above)
+}}</ref>
+
+===Deism in continental Europe===
+[[File:D'après Nicolas de Largillière, portrait de Voltaire (Institut et Musée Voltaire) -001.jpg|thumb|left|upright|Voltaire at age 24 <br>by [[Nicolas de Largillière]] ]]
+English deism, in the words of Peter Gay, "travelled well. ... As Deism waned in England, it waxed in France and the German states."<ref>
+{{Cite book
+    |last=Gay
+    |title=(see above)
+}}          p.143</ref>
+
+France had its own tradition of religious skepticism and natural theology in the works of [[Montaigne]], [[Pierre Bayle|Bayle]], and [[Montesquieu]]. The most famous of the French deists was [[Voltaire]], who acquired a taste for Newtonian science, and reinforcement of deistic inclinations, during a two-year visit to England starting in 1726.
+
+French deists also included [[Maximilien Robespierre]] and [[Rousseau]]. For a short period of time during the French Revolution the [[Cult of the Supreme Being]] was the state religion of France.
+
+[[Immanuel Kant|Kant]]'s identification with deism is controversial. An argument in favor of Kant as deist is Allen Wood's "Kant's Deism," in P. Rossi and M. Wreen (eds.), ''Kant's Philosophy of Religion Reconsidered'' (Bloomington: Indiana University Press, 1991); an argument against Kant as deist is Stephen Palmquist's [http://www.hkbu.edu.hk/~ppp/srp/arts/KTS.html "Kant's Theistic Solution"].
+
+===Deism in the United States===
+[[File:Thomas Paine.jpg|right|thumb|upright|Thomas Paine]]
+
+In the United States, Enlightenment philosophy (which itself was heavily inspired by deist ideals) played a major role in creating the principle of religious freedom, expressed in Thomas Jefferson's letters and included in the [[First Amendment to the United States Constitution]]. [[Founding Fathers of the United States|American Founding Fathers, or Framers of the Constitution]], who were especially noted for being influenced by such philosophy include Thomas Jefferson, Benjamin Franklin, [[Cornelius Harnett]], [[Gouverneur Morris]], and [[Hugh Williamson]]. Their political speeches show distinct deistic influence.{{citation needed|date=June 2015}}
+
+Other notable Founding Fathers may have been more directly deist. These include [[James Madison]], possibly [[Alexander Hamilton]], [[Ethan Allen]],<ref>{{cite web
+ |url          = http://www.ethanallenhomestead.org/history/oracle.htm#excerpts
+ |title        = Excerpts from Allen's ''Reason The Only Oracle Of Man''
+ |publisher    = Ethan Allen Homestead Museum
+ |access-date  = 2008-05-01
+ |archive-url  = https://web.archive.org/web/20080502050943/http://www.ethanallenhomestead.org/HISTORY/oracle.htm#excerpts
+ |archive-date = 2008-05-02
+ |dead-url     = yes
+ |df           = 
+}}
+</ref>
+and [[Thomas Paine]] (who published ''[[The Age of Reason]]'', a treatise that helped to popularize deism throughout the United States and Europe).
+
+Unlike the many deist tracts aimed at an educated elite, Paine's treatise explicitly appealed to ordinary people, using direct language familiar to the laboring classes. How widespread deism was among ordinary people in the United States is a matter of continued debate.<ref>{{cite web|url=http://www.common-place.org/interim/reviews/dilorenzo.shtml#.VV90HvlViko |archive-url=https://web.archive.org/web/20140302202951/http://www.common-place.org/interim/reviews/dilorenzo.shtml |dead-url=yes |archive-date=2014-03-02 |title=Culture Wars in the Early Republic |publisher=Common-place |df= }}</ref>
+
+A major contributor was [[Elihu Palmer]] (1764–1806), who wrote the "Bible" of American deism in his ''[[Principles of Nature]]'' (1801) and attempted to organize deism by forming the "Deistical Society of New York" and other deistic societies from Maine to Georgia.<ref>{{Cite book |authorlink=Kerry S. Walters |author=Walters, Kerry S. |title=Rational Infidels: The American Deists |publisher=Longwood Academic |location=[[Durango, CO]] |date=1992 |isbn=0-89341-641-X}}</ref>
+
+In the United States there is controversy over whether the Founding Fathers were Christians, deists, or something in between.<ref>
+{{cite web
+ |url=http://www.firstthings.com/ftissues/ft0501/articles/dulles.htm
+ |title=The Deist Minimum
+ |work=First Things
+ |year=2005}}
+</ref><ref>
+{{cite book
+ |last=Holmes
+ |first=David
+ |authorlink=David L. Holmes
+ |title=The Faiths of the Founding Fathers
+ |publisher=Oxford University Press, USA
+ |location=New York, NY
+ |year=2006
+ |pages=
+ |doi=
+ |isbn=0-19-530092-0}}
+</ref> Particularly heated is the debate over the beliefs of Benjamin Franklin, Thomas Jefferson, and [[George Washington]].<ref>
+{{cite news
+ |author=David Liss
+ |date=11 June 2006
+ |url=https://www.washingtonpost.com/wp-dyn/content/article/2006/06/08/AR2006060801123.html
+ |title=The Founding Fathers Solving modern problems, building wealth and finding God
+ |newspaper=Washington Post}}
+</ref><ref>
+{{cite web
+ |url=http://www.sullivan-county.com/id3/jefferson_deist.htm
+ |title=Was Thomas Jefferson a Deist?
+ |author=Gene Garman
+ |publisher=Sullivan-County.com
+ |year=2001}}
+</ref><ref>
+{{cite web
+ |url=http://www.findarticles.com/p/articles/mi_m2843/is_2_28/ai_114090213/pg_1
+ |archive-url=https://web.archive.org/web/20071012180005/http://findarticles.com/p/articles/mi_m2843/is_2_28/ai_114090213/pg_1
+ |dead-url=yes
+ |archive-date=2007-10-12
+ |title=Benjamin Franklin: An American Life
+ |author=Walter Isaacson
+ |publisher=[[Skeptical Inquirer]]
+ |date=March–April 2004}}
+</ref>
+
+Benjamin Franklin wrote in his autobiography, 
+{{quote | Some books against Deism fell into my hands; they were said to be the substance of sermons preached at Boyle's lectures. It happened that they wrought an effect on me quite contrary to what was intended by them; for the arguments of the Deists, which were quoted to be refuted, appeared to me much stronger than the refutations; in short, I soon became a thorough Deist. My arguments perverted some others, particularly Collins and Ralph; but each of them having afterwards wrong'd me greatly without the least compunction, and recollecting Keith's conduct towards me (who was another freethinker) and my own towards Vernon and Miss Read, which at times gave me great trouble, I began to suspect that this doctrine, tho' it might be true, was not very useful.<ref>
+{{cite book
+ |last=Franklin
+ |first=Benjamin
+ |authorlink=Benjamin Franklin
+ |title=Benjamin Franklin: Autobiography, Poor Richard, and Later Writings
+ |publisher=Library of America
+ |location=New York, NY
+ |year=2005
+ |page=619
+ |doi=
+ |isbn= 1-883011-53-1}}
+</ref><ref>
+{{cite web
+ |url=http://faculty.umf.maine.edu/~walters/web%20103/Ben%20Franklin.htm
+ |archive-url=https://archive.is/20121210090217/http://faculty.umf.maine.edu/~walters/web%20103/Ben%20Franklin.htm
+ |dead-url=yes
+ |archive-date=2012-12-10
+ |title=Benjamin Franklin, Autobiography
+ |publisher=University of Maine, Farmington}}
+</ref>}}
+Franklin also wrote that, "The Deity sometimes interferes by his particular Providence, and sets aside the Events which would otherwise have been produc'd in the Course of Nature, or by the Free Agency of Man."<ref>Benjamin Franklin, [https://web.archive.org/web/20021114204257/http://www.historycarper.com/resources/twobf2/provdnc.htm On the Providence of God in the Government of the World] (1730).
+</ref>
+He later stated, in the Constitutional Convention, that "the longer I live, the more convincing proofs I see of this truth -- that God governs in the affairs of men."<ref>{{cite book|editor=Max Farrand|url=http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=1057&Itemid=27|title=The Records of the Federal Convention of 1787|location=New Haven|publisher=Yale University Press|year=1911|volume=1|page=451}}
+</ref>
+
+For his part, Thomas Jefferson is perhaps one of the [[Founding Fathers]] with the most outspoken of deist tendencies, though he is not known to have called himself a deist, generally referring to himself as a [[Unitarianism|Unitarian]]. In particular, his treatment of the Biblical gospels, which he titled ''[[The Life and Morals of Jesus of Nazareth]]'', but subsequently became more commonly known as the ''Jefferson Bible'', exhibits a strong deist tendency of stripping away all supernatural and dogmatic references from the Christ story. However, Frazer, following the lead of [[Sydney Ahlstrom]], characterizes Jefferson as not a Deist but a [[Theistic rationalism|"theistic rationalist"]], because Jefferson believed in God's continuing activity in human affairs.<ref>{{cite book|first=Gregg L.|last=Frazer|title=The Religious Beliefs of America's Founders: Reason, Revelation, Revolution|publisher=University Press of Kansas|year=2012|page=11}}</ref><ref>{{cite book|first=Sydney E.|last=Ahlstrom|title=A Religious History of the American People|year=2004|page=359}}</ref> Frazer cites Jefferson's ''Notes on the State of Virginia'', where he wrote, "I tremble" at the thought that "God is just," and he warned of eventual "supernatural influence" to abolish the scourge of slavery.<ref>Frazer, ''Religious Beliefs of America's Founders,'' p. 128 quoting Jefferson's ''Notes on the State of Virginia'', 1800 ed., p. 164.</ref><ref>Other scholars call Jefferson a "theistic rationalist" (although that term was coined later), such as {{Cite book|author=Gary Scott Smith|title=Faith and the Presidency: From George Washington to George W. Bush|url=https://books.google.com/books?id=eC9fM42OE9MC&pg=PA69|year=2006|publisher=Oxford U.P. |page=69|isbn=9780198041153}}</ref>
+
+===Decline and rebirth of deism===
+Deism is generally considered to have declined as an influential school of thought by around 1800, but has experienced an extraordinary resurgence in the early 21st century as its simple science- and reason-based philosophy has been rediscovered in the internet Age.
+
+A variety of possible reasons for the decline of the former "classical" deism can be identified:
+* the rise, growth, and spread of [[metaphysical naturalism|naturalism]]<ref name=IEP-Hume /> and [[materialism]], which were [[atheistic]]
+* the writings of David Hume<ref name=IEP-Hume>
+{{cite encyclopedia
+ |url=http://www.utm.edu/research/iep/d/deismeng.htm#Hume%27s%20Influence |title=English Deism |year=2006
+ |encyclopedia=The Internet Encyclopedia of Philosophy |accessdate=2009-12-16}}
+</ref><ref name=EoP-Mossner>
+{{cite encyclopedia
+ |title=Deism |first=Ernest Campbell |last=Mossner |authorlink=Ernest Campbell Mossner |publisher=Collier-MacMillan |year=1967
+ |encyclopedia=[[Encyclopedia of Philosophy]] |volume=2 |pages=326–336}}
+</ref> and [[Immanuel Kant]]<ref name=EoP-Mossner /> (and later, [[Charles Darwin]]), which increased doubt about the [[first cause]] argument and the argument from design, turning many (though not all) potential deists towards atheism instead
+* criticisms (by writers such as [[Joseph-Marie de Maistre]] and [[Edmund Burke]]) of excesses of the French Revolution, and consequent rising doubts that reason and [[rationalism]] could solve all problems<ref name=EoP-Mossner />
+* deism became associated with [[pantheism]], [[freethought]], and atheism, all of which became associated with one another, and were so criticized by Christian apologists<ref name=IEP-Hume /><ref name=EoP-Mossner />
+* frustration with the determinism implicit in "[[The best of all possible worlds|This is the best of all possible worlds]]"
+* classical deism remained a personal philosophy and never became an organized movement
+* with the rise of [[Unitarianism]], based on deistic principles, people self-identified as Unitarians rather than as deists<ref name=EoP-Mossner />
+* an anti-deist and anti-reason campaign by some Christian clergymen and theologians such as [[Johann Georg Hamann]] to vilify deism
+* Christian revivalist movements, such as [[Pietism]] and [[Methodism]], which taught that a more personal relationship with a deity was possible<ref name=EoP-Mossner />
+* spread of deist influence to other schools of thought and associated decline in the use of the term "Deism".
+
+Gay has described classical deism as entering slow final decline, as a recognisable movement, in the 1730s.<ref>{{cite book
+    |last=Gay
+    |title=(see above)
+}}
+“After the writings of Woolston and Tindal, English deism went into slow decline. ... By the 1730s, nearly all the arguments in behalf of Deism ... had been offered and refined; the intellectual caliber of leading Deists was none too impressive; and the opponents of deism finally mustered some formidable spokesmen. The Deists of these decades, Peter Annet (1693–1769), Thomas Chubb (1679–1747), and Thomas Morgan (?–1743), are of significance to the specialist alone. ... It had all been said before, and better. .”  (p.140)
+</ref>  Instead, deism evolved into, and contributed to, other religious movements. The term ''deist'' largely fell into disuse; deist beliefs, ideas, and influences lived on. They can be seen in 19th-century liberal British theology and in the rise of Unitarianism, which adopted many of deism's beliefs and ideas.
+
+==Contemporary deism==
+Contemporary deism attempts to integrate classical deism with modern philosophy and the current state of scientific knowledge. This attempt has produced a wide variety of personal beliefs under the broad classification of belief of "deism."
+
+Classical deism held that a human's [[Interpersonal relationship|relationship]] with God was impersonal: God created the world and set it in motion but does not actively intervene in individual human affairs but rather through [[divine providence]]. What this means is that God will give humanity such things as reason and compassion but this applies to all and not to individual intervention.
+
+Some modern deists{{who|date= November 2018}} have modified this classical view and believe that humanity's relationship with God is [[transpersonal]], which means that God transcends the personal/impersonal duality and moves beyond such human terms. Also, this means that it makes no sense to state that God intervenes or does not intervene, as that is a human characteristic that God does not contain. Modern deists believe that they must continue what the classical deists started and continue to use modern human knowledge to come to understand God, which in turn is why a human-like God that can lead to numerous contradictions and inconsistencies is no longer believed in and has been replaced with a much more abstract conception.
+
+A modern definition<ref>{{cite web|url=http://www.deism.com/deism_defined.htm|title=Deism Defined}}</ref> has been created and provided by the World Union of Deists (WUD) that provides a modern understanding of deism:
+
+{{Quote|Deism is the recognition of a universal creative force greater than that demonstrated by mankind, supported by personal observation of laws and designs in nature and the universe, perpetuated and validated by the innate ability of human reason coupled with the rejection of claims made by individuals and organized religions of having received special divine revelation.}}
+
+Because deism asserts the existence of God without accepting claims of divine revelation, it appeals to people from both ends of the religious spectrum. [[Antony Flew]], for example, was a convert from atheism, and Raymond Fontaine was a Roman Catholic priest for over 20 years before converting.<ref>{{cite web|url=http://www.deism.com/to-natures-god.net|title=Raymond Fontaine's website: From Catholic Priest to Deist With Nature's God|publisher=deism.com}}</ref>
+
+The 2001 [[American Religious Identification Survey]] (ARIS), which involved 50,000 participants, reported that the number of participants in the survey identifying themselves as deists grew at the rate of 717 percent between 1990 and 2001. If this were generalized to the US population as a whole, it would make deism the [[Claims to be the fastest growing religion|fastest-growing religious classification]] in the US for that period, with the reported total of 49,000 self-identified adherents representing about 0.02% of the US population at the time.<ref name="autogenerated2005">{{cite web
+ |url=http://www.gc.cuny.edu/faculty/research_briefs/aris/key_findings.htm 
+ |archive-url=https://web.archive.org/web/20051024031359/http://www.gc.cuny.edu/faculty/research_briefs/aris/key_findings.htm 
+ |dead-url=yes 
+ |archive-date=2005-10-24 
+ |title=ARIS key findings, 2001 
+ |df= 
+}}</ref><ref name="Adherents.com">{{cite web
+|url=http://www.adherents.com/rel_USA.html
+|title=Largest Religious Groups in the United States of America
+|publisher=Adherents.com}}</ref>
+
+As of the time of the 2008 ARIS survey, 12 percent (38 million) of the American population were classified as deists.<ref>{{cite web
+|url=http://commons.trincoll.edu/aris/files/2011/08/ARIS_Report_2008.pdf
+|title=ARIS Summary Report, March 2009 |year=2009 |accessdate=2017-03-18}}
+</ref>
+
+===Modern deistic organizations and websites===
+
+In 1993, Bob Johnson established the first deist organization since the days of Thomas Paine and Elihu Palmer with the World Union of Deists. The WUD offered the monthly paper publication ''THINK!'' Currently the WUD offers two online deist publications, ''THINKonline!'' and ''Deistic Thought & Action!'' As well as using the internet for spreading the deist message, the WUD is also conducting a direct mail campaign.
+
+In 1996 the first web site dedicated to deism, deism.com, was launched by the World Union of Deists. In 1998, Sullivan-County.com<ref>{{cite web|url=http://www.sullivan-county.com/deism.htm |title=Deism and Reason |publisher=Sullivan-county.com |date= |accessdate=2010-09-27}}</ref> was originally the Virginia/Tennessee affiliate of WUD and the second deism site on the web. It split from deism.com to promote more traditional and historical deist beliefs and history.
+
+The Positive Deism movement began in 2004. Historically and to the present day, deists have been very critical of the revealed religions as well as trying to be constructive. Positive Deists focus their efforts solely on being constructive and avoid criticism of other faiths. In 2009 Chuck Clendenen, one of its adherents, published a book entitled "Deist: so that's what I am!". The aim of the book was to educate those who believed similarly, but did not know the words deism and deist, that there is a name for their belief.
+
+In 2009, the World Union of Deists published a book on deism, ''Deism: A Revolution in Religion, A Revolution in You'' written by its founder and director, Bob Johnson. This book focuses on what deism has to offer both individuals and society. In 2010 the WUD published the book ''An Answer to C.S. Lewis' Mere Christianity'', which is a rebuttal to the book ''Mere Christianity'' by the Christian apologist [[C.S. Lewis]]. In 2014, the WUD published its third book, ''God Gave Us Reason, Not Religion'', which describes the difference between God and religion, and promotes innate reason as God's greatest gift to humanity, other than life itself. It proposes that people can have belief in The Supreme Intelligence/God that is beyond a reasonable doubt.
+
+The World Union of Deists in 2016 became a producer of the film adaptation of Ian Ruskin's play [https://www.imdb.com/title/tt3826458/ To Begin the World Over Again: The Life of Thomas Paine]. The film includes important coverage of Thomas Paine's profound Deism and his work to promote Deism.
+
+In 2010, the Church of Deism (not affiliated with the World Union of Deists) was formed in an effort to extend the legal rights and privileges of more traditional religions to Deists while maintaining an absence of established dogma and ritual.
+
+===Subcategories of contemporary deism===
+{{Refimprove section|date=October 2012}}
+Modern deists hold a wide range of views on the nature of God and God's relationship to the world. The common area of agreement is the desire to use reason, experience, and nature as the basis of belief.
+
+There are a number of subcategories of modern deism, including [[monodeism]] (this being the default standard concept of deism), [[polydeism]], [[pandeism]], spiritual deism, [[process deism]], [[Christian deism]], [[scientific deism]], and [[humanistic deism]]. Some deists see design in nature and purpose in the universe and in their lives (Prime Designer). Others see God and the universe in a co-creative process (Prime Motivator). Some deists view God in classical terms and see God as observing humanity but not directly intervening in our lives (Prime Observer), while others see God as a subtle and persuasive spirit who created the world, but then stepped back to observe (Prime Mover).
+
+====Pandeism====
+{{Main|Pandeism}}
+Pandeism combines elements of deism with elements of [[pantheism]], the belief that the universe is identical to God. Pandeism holds that God was a conscious and sentient force or entity that designed and created the universe, which operates by mechanisms set forth in the creation. God thus became an unconscious and nonresponsive being by ''becoming'' the universe. Other than this distinction (and the possibility that the universe will one day return to the state of being God), pandeistic beliefs are deistic. The earliest allusion to pandeism found to date is in 1787, in translator [[Gottfried Große]]'s interpretation of [[Pliny the Elder]]'s [[Natural History (Pliny)|Natural History]]:
+
+{{quote|Beym. Plinius, den man, wo nicht Spinozisten, doch einen '''Pandeisten''' nennen konnte, ist Natur oder Gott kein von der Welt getrenntes oder abgesondertes Wesen. Seine Natur ist die ganze Schöpfung im Konkreto, und eben so scheint es mit seiner Gottheit beschaffen zu seyn.<ref name="Große">{{Cite book|last=Große|first=Gottfried|url=https://books.google.com/?id=6ro9AAAAcAAJ&pg=PA165&dq=pandeisten&cd=2#v=onepage&q=pandeisten&f=false|title=Naturgeschichte: mit erläuternden Anmerkungen|year=1787|page=165}}</ref>}}
+
+Here Gottfried says that Pliny is not [[Baruch Spinoza|Spinozist]], but 'could be called a pandeist' whose Nature or God 'is not a being separate from the world. Its nature is the whole creation in concrete form, and thus it seems to be designed with its divinity.' The term was used in 1859 by [[German people|German]] philosophers and frequent collaborators [[Moritz Lazarus]] and [[Heymann Steinthal]] in ''Zeitschrift für Völkerpsychologie und Sprachwissenschaft''. They wrote:
+
+{{quote|Man stelle es also den Denkern frei, ob sie Theisten, Pan-theisten, Atheisten, Deisten (und warum nicht auch Pandeisten?)<ref>Moritz Lazarus and Heymann Steinthal, ''Zeitschrift für Völkerpsychologie und Sprachwissenschaft'' (1859), p. 262.</ref>}}
+
+This is translated as:
+
+{{quote|So we should let these thinkers decide themselves whether they are theists, pan-theists, atheists, deists (and why not even pandeists?)}}
+
+In the 1960s, theologian [[Charles Hartshorne]] scrupulously examined and rejected both deism and pandeism (as well as pantheism) in favor of a conception of God whose characteristics included "absolute perfection in some respects, relative perfection in all others" or "AR", writing that this theory "is able consistently to embrace all that is positive in either deism or pandeism", concluding that "panentheistic doctrine contains all of deism and pandeism except their arbitrary negations".<ref>{{cite book|first=Charles|last=Hartshorne|title=Man's Vision of God and the Logic of Theism|year=1964|page=348|isbn=0-208-00498-X}}</ref>
+
+===Contemporary deist opinions on prayer===
+Many classical deists were critical of some types of prayer. For example, in ''[[Matthew Tindal#Christianity as Old as the Creation|Christianity as Old as the Creation]]'', Matthew Tindal argues against praying for miracles, but advocates prayer as both a human duty and a human need.<ref>{{cite web|url=http://www.dynamicdeism.org/library/christianity_as_old_as_the_creat.htm#_Toc86950608|title=External link to portion of text|publisher=|access-date=2007-01-11|archive-url=https://web.archive.org/web/20070209010328/http://www.dynamicdeism.org/library/christianity_as_old_as_the_creat.htm#_Toc86950608#_Toc86950608|archive-date=2007-02-09|dead-url=yes|df=}}</ref>
+
+Today, deists hold a variety of opinions about prayer:
+* Some contemporary deists{{who|date= November 2018}} believe (with the classical deists) that God has created the universe perfectly, so no amount of supplication, request, or begging can change the fundamental nature of the universe.
+* Some deists{{who|date= November 2018}} believe that God is not an entity that can be contacted by human beings through petitions for relief; rather, God can only be experienced through the nature of the universe.
+* Most deists do not believe in divine intervention, but still find value in prayer as a form of meditation, self-cleansing, and spiritual renewal. Such prayers are often appreciative (that is, "Thank you for ...") rather than supplicative (that is, "Please, God, grant me ...").<ref>{{cite web|url=http://deism.com/deism_defined.htm |title=Deism Defined, Welcome to Deism, Deist Glossary and Frequently Asked Questions |publisher=Deism.com |date=2009-06-25 |accessdate=2010-09-27}}</ref>
+* Some deists practice meditation and make frequent use of [[affirmative prayer]], a non-supplicative form of prayer that is common in the [[New Thought]] movement.<ref>{{cite web |last1=Lockard |first1=Jim |title=Affirmative Prayer |url=https://newthoughtevolutionary.wordpress.com/2017/11/11/thoughts-prayers/ |website=Affirmative Prayer |publisher=Affirmative Prayer |accessdate=31 July 2018}}</ref>
+
+===Recent discussion of the role of deism===
+[[Charles Taylor (philosopher)|Charles Taylor]], in his 2007 book ''[[A Secular Age]]'', showed the historical role of deism, leading to what he calls an exclusive humanism. This humanism invokes a moral order, whose [[ontic]] commitment is wholly intra-human, with no reference to transcendence.<ref>{{cite book
+    | last=        Taylor
+    | first=        C
+    | year=        2007
+    | title=         A Secular Age
+    | location=  Cambridge, Massachusetts
+    | publisher=Harvard University Press
+  }}                  p.256.
+</ref> One of the special achievements of such deism-based humanism is that it discloses new, anthropocentric moral sources by which human beings are motivated and empowered to accomplish acts of mutual benefit.<ref>{{cite book
+    | last=Taylor
+    | title=(see above)
+}}           p.257.
+</ref> This is the province of a buffered, disengaged self, which is the locus of dignity, freedom and discipline, and is endowed with a sense of human capability.<ref>{{cite book
+    | last=Taylor
+    | title=(see above)
+}}           p.262.
+</ref> According to Taylor, by the early 19th century this deism-mediated exclusive humanism developed as an alternative to Christian faith in a [[personal God]] and an order of miracles and mystery. Some critics of deism have accused adherents of facilitating the rise of [[nihilism]].<ref>Essien, Anthonia M. "The sociological implications of the worldview of the Annang people: an advocacy for paradigm shift." Journal of Emerging Trends in Educational Research and Policy Studies 1.1 (2010): 29-35.</ref>
+
+==See also==
+{{Div col|colwidth=30em}}
+* [[American Enlightenment]]
+* [[Ceremonial deism]]
+* [[Deism in England and France in the 18th century]]
+* [[Ietsism]]
+* [[Infinitism]]
+* [[List of deists]]
+* [[Religious affiliations of Presidents of the United States]]
+* [[Nicodemite]]
+* [[Non-physical entity]]
+* [[Theistic evolution]]
+* [[Theistic rationalism]]
+* [[Transcendentalism]]
+* [[Unitarian Universalism]]
+{{Div col end}}
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+{{Wiktionary}}
+{{Wikiquote}}
+
+===Histories===
+* Betts, C. J. ''Early Deism in France: From the so-called 'deistes' of Lyon (1564) to Voltaire's 'Lettres philosophiques' (1734)'' (Martinus Nijhoff, 1984)
+*  Craig, William Lane. ''The Historical Argument for the Resurrection of Jesus During the Deist Controversy''  (Edwin Mellen, 1985)
+* Hazard, Paul. ''European thought in the eighteenth century from Montesquieu to Lessing'' (1954). pp 393-434.
+* {{Cite book|last=Herrick|first=James A.|authorlink=James A. Herrick|title=The Radical Rhetoric of the English Deists: The Discourse of Skepticism, 1680–1750|year=1997|publisher=U of South Carolina Press}}
+* Hudson, Wayne. ''Enlightenment and modernity: The English deists and reform'' (Routledge, 2015).
+* Israel, Jonathan I. ''Enlightenment contested: philosophy, modernity, and the emancipation of man 1670-1752'' (Oxford UP, 2006).
+*  Lemay, J. A. Leo, ed.''Deism, Masonry, and the Enlightenment. Essays Honoring Alfred Owen Aldridge''. (U of Delaware Press, 1987).
+* Lucci, Diego. ''Scripture and deism: The biblical criticism of the eighteenth-century British deists'' (Peter Lang, 2008).
+* McKee, David Rice. ''Simon Tyssot de Patot and the Seventeenth-Century Background of Critical Deism''  (Johns Hopkins Press, 1941)
+* Orr, John. ''English Deism: Its Roots and Its Fruits'' (1934)
+* Schlereth, Eric R. ''An Age of Infidels: The Politics of Religious Controversy in the Early United States'' (U of Pennsylvania Press; 2013) 295 pages; on conflicts between deists and their opponents.
+* Willey, Basil. ''The Eighteenth Century Background: Studies on the Idea of Nature in the Thought of the Period'' (1940)
+* Yoder, Timothy S. ''Hume on God: Irony, deism and genuine theism'' (Bloomsbury, 2008).
+
+===Primary sources===
+* {{Cite book|last=Paine|first=Thomas|authorlink=Thomas Paine|title=The Age of Reason|url=http://www.deism.com/theageofreason.htm|year=1795}}
+* {{Cite book|last=Palmer|first=Elihu|title=The Principles of Nature|url=http://www.deism.com/principlesofnature.htm}}
+* {{Cite book|title=Deism: A Revolution in Religion, A Revolution in You|url=http://www.deism.com/deismbook.htm}}
+* {{Cite book|title=An Answer to C.S. Lewis' Mere Christianity|url=http://deism.com/answer_mere_christianity.htm}}
+* {{Cite book|title=God Gave Us Reason, Not Religion|url=http://deism.com/Godreasonnotreligion.htm}}
+* ''Deism: An Anthology'' by Peter Gay (Van Nostrand, 1968)
+* ''Deism and Natural Religion: A Source Book'' by E. Graham Waring (Frederick Ungar, 1967)
+* ''The American Deists: Voices of Reason & Dissent in the Early Republic'' by Kerry S. Walters (University of Kansas Press, 1992), which includes an extensive bibliographic essay
+
+{{Navboxes
+|title = Articles Related to Deism
+|list =
+{{Theism}}
+{{Age of Enlightenment}}
+{{philosophy of religion}}
+{{Theology}}
+}}
+
+{{Authority control}}
+
+[[Category:Deism| ]]
+[[Category:Theism]]
+[[Category:Monotheism]]
+[[Category:Philosophy of religion]]

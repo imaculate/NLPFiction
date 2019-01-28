@@ -1,0 +1,34 @@
+{{More citations needed|date=August 2011}}
+[[File:PA-Philadelphia-Penn.jpg|thumb|''College and Academy of Philadelphia'' (ca. 1780) by [[Pierre Du Simitière]]<ref>[[Historical Society of Pennsylvania]]</ref>]]
+'''The College and Academy of Philadelphia''' was a secondary school and later university located in [[Philadelphia]].  It was founded in 1749 by a group of local notables that included [[Benjamin Franklin]] and initially included a "charity school" that taught reading, writing, and arithmetic and a [[secondary school]], the Academy, offering a more advanced curriculum.
+
+==History==
+Franklin, the first president of the board of trustees, drew up the constitution for the academy, which was notable for its emphasis on modern languages and science in place of Latin and Greek. The academy opened for the secondary schooling of boys on August 13, 1751, with a charity school opening shortly afterwards.
+
+The building that housed the academy had originally been set up in 1740 as a charity school supporting the ministry of [[George Whitefield]] with a hall for him to preach in, although Franklin, who had a hand in it, made sure its use was wider:
+{{quote|Both house and ground were vested in trustees, expressly for the use of any preacher of any religious persuasion who might desire to say something to the people at Philadelphia; the design in building not being to accommodate any particular sect, but the inhabitants in general; so that even if the [[Mufti]] of [[Constantinople]] were to send a missionary to preach [[Mohammedanism]] to us, he would find a pulpit at his service.<ref>{{cite book|last=Franklin|first=Benjamin|title=Autobiography of Benjamin Franklin|authorlink=Benjamin Franklin |url=https://www.gutenberg.org/files/20203/20203-h/20203-h.htm|accessdate=Apr 30, 2016|year=2006|origyear=1791|page=80}}</ref>}}
+
+The college was granted a charter in 1755 and [[William Smith (Episcopalian priest)|William Smith]] became its [[Provost (education)|provost]] in 1756. The school [[Graduation|graduated]] its first class of seven men on May 17, 1757, six with [[Bachelor of Arts]] degrees and one with a [[Master of Arts]].
+
+In 1765, physicians [[John Morgan (physician)|John Morgan]] and [[William Shippen, Sr.]] founded the Medical School of the College of Philadelphia, the first medical school in North America.  That same year the first dormitory was built.
+
+The college educated many of the future leaders of the United States. Twenty-one members of the [[Continental Congress]] were graduates of the school, and nine signers of the [[United States Declaration of Independence|Declaration of Independence]] were either alumni or trustees of the [[university]].<ref name=Penn>[http://www.archives.upenn.edu/primdocs/upl/upl125.pdf The Early Years: The Charity School, Academy and College of Philadelphia] at the University of Pennsylvania Archives, 1972.</ref> Five signers of the [[United States Constitution|Constitution]] received undergraduate or honorary degrees from the University, and another five were trustees.<ref name=Penn/>
+
+Despite this record, at the time of the [[American Revolution]], the trustees were seen as [[Loyalist (American Revolution)|Loyalist sympathizers]], and when the revolutionary government of Pennsylvania regained control of the city of Philadelphia after the [[Philadelphia campaign|British occupation of 1777–78]], it rechartered the institution as the "[[University of the State of Pennsylvania]]", appointed new trustees, and dismissed Smith as provost. Following repeated lawsuits by Smith and the original trustees, the state restored the college's charter in 1789, but the university continued to operate on the original campus. The two competing institutions merged in 1791, forming the [[University of Pennsylvania]].
+
+==References==
+{{reflist}}
+
+==External links==
+* http://www.archives.upenn.edu/histy/features/1700s/penn1700s.html
+
+{{Benjamin Franklin|state=collapsed}}
+
+<!-- approximate -->
+{{coord|39.951|-75.195|type:edu_globe:earth_region:US-PA|display=title}}
+
+{{DEFAULTSORT:College and Academy of Philadelphia}}
+[[Category:Educational institutions established in the 1740s]]
+[[Category:History of Philadelphia]]
+[[Category:University of Pennsylvania]]
+[[Category:1749 establishments in Pennsylvania]]

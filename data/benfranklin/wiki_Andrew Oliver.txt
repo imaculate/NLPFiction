@@ -1,0 +1,86 @@
+{{other people|Andrew Oliver}}
+{{Infobox Governor
+|name = Andrew Oliver
+|image=Andrew Oliver.jpg
+|imagesize=225px
+|caption=Portrait c. 1758 by [[John Singleton Copley]]
+
+|order = 
+|office = [[Governor of the Province of Massachusetts Bay|Lieutenant Governor of the Province of Massachusetts Bay]]
+|term_start = March 14, 1771
+|term_end = March 3, 1774
+|predecessor = [[Thomas Hutchinson (governor)|Thomas Hutchinson]]
+|successor = [[Thomas Oliver (Lieutenant Governor)|Thomas Oliver]]
+
+|birth_date = March 28, 1706
+|birth_place = [[Boston, Massachusetts]]
+|death_date = {{death date and age|1774|03|03|1706|03|28}}
+|death_place = Boston
+|party =
+|spouse =Mary Fitch<br>Mary Sanford
+|profession =Merchant and politician
+|religion =
+}}
+
+'''Andrew Oliver''' (March 28, 1706 – March 3, 1774) was a merchant and public official in the [[Province of Massachusetts Bay]].  Born into a wealthy and politically powerful merchant family, he is best known as the Massachusetts official responsible for implementing the provisions of the [[Stamp Act 1765|Stamp Act]], for which he was hanged in effigy.  He never actually carried out those duties, and was later commissioned as the province's lieutenant governor.
+
+==Early life==
+Andrew Oliver was born in [[Boston]], capital of the British [[Province of Massachusetts Bay]], on March 28, 1706.  His father, Daniel Oliver, was a wealthy and politically active merchant,<ref name=Bell515>Bell, p. 515</ref> and his mother, Elizabeth Belcher Oliver, was the daughter of [[Jonathan Belcher]], son of another wealthy merchant and governor of the province in the 1730s.<ref>Batinski, p. 8</ref>  Andrew had two brothers: Daniel Oliver (1704–1727) and [[Peter Oliver (loyalist)|Peter Oliver]] (1713–1791).  Characterized as "sober and pious", Andrew was sent to [[Harvard College]], where he graduated in 1724.<ref name=Bell515/>
+
+Oliver then entered the family business, setting up a merchant business with his brother Peter that concentrated on wine and textiles.  The business was successful, and the brothers eventually controlled Boston's [[Long Wharf (Boston)|Long Wharf]].<ref name=Bell515/>  On March 20, 1728, Oliver married Mary Fitch, the daughter of [[Thomas Fitch, V|Colonel Thomas Fitch]].  The couple had three children before Mary died in 1732; only one, a son named Andrew, survived to adulthood.  After Mary's death Oliver traveled to England, returning to Massachusetts in 1734.<ref name=Bell516>Bell, p. 516</ref>  On December 19, 1734 he married Mary Sanford of [[Newport, Rhode Island]], the sister-in-law of [[Thomas Hutchinson (governor)|Thomas Hutchinson]].  The couple had fourteen children.<ref name=Bell516/>
+
+==Politics and the Stamp Act==
+In 1737 Oliver entered politics, winning election as Boston's town auditor.  He held many other local offices, and became a leader of the Hutchinson-Oliver faction, which dominated politics in colonial Massachusetts. He was elected to the provincial assembly in 1742, and in 1755 was appointed provincial secretary by Acting Governor [[Spencer Phips]].
+
+In 1765, Oliver was commissioned to administer the unpopular [[Stamp Act 1765|Stamp Act]] in Massachusetts. He was privately ''against'' the act, but told people he was in favor of it, leading colonists to rise against him. On August 14, he was hanged in [[effigy]] from Boston's [[Liberty Tree]] in a protest organized by the [[Loyal Nine]], a precursor to the [[Sons of Liberty]]. That night his house and offices were ransacked by an angry crowd. On August 17, he was compelled to publicly resign his commission. On December 17, the Sons of Liberty again forced him to publicly swear that he would never act as stamp distributor.
+
+==Later career==
+[[File:Mary sanford.jpg|thumb|Mrs. Andrew Oliver (Mary Sanford) (1713 - 1773)]]
+He was commissioned lieutenant governor of the colony when his brother-in-law Thomas Hutchinson became governor in 1771.  Letters that he and Hutchinson wrote in the late 1760s during protests surrounding the [[Townshend Acts]] were [[Hutchinson Letters Affair|published]] in 1773, igniting a storm of protest against both men.  The business took a serious toll on Oliver's health, which suffered further after his wife died.  Oliver died on March 3, 1774 after suffering from an "apoplectick fit".<ref>Bell, p. 518</ref>  His death was greeted with glee by the Sons of Liberty, and his burial was marred by acts of protest and violence.  Because of the charged political climate few friends and relatives attended.<ref>Bell, p. 519</ref>
+
+Most of Oliver's family remained [[Loyalist (American Revolution)|Loyal]] during the [[American Revolution]], and resettled in other parts of the [[British Empire]].
+
+==Notes==
+{{reflist|2}}
+
+==References==
+*{{cite book|last=Batinski|first=Michael|title=Jonathan Belcher, Colonial Governor|publisher=University Press of Kentucky|year=1996|location=Lexington, KY|isbn=978-0-8131-1946-5|oclc=243843478}}
+*Calhoon, Robert M. "Oliver, Andrew". ''[[American National Biography Online]]'', February 2000.
+*{{cite book|last=Bell|first=Whitfield|title=Patriot-Improvers: Biographical Sketches of Members of the American Philosophical Society|publisher=American Philosophical Society|year=1997|location=Philadelphia|isbn=978-0-87169-226-9|oclc=246214730}}
+*{{cite book|last=Morgan|first=Edmund|author2=Morgan, Helen|title=The Stamp Act Crisis: Prologue to Revolution|publisher=University of North Carolina Press|year=1995|location=Chapel Hill, NC|isbn=978-0-8078-4513-4|oclc=257294640}}
+*{{cite book|last=Walmsley|first=Andrew|title=Thomas Hutchinson and the Origins of the American Revolution|publisher=New York University Press|year=2000|location=New York|isbn=978-0-8147-9370-1|oclc=228273378}}
+
+==External links==
+*{{worldcat id|id=lccn-n88-2009}}
+* [http://www.mfa.org/collections/object/daniel-peter-and-andrew-oliver-33500 Museum of Fine Arts, Boston]. Portrait of Daniel, Peter and Andrew Oliver, by [[John Smibert]], 1732.
+
+{{s-start}}
+{{s-off}}
+{{succession box
+| title= [[Massachusetts Secretary of the Commonwealth|Secretary of the Province of Massachusetts Bay]]
+| before= [[Josiah Willard]]
+| years= December 15, 1756 – March 11, 1771
+| after= [[Thomas Flucker]]
+}}
+{{succession box
+| title= [[List of colonial governors of Massachusetts|Lieutenant-Governor of the Province of Massachusetts Bay]]
+| before= [[Thomas Hutchinson (governor)|Thomas Hutchinson]]
+| years= March 14, 1771 – March 3, 1774
+| after= [[Thomas Oliver (Lieutenant Governor)|Thomas Oliver]]
+}}
+{{s-end}}
+
+{{Lieutenant Governors of Massachusetts}}
+
+{{Authority control}}
+{{DEFAULTSORT:Oliver, Andrew}}
+[[Category:1706 births]]
+[[Category:1774 deaths]]
+[[Category:Harvard College alumni]]
+[[Category:Colonial American merchants]]
+[[Category:People from colonial Boston]]
+[[Category:Lieutenant Governors of colonial Massachusetts]]
+[[Category:Members of the colonial Massachusetts House of Representatives]]
+[[Category:Members of the colonial Massachusetts Governor's Council]]
+[[Category:People of colonial Massachusetts]]
+[[Category:American Loyalists from Massachusetts]]

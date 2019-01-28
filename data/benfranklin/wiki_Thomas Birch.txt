@@ -1,0 +1,77 @@
+{{Other people}}
+{{Use dmy dates|date=May 2012}}
+{{Use British English|date=May 2012}}
+{{more footnotes|date=May 2011}}
+{{Infobox person
+| name        = Thomas Birch
+| image       = Thomas Birch.jpg
+| alt         = 
+| caption     = 
+| birth_name  = <!--only use if different from name-->
+| birth_date  = {{Birth date|1705|11|23|df=yes}} 
+| birth_place = 
+| death_date  = {{Death date and age|1766|01|09|1705|11|23|df=yes}} 
+| death_place = 
+| nationality = British
+| other_names = 
+| occupation  = Historian and Keeper of books at British Museum.
+| known_for   = Fellow of the [[Royal Society]]
+}}
+'''Thomas Birch''' (23 November 1705 – 9 January 1766) was an [[England|English]] [[historian]].
+
+==Life==
+He was the son of Joseph Birch, a coffee-mill maker, and was born at [[Clerkenwell]].
+
+He preferred study to business but, as his parents were [[Religious Society of Friends|Quakers]], he did not go to the university. Notwithstanding this circumstance, he was ordained [[deacon]] in the [[Church of England]] in 1730 and priest in 1731. As a strong supporter of the [[British Whig Party|Whigs]], he gained the favour of [[Philip Yorke, 1st Earl of Hardwicke|Philip Yorke]], afterwards [[Lord Chancellor]] and first Earl of Hardwicke, and his subsequent preferments were largely due to this friendship. He held successively a number of benefices in different counties, and finally in London.
+
+He was noted as a keen fisherman during the course of his lifetime, and devised an unusual method of disguising his intentions. Dressed as a tree, he stood by the side of a stream in an outfit designed to make his arms seem like branches and the rod and line a spray of blossom. Any movement, he argued, would be taken by a fish to be the consequences of a mild breeze.
+
+In 1735 he became a member of the [[Society of Antiquaries of London|Society of Antiquaries]], and was elected a fellow of the [[Royal Society]], of which he was secretary from 1752 to 1765. In 1728 he had married Hannah Cox, who died in the following year. Birch was killed on 9 January 1766 by a fall from his [[horse]], and was buried in the church of St [[Margaret Pattens]], [[London]], of which he was then rector. He died, according to his will, "in a full confidence in the Mercy and Goodness of almighty God and with a firm persuasion of a blessed Immortality discoverable by the Light of Nature and confirmed for us Christians by that of Revelation", leaving his books and manuscripts to the [[British Museum]], and a sum of about £500 to increase the salaries of the three assistant librarians.{{sfn|Chisholm|1911}}
+
+==Writings==
+[[File:Birch - Yearly bills of mortality, 1759 - 062.tif|thumb|200px|''Yearly bills of mortality'', [[1759]] (Milano, Fondazione Mansutti]]
+Birch was prolific, even if [[Horace Walpole]] questioned his "parts, taste and judgment." He corresponded with prominent men of his time.<ref>Many of his letters appear in ''Literary Anecdotes of the 18th Century'' (London, 1812–1815) and ''Illustrations of the Literary History of the 18th Century'' (London, 1817–1858) by [[John Nichols (printer)|J. Nichols]], in the ''Bibliotheca Topographica Britannica'', vol. iii. (London, 1780–1790), and in [[James Boswell]]'s ''[[Life of Johnson]]''.</ref> [[Samuel Johnson]] wrote: "Tom Birch is as brisk as a bee in conversation; but no sooner does he take a pen in his hand, than it becomes a torpedo to him, and benumbs all his faculties".
+
+Birch often collaborated with the greatly successful London bookseller, [[Andrew Millar]], who helped publish some of Birch's most highly profitable publications. These included ''The Works of the Honourable Robert Boyle,'' co-written by Reverend [[Henry Miles]] (in 5 volumes folio, 1744), and ''A Complete Collection of the Historical, Political, and Miscellaneous Works of John Milton'' (in 2 volumes folio, 1738, followed in 2 volumes quarto, 1753).
+
+Birch wrote most of the English lives in the ''[[General Dictionary, Historical and Critical]]'', 10 vols. (London, 1734–1741), assisted in the composition of the ''[[Athenian Letters]]'' (London, 1810), edited the ''State Papers of John Thurloe'' (London, 1742) and the ''State Papers of W. Murdin'' (London, 1759). He also wrote:
+
+*''Inquiry'' into the share which [[Charles I of England|King Charles I]] had in the transactions of the [[Earl of Glamorgan]] for bringing over a body of Irish rebels (published by Millar in London, 1756);<ref>{{Cite web|url=http://www.millar-project.ed.ac.uk/manuscripts/html_output/2.html|title=The manuscripts|website=www.millar-project.ed.ac.uk|access-date=2016-06-01}}</ref>
+*''Historical view of Negotiations between the Courts of England, France and Brussels 1592-1617'' (London, 1749); 
+*''Life of Archbishop [[John Tillotson|Tillotson]]'' (London, 1753);
+*''History of the Royal Society of London'' (London, 1756–1757); 
+*''Life of Henry, Prince of Wales'' (London, 1760), and other works.
+*''The heads of illustrious persons of Great Britain, in 108 copper plates, engraved by [[Jacob Houbraken|Mr. Houbraken]] and [[George Vertue|Mr. Vertue]], with their lives and characters'', by Thomas Birch, D.D. Secretary of the Royal Society, London, 1761
+Among the papers left at his death were some which were published in 1848 as the ''Court and Times of James I'' and the ''Court and Times of Charles I''.
+
+===Copies of Franklin letters===
+Recently discovered by American researcher Alan Houston at the [[British Library]] is a file entitled ''Copies of'' [Benjamin Franklin's] ''Letters relating to the March of [[Edward Braddock|General Braddock]]''.  Birch was said to have obsessively copied any documents of historical importance he could get his hands on. He was a friend of [[Benjamin Franklin|Franklin]], and they were both members of the [[Royal Society]]. In his autobiography, Franklin refers to his "Quire Book", which has never been found, but which contained letters and papers concerning his efforts to support the British Government at that pre-revolutionary time. They speak of his 1755 efforts to help [[Red coat (British army)|British Redcoats]] led by Braddock in their march to defeat the French at [[Fort Duquesne]] (in today's Pittsburgh). Braddock desperately needed transportation for his troops, and Franklin rounded up horses and wagons for him using his persuasive powers as Pennsylvania's leading politician. Incidentally, Braddock and most of his men (who included [[George Washington]]) were defeated by the French and their Indian allies.<ref>[http://www.cnn.com/2009/US/04/25/uk.franklin.letters/index.html As reported by CNN on 25 April 2009]</ref>
+
+==Works==
+* {{cite book |last= Birch |first= Thomas |authorlink= |coauthors= |editor= |others= |title= Memoirs of the Reign of Queen Elizabeth from the Year 1581 till her Death. In which the secret intrigues of her Court, And the conduct of her favourite, Robert Earl of Essex, both at Home and Aboard are particularly illustrated. |year= 1754 |url=  |format= |accessdate= |volume= I |date= |month= |publisher= |location= |language= |isbn= |oclc= |doi= |id= |pages= |chapter= |chapterurl= |quote= |ref= }}
+* {{cite book |last= Birch |first= Thomas |authorlink= |coauthors= |editor= |others= |title= Memoirs of the Reign of Queen Elizabeth from the Year 1581 till her Death. In which the secret intrigues of her Court, And the conduct of her favourite, Robert Earl of Essex, both at Home and Aboard are particularly illustrated. |year= 1754 |url= https://books.google.com/books?hl=en&id=A78sAAAAMAAJ |format= pdf |accessdate= 2008-08-27 |volume= II |date= |month= |publisher= |location= |language= |isbn= |oclc= |doi= |id= |pages= |chapter= |chapterurl= |quote= |ref= }} at Google Books.<ref>[http://worldcat.org/identities/lccn-n85-158533 Works by or about Thomas Birch in libraries (WorldCat catalog)]</ref>
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{cite DNB|wstitle= Birch, Thomas (1705-1766)|first=William Prideaux|last= Courtney |volume=5}}
+* [[Andrew Kippis|A. Kippis]], ''[[Biographia Britannica]]'' (London, 1778–1793)
+* {{EB1911|wstitle=Birch, Thomas|volume=3}}
+* Horace Walpole, ''Letters'' (London, 1891).
+* [[David Hume|Hume, David]], ''Letter to Andrew Millar,'' April 12, 1755, accessed through "www.millar-project.ed.ac.uk." ''[[University of Edinburgh School of History, Classics and Archaeology|University of Edinburgh]].'' [http://www.millar-project.ed.ac.uk/manuscripts/html_output/2.html]
+
+{{Benjamin Franklin|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Birch, Thomas}}
+[[Category:1705 births]]
+[[Category:1766 deaths]]
+[[Category:Deaths by horse-riding accident]]
+[[Category:Fellows of the Royal Society]]
+[[Category:British historians]]
+[[Category:Historians of the British Isles]]
+[[Category:People from Clerkenwell]]
+[[Category:Accidental deaths in England]]
+[[Category:People associated with the British Museum]]

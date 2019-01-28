@@ -1,0 +1,534 @@
+{{Refimprove|date=July 2013}}
+{{Infobox official post
+| post            = United States Postmaster General
+| insignia        = Seal of the United States Department of the Post Office.svg
+| insigniasize    = 120
+| insigniacaption = Seal of the former [[United States Post Office Department|Post Office Department]]
+| image           = Megan Brennan USPMG at 225th Anniversary of U.S. Coast Guard stamp event.jpg
+| incumbent       = [[Megan Brennan]]
+| incumbentsince  = February 1, 2015
+| department      = [[United States Postal Service]]
+| style           = Madam Postmaster General
+| status          = [[Chief executive]]
+| seat            = [[L'Enfant Plaza|475 L'Enfant Plaza SW]], [[Washington, D.C.]]
+| appointer       = [[Board of Governors of the United States Postal Service|Board of Governors]]
+| termlength      = No fixed term
+| first           = [[Benjamin Franklin]]
+| formation       = 1775
+| deputy          = Deputy Postmaster General
+| salary          = $276,840<ref>{{cite news|last=O'Keefe|first=Ed|title=Salaries of top Postal Service executives revealed|url=https://www.washingtonpost.com/blogs/federal-eye/post/salaries-of-top-postal-service-executives-revealed/2011/05/10/AFGaBjgG_blog.html|publisher=Washington Post|accessdate=5 September 2011|date=May 10, 2011}}</ref>
+| website         = {{url|http://about.usps.com/who/leadership/pmg-exec-leadership-team.htm|about.usps.com}}
+}}
+The '''Postmaster General of the United States''' is the chief executive officer of the [[United States Postal Service]]; Megan Brennan is the current Postmaster General.
+
+Appointed members of the [[Board of Governors of the United States Postal Service]] select the Postmaster General and Deputy Postmaster General, who then join the Board.
+
+== History ==
+The office, in one form or another, is older than both the [[United States Constitution]] and the [[United States Declaration of Independence]].  [[Benjamin Franklin]] was appointed by the [[Continental Congress]] as the first Postmaster General in 1775, serving just over 15 months.
+
+Until 1971, the postmaster general was the head of the [[United States Post Office Department|Post Office Department]] (or simply "Post Office" until the 1820s).<ref>[http://about.usps.com/publications/pub100/welcome.htm Publication 100 – The United States Postal Service: An American History 1775–2006]. [[United States Postal Service]], May 2007. Also available in [http://about.usps.com/publications/pub100.pdf PDF] format.</ref> During that era, the postmaster general was appointed by the [[President of the United States]], with the [[Advice and Consent Clause|advice and consent]] of the [[United States Senate]].<ref name=":0">{{Cite web|url=http://about.usps.com/publications/pub100/pub100_074.htm|title=Postmasters General|last=United States Postal Service|first=|date=|website=about.usps.com|language=en|archive-url=|archive-date=|dead-url=|access-date=2018-05-18}}</ref> From 1829 to 1971, the postmaster general was a member of the [[President of the United States|President's]] [[United States Cabinet|Cabinet]].
+
+The Cabinet post of Postmaster General was often given{{when|date=July 2017}} to a new President's campaign manager or other key political supporter, and was considered something of a [[sinecure]]. The Postmaster General was in charge of the governing party's [[patronage]], and was a powerful position which held much influence within the party.
+
+In 1971, the Post Office Department was re-organized into the [[United States Postal Service]], an independent agency of the executive branch. Therefore, the Postmaster General is no longer a member of the Cabinet and is no longer in the line of [[United States presidential line of succession|presidential succession]]. The postmaster general is now appointed by nine "governors," appointed by the President with the advice and consent of the Senate. The governors, along with the postmaster general and the deputy postmaster general, constitute the full Postal Service Board of Governors.<ref name=":0" /><ref>{{Cite web|url=http://about.usps.com/who-we-are/leadership/board-governors.htm|title=About the Board of Governors|last=United States Postal Service|first=|date=|website=about.usps.com|archive-url=|archive-date=|dead-url=|access-date=2018-05-18}}</ref>
+
+The Postmaster General is the second-highest paid U.S. government official, based on publicly available salary information, after the President of the United States.<ref>{{cite web|title=The 10 Highest-Paid Government Jobs|url=https://web.archive.org/web/20160305081942/https://finance.yahoo.com/news/pf_article_112283.html |archive-date=March 5, 2016 |dead-url=yes |publisher=24/7WallSt.com|accessdate=5 September 2011|author=Michael B. Sauter and Jon C. Ogg}}</ref>
+
+==Postmasters General under the Continental Congress==
+{| class="wikitable"
+|-
+! Name
+! Date appointed
+|-
+|[[Benjamin Franklin]]
+|July 26, 1775
+|-
+|[[Richard Bache]]
+|November 7, 1776
+|-
+|[[Ebenezer Hazard]]
+|January 28, 1782
+|}
+
+[[File:SOsgood.jpg|thumb|right|200px|Samuel Osgood (1747–1813)]]
+
+==Postmasters general over the U.S. Post Office Department, 1789–1971==
+
+===As non-Cabinet department, 1789–1829===
+{| class="wikitable"
+|-
+! Name
+! State of Residence
+! Date appointed
+! [[President of the United States|President(s)]] served under
+|-
+|[[Samuel Osgood]] (''pictured right'') Federalist
+|[[Massachusetts]]
+|September 26, 1789
+|[[George Washington|Washington]]
+|-
+|[[Timothy Pickering]] Federalist
+|[[Pennsylvania]]<ref>{{cite web|url=https://web.archive.org/web/20170202151855/http://memory.loc.gov/cgi-bin/query/D?hlaw:7:./temp/~ammem_WqlO|title=Wayback Machine|date=2 February 2017|publisher=}}</ref>
+|August 12, 1791
+|Washington
+|-
+|[[Joseph Habersham]] Independent
+|[[Georgia (U.S. state)|Georgia]]
+|February 25, 1795
+|Washington, [[John Adams|Adams]], [[Thomas Jefferson|Jefferson]]
+|-
+|[[Gideon Granger]] Democratic-Republican Party
+|[[Connecticut]]
+|November 28, 1801
+|Jefferson, [[James Madison|Madison]]
+|-
+|[[Return J. Meigs, Jr.]] Democratic-Republican Party
+|[[Ohio]]
+|March 17, 1814
+|Madison, [[James Monroe|Monroe]]
+|-
+|[[John McLean]] Democratic-Republican Party
+|[[Ohio]]
+|June 26, 1823
+|Monroe, [[John Quincy Adams|J. Q. Adams]]
+|}
+
+===As cabinet department, 1829–1971===
+; Parties
+{{legend2|#EEEEEE|[[Independent (politician)|No party]]|border=1px solid #AAAAAA}}
+{{legend2|#EA9978|[[Federalist Party|Federalist]]|border=1px solid #AAAAAA}}
+{{legend2|{{Democratic-Republican Party (United States)/meta/color}}|[[Democratic-Republican Party|Democratic-Republican]]|border=1px solid #AAAAAA}}
+{{legend2|{{Democratic Party (United States)/meta/color}}|[[Democratic Party (United States)|Democratic]]|border=1px solid #AAAAAA}}
+{{legend2|{{Whig Party (United States)/meta/color}}|[[Whig Party (United States)|Whig]]|border=1px solid #AAAAAA}}
+{{legend2|{{Republican Party (United States)/meta/color}}|[[Republican Party (United States)|Republican]]|border=1px solid #AAAAAA}}
+{| class="wikitable"
+|-
+!Political Party
+! Name
+! State of Residence
+! Date appointed
+! [[President of the United States|President(s)]] served under
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|10}}
+|[[William Taylor Barry|William T. Barry]]
+|[[Kentucky]]
+|March 9, 1829
+|[[Andrew Jackson|Jackson]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|11}}
+|[[Amos Kendall]]
+|[[Kentucky]]
+|May 1, 1835
+|Jackson, [[Martin Van Buren|Van Buren]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|12}}
+|[[John M. Niles]]
+|[[Connecticut]]
+|May 19, 1840
+|Van Buren
+|-
+! style="background: {{Whig Party (United States)/meta/color}}" |{{color|white|13}}
+|[[Francis Granger]]
+|[[New York (state)|New York]]
+|March 6, 1841
+|[[William Henry Harrison|W. H. Harrison]], [[John Tyler|Tyler]]
+|-
+! style="background: {{Whig Party (United States)/meta/color}}" |{{color|white|14}}
+|[[Charles A. Wickliffe]]
+|[[Kentucky]]
+|September 13, 1841
+|Tyler
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|15}}
+|[[Cave Johnson]]
+|[[Tennessee]]
+|March 6, 1845
+|[[James K. Polk|Polk]]
+|-
+! style="background: {{Whig Party (United States)/meta/color}}" |{{color|white|16}}
+|[[Jacob Collamer]]
+|[[Vermont]]
+|March 8, 1849
+|[[Zachary Taylor|Taylor]]
+|-
+! style="background: {{Whig Party (United States)/meta/color}}" |{{color|white|17}}
+|[[Nathan K. Hall]]
+|[[New York (state)|New York]]
+|July 23, 1850
+|[[Millard Fillmore|Fillmore]]
+|-
+! style="background: {{Whig Party (United States)/meta/color}}" |{{color|white|18}}
+|[[Samuel Dickinson Hubbard]]
+|[[Connecticut]]
+|August 31, 1852
+|Fillmore
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|19}}
+|[[James Campbell (Postmaster General)|James Campbell]]
+|[[Pennsylvania]]
+|March 7, 1853
+|[[Franklin Pierce|Pierce]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|20}}
+|[[Aaron V. Brown]]
+|[[Tennessee]]
+|March 6, 1857
+|[[James Buchanan|Buchanan]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|21}}
+|[[Joseph Holt]]
+|[[Kentucky]]
+|March 14, 1859
+|Buchanan
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|22}}
+|[[Horatio King]]
+|[[Maine]]
+|February 12, 1861
+|Buchanan
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|23}}
+|[[Montgomery Blair]]
+|[[District of Columbia]]
+|March 5, 1861
+|[[Abraham Lincoln|Lincoln]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|24}}
+|[[William Dennison (Ohio governor)|William Dennison]]
+|[[Ohio]]
+|September 24, 1864
+|Lincoln, [[Andrew Johnson|A. Johnson]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|25}}
+|[[Alexander W. Randall]]
+|[[Wisconsin]]
+|July 25, 1866
+|A. Johnson
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|26}}
+|[[John A. J. Creswell]]
+|[[Maryland]]
+|March 5, 1869
+|[[Ulysses Grant|Grant]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|27}}
+|[[James William Marshall|James W. Marshall]]
+|[[Virginia]]
+|July 3, 1874
+|Grant
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|28}}
+|[[Marshall Jewell]]
+|[[Connecticut]]
+|August 24, 1874
+|Grant
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|29}}
+|[[James N. Tyner]]
+|[[Indiana]]
+|July 12, 1876
+|Grant
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|30}}
+|[[David M. Key]]
+|[[Tennessee]]
+|March 12, 1877
+|[[Rutherford B. Hayes|Hayes]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|31}}
+|[[Horace Maynard]]
+|[[Tennessee]]
+|June 2, 1880
+|[[Rutherford B. Hayes|Hayes]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|32}}
+|[[Thomas L. James]]
+|[[New York (state)|New York]]
+|March 5, 1881
+|[[James Garfield|Garfield]], [[Chester A. Arthur|Arthur]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|33}}
+|[[Timothy O. Howe]]
+|[[Wisconsin]]
+|December 20, 1881
+|Arthur
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|34}}
+|[[Walter Q. Gresham]]
+|[[Indiana]]
+|April 3, 1883
+|Arthur
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|35}}
+|[[Frank Hatton (U.S. politician)|Frank Hatton]]
+|[[Iowa]]
+|October 14, 1884
+|Arthur
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|36}}
+|[[William Freeman Vilas|William F. Vilas]]
+|[[Wisconsin]]
+|March 6, 1885
+|[[Grover Cleveland|Cleveland]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|37}}
+|[[Donald M. Dickinson]]
+|[[Michigan]]
+|January 6, 1888
+|Cleveland
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|38}}
+|[[John Wanamaker]]
+|[[Pennsylvania]]
+|March 5, 1889
+|[[Benjamin Harrison|B. Harrison]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|39}}
+|[[Wilson S. Bissell]]
+|[[New York (state)|New York]]
+|March 6, 1893
+|Cleveland
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|40}}
+|[[William Lyne Wilson|William L. Wilson]]
+|[[West Virginia]]
+|March 1, 1895
+|Cleveland
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|41}}
+|[[James Albert Gary|James A. Gary]]
+|[[Maryland]]
+|March 5, 1897
+|[[William McKinley|McKinley]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|42}}
+|[[Charles Emory Smith]]
+|[[Pennsylvania]]
+|April 21, 1898
+|McKinley, [[Theodore Roosevelt|T. Roosevelt]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|43}}
+|[[Henry Clay Payne|Henry C. Payne]]
+|[[Wisconsin]]
+|January 9, 1902
+|T. Roosevelt
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|44}}
+|[[Robert Wynne|Robert J. Wynne]]
+|[[Pennsylvania]]
+|October 10, 1904
+|T. Roosevelt
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|45}}
+|[[George B. Cortelyou]]
+|[[New York (state)|New York]]
+|March 6, 1905
+|T. Roosevelt
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|46}}
+|[[George von Lengerke Meyer|George von L. Meyer]]
+|[[Massachusetts]]
+|January 15, 1907
+|T. Roosevelt
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|47}}
+|[[Frank Harris Hitchcock|Frank H. Hitchcock]]
+|[[Massachusetts]]
+|March 5, 1909
+|[[William Howard Taft|Taft]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|48}}
+|[[Albert S. Burleson]]
+|[[Texas]]
+|March 5, 1913
+|[[Woodrow Wilson|Wilson]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|49}}
+|[[Will H. Hays]]
+|[[Indiana]]
+|March 5, 1921
+|[[Warren G. Harding|Harding]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|50}}
+|[[Hubert Work]]
+|[[Colorado]]
+|March 4, 1922
+|Harding
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|51}}
+|[[Harry Stewart New|Harry S. New]]
+|[[Indiana]]
+|February 27, 1923
+|Harding, [[Calvin Coolidge|Coolidge]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|52}}
+|[[Walter Folger Brown|Walter F. Brown]]
+|[[Ohio]]
+|March 5, 1929
+|[[Herbert Hoover|Hoover]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|53}}
+|[[James Farley|James A. Farley]]
+|[[New York (state)|New York]]
+|March 4, 1933
+|[[Franklin Delano Roosevelt|F. Roosevelt]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|54}}
+|[[Frank Comerford Walker|Frank C. Walker]]
+|[[Pennsylvania]]
+|September 10, 1940
+|F. Roosevelt, [[Harry Truman|Truman]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|55}}
+|[[Robert E. Hannegan]]
+|[[Missouri]]
+|May 8, 1945
+|Truman
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|56}}
+|[[Jesse M. Donaldson]]
+|[[Missouri]]
+|December 16, 1947
+|Truman
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|57}}
+|[[Arthur Summerfield|Arthur E. Summerfield]]
+|[[Michigan]]
+|January 21, 1953
+|[[Dwight D. Eisenhower|Eisenhower]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|58}}
+|[[J. Edward Day]]
+|[[California]]
+|January 21, 1961
+|[[John F. Kennedy|Kennedy]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|59}}
+|[[John A. Gronouski]]
+|[[Wisconsin]]
+|September 30, 1963
+|Kennedy, [[Lyndon Johnson|L. Johnson]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{color|white|60}}
+|[[Larry O'Brien|Lawrence F. O'Brien]]
+|[[Massachusetts]]
+|November 3, 1965
+|L. Johnson
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" |{{Color|white|61}}
+|[[W. Marvin Watson]]
+|[[Texas]]
+|April 26, 1968
+|L. Johnson
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" |{{color|white|62}}
+|[[Winton M. Blount]]
+|[[Alabama]]
+|January 22, 1969
+|[[Richard Nixon|Nixon]]
+|-
+|}
+
+==Postmasters General over the U.S. Postal Service, 1971–present==
+{| class="wikitable"
+|-
+! Name
+! Date appointed<ref>Since July 1, 1971, the Postmaster General has been appointed by and serves under the [[Board of Governors of the United States Postal Service]].</ref>
+!President(s) served under
+|-
+|[[Winton M. Blount]]
+|July 1, 1971
+|Nixon
+|-
+|[[E. T. Klassen]]
+|January 1, 1972
+|Nixon, [[Gerald Ford|Ford]]
+|-
+|[[Benjamin F. Bailar]]
+|February 16, 1975
+|Ford, [[Jimmy Carter|Carter]]
+|-
+|[[William F. Bolger]]
+|March 15, 1978
+|Carter, [[Ronald Reagan|Reagan]]
+|-
+|[[Paul N. Carlin]]
+|January 1, 1985
+|rowspan="3"|Reagan
+|-
+|[[Albert Vincent Casey]]
+|January 7, 1986
+|-
+|[[Preston Robert Tisch]]
+|August 16, 1986
+|-
+|[[Anthony M. Frank]]
+|March 1, 1988
+|Reagan, [[George H.W. Bush|H.W. Bush]]
+|-
+|[[Marvin Travis Runyon]]
+|July 6, 1992
+|H.W. Bush, [[Bill Clinton|Clinton]]
+|-
+|[[William J. Henderson]]
+|May 16, 1998
+|Clinton, [[George W. Bush|Bush]]
+|-
+|[[John E. Potter]]
+|June 1, 2001
+|Bush, [[Barack Obama|Obama]]
+|-
+|[[Patrick R. Donahoe]]
+|January 14, 2011
+|Obama
+|-
+|[[Megan Brennan]]
+|February 1, 2015
+|Obama, [[Donald Trump|Trump]]
+|}
+Note that, while the above table indicates the President under which each postmaster general served, these postmasters general were appointed by the governors of the Postal Service and not by the President.
+
+==Living former Postmasters General==
+{{As of|November 2017|df=US}}, there are four living former Postmasters General, the oldest being [[Anthony M. Frank]] (1988–1992, born 1931). The most recent Postmaster General to die was [[Paul N. Carlin]] (1985-86), on April 25, 2018. The most recently serving Postmaster General to die was [[Marvin Travis Runyon]] (1992–2000), on May 3, 2004.
+
+{| class="wikitable"
+|-
+!Name!!Term of office!!Date of birth
+|-
+|[[Anthony M. Frank]]
+|1988–1992
+|{{birth date and age|mf=yes|1931|5|31}}
+|-
+|[[William J. Henderson]]
+|1998–2001
+|{{birth date and age|mf=yes|1947|6|16}}
+|-
+|[[John E. Potter]]
+|2001–2010
+|{{birth year and age|1956}}
+|-
+|[[Patrick R. Donahoe]]
+|2011–2015
+|c. {{birth year and age|1955}}
+|}
+
+==See also==
+* [[Postmaster General (disambiguation)]]
+* [[John Henninger Reagan]], the only Postmaster General of the [[Confederate States of America]]
+
+==Notes==
+{{reflist}}
+
+== External links ==
+*[http://about.usps.com/who-we-are/leadership/officers/pmg-ceo.htm Official site]
+*[https://www.eisenhower.archives.gov/listofholdingshtml/finding_aids_s.html Papers of Arthur E. Summerfield, Postmaster General, 1953–1961, Dwight D. Eisenhower Presidential Library]
+{{United States Postal Service}}
+{{USPostGen}}
+{{US Cabinet leaders}}
+{{Benjamin Franklin}}
+{{USAConfGov}}
+
+[[Category:Former United States Executive Cabinet positions|Postmaster General]]
+[[Category:United States Postal Service|Postmaster General]]
+[[Category:United States Postmasters General| ]]
+[[Category:1775 establishments in the Thirteen Colonies]]

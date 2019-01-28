@@ -1,0 +1,60 @@
+{{infobox book
+|name = The Way to Wealth
+|image = Franklin the printer.jpg
+|caption = Benjamin Franklin at a printing press
+|author = Benjamin Franklin
+|pub_date = 1758
+{{listen
+| embed = yes
+| filename = The Way to Wealth by Benjamin Franklin - read by Bob Gonzalez for LibriVox's Short Nonfiction Collection Vol. 022 (2011).ogg 
+| title = <center>"The Way to Wealth"<br><small>Read by Bob Gonzalez for LibriVox</small></center>
+| description = <center>Audio {{duration|h=0|m=23|s=43}} ([https://archive.org/details/waytowealthorpoo00fran full text])</center>
+| pos = right
+| type = speech
+| image = [[File:His Master's Voice (small).png|70px]]
+}}
+}}
+'''''The Way to Wealth''''' is an essay written by [[Benjamin Franklin]] in 1758. It is a collection of adages and advice presented in ''[[Poor Richard's Almanac]]'' during its first 25 years of publication, organized into a speech given by "Father Abraham" to a group of people. Many of the phrases Father Abraham quotes continue to be familiar today. The essay's advice is based on the themes of [[work ethic]] and frugality.
+
+Some phrases from the almanac quoted in ''The Way to Wealth'' include:
+* "There are no gains, without pains"
+* "One today is worth two tomorrows"
+* "A life of leisure and a life of laziness are two things"
+* "Get what you can, and what you get hold"
+* "Sloth, like rust, consumes faster than labor wears, while the used key is always bright"
+* "Have you somewhat to do tomorrow, do it today"
+* "The eye of a master will do more work than both his hands"
+* "Early to bed, and early to rise, makes a man healthy, wealthy and wise"
+* [[For Want of a Nail (proverb)|"For want of a nail..."]]
+
+==Further reading==
+*{{cite book
+|last=Shipside
+|first=Steve
+|title= Benjamin Franklin's The Way to Wealth 
+|publisher=Infinite Ideas
+|location=Oxford
+|year=2009
+|isbn=978-1-904902-84-3}} 
+*{{cite book
+|last=Franklin
+|first=Benjamin 
+|title= The Way to Wealth
+|publisher=Applewood Books
+|location=Carlisle, Massachusetts
+|year=1986
+|isbn=978-0-918222-88-6}}
+
+== External links ==
+* [http://www.swarthmore.edu/SocSci/bdorsey1/41docs/52-fra.html ''The Way to Wealth'' complete text online]
+* [[Wikiquote:Benjamin Franklin|Benjamin Franklin]] quotes on [[Wikiquote]]
+
+{{Benjamin Franklin}}
+
+{{DEFAULTSORT:Way to Wealth, The}}
+[[Category:Works by Benjamin Franklin]]
+[[Category:Self-help books]]
+[[Category:1758 works]]
+[[Category:18th-century essays]]
+
+{{essay-stub}}

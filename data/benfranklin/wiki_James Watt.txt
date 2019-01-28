@@ -1,0 +1,278 @@
+{{About|the inventor and mechanical engineer|the college|James Watt College|the award|James Watt International Medal|other people with similar names|James Watt (disambiguation)}}
+{{Ref improve|date=August 2017}}
+{{pp-vandalism|small=yes}}
+{{EngvarB|date=February 2018}}
+{{Use dmy dates|date=February 2018}}
+{{Infobox scientist
+|name              = James Watt
+|image             = Watt James von Breda.jpg
+|caption           = Portrait of James Watt (1736–1819)<br />by [[Carl Frederik von Breda]]
+|birth_date        = {{birth date|df=y|1736|1|19}}
+|birth_place       = [[Greenock]], [[Renfrewshire (historic)|Renfrewshire]], Scotland, United Kingdom
+|death_date        = {{Death date and age|df=y|1819|8|25|1736|1|19}}<ref name=deathdate>Although a number of otherwise reputable sources give his date of death as 19 August 1819, all contemporary accounts report him dying on 25 August and being buried on 2 September. The date 19 August originates from the biography ''The Life of James Watt'' (1858, p. 521) by [[James Patrick Muirhead]]. It draws its (supposed) legitimacy from the fact that Muirhead was a nephew of Watt and therefore should have been well-informed. In the Muirhead papers, 25 August date is mentioned elsewhere. The latter date is also given in contemporary newspaper reports (for example, page 3 of ''[[The Times]]'' of 28 August) as well as by an abstract of and codicil to Watt's last will. (In the pertinent burial register of St. Mary's Church (Birmingham-Handsworth) Watt's date of death is not mentioned.)</ref>
+|death_place       = [[Handsworth, West Midlands|Handsworth]], Birmingham, England, United Kingdom
+|residence         = [[Glasgow]], Scotland, then [[Handsworth, West Midlands|Handsworth]], England
+|nationality       = [[Scottish people|Scottish]]
+|citizenship       = British
+|fields            = Mechanical engineer
+|workplaces        = [[University of Glasgow]]<br />[[Boulton and Watt]]
+|alma_mater        =
+|doctoral_advisor  =
+|academic_advisors =
+|doctoral_students =
+|notable_students  =
+|known_for         = [[Watt steam engine]] <br /> [[Watt steam engine#Separate condenser|Separate condenser]] <br /> [[Parallel motion]] <br /> [[Sun and planet gear]] (with [[William Murdoch]]) <br /> [[Centrifugal governor]] <br /> [[Pressure volume diagram|Indicator diagram]] (with [[John Southern (engineer)|John Southern]])
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        = [[Thomas Newcomen]]<br />[[Joseph Black]]<br />[[Adam Smith]]<br />[[John Robison (physicist)]]<br />[[John Roebuck]]<br />[[James Keir]]
+|influenced        =
+|awards            =
+|signature         =  James Watt Signature.svg
+|footnotes         =
+}}
+[[File:James Watt by Francis Chantrey, Hunterian Museum, Glasgow.jpg|thumb|Statue of James Watt by Francis Chantrey, Hunterian Museum, Glasgow]]
+'''James Watt''' {{postnominals|country=GBR|FRS|FRSE}} ({{IPAc-en|w|ɒ|t}}; 30 January 1736 <small>(19 January 1736 [[Old Style and New Style dates|OS]])</small> – 25 August 1819)<ref name=deathdate/> was a [[Scottish people|Scottish]] [[invention|inventor]], mechanical engineer, and [[chemist]] who improved on [[Thomas Newcomen]]'s 1712 [[Newcomen steam engine]] with his [[Watt steam engine]] in 1776, which was fundamental to the changes brought by the [[Industrial Revolution]] in both his native Great Britain and the rest of the world.
+
+While working as an instrument maker at the [[University of Glasgow]], Watt became interested in the technology of [[steam engine]]s. He realised that contemporary engine designs wasted a great deal of energy by repeatedly cooling and reheating the [[cylinder (engine)|cylinder]]. Watt introduced a design enhancement, the [[Watt steam engine#separate condenser|separate condenser]], which avoided this waste of energy and radically improved the power, efficiency, and cost-effectiveness of steam engines.  Eventually he [[rotative beam engine|adapted his engine]] to produce rotary motion, greatly broadening its use beyond pumping water.
+
+Watt attempted to commercialise his invention, but experienced great financial difficulties until he entered a partnership with [[Matthew Boulton]] in 1775. The new firm of [[Boulton and Watt]] was eventually highly successful and Watt became a wealthy man. In his retirement, Watt continued to develop new inventions though none was as significant as his steam engine work. He died in 1819 aged 83.
+
+He developed the concept of [[horsepower]],<ref>{{cite web|url=http://www.egr.msu.edu/~lira/supp/steam/wattbio.html|title=Biography of James Watt|last=Lira|first=Carl|year=2001|publisher=egr.msu.edu|accessdate=5 July 2010}}</ref> and the [[SI]] unit of power, the [[watt]], was named after him.
+
+==Biography==
+[[File:James-watt-1736-1819-engineer-inventor-of-the-stea.jpg|thumb|James Watt by [[John Partridge (artist)|John Partridge]], after Sir [[William Beechey]] (1806)<ref>{{cite book|last1=Annan|first1=Thomas|title=Illustrated catalogue of the exhibition of portraits on loan in the new galleries of art, Corporation buildings, Sauchiehall Street|date=1868|publisher=Glasgow Art Gallery and Museum|location=Glasgow|page=90|url=https://archive.org/stream/illustratedcatal00anna#page/90/mode/2up/search/watt|accessdate=4 December 2017}}</ref><ref>{{cite web|title=James Watt, 1736 – 1819. Engineer, inventor of the steam engine|url=https://www.nationalgalleries.org/art-and-artists/4074/james-watt-1736-1819-engineer-inventor-steam-engine|website=Scottish National Portrait Gallery|accessdate=5 December 2017}}</ref>]]
+[[File:Bust of James Watt.JPG|thumb|Bust of Watt in the [[Scottish National Portrait Gallery]]]]
+James Watt was born on 19 January 1736 in [[Greenock]], [[Renfrewshire (historic)|Renfrewshire]], a seaport on the [[Firth of Clyde]].<ref name="thurston-growth-steam-engine">{{cite book|last=Thurston|first=Robert Henry|title=A history of the growth of the steam-engine|url=https://books.google.com/?id=HguRSvxVtuAC&printsec=frontcover#v=onepage&q|series=The International Scientific Series|year=1878|publisher=D. Appleton and Company|location=New York|page=80}}</ref> His father was a [[shipwright]], ship owner and contractor, and served as the town's [[Baillie|chief baillie]],<ref name="muuirhead-life-james-watt">{{cite book|url=https://books.google.com/?id=aA5VAAAAMAAJ&printsec=frontcover#v=onepage&q|last=Muirhead|first=James Patrick|title=The life of James Watt: with selections from his correspondence|edition=2|year=1859|publisher=John Murray|page=10}}</ref> while his mother, Agnes Muirhead, came from a distinguished family and was well educated. Both were [[Presbyterian]]s and strong [[Covenanter]]s.<ref name="klooster-icons">{{cite book|last=Klooster|first=John W.|title=Icons of invention: the makers of the modern world from Gutenberg to Gates|url=https://books.google.com/?id=WKuG-VIwID8C&printsec=frontcover#v=onepage&q|series=Icons of invention|volume=1|year=2009|publisher=ABC-CLIO|isbn=978-0-313-34743-6|page=30}}</ref> Watt's grandfather, Thomas Watt, was a mathematics teacher and [[baillie]] to the [[Baron of Cartsburn]].<ref>{{cite book|url=https://books.google.com/?id=aA5VAAAAMAAJ&printsec=frontcover#v=onepage&q|last=Muirhead|first=James Patrick|title=The life of James Watt: with selections from his correspondence|edition=2|year=1859|publisher=John Murray|page=4,7}}</ref> Despite being raised by religious parents, he later became a [[Deism|deist]].<ref name="Clarendon press">{{cite book|title=James Watt and the steam engine: the memorial volume prepared for the Committee of the Watt centenary commemoration at Birmingham 1919|year=1927|publisher=Clarendon press|first=Henry Winram |last=Dickinson|first2= Rhys |last2=Jenkins|last3= Committee of the Watt Centenary Commemoration|page=78|quote=It is difficult to say anything as to Watt's religious belief, further than that he was a Deist.}}</ref><ref>{{cite web|title=A Biographical Dictionary of Ancient, Medieval, and Modern Freethinkers|url=http://www.infidels.org/library/historical/joseph_mccabe/dictionary.html|publisher=Haldeman-Julius Publications|accessdate=17 August 2012|first=Joseph |last=McCabe|year=1945|quote=He made such improvement in the crude steam-engine that had been invented before his time that he is usually described as the inventor. "His many and most valuable inventions must always place him among the leading benefactors of mankind," says the account of him in the ''Dictionary of National Biography''. He was an accomplished man. He knew Greek, Latin, French, German and Italian and was very friendly with the great freethinking French scientists. Andrew Carnegie has written a life of him and describes him as a deist who never went to church.}}</ref>
+
+Watt did not attend school regularly; initially he was mostly [[schooled at home]] by his mother but later he attended Greenock Grammar School.<ref>{{cite ODNB|id=28880|title=Watt, James (1736–1819)|origyear=2004|year=2013|last=Tann|first=Jennifer}}</ref> He exhibited great manual dexterity, engineering skills and an aptitude for mathematics, while [[Latin]] and [[Ancient Greek|Greek]] failed to interest him. He is said to have suffered prolonged bouts of ill-health as a child.<ref>{{cite book|last1=Smiles|first1=Samuel|title=Lives of the Engineers|date=1904|publisher=John Murray|location=London|page=12|edition=Popular|url=https://archive.org/stream/in.ernet.dli.2015.173811/2015.173811.Lives-Of-The-Engineers#page/n21/mode/2up|accessdate=9 December 2017}}</ref>
+
+When he was eighteen, his mother died and his father's health began to fail. Watt travelled to London to study [[measuring instrument|instrument]]-making for a year, then returned to Scotland, settling in the major commercial city of [[Glasgow]] intent on setting up his own instrument-making business. He made and repaired brass [[octant (instrument)|reflecting quadrants]], [[parallel rulers]], scales, parts for telescopes, and barometers, among other things. Because he had not served at least seven years as an [[apprenticeship|apprentice]], the Glasgow [[Guild]] of Hammermen (which had jurisdiction over any [[artisan]]s using [[hammer]]s) blocked his application,<ref>{{cite book|last1=Thomas|first1=Henry|last2=Thomas|first2=Dana Lee|title=Living adventures in science|year=1954|publisher=Ayer Publishing|page=25}}</ref> despite there being no other mathematical instrument makers in Scotland.<ref>{{cite book|last1=Carnegie|first1=Andrew|title=James Watt|date=1905|publisher=Oliphant, Anderson & Ferrier|location=Edinburgh and London|page=18|url=https://archive.org/stream/jameswatt00carniala#page/18/mode/2up|accessdate=10 December 2017}}</ref>
+
+Watt was saved from this impasse by the arrival from Jamaica of astronomical instruments bequeathed by Alexander Macfarlane to the [[University of Glasgow]], instruments that required expert attention.<ref>Marshall (1925) Chapter 3</ref> Watt restored them to working order and was remunerated. These instruments were eventually installed in the [[Macfarlane Observatory]]. Subsequently three professors offered him the opportunity to set up a small workshop within the university. It was initiated in 1757 and two of the professors, the [[physicist]] and [[chemist]] [[Joseph Black]] as well as the famed [[Adam Smith]], became Watt's friends.<ref>
+{{cite book
+|title=Partners in Science: Letters of James Watt and Joseph Black
+ |last1=Robinson
+ |first1= Eric
+|last2=McKie
+ |first2= Doublas
+|year= |publisher =
+|location= Cambridge, Massachusetts
+|isbn= |pages=}}
+</ref>
+
+At first he worked on maintaining and repairing scientific instruments used in the university, helping with demonstrations, and expanding the production of [[quadrant (instrument)|quadrants]]. In 1759 he formed a partnership with John Craig, an architect and businessman, to manufacture and sell a line of products including musical instruments and toys. This partnership lasted for the next six years, and employed up to sixteen workers. Craig died in 1765. One employee, Alex Gardner, eventually took over the business, which lasted into the twentieth century.<ref>Hills, vol I, pp. 103–15</ref>
+
+In 1764, Watt married his cousin Margaret (Peggy) Miller, with whom he had five children, two of whom lived to adulthood: [[James Watt Jr.|James Jr.]] (1769–1848) and Margaret (1767–1796). His wife died in childbirth in 1772. In 1777 he was married again, to Ann MacGregor, daughter of a Glasgow dye-maker, with whom he had two children: Gregory (1777–1804), who became a geologist and mineralogist,<ref>{{Cite book | last1 = Torrens | first1 = H. S. | chapter = The geological work of Gregory Watt, his travels with William Maclure in Italy (1801–1802), and Watt's "proto-geological" map of Italy (1804) | doi = 10.1130/2006.2411(11) |title=The Origins of Geology in Italy |series=Geological Society of America | volume = 411 | pages = 179–197 | year = 2006 }}</ref> and Janet (1779–1794). Ann died in 1832. Between 1777 and 1790 he lived in Regent Place, Birmingham.
+
+===Watt and the kettle===
+
+There is a popular story that Watt was inspired to invent the steam engine by seeing a kettle boiling, the steam forcing the lid to rise and thus showing Watt the power of steam. This story is told in many forms; in some Watt is a young lad, in others he is older, sometimes it's his mother's kettle, sometimes his aunt's. James Watt of course did not actually ''invent'' the steam engine, as the story implies, but dramatically improved the efficiency of the existing Newcomen engine by adding a separate condenser. This is difficult to explain to someone not familiar with concepts of heat and thermal efficiency. It appears that the story of Watt and the kettle was created, possibly by Watt's son James Watt Jr., and persists because it is easy for children to understand and remember.<ref>{{cite journal |title=True Myths: James Watt's Kettle, His Condenser, and His Chemistry |last=Miller |first=D. P. |journal=[[History of Science (journal)|History of Science]] |volume=42 |issue=3 |pages=333–360 [p. 334] |doi=10.1177/007327530404200304 }}</ref> In this light it can be seen as akin to the story of [[Isaac Newton]], the falling apple and his discovery of gravity.
+
+Although it is often dismissed as a myth, like most good stories the story of James Watt and the kettle has a basis in fact. In trying to understand the [[thermodynamics]] of heat and steam James Watt carried out many laboratory experiments and his diaries record that in conducting these he used a kettle as a boiler to generate steam.<ref>{{cite book |title=Science and Technology in the Industrial Revolution |first=A. E. |last=Musson |first2=Eric |last2=Robinson |publisher=Manchester University Press |year=1969 |page=80 }}</ref>
+
+===Early experiments with steam===
+[[File:James Eckford Lauder - James Watt and the Steam Engine- the Dawn of the Nineteenth Century - Google Art Project.jpg|thumb|left|[[James Eckford Lauder]]: ''James Watt and the Steam Engine: the Dawn of the Nineteenth Century'', 1855]]
+[[File:Watts First Condenser.jpg|thumb|[[Watt's separate condenser|Original condenser]] by Watt ([[Science Museum (London)|Science Museum]])]]
+
+In 1759 Watt's friend, [[John Robison (physicist)|John Robison]], called his attention to the use of steam as a source of [[motive power]].<ref name="Muirhead1858">{{cite book|last=Muirhead|first=James Patrick|title=The life of James Watt: with selections from his correspondence|url=https://books.google.com/books?id=_b8GAAAAYAAJ&pg=PA74|accessdate=17 August 2011|year=1858|publisher=J. Murray|pages=74–83}}</ref> The design of the [[Newcomen engine]], in use for almost 50 years for pumping water from mines, had hardly changed from its first implementation.  Watt began to experiment with steam, though he had never seen an operating steam engine.  He tried constructing a model; it failed to work satisfactorily, but he continued his experiments and began to read everything he could about the subject. He came to realise the importance of [[latent heat]]—the [[thermal energy]] released or absorbed during a constant-temperature process—in understanding the engine, which, unknown to Watt, his friend Joseph Black had previously discovered some years before. Understanding of the steam engine was in a very primitive state, for the science of [[thermodynamics]] would not be formalised for nearly another 100 years.
+
+In 1763, Watt was asked to repair a model Newcomen engine belonging to the university.<ref name="Muirhead1858"/> Even after repair, the engine barely worked. After much experimentation, Watt demonstrated that about three-quarters of the thermal energy of the steam was being consumed in heating the [[Cylinder (engine)|engine cylinder]] on every cycle.<ref name="FrazerPa1859">{{cite book|last=Frazer|first=Persifor|title=Journal of the Franklin Institute|url=https://books.google.com/books?id=o3oqAQAAIAAJ&pg=PA296|accessdate=17 August 2011|year=1859|pages=296–297}}</ref> This energy was wasted because later in the cycle cold water was injected into the cylinder to condense the steam to reduce its pressure. Thus by repeatedly heating and cooling the cylinder, the engine wasted most of its thermal energy rather than converting it into [[mechanical energy]].
+
+Watt's critical insight, arrived at in May 1765,<ref>Dickinson, p. 36</ref> was to cause the steam to [[condense]] in a separate chamber apart from the [[piston]], and to maintain the temperature of the cylinder at the same temperature as the injected steam by surrounding it with a "steam jacket."<ref name="FrazerPa1859"/> Thus very little energy was absorbed by the cylinder on each cycle, making more available to perform useful work. Watt had a working model later that same year.
+
+[[File:James Watt Cottage ruin, Kinneil House, Bo'ness.JPG|thumb|left|The ruin of Watt's cottage workshop at [[Kinneil House]]<ref>{{cite web|title=OS 25-inch 1892–1949|url=http://maps.nls.uk/geo/explore/#zoom=17&lat=56.0081&lon=-3.6337&layers=168&b=1|website=National Library of Scotland|publisher=Ordnance Survey|accessdate=26 October 2017}}</ref>]]
+[[File:James Watt steam engine relic at the Carron Works.JPG|thumb|[[Cylinder (engine)|Cylinder]] fragment of Watt's first operational engine at the [[Carron Works]], Falkirk]]
+
+Despite a potentially workable design, there were still substantial difficulties in constructing a full-scale engine. This required more capital, some of which came from Black. More substantial backing came from [[John Roebuck]], the founder of the celebrated [[Carron Iron Works]] near [[Falkirk]], with whom he now formed a partnership. Roebuck lived at [[Kinneil House]] in [[Bo'ness]], during which time Watt worked at perfecting his steam engine in a cottage adjacent to the house.<ref>{{cite book|last1=Salmon|first1=Thomas James|title=Borrowstounness and district, being historical sketches of Kinneil, Carriden, and Bo'ness, c. 1550–1850|date=1913|publisher=William Hodge and Co.|location=Edinburgh|pages=372–376|url=https://archive.org/stream/borrowstounnessd00salmrich#page/270/mode/2up|accessdate=9 December 2017}}</ref> The shell of the cottage, and a very large part of one of his projects, still exist to the rear.<ref>"James Watt's Cottage", CANMORE. Royal Commission on the Ancient and Historical Monuments of Scotland. Retrieved 13 May 2010.</ref>
+
+The principal difficulty was in machining the piston and cylinder. [[Iron (material)|Iron]] workers of the day were more like [[blacksmith]]s than modern machinists, and were unable to produce the components with sufficient precision. Much capital was spent in pursuing a patent on Watt's invention. Strapped for resources, Watt was forced to take up employment—first as a [[surveyor (surveying)|surveyor]], then as a civil engineer—for eight years.<ref>Hills, vol I, pages 180–293</ref>
+
+Roebuck went bankrupt, and [[Matthew Boulton]], who owned the [[Soho Manufactory]] works near [[Birmingham]], acquired his patent rights. An extension of the patent to 1800 was successfully obtained in 1775.<ref>James Watt's Fire Engines Patent Act, 1775 (15 Geo 3 c. 61). At the time, an [[Act of Parliament]] was required to obtain a patent.</ref>
+
+Through Boulton, Watt finally had access to some of the best iron workers in the world. The difficulty of the manufacture of a large cylinder with a tightly fitting piston was solved by [[John Wilkinson (industrialist)|John Wilkinson]], who had developed precision boring techniques for cannon making at [[Bersham Ironworks|Bersham]], near [[Wrexham]], [[North Wales]]. Watt and Boulton formed a hugely successful partnership, [[Boulton and Watt]], which lasted for the next twenty-five years.
+
+===First engines===
+[[File:SteamEngine Boulton&Watt 1784.png|thumb|left|Engraving of a 1784 [[Watt steam engine|steam engine]] designed by [[Boulton and Watt]].]]
+{{Main|Watt steam engine|Watt's linkage|Watt's curve}}
+In 1776, the first engines were installed and working in commercial enterprises. These first engines were used to power pumps and produced only reciprocating motion to move the pump rods at the bottom of the shaft. The design was commercially successful, and for the next five years Watt was very busy installing more engines, mostly in [[Cornwall]] for pumping water out of mines.
+
+These early engines were not manufactured by Boulton and Watt, but were made by others according to drawings made by Watt, who served in the role of consulting engineer. The erection of the engine and its [[shakedown (testing)|shakedown]] was supervised by Watt, at first, and then by men in the firm's employ. These were large machines. The first, for example, had a cylinder with a diameter of some 50&nbsp;inches and an overall height of about 24 feet, and required the construction of a dedicated building to house it. Boulton and Watt charged an annual payment, equal to one third of the value of the coal saved in comparison to a Newcomen engine performing the same work.
+
+The field of application for the invention was greatly widened when Boulton urged Watt to convert the reciprocating motion of the piston to produce rotational power for grinding, weaving and milling. Although a [[crank (mechanism)|crank]] seemed the obvious solution to the conversion Watt and Boulton were stymied by a patent for this, whose holder, [[James Pickard]], and associates proposed to cross-license the external condenser. Watt adamantly opposed this and they circumvented the patent by their [[sun and planet gear]] in 1781.
+
+Over the next six years, he made a number of other improvements and modifications to the steam engine. A double acting engine, in which the steam acted alternately on the two sides of the piston was one. He described methods for working the steam "expansively" (i.e., using steam at pressures well above atmospheric). A compound engine, which connected two or more engines was described. Two more patents were granted for these in 1781 and 1782. Numerous other improvements that made for easier manufacture and installation were continually implemented. One of these included the use of the steam [[indicator diagram|indicator]] which produced an informative plot of the pressure in the cylinder against its volume, which he kept as a [[trade secret]]. Another important invention, one which Watt was most proud of, was the [[parallel motion]] which was essential in double-acting engines as it produced the straight line motion required for the cylinder rod and pump, from the connected rocking beam, whose end moves in a [[circular arc]]. This was patented in 1784. A throttle valve to control the power of the engine, and a [[centrifugal governor]], patented in 1788,<ref>{{cite book|last=Brown|first=Richard|title=Society and Economy in Modern Britain 1700–1850|publisher=Routledge|location=London|year=1991|page=60|isbn=978-0-203-40252-8}}</ref> to keep it from "running away" were very important. These improvements taken together produced an engine which was up to five times as efficient in its use of fuel as the Newcomen engine.
+
+Because of the danger of exploding [[boilers]], which were in a very primitive stage of development, and the ongoing issues with leaks, Watt restricted his use of high pressure steam&nbsp;– all of his engines used steam at near atmospheric pressure.
+
+===Patent trials===
+[[File:20070616 Dampfmaschine.jpg|thumb|A steam engine built to James Watt's patent in 1848 at [[Freiberg, Saxony|Freiberg]] in Germany]]
+[[Edward Bull]] started constructing engines for Boulton and Watt in Cornwall in 1781. By 1792 he had started making engines of his own design, but which contained a separate condenser, and so infringed Watt's patents. Two brothers, [[Jabez Carter Hornblower]] and [[Jonathan Hornblower]] Jnr also started to build engines about the same time. Others began to modify Newcomen engines by adding a condenser, and the mine owners in Cornwall became convinced that Watt's patent could not be enforced. They started to withhold payments due to Boulton and Watt, which by 1795 had fallen. Of the total £21,000 (equivalent to £{{formatnum:{{Inflation|UK|21000|1795|{{Inflation-year|UK}}|r=-4}}}} as of {{Inflation-year|UK}}) owed, only £2,500 had been received. Watt was forced to go to court to enforce his claims.<ref>Hills, vol 3, ch 5 and 6</ref>
+
+He first sued Bull in 1793. The jury found for Watt, but the question of whether or not the original specification of the patent was valid was left to another trial. In the meantime, injunctions were issued against the infringers, forcing their payments of the royalties to be placed in escrow. The trial on determining the validity of the specifications which was held in the following year was inconclusive, but the injunctions remained in force and the infringers, except for Jonathan Hornblower, all began to settle their cases. Hornblower was soon brought to trial and the verdict of the four judges (in 1799) was decisively in favour of Watt. Their friend John Wilkinson, who had solved the problem of boring an accurate cylinder, was a particularly grievous case. He had erected about twenty engines without Boulton's and Watts' knowledge. They finally agreed to settle the infringement in 1796.<ref>Roll p. 158</ref> Boulton and Watt never collected all that was owed them, but the disputes were all settled directly between the parties or through arbitration. These trials were extremely costly in both money and time, but ultimately were successful for the firm.
+
+===Copying machine===
+[[File:Portable Copying Machine by James Watt & Co.jpg|thumb|Portable Copying Machine by James Watt & Co. Circa 1795]]
+Before 1780 there was no good method for making copies of letters or drawings. The only method sometimes used was a mechanical one using linked multiple pens.  Watt at first experimented with improving this method, but soon gave up on this approach because it was so cumbersome.  He instead decided to try to physically transfer some ink from the front of the original to the back of another sheet, moistened with a solvent, and pressed to the original. The second sheet had to be thin, so that the ink could be seen through it when the copy was held up to the light, thus reproducing the original exactly.<ref>Hills, Vol, 2, pp. 190–211</ref><ref>W.B. Proudfoot, Origin of Stencil Duplicating, p. 21, as quoted at Quaritch.com 12 Oct 13</ref>
+
+Watt started to develop the process in 1779, and made many experiments to formulate the ink, select the thin paper, to devise a method for wetting the special thin paper, and to make a press suitable for applying the correct pressure to effect the transfer. All of these required much experimentation, but he soon had enough success to patent the process a year later. Watt formed another partnership with Boulton (who provided financing) and [[James Keir]] (to manage the business) in a firm called James Watt and Co. The perfection of the invention required much more development work before it could be routinely used by others, but this was carried out over the next few years. Boulton and Watt gave up their shares to their sons in 1794.<ref>Hills vol. 3 p. 116.</ref> It became a commercial success and was widely used in offices even into the twentieth century.
+
+===Chemical experiments===
+From an early age Watt was very interested in chemistry. In late 1786, while in Paris, he witnessed an experiment by [[Berthollet]] in which he reacted [[hydrochloric acid]] with [[manganese dioxide]] to produce [[chlorine]]. He had already found that an aqueous solution of chlorine could bleach textiles, and had published his findings, which aroused great interest among many potential rivals. When Watt returned to Britain, he began experiments along these lines with hopes of finding a commercially viable process.  He discovered that a mixture of salt, manganese dioxide and [[sulphuric acid]] could produce chlorine, which Watt believed might be a cheaper method. He passed the chlorine into a weak solution of alkali, and obtained a turbid solution that appeared to have good bleaching properties. He soon communicated these results to James McGrigor, his father-in-law, who was a bleacher in Glasgow. Otherwise he tried to keep his method a secret.<ref>Hills, vol 3, ch 4</ref>
+
+With McGrigor and his wife Annie, he started to scale up the process, and in March 1788, McGrigor was able to bleach 1500 yards of cloth to his satisfaction. About this time Berthollet discovered the salt and sulphuric acid process, and published it so it became public knowledge. Many others began to experiment with improving the process, which still had many shortcomings, not the least of which was the problem of transporting the liquid product. Watt's rivals soon overtook him in developing the process, and he dropped out of the race. It was not until 1799, when [[Charles Tennant]] patented a process for producing solid [[bleaching powder]] (calcium hypochlorite) that it became a commercial success.
+
+By 1794 Watt had been chosen by [[Thomas Beddoes]] to manufacture apparatus to produce, clean and store gases for use in the new [[Pneumatic Institution]] at [[Hotwells]] in Bristol. Watt continued to experiment with various gases for several years, but by 1797 the medical uses for the "factitious airs" had come to a dead end.<ref>Hills, vol 3, pp. 152–58</ref>[[File:Watt apparatus 3.JPG|thumb|Scientific apparatus designed by [[Boulton and Watt]] in preparation of the [[Pneumatic Institution]] in Bristol]]
+
+===Personality===
+Watt combined theoretical knowledge of science with the ability to apply it practically. [[Humphry Davy]] said of him "Those who consider James Watt only as a great practical mechanic form a very erroneous idea of his character; he was equally distinguished as a natural philosopher and a chemist, and his inventions demonstrate his profound knowledge of those sciences, and that peculiar characteristic of genius, the union of them for practical application".<ref>{{cite book|last=Carnegie|first=Andrew|title=James Watt|url=http://www.history.rochester.edu/steam/carnegie/ch10.html|year=1905|publisher=Doubleday, Page and Company|chapter=10|deadurl=yes|archiveurl=http://arquivo.pt/wayback/20090708035219/http://www.history.rochester.edu/steam/carnegie/ch10.html|archivedate=8 July 2009|df=dmy-all}}</ref>
+
+He was greatly respected by other prominent men of the [[Industrial Revolution]].<ref>Carnegie, chap. XI: ''Watt, the Man''</ref> He was an important member of the [[Lunar Society]], and was a much sought-after conversationalist and companion, always interested in expanding his horizons.<ref>Hills, vol I, pages 42–43</ref> His personal relationships with his friends and partners were always congenial and long-lasting.
+
+Watt was a prolific correspondent. During his years in [[Cornwall]], he wrote long letters to Boulton several times per week. He was averse to publishing his results in, for example, the [[Philosophical Transactions of the Royal Society]] however, and instead preferred to communicate his ideas in [[patents]].<ref>{{Cite journal| last=Smiles| first=Samuel| title=Lives of Boulton and Watt: A History of the Invention and Introduction of the Steam Engine| URL=https://archive.org/stream/livesofengineers04smiluoft#page/286/mode/2up | publisher=John Murray| place=London| year=1865 | page=286| postscript=<!--None-->}}</ref> He was an excellent [[Drafter|draughtsman]].
+
+[[File:James Watt's letters from the Science Museum Library & Archives in Wroughton.jpg|thumb|James Watt's letters from the [[Science Museum at Wroughton|Science Museum Library & Archives in Wroughton]], near Swindon.]]
+
+He was a rather poor businessman, and especially hated bargaining and negotiating terms with those who sought to use the steam engine. In a letter to [[William Small]] in 1772, Watt confessed that "he would rather face a loaded cannon than settle an account or make a bargain."<ref>Roll, p. 20</ref> Until he retired, he was always much concerned about his financial affairs, and was something of a worrier. His health was often poor. He was subject to frequent nervous headaches and depression.
+
+===Soho Foundry===
+At first the partnership made the drawing and specifications for the engines, and supervised the work to erect it on the customers property. They produced almost none of the parts themselves. Watt did most of his work at his home in Harper's Hill in Birmingham, while Boulton worked at the [[Soho Manufactory]]. Gradually the partners began to actually manufacture more and more of the parts, and by 1795 they purchased a property about a mile away from the Soho manufactory, on the banks of the [[BCN Main Line|Birmingham Canal]], to establish a new foundry for the manufacture of the engines. The [[Soho Foundry]] formally opened in 1796 at a time when Watt's sons, Gregory and [[James Watt Jr.|James Jr.]] were heavily involved in the management of the enterprise. In 1800, the year of Watt's retirement, the firm made a total of forty-one engines.<ref>Roll, p. 280</ref>
+
+===Later years===
+[[File:Heathfield Hall, Handsworth by Allen Edward Everitt.jpg|thumb|An 1835 painting of "[[Heathfield Hall|Heathfield]]", Watt's house in [[Handsworth, West Midlands|Handsworth]], by [[Allen Edward Everitt]] ]]
+[[File:James Watt's Workshop.jpg|thumb|upright|James Watt's workshop]]
+Watt retired in 1800, the same year that his fundamental patent and partnership with [[Matthew Boulton|Boulton]] expired. The famous partnership was transferred to the men's sons, [[Matthew Robinson Boulton]] and [[James Watt Jr.]] . Longtime firm engineer [[William Murdoch]] was soon made a partner and the firm prospered.
+
+Watt continued to invent other things before and during his semi-retirement. Within his home in [[Handsworth, West Midlands|Handsworth]], Staffordshire, Watt made use of a garret room as a workshop, and it was here that he worked on many of his inventions.<ref>Dickinson ch VII</ref> Among other things, he invented and constructed several machines for copying sculptures and medallions which worked very well, but which he never patented.<ref>Hills vol 3, pp. 234–37</ref> One of the first sculptures he produced with the machine was a small head of his old professor friend [[Adam Smith]]. He maintained his interest in civil engineering and was a consultant on several significant projects. He proposed, for example, a method for constructing a flexible pipe to be used for pumping water under the [[River Clyde|Clyde]] at Glasgow.<ref>Hills, vol 3, pp. 230–31</ref>
+
+He and his second wife travelled to France and Germany, and he purchased an estate in mid-Wales at Doldowlod House, one mile south of [[Llanwrthwl]], which he much improved.
+
+In 1816 he took a trip on the paddle-steamer ''[[PS Comet|Comet]]'', a product of his inventions, to revisit his home town of Greenock.<ref>Robert Chambers' Book of Days</ref>
+
+He died on 25 August 1819 at his home "[[Heathfield Hall|Heathfield]]" in Handsworth, [[Staffordshire]] (now part of [[Birmingham]]) at the age of 83. He was buried on 2 September in the graveyard of [[St Mary's Church, Handsworth]]. The church has since been extended and his grave is now inside the church.
+
+==Murdoch's contributions==
+William Murdoch joined Boulton and Watt in 1777.  At first he worked in the pattern shop in Soho, but soon he was erecting engines in Cornwall.  He became an important part of the firm and made many contributions to its success.  A very able man, he made several important inventions on his own.
+
+John Griffiths, who wrote a biography<ref>John Griffiths; ''The Third Man, The Life and Times of William Murdoch 1754–1839'' Illustrated with Black-and-white photographic plates and diagrams with Bibliography and Index; Andre Deutsch; 1992; {{ISBN|0-233-98778-9}}</ref> of him in 1992, has argued that Watt's discouraging Murdoch from working with high pressure steam (Watt rightly believed that boilers of the time would be unsafe) on his steam road locomotive experiments delayed its development.<ref>{{cite book|last=Jarvis|first=Adrian|title=Samuel Smiles and the construction of Victorian values|year=1997|publisher=Sutton|isbn=978-0-7509-1128-3|page=82}}</ref>
+
+Watt patented the application of the [[sun and planet gear]] to steam in 1781 and a [[steam locomotive]] in 1784, both of which have strong claims to have been invented by Murdoch.<ref>{{cite book|last1=Day|first1=Lance|last2=McNeil|first2=Ian|title=Biographical Dictionary of the History of Technology|url=https://books.google.com/?id=FrGwIIvKSxUC&lpg=PA878&pg=PA878#v=onepage&q|year=2003|publisher=Routledge|isbn=978-0-203-02829-2|page=878}}</ref> The patent was never contested by Murdoch, however, and Boulton and Watt's firm continued to use the sun and planet gear in their rotative engines, even long after the patent for the crank expired in 1794.  Murdoch was made a partner of the firm in 1810, where he remained until his retirement 20 years later at the age of 76.
+
+==Legacy==
+[[File:Loughborough Beam Engine - geograph.org.uk - 2734519.jpg|right|thumb|A preserved [[Watt steam engine|Watt beam engine]] at [[Loughborough University]]]]
+{{further|Industrial revolution}}
+
+James Watt's improvements to the steam engine "converted it from a prime mover of marginal efficiency into the mechanical workhorse of the Industrial Revolution".<ref>{{cite journal|last=Anderson|first=Anthony|date=3 December 1981|title=Review: James Watt and the steam engine|journal=New Scientist|page=685|url=https://books.google.com/?id=FPxItYa5rgUC&lpg=PA685&dq=james-watt%20%22industrial%20revolution%22&pg=PA685#v=onepage&q}}</ref> The availability of efficient, reliable motive power made whole new classes of industry economically viable, and altered the economies of continents.<ref>{{cite book|last=Prasad|first=B. K.|title=Urban development: a new perspective|url=https://books.google.com/?id=zHePNF0ItykC&pg=PA56&dq=james-watt+%22industrial+revolution%22+economy+change&q=james-watt%20%22industrial%20revolution%22%20economy%20change|year=2003|publisher=Sarup and Sons|isbn=978-81-7625-352-9|page=56}}</ref> In doing so it brought about immense social change, [[urbanization|attracting millions of rural families to the towns and cities]].
+
+Of Watt, the English novelist [[Aldous Huxley]] (1894–1963) wrote; "To us, the moment 8:17 A.M. means something&nbsp;– something very important, if it happens to be the starting time of our daily train. To our ancestors, such an odd eccentric instant was without significance&nbsp;– did not even exist. In inventing the locomotive, Watt and Stephenson were part inventors of time."<ref>{{cite journal|last=Ryan|first=Patrick|date=5 July 1973|title=The last word on... The early and the late|journal=New Scientist|url=https://books.google.com/?id=WVuRNpiORB8C&pg=PA35&dq=%22In+inventing+the+locomotive,+Watt+and+Stephenson+were+part+inventors+of+time%22&q=%22In%20inventing%20the%20locomotive%2C%20Watt%20and%20Stephenson%20were%20part%20inventors%20of%20time%22}}</ref>
+
+==Honours==
+Watt was much honoured in his own time.  In 1784 he was made a fellow of the [[Royal Society of Edinburgh]], and was elected as a member of the [[Batavian Society for Experimental Philosophy]], of [[Rotterdam]] in 1787.  In 1789 he was elected to the elite group, the [[Smeatonian Society of Civil Engineers]].<ref>{{cite book | last = Watson | first = Garth | title = The Smeatonians: The Society of Civil Engineers  | publisher=Thomas Telford | year = 1989 | url = | id = | isbn = 0-7277-1526-7}}</ref> In 1806 he was conferred the honorary Doctor of Laws by the [[University of Glasgow]].  The [[French Academy]] elected him a Corresponding Member and he was made a Foreign Associate in 1814.<ref>Dickinson, pp. 197–98</ref>
+
+The watt is named after James Watt for his contributions to the development of the [[steam engine]], and was adopted by the Second Congress of the British Association for the Advancement of Science in 1889 and by the 11th [[General Conference on Weights and Measures]] in 1960 as the unit of [[Power (physics)|power]] incorporated in the [[International System of Units]] (or "SI").
+
+On 29 May 2009 the [[Bank of England]] announced that Boulton and Watt would appear on a new [[Banknotes of the pound sterling|£50 note]]. The design is the first to feature a dual portrait on a Bank of England note, and presents the two industrialists side by side with images of Watt's steam engine and Boulton's Soho Manufactory. Quotes attributed to each of the men are inscribed on the note: "I sell here, sir, what all the world desires to have—POWER" (Boulton) and "I can think of nothing else but this machine" (Watt). The inclusion of Watt is the second time that a Scot has featured on a Bank of England note (the first was [[Adam Smith]] on the 2007 issue £20 note).<ref>{{citation|url=http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/8075130.stm|title=Steam giants on new £50 banknote|publisher=BBC|date= 30 May 2009|accessdate= 22 June 2009}}</ref> In September 2011 it was announced that the notes would enter circulation on 2 November.<ref>{{cite web|url=https://www.theguardian.com/business/2011/sep/30/bank-england-new-50-pound-note?newsfeed=true|title=Bank of England to launch new £50 note|author=Heather Stewart|work=The Guardian}}</ref>
+
+In 2011 he was one of seven inaugural inductees to the [[Scottish Engineering Hall of Fame]].<ref>{{cite web |url= http://www.engineeringhalloffame.org/index.html |title=Scottish Engineering Hall of Fame |work=''engineeringhalloffame.org'' |year=2012 |accessdate=27 August 2012}}</ref>
+
+==Memorials==
+[[File:James Watt Memorial College.jpg|thumb|upright|left|The [[James Watt College|James Watt Memorial College]] in [[Greenock]].]]
+
+Watt was buried in the grounds of [[St. Mary's Church, Handsworth]], in Birmingham. Later expansion of the church, over his grave, means that his tomb is now buried ''inside'' the church.<ref>{{cite book|last=Kelly|first=E.R|title=The Post Office Directory of Birmingham|url=https://books.google.com/?id=dO8NAAAAQAAJ&pg=PA176&dq=%22james+watt%22+buried+handsworth+chapel&q=%22james%20watt%22%20buried%20handsworth%20chapel|year=1878|publisher=Kelly and co.|location=London|page=176}}</ref>
+
+The [[attic|garret]] room workshop that Watt used in his retirement was left, locked and untouched, until 1853, when it was first viewed by his biographer [[James Patrick Muirhead|J. P. Muirhead]]. Thereafter, it was occasionally visited, but left untouched, as a kind of shrine. A proposal to have it transferred to the Patent Office came to nothing. When the house was due to be demolished in 1924, the room and all its contents were presented to the [[Science Museum (London)|Science Museum]], where it was recreated in its entirety.<ref>{{cite web|url=http://www.makingthemodernworld.org.uk/stories/the_age_of_the_engineer/03.ST.03/?scene=5&tv=true |title=Garret workshop of James Watt |publisher=Makingthemodernworld.org.uk |accessdate=12 March 2011}}</ref> It remained on display for visitors for many years, but was walled-off when the gallery it was housed in closed. The workshop remained intact, and preserved, and in March 2011 was put on public display as part of a new permanent Science Museum exhibition, "James Watt and our world".<ref>{{cite web |title=James Watt's legendary 'magical retreat' to be revealed at Science Museum |url=http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2011/03/watt.aspx |work=(Press Release) |publisher=[[Science Museum (London)|Science Museum]] |accessdate=25 March 2011 |archiveurl=https://www.webcitation.org/5xRvOFm3B?url=http://www.sciencemuseum.org.uk/about_us/press_and_media/press_releases/2011/03/watt.aspx |archivedate=25 March 2011 |date=1 March 2011 |deadurl=yes |df= }}</ref>
+
+The approximate location of James Watt's birth in Greenock is commemorated by a statue. Several locations and street names in Greenock recall him, most notably the Watt Memorial Library, which was begun in 1816 with Watt's donation of scientific books, and developed as part of the Watt Institution by his son (which ultimately became the [[James Watt College]]). Taken over by the local authority in 1974, the library now also houses the local history collection and archives of [[Inverclyde]], and is dominated by a large seated statue in the vestibule. Watt is additionally commemorated by statuary in [[George Square]], Glasgow and [[Princes Street]], Edinburgh, as well as several others in [[Birmingham]], where he is also remembered by the [[Lunar Society Moonstones|Moonstones]] and a school is named in his honour.
+
+The James Watt College has expanded from its original location to include campuses in [[Kilwinning]] (North Ayrshire), Finnart Street and The Waterfront in Greenock, and the Sports campus in [[Largs]]. [[Heriot-Watt University]] near [[Edinburgh]] was at one time the School of Arts of Edinburgh, founded in 1821 as the world's first [[Mechanics Institute]], but to commemorate George Heriot, the 16th-century financier to King James, and James Watt, after Royal Charter the name was changed to Heriot-Watt University. Dozens of university and college buildings (chiefly of science and technology) are named after him. Matthew Boulton's home, [[Soho House]], is now a museum, commemorating the work of both men. The [[University of Glasgow]]'s Faculty of Engineering has its headquarters in the James Watt Building, which also houses the department of Mechanical Engineering and the department of Aerospace Engineering.
+The huge painting ''James Watt contemplating the steam engine'' by [[James Eckford Lauder]] is now owned by the [[National Gallery of Scotland]].
+
+[[File:Watt James Chantrey.jpg|thumb|right|[[Francis Legatt Chantrey|Chantrey]]'s statue of James Watt]]
+
+There is a statue of James Watt in [[Piccadilly Gardens]], Manchester and [[City Square, Leeds]].
+
+A colossal statue of Watt by [[Francis Legatt Chantrey|Chantrey]] was placed in [[Westminster Abbey]], and later was moved to [[St. Paul's Cathedral]].  On the [[cenotaph]] the inscription reads, in part, "JAMES WATT ... ENLARGED THE RESOURCES OF HIS COUNTRY, INCREASED THE POWER OF MAN, AND ROSE TO AN EMINENT PLACE AMONG THE MOST ILLUSTRIOUS FOLLOWERS OF SCIENCE AND THE REAL BENEFACTORS OF THE WORLD."
+
+A bust of Watt is in the Hall of Heroes of the [[National Wallace Monument]] in [[Stirling]].
+
+==Patents==
+Watt was the sole inventor listed on his six patents:<ref>Hills, vol 3, p. 13</ref>
+* Patent 913:  A method of lessening the consumption of steam in steam engines – the separate condenser. The specification was accepted on 5 January 1769;  enrolled on 29 April 1769, and extended to June 1800 by an Act of Parliament in 1775.
+* Patent 1,244:  A new method of copying letters.  The specification was accepted on 14 February 1780 and enrolled on 31 May 1780.
+* Patent 1,306:  New methods to produce a continued rotation motion&nbsp;– sun and planet.  The specification was accepted on 25 October 1781 and enrolled on 23 February 1782.
+* Patent 1,321:  New improvements upon steam engines&nbsp;– expansive and double acting.  The specification was accepted on 14 March 1782 and enrolled on 4 July 1782.
+* Patent 1,432:  New improvements upon steam engines&nbsp;– three bar motion and steam carriage.  The specification was accepted on 28 April 1782 and enrolled on 25 August 1782.
+* Patent 1,485: Newly improved methods of constructing furnaces. The specification was accepted on 14 June 1785 and enrolled on 9 July 1785.
+
+{{-}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+* "Some Unpublished Letters of James Watt" in ''Journal of [[Institution of Mechanical Engineers]]'' (London, 1915).
+* [[Andrew Carnegie|Carnegie, Andrew]], ''James Watt'' University Press of the Pacific (2001) (Reprinted from the 1913 ed.), {{ISBN|0-89875-578-6}}.
+* {{cite book | author = Dickinson, H. W. | title = James Watt: Craftsman and Engineer | year = 1935 | location = | publisher = Cambridge University Press | isbn = }}
+* Dickinson, H. W. and [[Hugh Pembroke Vowles]]  ''James Watt and the Industrial Revolution'' (published in 1943, new edition 1948 and reprinted in 1949. Also published in Spanish and Portuguese (1944) by the [[British Council]])
+* Hills, Rev. Dr. Richard L., ''James Watt, Vol 1, His time in Scotland, 1736–1774'' (2002); Vol 2, ''The years of toil, 1775–1785''; Vol 3 ''Triumph through adversity 1785–1819.''  Landmark Publishing Ltd, {{ISBN|1-84306-045-0}}.
+* {{cite book | author = Hulse David K. | title = The early development of the steam engine | year = 1999 | publisher = TEE Publishing | location = Leamington Spa, UK | isbn = 1-85761-107-1 | pages = 127–152}}
+* {{cite book | author = Hulse David K. | title = The development of rotary motion by steam power | publisher = TEE Publishing Ltd. | location = Leamington, UK | year = 2001 | isbn = 1-85761-119-5}}
+* Marsden, Ben. ''Watt's Perfect Engine'' Columbia University Press (New York, 2002) {{ISBN|0-231-13172-0}}.
+* Marshall, Thomas H. (1925), ''James Watt'', [https://web.archive.org/web/20100615081524/http://www.history.rochester.edu/steam/marshall/chapter3.html Chapter 3: Mathematical Instrument Maker], from [https://web.archive.org/web/20051212142412/http://www.history.rochester.edu/steam/ Steam Engine Library] of [[University of Rochester]] Department of History.
+* Marshall, Thomas H. (1925) [https://web.archive.org/web/20051221105312/http://www.history.rochester.edu/steam/marshall/ ''James Watt''], [[University of Rochester]] Department of History.
+* {{cite book | author = Muirhead, James Patrick | title = Origin and Progress of the Mechanical Inventions of James Watt | publisher = John Murray | location = London | year = 1854 | url = https://books.google.com/?id=9lspAAAAYAAJ&printsec=frontcover&dq=Origin+and+Progress+of+the+Mechanical+Inventions+of+James+Watt.}}
+* {{cite book | author = Muirhead, James Patrick | title = The Life of James Watt | publisher = John Murray | location = London | year = 1858 | url = https://books.google.com/?id=zUE6AAAAcAAJ&printsec=frontcover&dq=The+life+of+James+Watt+with+selections+from+his+correspondence}}
+* Roll, Erich (1930). ''An Early Experiment in Industrial Organisation : being a History of the Firm of Boulton & Watt.'' 1775–1805. Longmans, Green and Co.
+* [[Samuel Smiles|Smiles, Samuel]], ''Lives of the Engineers'', (London, 1861–62, new edition, five volumes, 1905).
+
+;Related topics
+* {{cite book | author = Schofield, Robert E. | title = The Lunar Society, A Social History of Provincial Science and Industry in Eighteenth Century England | year = 1963 | location = | publisher = Clarendon Press | isbn = }}
+* {{cite book | author = Uglow, Jenny | authorlink = Jenny Uglow | title = The Lunar Men | year = 2002 | location = London | publisher = Farrar, Straus and Giroux | isbn = }}
+
+==External links==
+{{wikiquote}}
+{{Commons category}}
+{{wikisource author}}
+* [https://archive.org/stream/jameswatt00carniala#page/n9/mode/2up James Watt by Andrew Carnegie (1905)]
+* [https://archive.org/details/james_watt_bb_librivox Librivox audiobook: James Watt by Andrew Carnegie (1905)]
+* [https://web.archive.org/web/20051221105312/http://www.history.rochester.edu/steam/marshall/ James Watt by Thomas H. Marshall (1925)]
+* [http://www.birmingham.gov.uk/cs/Satellite?c=Page&childpagename=Lib-Central-Archives-and-Heritage%2FPageLayout&cid=1223092751138&pagename=BCC%2FCommon%2FWrapper%2FWrapper Archives of Soho] at Birmingham Central Library.
+* [http://www.bbc.co.uk/history/historic_figures/watt_james.shtml BBC History: James Watt]
+* [http://www.engineeringhalloffame.org/profile-watt.html Scottish Engineering Hall of Fame – James Watt]
+* [https://web.archive.org/web/20060308154827/http://www.revolutionaryplayers.org.uk/home.stm Revolutionary Players website]
+* [http://crocat.cornwall.gov.uk/dserve/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqDb=Catalog&dsqCmd=Overview.tcl&dsqSearch=(RefNo='ad1583') Cornwall Record Office Boulton and Watt letters]
+* [http://www.electricscotland.com/history/men/james_watt.htm Significant Scots – James Watt]
+* {{cite web|url=http://www.history.rochester.edu/steam/carnegie/ch8.html |title=Chapter 8: The Record of the Steam Engine |publisher=history.rochester.edu |accessdate=6 July 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090708035056/http://www.history.rochester.edu/steam/carnegie/ch8.html |archivedate= 8 July 2009 |df= }}
+
+{{Scientists whose names are used as SI units}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Watt, James}}
+[[Category:James Watt| ]]
+[[Category:Scottish inventors]]
+[[Category:Steam engine engineers]]
+[[Category:1736 births]]
+[[Category:1819 deaths]]
+[[Category:Alumni of the University of Glasgow]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Industrial Revolution in England]]
+[[Category:Industrial Revolution in Scotland]]
+[[Category:Members of the Lunar Society of Birmingham]]
+[[Category:People associated with Heriot-Watt University]]
+[[Category:People from Greenock]]
+[[Category:People of the Industrial Revolution]]
+[[Category:People of the Scottish Enlightenment]]
+[[Category:People associated with energy]]
+[[Category:Scottish business theorists]]
+[[Category:Scottish businesspeople]]
+[[Category:Scottish chemists]]
+[[Category:Scottish deists]]
+[[Category:Scottish engineers]]
+[[Category:Scottish mechanical engineers]]
+[[Category:Scottish Presbyterians]]
+[[Category:Scottish surveyors]]
+[[Category:18th-century British engineers]]
+[[Category:18th-century British scientists]]
+[[Category:18th-century Scottish people]]
+[[Category:People from Handsworth, West Midlands]]

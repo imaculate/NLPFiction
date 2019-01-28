@@ -1,0 +1,241 @@
+[[Image:Mercury Thermometer.jpg|thumb|[[Mercury thermometer]] (mercury-in-glass thermometer) for measurement of room temperature. [[Daniel Fahrenheit]]'s application of [[Mercury (element)|mercury]] and a standardized [[temperature scale]] for liquid-in-glass thermometers ushered in a new era of accuracy and precision in [[thermometry]].<ref>Grigull, Ulrich (1966). ''Fahrenheit, a Pioneer of Exact Thermometry''. (The Proceedings of the 8th International Heat Transfer Conference, San Francisco, 1966, Vol. 1, pp. 9-18.)</ref> From the early 1710s until the introduction of electronic devices in the 1960s, mercury-in-glass thermometers were the world's most reliable and accurate thermometers, accounting for their widespread use.<ref>{{cite web|url=http://aashtoresource.org/university/newsletters/newsletters/2016/08/02/the-anatomy-of-a-liquid-in-glass-thermometer |author=Knake, Maria |title=The Anatomy of a Liquid-in-Glass Thermometer |publisher=AASHTO re:source, formerly AMRL (aashtoresource.org) |quote=For decades mercury thermometers were a mainstay in many testing laboratories. If used properly and [[Calibration|calibrated]] correctly, certain types of mercury thermometers can be incredibly accurate. Mercury thermometers can be used in temperatures ranging from about -38 to 350°C. The use of a mercury-[[thallium]] mixture can extend the low-temperature usability of mercury thermometers to -56°C. (...) Nevertheless, few liquids have been found to mimic the thermometric properties of mercury in [[repeatability]] and [[accuracy]] of [[temperature measurement]]. Toxic though it may be, when it comes to LiG [Liquid-in-Glass] thermometers, mercury is still hard to beat. |date=April 2011 |accessdate=4 August 2018 }}</ref>]]
+A '''thermometer''' is a device that [[temperature measurement|measures temperature]] or a [[temperature gradient]]. A thermometer has two important elements: (1) a temperature sensor (e.g. the bulb of a [[mercury-in-glass thermometer]] or the digital sensor in an [[infrared thermometer]]) in which some change occurs with a change in temperature; and (2) some means of converting this change into a numerical value (e.g. the visible scale that is marked on a mercury-in-glass thermometer or the digital readout on an infrared model). Thermometers are widely used in technology and industry to monitor processes, in [[meteorology]], in medicine, and in scientific research.
+
+Some of the principles of the thermometer were known to Greek philosophers of two thousand years ago. The modern thermometer gradually evolved from the [[thermoscope]] with the addition of a scale in the early 17th century and standardisation through the 17th and 18th centuries.<ref>{{cite journal |url=http://www.ganino.com/games/Science/science%20magazine%201966-1967/root/data/Science%201966-1967/pdf/1967_v156_n3776/1722010.pdf |title=Concerning an Important Invention |first=Arnold |last=Court |date=12 May 1967}}</ref><ref>{{cite journal |url=http://psychology.okstate.edu/faculty/jgrice/psyc4333/Thermoscopes_Measurement2011.pdf |title=Thermoscopes, thermometers, and the foundations of measurement |first=David |last=Sherry |journal=Studies in History and Philosophy of Science |volume=42 |year=2011 |pages=509–524}}</ref><ref>{{cite book |url=https://books.google.si/books?id=qfmS7g4JzjwC&pg=PA4 |title=Principles and Methods of Temperature Measurement |pages=2–9 |first=Thomas Donald |last=McGee |year=1988 |isbn=9780471627678}}</ref>
+
+==Temperature==
+{{Main|Temperature|Temperature measurement}}
+[[File:1024 Pyrometer-8445.jpg|200px|thumbnail|An infrared thermometer is a kind of [[pyrometer]] ([[bolometer]]).]]
+While an individual thermometer is able to measure degrees of hotness, the readings on two thermometers cannot be compared unless they conform to an agreed scale. Today there is an absolute [[thermodynamic temperature]] scale. Internationally agreed temperature scales are designed to approximate this closely, based on fixed points and interpolating thermometers. The most recent official temperature scale is the [[International Temperature Scale of 1990]]. It extends from {{convert|0.65|K|C F|lk=in|1}} to approximately {{convert|1358|K|C F}}.
+
+[[File:Raumthermometer Fahrenheit+Celsius.jpg|thumb|right|180px|Thermometer with [[Fahrenheit]] (symbol °F) and [[Celsius]] (symbol °C) units. [[Daniel Fahrenheit]]'s [[mercury-in-glass thermometer]] was the first practical, accurate thermometer in history.]]
+
+===Early developments===
+{{See also|Thermometry|Temperature scale|Thermoscope|Alcohol thermometer|Timeline of temperature and pressure measurement technology}}
+[[File:Termometri cinquantigradi inv 85 IF 46774.jpg|thumb|Fifty-degree thermometers from the mid-17th century on exhibit at the [[Museo Galileo]] with black dots representing single degrees and white represented 10-degree increments; used to measure atmospheric temperatures]]
+Various authors have credited the invention of the thermometer to [[Hero of Alexandria]]. The thermometer was [[Timeline of temperature and pressure measurement technology|not a single invention, however, but a development]].
+[[Hero of Alexandria]] (10–70 AD) knew of the principle that certain substances, notably air, expand and contract and described a demonstration in which a closed tube partially filled with air had its end in a container of water.<ref>T.D. McGee (1988) ''Principles and Methods of Temperature Measurement'' {{ISBN|0-471-62767-4}}</ref> The expansion and contraction of the air caused the position of the water/air interface to move along the tube.
+
+Such a mechanism was later used to show the hotness and coldness of the air with a tube in which the water level is controlled by the expansion and contraction of the gas. These devices were developed by several European scientists in the 16th and 17th centuries, notably Galileo Galilei.<ref name=Doak>R.S. Doak (2005) Galileo: astronomer and physicist {{ISBN|0-7565-0813-4}} p36</ref> As a result, devices were shown to produce this effect reliably, and the term ''thermoscope'' was adopted because it reflected the changes in [[sensible heat]] (the concept of temperature was yet to arise).<ref name=Doak/> The difference between a [[thermoscope]] and a thermometer is that the latter has a scale.<ref>T.D. McGee (1988) ''Principles and Methods of Temperature Measurement'' page 3, {{ISBN|0-471-62767-4}}</ref> Though Galileo is often said to be the inventor of the thermometer, what he produced were thermoscopes.
+
+The first clear diagram of a thermoscope was published in 1617 by [[Giuseppe Biancani]] (1566 – 1624): the first showing a scale and thus constituting a thermometer was by [[Robert Fludd]] in 1638. This was a vertical tube, closed by a bulb of air at the top, with the lower end opening into a vessel of water. The water level in the tube is controlled by the expansion and contraction of the air, so it is what we would now call an air thermometer.<ref>T.D. McGee (1988) ''Principles and Methods of Temperature Measurement'', pages 2–4 {{ISBN|0-471-62767-4}}</ref>
+
+The first person to put a scale on a thermoscope is variously said {{By whom|date=March 2018}} to be [[Giovanni Francesco Sagredo|Francesco Sagredo]] (1571–1620) or Santorio Santorio in about 1611 to 1613.
+
+The word thermometer (in its French form) first appeared in 1624 in ''La Récréation Mathématique'' by J. Leurechon, who describes one with a scale of 8 degrees.<ref name=page4>R.P. Benedict (1984) Fundamentals of Temperature, Pressure, and Flow Measurements, 3rd ed, {{ISBN|0-471-89383-8}} page 4</ref> The word comes from the [[Greek language|Greek]] words [[wikt:θερμός|θερμός]], ''thermos'', meaning "hot" and μέτρον, ''metron'', meaning "measure".
+
+The above instruments suffered from the disadvantage that they were also [[barometer]]s, i.e. sensitive to air pressure. In 1629, [[Joseph Solomon Delmedigo]], a student of Galileo, published what is apparently the first description and illustration of a sealed liquid-in-glass thermometer.  It is described as having a bulb at the bottom of a sealed tube partially filled with brandy.  The tube has a numbered scale. Delmedigo does not claim to have invented this instrument, nor does he name anyone else as its inventor.<ref>Jacob Adler, "J. S. Delmedigo and the Liquid-in-Glass Thermometer," ''Annals of Science'' 54 (1997): 293-299.</ref> In about 1654 [[Ferdinando II de' Medici, Grand Duke of Tuscany]] (1610–1670), actually produced such an instrument, the first modern-style thermometer, dependent on the expansion of a liquid, and independent of air pressure.<ref name=page4/> Many other scientists experimented with various liquids and designs of thermometer.
+
+However, each inventor and each thermometer was unique—there was [[Conversion of units of temperature|no standard scale]]. In 1665 [[Christiaan Huygens]] (1629–1695) suggested using the [[Melting point|melting]] and [[boiling point]]s of water as standards, and in 1694 Carlo Renaldini (1615–1698) proposed using them as fixed points on a universal scale. In 1701, [[Isaac Newton]] (1642–1726/27) proposed a scale of 12 degrees between the melting point of ice and [[Normal human body temperature|body temperature]].
+
+===Era of precision thermometry===
+{{See also|Precision thermometry|Fahrenheit scale|Celsius scale|Mercury-in-glass thermometer|l4=Mercury-in-glass thermometer (mercury thermometer)|Medical thermometer|Clinical thermometer|Pyrometer|Infrared thermometer}}
+[[Image:Fahrenheit small.jpg|thumb|right|[[Daniel Gabriel Fahrenheit]], the originator of the era of [[precision thermometry]]. He invented the [[mercury-in-glass thermometer]] (first practical, accurate thermometer) and [[Fahrenheit scale]] (first standardized [[temperature scale]] to be widely used).]]
+[[Image:Clinical thermometer 38.7.JPG|thumb|right|180px|A medical mercury-in-glass maximum thermometer. Daniel Fahrenheit's [[mercury-in-glass thermometer]] was far more reliable and accurate than any that had existed before, and the mercury thermometers in use today are made in the way Fahrenheit devised.]]
+
+In 1714 Dutch scientist and inventor [[Daniel Gabriel Fahrenheit]] invented the first reliable thermometer, [[mercury thermometer|using mercury]] instead of [[alcohol thermometer|alcohol and water mixtures]]. In 1724 he proposed a [[temperature scale]] which now (slightly adjusted) [[Fahrenheit|bears his name]]. He could do this because he manufactured thermometers, using [[Mercury (element)|mercury]] (which has a high [[Thermal expansion|coefficient of expansion]]) for the first time and the quality of his production could provide a finer scale and greater reproducibility, leading to its general adoption. <!--This is correct. The original scale was the "wrong" way round"-->In 1742, [[Anders Celsius]] (1701–1744) proposed a scale with zero at the boiling point and 100 degrees at the freezing point of water,<!--This is correct, originally 0 at boiling point, 100 at melting point, please do not switch these--><ref>R.P. Benedict (1984) Fundamentals of Temperature, Pressure, and Flow Measurements, 3rd ed, {{ISBN|0-471-89383-8}} page 6</ref> though the scale which now [[Celsius|bears his name]] has them the other way around.<ref>[http://www.sciencemuseum.org.uk/objects/heat/1951-581.aspx Christin's thermometer] {{webarchive|url=https://web.archive.org/web/20130601021835/http://www.sciencemuseum.org.uk/objects/heat/1951-581.aspx |date=2013-06-01 }} and [http://www.linnaeus.uu.se/online/life/6_32.html#bild2 Linnaeus' thermometer]</ref> French entomologist [[René Antoine Ferchault de Réaumur]] invented an alcohol thermometer and [[Réaumur scale | temperature scale]] in 1730 that ultimately proved to be less reliable than Fahrenheit's mercury thermometer.
+
+The first physician that put thermometer measurements to clinical practice was [[Herman Boerhaave]] (1668–1738).<ref>{{cite news |url=http://www.sma.org.sg/smj/4501/4501ms1.pdf |author-last1=Tan |author-first1=S. Y. |author-last2=Hu |author-first2=M |title=Medicine in Stamps: Hermann Boerhaave (1668 - 1738): 18th Century Teacher Extraordinaire |journal=Singapore Medical Journal |volume=45 |issue=1 |year=2004 |pages=3–5}}</ref> In 1866, Sir [[Thomas Clifford Allbutt]] (1836–1925) invented a [[Medical thermometer|clinical thermometer]] that produced a body temperature reading in five minutes as opposed to twenty.<ref name="Allbutt">[http://www.britannica.com/EBchecked/topic/16002/Sir-Thomas-Clifford-Allbutt Sir Thomas Clifford Allbutt], ''[[Encyclopædia Britannica]]''</ref> In 1999, Dr. [[Francesco Pompei]] of the [[Exergen Corporation]] introduced the world's first temporal artery thermometer, a non-invasive temperature [[sensor]] which scans the forehead in about two seconds and provides a medically accurate body temperature.<ref>[http://www.exergen.com/about.htm Exergen Corporation]. Exergen.com. Retrieved on 2011-03-30.</ref><ref>[http://patents.justia.com/inventor/FRANCESCOPOMPEI.html Patents By Inventor Francesco Pompei :: Justia Patents]. Patents.justia.com. Retrieved on 2011-03-30.</ref>
+
+==Registering==
+Old thermometers were all non-registering thermometers. That is, the thermometer did not hold the temperature reading after it was moved to a place with a different temperature. Determining the temperature of a pot of hot liquid required the user to leave the thermometer in the hot liquid until after reading it. If the non-registering thermometer was removed from the hot liquid, then the temperature indicated on the thermometer would immediately begin changing to reflect the temperature of its new conditions (in this case, the air temperature). Registering thermometers are designed to hold the temperature indefinitely, so that the thermometer can be removed and read at a later time or in a more convenient place. Mechanical registering thermometers hold either the highest or lowest temperature recorded, until manually re-set, e.g., by shaking down a mercury-in-glass thermometer, or until an even more extreme temperature is experienced. Electronic registering thermometers may be designed to remember the highest or lowest temperature, or to remember whatever temperature was present at a specified point in time.
+
+Thermometers increasingly use electronic means to provide a digital display or input to a computer.
+
+==Physical principles of thermometry==
+[[File:Oldthermometers.jpg|thumb|upright|left|Various thermometers from the 19th century.]]
+[[File:Thermometer CF.svg|thumb|upright|Comparison of the Celsius and Fahrenheit scales]]
+
+Thermometers may be described as empirical or absolute. Absolute thermometers are calibrated numerically by the thermodynamic absolute temperature scale. Empirical thermometers are not in general necessarily in exact agreement with absolute thermometers as to their numerical scale readings, but to qualify as thermometers at all they must agree with absolute thermometers and with each other in the following way: given any two bodies isolated in their separate respective thermodynamic equilibrium states, all thermometers agree as to which of the two has the higher temperature, or that the two have equal temperatures.<ref>Beattie, J.A., Oppenheim, I. (1979). ''Principles of Thermodynamics'', Elsevier Scientific Publishing Company, Amsterdam, {{ISBN|0-444-41806-7}}, page 29.</ref> For any two empirical thermometers, this does not require that the relation between their numerical scale readings be linear, but it does require that relation to be [[Monotonic function|strictly monotonic]].<ref name="Thomsen 1962">{{cite journal | last1 = Thomsen | first1 = J.S. | year = 1962 | title = A restatement of the zeroth law of thermodynamics | url = | journal = Am. J. Phys. | volume = 30 | issue = | pages = 294–296 | doi=10.1119/1.1941991|bibcode = 1962AmJPh..30..294T }}</ref> This is a fundamental character of temperature and thermometers.<ref>[[Ernst Mach|Mach, E.]] (1900). ''Die Principien der Wärmelehre. Historisch-kritisch entwickelt'', Johann Ambrosius Barth, Leipzig, section 22, pages 56-57. English translation edited by McGuinness, B. (1986), ''Principles of the Theory of Heat, Historically and Critically Elucidated'', D. Reidel Publishing, Dordrecht, {{ISBN|90-277-2206-4}}, section 5, pp. 48–49, section 22, pages 60–61.</ref><ref name="Truesdell 1980">Truesdell, C.A. (1980). ''The Tragicomical History of Thermodynamics, 1822-1854'', Springer, New York, {{ISBN|0-387-90403-4}}.</ref><ref>Serrin, J. (1986). Chapter 1, 'An Outline of Thermodynamical Structure', pages 3-32, especially page 6, in ''New Perspectives in Thermodynamics'', edited by J. Serrin, Springer, Berlin, {{ISBN|3-540-15931-2}}.</ref>
+
+As it is customarily stated in textbooks, taken alone, the so-called "[[zeroth law of thermodynamics]]" fails to deliver this information, but the statement of the zeroth law of thermodynamics by [[James Serrin]] in 1977, though rather mathematically abstract, is more informative for thermometry: "Zeroth Law – There exists a topological line <math>M</math> which serves as a coordinate manifold of material behaviour. The points <math>L</math> of the manifold <math>M</math> are called 'hotness levels', and <math>M</math> is called the 'universal hotness manifold'."<ref>Serrin, J. (1978). The concepts of thermodynamics, in ''Contemporary Developments in Continuum Mechanics and Partial Differential Equations. Proceedings of the International Symposium on Continuum Mechanics and Partial Differential Equations, Rio de Janeiro, August 1977'', edited by G.M. de La Penha, L.A.J. Medeiros, North-Holland, Amsterdam, {{ISBN|0-444-85166-6}}, pages 411-451.</ref> To this information there needs to be added a sense of greater hotness; this sense can be had, independently of [[calorimetry]], of [[thermodynamics]], and of properties of particular materials, from [[Wien's displacement law#Frequency-dependent formulation|Wien's displacement law]] of [[thermal radiation]]: the temperature of a bath of thermal radiation is [[Proportionality (mathematics)|proportional]], by a universal constant, to the frequency of the maximum of its [[Frequency spectrum#Light|frequency spectrum]]; this frequency is always positive, but can have values that [[Third law of thermodynamics|tend to zero]]. Another way of identifying hotter as opposed to colder conditions is supplied by Planck's principle, that when a process of isochoric adiabatic work is the sole means of change of internal energy of a closed system, the final state of the system is never colder than the initial state; except for phase changes with latent heat, it is hotter than the initial state.<ref>[[Max Planck|Planck, M.]] (1926). Über die Begründung des zweiten Hauptsatzes der Thermodynamik, ''S.-B. Preuß. Akad. Wiss. phys. math. Kl.'': 453–463.</ref><ref>Buchdahl, H.A. (1966). ''The Concepts of Classical Thermodynamics'', Cambridge University Press, London, pp. 42–43.</ref><ref name="L&Y 56">{{cite journal | last1 = Lieb | first1 = E.H. | last2 = Yngvason | first2 = J. | year = 1999 | title = The physics and mathematics of the second law of thermodynamics | url = | journal = Physics Reports | volume = 314 | pages = 1–96 [56] |arxiv = hep-ph/9807278 |bibcode = 1999PhR...314....1L |doi = 10.1016/S0370-1573(98)00128-8 }}</ref>
+
+There are several principles on which empirical thermometers are built, as listed in the section of this article entitled "Primary and secondary thermometers". Several such principles are essentially based on the constitutive relation between the state of a suitably selected particular material and its temperature. Only some materials are suitable for this purpose, and they may be considered as "thermometric materials". Radiometric thermometry, in contrast, can be only slightly dependent on the constitutive relations of materials. In a sense then, radiometric thermometry might be thought of as "universal". This is because it rests mainly on a universality character of thermodynamic equilibrium, that it has the universal property of producing [[blackbody]] radiation.
+
+===Thermometric materials===
+[[File:Thermometers in pitcher.jpg|thumb|Bi-metallic stem thermometers used to measure the temperature of steamed milk]]
+[[File:Backofenthermometer.jpg|thumb|upright|Bi-metallic thermometer for cooking and baking in an oven]]
+There are various kinds of empirical thermometer based on material properties.
+
+Many empirical thermometers rely on the constitutive relation between pressure, volume and temperature of their thermometric material. For example, mercury expands when heated.
+
+If it is used for its relation between pressure and volume and temperature, a thermometric material must have three properties:
+
+(1) Its heating and cooling must be rapid. That is to say, when a quantity of heat enters or leaves a body of the material, the material must expand or contract to its final volume or reach its final pressure and must reach its final temperature with practically no delay; some of the heat that enters can be considered to change the volume of the body at constant temperature, and is called the [[Calorimetry|latent heat of expansion at constant temperature]]; and the rest of it can be considered to change the temperature of the body at constant volume, and is called the [[Calorimetry|specific heat at constant volume]]. Some materials do not have this property, and take some time to distribute the heat between temperature and volume change.<ref name="Truesdell Bharatha 1977 20">Truesdell, C., Bharatha, S. (1977). ''The Concepts and Logic of Classical Thermodynamics as a Theory of Heat Engines. Rigorously Constructed upon the Foundation Laid by S. Carnot and F. Reech'', Springer, New York, {{ISBN|0-387-07971-8}}, page 20.</ref>
+
+(2) Its heating and cooling must be reversible. That is to say, the material must be able to be heated and cooled indefinitely often by the same increment and decrement of heat, and still return to its original pressure, volume and temperature every time. Some plastics do not have this property;<ref name="Ziegler 1983">Ziegler, H., (1983). ''An Introduction to Thermomechanics'', North-Holland, Amsterdam, {{ISBN|0-444-86503-9}}.</ref>
+
+(3) Its heating and cooling must be monotonic.<ref name="Thomsen 1962"/><ref>Landsberg, P.T. (1961). ''Thermodynamics with Quantum Statistical Illustrations'', Interscience Publishers, New York, page 17.</ref> That is to say, throughout the range of temperatures for which it is intended to work,
+
+:(a) at a given fixed pressure,
+
+::either (α) the volume increases when the temperature increases, or else (β) the volume decreases when the temperature increases;
+
+::but not (α) for some temperatures and (β) for others; or
+
+:(b) at a given fixed volume,
+
+::either (α) the pressure increases when the temperature increases, or else (β) the pressure decreases when the temperature increases;
+
+::but not (α) for some temperatures and (β) for others.
+
+At temperatures around about 4&nbsp;°C, water does not have the property (3), and is said to behave anomalously in this respect; thus water cannot be used as a material for this kind of thermometry for temperature ranges near 4&nbsp;°C.<ref name="Truesdell 1980"/><ref>Maxwell, J.C. (1872). ''Theory of Heat'', third edition, Longmans, Green, and Co., London, pages 232-233.</ref><ref>Lewis, G.N., Randall, M. (1923/1961). ''Thermodynamics'', second edition revised by K.S Pitzer, L. Brewer, McGraw-Hill, New York, pages 378-379.</ref><ref>{{cite journal | last1 = Thomsen | first1 = J.S. | last2 = Hartka | first2 = T.J. | year = 1962 | title = Strange Carnot cycles; thermodynamics of a system with a density extremum | url = | journal = Am. J. Phys. | volume = 30 | issue = | pages = 26–33 | doi=10.1119/1.1941890|bibcode = 1962AmJPh..30...26T }}</ref><ref name="Truesdell Bharatha 1977">Truesdell, C., Bharatha, S. (1977). ''The Concepts and Logic of Classical Thermodynamics as a Theory of Heat Engines. Rigorously Constructed upon the Foundation Laid by S. Carnot and F. Reech'', Springer, New York, {{ISBN|0-387-07971-8}}, pages 9-10, 15-18, 36-37.</ref>
+
+Gases, on the other hand, all have the properties (1), (2), and (3)(a)(α) and (3)(b)(α). Consequently, they are suitable thermometric materials, and that is why they were important in the development of thermometry.<ref>Planck, M. (1897/1903). ''[https://archive.org/details/treatiseonthermo00planrich Treatise on Thermodynamics]'', translated by A. Ogg, Longmans, Green & Co., London.</ref>
+
+===Constant volume thermometry===
+According to Preston (1894/1904), [[Henri Victor Regnault|Regnault]] found constant pressure air thermometers unsatisfactory, because they needed troublesome corrections. He therefore built a constant volume air thermometer.<ref>Preston, T. (1894/1904). ''The Theory of Heat'', second edition, revised by J.R. Cotter, Macmillan, London, Section 92.0</ref> Constant volume thermometers do not provide a way to avoid the problem of anomalous behaviour like that of water at approximately 4&nbsp;°C.<ref name="Truesdell Bharatha 1977"/>
+
+===Radiometric thermometry===
+[[Planck's law]] very accurately quantitatively describes the power spectral density of electromagnetic radiation, inside a rigid walled cavity in a body made of material that is completely opaque and poorly reflective, when it has reached thermodynamic equilibrium, as a function of absolute thermodynamic temperature alone. A small enough hole in the wall of the cavity emits near enough blackbody radiation of which the [[spectral radiance]] can be precisely measured. The walls of the cavity, provided they are completely opaque and poorly reflective, can be of any material indifferently. This provides a well-reproducible absolute thermometer over a very wide range of temperatures, able to measure the absolute temperature of a body inside the cavity.
+
+==Primary and secondary thermometers==
+A thermometer is called primary or secondary based on how the raw physical quantity it measures is mapped to a temperature. As summarized by Kauppinen et al., "For '''primary thermometers''' the measured property of matter is known so well that temperature can be calculated without any unknown quantities. Examples of these are thermometers based on the equation of state of a gas, on the [[velocity]] of sound in a gas, on the [[Johnson–Nyquist noise|thermal noise]] [[voltage]] or [[electric current|current]] of an electrical resistor, and on the angular [[anisotropy]] of [[gamma ray]] emission of certain [[radioactive decay|radioactive]] [[atomic nucleus|nuclei]] in a [[magnetic field]]."<ref name="kauppinen1998">{{Cite journal | last1 = Kauppinen | first1 = J. P. | last2 = Loberg | first2 = K. T. | last3 = Manninen | first3 = A. J. | last4 = Pekola | first4 = J. P. | doi = 10.1063/1.1149265 | title = Coulomb blockade thermometer: Tests and instrumentation | journal = Rev. Sci. Instrum. | volume = 69 | pages = 4166 | year = 1998 |bibcode = 1998RScI...69.4166K }}</ref>
+
+In contrast, "'''Secondary thermometers''' are most widely used because of their convenience. Also, they are often much more sensitive than primary ones. For secondary thermometers knowledge of the measured property is not sufficient to allow direct calculation of temperature. They have to be calibrated against a primary thermometer at least at one temperature or at a number of fixed temperatures. Such fixed points, for example, [[triple point]]s and [[Superconductivity|superconducting]] transitions, occur reproducibly at the same temperature."<ref name="kauppinen1998"/>
+
+==Calibration==
+[[File:Maximum thermometer close up 2.JPG|thumb|[[Mercury-in-glass thermometer]]]]
+Thermometers can be calibrated either by comparing them with other calibrated thermometers or by checking them against known fixed points on the temperature scale. The best known of these fixed points are the melting and boiling points of pure water. (Note that the boiling point of water varies with pressure, so this must be controlled.)
+
+The traditional way of putting a scale on a liquid-in-glass or liquid-in-metal thermometer was in three stages:
+#Immerse the sensing portion in a stirred mixture of pure ice and water at atmospheric pressure and mark the point indicated when it had come to thermal equilibrium.
+#Immerse the sensing portion in a steam bath at [[Standard conditions for temperature and pressure|Standard atmospheric pressure]] and again mark the point indicated.
+#Divide the distance between these marks into equal portions according to the temperature scale being used.
+
+Other fixed points used in the past are the body temperature (of a healthy adult male) which was originally used by Fahrenheit as his upper fixed point ({{convert|96|F}} to be a number divisible by 12) and the lowest temperature given by a mixture of salt and ice, which was originally the definition of {{convert|0|F}}.<ref name=Benedict5>R.P. Benedict (1984) ''Fundamentals of Temperature, Pressure, and Flow Measurements'', 3rd ed, {{ISBN|0-471-89383-8}}, page 5</ref> (This is an example of a [[Frigorific mixture]]). As body temperature varies, the Fahrenheit scale was later changed to use an upper fixed point of boiling water at {{convert|212|F}}.<ref>J. Lord (1994) ''Sizes'' {{ISBN|0-06-273228-5}} page 293</ref>
+
+These have now been replaced by the defining points in the [[International Temperature Scale of 1990]], though in practice the melting point of water is more commonly used than its triple point, the latter being more difficult to manage and thus restricted to critical standard measurement. Nowadays manufacturers will often use a [[thermostat]] bath or solid block where the temperature is held constant relative to a calibrated thermometer. Other thermometers to be calibrated are put into the same bath or block and allowed to come to equilibrium, then the scale marked, or any deviation from the instrument scale recorded.<ref name=Benedict11>R.P. Benedict (1984) ''Fundamentals of Temperature, Pressure, and Flow Measurements'', 3rd ed, {{ISBN|0-471-89383-8}}, chapter 11 "Calibration of Temperature Sensors"</ref> For many modern devices calibration will be stating some value to be used in processing an electronic signal to convert it to a temperature.
+
+==Precision, accuracy, and reproducibility==
+[[File:1913 Car-Nation Tourer RadiatorBoyce MotoMeter.jpg|thumb|upright|left|The "''Boyce MotoMeter''" radiator cap on a 1913 [[Car-Nation]] automobile, used to measure temperature of vapor in 1910s and 1920s cars.]]
+The '''precision''' or '''resolution''' of a thermometer is simply to what fraction of a degree it is possible to make a reading. For high temperature work it may only be possible to measure to the nearest 10&nbsp;°C or more. Clinical thermometers and many electronic thermometers are usually readable to 0.1&nbsp;°C. Special instruments can give readings to one thousandth of a degree.{{Citation needed|date=July 2014}} However, this precision does not mean the reading is true or accurate, it only means that very small changes can be observed.
+
+A thermometer calibrated to a known fixed point is accurate (i.e. gives a true reading) at that point. Most thermometers are originally calibrated to a constant-volume [[gas thermometer]].{{Citation needed|date=January 2008}} In between fixed calibration points, [[interpolation]] is used, usually linear.<ref name=Benedict11/> This may give significant differences between different types of thermometer at points far away from the fixed points. For example, the expansion of mercury in a glass thermometer is slightly different from the change in resistance of a [[platinum]] resistance thermometer, so these two will disagree slightly at around 50&nbsp;°C.<ref name=Duncan>T. Duncan (1973) Advanced Physics: Materials and Mechanics (John Murray, London) {{ISBN|0-7195-2844-5}}</ref> There may be other causes due to imperfections in the instrument, e.g. in a liquid-in-glass thermometer if the [[Capillary action|capillary tube]] varies in diameter.<ref name=Duncan/>
+
+For many purposes reproducibility is important. That is, does the same thermometer give the same reading for the same temperature (or do replacement or multiple thermometers give the same reading)? Reproducible [[temperature measurement]] means that comparisons are valid in scientific experiments and industrial processes are consistent. Thus if the same type of thermometer is calibrated in the same way its readings will be valid even if it is slightly inaccurate compared to the absolute scale.
+
+An example of a reference thermometer used to check others to industrial standards would be a platinum [[resistance thermometer]] with a digital display to 0.1&nbsp;°C (its precision) which has been calibrated at 5 points against national standards (−18, 0, 40, 70, 100&nbsp;°C) and which is certified to an accuracy of ±0.2&nbsp;°C.<ref name=Peak>[http://www.peaksensors.co.uk/acatalog/Reference_Thermometer.html Peak Sensors] Reference Thermometer</ref>
+
+According to [[British Standards]], correctly calibrated, used and maintained liquid-in-glass thermometers can achieve a measurement uncertainty of ±0.01&nbsp;°C in the range 0 to 100&nbsp;°C, and a larger uncertainty outside this range: ±0.05&nbsp;°C up to 200 or down to −40&nbsp;°C, ±0.2&nbsp;°C up to 450 or down to −80&nbsp;°C.<ref name=BS1041>BS1041-2.1:1985 Temperature Measurement- Part 2: Expansion thermometers. Section 2.1 Guide to selection and use of liquid-in-glass thermometers</ref>
+
+== Indirect methods of temperature measurement ==
+{{expand section|Needs completion. Add any missing, give brief overview of each principle or thermometer, pros/cons for example temperature range and accuracy, etc.|date=January 2017}}
+In theory any physical phenomenon exhibiting a temperature dependence could be used as a thermometer, measuring temperature indirectly. Some of these properties have been exploited. For example, [[#blackbody radiation|blackbody radiation]] allows one to measure the temperature in a [[blast furnace]] or [[kiln]], or the temperature of a [[star#Temperature|distant star]]{{citation needed|date=January 2018}}
+
+;Thermal expansion
+: Utilizing the property of [[thermal expansion]] of various [[phases of matter]].
+: Pairs of solid metals with different expansion coefficients can be used for [[Bi-metallic strip#Applications|bi-metal mechanical thermometers]]. Another design using this principle is [[Breguet's thermometer]].
+: Some liquids possess relatively high expansion coefficients over a useful temperature ranges thus forming the basis for an [[alcohol thermometer|alcohol]] or [[mercury thermometer|mercury]] thermometer. Alternative designs using this principle are the [[reversing thermometer]] and [[Beckmann thermometer|Beckmann differential thermometer]].
+: As with liquids, gases can also be used to form a [[gas thermometer]].
+
+;Pressure
+: [[Vapour pressure thermometer]]
+
+;Density
+: [[Galileo thermometer]]<ref name=Ring2007>{{cite journal |title=The historical development of temperature measurement in medicine |author=E.F.J. Ring |journal=Infrared Physics & Technology |volume=49 |issue=3 |pages=297–301 |doi=10.1016/j.infrared.2006.06.029 |date=January 2007 |accessdate=|bibcode=2007InPhT..49..297R}}</ref>
+
+;Thermochromism
+: Some compounds exhibit [[thermochromism]] at distinct temperature changes. Thus by tuning the phase transition temperatures for a series of substances the temperature can be quantified in discrete increments, a form of [[digitization]]. This is the basis for a [[liquid crystal thermometer]].
+
+;{{visible anchor|Blackbody radiation}}
+: All objects above [[absolute zero]] emit [[blackbody radiation]] for which the spectra is directly proportional to the temperature. This property is the basis for a [[pyrometer]] or [[infrared thermometer]] and [[thermography]]. It has the advantage of remote temperature sensing; it does not require contact or even close proximity unlike most thermometers. At higher temperatures, blackbody radiation becomes visible and is described by the [[colour temperature]]. For example a glowing heating element or an approximation of a [[star#Temperature|star's surface temperature]].
+
+;Fluorescence
+: [[Phosphor thermometry]]
+
+;Optical absorbance spectra
+: [[Fiber optical thermometer]]
+
+;Electrical resistance
+: [[Resistance thermometer]] which use materials such as [[Balco alloy]]
+: [[Thermistor]]
+: [[Coulomb blockade|Coulomb blockade thermometer]]
+
+;Electrical potential
+: [[Thermocouples]] are useful over a wide temperature ranges from cryogenic temperatures to over 1000°C, but typically have an error of ±0.5-1.5°C.
+: [[Silicon bandgap temperature sensor]]s are commonly found packaged in integrated circuits with accompanying [[analog-to-digital converter|ADC]] and interface such as [[I2C|I<sup>2</sup>C]]. Typically they are specified to work within about —50 to 150°C with accuracies in the ±0.25 to 1°C range but can be improved by [[product binning|binning]].<ref>{{cite web |url=http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en544703 |title=MCP9804: ±0.25°C Typical Accuracy Digital Temperature Sensor |last= |first= |date=2012 |website= |publisher=Microchip |access-date=2017-01-03}}</ref><ref>{{cite web |url=http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7050-1-3-4-5-A20.pdf |title=Si7050/1/3/4/5-A20: I2C Temperature Sensors |last= |first= |date=2016 |website= |publisher=Silicon Labs |access-date=2017-01-03}}</ref>
+
+;Electrical resonance
+: [[Quartz thermometer]]
+
+;Nuclear magnetic resonance
+: [[Chemical shift]] is temperature dependent. This property is used to calibrate the thermostat of [[nuclear magnetic resonance|NMR]] probes, usually using [[methanol]] or [[ethylene glycol]].<ref>{{cite journal|last1=Findeisen|first1=M.|last2=Brand|first2=T.|last3=Berger|first3=S.|title=A1H-NMR thermometer suitable for cryoprobes|journal=Magnetic Resonance in Chemistry|date=February 2007|volume=45|issue=2|pages=175–178|doi=10.1002/mrc.1941}}</ref><ref>{{cite book|last1=Braun|first1=Stefan Berger ;Siegmar|title=200 and more NMR experiments : a practical course|date=2004|publisher=WILEY-VCH|location=Weinheim|isbn=978-3-527-31067-8|edition=[3. ed.].|url=http://ca.wiley.com/WileyCDA/WileyTitle/productCd-3527310673.html}}</ref> This can potentially be problematic for internal standards which are usually assumed to have a defined chemical shift (e.g 0 ppm for [[tetramethylsilane|TMS]]) but in fact exhibit a temperature dependence.<ref>{{cite journal|last1=Hoffman|first1=Roy E.|last2=Becker|first2=Edwin D.|title=Temperature dependence of the 1H chemical shift of tetramethylsilane in chloroform, methanol, and dimethylsulfoxide|journal=Journal of Magnetic Resonance|date=September 2005|volume=176|issue=1|pages=87–98|doi=10.1016/j.jmr.2005.05.015|bibcode=2005JMagR.176...87H}}</ref>
+
+;Magnetic susceptibility
+: {{see also|Paramagnetism#Curie's law}}
+: Above the  [[Curie temperature]], the [[magnetic susceptibility]] of a paramagnetic material exhibits an inverse temperature dependence. This phenomenon is the basis of a magnetic [[cryometer]].<ref>{{cite journal|last1=Krusius|first1=Matti|title=Magnetic thermometer|journal=AccessScience|date=2014|doi=10.1036/1097-8542.398650}}</ref><ref>{{cite journal|last1=Sergatskov|first1=D. A.|title=New Paramagnetic Susceptibility Thermometers for Fundamental Physics Measurements|date=Oct 2003|doi=10.1063/1.1627261|url=http://authors.library.caltech.edu/27470/1/SERaipcp03.pdf}}</ref>
+
+== Applications ==
+{{see also|List of temperature sensors}}
+Thermometers utilize a range of physical effects to measure temperature. Temperature sensors are used in a wide variety of scientific and engineering applications, especially measurement systems. Temperature systems are primarily either electrical or mechanical, occasionally inseparable from the system which they control (as in the case of a mercury-in-glass thermometer). Thermometers are used in roadways in cold weather climates to help determine if icing conditions exist. Indoors, [[thermistor]]s are used in climate control systems such as [[air conditioner]]s, freezers, [[heater]]s, [[refrigerator]]s, and [[Water heating|water heater]]s.<ref name="thermouse"/> Galileo thermometers are used to measure indoor air temperature, due to their limited measurement range.
+
+Such [[liquid crystal thermometer]]s (which use [[thermochromic]] liquid crystals) are also used in [[mood ring]]s and used to measure the temperature of water in fish tanks.
+
+[[Fiber Bragg grating]] temperature sensors are used in [[nuclear power]] facilities to monitor reactor core temperatures and avoid the possibility of [[nuclear meltdown]]s.<ref>{{Cite journal | last1 = Fernandez | first1 = Alberto Fernandez | authorlink1 = Alberto Fernandez Fernandez| last2 = Gusarov | first2 = Andrei I.| last3 = Brichard | first3 = Benoît| last4 = Bodart | first4 = Serge| last5 = Lammens | first5 = Koen| last6 = Berghmans | first6 = Francis| last7 = Decréton | first7 = Marc| last8 = Mégret | first8 = Patrice| last9 = Blondel | first9 = Michel| last10 = Delchambre | first10 = Alain| doi = 10.1117/1.1475739 | title = Temperature monitoring of nuclear reactor cores with multiplexed fiber Bragg grating sensors | journal = [[Optical Engineering (journal)|Optical Engineering]]| volume = 41 | issue = 6 | pages = 1246–1254| year = 2002 | pmid =  | pmc = | citeseerx=10.1.1.59.1761| bibcode = 2002OptEn..41.1246F}}</ref>
+
+=== Nanothermometry ===
+[[Nanothermometry]] is an emergent research field dealing with the knowledge of temperature in the sub-micrometric scale. Conventional thermometers cannot measure the temperature of an object which is smaller than a [[micrometre]], and new methods and materials have to be used. Nanothermometry is used in such cases. Nanothermometers are classified as [[luminescent]] thermometers (if they use light to measure temperature) and non-luminescent thermometers (systems where thermometric properties are not directly related to luminescence).<ref>http://pubs.rsc.org/en/Content/ArticleLanding/2012/NR/C2NR30663H</ref>
+
+=== Cryometer ===
+{{main|cryometer}}
+Thermometers used specifically for low temperatures.
+
+=== Medical ===
+{{main|Medical thermometer}}
+*[[Medical thermometer#Ear|Ear thermometers]] tend to be an [[infrared thermometer]].
+*[[Medical thermometer#Forehead|Forehead thermometer]] is an example of a [[liquid crystal thermometer]].
+*[[rectal thermometer|Rectal]] and [[oral thermometer|oral]] thermometers have typically been mercury but have since largely been supersceded by [[NTC thermistor]]s with a digital readout.<ref>{{cite patent |country=US |number=6854882 |status=Active |title=Rapid response electronic clinical thermometer  |pubdate=2005-02-15 |gdate= |fdate=2002-12-04 |pridate= |inventor=Ming-Yun Chen |invent1= |invent2= |assign1=Actherm Inc. |assign2= |class= |url=https://patents.google.com/patent/US6854882B2}}</ref>
+
+Various thermometric techniques have been used throughout history such as the [[Galileo thermometer]] to thermal imaging.<ref name=Ring2007/>
+[[Medical thermometer]]s such as mercury-in-glass thermometers, infrared thermometers, [[pill thermometer]]s, and [[liquid crystal thermometer]]s are used in [[health care]] settings to determine if individuals have a [[fever]] or are [[hypothermia|hypothermic]].
+
+=== Food and food safety ===
+Thermometers are important in [[food safety]], where food at temperatures within {{Convert|41|and|135|F|C}} can be prone to potentially harmful levels of bacterial growth after several hours which could lead to [[foodborne illness]]. This includes monitoring refrigeration temperatures and maintaining temperatures in foods being served under heat lamps or hot water baths.<ref name="thermouse">{{cite web |url=http://www.foodsafetysite.com/resources/pdfs/EnglishServSafe/ENGSection5.pdf |title=Food Safety: Thermometers |author=Angela M. Fraser, Ph.D. |publisher=[[North Carolina State University]] |date=2006-04-24 |accessdate=2010-02-26 |pages=1–2}}</ref>
+Cooking thermometers are important for determining if a food is properly cooked. In particular [[meat thermometer]]s are used to aid in cooking meat to a safe internal temperature while preventing over cooking. They are commonly found using either a bimetallic coil, or a thermocouple or thermistor with a digital readout.
+[[Candy thermometer]]s are used to aid in achieving a specific water content in a sugar solution based on its boiling temperature.
+
+=== Environmental ===
+*[[Indoor-outdoor thermometer]]
+*[[Heat meter]] uses a thermometer to measure [[rate of heat flow]].
+*[[Thermostats]] have used bimetallic strips but digital thermistors have since become popular.
+[[Alcohol thermometer]]s, [[infrared thermometer]]s, mercury-in-glass thermometers, [[recording thermometer]]s, [[thermistor]]s, and Six's thermometers are used in [[meteorology]] and [[climatology]] in various levels of the [[atmosphere]] and oceans. [[Aircraft]] use thermometers and [[hygrometer]]s to determine if [[atmospheric icing]] conditions exist along their [[Airway (aviation)|flight path]]. These measurements are used to initialize [[Weather forecasting|weather forecast models]]. Thermometers are used in roadways in cold weather climates to help determine if icing conditions exist and indoors in climate control systems.
+
+==See also==
+* [[Automated airport weather station]]
+* [[Thermodynamic instruments]]
+* [[Maximum-minimum thermometer]]
+* [[Wet-and-dry bulb thermometer]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* Middleton, W.E.K. (1966). ''A history of the thermometer and its use in meteorology''. Baltimore: Johns Hopkins Press. Reprinted ed. 2002, {{ISBN|0-8018-7153-0}}.
+* [http://www.thermomedics.com/blog/history-of-the-thermometer/ History of the Thermometer]
+* [http://pubs.rsc.org/en/Content/ArticleLanding/2012/NR/C2NR30663H] - Recent review on Thermometry at the Nanoscale
+
+==External links==
+{{Wiktionary}}
+{{Commons category|Measuring instruments (temperature)}}
+* [https://web.archive.org/web/20080225095414/http://www.zytemp.com/tutorial/History_Of_Thermometry.htm History of Temperature and Thermometry]
+* [http://chemeducator.org/sbibs/s0005002/spapers/520088jw.htm ''The Chemical Educator'', Vol. 5, No. 2 (2000)] The Thermometer—From The Feeling To The Instrument
+* [https://web.archive.org/web/20080424005306/http://www.history.com/encyclopedia.do?articleId=212819 History Channel – Invention] – Notable Modern Inventions and Discoveries
+* [http://inventors.about.com/library/inventors/blthermometer.htm About – Thermometer] – Thermometers – Early History, Anders Celsius, Gabriel Fahrenheit and Thomson Kelvin.
+* [http://www.syvum.com/cgi/online/serve.cgi/squizzes/physics/thermometers.html Thermometers and Thermometric Liquids] – Mercury and Alcohol.
+* [https://www.nist.gov/manuscript-publication-search.cfm?pub_id=830734 The NIST Industrial Thermometer Calibration Laboratory]
+* [http://pubs.rsc.org/en/Content/ArticleLanding/2012/NR/C2NR30663H Thermometry at the Nanoscale]—Review
+
+{{Meteorological equipment}}
+{{Laboratory equipment}}
+{{Health care}}
+{{Sensors}}
+
+[[Category:Thermometers| ]]
+[[Category:Temperature]]
+[[Category:Meteorological instrumentation and equipment]]
+[[Category:Italian inventions]]
+[[Category:Dutch inventions]]
+[[Category:17th-century introductions]]
+[[Category:18th-century introductions]]
+[[Category:Science and technology in the Dutch Republic]]

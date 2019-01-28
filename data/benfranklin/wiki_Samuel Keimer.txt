@@ -1,0 +1,85 @@
+{{Infobox person
+| name = Samuel Keimer
+| image = 
+| image_size = 200 px
+| caption = 
+| birth_name = Samuel Keimer
+| birth_date = 1689
+| birth_place = [[London Borough of Southwark]], England
+| death_date = {{death year and age|1742|1689}}
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates = 
+| residence = [[Philadelphia, Pennsylvania]]
+| nationality = American
+| other_names = 
+| known_for = printing businesses
+| employer = print shop owner
+| occupation = [[Printer (publishing)|printer]]
+| title = 
+| salary = 
+| networth = 
+| height = 
+| weight = 
+| term = 
+| predecessor = 
+| successor = 
+| party = 
+| boards = 
+| spouse = 
+| partner = 
+| children = 
+| parents =
+| relatives = 
+| signature = 
+| website = 
+| footnotes = }}
+
+''' Samuel Keimer ''' (1689–1742) was an English printer and emigrant.<ref>{{cite ODNB|id=15258|title=Keimer, Samuel|first=Calhoun|last=Winton}}</ref> He was the original founder of the ''[[Pennsylvania Gazette]].''  On October 2, 1729, [[Benjamin Franklin]] bought this newspaper.
+
+==Early life==
+Keimer was born in the later part of the seventeenth century in the [[London Borough of Southwark]], England.{{sfn|Tedder|1892|p=312}} Keimer, like his only sibling, Mary, was at first a follower of the [[Camisards]].{{sfn|Tedder|1892|p=312}}
+
+Keimer initially learned the trade of printing from a well known London printer.{{sfn|Tedder|1892|p=312}} He then opened a printing business in 1713, after had learned his trade. His English business failed, however, and he was thrown into [[Fleet Prison]] (a debtors' prison) for not paying his debts. When he got out of prison he went to America leaving his English wife behind. He settled in [[Philadelphia]].{{sfn|Tedder|1892|p=312}}{{sfn|Thomas|1874|p=229}}
+
+==In Pennsylvania==
+In 1712 [[Andrew Bradford]] was the first person to start a printing business in Philadelphia. In 1723 Keimer opened a printing business near the Market-house in the city. Keimer and Bradford were then the only printers in the colony of Pennsylvania. Keimer had come to America with an old printing press, and a worn-out font of English letters.{{sfn|Tedder|1892|p=312}}
+
+When Benjamin Franklin, aged 17, came to [[Philadelphia]] looking for a job in 1722,{{sfn|Franklin|1874|p=129}} he went first to Bradford’s printing business.{{sfn|Franklin|1874|p=129}} Bradford had no job openings, but introduced him to Keimer.{{sfn|Franklin|1874|p=129}} Franklin found Keimer trying to set up a composition of his own, the mournful ''Aquila Rose, ... Clerk of the Assembly and a pretty poet'', but having difficulty.{{sfn|Tedder|1892|p=312}}{{sfn|Thomas|1874|p=229}}{{sfn|Franklin|1874|p=129}}  Keimer hired Franklin at this time to help put his printing press into working order, since Franklin showed mechanical ability; {{sfn| Isaacson |2004|p=498}} his position as Keimer's assistant was Franklin's first paid job.{{sfn| Isaacson |2004|p=498}}{{sfn| Anderson |2009|p=60}}
+
+==Later life==
+In later years Keimer's business dwindled. He decided to sell his print shop business and go to [[Barbados]]. There in 1731, at [[Bridgetown]], he published the ''Barbadoes Gazette''.
+
+The ''Gazette'' was the first newspaper in the Caribbean. In 1733 he was sued for a malicious statement in his paper. He continued to publish the newspaper until its operation ceased in 1738.{{sfn|Tedder|1892|p=312}}
+
+==Works==
+While in debtors' prison Keimer wrote some works considered of little literary value: ''A Search after Religion among the many Modern Pretenders to it'', London [1718], and ''A Brand Pluck'd from the Burning exemplify'd in the unparallel'd case of Samuel Keimer'', London, 1718. ''A Brand Pluck'd from the Burning...'' contained disagreements and disputes of the French Protestants. It also spoke of prison life and included a letter from the English trader [[Daniel Defoe]].{{sfn|Tedder|1892|p=312}}
+
+==Death==
+Keimer died in 1742.{{sfn|Tedder|1892|p=312}}
+
+==Notes==
+{{reflist}}
+
+==Bibliography==
+
+* {{cite book|last=Anderson|first=Douglas |title=A House Undivided: Domesticity and Community in American Literature |url=https://books.google.com/?id=q0hynAGYvHsC&pg=PA60|accessdate=5 July 2013|date=2 April 2009|publisher=Cambridge University Press|isbn=978-0-521-10730-3|ref=harv}}
+* {{cite book|last1=Franklin|first1=Benjamin |editor-last=Bigelow|editor-first=John |title=Life of Benjamin Franklin written by himself|url=https://archive.org/details/lifeofbenjaminfr011900fran|accessdate=5 July 2013|year=1874|ref=harv}}
+* {{cite book|last=Isaacson|first=Walter |title=Benjamin Franklin: An American Life|url=https://books.google.com/?id=L64OOJGaCKIC&pg=PA498|accessdate=5 July 2013|date=4 May 2004|publisher=Simon & Schuster|isbn=978-0-7432-5807-4|ref=harv}}
+* {{cite book|last=Tedder|first=Henry Richard |year=1892|title=Keimer, Samuel|volume=30|ref=harv}}
+* {{cite book|last=Thomas|first=Isaiah |title=The History of Printing in America: With a Biography of Printers, and an Account of Newspapers. To which is Prefixed a Concise View of the Discovery and Progress of the Art in Other Parts of the World.|url=https://books.google.com/books?id=oH0yAAAAIAAJ|accessdate=5 July 2013|year=1874|publisher=Isaiah Thomas, jun. Isaac Sturtevant, Printer|ref=harv}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Keimer, Samuel}}
+[[Category:1689 births]]
+[[Category:1742 deaths]]
+[[Category:People from the London Borough of Southwark]]
+[[Category:People from Bridgetown]]
+[[Category:Businesspeople from Philadelphia]]
+[[Category:English printers]]
+[[Category:English Quakers]]
+[[Category:18th-century American businesspeople]]
+[[Category:People of colonial Pennsylvania]]
+[[Category:American publishers (people)]]
+[[Category:English male poets]]

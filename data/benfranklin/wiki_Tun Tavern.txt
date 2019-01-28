@@ -1,0 +1,72 @@
+{{About|a former tavern in Philadelphia, Pennsylvania|the brewpub in Atlantic City, New Jersey|Tun Tavern Brewery}}
+{{Infobox building
+| name                = Tun Tavern
+| image               = Sketch of Tun Tavern in the Revolutionary War.jpg
+| caption             = Sketch of the original Tun Tavern
+| location_city       = [[Philadelphia, Pennsylvania]]
+| location_country    = [[United States]]
+| opened_date         = 1686
+| destruction_date    = 1781
+| client              = {{plainlist|
+* [[Benjamin Franklin]]
+* [[George Washington]]
+* [[Thomas Jefferson]]
+}}
+| owner               = Robert Mullan
+| affiliation         = {{plainlist|
+* [[St. George Society of Philadelphia]]
+* [[Grand Lodge of Pennsylvania]]
+* [[St. Andrew's Society]]
+* [[Pennsylvania militia]]
+* [[Continental Congress]]
+}}
+| architect           = Joshua Carpenter
+}}
+'''Tun Tavern''' was a [[tavern]] and brewery in [[Philadelphia]], [[Pennsylvania]], USA, which was a founding or early meeting place for a number of notable groups. It is traditionally regarded as the site where what became the [[United States Marine Corps]] held its first recruitment drive during the American Revolution.<ref name=TThistory>{{cite web
+|accessdate=2007-04-14|url=http://www.tuntavern.com/pages/history.htm|title=Tun Tavern History}}</ref> It is also regarded as one of the "birthplaces of [[Freemasonry|Masonic]] teachings in America".<ref name="Tun">Sturkey, Marion F. (2001) [http://www.usmcpress.com/heritage/usmc_heritage.htm Tun Tavern] (excerpt from ''Warrior culture of the U.S. Marines'', USMC Press). Retrieved 2008-09-02.</ref>
+
+==History==
+===Founding===
+The tavern was erected in 1686 at the intersection of King (later called Water) Street and Tun Alley by settler Joshua Carpenter, brother of Samuel Carpenter, a Quaker merchant who made a fortune trading in Barbados. Joshua Carpenter built the Tun on the caraway that led to Carpenter's Wharf.<ref>{{cite book|last=Thompson|first=Peter|title=Rum Punch & Revolution: Taverngoing & Public Life in Eighteenth-Century Philadelphia|date=1999|publisher=University of Pennsylvania Press|location=Philadelphia|page=28}}</ref> Tun Tavern was named for the [[Old English]] word "tun", meaning a barrel or keg of [[beer]].<ref>Its name was occasionally written "Three Tons" and "Three Tuns" in the writings of J. Thomas Scharf and Thompson Westcott. 1884. ''History of Philadelphia, 1609-1884'', Philadelphia: L. H. Everts & Co., Vol. I, pp. 203, 236. See also Harry Kyriakodis, ''Philadelphia's Lost Waterfront'' (The History Press, 2011) at 89-90, 95.</ref> In the 1740s, a restaurant appelation, "Peggy Mullan's Red Hot Beef Steak Club" was added to the name of the tavern.<ref>The restaurant was called "Peg Mullen's celebrated beef-steak and oyster house" in John F. Watson and Willis P. Hazard. 1909. ''Annals of Philadelphia, and Pennsylvania'', Philadelphia: Leary, Stuart & Co., Vol. I, pp. 394-395, 464-465, 469; "Peg" was also rendered "Pegg" in contemporary works, but not "Peggy".</ref>
+
+===Organizations founded in the tavern===
+Tun Tavern hosted the first meetings of a number of organizations. In 1720, the first meetings of the St. George's Society (a charitable organization founded to assist needy [[England|Englishmen]] arriving in the new colony&mdash;predecessor of today's [[St. George Society of Philadelphia|Sons of the Society of St. George]]) were held there.<ref>{{cite book |first=J. Thomas |last=Scharf |author-link=J. Thomas Scharf |first2=Thompson |last2=Westcott |year=1884 |title=History of Philadelphia, 1609-1884 |location=Philadelphia |publisher=L. H. Everts & Co. |volume=I |page=233 |url=https://archive.org/stream/historyofphilade01scha#page/232}}</ref> In 1732, the tavern hosted the first meetings of St. John's Lodge No. 1 of the [[Grand Lodge of Pennsylvania|Grand Lodge of the Masonic Temple]]. The Masonic Temple of Philadelphia recognizes Tun Tavern as the birthplace of Masonic teachings in America. In 1747, Tun Tavern became the founding place of the [[St. Andrew's Society]], which like the St. George's Society, helped newly arrived [[Scotland|Scottish]].
+
+Tun Tavern was a significant meeting place for other groups and individuals. In 1756, [[Benjamin Franklin]] used the inn as a recruitment gathering point for the [[Pennsylvania militia]] as it prepared to fight [[Native Americans in the United States|Native American]] uprisings. The tavern later hosted a meeting of [[George Washington]], [[Thomas Jefferson]] and the [[Continental Congress]].
+
+According to tradition, Tun Tavern was where the United States Marines held their first recruitment drive. On November 10, 1775, the [[Second Continental Congress]] commissioned the innkeeper and former [[Quaker]] [[Samuel Nicholas]] to raise two battalions of marines in Philadelphia. The tavern’s manager, Robert Mullan, was the "chief Marine Recruiter". Though legend places its first recruiting post at Tun Tavern, the historian Edwin Simmons surmises that it was more likely the Conestoga Waggon {{sic}}, a tavern owned by the Nicholas family. The first Continental Marine company was composed of one hundred Rhode Islanders commanded by Captain Nicholas. Each year on November 10, U.S. Marines worldwide toast the memory of this colonial inn as the officially-acknowledged birthplace of their service branch. The earliest marines were deployed aboard Continental Congress Navy vessels as sharpshooters because they were typically recruited as outstanding marksmen.<ref name="Tun"/>
+
+The early history of Lodge No. 2 is the history of Freemasonry in Pennsylvania and in fact all of America.
+<ref>{{cite web |url=http://lodge2.org/l2history.html |title=History of the Lodge 2 |archive-url=https://web.archive.org/web/20160713220422/http://lodge2.org:80/l2history.html |archive-date=13 July 2016 |last=Descano |first=John |work=Lodge 2 |location=Philadelphia}}</ref>
+
+===Present day===
+In 1781, near the end of the American Revolution, Tun Tavern burned down. Its former structure stood at a location now occupied by [[Interstate 95 in Pennsylvania|Interstate 95]], where it passes [[Penn's Landing]]. Tun Alley once existed between Walnut and Chestnut Streets east of Front Street. A commemorative marker on the east side of Front Street indicates the site, across from Sansom Walk.<ref name=TTmarker>{{cite web |access-date=8 November 2010 |url=http://www.governor.state.pa.us/portal/server.pt/community/pennsylvania_historical_marker_program/2539/search_for_historical_markers/300886 |title=Tun Tavern Historical Marker |archive-url=https://web.archive.org/web/20101113101509/http://www.governor.state.pa.us:80/portal/server.pt/community/pennsylvania_historical_marker_program/2539/search_for_historical_markers/300886 |archive-date=13 November 2010 |work=[[Pennsylvania Historical & Museum Commission]]}}</ref>
+
+In homage to the likely 1775 Tun Tavern menu, the [[National Museum of the Marine Corps|U.S. Marine Corps National Museum]] located in [[Quantico, Virginia]], contains a Tun Tavern-themed restaurant, whose lunch menu features beer and other fermented (alcoholic) beverages, [[peanut soup]] and [[bread pudding]], the non-alcoholic recipe of which remains a traditional staple among some U.S. Marine food services to this day.
+
+==See also==
+{{Portal|United States Marine Corps|Philadelphia}}
+*[[History of the United States Marine Corps]]
+*[[United States Marine Corps birthday ball]]
+
+==References==
+{{Reflist|33em}}
+
+==External links==
+{{commons category}}
+*[http://www.tecom.usmc.mil/HD/Customes_Traditions/Birthday_Celebration.htm Marine Corps Birthday Celebration] by [[United States Marine Corps History Division]]
+
+{{coord|39.9471|-75.1417|type:landmark_globe:earth_region:US-PA|display=title}}
+
+
+{{US Marine Corps navbox}}
+
+[[Category:Buildings and structures completed in 1686]]
+[[Category:United States Marine Corps lore and symbols]]
+[[Category:Defunct restaurants in Philadelphia]]
+[[Category:Restaurants established in 1742]]
+[[Category:Taverns in the American Revolution]]
+[[Category:History of Philadelphia]]
+[[Category:1742 establishments in Pennsylvania]]
+[[Category:Pennsylvania in the American Revolution]]
+[[Category:1686 establishments in Pennsylvania]]

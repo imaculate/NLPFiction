@@ -1,0 +1,127 @@
+{{About|Ezra Stiles}}
+{{Use mdy dates|date=June 2018}}
+{{Infobox officeholder
+| name        = Ezra Stiles
+| image       = Ezra Stiles.jpg
+| caption     = Rev. Ezra Stiles'', 1770–1771, by [[Samuel King (artist)|Samuel King]]
+|order     = 7th
+| title       = [[List of Presidents of Yale University|President of Yale University]]
+| term_start  = 1778
+| term_end    = 1795
+| predecessor = [[Naphtali Daggett]]<br>{{small|as ''pro tempore''}}
+| successor   = [[Timothy Dwight IV]]
+| birth_date  = {{birth date|1727|12|10}}
+| birth_place = [[North Haven, Connecticut|North Haven]], Connecticut
+| death_date  = {{Death date and age|1795|5|12|1727|10|12}}
+| death_place = [[New Haven, Connecticut]]
+| children    = Betsey Stiles; Ruth (Stiles) Gannett; Emilia (Stiles) Leavitt; Polly (Stiles) Holmes; Isaac Stiles
+| signature   = Ezra Stiles signature.svg
+}}
+
+'''Ezra Stiles''' (December 10, 1727<ref>Holmes, Abiel (1798). [https://books.google.com/books?ei=-8UCUaXBBbS30AG-wIFw&id=ALc8AAAAYAAJ&dq=ezra+stiles&jtp=9#v=snippet&q=%22the%20tenth%20day%20of%20December%2C%201727%22&f=false ''The Life of Ezra Stiles ... President of Yale College,'' p. 9.]</ref> – May 12, 1795) was an American academic and educator, a [[Congregational church|Congregationalist]] minister, theologian and author. He was [[List of presidents of Yale University|seventh president]] of [[Yale College]] (1778–1795), and one of the founders of [[Brown University]].<ref>Welch, Lewis ''et al.'' (1899). [https://books.google.com/books?id=V8wWAAAAIAAJ&pg=PA301&dq=Yale+and+Noah+Porter&lr=&client=firefox-a#PPA445,M1 ''Yale, Her Campus, Class-rooms, and Athletics,'' p. 445.]</ref><ref>Edmund S Morgan, ''The Gentle Puritan: A Life of Ezra Stiles, 1727–1795'' (New York: W. W. Norton & Company, 1962), 205.</ref>
+
+==Early life==
+[[File:Ezra Stiles diploma Yale College class of 1746.jpg|thumb|left|[[Yale College]] diploma, Ezra Stiles, Class of 1746]]
+
+Born the son of the Rev. Isaac Stiles in [[North Haven, Connecticut|North Haven]], Connecticut, and Kezia Taylor (1702–1727), the daughter of poet [[Edward Taylor]]. Ezra Stiles graduated from Yale in 1746. He studied theology and was ordained in 1749, tutoring at Yale from that year until 1755. At one point he nearly became an Anglican: the [[Samuel Johnson (American educator)|Rev. Dr. Samuel Johnson]] in a letter to Archbishop Seeker of Canterbury on April 10, 1762, confided that Stiles "was once on the point of conforming to the Church, but was dissuaded by his friends, and is become much of a Latitudinarian."<ref>Johnson, Samuel, ''Samuel Johnson, President of King's College; His Career and Writings'', edited by Herbert and Carol Schneider, New York: Columbia University Press, 1929, Volume 1, p. 321</ref> Styles resigned from the ministry in 1753 to study law and practice at [[New Haven, Connecticut|New Haven]], but returned to the cloth as a Congregationalist minister two years later. Historians Helen A. Lane and Marion B. Walkden report that he was the first minister of the [[Dighton Community Church]] in Massachusetts. They state:
+
+{{Quote|text=Ezra Stiles, first settled minister of the church, was later made president of Yale College.  Driven out by the British in March of 1776, he arrived in Dighton with his family and several of his former Newport congregation.  Among them was William Ellery, singer (sic) of the Declaration of Independence.  Ezra as minister of the half finished church at Lower Four Corners was paid about three hundred dollars, house, and wood.  While minister of the Dighton Church, Ezra Stiles received on July 13th a copy of the Declaration of Independence to be read to the congregation.  It was brought to him by Mr. Channing, father of the famous preachers.  Among Rev. Stiles’ many friends were Benjamin Franklin, Robert J. Payne, General Stark, John Adams, President Langdon of Harvard, and many leaders of the Revolutionary War period.<ref>http://dightoncommunitychurch.com/churchhistory.html</ref>}}
+
+In 1784, Stiles was elected an honorary member of the [[Society of the Cincinnati]] of Connecticut, one of the first so honored, for his ardent support of the Patriot cause.
+
+==Newport life==
+[[File:Ezra Stiles by Reuben Moulthrop.jpg|thumb|Ezra Stiles by Reuben Moulthrop]]
+
+[[Trinity Episcopal Church (Newport, Rhode Island)|Trinity Church]], the Anglican Church in [[Newport, Rhode Island|Newport]], Rhode Island, asked him to become its minister, but he turned the offer down. Instead, in 1755, he became pastor of the [[Clarke Street Meeting House|Second Congregational Church]], also in [[Newport, Rhode Island|Newport]], where he also served as Librarian of the [[Redwood Library and Athenaeum]]. He kept an informative diary of his life and distinguished acquaintances in Newport, including his association with [[Aaron Lopez]]. Newport's [[Ezra Stiles House]] is on the [[National Historic Register]].
+
+[[File:Ezra Stiles House Newport.JPG|left|thumb|[[Ezra Stiles House]] in [[Newport, Rhode Island]]]]
+
+From time to time, Stiles invested with the merchants and sea captains of his congregation; in 1756, he sent a [[hogshead]] of rum along on a voyage to Africa and was repaid with a 10-year-old male slave, whom he renamed "Newport". Around the same time, he wrote a joint letter with fellow Newport minister [[Samuel Hopkins (1721–1803)|Samuel Hopkins]] condemning "the great inhumanity and cruelty" of [[slavery in the United States]].<ref name="yaleslavery">{{cite web | url=http://www.yaleslavery.org/WhoYaleHonors/stiles1.html | title=Ezra Stiles College | publisher=The Amistad Committee | work=Yale, Slavery, & Abolition | year=2001 | accessdate=December 12, 2012 | author=Dugdale, Antony; J. J. Fueser; J. Celso de Castro Alves}}</ref>
+
+===Foundation of Brown University===
+In 1764, Stiles helped establish the [[Brown University|College in the English Colony of Rhode Island and Providence Plantations]] (the original name for [[Brown University]]) by contributing to the drafting of its charter and by serving with 35 others—including [[Stephen Hopkins (politician)|Stephen Hopkins]], [[William Ellery]], [[Samuel Ward (American statesman)|Samuel Ward]], the Reverend [[John Gano]], the Reverend [[Isaac Backus]], the Reverend [[Samuel Stillman]], and the Reverend [[James Manning (minister)|James Manning]]—as a founding fellow or trustee.<ref>{{cite web |url=https://www.brown.edu/Administration/Corporation/downloads/charter-of-brown-university.pdf |title=Brown University Charter |deadurl=yes |archiveurl=https://web.archive.org/web/20120202082531/http://www.brown.edu/Administration/Corporation/downloads/charter-of-brown-university.pdf |archivedate=February 2, 2012 |df= }}</ref> In drafting the charter, Stiles combined broad-minded public statements defining Rhode Island College as a "liberal and catholic institution" in which "shall never be admitted a religious test" with private partisanship: his draft charter packed the board of trustees and the fellows of the college with his fellow Congregationalists, but the Rhode Island Assembly caught on to his plan, and changed his numbers to increase the number of Baptists, Episcopalians, and Quakers, reflecting the more ecumenical character of the state.<ref>Hoeveler, David J., ''Creating the American Mind: Intellect and Politics in the Colonial Colleges'', Rowman & Littlefield, 2007, p. 191</ref>
+
+===Biblical scholarship===
+Stiles struck up a close friendship with [[Rabbi]] [[Haim Isaac Carigal]] during the latter's six-month residence in Newport in 1773. Stiles' records note 28 meetings to discuss a wide variety of topics from [[Kabbalah]] to the politics of the [[Holy Land]]. Stiles improved his rudimentary knowledge of [[Hebrew language|Hebrew]], to the point where he and Carigal corresponded by mail in the language.
+
+Stiles' knowledge of Hebrew also enabled him to translate large portions of the Hebrew [[Old Testament]] into English. Stiles believed, as did many Christian scholars of the time, that facility with the text in its original language was advantageous for proper interpretation.
+
+==American Revolution==
+[[File:Map of the English invasion of New Haven Connecticut July 1779.jpg|thumb|Ezra Stiles's map of the British forces invading [[New Haven, Connecticut]], July 1779]]
+
+Before Regular troops of the colonial army arrived in Newport in late 1776, Stiles left. He became Pastor of the Congregational Church at [[Portsmouth, New Hampshire|Portsmouth]], New Hampshire, in 1777.
+
+As a pastor Stiles, defended the monarchy as the best form of government in his sermon, entitled ''[[The United States elevated to Glory and Honor]],'' to the [[Connecticut General Assembly|General Assembly of the State of Connecticut]] in 1783. He stated that: "A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments."
+
+==Yale presidency==
+[[File:Ezra Stiles George Washington Honorary Degree.jpg|thumb|Letter from Stiles to [[George Washington]] announcing the awarding of an Honorary degree to Washington by President and Fellows of [[Yale College]], 1781]]
+
+In 1778, he was appointed president of Yale, a post he held until his death. Stiles freed Newport on June 9, 1778, as he prepared to move to [[New Haven, Connecticut|New Haven]]; he would in 1782 hire his former slave for $20 a year and the indenturing of Newport's two-year-old son until age 24.<ref>Saillant, John, ''Black Puritan, Black Republican: The Life and Thought of Lemuel Haynes, 1753–1833'', Oxford University Press, 2002, p. 131</ref> As president of Yale, Stiles became its first professor of [[Semitic studies|Semitics]], and required all students to study Hebrew (as [[Harvard]] students already did); his first [[Commencement speech|commencement address]] in September 1781 (no ceremonies having been held during the [[American Revolutionary War]]) was delivered in Hebrew, [[Aramaic]], and [[Arabic language|Arabic]]. By 1790, however, he was forced to face failure in instilling an interest in the language in the student body, writing
+
+<blockquote>From my first accession to the Presidency ... I have obliged all the Freshmen to study Hebrew. This has proved very disagreeable to a Number of the Students. This year I have determined to instruct only those who offer themselves voluntarily.</blockquote>
+
+The [[valedictorian]]s of 1785 and 1792, however, did deliver their speeches in Hebrew.
+
+Stiles was an amateur scientist who corresponded with [[Thomas Jefferson]] and [[Benjamin Franklin]] about scientific discoveries. Using equipment donated to the college by Franklin, Stiles conducted the electrical experiments in [[New England]], continuing a practice first begun by his predecessor, President [Thomas Clap]. He charged a glass tube with static electricity and used it to "excite the wonder and admiration of an audience".<ref>Morgan, Edmund, ''The Gentle Puritan: A Life of Ezra Stiles, 1727–1795'', University of North Carolina Press, 2014, p. 91</ref> He shocked 52 people at once, fired spirits of wine and rum, and caused counterfeit spiders to move about as if they were alive. These were all experiments that had been performed before, and "Stiles seems to have had little genius for pushing back the frontiers of knowledge" and his observations "disclosed nothing new".<ref>Ibid</ref> He was more a learner and teacher than an experimenter.
+Nevertheless, he was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1781.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter S|url=http://www.amacad.org/publications/BookofMembers/ChapterS.pdf|publisher=American Academy of Arts and Sciences|accessdate=July 28, 2014}}</ref>
+
+His book ''[[The United States elevated to Glory and Honor]]'' was printed in 1783.<ref>{{cite web|url=http://digitalcommons.unl.edu/etas/41/ |title=The United States Elevated to Glory and Honor}}</ref>
+
+===Legacy at Yale===
+[[File:The Annals or History of Yale College Thomas Clap 1766.jpg|thumb|[[Book frontispiece|Frontispiece]], ''The Annals or History of Yale College in New Haven, in the Colony of Connecticut'', by Yale President [[Thomas Clap]], 1766. Volume carries notation: "Given to the Library of Yale College by Ezra Stiles 1785."]]
+
+Yale's legacy from this interest of Stiles' includes a [[portrait]] of Carigal by artist [[Samuel King (artist)|Samuel King]]. The idea that the Hebrew words [[Urim and Thummim|"Urim" and "Thummim"]] (אורים ותמים) on the Yale seal are there because of Ezra Stiles is a false myth. Indeed, the Hebrew on the Yale seal appears on Stiles' own master's degree diploma from Yale in 1749, decades before he became president of Yale College.<ref>[https://books.google.com/books?id=O-uOQgAACAAJ&dq=dan+oren&hl=en&sa=X&ei=1lTPUo_AEqrgsASkioCADA&ved=0CC8Q6AEwAA  Oren, Dan A. (2001) Joining the Club: A History of Jews and Yale, Revised edition, p. 347.]</ref>
+
+In 1961, Yale named a new residential college in his honor: [[Ezra Stiles College]], noted for its [[Eero Saarinen]] design, particularly the building's lack of right angles between walls. The college's [[mascot]] is the [[moose]], inspired by the installation in the dining hall of a stuffed moose head in honor of former college master and Yale president [[A. Bartlett Giamatti]]. Adjacent to Ezra Stiles College is its near architectural twin, [[Morse College]], named for [[Samuel F.B. Morse]].
+
+==Personal life==
+Stiles married twice (Elizabeth Hubbard and Mary Checkley Cranston) and had eight children. Stiles' son Ezra Stiles, Esq., was educated first at Yale College, then at [[Harvard College]], where he studied law, graduating in 1778. Ezra Stiles, Jr., subsequently settled in [[Vermont]], and served to establish the boundaries between Vermont and [[New Hampshire]]. He died prematurely at [[Chowan County, North Carolina]], on August 22, 1784, and his two daughters by his wife Sylvia (Avery) Stiles of Vermont (and formerly of [[Norwich, Connecticut]]) had their uncle [[Jonathan Leavitt]] appointed their guardian.<ref>[https://books.google.com/books?ei=yXKXSsWqGZHUsQOc-OikAg&ct=result&id=DAMTAAAAYAAJ&dq=%22hooker+leavitt%22&ots=6eRTCMrwPN&q=leavitt#v=snippet&q=ezra%20stiles&f=false The Stiles Family in America, Genealogies of the Connecticut Family, Henry Reed Stiles, Doan & Pilson, Jersey City, 1895]</ref>
+
+His daughter Emilia married Judge and State Senator [[Jonathan Leavitt]] of [[Greenfield, Massachusetts|Greenfield]], Massachusetts. His daughter Mary married, in 1790, [[Abiel Holmes]], a [[Congregational]] clergyman and historian and a 1783 graduate of Yale College. By the second marriage to Sarah Wendell, Abiel was the father of [[Oliver Wendell Holmes, Sr.]]
+
+==References==
+{{Ibid|date=March 2018}}
+{{Reflist|1}}
+
+==Further reading==
+{{Portal|Biography|Rhode Island}}
+* Dexter, Franklin Bowditch. (1901). ''The Literary Diary of Ezra Stiles'' (Vol. I, January 1, 1769 – March 13, 1776). New York: Charles Scribner's Sons.
+* __________. (1901). [https://books.google.com/books?id=jZdDAAAAIAAJ&client=firefox-a ''The Literary Diary of Ezra Stiles''] [http://www.worldcat.org/wcpa/oclc/271225872?page=frame&url=%3D%3FUTF-8%3FB%3FaHR0cDovL3d3dy5hcmNoaXZlLm9yZy9kZXRhaWxzL2xpdGVyYXJ5ZGlhcnlvZmUwMnN0aWw%3D%3F%3D&title=&linktype=digitalObject&detail= Vol. II, March 14, 1776 – December 31, 1781.] New York: Charles Scribner's Sons. [http://www.worldcat.org/wcpa/oclc/2198912 OCLC 2198912]
+*  __________. (1901). ''The Literary Diary of Ezra Stiles'' (Vol. III, January 1, 1782 – May 6, 1795). New York: Charles Scribner's Sons.
+* Holmes, Abiel. (1798). [https://books.google.com/books?id=ALc8AAAAYAAJ&client=firefox-a ''The Life of Ezra Stiles D.D. LL.D. ... President of Yale College.''] Boston: Thomas & Andrews. [http://www.worldcat.org/wcpa/oclc/11506585 OCLC 11506585]
+* Kelley, Brooks Mather. (1999). [https://books.google.com/books?id=B2aDRhohtx8C&client=firefox-a ''Yale: A History.''] New Haven: [[Yale University Press]]. {{ISBN|978-0-300-07843-5}}; [http://www.worldcat.org/wcpa/oclc/810552 OCLC 810552]
+* [[Edmund Morgan (historian)|Morgan]], Edmund Sears. (1983). [https://books.google.com/books?id=g9sqKgAACAAJ&dq=The+Gentle+Puritan:+A+Life+of+Ezra+Stiles,+1727-1795&client=firefox-a ''The Gentle Puritan: A Life of Ezra Stiles, 1727–1795.'' The gentle puritan: a life of Ezra Stiles, 1727–1795.] Raleigh: [[University of North Carolina Press]]. {{ISBN|978-0-8078-1231-0}}
+* Welch, Lewis Sheldon and Walter Camp. (1899). [https://books.google.com/books?id=V8wWAAAAIAAJ&client=firefox-a ''Yale, Her Campus, Class-rooms, and Athletics.''] Boston: L. C. Page and Co. [http://www.worldcat.org/wcpa/oclc/2191518 OCLC 2191518]
+
+== External links ==
+{{Sister project links | wikt=no | commons=Category:Ezra Stiles | b=no | n=no | q=no | s=Author:Ezra Stiles | v=no | voy=no | species=no | d=no | mw=no | display=Ezra Stiles}}
+*[https://web.archive.org/web/20131220123139/http://www.brown.edu/Facilities/University_Library/exhibits/education/founding.html Brown University's John Hay Library]
+*[https://web.archive.org/web/20120202082531/http://www.brown.edu/Administration/Corporation/downloads/charter-of-brown-university.pdf Brown University Charter]
+
+{{S-start}}
+{{s-aca}}
+{{Succession box| title=[[University President|President]] of [[Yale University|Yale College]] | before=[[Naphtali Daggett]], ''pro tempore'' | after=[[Timothy Dwight IV]] | years=1778–1795}}
+{{S-end}}
+{{Yale University presidents}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stiles, Ezra}}
+[[Category:1727 births]]
+[[Category:1795 deaths]]
+[[Category:18th-century American people]]
+[[Category:Yale University alumni]]
+[[Category:Presidents of Yale University]]
+[[Category:American theologians]]
+[[Category:People from North Haven, Connecticut]]
+[[Category:People of colonial Connecticut]]
+[[Category:Christian Hebraists]]
+[[Category:American Hebraists]]
+[[Category:Burials at Grove Street Cemetery]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:University and college founders]]
+[[Category:Brown University people]]
+[[Category:Clergy in the American Revolution]]
+[[Category:18th-century Congregationalist ministers]]
+[[Category:American Congregationalist ministers]]
+[[Category:Religious leaders from New Haven, Connecticut]]

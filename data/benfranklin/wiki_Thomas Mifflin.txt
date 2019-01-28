@@ -1,0 +1,223 @@
+{{Use mdy dates|date=March 2017}}
+{{Infobox officeholder
+|honorific_prefix = [[The Honourable]]
+|name          = Thomas Mifflin
+|image         = Thomas Mifflin.jpg
+|office        = 1st [[List of Governors of Pennsylvania|Governor of Pennsylvania]]
+|term_start    = December 21, 1790
+|term_end      = December 17, 1799
+|predecessor   = Himself<br /><small> as [[Supreme Executive Council of the Commonwealth of Pennsylvania#Presidents of Council|President of Pennsylvania]] </small>
+|successor     = [[Thomas McKean]]
+|office1       = 7th [[Supreme Executive Council of the Commonwealth of Pennsylvania#Presidents of Council|President of Pennsylvania]]
+|vicepresident1= [[George Ross (Pennsylvania statesman)|George Ross]]
+|term_start1   = November 5, 1788
+|term_end1     = December 21, 1790
+|predecessor1  = [[Benjamin Franklin]]
+|successor1    = Himself<br /><small> as [[Governor of Pennsylvania]] </small>
+|office2       = [[Speaker of the Pennsylvania House of Representatives|Speaker]] of the [[Pennsylvania House of Representatives]]
+|term_start2   = 1785
+|term_end2     = 1787
+|predecessor2  = [[John Bayard]]
+|successor2    = [[Richard Peters (Continental Congress)|Richard Peters]]
+|office3       = 3rd [[President of the Continental Congress|President of the Confederation Congress]]
+|term_start3   = November 3, 1783
+|term_end3     = June 3, 1784
+|predecessor3  = [[Elias Boudinot]]
+|successor3    = [[Richard Henry Lee]]
+|office4       = [[Continental Congressman]]
+|term_start4   = 1782
+|term_end4     = 1784
+|term_start5   = 1774
+|term_end5     = 1775
+|birth_date    = {{birth date|1744|1|10}}
+|birth_place   = [[Philadelphia]], [[Province of Pennsylvania]], [[British America]]
+|death_date    = {{death date and age|1800|1|20|1744|1|10}}
+|death_place   = [[Lancaster, Pennsylvania]], U.S.
+|party         = [[Federalist Party (United States)|Federalist]]
+|spouse        = {{Marriage|Sarah Morris|March 4, 1767|August 1, 1790|end=d.}}
+|children      =
+|profession    = [[Merchant]], soldier, politician
+|signature     = Thomas Mifflin Signature2.svg
+}}
+
+'''Thomas Mifflin''' (January 10, 1744{{spaced ndash}}January 20, 1800) was an American [[merchant]] and politician from [[Philadelphia]], [[Pennsylvania]]. He served in a variety of roles during and after the [[American Revolution]], several of which qualify him to be counted among the [[Founding Fathers of the United States|Founding Fathers]]. He was the [[List of Governors of Pennsylvania|first]] [[Governor of Pennsylvania]], serving from 1790 to 1799.
+
+Born in [[Philadelphia]], Mifflin became a merchant after graduating from the [[Academy and College of Philadelphia|College of Philadelphia]]. He joined the [[Continental Army]] after serving in the [[Pennsylvania Provincial Assembly]] and the [[Continental Congress]]. During the [[American Revolutionary War]], he served as an aide to General [[George Washington]] and as the Continental Army's [[Quartermaster General of the United States Army|Quartermaster General]], rising to the rank of major general. Mifflin returned to Congress in 1782 and was elected [[President of the Continental Congress]] in 1783. He served as Speaker of the [[Pennsylvania House of Representatives]] from 1785 to 1787 and as [[Supreme Executive Council of the Commonwealth of Pennsylvania#Presidents of Council|President]] of the [[Supreme Executive Council of the Commonwealth of Pennsylvania|Pennsylvania Supreme Executive Council]] from 1788 to 1790.
+
+Mifflin was a delegate to the 1787 [[Constitutional Convention (United States)|Philadelphia Convention]] and signed the [[United States Constitution]]. He presided over the committee that wrote Pennsylvania's 1790 constitution and became the state's first governor after the ratification of the new state constitution. Mifflin left office as governor in 1799 and died the following year.
+
+{{TOC limit|3}}
+
+== Early life and family ==
+[[File:Coat of Arms of Thomas Mifflin.svg|130px|thumb|left|Unofficial coat of arms used by family of John Mifflin<ref name=Bolton/>]]
+Thomas Mifflin was born January 10, 1744 in [[Philadelphia]] in the [[Province of Pennsylvania]]. He was the son of John Mifflin and Elizabeth Bagnall. His great-grandfather John Mifflin Jr. (1661–1714) was born in [[Warminster]], [[Wiltshire]], [[England]] and settled in the [[Province of Pennsylvania]].<ref>{{cite web|url=http://www.geni.com/people/John-Mifflin/6000000006515867542|title=John Mifflin, II|publisher=Geni|accessdate=September 19, 2015}}</ref>
+
+In 1760, Thomas Mifflin graduated from the [[College of Philadelphia]] (now the [[University of Pennsylvania]]) and joined the mercantile business of William Biddle. After returning from a trip to Europe in 1765, he established a commercial business partnership with his brother, George Mifflin.
+
+He married a second cousin, Sarah Morris, on March 4, 1767.<ref name=Egle/> They had no children.<ref name=Egle>{{cite book |first=William Henry |last=Egle |title=Some Pennsylvania Women During the War of the Revolution |year=1898 }} Excerpt at {{cite web |title=Sarah Morris Mifflin |url=https://www.thomasmifflin.com/p/sarah-morris-mifflin.html |first=Stanley |last=Klos |website=President Thomas Mifflin }}</ref>
+{{clear|left}}
+
+== Military service during the American Revolution ==
+[[File:The Death of General Mercer at the Battle of Princeton January 3 1777.jpeg|thumb|350px| ''[[The Death of General Mercer at the Battle of Princeton, January 3, 1777]]'', painting by [[John Trumbull]] (Mifflin on far left, leading cavalry charge)<ref>{{cite book|last1=Caldwell|first1=John|last2=Rodriguez Roque|first2=Oswaldo|title=American Paintings in The Metropolitan Museum of Art|volume=1|date=1994|publisher=[[The Metropolitan Museum of Art]]|pages=214–215|url=https://books.google.com/books?id=dYdWBwAAQBAJ&pg=PA214|chapter=Thomas Mifflin}}</ref>]]
+Early in the [[American Revolutionary War|Revolutionary War]], Mifflin left the Continental Congress to serve in the [[Continental Army]]. He was commissioned as a [[major]], then became an [[Washington's aides-de-camp|''aide-de-camp'']] of [[George Washington]].
+
+On August 14, 1775, Washington appointed him to become the army's first [[Quartermaster general (USA)|Quartermaster General]], under order of Congress.<ref name=Risch>{{cite book |last=Risch |first=Erna |title=Supplying Washington's Army |location=Washington, D.C. |publisher=U.S. Army Center of Military History |year=1981 |url=http://www.history.army.mil/books/RevWar/risch/risch-fm.htm |pages=30–31 }}</ref> Although it has been said that he was good at the job despite preferring to be on the front lines, questions were raised regarding his failure to properly supply Washington and the troops at Valley Forge, alleging that he had instead warehoused and sold supplies intended for Valley Forge to the highest bidder. Reportedly, after Washington confronted him about this,<ref name=Unger>{{cite book |last=Unger |first=Harlow Giles |title=Patrick Henry, Lion of Liberty |publisher=Da Capo Press |year=2010 }}</ref> Mifflin asked to be relieved of the job of Quartermaster General, but was persuaded to resume those duties because Congress was having difficulty finding a replacement.
+
+Mifflin's leadership in the [[Battle of Trenton]] and the [[Battle of Princeton]] led to a promotion to [[major general (United States)|major general]].<ref name=Wright>{{cite book |last1=Wright |first1=Robert K., Jr. |author-link1=Robert K. Wright Jr. |last2=MacGregor |first2=Morris J., Jr. |title=Soldier-Statesmen of the Constitution |chapter-url=http://www.history.army.mil/books/RevWar/ss/mifflin.htm |publisher=[[U.S. Army Center of Military History]] |chapter=Thomas Mifflin |pages=109–111 |date=1987 }}</ref>
+
+In Congress, there was debate regarding whether a national army was more efficient or if individual states should maintain their own forces.  As a result of this debate the Congressional Board of War was created, on which Mifflin served from 1777 to 1778. He then rejoined the army but took little active role, following criticism of his service as quartermaster general. He was accused of embezzlement and welcomed an inquiry; however, one never took place. He resigned his commission—by then, as a major general—but Congress continued to ask his advice even after accepting his resignation.
+
+== Political career ==
+[[File:General George Washington Resigning his Commission.jpg|thumb|350px|''[[General George Washington Resigning His Commission]]'', painting by [[John Trumbull]] (Mifflin standing at left)<ref name=aoc>{{cite web |title=General George Washington Resigning His Commission |url=https://www.aoc.gov/art/historic-rotunda-paintings/general-george-washington-resigning-his-commission |publisher=[[Architect of the Capitol]]}}</ref>]]
+Prior to American independence, Thomas Mifflin was a member of the [[Pennsylvania Provincial Assembly]] (1772–1776). He served two terms in the [[Continental Congress]] (1774–1775 and 1782–1784), including seven months (November 1783 to June 1784) as that body's [[President of the Continental Congress|presiding officer]].
+
+Mifflin's most important duty as president was to accept on behalf of Congress the [[George Washington's resignation as commander-in-chief|resignation of General George Washington]] on December 23, 1783. After the war, the importance of Congress declined so precipitously that Mifflin found it difficult to convince the states to send enough delegates to Congress to ratify the [[Treaty of Paris (1783)|Treaty of Paris]], which finally took place on January 14, 1784 at the Maryland State House in Annapolis.<ref name=Alexander>{{cite web |first=John K. |last=Alexander |title=Mifflin, Thomas |website=American National Biography Online |date=February 2000 }}</ref> Nonetheless, after the ratified versions of the Treaty of Paris were exchanged in France on May 12, 1784, Mifflin became the first United States president officially recognized by Great Britain.{{cn|date=March 2018}} Mifflin had just appointed Thomas Jefferson as a minister to France on May 7, 1784, and he appointed his former aide, Colonel [[Josiah Harmar]], to be the commander of the [[First American Regiment]].
+
+After serving as president, Thomas Mifflin was a delegate to the [[United States Constitutional Convention]] in 1787.  He was a signatory to the [[Continental Association]] and the [[United States Constitution|Constitution]].<ref name=phmc/> He served in the house of [[Pennsylvania General Assembly]] (1785–1788). He was a member of the [[Supreme Executive Council of the Commonwealth of Pennsylvania]], and on November 5, 1788, he was elected [[Supreme Executive Council of the Commonwealth of Pennsylvania#Presidents of Council|President of the Council]], replacing [[Benjamin Franklin]]. He was unanimously reelected to the Presidency on November 11, 1789.<ref name=minutes>{{cite book |title=Minutes of the Supreme Executive Council of Pennsylvania, from its organization to the termination of the Revolution. [March 4, 1777 – December 20, 1790] |location=Harrisburg |publisher=Commonwealth of Pennsylvania |date=1852–53 }}</ref> He presided over the committee that wrote Pennsylvania's 1790 State Constitution. That document did away with the Executive Council, replacing it with a single governor.
+
+On December 21, 1790, Mifflin became the last President of Pennsylvania and the first Governor of the Commonwealth. He held the latter office until December 17, 1799,<ref name=phmc>{{cite web |title=Thomas Mifflin |website=Pennsylvania Historical and Museum Commission |url=http://www.phmc.state.pa.us/bah/dam/governors/mifflin.asp?secid=31 |deadurl=unfit |archiveurl=https://web.archive.org/web/20011104233937/http://www.phmc.state.pa.us/bah/dam/governors/mifflin.asp?secid=31 |archivedate=2001-11-04 }}</ref> when he was succeeded by [[Thomas McKean]]. He then returned to the state legislature, where he served until his death the following month.
+
+== Personal life ==
+Although Mifflin's family had been [[Quaker]]s for four generations, he was expelled from the [[Religious Society of Friends]] upon joining the [[Continental Army]], because his involvement with a military force contradicted that faith's [[Pacifism|pacifistic]] doctrines.<ref name=adherents>{{cite web |title=Thomas Mifflin |url=http://www.adherents.com |website=[[Adherents.com]] }} Citing {{cite book |editor-first=Robert G. |editor-last=Ferris |title=Signers of the Constitution: Historic Places Commemorating the Signing of the Constitution |publisher=U.S. Department of the Interior, National Park Service |location=Washington, D.C. |edition=revised |year=1976 |pages=193–194 }}</ref>
+
+Mifflin became a member of the [[American Philosophical Society]] in 1768, and served for two years as its secretary.<ref name=Wright/>
+
+He served from 1773 to 1791 as a trustee of the [[College of Philadelphia|College and Academy of Philadelphia]] (now the [[University of Pennsylvania]]), including two years as treasurer (1773–1775).<ref name=Penn>{{cite web |website=Penn in the 18th Century |title=Thomas Mifflin (1744–1800) |publisher=University of Pennsylvania |url=https://www.archives.upenn.edu/people/1700s/mifflin_thos.html |deadurl=no |archiveurl=https://web.archive.org/web/20180423201059/http://www.archives.upenn.edu/people/1700s/mifflin_thos.html |archivedate=2018-04-23 }}</ref>
+
+== Death and legacy ==
+Mifflin died in [[Lancaster, Pennsylvania]] on January 23, 1800.<ref name=Wright/> He is interred at the burial grounds of [[Holy Trinity Lutheran Church (Lancaster, Pennsylvania)|Holy Trinity Lutheran Church]] on Duke Street in Lancaster.<ref name=congbio>{{congbio|M000701|noid=yes|inline=yes}}</ref><ref name=Findagrave>{{Find a grave|4717}}.</ref>
+
+A Commonwealth of Pennsylvania historical marker outside the church, dedicated in 1975, commemorates [[Thomas Wharton Jr.|Thomas Wharton]] and Mifflin, the first and last Presidents of Pennsylvania under the [[Pennsylvania Constitution of 1776]]. It reads: {{blockquote |
+'''Holy Trinity Lutheran Church'''. Founded in 1730. A session for an Indian treaty was held in the original church building in 1762. The present edifice was dedicated in 1766. Here are interred the remains of Thomas Wharton (1778) and Gov. Thomas Mifflin (1800).<ref name=marker>"[http://www.phmc.state.pa.us/bah/DOH/descriptresults.asp?secid=31&markertext=thomas+wharton&markertextsubmit=Search+by+Keywords Thomas Mifflin]", Pennsylvania State Historical Marker. {{webarchive |url=https://web.archive.org/web/20080526123038/http://www.phmc.state.pa.us/bah/DOH/descriptresults.asp?secid=31&markertext=thomas+wharton&markertextsubmit=Search+by+Keywords |date=May 26, 2008 }}</ref> }}
+
+===Entities named after Mifflin===
+==== Counties, cities, and townships ====
+{{Div col|colwidth=30em|content=
+; Pennsylvania
+*[[Fort Mifflin]], Philadelphia County, Pennsylvania
+* [[Mifflin, Pennsylvania]]
+* [[Mifflin County, Pennsylvania]]
+* [[Mifflin Cross Roads, Pennsylvania]]
+* [[Mifflin Township, Dauphin County, Pennsylvania|Mifflin Township]], Dauphin County, Pennsylvania
+* [[Mifflin Township, Lycoming County, Pennsylvania|Mifflin Township]], Lycoming County, Pennsylvania
+* [[Mifflinburg, Pennsylvania]]
+* [[Mifflintown, Pennsylvania]]
+* [[Mifflinville, Pennsylvania]]
+* [[Upper Mifflin Township, Pennsylvania|Upper Mifflin Township]], Cumberland County, Pennsylvania
+* [[West Mifflin, Pennsylvania]]<ref name=Ackerman>{{cite news |url=https://news.google.com/newspapers?id=a4NIAAAAIBAJ&sjid=G24DAAAAIBAJ&pg=7226%2C2342598 |title=Town names carry bit of history |newspaper=Pittsburgh Post-Gazette |date=May 10, 1984 |accessdate=2015-10-31 |last=Ackerman |first=Jan |page=6}}</ref>
+
+; Ohio<ref name="mifflin ohio">{{cite web |url=http://www.miftwp.org/history.htm |title=History of Mifflin Township, Franklin County, Ohio |deadurl=yes |archiveurl=https://web.archive.org/web/20090311002645/http://www.miftwp.org/history.htm |archivedate=March 11, 2009 |accessdate=2010-05-24 |df=mdy-all }}</ref>
+* [[Mifflin Township, Ashland County, Ohio]]
+* [[Mifflin Township, Franklin County, Ohio]]
+* [[Mifflin Township, Pike County, Ohio]]
+* [[Mifflin Township, Richland County, Ohio]]
+* [[Mifflin Township, Wyandot County, Ohio]]
+
+; Other
+* [[Mifflin, Indiana]]
+* [[Mifflin, West Virginia]]
+* [[Mifflin, Wisconsin]]
+}}
+
+==== Schools and government buildings ====
+* [[Governor Mifflin School District]]
+* Mifflin Hall ([[dormitory]] at the [[Pennsylvania State University]] University Park Campus)<ref name=PSU-map>{{cite web |url=http://www.campusmaps.psu.edu/buildings/mifflin.shtml |title=History of Mifflin Hall |website=[[Pennsylvania State University]] |accessdate=2010-05-31 }}</ref>
+* Mifflin Hall (main building at the U.S. Army [[Quartermaster Center and School]] at [[Fort Lee (Virginia)|Fort Lee]], Virginia Decommissioned July 30, 2010)<ref name=QM>{{cite web |url=http://www.qmfound.com/MG_Thomas_Mifflin.htm |title=History of Quartermaster Center, Fort Lee, Virginia |accessdate=2010-05-31 |deadurl=yes |archiveurl=https://archive.is/20120907233402/http://www.qmfound.com/MG_Thomas_Mifflin.htm |archivedate=September 7, 2012 |df=mdy-all }} .</ref>
+* Mifflin Hall (U.S. Army [[Sustainment Center of Excellence]] Headquarters at Fort Lee, Virginia)
+* [[Thomas Mifflin School]], [[School District of Philadelphia]]
+
+==== Streets and parks ====
+* Mifflin Avenue, Scranton, Pennsylvania
+* Mifflin Square Park, Philadelphia, Pennsylvania (between 5th and 6th Streets, Ritner and Wolf Streets)
+* Mifflin Street, [[Madison, Wisconsin]]
+* Mifflin Street, Philadelphia, Pennsylvania
+* Mifflin Street, Lancaster, Pennsylvania
+
+==== Other ====
+[[Dunder Mifflin]], the fictional paper distribution company, is a parody of the large number of entities named after Mifflin.
+
+==Footnotes==
+{{Reflist|30em|refs=
+<ref name=Bolton>{{cite book |last=Bolton |first=Charles Knowles |title=Bolton's American Armory |url=https://books.google.com/books?id=YH5LJSlAsoUC&pg=PA115 |edition=2009 reprint |year=1927 |publisher=Boston: F. W. Faxon Co. |isbn=978-0-8063-0044-3 |page=115 }} Note that the following warning about authenticity appears in the introduction: "Readers whose chief interest is in 'authentic' arms... must look elsewhere." ([https://books.google.com/books?id=YH5LJSlAsoUC&pg=PR9 Introduction, p. ix]).</ref>
+}}
+
+==References==
+* {{cite book
+ |last=Boatner
+ |first=Mark M. III
+ |authorlink=
+ |year=1974
+ |title=Encyclopedia of the American Revolution
+ |publisher=David McKay Company, Inc.
+ |location=New York
+ |isbn=0-679-50440-0
+}}
+* {{Cite book |last=Rossum |first=Kenneth R. |title=Thomas Mifflin and the Politics of the American Revolution |location=Chapel Hill |publisher=University of North Carolina Press |year=1952 |isbn= }}
+* {{Cite book |last=Rowe |first=G. S. |title=Thomas Mifflin: The Shaping of an American Republican |location=Boulder |publisher=University of Colorado Press |year=1978 |isbn= }}
+* {{cite book
+ |last=Taffe
+ |first=Stephen R.
+ |authorlink=
+ |year=2003
+ |title=The Philadelphia Campaign 1777–1778
+ |publisher=University Press of Kansas
+ |location=Lawrence, Kansas
+ |isbn=0-7006-1267-X
+}}
+* {{Cite book |last=Tinckom |first=Harry M. |title=The Republicans and Federalists in Pennsylvania |location=Harrisburg |publisher=Pennsylvania Historical and Museum Commission |year=1950 |pages=113–34 |isbn= }}
+
+==External links==
+{{Commons category|Thomas Mifflin}}
+* [http://www.archives.upenn.edu/people/1700s/mifflin_thos.html Brief biography and portrait] at the University of Pennsylvania
+* [https://archive.is/20120907233402/http://www.qmfound.com/MG_Thomas_Mifflin.htm Biography and portrait] at Quartermasters-General
+
+{{S-start}}
+{{s-off}}
+{{s-bef|before=[[Elias Boudinot]]}}
+{{s-ttl|title=[[President of the Continental Congress|President of the United States in Congress Assembled]]|years=November 3, 1783 – October 31, 1784}}
+{{s-aft|after=[[Richard Henry Lee]]}}
+{{s-bef|before=[[Benjamin Franklin]]}}
+{{s-ttl|title=[[Presidents of the Supreme Executive Council of Pennsylvania|President of Pennsylvania]]|years= November 5, 1788 – December 21, 1790}}
+{{s-non|reason = Office abolished|reason2=Became Governor of Pennsylvania}}
+{{s-new|office|reason=Previously President of Pennsylvania}}
+{{s-ttl|title=[[Governor of Pennsylvania]]|years=December 21, 1790 – 1799}}
+{{s-aft|after=[[Thomas McKean]]}}
+{{s-legal}}
+{{s-bef|before= [[Henry Hill (politician)|Henry Hill]]}}
+{{s-ttl|title=Member, [[Supreme Executive Council of the Commonwealth of Pennsylvania|Supreme Executive Council of Pennsylvania]], representing [[Philadelphia County, Pennsylvania|the County of Philadelphia]]|years= October 20, 1788 – December 21, 1790}}
+{{s-non|reason = Office abolished}}
+{{S-end}}
+{{Navboxes
+|list =
+{{United States Constitution signatories}}
+{{Presidents of the Continental Congress}}
+{{Governors and Presidents of Pennsylvania}}
+{{PASpeakers1776-90}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mifflin, Thomas}}
+[[Category:1744 births]]
+[[Category:1800 deaths]]
+[[Category:American people of English descent]]
+[[Category:American Lutherans]]
+[[Category:Burials in Pennsylvania]]
+[[Category:Colonial American merchants]]
+[[Category:Continental Army generals]]
+[[Category:Continental Army officers from Pennsylvania]]
+[[Category:Continental Army staff officers]]
+[[Category:Continental Congressmen from Pennsylvania]]
+[[Category:18th-century American politicians]]
+[[Category:Governors of Pennsylvania]]
+[[Category:Members of the Pennsylvania House of Representatives]]
+[[Category:Members of the Pennsylvania Provincial Assembly]]
+[[Category:Politicians from Lancaster, Pennsylvania]]
+[[Category:Politicians from Philadelphia]]
+[[Category:People of colonial Pennsylvania]]
+[[Category:Quartermasters]]
+[[Category:Quartermasters General of the United States Army]]
+[[Category:Signers of the United States Constitution]]
+[[Category:Speakers of the Pennsylvania House of Representatives]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:Businesspeople from Lancaster, Pennsylvania]]
+[[Category:Aides-de-camp of George Washington]]

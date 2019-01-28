@@ -1,0 +1,86 @@
+{{Infobox scientist
+| name                    = Archibald Spencer
+| image                   = 
+| image_size              = 
+| caption                 = 
+| birth_date              = {{birth date|1698|01|01|mf=y}}
+| birth_place             = [[Edinburgh, Scotland]]
+| death_date              = {{death date and age|1760|1|13|1698|01|01|mf=y}}
+| death_place             = [[Annapolis, Maryland]]
+| residence               = 
+| citizenship             = [[United States]]
+| nationality             = [[England]]
+| ethnicity               =
+| field                   = [[Physics]]
+| work_institution        = 
+| alma_mater              = 
+| doctoral_advisor        = 
+| doctoral_students       = 
+| known_for               = [[Electricity]]
+| author_abbreviation_bot = 
+| author_abbreviation_zoo = 
+| prizes                  = 
+| religion                = 
+| footnotes               = 
+}}
+'''Archibald Spencer''' (January 1, 1698 – January 13, 1760) was a businessman, scientist, doctor, clergyman, and lecturer. He is noted for introducing the phenomenon of electricity to [[Benjamin Franklin]].
+
+== Early life ==
+Spencer was born on January 1, 1698, in [[Edinburgh, Scotland]], with a given name of Adam which later changed to Archibald.{{sfn|Stearns|1970|p=620}} Some writers on Benjamin Franklin's life have stated that Spencer was a medical doctor,{{sfn|Rose|2004|p=208}}{{sfn|RUP|1999|p=117}} and a male midwife{{sfn|Meador|1975|p=270}}{{sfn|Brock|1982|p=179}} and specialized in diseases of the eye.{{sfn|Dray|2005|p=38}} Historian [[Leo Lemay]] claims that there are no records that Spencer had any medical training in Edinburgh, but may have had medical training in France.{{sfn|LeMay|1964|p=199}}
+
+== Career ==
+[[File:Spencer 1743 ad.jpg|thumb|upright 1.6|May 30, 1743, advertisement promoting his first lecture in Boston]]
+[[File:Spencer ad 7 26 1744.jpg|thumb|upright 1.6|July 26, 1744, advertisement promoting lecture in Philadelphia]]
+Spencer was a businessman in the British Colonies of America. From 1743 to 1751 he professionally conducted scientific lectures and demonstrations.{{sfn|Stearns|1970|p=507}} These were popularized in the colonies after Professor [[Isaac Greenwood]] started them in Boston in 1727. Spencer's first lecture advertisements are in the May 30 issues of the ''[[Boston Evening Post]]'' and the ''Boston Weekly Post-Boy''. Spencer's charge for attending his course was expensive, [[Pounds sterling|£]]6, but was popular nevertheless. Spencer's science and mechanical lectures at first were on [[Isaac Newton]]'s theory of light and [[state-of-the art]] techniques in medicine. [[Benjamin Franklin]] attended one of Spencer's dramatic lecture illustrations in Boston in 1743 and was not only amazed but amused.{{sfn|Stearns|1970|p=620}}{{sfn|Dray|2005|p=38}} He then acted as Spencer's agent when he came to Philadelphia in 1744 for his lectures, selling tickets and advertising them.{{sfn|Dray|2005|p=38}}{{sfn|Isaacson|2004|p=134}}{{sfn|LeMay|2009|p=64}}  Advertisement were run in the ''[[Pennsylvania Gazette]]''.<ref name=GazAd1744>{{cite news |author=<!--Staff writer(s); no by-line.--> |title= A Great Number of Gentlemen|url= https://www.newspapers.com/clip/9304446// | work=Pennsylvania Gazette |location=Philadelphia, Pennsylvania |date= April 26, 1744|via=[[Newspapers.com]] {{open access}} }}</ref>
+
+The [[Leyden jar]] capacitor for high-voltage storage was invented in 1746 by [[Pieter van Musschenbroek]], whom Franklin would meet later.{{sfn|Finger|2012|p=82}} Then Spencer's Philadelphia lecture demonstrations on science included more electrical demonstrations and became elaborate with showmanship [[static electricity]] illustrations using the Leyden jar.{{sfn|Stearns|1970|pp=506-507}}{{sfn|Lemay|2013|p=489}} In 1746 Franklin bought all of Spencer's electrical equipment for his own personal use and experimentation.{{sfn|Miller|2009|p=40}} Spencer introduced Franklin to the study of electricity through experimentation and was his [[mentor]].{{sfn|Ione|2016|p=162}}{{sfn|Wages|1979|p=129}}<ref name=EncyColonial>{{cite web |url= http://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/science-and-medicine |title= Science and Medicine |author=<!--Not stated--> |date=2016 |website= Colonial America Reference Library |publisher= Encyclopedia.com |access-date=February 27, 2017 |quote= Franklin's interest in electricity originated when he saw a traveling scientific lecturer, Archibald Spencer, perform an "electricity show" in Boston, Massachusetts. }}</ref> Franklin then trained three of his associates on Spencer's Philadelphia electrical illustrations, Samuel Domjen in 1748, [[Ebenezer Kinnersley]] in 1749, and [[Lewis Evans (surveyor)|Lewis Evans]] in 1751.{{sfn|LeMay|2009|p=78}}
+
+Spencer lived in and helped form [[Anne Arundel County, Maryland]]. He made investments when he lived in the county. One such investment, with a group of other businessmen, was a supply of [[tobacco]] that was kept at Howard's Point Warehouse in the county.  It totally burned up in an accidental fire in October 1758. Spencer petitioned the [[Province of Maryland]] government on November 29, 1758, that public funds be used to compensate the businessmen and himself for this loss. This request was turned down and no public funds were furnished.{{sfn|LeMay|1964|p=214}}
+
+== Societies ==
+
+Spencer was a regular science speaker at the Philadelphia Tuesday Club and introduced the principles of electricity to the members, which included Franklin.{{sfn|Breslaw|1988|p=xxii}} Spencer was admitted a member to Saint John's Grand Lodge of Boston in 1743 and attended at least two meetings when Franklin was a member.{{sfn|LeMay|1964|p=200}} Spencer joined the [[South River Club]] on July 10, 1755. He was active in the club for at least nine months. On September 4 and 18 he provided refreshments and food for the meetings. Spencer announced on January 22, 1756, to supply the club with copies of the ''[[Pennsylvania Gazette]]'' newspaper at a cost of 5 shillings a year.{{sfn|LeMay|1964|p=214}} He delivered the first of the newspapers two weeks later. After that his name does not again appear in the club's minutes. He was no longer an active member and records show from then on that he was a past member.{{sfn|Warfield|1905|p=202}}
+
+== Religion ==
+
+Spencer practiced the Christian religion. He was trained by Kinnersley to become a Baptist minister and preached in Maryland starting in 1750.{{sfn|Breslaw|1988|p=xxii}}{{sfn|Emerson|2016|p=196}}
+
+== Death ==
+
+Spencer died at the age of 62 in [[Annapolis, Maryland]], on January 13, 1760.<ref name=Obit1>{{cite news |author=<!--Staff writer(s); no by-line.--> |title=ANNAPOLIS, January 17 |url=https://www.newspapers.com/clip/9128496/the_maryland_gazette/ |newspaper=The Maryland Gazette |location=Annapolis, Maryland |date=January 17, 1760 |via=[[Newspapers.com]] {{open access}} }}</ref>
+
+== See also ==
+* [[Franklin's electrostatic machine]]
+* [[Experiments and Observations on Electricity]]
+
+== References ==
+{{reflist|30em}}
+
+== Sources ==
+*{{cite book|ref=harv|last=Breslaw|first=Elaine G.|title=Records of the Tuesday Club of Annapolis, 1745-56|url=
+https://books.google.com/books?id=SPsMAAAAYAAJ&q=%22Spencer+had+been+Benjamin+Franklin%27s+mentor+in+experiments+with+electricity%22&dq=%22Spencer+had+been+Benjamin+Franklin%27s+mentor+in+experiments+with+electricity%22&hl=en&sa=X&ved=0ahUKEwivlsq_qKvSAhWD14MKHZjjDRAQ6AEIHjAA |year=1988|publisher=[[University of Illinois Press]]|isbn=978-0-252-01334-8|quote=Spencer had been Benjamin Franklin's mentor in experiments with electricity.}}
+*{{cite book|ref=harv|last=Brock|first=William Ranulf|title=Scotus Americanus: A Survey of the Sources for Links Between Scotland and America in the Eighteenth Century|url=https://books.google.com/books?id=0PZ1AAAAMAAJ|date=January 1982|publisher=[[Edinburgh University Press]]|isbn=978-0-85224-420-3}}
+*{{cite book|ref=harv|last=Dray|first=Philip|title=Stealing God's Thunder: Benjamin Franklin's Lightning Rod And the Invention of America|url=https://books.google.com/books?id=SBWGR14JGO4C&pg=PA38|year=2005|publisher=[[Random House]]|isbn=978-0-8129-6810-1}}
+*{{cite book|ref=harv|last=Emerson|first=Roger L. |title=Essays on David Hume, Medical Men and the Scottish Enlightenment: 'Industry, Knowledge and Humanity'|url=https://books.google.com/books?id=_fQoDAAAQBAJ&pg=PA196|date=13 May 2016|publisher=[[Routledge]]|isbn=978-1-317-14164-8}}
+*{{cite book|ref=harv|last=Finger|first=Stanley|title=Doctor Franklin's Medicine|url=https://books.google.com/books?id=RpvrPsUhW7wC&pg=PA82|date=21 December 2012|publisher=[[University of Pennsylvania Press]]|isbn=0-8122-0191-4}}
+*{{cite book|ref=harv|last=Ione|first=Amy|title=Art and the Brain: Plasticity, Embodiment, and the Unclosed Circle|url=https://books.google.com/books?id=kvE6DQAAQBAJ&pg=PA162|date=13 October 2016|publisher=[[Brill Publishers|BRILL]]|isbn=978-90-04-32299-8|quote=Dr. Archibald Spencer, an itinerant lecturer, initially acquainted Franklin with the mysterious powers of electricity in the summer of 1743. }}
+*{{cite book|ref=harv|last=Isaacson|first=Walter |title=Benjamin Franklin: An American Life|url=https://books.google.com/books?id=L64OOJGaCKIC&pg=PA134|date=4 May 2004|publisher=[[Simon and Schuster]]|isbn=978-0-7432-5807-4}}
+*{{cite book|ref=harv|last=LeMay |first=J.A.L. |year=1964  |title= Franklin's 'Dr. Spence':The reverend Archibald Spencer |work=Maryland Historical magazine |publication-place=Baltimores, Maryland | edition = 2 | volume= 59 |issue = 2|page= |url= |accessdate= }}
+*{{cite book |last=LeMay |first=J. A. Leo |year=2009 |title=The Life of Benjamin Franklin, Volume 3: Soldier, Scientist, and Politician, 1748–1757 |publisher=[[University of Pennsylvania Press]] |page= |isbn=978-0-8122-4121-1 |ref=harv}}
+*{{cite book|ref=harv|last=Lemay|first=J. A. Leo |title=The Life of Benjamin Franklin, Volume 2: Printer and Publisher, 1730-1747|url=https://books.google.com/books?id=KOhKqgMD10cC&pg=PA489|date=3 June 2013|publisher=University of Pennsylvania Press|isbn=978-0-8122-0929-7|quote= In the Autobiography, Franklin credited Spencer with awakening his interest in electricity. }}
+*{{cite book|ref=harv|last=Meador|first=Roy|title=Franklin, Revolutionary Scientist|url=https://books.google.com/books?id=oM_aAAAAMAAJ|year=1975|publisher=[[Ann Arbor Science Publishers]]|isbn=978-0-250-40121-5}}
+*{{cite book|ref=harv|last=Miller|first=Brandon Marie|title=Benjamin Franklin, American Genius: His Life and Ideas with 21 Activities|url=https://books.google.com/books?id=vIwln8HU3C8C&pg=PR0|date=1 October 2009|publisher=[[Chicago Review Press]]|isbn=978-1-61374-130-6}}
+*{{cite book|ref=harv|last=Rose|first=F. Clifford|title=Neurology of the Arts: Painting, Music, Literature|url=https://books.google.com/books?id=I6pgDQAAQBAJ&pg=PA208|year=2004|publisher=[[Imperial College Press]]|isbn=978-1-86094-591-5}}
+*{{cite book|ref=harv|last=RUP|first=|title=Everyday Nature: Knowledge of the Natural World in Colonial New York|url=https://books.google.com/books?id=B0aYbfeXH5cC&pg=PA117|year=1999|publisher=[[Rutgers University Press]]|isbn=978-0-8135-4379-6}}
+*{{cite book|ref=harv|last=Stearns|first=Raymond Phineas|title=Science in the British Colonies of America|url=https://books.google.com/books?id=pL-_23vrHk4C&pg=PA506|year=1970|publisher=[[University of Illinois Press]]|isbn=978-0-252-00120-8}}
+*{{cite book|ref=harv|last=Wages|first=Jack D. |title=Seventy-four writers of the colonial South|url=https://books.google.com/books?id=sNs8AAAAIAAJ&q=%22Archibald+Spencer,+who+introduced+Benjamin+Franklin+to+the+study+of+electricity%22&dq=%22Archibald+Spencer,+who+introduced+Benjamin+Franklin+to+the+study+of+electricity%22&hl=en&sa=X&ved=0ahUKEwjD1oipnqvSAhVm1oMKHQ3RAHAQ6AEIHDAA|year=1979|publisher=G. K. Hall|isbn=978-0-8161-7979-4|quote=Spencer, who introduced Franklin to the study of electricity, was a 'prominent Marylander and his biography casts light on the religious, scientific, medical, social, and Masonic life in the colonies in the mid-eighteenth century.'}}
+*{{cite book|ref=harv|last=Warfield|first=Joshua Dorsey|title=The founders of Anne Arundel and Howard Counties, Maryland: A genealogical and biographical review from wills, deeds and church records|url=https://books.google.com/books?id=vgINAAAAYAAJ&pg=PA202|year=1905|publisher=[[Kohn & Pollock]]}}
+
+{{DEFAULTSORT:Spencer, Archibald}}
+[[Category:1698 births]]
+[[Category:1760 deaths]]
+[[Category:People from Edinburgh]]
+[[Category:18th-century Baptist ministers]]
+[[Category:British emigrants to the Thirteen Colonies]]
+[[Category:People from Anne Arundel County, Maryland]]
+[[Category:People of colonial Pennsylvania]]

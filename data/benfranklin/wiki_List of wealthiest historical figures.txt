@@ -1,0 +1,173 @@
+{{unreliable sources|date=November 2017}}
+[[File:John D. Rockefeller.jpg|thumb|right|[[John D. Rockefeller]] is often considered the wealthiest person in modern history.<ref>[https://www.forbes.com/sites/carlodonnell/2014/07/11/the-rockefellers-the-legacy-of-historys-richest-man/#6b5586da60e7 The Rockefellers: The Legacy Of History's Richest Man], Forbes 2014</ref><ref>[[Guinness World Records]] claims John D. Rockefeller was the richest person.</ref>]]
+
+The '''list of the wealthiest historical figures''' gathers published estimates as to the ([[Real versus nominal value (economics)|inflation-adjusted]]) net-worth and fortunes of the wealthiest [[historical figure]]s in comparison. Due to problems arising from different definitions of wealth, ways of measuring it, various economic models throughout history, as well as multiple other reasons—this article discusses the wealthiest people in the following separate historical periods: [[Classical Antiquity|Antiquity]], [[Middle Ages]] and [[modern period]]. Accordingly—because of the previously mentioned difficulties—it is not possible to determine the single richest person in all of history.
+
+For the [[modern period]], wealth can be measured more or less objectively via [[inflation adjustment]], e.g. comparing the [[Economy of the United States|nominal GDP of the United States]] of the respective periods, and then converting it into contemporary United States dollars. For the medieval and ancient history, comparison of wealth becomes more problematic, on one hand due to the inaccuracy or unreliability of records, on the other due to the difficulty of comparing a pre-industrial economy to a modern one, and especially in the presence of [[absolute monarchy]], where an entire kingdom or empire is considered the ruler's personal property.  The latter factor is also an issue in the early modern to modern period, e.g. Davidson (2015) lists [[Joseph Stalin]] among ''The 10 Richest People of All Time'' for his "complete control of a nation with 9.6% of global GDP".<ref name="time.com"/>
+
+Excluding [[monarch]]s and [[autocracy|autocrats]], the wealthiest private individual in the [[history of capitalism]] is variously identified as [[Jakob Fugger]] (died 1525), of the early modern [[Fugger]] family of merchants and bankers,<ref name=Fugger>Daniel Eckert,[https://www.welt.de/wirtschaft/article155974825/So-wurde-Fugger-zum-reichsten-Menschen-der-Geschichte.html So wurde Jakob Fugger zum reichsten Menschen der Historie] ("This is how Jakob Fugger became the wealthiest person in history"), ''[[Die Welt]]'', 6 June 2016 {{de-icon}}. "Auf heutige Verhältnisse hochgerechnet läge das Vermögen des Bauernenkels bei unglaublichen 400 Milliarden Dollar (354 Milliarden Euro). In die Nähe dieses Wertes kamen nur die Rothschilds, die in ihrer Glanzzeit im 19. Jahrhundert die mächtigste Bankiersfamilie der Welt waren" ("Adjusted to current-day conditions, the net worth of the farmer's grandson would be close to astonishing 400 billion dollars (354 billion Euro). Only the Rothschild family, at their peak in the 19th century the most powerful family of bankers, came close to such a figure."</ref> and early 20th-century American entrepreneurs [[Andrew Carnegie]] (died 1919)<ref name=Carnegie>listed at 372 billion US$2014 by Jacob Davidson, [http://time.com/money/3977798/the-10-richest-people-of-all-time time.com The 10 Richest People of All Time], 30 July 2015: "Rockefeller gets all the press, but Andrew Carnegie may be the richest American of all time. The Scottish immigrant sold his company, U.S. Steel, to J.P. Morgan for $480 million in 1901. That sum equates to about slightly over 2.1% of U.S. GDP at the time, giving Carnegie economic power equivalent to $372 billion in 2014."</ref> and [[John D. Rockefeller]] (died 1937). Frequently, one of these few people is considered to be the richest person of all time, depending on source.
+
+While the [[Rothschild family]] rose to the status of the [[List of wealthiest families|wealthiest family]] of bankers in the 19th century, their wealth was distributed among a number of family members, preventing them from appearing among the wealthiest individuals. The richest among the Rothschilds was the head of its English branch—[[Nathan Mayer Rothschild]]—the richest person of his time.<ref>[https://books.google.com/books?id=t7pKCAAAQBAJ&pg=PA65&dq=nathan+meyer+rothschild+richest#v=onepage&q=nathan%20meyer%20rothschild%20richest&f=false GDP: A Brief but Affectionate History] p. 65</ref> Bernstein and Swan in ''All the Money in the World'' (2008) mention the top three [[List of richest Americans in history|richest Americans ever]]—all [[tycoons]] of the [[Gilded Age]]—respectively: John D. Rockefeller, Andrew Carnegie and [[Cornelius Vanderbilt]]; [[Henry Ford]] was ranked only 12th.<ref>[https://books.google.com/books?id=MQ4KnsyVQh8C&printsec=frontcover&hl=pl&redir_esc=y#v=onepage&q=rockefeller&f=false ''All the Money in the World''] (2008) by Bernstein and Swan, p. 17 "Introduction"</ref>
+
+According to Close (2016), the [[List of female billionaires|wealthiest woman]] in the history of capitalism, excluding monarchs, was ''L'Oréal'' heiress [[Liliane Bettencourt]], whose net worth was at $40.7 billion in 2015.<ref name="Close">Kerry Close, [http://time.com/money/4153560/10-richest-women-all-time/ The 10 Richest Women of All Time], time.com, 1 February 2016. Bettencourt ranks at #6 in this list, after five ancient rulers and monarchs of the Middle Ages and early modern period.</ref> Including monarchs, he mentions [[Empress Wu]] for Antiquity, [[Isabella of Castile]] for Middle Ages, and [[Catherine the Great]] for modern history.<ref>Kerry Close, [http://time.com/money/4153560/10-richest-women-all-time/ The 10 Richest Women of All Time], time.com. Empress Wu ranks at #1 in this list, Catherine the Great at #3, and Isabella of Castile at #5.</ref>
+
+==Early modern to modern period==
+Listed individuals are thought to have had a net worth of at least the equivalent of 100 billion [[United States dollars]]. Therefore, it excludes figures such as [[Andrew W. Mellon]], [[Richard B. Mellon]], [[Stephen Van Rensselaer]], [[A.T. Stewart]], [[Heshen]], [[J.P. Morgan]], and others.
+<!--
+NOTE: adjustment for the differences in year of publication for the estimates cited here:
+according to: http://stats.areppim.com/calc/calc_usdlrxdeflator.php
+inflation from 2006 to 2010 is 7%,
+inflation from 2010 to 2015 is 8%.
+e.g. Rockefeller: 305G according to Forbes (2007) (2006 USD) corresponds to 236G in 2010 USD.-->
+{|class="wikitable sortable" style="font-size:95%; text-align:center;"
+|-
+!style="width: 6%;"| Name
+!style="width: 3%;"| Lifetime
+!style="width: 5%;" data-sort-type="number"| Net worth (billion 2010 USD)
+!style="width: 20%;"| Description
+|-
+|[[Jakob Fugger]]
+|1459–1525
+(66 years)
+|400<ref name="Fugger" />
+|German merchant, mining entrepreneur and banker. He expanded Fugger family's assets by spreading their operations across Europe. At one point, Fugger & family had an almost monopolistic hold on the European copper market.<ref>Peter Geffcken: ''Fugger&nbsp;– Geschichte einer Familie: "Die Handelsherren mit dem Dreizack"''. In: DAMALS 7/2004</ref> At his death, Jakob Fugger bequeathed to his nephew [[Anton Fugger]] company assets totaling 2,032,652 [[guilders]].<ref>{{cite encyclopedia |last= |first= |author= |authorlink= |coauthors= |editor= |encyclopedia=[[Encyclopædia Britannica]] |title=Anton Fugger |url=http://www.britannica.com/EBchecked/topic/221438/Anton-Fugger |edition= |date= |year= |month= |publisher= |volume= |location= |id= |isbn= |doi= |pages= |quote= | accessdate= }}</ref> Referred to as "Fugger the Rich".
+|-
+|[[John D. Rockefeller]]
+|1839–1937
+(97 years)
+|336<ref name="time.com"/><!-- 305 in 2006 USD https://www.forbes.com/2007/09/14/richest-americans-alltime-biz_cx_pw_as_0914ialltime_slide_2.html-->
+|On September 29, 1916, Rockefeller became the first person ever to reach a nominal personal fortune of US$1 billion (equivalent to US${{Inflation|US-GDP|1|1916}} billion in {{Inflation-year|US-GDP}}).{{Inflation-fn|US-GDP}} Rockefeller amassed his fortune from the [[Standard Oil]] company, of which he was a founder, chairman and major shareholder. By the time of his death in 1937, estimates place his net worth in the range of US$300 billion to US$400 billion in adjusted dollars for the late 2000s (decade). When considering the real value of his wealth, Rockefeller is widely held to have been the wealthiest American, as well as the richest person in modern history.<ref name="NYTWealthiest07"/><ref name="ForbesRichAmericans98"/><ref name="ForbesRichAmericans07">{{cite news|url=http://money.cnn.com/galleries/2007/fortune/0702/gallery.richestamericans.fortune/index.html |title=The richest Americans |publisher=Forbes |accessdate=22 December 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090916143955/http://money.cnn.com/galleries/2007/fortune/0702/gallery.richestamericans.fortune/index.html |archivedate=September 16, 2009 }}</ref><ref>{{cite web |url=https://www.pbs.org/wgbh/amex/rockefellers/filmmore/pt.html |title=The Rockefellers |accessdate=2007-05-29 |publisher=[[Public Broadcasting Service|PBS]]}}</ref><ref>{{cite news|url=http://money.cnn.com/galleries/2007/fortune/0702/gallery.richestamericans.fortune/index.html |title=The Richest Americans |accessdate=2007-07-17 |work=[[Fortune magazine]] |deadurl=yes |archiveurl=https://web.archive.org/web/20090916143955/http://money.cnn.com/galleries/2007/fortune/0702/gallery.richestamericans.fortune/index.html |archivedate=2009-09-16 |df= }}</ref><ref>{{cite news |url=https://www.nytimes.com/ref/business/20070715_GILDED_GRAPHIC.html# |title=The Wealthiest Americans Ever |accessdate=2007-07-17 |work=[[The New York Times]] | date=July 15, 2007}}</ref>
+|-
+|[[Andrew Carnegie]]
+|1835–1919
+(84 years)
+|310<ref name="time.com">Jacob Davidson, [http://time.com/money/3977798/the-10-richest-people-of-all-time time.com The 10 Richest People of All Time], 30 July 2015</ref>
+|Carnegie founded the [[Carnegie Steel Company]], which was the most extensive integrated iron and steel operations in the United States; in 1901, Carnegie sold his company for US$480 million to [[J.P. Morgan]], who then merged his company into [[U.S. Steel]].<ref name="History Carnegie">{{cite web|url=http://www.history.com/topics/andrew-carnegie|title=The Men Who Built America: Andrew Carnegie|website=History.com}}</ref> Capitalized at US$1.4 billion at the time, U.S. Steel was the first billion dollar company in the world. In his final years, Carnegie's net worth was US$475 million, but by the time of his death in 1919 he had donated most of his wealth to charities and other philanthropic endeavors and had only US$30 million left to his personal fortune. Carnegie's hundreds of millions accounted for about 0.60% of the U.S. annual GDP and has a real value estimated at about US$75 billion adjusted for the late 2000s (decade).<ref name="NYTWealthiest07">{{cite news |author=Staff |title=The Wealthiest Americans Ever |url=https://www.nytimes.com/ref/business/20070715_GILDED_GRAPHIC.html |date=15 July 2007 |publisher=[[New York Times]] |accessdate=30 September 2014 }}</ref><ref name="ForbesRichAmericans98">{{cite news|url=https://www.forbes.com/asap/1998/0824/032.html|title=Richest Americans in History|publisher=Forbes|accessdate=22 December 2009|date=24 August 1998}}</ref>
+|-
+|[[Nicholas II of Russia]]
+|1868–1918 
+(50 years)
+|250–300
+|[[Emperor of All Russia]] from 1894 to 1917. Estimates of the wealth of Nicholas II remain wildly speculative. As emperor, and an autocrat, the resources under Nicholas II's command were virtually incalculable. However, the vast majority of this was officially owned by the State as Crown property. From this, supplemented by an annuity from the Treasury, he derived an annual income of 24 million [[rouble]]s, from which he had to fund staff, the upkeep of imperial palaces and imperial theatres, annuities for the royal family, pensions, bequests, and other outgoings.<ref name="Massie, Robert K. 1967, p64">Massie, Robert K. ''Nicholas and Alexandra'', New York, Atheneum, 1967, p64</ref> "Before the end of the year, the Tsar was usually penniless; sometimes he reached this embarrassing state by autumn."<ref name="Massie, Robert K. 1967, p64"/> According to the Grand Marshall of the Court, Count Paul Benckendorff, his ''personal wealth'' only amounted to between 12.5 and 17.5 million roubles.<ref>Clarke, William ''The Lost Fortune of the Tsars'', St. Martin's Griffin; Reprint edition, 1996, p101.</ref>
+|-
+|[[Osman Ali Khan, Asaf Jah VII]]
+|1886–1967
+(81 years)
+|210
+|The last [[Nizam]] of [[Hyderabad State]] in [[British India]]. Regarded as the wealthiest person in the world during his lifetime, his portrait was on the cover of ''[[Time (magazine)|Time magazine]]'' in 1937.<ref>{{cite news| url=http://www.time.com/time/covers/0,16641,1101370222,00.html | work=Time |title=The Nizam of Hyderabad}}</ref> As a semi-autonomous monarch, he had his own mint, printing his own currency, the [[Hyderabadi rupee]], and had a private treasury that was said to contain £100m in gold and silver bullion, and a further £400m of jewels (in 2008 terms). Among them was the [[Jacob Diamond]], valued at some £50m (in 2008 terms),<ref>{{cite news| url=https://www.mirror.co.uk/news/uk-news/exclusive-the-last-nizam-of-hyderabad-was-so-rich-302814| location=London | work=[[Mirror.co.uk]]| first=Julie | last=McCaffrey| title=Exclusive: The last Nizam of Hyderabad was so rich he had a £50m diamond paperweight..| date=3 February 2012}}</ref><ref>{{cite news| url=https://www.telegraph.co.uk/news/worldnews/1584818/India-finally-settles-1million-Nizam-dispute.html | location=London | work=The Daily Telegraph | first=Rahul | last=Bedi | title=India finally settles £1million Nizam dispute | date=12 April 2008}}</ref><ref>{{cite web|url=https://web.archive.org/web/20090402032500/http://nationalmuseumindia.gov.in/press_release.html|title=Exhibitions at National Museum of India,New Delhi(India)|date=2 April 2009|publisher=}}</ref> and used by the Nizam as a paperweight.<ref>Shah, Tahir. "[http://www.timesonline.co.uk/tol/news/uk/article2603983.ece Alan the Red, the Brit who makes Bill Gates a pauper]." ''Times Online''. ''The Sunday Times''. 7 October 2007. Web. 19 9ay 2010.</ref>
+|-
+|[[Henry Ford]]
+|1863–1947
+(84 years)
+|188–199
+|Henry Ford was an American automotive engineer, entrepreneur, and founder of the [[Ford Motor Company]]. By designing the [[Model T Ford]] with mass production in mind and employing the assembly line method of rapid production, he was able to radically lower the base price of his automobiles and reach a wider market. As production increased, Ford further reduced prices and increased salaries to reduce worker turnover. This resulted in a rapid increase in output, with Ford production rising from roughly 18,000 cars in 1909 to over 1 million cars in 1920. Despite Ford stating that his focus was increasing Ford Motor Company's benefit to society and to its employees, even at one point [[Dodge v. Ford Motor Company|being sued by the Dodge brothers]] based on this premise, his company was massively profitable. His highest earnings were recorded at age 57 and he died at the age of 83 in 1947 at a net worth of US$188.1 billion (inflation-adjusted value in 2008 dollars).
+|-
+|[[John Jacob Astor]]
+|1763–1848
+(85 years)
+|120–138<ref name="Hargreaves">{{cite web|url=http://money.cnn.com/gallery/luxury/2014/06/01/richest-americans-in-history/2.html|title=The richest Americans in history|first=Steve|last=Hargreaves|publisher=}}</ref>
+|American businessman, merchant, opium smuggler, fur trader, and investor. In 1801, Astor's nominal wealth was some US$250,000, and by the time of his death in 1848 his fortune had grown to US$20 million, making him America's first multi-millionaire.<ref name="NYTWealthiest07" /><ref name="ForbesRichAmericans98" /><ref name="ForbesRichAmericans07" />
+|-
+|[[Cornelius Vanderbilt]]
+|1794–1877
+(83 years)
+|105<ref>[http://money.cnn.com/galleries/2007/fortune/0702/gallery.richestamericans.fortune/2.html ''Fortune Magazine''{{'s}} "richest Americans"] {{webarchive|url=https://web.archive.org/web/20090913151146/http://money.cnn.com/galleries/2007/fortune/0702/gallery.richestamericans.fortune/2.html |date=2009-09-13 }}. ''Fortune'' estimated his wealth at death at $105,000,000, or 1/87 of the nation's GDP.</ref>–205<ref name="Hargreaves"/>
+|American business magnate and philanthropist who built his wealth in railroads and shipping.
+|-
+|[[Stephen Girard]]
+|1750–1831
+(81 years)
+|105<ref name="business insider" />–120<ref name="Hargreaves"/>
+|French-born American banker. Before becoming a banker, he was a merchant and owned a fleet of trading ships.
+|-
+|[[William Henry Vanderbilt]]
+|1821–1885
+(64 years)
+|52–239<ref name="newnetherlandinstitute.org">{{cite web|url=http://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/william-henry-vanderbilt/|title=William Henry Vanderbilt|website=www.newnetherlandinstitute.org}}</ref>
+|Railroad owner. Inherited much of his wealth from his father, [[Cornelius Vanderbilt]],<ref name="business insider">Gus Lubin, [http://www.businessinsider.com/richest-people-in-history-2010-8?IR=T business insider The 20 Richest People Of All Time], 2 September 2010</ref> who initiated the [[Vanderbilt family]]'s involvement in railroad and shipping business. He doubled his father's fortune, to an amount estimated between $52 billion and $239 billion.<ref name="newnetherlandinstitute.org"/>
+|}
+
+==Middle Ages==
+Absolute rulers or conquerors are sometimes listed for the territory they controlled rather than for their immediate personal wealth (Davidson (2015) for TIME.com listed [[Akbar I]], [[Genghis Khan]] and [[Emperor Shenzong of Song]] for their imperial possessions, while [[Alan Rufus]] is listed for his immediate possessions within the [[feudal]] system of [[Norman England]]).<ref name="time.com"/>
+
+{|class="wikitable" style="font-size:95%; text-align:center;"
+|-
+!style="width: 16%;"| Name
+!style="width: 12%;"| Lifetime
+!Description
+|-
+|[[Musa I of Mali]]
+|c. 1280 – c. 1337
+|Mansa Musa, or Musa I of Mali is considered one of the richest men in history. Musa was the tenth emperor of the [[Mali Empire]], one of the prosperous [[Sahelian kingdoms]] that developed along the [[Arab slave trade|Saharan slave trade]] routes in the later medieval period. Mansa Musa made his fortune by exploiting his [[Mali Empire#Economy|country's salt and gold production]].<ref name="time.com" /><ref>{{Cite web|url=https://www.independent.co.uk/news/world/world-history/meet-mansa-musa-i-of-mali-the-richest-human-being-in-all-history-8213453.html|title=Meet Mansa Musa I of Mali – the richest human being in all history|date=2012-10-16|language=en-GB|access-date=2016-09-17}}</ref><ref>{{Cite web|url=http://www.cheatsheet.com/money-career/the-10-richest-people-of-all-time.html/?a=viewall|title=10 Richest People of All Time|date=2016-09-04|language=en-US|access-date=2016-09-17}}</ref> Musa is said to have brought several tonnes of gold to Mecca when he made a pilgrimage there in 1324. Reported as being inconceivably rich by contemporaries, "There’s really no way to put an accurate number on his wealth."<ref>{{cite web|url=http://time.com/money/3977798/the-10-richest-people-of-all-time/|title=The 10 Richest People of All Time|publisher=[[CNNMoney]]|author=Jacob Davidson}}.</ref>
+|-
+|[[William the Conqueror]]
+|c. 1028–1087
+| William the Conqueror became personally enormously wealthy from spoils of war during the [[Norman Conquest]] of England.<ref name=Conqueror>"Estimate from historian [[William Rubenstein]] via ''[[The Times]]'', converted to dollars at average rate since ’07 (1:1.7) and adjusted for inflation."[http://www.cheatsheet.com/breaking-news/the-20-richest-people-of-all-time.html/ The 20 Richest People Of All Time], 4 September 2010. "Although he became a monarch, we're counting the spoils of war before he took the throne, based on what he gave out to his sons Odo and Robert." "he left the equivalent of $229.5 billion to his sons."</ref>
+|-
+|[[Basil II]]
+|958–1025
+|[[Byzantine emperor]] from 960 to 1025 at the time of the Eastern Roman Empire's greatest medieval territorial extent, also a time of considerable prosperity for the Empire.
+|-
+|[[Alan Rufus]]
+|c. 1040–1093
+|Alan Rufus, 1st Lord of Richmond, was a relative and companion of [[William the Conqueror]] (Duke William II of Normandy) during the Norman Conquest of England. By 1086 he had become one of the richest and most powerful men of England.<ref name="Conqueror"/>
+|-
+|[[William de Warenne, 1st Earl of Surrey|William de Warenne,<br/>1st Earl of Surrey]]
+|d. 1088
+|Fought alongside William the Conqueror at the [[Battle of Hastings]] and was rewarded with considerable land holdings in England.<ref name="business insider"/><ref name=Conqueror/><ref name ="Hinde">''The Domesday Book: England's Heritage Then and Now'', ed. Thomas Hinde (UK: Coombe Books, 1996)</ref>
+|-
+|[[Richard FitzAlan, 10th Earl of Arundel|Richard FitzAlan,<br />10th Earl of Arundel]]
+|c. 1306–1376
+|English nobleman and admiral. Succeeded to the [[Earldom of Surrey]] in 1347.
+|-
+|[[John of Gaunt]]
+|1340–1399
+|Third son of King [[Edward III of England]]. Duke of Lancaster. Owned land in almost every county in England, with a [[noble court|household]] comparable to that of a monarch.<ref>Jonathan Sumption, ''Divided Houses: The Hundred Years War III'' (London: Faber & Faber, 2009), p. 9.</ref>
+|}
+
+==Antiquity==
+For [[Classical Antiquity]], even more than for the [[High Middle Ages]], the definition of personal wealth becomes difficult to compare with the modern period; especially in the case of [[Imperial cult|divine kings]], where an entire empire might be considered the personal property of a deified emperor.
+
+{|class="wikitable" style="font-size:95%; text-align:center;"
+|-
+!style="width: 16%;"| Name
+!style="width: 12%;"| Lifetime
+!Description
+|-
+|[[Marcus Licinius Crassus]]
+| c. 115 BC – 53 BC
+| Crassus inherited a fortune of 7 million [[sesterces]] after the death of his father in 87 BC. After several years of exile, Crassus was able to rebuild his family fortune by seizing the property of executed convicts for himself.<ref name="TrivLibCrassus">[[Wallechinsky, David]] & [[Irving Wallace]]. "[http://www.trivia-library.com/b/richest-people-in-history-marcus-licinus-crassus.htm Richest People in History Ancient Roman Crassus]". Trivia-Library. ''[[The People's Almanac]]''. 1975 – 1981. Web. 23 December 2009.</ref> Crassus also expanded his wealth by trading in slaves and by purchasing whole neighborhoods of Rome as they burned, for drastically less than market value. Crassus was known in Rome as ''Dives'', meaning "The Rich". It is believed that Crassus expanded his personal fortune to 170 million sesterces, while [[Pliny the Elder]] surmised his fortune to be valued even higher, at 200 million sesterces. This would place Crassus's net worth equal to the total annual budget of the Roman treasury.
+Crassus has often been listed among the "wealthiest individuals in history", although depending on the estimate of the "adjusted value" of a Roman [[sesterce]], his net worth may also be placed in the range of US$200 million to US$20 billion.<ref name=Bernstein>
+"Often named as the richest man ever, a more accurate conversion of sesterce would put his modern figure between $200 million and $20 billion." [[Peter L. Bernstein]]. [http://www.businessinsider.com/richest-people-of-all-time-2011-1#bonus-some-people-who-didnt-make-the-list-21 The 20 Richest People Of All Time]</ref>
+|-
+|[[Augustus Caesar]]
+| 63 BC – AD 14
+|Listed by ''Time Magazine'' with "$4.6 trillion" because he "personally owned all of Egypt".<ref name="time.com"/>
+|-
+|[[Croesus]]
+|died c. 546 BC
+|The name of Croesus, a historical king of [[Lydia]], was proverbial for wealth already in antiquity; this is probably due to his being the first ruler to issue true [[gold coins]] with a standardised purity for general circulation and not necessarily for his personal wealth.
+|-
+|}
+
+== See also ==
+* [[Forbes list of billionaires|''Forbes'' list of billionaires]]
+* [[List of richest Americans in history]]
+* [[List of wealthiest organizations]]
+* [[List of wealthiest families]]
+* [[List of wealthiest animals]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* [[Philip Beresford]], [[William D. Rubinstein]], ''The Richest of the Rich: The Wealthiest 250 People in Britain since 1066'', Harriman House, 2011, {{ISBN|978-0-85719-065-9}}. 
+* Michael Klepper, Robert Gunther, ''The Wealthy 100: From Benjamin Franklin to Bill Gates—A Ranking of the Richest Americans, Past and Present'', Citadel Press, 1996, {{ISBN|978-0-80651-800-8}}.
+
+{{Lists of billionaires}}
+{{Extreme wealth}}
+
+{{DEFAULTSORT:List of wealthiest historical figures}}
+[[Category:History-related lists|Wealthiest historical figures]]
+[[Category:Lists of people by wealth|Historical figures]]
+[[Category:Economy-related lists of superlatives|Wealthiest historical figures]]

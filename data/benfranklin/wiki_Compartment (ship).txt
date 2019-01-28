@@ -1,0 +1,59 @@
+A '''compartment''' is a portion of the space within a [[ship]] defined vertically between [[Deck (ship)|decks]] and horizontally between [[Bulkhead (partition)|bulkheads]]. It is analogous to a room within a building, and may provide '''watertight subdivision''' of the ship's [[Hull (watercraft)|hull]] important in retaining [[buoyancy]] if the hull is damaged. Subdivision of a ship's hull into watertight compartments is called '''compartmentation'''.
+[[File:USS South Dakota (BB-57) under construction, 1 April 1940.jpg|thumb|300px|Transverse bulkheads appear horizontally in this photo of a battleship under construction.]]
+[[File:4 Aces Brochure April 1952 30M Pg07-08 Veranda Illustration.jpg|thumb|300px|These compartments are formed by non-structural bulkheads.]]
+
+==History==
+[[Bulkhead (partition)|Bulkhead]] watertight compartments were invented by the Chinese which strengthened the [[Junk (ship)|junk]]s and slowed [[Ship floodability|flooding]] in case of holing during the [[Han dynasty|Han]] and [[Science_and_technology_of_the_Song_dynasty#Literature|Song dynasties]].<ref>{{Cite book |title=KWANGCHOW - Freddy Everard On The China Seas  |last=Harper |first=David Adamson |year= 2011 |publisher=BookBaby |orig-year=2011 |publication-date= December 30, 2011}}</ref><ref>{{Cite book |title=The Britannica Guide to Modern China: A Comprehensive Introduction to the World's New Economic Giant |publisher= Running Press Book Publishers |year=2008 |publication-date=April 30, 2008 |page=1}}</ref><ref>{{Cite book |title=Understanding China: Dangerous Resentments |last=Du Bois |first=George |publisher=Trafford Publishing |year=2014 |publication-date=November 8, 2014}}</ref><ref>{{Cite book |title=Secret Maps of the Ancient World |last=Rees |first=Charlotte Harris  |publisher=Authorhouse |year=2008 |isbn=978-1434392787 |publication-date=June 10, 2008 |page=102}}</ref> The wide application of Chinese watertight compartments soon spread to the Europeans through the Indian and Arab merchants.<ref>{{Cite book |title=International Encyclopedia of Geography, 15 Volume Set: People, the Earth, Environment and Technology |last=Richardson  |first=Douglas |last2=Goodchild  |first2=Michael F.  |last3=Kobayashi |first3=Audrey  |last4=Liu  |first4=Weidong  |last5=Marston |first5=Richard |publisher=Wiley-Blackwell |year=2017 |isbn=978-0470659632 |publication-date=March 20, 2017 |page=7161}}</ref><ref>{{Cite book |title=China: A Concise History |last=Walter Meyer |first=Milton  |publisher=Littlefield Adams  |year=1994 |isbn=978-0822630333 |publication-date=January 28, 1994 |page=78}}</ref>
+
+==Watertight subdivision==
+Watertight subdivision limits loss of buoyancy and [[Freeboard (nautical)|freeboard]] in the event of damage, and may protect vital machinery from flooding. Most ships have some [[pump]]ing capacity to remove accumulated water from the [[bilge]]s, but a steel ship with no watertight subdivision will sink if water accumulates faster than pumps can remove it. Standards of watertight subdivision assume no [[dewatering]] capability, although pumps kept in working order may provide an additional measure of safety in the event of minor leaks. The most common watertight subdivision is accomplished with transverse bulkheads dividing the elongated hull into a number of watertight floodable lengths. Early watertight subdivision tested with hoses sometimes failed to withstand the [[Fluid statics#Hydrostatic pressure|hydrostatic pressure]] of an adjoining flooded compartment. Effective watertight subdivision requires these transverse bulkheads to be both watertight and structurally sound.<ref name=man>Manning, pp.146-148</ref>
+
+A ship will sink if the transverse bulkheads are so far apart that flooding a single compartment would consume all the ship's reserve buoyancy. Aside from the possible protection of machinery, or areas most susceptible to damage, such a ship would be no better than a ship without watertight subdivision, and is called a '''one-compartment ship'''. A ship capable of remaining afloat when any single watertight compartment is flooded is called a '''two-compartment ship''', but damage destroying the tightness of a transverse bulkhead may cause flooding of two compartments and loss of the ship. A ship able to remain afloat with any two compartments flooded is called a '''three-compartment ship''', and will withstand damage to one transverse bulkhead.<ref name=man/>
+
+After the ''[[Sinking of the RMS Titanic|Titanic]]'' sinking, safety standards recommended spacing transverse bulkheads so no single point of damage would either submerge the end of the upper bulkhead deck or reduce bulkhead deck freeboard to less than {{convert|3|in|cm}}. Wartime experience with [[torpedo]] damage indicated the typical damage diameter of {{convert|35|ft|m}} defined a practical minimum distance for transverse bulkhead spacing.<ref name=man/>
+
+==Doors==
+Three types of doors are commonly used between compartments. A closed '''watertight door''' is structurally capable of withstanding the same pressures as the watertight bulkheads they penetrate, although such doors require frequent maintenance to maintain effective seals, and must, of course, be kept closed to effectively contain flooding.<ref name=man/>
+
+A closed '''weathertight door''' can seal out spray and periodic minor flow over weather decks, but may leak during immersion. These outward opening doors are useful at weather deck entrances to compartments above the [[main deck]].<ref name=man/>
+
+'''Joiner doors''' are similar to doors used in conventional buildings ashore. They afford privacy and temperature control for compartments formed by non-structural bulkheads within the ship's hull.<ref name=man/>
+
+==Nomenclature==
+Compartments are identified by the deck forming the floor of that compartment. Different types of ships have different deck naming conventions. Passenger ships often use letters of the alphabet sequentially down from A deck (the highest) above B deck, and B deck above C deck, and so forth. Another popular naming convention is numbering the [[main deck]] 1, the deck below it 2 (or the second deck), and the deck below that the third deck, and so forth. Decks above the main deck may be named, like the [[Bridge (nautical)|bridge deck]] or [[poop deck]],<ref>Manning, p.145</ref> or they may be numbered upwards from the main deck with a zero prefix: 01 above the main deck, 02 deck above 01, and so forth.<ref name=web>{{cite web |url=http://www.globalsecurity.org/military/library/policy/navy/nrtc/14057_ppr_ch3.pdf |title=SHIP COMPARTMENTATION AND WATERTIGHT INTEGRITY |last= |first= |website= |publisher=United States Navy |accessdate=12 January 2014 }}</ref>
+
+The [[United States Navy]] (USN) has used the latter convention in a compartment numbering system since 1949. The USN system identifies each compartment by a four-part code separated by hyphens. The first part of the code represents a numbered deck, the second part of the code is a hull support [[Frame (nautical)|frame]] numbered sequentially from the [[bow (ship)|bow]], the third part of the code is a number representing compartment position with respect to the ship's centerline, and the fourth part of the code is alphabetic representing the use of that compartment.<ref name=web/>
+
+The centerline position code is zero for a compartment on the ship's centerline, odd numbers for compartments entirely to [[Port and starboard|starboard]] of the centerline, and even for compartments entirely to [[Port and starboard|port]]. For compartments sharing the same deck and forward frame, the first two parts of the code are identical, and the third part of the code is numbered outward from the centerline. For example, four main-deck compartments at frame 90 would be 1-90-1-L inboard and 1-90-3-L outboard on the starboard side of the ship and 1-90-2-L inboard and 1-90-4-L outboard on the port side.<ref name=web/>
+
+The fourth part of the code is:<ref>{{cite web |url=http://www.globalsecurity.org/military/library/policy/navy/nrtc/14057_ppr_ch3.pdf |title= Compartment Letters for Ships |last= |first= |website= |publisher=United States Navy |accessdate=24 February 2018 }}</ref>
+* A for store rooms (or AA for cargo holds)
+* C for manned communication or control centers
+* E for manned engineering machinery spaces
+* F for oil storage tanks (or FF for oil cargo tanks)
+* G for [[gasoline]]-storage tanks (or GG for gasoline cargo tanks)
+* J for [[JP-5]] storage tanks (or JJ for JP-5 cargo tanks)
+* K for chemical-storage spaces
+* L for living spaces, including [[Berth (sleeping)|sleeping]], dining, [[Head (watercraft)|washrooms]], [[sick bay]], and passageways.
+* M for ammunition [[Magazine (artillery)|magazines]]
+* Q for miscellaneous spaces not otherwise coded, including laundry, [[Galley (kitchen)|galley]], pantries, wiring trunks, unmanned engineering, electrical and electronic spaces, shops, and offices.
+* T for vertical-access trunks (escape trunks)
+* V for void (empty) spaces
+* W for water-storage tanks
+
+==References==
+* {{cite book |last=Manning |first=George Charles |authorlink = |title =Manual of Naval Architecture |publisher =D. Van Nostrand Company |volume = |edition = |year =1930 |location =New York |pages = |isbn =}}
+* {{cite book |last=Morrell |first=Robert W. |authorlink = |title =Oil Tankers |publisher =Simmons-Boardman Publishing Company |volume = |edition =2nd |year =1931 |location =New York |pages = |isbn =}}
+
+==Notes==
+{{reflist}}
+
+
+[[Category:Shipbuilding]]
+[[Category:Buoyancy]]
+[[Category:Chinese inventions]]
+[[Category:Naval architecture]]
+[[Category:Nautical terminology]]
+[[Category:Ship compartments]]
+[[Category:Song dynasty]]
+[[Category:Watercraft components]]

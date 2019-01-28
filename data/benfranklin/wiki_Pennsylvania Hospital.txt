@@ -1,0 +1,168 @@
+{{Use mdy dates|date=June 2016}}
+{{Multiple issues|
+{{Advert|date=December 2015}}
+{{More citations needed|date=December 2015}}
+}}
+
+{{Infobox hospital
+| name        = Pennsylvania Hospital
+| org/group   = [[University of Pennsylvania Health System]]
+| logo        = Penn Medicine and University of Pennsylvania Health System logo.svg
+| logo_size   = 250
+| image       = Pennsylvania Hospital (Highsmith).png
+| image_size  = 300
+| alt         = Main building of Pennsylvania Hospital
+| caption     = Main building of Pennsylvania Hospital
+| map_type    = Pennsylvania
+| relief      = <!-- any non-blank value (yes, 1, etc.) will cause the template to display a relief map image, where available -->
+| map_size    = <!-- map size or width in pixels (do not include "px"); default is 225 -->
+| map_alt     = <!-- alternative text for map image, see WP:ALT for details -->
+| map_caption = <!-- a small caption under the map such as "Shown in region, country" -->
+| location    = 800 Spruce Street
+| region      = <br>[[Philadelphia]]
+| state       = PA
+| country     = US
+| coordinates = {{coord|39|56|41.2|N|75|9|22.56|W|display=inline,title}}
+| healthcare  = Private
+| funding     = Non-profit
+| type        = Teaching
+| affiliation = [[Perelman School of Medicine]]
+| patron      = <!-- the individual who acts as the hospital patron -->
+| network     = [[University of Pennsylvania Health System]]
+| standards   = <!-- optional if no national standards -->
+| emergency   = <!-- UK/IR/HK/SG: Yes/No, in CA/IL/US: I/II/III/IV/V for Trauma certification level -->
+| helipad     = <!--No-->
+| beds        = 515
+| speciality  = <!-- if devoted to a speciality (i.e. not a broad spectrum); ONLY displayed if type=Specialist or type=Teaching -->
+| founded     = 1751<ref name=AmericasFirstHospital/>
+| closed      = <!-- if defunct, please also add to Category:Defunct hospitals -->
+| demolished  = <!-- if demolished at a different time from closure -->
+| website     = {{URL|pennmedicine.org/pahosp}}
+| other_links = <!-- link(s) to related articles -->
+| module      = {{Infobox NRHP|name =Pennsylvania Hospital
+ |nrhp_type = nhl
+ |embed=yes
+ |image=PennsylvaniaHospitalWilliamStrickland.jpg
+ |caption = The Pennsylvania Hospital by William Strickland (1755)
+ |location=800 Spruce Street<br />[[Philadelphia, Pennsylvania]]
+ |built=December 17, 1756
+ |architect=[[Samuel Rhoads]]<ref name=WDL1>{{cite web|title=Pennsylvania Hospital|url=http://www.wdl.org/en/item/9431/|work=[[The Library Company of Philadelphia]]|publisher=[[World Digital Library]]|accessdate=January 4, 2014}}</ref>
+ |architecture= Colonial and Federal (Pine Building)
+ | added = October 15, 1966
+ |refnum=66000688<ref name="nrhp">{{NRHP Focus|66000688}}</ref>
+ | designated_nrhp_type = June 22, 1965
+ | designated_other1_name = Pennsylvania state historical marker
+ | designated_other1_abbr=PHMC
+ | designated_other1_date = December 17, 1954<ref name=phmcdatabase>{{cite web | title =  PHMC Historical Markers  | work =Historical Marker Database | publisher = Pennsylvania Historical & Museum Commission | url =http://search.pahistoricalmarkers.com/ | accessdate = December 10, 2013}}</ref>
+ | designated_other1_link = List of Pennsylvania state historical markers
+ | designated_other1_color = navy
+ | designated_other1_textcolor=#ffc94b
+}}
+}}
+
+'''Pennsylvania Hospital''' is a [[Private hospital|private]], [[non-profit]], 515-bed [[teaching hospital]] located in [[Center City Philadelphia]] and affiliated with the [[University of Pennsylvania Health System]].  Founded on May 11, 1751, by [[Benjamin Franklin]] and Dr. [[Thomas Bond (physician)|Thomas Bond]], Pennsylvania Hospital is the earliest established public hospital in the United States.<ref name="AmericasFirstHospital">{{cite book | title=America's First Hospital: The Pennsylvania Hospital, 1751-1841 | publisher=Haverford House | author=Williams, William Henry | year=1976 | isbn=9780910702027}}</ref><ref name="nrhp"/>{{efn|"Although Philadelphia General Hospital (1732) and Bellevue Hospital in New York (1736) are older, the Philadelphia General was founded as an almshouse, and Bellevue as a workhouse".<ref name="nrhp"/>}}  It is also home to America's first surgical amphitheatre<ref name="pennmedicine.org">{{cite web|title=Visitor Information for Pennsylvania Hospital|url=http://www.pennmedicine.org/pahosp/visitor-information/|work=University of Pennsylvania|publisher=Penn Medicine}}</ref> and its first medical library.<ref>{{cite journal|last=Weise|first=F|title=Being there: the library as place.|journal=Journal of the Medical Library Association : JMLA|date=Jan 2004|volume=92|issue=1|pages=6–13|pmid=14762459|pmc=314099}}</ref>  The hospital's main building, dating to 1756, is a [[National Historic Landmark]].<ref name="nrhp"/>
+[[File:Pennsylvania Hospital ER 2013.jpg|thumb|The emergency room entrance at Pennsylvania Hospital, as seen from 9th and Spruce]]
+
+==History==
+Pennsylvania Hospital was originally conceived in 1751 by Dr. Thomas Bond as an institution "for the reception and cure of the sick poor...free of charge. It was funded by "matching grant" to donations of the people of Philadelphia by a Bill which the House passed unanimously on 7 February 1750. Franklin went on to later write: "I do not remember any of my political Manoeuvres, the Success of which gave me at the time more Pleasure." On September 2, 1751, Mathias Koplin donated the first plot of ground for the new hospital.<ref name=press>{{cite book |last=Lemay |first=J. A. Leo |title=The Life of Benjamin Franklin, Volume 3: Soldier, Scientist, and Politician, 1748–1757 |publisher=University of Pennsylvania Press |year=2008 |page=272 |url=https://books.google.com/books?id=NL5bcRP5aRAC |isbn=978-0-8122-4121-1}}</ref> The first (temporary) building was opened on February 6, 1752, on High Street<ref name="history">{{cite book |last=Morton |first=Thomas G. |author2=Frank Woodbury |title=The History of the Pennsylvania Hospital, 1751–1895 |publisher=Times Printing House |year=1897 |location=Philadelphia |page=32 |url=https://archive.org/details/historypennsylv01pagoog}}</ref> (now Market Street). Elizabeth Gardner, a [[Quaker]] widow, was appointed Matron of the hospital. As the hospital received support of the leading families in Philadelphia, its permanence was secured, and [[Samuel Rhoads]] was appointed [[architect]] of the new building.
+
+[[Thomas Stretch]] was among the leading citizens of Philadelphia and one of the founders of Pennsylvania Hospital.  He was a member of the [[Union Fire Company]], also known as Benjamin Franklin's Bucket Brigade and a founder of the social club known as [[Schuylkill Fishing Company]], and the club's first governor in 1732, re-elected annually until his death in 1765.<ref name="Historyof_a">{{cite book|title=A History of the Schuylkill Fishing Company of the State in Schuylkill 1732–1888|year=1889|publisher=The State in Schuylkill|location=Philadelphia|page=5}}</ref> Stretch was a director of the [[Philadelphia Contributionship]] (Hand-in-Hand fire mark) from 1758 to 1761.<ref>{{cite journal|title=Tick Tock, the Tall Case Clock|journal=The Graeme Park Gazette|year=2007|issue=January–March 2007|page=5}}</ref><ref>{{cite web|title=Philadelphia Contributionship|url=http://www.philadelphiabuildings.org/contributionship/|work=Board of Directors Meeting Minutes, 1758–1761|accessdate=March 4, 2013}}</ref>
+
+In the ''Pennsylvania'' Gazette of May 29, 1755, Thomas Stretch appears as one of the largest subscribers (with [[Benjamin Franklin]] and others) to the fund for the Pennsylvania Hospital. The Stretch family and Benjamin Franklin each provided half of the original capital to fund the hospital. The list of subscribers reads:
+
+{|class="wikitable"
+|-
+! Subscriber !! £ !! Shillings
+|-
+| Thomas Stretch || 10 || 0
+|-
+| Joseph Stretch || 5 || 8
+|-
+| Isaac Stretch || 10 || 0
+|-
+| Benjamin Franklin || 25 || 0
+|-
+| Robert Harding || 1 || 7
+|}
+
+[[Thomas Stretch]] and Joseph Stretch were sons of [[Peter Stretch]] (1670–1746) and Margery Hall Stretch (1668–1746). It is likely the reference to Isaac Stretch is to Isaac Stretch (1714–1770), son of Daniel Stretch (1694–1746), another son of Peter and Margery Stretch. The Stretch family were Quakers.
+
+Joseph Stretch, mentioned above, was at this time "His Majesty's Collector of Excise for the City and County of Philadelphia", as may be seen from a notice in the ''Pennsylvania Gazette'' of October 28, 1756; and subsequently, in 1768, he was "His Majesty’s Collector of Customs, etc., for the Port of Philadelphia". Robert Harding was pastor of St. Joseph's Church.<ref>{{cite journal|title=Records of the American Catholic Historical Society of Philadelphia.|issue=Vol III, 1888–1891|pages=196–98}}</ref>
+
+In 1755, the cornerstone was laid for the East Wing of what would become the hospital's permanent location at 8th and Pine Streets.  All of the patients were transferred from the temporary hospital to the permanent hospital on December 17, 1756. The first admission of a new patient occurred on the following day.<ref name="history" /> The site continued to grow through the years with the addition of more wings (such as the West Wing of the building which was built in 1796) and buildings, extra land, and further expansion.
+
+While attending clinics in the Pennsylvania Hospital in November 1869, the first time women students attended the hospital, [[Anna Lukens]] and a Miss Brumall led a line of women students out of the hospital grounds amid hisses, jeers, insults, and thrown stones and mud from male students.<ref name="Willard">{{cite book|author1=Frances Elizabeth Willard|author2=Mary Ashton Rice Livermore|title=American Women: Fifteen Hundred Biographies with Over 1,400 Portraits: A Comprehensive Encyclopedia of the Lives and Achievements of American Women During the Nineteenth Century|url=https://books.google.com/books?id=3nAEAAAAYAAJ&pg=PA477|year=1897|publisher=Mast, Crowell & Kirkpatrick|page=477}}</ref>
+
+Pennsylvania Hospital gained a reputation as a center of innovation and medical advancement, particularly in the area of maternity. It was a [[teaching hospital]] from its very beginning, when Bond would lead rounds through what is now the east wing of the main building. In its early years it was also known for its particularly advanced and humane facilities for [[mentally ill]] patients (at a time when mental illness was very poorly understood and patients were often treated very badly). Care of the mentally ill was removed to [[West Philadelphia]] in 1841 with the construction of the Pennsylvania Hospital for the Insane, later known as [[The Institute of the Pennsylvania Hospital]]. Under superintendent [[Thomas Story Kirkbride]], the hospital developed a treatment philosophy that became the standard for care of the mentally ill in the 19th century.
+
+In 1950, Pennsylvania Hospital was recognized for becoming more highly specialized as it established, in addition to its sophisticated maternity programs, an intensive care unit for [[neurological]] patients, a [[coronary]] care unit, an [[orthopaedic]] institute, a [[diabetes]] center, a [[Hospice care|hospice]], specialized units in [[oncology]] and [[urology]] and broadened surgical programs.
+
+The hospital has served as a center for treating the war wounded. Patients were brought to the hospital for treatment in the [[American Revolutionary War|Revolutionary War]], the [[American Civil War]] and the [[Spanish–American War]], and units from the hospital were sent abroad to treat wounded in [[World War I]] and in [[World War II]] (to the Pacific theater).
+
+The seal of the hospital, chosen by Franklin and Bond, incorporates the story of the [[Good Samaritan]]; the phrase "Take Care of Him and I will repay Thee" is used on it.
+
+In 1997, Pennsylvania Hospital's Board of Managers made the decision to merge with the [[University of Pennsylvania Health System]]. The large health system helps to support the formerly stand-alone hospital with its network of resources.
+
+In 2001, Pennsylvania Hospital celebrated its 250th anniversary.
+
+==Historic firsts==
+===Historic library===
+In 1762, the first book for the hospital's medical library was donated by [[John Fothergill (physician)|John Fothergill]], a British friend of Franklin's.<ref name=1751_1800>{{cite web|url=http://www.uphs.upenn.edu/paharc/timeline/1751/ |title=Pennsylvania Hospital History: Historical Timeline - 1751-1800 |publisher=University of Pennsylvania |accessdate=November 28, 2013}}</ref>  In 1847, the [[American Medical Association]] designated the library as the first, largest, and most important medical library in the [[United States]]. That year, in 1847, the library contained about 9,000 volumes.<ref name=InitiativeBrochure>{{cite web|title=An Initiative|url=http://www.uphs.upenn.edu/paharc/fohc-brochure.pdf|work=The Friends of the Historical Library|publisher=University of Pennsylvania}}</ref>  The collection now contains over 13,000 volumes<ref name=InitiativeBrochure /> dating back to the 15th century—including medical and scientific volumes as well as books on natural history. The library includes the nation's most complete collection of medical books published between 1750 and 1850.<ref name=HistoricLibrary>{{cite web|title=Historic Library|url=http://www.uphs.upenn.edu/paharc/collections/library.html|work=The Historical Library|publisher=University of Pennsylvania}}</ref> The collection also contains several incunabula, books written before 1501, when the printed process was invented.<ref name="pennmedicine.org"/>
+
+===Surgical amphitheatre===
+The top floor of Pennsylvania Hospital is the home of the nation's oldest surgical amphitheatre. The amphitheatre served as the operating room from 1804 through 1868. Surgeries were performed on sunny days between 11:00 am and 2:00 pm since there was no electricity at the time. The surgical amphitheatre seats 180 and with those standing, up to 300 people might be present during any given surgical operation.<ref>[http://www.uphs.upenn.edu/paharc/tour/tour5.html Pennsylvania Hospital: Virtual Tour: Surgical Amphitheatre]</ref>
+
+===Physic garden===
+The Board of Managers first proposed the Physic Garden in 1774 to provide physicians with ingredients for medicines. The idea was approved, but financial circumstances intervened and the project was delayed for two centuries. In 1976, the planting of the garden was the bicentennial project of the Philadelphia Committee of the Garden Club of America and the Friends of Pennsylvania Hospital. Located in front of the Pine Building's West Wing, the garden has plants that were once used for medicines to stimulate the heart, ease toothaches, relieve indigestion, and cleanse wounds in the 18th century.<ref name="pennmedicine.org"/>
+
+===Maternity firsts===
+Pennsylvania Hospital is noted for its many firsts in the area of women's medicine, especially in maternity.  In 1803, the hospital established a "lying-in" (or maternity) department.  This lasted until 1854 when [[obstetrics]] and [[gynecology]] took a 75-year break at the hospital.  The specialties were reinstated in 1929 with the opening of the Woman's Building (now the Spruce Building) which sported 150 adult beds, 80 bassinets, 2 operating rooms, a series of labor and delivery rooms, and outpatient clinics.  It was considered "one of the most modern hospital buildings in the country" especially at a time when women's medicine was not thought to be very important and most births were still done at home.<ref>[http://www.uphs.upenn.edu/paharc/timeline/1901/ History of Pennsylvania Hospital: 1901-1950]</ref> This was followed in 1978 with the first Antenatal Testing Unit (ATU) in the region and in 1985 when the first GIFT ([[Gamete intrafallopian transfer|Gamete IntraFallopian Transfer]]) pregnancy in Philadelphia was achieved at the hospital. In 1987, Pennsylvania Hospital achieved two obstetrical firsts: the first birthing suite in a tertiary care hospital in the state was opened, and the first [[gestational carrier]] and [[egg donor]] programs in the [[Delaware Valley]] were begun to complement the hospital's existing fertility services. In 1995, the hospital was the first in the region to achieve 1,000 live births from [[in-vitro fertilization]], [[Gamete intrafallopian transfer|GIFT]], and other assisted reproductive technologies.<ref>[http://www.uphs.upenn.edu/paharc/timeline/1951/ History of Pennsylvania Hospital: 1950-Today]</ref>
+
+==Famous physicians==
+* [[Benjamin Rush]], on staff from 1783 until 1813, he was a medical teacher, a social reformer, and a signer of the [[United States Declaration of Independence|Declaration of Independence]].<ref name=1751_1800 />
+* [[Philip Syng Physick]], on staff from 1794 until 1816, he achieved fame through his surgical prowess.
+* [[C. Everett Koop]], intern in 1941, Surgeon General of the United States from 1982-1989.  Dr. Koop completed residency training at Pennsylvania hospital.<ref>{{cite news|last=Noble|first=Holcomb B|title=C. Everett Koop, Forceful U.S. Surgeon General, Dies at 96|url=https://www.nytimes.com/2013/02/26/us/c-everett-koop-forceful-surgeon-general-dies-at-96.html?_r=0|newspaper=New York Times|date=February 25, 2013}}</ref>
+* [[Andrew von Eschenbach]], intern, 1963, a director at [[biotechnology]] company BioTime,<ref>{{cite news |title= BioTime, Inc. Appoints Andrew C. von Eschenbach, M.D. to its Board of Directors |url=http://www.businesswire.com/news/home/20111129005721/en/BioTime-Appoints-Andrew-C.-von-Eschenbach-M.D.|work= BusinessWire Press Release |date= November 9, 2011}}</ref> served as the 20th United States [[Commissioner of Food and Drugs|FDA Commissioner]].
+* [[Patricia A. Ford]], on staff since 1996, Director for the Center of Bloodless Medicine, performed the first bloodless stem cell transplant in 1995.
+
+==See also==
+{{Portal|Philadelphia}}
+* [[University of Pennsylvania Health System]]
+* [[Hospital of the University of Pennsylvania]] ("HUP") – A separate hospital also affiliated with the Penn Health System.
+* [[Penn Presbyterian Medical Center]] ("Presby")
+* [[List of National Historic Landmarks in Philadelphia]]
+* [[National Register of Historic Places listings in Center City, Philadelphia]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Graham, Kristen A. ''A History of the Pennsylvania Hospital'' (The History Press, 2008)
+* Morton, Thomas G. and Frank Woodbury. ''The History of the Pennsylvania Hospital, 1751-1895'' (1897). [https://archive.org/details/historypennsylv01pagoog online]
+* Tomes, Nancy. "‘Little World of Our Own’: The Pennsylvania Hospital Training School for Nurses, 1895–1907." ''Journal of the History of Medicine and Allied Sciences'' (1978)  33#4 pp: 507-530.
+* Williams, William H. "The" Industrious Poor" and the Founding of the Pennsylvania Hospital." ''Pennsylvania Magazine of History and Biography'' (1973): 431-443. [https://www.jstor.org/stable/20090788 in JSTOR]
+* Williams, William H. '' America's First Hospital: The Pennsylvania Hospital, 1751-1841''  (1976); 186pp; scholarly history
+
+==External links==
+* [http://www.pennhealth.com/pahosp/ Pennsylvania Hospital, University of Pennsylvania Health System]
+* [http://pennhealth.com/bloodless/about.html Bloodless Medicine & Surgery Center, Pennsylvania Hospital]
+
+{{PennMedicine}}
+{{Benjamin Franklin}}
+{{National Register of Historic Places in Pennsylvania}}
+
+[[Category:Buildings and structures completed in 1756]]
+[[Category:Hospital buildings completed in the 18th century]]
+[[Category:Teaching hospitals in Pennsylvania]]
+[[Category:Hospitals in Philadelphia]]
+[[Category:1752 establishments in Pennsylvania]]
+[[Category:University of Pennsylvania|Health System]]
+[[Category:National Historic Landmarks in Pennsylvania]]
+[[Category:American Civil War hospitals]]
+[[Category:Perelman School of Medicine at the University of Pennsylvania]]
+[[Category:Pennsylvania state historical marker significations]]
+[[Category:Washington Square West, Philadelphia]]
+[[Category:National Register of Historic Places in Philadelphia]]

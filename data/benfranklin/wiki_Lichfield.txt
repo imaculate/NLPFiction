@@ -1,0 +1,489 @@
+{{Other uses}}
+{{Use dmy dates|date=October 2014}}
+{{Use British English|date=August 2012}}
+{{Infobox UK place
+|official_name= Lichfield
+|local_name= City of Lichfield
+|country= England
+|civil_parish= Lichfield
+|region= West Midlands
+|static_image_name= Lichfield Collage.jpg
+|static_image_width=280
+|static_image_caption= From top left: [[Lichfield Cathedral]]; [[Samuel Johnson Birthplace Museum]]; Quonians Lane; [[Lichfield Garrick Theatre|Garrick Theatre]]; Cityscape.
+|static_image_2_name= 
+|static_image_2_width= 75px
+|static_image_2_caption= Coat of arms of Lichfield<br>'''Motto:''' ''Salve, magna parens'' (Hail, great parent)
+|area_footnotes=<ref>{{cite web|url=http://www.lichfield.gov.uk/cc-statistics.ihtml|title=Lichfield City Council - Statistics|date=|publisher=|accessdate=|deadurl=yes|archiveurl=https://web.archive.org/web/20110724162428/http://www.lichfield.gov.uk/cc-statistics.ihtml|archivedate=24 July 2011|df=dmy-all}}</ref>
+|area_total_km2= 14.02
+|population= 32,219
+|population_ref= (2011)<ref name=2011census>{{NOMIS2011|id=1170218382|title=Lichfield Parish|accessdate=14 March 2018}}</ref>|population_density= {{convert|2298|/km2|/sqmi|abbr=on}}
+|os_grid_reference= SK115097
+|coordinates= {{coord|52.6835|-1.82653|display=inline,title}}
+|post_town= LICHFIELD
+|postcode_area= WS
+|postcode_district= WS13, WS14
+|dial_code= 01543
+|constituency_westminster= [[Lichfield (UK Parliament constituency)|Lichfield]]
+|london_distance={{convert|110|mi}} [[Points of the compass|NNW]]
+|shire_district= [[Lichfield District|Lichfield]]
+|shire_county= [[Staffordshire]]
+|website= [http://www.lichfield.gov.uk/ www.lichfield.gov.uk]
+}}
+'''Lichfield''' ({{IPAc-en|ˈ|l|ɪ|tʃ|f|iː|l|d}}) is a [[city status in the United Kingdom|cathedral city]] and [[Civil parishes in England|civil parish]]<ref>{{cite web|url=http://www.ons.gov.uk/about-statistics/geography/products/geog-products-area/names-codes/administrative/index.html |title=Names and codes for Administrative Geography |date=31 December 2008 |publisher=Office for National Statistics |accessdate=15 September 2009 |deadurl=yes |archiveurl=http://webarchive.nationalarchives.gov.uk/20100403045115/http://www.ons.gov.uk/about-statistics/geography/products/geog-products-area/names-codes/administrative/index.html |archivedate=3 April 2010 }}</ref> in [[Staffordshire]], [[England]]. One of eight civil parishes with city status in England, Lichfield is situated roughly {{convert|16|mi|km|abbr=on}} north of [[Birmingham]], {{convert|9|mi|km|0}} from [[Walsall]] and {{convert|13|mi|km|0}} from [[Burton Upon Trent]]. At the time of the 2011 Census the population was estimated at 32,219 and the wider [[Lichfield District]] at 100,700.<ref>{{cite web|url = http://www.ons.gov.uk/ons/interactive/vp2-2011-census-comparator/index.html|title = Office for National Statistics - Census 2011|date = 20 July 2012}}</ref>
+
+Notable for its three-spired medieval [[Lichfield Cathedral|cathedral]], Lichfield was the birthplace of [[Samuel Johnson]], the writer of the first authoritative ''[[A Dictionary of the English Language|Dictionary of the English Language]]''. The city's [[recorded history]] began when [[Chad of Mercia]] arrived to establish his [[Diocese of Lichfield|Bishopric]] in 669&nbsp;AD and the settlement grew as the ecclesiastical centre of [[Mercia]]. In 2009, the [[Staffordshire Hoard]], the largest hoard of [[Anglo-Saxons|Anglo-Saxon]] gold and silver metalwork, was found {{convert|5.9|km|mi|abbr=on}} south-west of Lichfield.
+
+The development of the city was consolidated in the 12th century under [[Roger de Clinton]], who fortified the [[Cathedral Close, Lichfield|Cathedral Close]] and also laid out the town with the ladder-shaped street pattern that survives to this day. Lichfield's heyday was in the 18th century, when it developed into a thriving coaching city. This was a period of great intellectual activity, the city being the home of many famous people including Samuel Johnson, [[David Garrick]], [[Erasmus Darwin]] and [[Anna Seward]], and prompted Johnson's remark that Lichfield was "a city of philosophers".
+
+Today, the city still retains its old importance as an ecclesiastical centre, and its industrial and commercial development has been limited. The centre of the city has over 230 [[Listed buildings in Lichfield|listed buildings]] (including many examples of [[Georgian architecture]]), and preserves much of its historic character.
+
+== Etymology ==
+The origin of the modern name "Lichfield" is twofold. At [[Wall, Staffordshire|Wall]], {{convert|3.5|km|mi|abbr=on}} south of the current city, there was a [[Romano-British culture|Romano-British]] village, [[Letocetum]], a [[Common Brittonic]] place name meaning "Greywood", "grey" perhaps referring to varieties of tree prominent in the landscape such as ash and elm.<ref>{{cite book|title=Lichfield: The place and street names, population and boundaries ', A History of the County of Stafford: Volume 14: Lichfield|year=1990|pages=37–42|url=http://www.british-history.ac.uk/report.aspx?compid=42340}}</ref><ref>{{cite web |url=http://kepn.nottingham.ac.uk/map/place/Staffordshire/Lichfield |title=Lichfield |work=Key to English Place Names |publisher=Institute for Name Studies, [[University of Nottingham]] |accessdate=12 May 2012 |archive-url=https://web.archive.org/web/20160304063744/http://kepn.nottingham.ac.uk/map/place/Staffordshire/Lichfield |archive-date=4 March 2016 |dead-url=yes |df=dmy-all }}</ref> This passed into [[Old English]] as ''Lyccid'',<ref name=Delamarre>{{cite book|last=Delamarre|first=Xavier|title=Noms de lieux celtiques de l'europe ancienne (-500/+500): Dictionnaire|year=2012|publisher=Éditions Errance|location=Arles, France|isbn=978-2-87772-483-8|page=175}}</ref> cf. {{lang-owl|Luitcoyt}},<ref name=Sims>{{cite book|title=Britain 400–600: Language and History|year=1990|publisher=Carl Winter Universitätsverlag|location=Heidelberg|isbn=3-533-04271-5|page=260|author=Patrick Sims-Williams|authorlink=Dating the Transition to Neo-Brittonic: Phonology and History, 400-600|editor=Alfred Bammesberger|chapter=2}}</ref>  to which was appended {{lang-ang|feld}} "open country". This word {{lang|ang|Lyccidfeld}} is the origin of the word "Lichfield".<ref name=Delamarre />
+
+Popular etymology has it that a thousand Christians were martyred in Lichfield around AD 300 during the reign of [[Diocletian]] and that the name Lichfield actually means "field of the dead" (see ''[[lich]]''). There is no evidence to support this legend, as with many [[Folk etymology|folk etymologies]].<ref>{{cite web |url=http://www.british-history.ac.uk/report.aspx?compid=42340|title=Explaining the origin of the 'field of the dead' legend |publisher= British History Online |accessdate=20 November 2008}}</ref>
+
+== History ==
+
+=== Prehistory and antiquity ===
+{{Main|Letocetum}}
+The earliest evidence of settlement is [[Mesolithic]] flints discovered on the high ground of the cemetery at [[St Michael on Greenhill, Lichfield|St Michael on Greenhill]], which may indicate an early flint industry. Traces of [[Neolithic]] settlement have been discovered on the south side of the sandstone ridge occupied by [[Lichfield Cathedral]].<ref name=staf>{{Citation | last =Greenslade | first =M.W. | authorlink = | title =A History of the County of Stafford: Volume XIV: Lichfield|edition= | publisher = Victoria County History| year =1990 | location = | page = | isbn =978-0-19-722778-7  }}</ref>
+
+{{convert|2.2|mi|km|abbr=on}} south-west of Lichfield, near the point where [[Icknield Street]] crosses [[Watling Street]], was the site of Letocetum (the [[Common Brittonic|Brittonic]] *Lētocaiton, "Greywood"). Established in AD 50 as a [[Roman Empire|Roman]] military fortress, it had become a civilian settlement ([[vicus]]) with a bath house and a [[mansio]] by the 2nd century.<ref name=staf/> Letocetum fell into decline by the 4th century and the Romans had left by the 5th century. There have been scattered Romano-British finds in Lichfield and it is possible that a burial discovered beneath the cathedral in 1751 was Romano-British.<ref name=staf/> There is no evidence of what happened to Letocetum after the Romans left; however, Lichfield may have emerged as the inhabitants of Letocetum relocated during its decline. A {{nowrap|Cair Luit Coyd}} ("[[Caer|Fort]] Greywood") was listed by [[Nennius]] among the 28 cities of [[Sub-Roman Britain|Britain]] in his ''[[Historia Brittonum]]'',<ref>[[Nennius]] ({{abbr|attrib.|Traditional attribution}}). [[Theodor Mommsen]] ({{abbr|ed.|Editor}}). [[s:la:Historia Brittonum#VI. CIVITATES BRITANNIAE|''Historia Brittonum'', VI.]] Composed after {{sc|ad}}&nbsp;830. {{la icon}} Hosted at [[s:la:Main Page|Latin Wikisource]].</ref> although these were largely historic remembrances of early [[Sub-Roman Britain]].
+
+=== Middle Ages ===
+[[File:LichCathedral4.jpg|thumbnail|200px|left|The three-spired [[Lichfield Cathedral]] was built between 1195 and 1249.]]
+The early history of Lichfield is obscure. The first authentic record of Lichfield occurs in [[Bede]]'s history, where it is called ''Licidfelth'' and mentioned as the place where [[Chad of Mercia|St Chad]] fixed the [[episcopal see]] of the Mercians in 669. The first [[Christians|Christian]] king of [[Mercia]], [[Wulfhere of Mercia|Wulfhere]], donated land at Lichfield for St Chad to build a monastery. It was because of this that the ecclesiastical centre of Mercia became settled as the [[Diocese of Lichfield]], which was approximately {{convert|7|mi|km|0}} northwest of the seat of the Mercian kings at [[Tamworth, Staffordshire|Tamworth]].
+
+In July 2009, the [[Staffordshire Hoard]], the largest collection of [[Anglo-Saxon]] gold ever found,  was discovered in a field in the parish of [[Hammerwich]], {{convert|4|mi|km|1|abbr=on}} south-west of Lichfield; it was probably deposited in the 7th century.
+
+The first cathedral was built on the present site in 700 when Bishop [[Hædde]] built a new church to house the bones of St Chad, which had become the centre of a sacred shrine to many pilgrims when he died in 672. The burial in the cathedral of the kings of Mercia, Wulfhere in 674 and [[Ceolred of Mercia|Ceolred]] in 716, further increased the city's prestige.<ref name="british-history.ac.uk">From: 'Lichfield: History to c.1500', A History of the County of Stafford: Volume 14: Lichfield (1990), pp. 4–14. URL: http://www.british-history.ac.uk/report.aspx?compid=42336 Date accessed: 24 July 2009.</ref>  In 786 King [[Offa of Mercia|Offa]] made the city an archbishopric with authority over all the bishops from the [[Humber]] to the [[River Thames]]; his appointee was Archbishop [[Hygeberht]]. After King Offa's death in 796, Lichfield's power waned; in 803 the primacy was restored to Canterbury by [[Pope Leo III]] after only 16 years.
+
+The ''[[Historia Brittonum]]'' lists the city as one of the 28 cities of Britain around AD 833.
+
+During the 9th century, Mercia was devastated by Danish [[Vikings]]. Lichfield itself was unwalled and the cathedral was despoiled, so [[Peter of Lichfield|Bishop Peter]] moved the see to the fortified and wealthier [[Chester]] in 1075. At the time of the [[Domesday Book]] survey (1086), Lichfield was held by the [[bishop of Chester]]; Lichfield was listed as a small village. The lord of the manor was the Bishop of Chester until the reign of [[Edward VI of England|Edward VI]].[[File:Staffordshire hoard annotated.jpg|thumb|right|The [[Staffordshire Hoard]] was discovered in a field near Lichfield]] In 1102 Bishop Peter's successor, [[Robert de Limesey]], transferred the see from Chester to Coventry. The Bishop of Coventry and Lichfield had seats in both locations; work on the present Gothic cathedral at Lichfield began in 1195. (In 1837 the see of Lichfield acquired independent status, and the style 'Bishop of Lichfield' was adopted.)
+
+Bishop [[Roger de Clinton]] was responsible for transforming the scattered settlements to the south of Minster Pool into the ladder-plan streets existing today. Market Street, Wade Street, Bore Street and Frog Lane linked Dam Street, Conduit Street and Bakers Lane on one side with Bird Street and St John Street on the other. Bishop de Clinton also fortified the cathedral close and enclosed the town with a bank and ditch, and gates were set up where roads into the town crossed the ditch.<ref name="british-history.ac.uk"/> In 1291 Lichfield was severely damaged by a fire which destroyed most of the town; however the Cathedral and Close survived unscathed.<ref>{{cite web |url=http://www.localhistories.org/lichfield.html|title=Brief History of Lichfield |publisher= Local Histories|accessdate=20 November 2008}}</ref>
+
+In 1387 [[Richard II of England|Richard II]] gave a charter for the foundation of the guild of St Mary and St John the Baptist; this guild functioned as the local government, until its dissolution by [[Edward VI of England|Edward VI]], who incorporated the town in 1548.
+
+=== Early Modern ===
+[[File:John Snape Lichfield Plan.jpg|thumb|left|Map of Lichfield in 1781]]
+The policies of [[Henry VIII of England|Henry VIII]] had a dramatic effect on Lichfield. The [[English Reformation|Reformation]] brought the disappearance of pilgrim traffic following the destruction of St Chad's shrine in 1538, which was a major loss to the city's economic prosperity. That year too the [[The Franciscan Friary, Lichfield|Franciscan Friary]] was dissolved, the site becoming a private estate. Further economic decline followed the outbreak of [[Black Death|plague]] in 1593, which resulted in the death of over a third of the entire population.<ref>{{cite web |url=http://www.british-history.ac.uk/report.aspx?compid=42337|title='Lichfield: From the Reformation to c.1800', A History of the County of Stafford: Volume 14: Lichfield (1990), pp. 14-24. |publisher= British History Online |accessdate=22 November 2008}}</ref>
+
+Three people were burned at the stake for [[heresy]] under Mary I. The last public burning at the stake in England took place in Lichfield, when [[Edward Wightman]] from [[Burton upon Trent]] was [[Execution by burning|executed by burning]] in the Market Place on 11 April 1612 for promoting himself as the divine [[Paraclete]] and Saviour of the world.<ref>[[s:Page:Dictionary of National Biography volume 61.djvu/201|Wikisource: ''Dictionary of National Biography'']]</ref><ref>[https://books.google.com/books?id=9AxAAAAAYAAJ&pg=PT379&lpg=PT379&dq=%22Edward+Wightman%22+treason&source=bl&ots=4iNNPt1Fb1&sig=rhZEDpVPZoGMvaYAwawtyuf5nFg&hl=en&ei=K5txTIvhMcKB8gaQzsCtDQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBYQ6AEwAA#v=onepage&q=%22Edward%20Wightman%22%20treason&f=false Cobbett's complete collection of state trials and proceedings], 735–736.</ref>
+[[File:Dr-Johnson.jpg|thumbnail|upright|200px|[[Samuel Johnson]] was born in Breadmarket Street in 1709]]
+[[File:Samuel Johnson Statue.jpg|thumb|200px|Statue of [[Dr. Johnson]] in Lichfield's Market Square<br>"The Doctor's statue, which is of some inexpensive composite painted a shiny brown, and of no great merit of design, fills out the vacant dulness of the little square in much the same way as his massive personality occupies—with just a margin for [[David Garrick|Garrick]]—the record of his native town."—[[Henry James]], ''Lichfield and Warwick'', 1872]]
+[[File:Cockle Lucas Johnson.jpg|thumb|200px|Photograph by [[Richard Cockle Lucas]] (sculptor) of Johnson statue taken in 1859]]
+
+In the [[English Civil War]], Lichfield was divided. The cathedral authorities, supported by some of the townsfolk, were for the king, but the townsfolk generally sided with the Parliament. This led to the fortification of the close in 1643. Lichfield's position as a focus of supply routes had an important strategic significance during the war, and both forces were anxious for control of the city. The Parliamentary commander [[Robert Greville, 2nd Baron Brooke|Lord Brooke]] led an assault on the fortified close, but was killed by a deflected bullet on St Chad's day in 1643, an accident welcomed as a miracle by the Royalists. The close subsequently yielded to the Parliamentarians, but was retaken by [[Prince Rupert of the Rhine]] in the same year; on the collapse of the Royalist cause in 1646 it again surrendered. The cathedral suffered extensive damage from the war, including the complete destruction of the central spire. It was restored at the Restoration under the supervision of [[John Hacket|Bishop Hacket]], and thanks in part to the generosity of [[King Charles II of England|King Charles II]].
+
+Lichfield started to develop a lively coaching trade as a stop-off on the busy route between London and [[Chester]] from the 1650s onwards, making it Staffordshire's most prosperous town. In the 18th century, and then reaching its peak in the period from 1800—1840, the city thrived as a busy coaching city on the main routes from London to the north-west and Birmingham to the north-east. It also became a centre of great intellectual activity, being the home of many famous people including [[Samuel Johnson]], [[David Garrick]], [[Erasmus Darwin]] and [[Anna Seward]]; this prompted Johnson's remark that Lichfield was "a city of philosophers". In the 1720s [[Daniel Defoe]] described Lichfield as 'a fine, neat, well-built, and indifferent large city', the principal town in the region after Chester.<ref name="From 1990 pp. 14-24">From: 'Lichfield: From the Reformation to c.1800', A History of the County of Stafford: Volume 14: Lichfield (1990), pp. 14-24. URL: http://www.british-history.ac.uk/report.aspx?compid=42337 Date accessed: 24 July 2009.</ref>  During the late 18th and early 19th century much of the medieval city was rebuilt with the red-brick [[Georgian architecture|Georgian style]] buildings still to be seen today. Also during this time, the city's infrastructure underwent great improvements, with underground sewerage systems, paved streets and gas-powered street lighting.<ref name=clay>{{Citation | last =Clayton | first =Howard | authorlink = | title =Coaching City|edition= | publisher = Abbotsford Publishing| year =1981 | location = | page = | isbn =978-0-9503563-1-0}}</ref> An infantry regiment of the [[British Army]] was formed at Lichfield in 1705 by Col. [[Luke Lillingstone]] in the King's Head tavern in Bird Street. In 1751 it became the 38th Regiment of Foot, and in 1783 the 1st [[Staffordshire Regiment]]; after reorganisation in 1881 it became the 1st battalion of the [[South Staffordshire Regiment]].<ref name="From 1990 pp. 14-24"/>
+
+=== Late Modern and contemporary ===
+
+The arrival of the [[Industrial Revolution]] and the railways in 1837 signalled the end of Lichfield's position as an important staging post for coaching traffic. While nearby Birmingham (and its population) expanded greatly during the Industrial Revolution, Lichfield remained largely unchanged in character.
+
+The first council houses were built in the Dimbles area of the city in the 1930s. The outbreak of [[World War II]] brought over 2,000 [[Evacuations of civilians in Britain during World War II|evacuees]] from industrialised areas. However, due to the lack of heavy industry in the city, Lichfield escaped lightly, although there were [[strategic bombing|air raids]] in 1940 and 1941 and three Lichfeldians were killed. Just outside the city, [[Wellington Bomber]]s flew out of Fradley Aerodrome, which was known as [[RAF Lichfield]]. After the war the council built many new houses in the 1960s, including some high-rise flats, while the late 1970s and early 1980s saw the construction of a large housing estate at Boley Park in the south-east of the city. The city's population tripled between 1951 and the late 1980s.
+
+The city has continued expanding to the west. The Darwin Park housing estate has been under development for a number of years and has swelled the city's population by approximately 3,000. Plans have been approved for Friarsgate, a new £100 million shopping and leisure complex opposite [[Lichfield City Station]]. The police station, bus station, Ford garage and multi-storey car park will be demolished to make way for 22,000 m<sup>2</sup> of retail space and 2,000 m<sup>2</sup> of leisure facilities, consisting of a flagship department store, six-screen cinema, hotel, 37 individual shops and 56 flats.<ref name=ldcfp>{{Citation| url = http://www.lichfielddc.gov.uk/site/scripts/documents_info.php?documentID=1328| title = Lichfield District Council:Friarsgate Plans| accessdate = 26 January 2011| publisher = | archive-url = https://web.archive.org/web/20110928030819/http://www.lichfielddc.gov.uk/site/scripts/documents_info.php?documentID=1328| archive-date = 28 September 2011| dead-url = yes| df = dmy-all}}</ref>
+
+== Governance ==
+
+=== Local government ===
+Historically the [[Bishop of Lichfield]] had authority over the city. It was not until 1548, with Edward VI's charter, that Lichfield had any form of secular government. As a reward for the support given to Mary I by the bailiffs and citizens during the Duke of Northumberland's attempt to prevent her accession, the Queen issued a new charter in 1553, confirming the 1548 charter and in addition granting the city its own Sheriff. The same charter made Lichfield a county separate from the rest of [[Staffordshire]]. It remained so until 1888.
+
+The City Council (not to be confused with [[Lichfield District Council]], which has authority over a wider area than Lichfield city) has 28 members (from the 7 wards of Boley Park, Chadsmead, Curborough, Leamonsley, St John's, Pentire Road and Stowe), who are elected every four years. After the 2015 parish council elections, the [[Conservative Party (UK)|Conservatives]] remained in overall control, with the 28 seats being divided between the Conservatives (26), [[Labour Party (UK)|Labour]] (1) and [[Liberal Democrats (UK)|the Liberal Democrats]] (1). The [[Worship (style)|Right Worshipful]] the [[Mayor]] of Lichfield (currently [[Councillor]] David Leytham <ref>http://www.lichfieldmercury.co.uk/new-mayor-and-sheriff-of-lichfield-sworn-in/story-30334895-detail/story.html{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>) is the civic head of the Council<ref name="lichfield.gov.uk">{{cite web |url=http://www.lichfield.gov.uk/cc-structure.ihtml |title=Archived copy |accessdate=2012-06-22 |deadurl=yes |archiveurl=https://web.archive.org/web/20120715073152/http://www.lichfield.gov.uk/cc-structure.ihtml |archivedate=15 July 2012 |df=dmy-all }}</ref> and chairs Council meetings. The Council also appoints a Leader of Council to be the main person responsible for leadership of the Council's political and policy matters. The Council's current Leader is [[Councillor]] Bernard Cocksey. Lichfield is one of only 15 towns and cities in England and Wales which appoints a [[High Sheriff|Sheriff]].<ref>{{cite web |url=http://www.lichfield.gov.uk/cc.ihtml |title=Lichfield City Council Functions |publisher=Lichfield.gov.uk |date= |accessdate=17 July 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100423113052/http://www.lichfield.gov.uk/cc.ihtml |archivedate=23 April 2010 |df=dmy-all }}</ref>
+
+=== Members of Parliament ===
+
+The [[Lichfield (UK Parliament constituency)|Lichfield constituency]] sent two members to the parliament of 1304 and to a few succeeding parliaments, but the representation did not become regular until 1552; in 1867 it lost one member, and in 1885 its representation was merged into that of the county.<ref name="From 1990 pp. 14-24"/> The Lichfield constituency was abolished in 1950 and replaced with the [[Lichfield and Tamworth (UK Parliament constituency)|Lichfield and Tamworth constituency]]. This constituency lasted until 1983, when it was replaced with the [[Mid Staffordshire (UK Parliament constituency)|Mid Staffordshire constituency]].
+
+Based on the resident's location in Lichfield, there are technically two MPs. The current Member of Parliament for Lichfield centre is the Conservative [[Michael Fabricant]], who has been MP for Lichfield since 1997. Fabricant was first elected for the [[Mid Staffordshire (UK Parliament constituency)|Mid Staffordshire constituency]] in [[United Kingdom general election, 1992|1992]], regaining the seat for the Conservatives following [[Sylvia Heal]]'s victory for [[Labour Party (UK)|Labour]] at the [[Mid Staffordshire by-election, 1990|1990 by-election]]. Fabricant took the seat with a majority of 6,236 and has remained a Member of Parliament since. The Mid Staffordshire seat was abolished at the [[United Kingdom general election, 1997|1997 general election]], but Fabricant contested and won the Lichfield constituency, which partially replaced it, by just 238 votes. He has remained the Lichfield MP since, increasing his majority to 4,426 in [[United Kingdom general election, 2001|2001]], 7,080 in [[United Kingdom general election, 2005|2005]], 17,683 in [[United Kingdom general election, 2010|2010]] and 18,189 in 2015.
+
+Christopher Pincher is current Member of Parliament for Tamworth and areas of Lichfield (see https://web.archive.org/web/20180824194404/http://christopherpincher.com/in-your-area/map) and was elected as the Conservative Member in May 2010, and was re-elected in May 2015 with a majority of 11,302.
+
+==Geography==
+
+Lichfield covers an area of approximately {{convert|5.41|sqmi|km2|abbr=on}} in the south-east of the county of Staffordshire in the West Midlands region of England. It is approximately {{convert|25|km|mi|abbr=on}} north of Birmingham and {{convert|200|km|mi|abbr=on}} north-west of London. The city is located between the high ground of [[Cannock Chase]] to the west and the valleys of the Rivers [[River Trent|Trent]] and [[River Tame, West Midlands|Tame]] to the east. It is underlain by red [[sandstone]], deposited during the arid desert conditions of the [[Triassic]] period. [[Keuper marl|Mercia Mudstone]] underlies the north and north-eastern edges of the city towards [[Curborough and Elmhurst|Elmhurst and Curborough]]. The red sandstone underlying the majority of Lichfield is present in many of its ancient buildings, including Lichfield Cathedral and the [[The Church of St Chad, Lichfield|Church of St Chad]].<ref name=bgs>{{Citation|url=http://maps.bgs.ac.uk/geologyviewer_google/googleviewer.html |title=British Geological Survey:Geology of Britain viewer |accessdate=20 January 2011 |publisher= |deadurl=yes |archiveurl=https://web.archive.org/web/20110727004018/http://maps.bgs.ac.uk/geologyviewer_google/googleviewer.html |archivedate=27 July 2011 |df= }}</ref>
+
+The ground within the city slopes down from 116m in the north-west to 86m on the sandstone shelf where Lichfield Cathedral stands. To the south and east of the city centre is a ridge which reaches 103 m at [[St Michael on Greenhill, Lichfield|St Michael on Greenhill]]. Boley Park lies on top of a ridge with its highest point on Borrowcop Hill at 113m. To the south-east the level drops to 69 m where Tamworth Road crosses the city boundary into Freeford. There is another high ridge south-west of the city where there are two high points, one at Berry Hill Farm at 123 m and the other on Harehurst Hill near the city boundary at Aldershawe where the level reaches 134 m.<ref name=osmap>{{Citation | url = http://www.bing.com/maps/?FORM=MUKMMP&PUBL=Google&mkt=en-GB&crea=userid2508go2d31d19252d0b114ed487e8ed62ff0c8#JnE9LndzMTQrOWVqJTdlc3N0LjAlN2VwZy4xJmJiPTU2LjY0NzIyMTE5MTgxODYlN2UxMC4xNzMzMzk4NDM3NSU3ZTQ1LjcyNTQyNDg5MzQ3NzYlN2UtMTAuMTczMzM5ODQzNzU= | title = Ordnance Survey Map:Lichfield| accessdate = 20 January 2011| publisher = }}</ref>
+
+The city is built on the two sides of a shallow valley, into which flow two streams from the west, the Trunkfield Brook and the Leamonsley Brook, and out of which the Curborough Brook runs to the north-east, eventually flowing into the [[River Trent]]. The two streams have been dammed south of the cathedral on Dam Street to form [[Minster Pool]] and near St Chad's Road to form [[Stowe Pool]].
+{{wide image|Lichfield Panorama.jpg|800px|Panorama of the city, taken from [[Lichfield Cathedral]] central spire}}
+{{wide image|Lichfield Harehurst Hill 2.jpg|800px|Panorama from Harehurst Hill {{convert|1.5|mi|km|1|abbr=on}} south west of the cathedral, showing Lichfield's distinctive 5 spires }}
+
+=== Suburbs ===
+<!-- {{GBdot|Lichfield}}
+{{gbmapping|}}-->
+{{Div col|colwidth=25em}}
+* Boley Park
+* Chadsmead
+* Christ Church
+* Darwin Park
+* The Dimbles
+* Leomansley
+* Nether Stowe
+* Sandfields
+* Stowe
+* Streethay
+* Trent Valley
+{{Div col end}}
+
+== Demography ==
+
+At the time of the 2011 census, the population of the City of Lichfield was 32,219. Lichfield is 96.5% white and 66.5% Christian. 51% of the population over 16 were married. 64% were employed and 21% of the people were retired. All of these figures were higher than the national average.<ref>{{cite web |url=http://www.lichfield.gov.uk/cc-statistics.ihtml |title=Statistics |publisher=Lichfield |date= |accessdate=17 July 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110724162428/http://www.lichfield.gov.uk/cc-statistics.ihtml |archivedate=24 July 2011 |df=dmy-all }}</ref>
+
+{| class="wikitable" style="font-size:90%; width:70%; border:0; text-align:center; line-height:120%;"
+! colspan="22" style="text-align:center;font-size:90%;"|[[Population growth]] of the City of Lichfield since 1685
+|-
+!  style="background:#9cc; color:navy; height:17px;"| Year
+! style="background:#fff; color:navy;"| 1685
+! style="background:#fff; color:navy;"| 1781
+! style="background:#fff; color:navy;"| 1801
+! style="background:#fff; color:navy;"| 1831
+! style="background:#fff; color:navy;"| 1901
+! style="background:#fff; color:navy;"| 1911
+! style="background:#fff; color:navy;"| 1921
+! style="background:#fff; color:navy;"| 1931
+! style="background:#fff; color:navy;"| 1951
+! style="background:#fff; color:navy;"| 1961
+! style="background:#fff; color:navy;"| 1971
+! style="background:#fff; color:navy;"| 1981
+! style="background:#fff; color:navy;"| 1991
+! style="background:#fff; color:navy;"| 2001
+! style="background:#fff; color:navy;"| 2011
+|- style="text-align:center;"
+!  style="background:#9cc; color:navy; height:17px;"| Population
+| style="background:#fff; color:black;"| 3,040
+| style="background:#fff; color:black;"| 3,555
+| style="background:#fff; color:black;"| 4,840
+| style="background:#fff; color:black;"| 6,252
+| style="background:#fff; color:black;"| 7,900
+| style="background:#fff; color:black;"| 8,616
+| style="background:#fff; color:black;"| 8,393
+| style="background:#fff; color:black;"| 8,507
+| style="background:#fff; color:black;"| 10,260
+| style="background:#fff; color:black;"| 14,090
+| style="background:#fff; color:black;"| 22,660
+| style="background:#fff; color:black;"| 25,400
+| style="background:#fff; color:black;"| 28,666
+| style="background:#fff; color:black;"| 27,900
+| style="background:#fff; color:black;"| 32,219
+|- style="text-align:center;"
+!  style="background:#9cc; color:navy; height:17px;"| %±
+| style="background:#fff; color:black;"| -
+| style="background:#fff; color:black;"| 16.9%
+| style="background:#fff; color:black;"| 36.1%
+| style="background:#fff; color:black;"| 29.2%
+| style="background:#fff; color:black;"| 26.4%
+| style="background:#fff; color:black;"| 9.1%
+| style="background:#fff; color:black;"| -2.6%
+| style="background:#fff; color:black;"| 1.35%
+| style="background:#fff; color:black;"| 19.1%
+| style="background:#fff; color:black;"| 37.3%
+| style="background:#fff; color:black;"| 60.8%
+| style="background:#fff; color:black;"| 12.1%
+| style="background:#fff; color:black;"| 12.9%
+| style="background:#fff; color:black;"| -2.7%
+| style="background:#fff; color:black;"| 15.5%
+|- style="text-align:center;"
+|}
+
+== Economy ==
+[[File:tudorcafe.jpg|thumb|The Tudor Café in Bore Street was built in 1510]]
+Lichfield's wealth grew along with its importance as an ecclesiastical centre. The original settlement prospered as the place where pilgrims gathered to worship at the shrine of St Chad: this practice continued until the [[English Reformation|Reformation]], when the shrine was destroyed.
+
+In the Middle Ages, the main industry in Lichfield was making woollen cloth; there was also a leather industry. Much of the surrounding area was open pasture, and there were many surrounding farms.
+
+In the 18th century, Lichfield became a busy coaching centre. Inns and hostelries grew up to provide accommodation, and industries dependent on the coaching trade such as coach builders, corn and hay merchants, saddlers and tanneries began to thrive. The main source of wealth to the city came from the money generated by its many visitors. The invention of the railways saw a decline in coach travel, and with it came the decline in Lichfield's prosperity.
+
+By the end of the 19th century, [[brewing]] was the principal industry, and in the neighbourhood were large market gardens which provided food for the growing populations of nearby Birmingham and the [[Black Country]].
+
+Today there are a number of light industrial areas, predominantly in the east of the city, not dominated by any one particular industry. The district is famous for two local manufacturers: [[Armitage Shanks]], makers of baths/bidets and showers, and [[Arthur Price|Arthur Price of England]], master cutlers and silversmiths.  Many residents commute to Birmingham.
+
+Lichfield City Council has predicted that, once completed, the new Friarsgate retail and leisure development could attract 11,000 more visitors to the city every month, generating annual sales of around £61 million and creating hundreds of jobs in the city.<ref>{{cite web |url=http://iclichfield.icnetwork.co.uk/news/localnews//tm_headline=credit-squeeze-delays-friarsgate&method=full&objectid=22250839&siteid=108911-name_page.html|title=Economic benefits of new development to Lichfield |publisher= icLichfield |accessdate=20 November 2008}}</ref>
+
+The city is home to [[Central England Co-operative]] (and its predecessor [[Midlands Co-operative Society]]), the second largest independent consumer co-operative in the UK.
+
+==Culture and community==
+[[File:Lichfield Garrick Theatre.jpg|thumb|[[Lichfield Garrick Theatre]] was built in 2003]]
+
+===Culture===
+The [[Lichfield Bower|Lichfield Greenhill Bower]] takes place annually on [[Spring Bank Holiday]]. Originating from a celebration that was held after the [[Court of Arraye]] in the 12th century, the festival has evolved into its modern form, but has kept many of its ancient traditions.<ref name=bower>{{Citation| url = http://www.lichfieldbower.co.uk/the-bower-and-it-s-origins/| title = Lichfield Bower: The Bower & Its Origins| accessdate = 28 January 2011| publisher = | deadurl = yes| archiveurl = https://web.archive.org/web/20100625013319/http://www.lichfieldbower.co.uk/the-bower-and-it-s-origins/| archivedate = 25 June 2010| df = dmy-all}}</ref> After a recreation of the Court of Arraye at the [[Guildhall, Lichfield|Guildhall]], a procession of marching bands, [[Morris dance|morris men]] and carnival floats makes its way through the city and the Bower Queen is crowned outside the Guildhall. There is a funfair in the city centre, and another fair and jamboree in [[Beacon Park]].<ref name=bower/>
+
+[[The Lichfield Festival]], an international arts festival, has taken place every July for 30 years. The festival is a celebration of classical music, dance, drama, film, jazz, literature, poetry, visual arts and world music. Events take place at many venues around the city but centre on [[Lichfield Cathedral]] and the [[Lichfield Garrick Theatre|Garrick Theatre]]. Popular events include the medieval market in the Cathedral Close and the fireworks display which closes the festival.<ref name=lichfest>{{Citation| url = http://www.lichfieldfestival.org/about-us/| title = Lichfield Festival: About Us| accessdate = 28 January 2011| publisher = | deadurl = yes| archiveurl = https://web.archive.org/web/20101112144506/http://www.lichfieldfestival.org/about-us/| archivedate = 12 November 2010| df = dmy-all}}</ref>
+
+Triennially the Lichfield [[Mystery Play|Mysteries]], the biggest community theatre event in the country, takes place at the Cathedral and in the Market Place. It consists of a [[play cycle|cycle]] of 24 medieval-style plays involving over 600 amateur actors.<ref name=lichmyst>{{Citation | url = http://www.lichfieldmysteries.co.uk/ | title = Lichfield Mysteries: Home Page| accessdate = 28 January 2011| publisher = }}</ref> Other weekend summer festivals include the Lichfield [[Folk festival|Folk Festival]]<ref name=lichfolk>{{Citation| url = http://www.lichfieldfolkfestival.co.uk/minisite/minisite_home.aspx| title = Lichfield Folk Festival| accessdate = 28 January 2011| publisher = | deadurl = yes| archiveurl = https://web.archive.org/web/20110723094630/http://www.lichfieldfolkfestival.co.uk/minisite/minisite_home.aspx| archivedate = 23 July 2011| df = dmy-all}}</ref> and The Lichfield [[Cask ale|Real Ale]], Jazz and Blues Festival.<ref name=lichale>{{Citation| url = http://www.lichfieldarts.org.uk/rajb.asp| title = Lichfield Arts: What's On| accessdate = 28 January 2011| publisher = | deadurl = yes| archiveurl = https://web.archive.org/web/20110222024612/http://www.lichfieldarts.org.uk/rajb.asp| archivedate = 22 February 2011| df = dmy-all}}</ref>
+
+Lichfield Heritage Weekend, incorporating [[Samuel Johnson|Dr Johnson’s]] Birthday Celebrations, takes place on the third weekend in September with a variety of civic events including live music and free historical tours of local landmarks.
+
+===Community facilities===
+[[File:Beacon Park.jpg|thumb|[[Beacon Park]], in the city centre, hosts a wide range of community events.]]
+There are many parks, gardens and open spaces in the city. The city centre park is [[Beacon Park]], which hosts a range of community events and activities throughout the year. Also in the city centre are two lakes, [[Minster Pool]] and [[Stowe Pool]]. The Garden of Remembrance, a memorial garden laid out in 1920 after [[World War I]], is located on Bird Street. Many other parks are located on the outskirts of the city: these include Brownsfield Park, Darnford Park, Shortbutts Park, Stychbrook Park, Saddlers Wood and Christian Fields.<ref name=sssi>{{Citation| url = http://www.lichfielddc.gov.uk/site/scripts/documents.php?categoryID=200145| title = Lichfield District Council: Lichfield's Parks| accessdate = 28 January 2011| publisher = | archive-url = https://web.archive.org/web/20110928030847/http://www.lichfielddc.gov.uk/site/scripts/documents.php?categoryID=200145| archive-date = 28 September 2011| dead-url = yes| df = dmy-all}}</ref>
+
+There are two public sports and leisure facilities in the city. Friary Grange Leisure Centre in the north-west of the city offers racket sports, a swimming pool, and sports hall and fitness gym. King Edward VI Leisure Centre in the south of the city offers racket sports, a sports hall and an [[artificial turf]] pitch.
+
+Lichfield Library and Record Office is located on the corner of St John Street and The Friary. The building also includes an adult education centre and a small art gallery. The library has occupied this building since 1989, when it moved from the Lichfield Free Library and Museum on Bird Street.
+
+The city is served by the Samuel Johnson Community Hospital located on Trent Valley Road. This hospital replaced the now-demolished Victoria Hospital in 2006.
+
+== Places of interest ==
+[[File:Hospital of St Johns.jpg|thumb|The [[Hospital of St John Baptist without the Barrs]] built in 1495 as an [[almshouse]].]]
+[[File:The entrance to Cathedral Close, Lichfield, with Lichfield Cathedral in the background.jpg|thumb|The entrance to Cathedral Close at night, with Lichfield Cathedral in the background]]
+*[[Lichfield Cathedral]] - The only medieval cathedral in Europe with three spires. The present building was started in 1195, and completed by the building of the Lady Chapel in the 1330s. It replaced a Norman building begun in 1085 which had replaced one, or possibly two, Saxon buildings from the seventh century.
+*[[Cathedral Close, Lichfield|Cathedral Close]] - Surrounding the Cathedral, the close contains many buildings of architectural interest.
+*[[Samuel Johnson Birthplace Museum]] - A museum to Samuel Johnson's life, work and personality.
+*[[Erasmus Darwin House]] - Home to Erasmus Darwin, the house was restored to create a museum which opened to the public in 1999.
+*[[Lichfield Museum]] - in [[St Mary's Church, Lichfield|St Mary's Church]] in the market square, an exhibition of 2,000 years of Lichfield's history.
+*[[Guildhall, Lichfield|The Guildhall]] - an historic building in the centre of Lichfield, located in Bore Street, it has been central to the government of the City for over 600 years.
+*[[Bishop's Palace, Lichfield|Bishop's Palace]] - Built in 1687, the palace was the residence of the Bishop of Lichfield until 1954; it is now used by the Cathedral School.
+*[[Dr Milley's Hospital]] - Located on Beacon Street, it dates back to 1504 and was a women's hospital.
+*[[Hospital of St John Baptist without the Barrs, Lichfield|Hospital of St John Baptist without the Barrs]] - A distinctive Tudor building with a row of eight brick chimneys. This was built outside the city walls (barrs) to provide accommodation for travellers arriving after the city gates were closed. It now provides homes for elderly people and has an adjacent Chapel.
+*[[The Church of St Chad, Lichfield|Church of St Chad]] - A 12th-century church, though extensively restored; near the church is a reconstruction of 'St Chad's Well', where the 7th-century churchman St Chad [[Ceadda|St Chad]] is said to have prayed and baptised people.
+*[[St Michael on Greenhill]] - Overlooking the city, the ancient churchyard is one of the largest in the country at {{convert|9|acre|ha|0}}.
+*[[Christ Church, Lichfield|Christ Church]] - An outstanding example of Victorian ecclesiastical architecture and a [[grade II* listed building]].
+*The Market Square - In the centre of the city, the square contains two statues, one of Samuel Johnson overlooking the house in which he was born, and one of his great friend and biographer, [[James Boswell]].
+*[[Beacon Park]] - An {{convert|81|acre|ha|0|adj=on}} public park in the centre of the city, used for many sporting and recreational activities.
+*[[Minster Pool]] & [[Stowe Pool]] - The two lakes occupying 16 acres in the heart of Lichfield: Stowe Pool is designated a [[Site of Special Scientific Interest|SSSI]] site as it is home to native White-Clawed Crayfish. By Stowe Pool stands Johnson's Willow, a descendant of the original enormous tree which was much admired and visited by Samuel Johnson.
+*[[The Franciscan Friary,Lichfield|The Franciscan Friary]] - The ruins of the former Friary in Lichfield, now classed as a [[Scheduled monument|Scheduled Ancient Monument]].
+*[[Lichfield Clock Tower]] - A Grade II listed 19th century clock tower, located south of Festival Gardens.
+*[[Letocetum]] - The remains of a Roman staging post and bath house, in the village of [[Wall, Staffordshire|Wall]], {{convert|3.5|km|mi|abbr=on}} south of the city.
+*[[Staffordshire Regiment Museum]] - {{convert|2.5|mi|km|0}} east of the city in [[Whittington, Staffordshire|Whittington]], the museum covers the regiment's history, activities and members, and includes photographs, uniforms, weapons, medals, artefacts, memorabilia and regimental regalia. Outdoors is a replica trench from World War I, and several armoured fighting vehicles.
+*[[National Memorial Arboretum]] - {{convert|4|mi|km|0}} north east of the city in [[Alrewas]], the Arboretum is a national site of remembrance and contains many memorials to the armed services.
+
+== Transport ==
+[[File:LichCityStation.jpg|thumb|[[Lichfield City railway station|Lichfield City station]] is one of the two railway stations in Lichfield]] [[File:Lichfield Canal Water.jpg|right|thumb|The first section of [[Lichfield Canal]] to be re-watered on Tamworth Road]]
+Lichfield is served by two railway stations, [[Lichfield City railway station|Lichfield City]] and [[Lichfield Trent Valley railway station|Lichfield Trent Valley]], both built by the [[London and North Western Railway]]. These stations are now on the [[Cross-City Line]] to [[Redditch railway station|Redditch]] via [[Birmingham New Street railway station|Birmingham]]. Additionally, Trent Valley station is on the [[West Coast Main Line]] with semi-fast services between [[Euston railway station|London Euston]] - [[Stoke-on-Trent railway station|Stoke]], [[Stafford railway station|Stafford]] and [[Crewe railway station|Crewe]]. Despite being north of Birmingham, trains to London Euston can take as little as 1 hour 9 minutes. Lichfield City is located in the city centre and Lichfield Trent Valley is located {{convert|0.85|mi|km|abbr=on}} or 20 minutes walk north east of the city centre.
+
+Lichfield has regular bus services in and around the city. The bus station is located on Birmingham Road opposite Lichfield City railway station, although as part of the Friarsgate development plans have been approved for it to be moved next to the railway station. [[Arriva Midlands]] and [[Midland Classic]] are the main bus operators in Lichfield. These companies, as well as some other operators run regular services to [[Aldridge]], [[Burntwood]], [[Burton upon Trent]], [[Stafford]], [[Staffordshire University]], [[Sutton Coldfield]], [[Tamworth, Staffordshire|Tamworth]] and [[Walsall]].
+
+Lichfield is centrally located on the [[Roads in the United Kingdom|UK road network]]. Historically the [[Roman roads in Britain|Roman roads]] of [[Watling Street]] and [[Icknield Street|Ryknild Street]] crossed {{convert|2|mi|km|abbr=on}} south of the city at [[Letocetum]]. Today following much of the same routes are the [[A5 road (Great Britain)|A5]] and [[A38 road|A38]]. The A5 runs west towards [[Wales]] and south east towards [[Tamworth, Staffordshire|Tamworth]]. The A38 runs south to Birmingham and north east to [[Derby]]. Running along the western perimeter of the city is the [[A51 road|A51]] road, which runs north to Chester and south-east to Tamworth. The nearest motorway junction is Junction T5 of the [[M6 Toll]], located {{convert|2|mi|km|abbr=on}} south of the city. Junction 9 of the [[M42 motorway|M42]] and Junction 4A of the [[M6 motorway|M6]] are {{convert|12|mi|km|abbr=on}} and {{convert|15|mi|km|abbr=on}} south respectively.
+
+[[Lichfield Canal]] was historically part of the [[Wyrley and Essington Canal]] and ran south of the city from 1797 until it was abandoned in 1955. Starting in the 1990s a works programme started to restore the canal along much of its original route and make it navigable by 2025. As of 2011, none of the {{convert|7|mi|km|abbr=on}} stretch of canal is navigable. The nearest navigable canal to Lichfield is the [[Coventry Canal]] which runs through [[Streethay]].
+
+Two nearby airports serve Lichfield. [[Birmingham Airport]] is {{convert|20|mi|km|abbr=on}} south and [[East Midlands Airport]] is {{convert|34|mi|km|abbr=on}} north east.
+
+== Education ==
+[[File:Lichfield Campus.jpg|thumb|right|The main entrance to the Lichfield Campus of [[Staffordshire University]]]]
+In addition to nine [[primary school]]s and one [[infant school]], Lichfield has three secondary schools:
+* [[The Friary School]]
+* [[King Edward VI School, Lichfield|King Edward VI School]] (''formerly Lichfield Grammar School'')
+* [[Nether Stowe School]], a [[comprehensive school]] with specialist [[Maths]] and [[Computing]] college status
+
+There are two independent schools:
+
+*[[Lichfield Cathedral School]]: A co-educational school for ages 3 to 18, based in the [[Cathedral Close, Lichfield|Cathedral Close]] and [[Longdon, Staffordshire|Longdon]].
+*[https://web.archive.org/web/20070405100310/http://www.dyslexia.gb.com/ Maple Hayes School]: A DfES Approved Special School for dyslexic children.
+
+The Lichfield campus of [[Staffordshire University]] and [[South Staffordshire College]] is located on the Friary. This campus facility was opened in 1998 and offers further and higher education courses up to and including master's degrees. A £3 million school of art, design and media, housed in purpose-built accommodation, opened in 2006. This facility received the highest possible grade of  'outstanding provision' in the latest [[Ofsted]] inspection report.<ref name=ssclc>{{Citation | url = http://www.southstaffs.ac.uk/about-us/lichfield-campus/ | title = South Staffordshire College: Lichfield Campus| accessdate = 3 March 2012| publisher = }}</ref>
+
+==Religion and beliefs==
+{| class="wikitable sortable" style="float:right; font-size:90%;"
+|-
+! Religion
+! Percentage of <br />population
+|-
+| [[Buddhism|Buddhist]]
+| 0.3%
+|-
+| [[Christianity|Christian]]
+| 66.5%
+|-
+| [[Hinduism|Hindu]]
+| 0.3%
+|-
+| [[Judaism|Jewish]]
+| 0.1%
+|-
+| [[Islam|Muslim]]
+| 0.6%
+|-
+| [[Sikhism|Sikh]]
+| 0.1%
+|-
+| [[Irreligion|No religion]]
+| 24.9%
+|-
+| No answer
+| 6.8%
+|}
+Some 66.5% of the people in the Lichfield parish area polled as part of the [[United Kingdom Census 2011|2011 Census]] described themselves as Christian.<ref name=2011census/> Lichfield has held a religious importance since St Chad became the first [[Bishop of Lichfield]] and built a monastery in 669 AD. After Chad's death in 672 AD he was buried in an [[Anglo-Saxons|Anglo-Saxon]] church which later became part of [[Lichfield Cathedral]].
+
+[[Anglicanism]] predominates, with three parishes as well as the cathedral. [[St Michael on Greenhill, Lichfield|St Michael’s]] and [[St Mary's Church, Lichfield|St Mary’s]] serve one parish and [[Christ Church, Lichfield|Christ Church]] and [[The Church of St Chad, Lichfield|St Chad's]] serve the other two. Lichfield is within the [[Diocese of Lichfield]] and represented by [[Michael Ipgrave]], the current [[Bishop of Lichfield]].
+
+There are two [[Catholic Church|Roman Catholic]] churches, Holy Cross and SS Peter & Paul, which are part of the [[Roman Catholic Archdiocese of Birmingham|Archdiocese of Birmingham]]. [[The Church of Jesus Christ of Latter-day Saints]] has a meeting house on Purcell Avenue on the north side of the city. In the city centre there is a [[Methodist Church of Great Britain|Methodist]] church and Wade Street Church, which is a [[United Reformed Church|United Reformed]] and [[Baptists|Baptist]] church. There is a [[Pentecostalism|Pentecostal]] Church under the name Emmanuel Christian Centre in Nether Stowe and the [[Christadelphians|Christadelphian]] Hall on Station Road. [[Jehovah's Witnesses]] have a Kingdom Hall on Lombard Street.
+
+There are five [[faith school]]s in the city, all of which are primary schools. St Michael’s C of E School, Christ Church C of E School and St Chad’s C of E (VC) School are all Church of England faith schools. St Joseph's RC School and SS Peter & Paul School are Roman Catholic faith schools.
+
+[[Humanism|Humanists]] and [[Atheism|atheists]] in Lichfield are supported by the [http://www.lichfieldhumanistgroup.webs.com Lichfield, Walsall & South Staffordshire Humanists], affiliated to the [[Birmingham Humanists]] who are in turn affiliated to [[Humanists UK]].
+
+Until 2009, the nearest mosques were either [[Burton-upon-Trent]] or [[Stafford]]. There were plans to open a mosque but to build a traditional one meaning it would be on par with Lichfield Cathedral but is was heavily opposed and the plans were shelved. After that, the Muslim Community Association put a bid on an old school in Stowe Street which they bought from South Staffordshire County Council. It is the only Islamic establishment in Lichfield while other ones are in Burton-Upon-Trent, Stafford, [[Stoke-On-Trent]] or [[Walsall]].
+
+== Sport ==
+Historically [[Rugby Union|rugby]] was more popular in the city than [[soccer|football]], largely due to the fact that it was the main sport at [[King Edward VI School (Lichfield)|Lichfield Grammar School]]. However, both sports have remained at amateur level. [[Lichfield Rugby Union Football Club]] was founded in 1874. As of the 2011–12 season they play in the [[Midlands 1 West]] League, which is the 6th level of the [[English rugby union system|English Rugby Union system]].<ref>{{cite web|url = http://www.lichfieldrugby.co.uk/|title = Lichfield Rugby Union Football Club|date = |publisher = |accessdate = 7 March 2012}}</ref> The team plays at Cooke Fields, located south east of the city on Tamworth Road, behind the Horse and Jockey public house.
+
+AFC Lichfield are an FA Chartered Standard community youth football club and currently have teams playing in the Lichfield & District Recreational League at all levels from under 6 to under 18. AFC Lichfield also boast a football academy offering FA coaching to boys and girls aged 4–8 years.
+
+[[Lichfield City F.C.]] play in the Premier Division of the [[Midland Football League]] after promotion in 2012.<ref>{{cite web|url = http://www.midcomb.com/tables/premier.php|title = Midland Football Combination Premier Division table|date = |publisher = |accessdate = 11 August 2012|deadurl = yes|archiveurl = https://web.archive.org/web/20120717103042/http://www.midcomb.com/tables/premier.php|archivedate = 17 July 2012|df = dmy-all}}</ref> The 1st team play at Brownsfield Park. LCFC are a FA Charter Community club with teams from under 7s to adults.
+
+Lichfield Diamonds LFC is at the forefront of girls' football in Staffordshire, being the first all female club to achieve Charter Standard Status. The team plays at the Collins Hill Sports Ground.
+
+[[Lichfield Cricket Club]] currently play in the Third Division of the [[Birmingham and District Premier League]]. They also play at the Collins Hill Sports Ground.
+
+Lichfield is served by four [[golf course]]s, including the local authority 18-hole course at [[Beacon Park]]. The others are: Darnford Moors Golf Club, a new facility in the south of the city which provides a 9-hole pay and play facility, and the [[Robert Rock]] Academy, a [[driving range]] and coaching academy;<ref>{{cite web|url = http://www.europeantour.com/europeantour/season=2012/tournamentid=2012004/news/newsid=153509.html|title = The Remarkable rise of Robert Rock|date = 31 January 2012 |publisher = Europeanyout.com|accessdate = 7 March 2012}}</ref> Lichfield Country Club, based in [[Elmhurst, Staffordshire|Elmhurst]], which boasts an 18-hole par 72 championship course and the [[English Midlands|Midlands]]' first American-specification 9 hole par 3 course; and Whittington Heath Golf Club, an 18-hole par 70 course south-east of the city, laid out on [[heath (habitat)|heathland]] and woodland.
+
+Lichfield Archers were formed over 40 years ago and shoot at Christian Fields, where they have 20-yard indoor and 100-yard outdoor ranges.
+
+Lichfield Hockey Club located on Collins Hill Sports Ground on Eastern Avenue is a highly successful club for both men and women, and has a large junior section. The women's section boasts six Saturday teams competing at varying levels and the men's side has over ten teams. On the 21st March 2015 the men's section won the league with a 3-2 win over Barton, meaning they were promoted to national league for the forthcoming season of 2015/16.
+
+==Notable Lichfeldians==
+[[File:Elias Ashmole by John Riley.jpg|thumb|160px|Elias Ashmole]]
+[[File:Edvardus Wetenhall.jpg|thumb|160px|Edvardus Wetenhall]]
+[[File:Portrait of Erasmus Darwin by Joseph Wright of Derby (1792).jpg|thumb|160px|Erasmus Darwin (1792]]
+[[File:Henry Salt00.jpg|thumb|160px|Henry Salt]]
+[[File:Siobhan Dillon West End Live 2010.jpg|thumb|160px|Siobhan Dillon 2010]]
+
+* [[Ceatta]] of Lichfield, an obscure 11th century Anglo Saxon saint of the Catholic Church.
+
+=== 16th c. ===
+* [[Edward Wightman]] (?1566–1612), last person<ref>[https://en.wikisource.org/wiki/Page:Dictionary_of_National_Biography_volume_61.djvu/201 Dictionary of National Biography volume 61.djvu/201, Wightman, Edward (d. 1612), fanatic] retrieved December 2017</ref> in England to be burnt at the stake for heresy, in the Market Place of Lichfield
+* [[Edmund Gennings]] (1567–1591), Jesuit priest<ref>[https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Edmund_and_John_Gennings Catholic Encyclopedia (1913), Volume 6, Edmund and John Gennings] retrieved December 2017</ref> and martyr
+
+=== 17th c. ===
+* [[Thomas Minors]] (1609–1677) merchant, politician, MP<ref>[http://www.historyofparliamentonline.org/volume/1660-1690/member/minors-thomas-1609-77 The History of Parliament Trust, MINORS, Thomas (1609-77), of Sadler Street, Lichfield, Staffs] retrieved December 2017</ref> between 1654 and 1660 and ''commissioner for scandalous ministers''
+* [[Michael Biddulph (died 1666)|Michael Biddulph]] (1610–1666) elected MP<ref>[http://www.historyofparliamentonline.org/volume/1660-1690/member/biddulph-michael-i-1610-66 The History of Parliament Trust, Biddulph, Michael I (1610-66), of Elmhurst, Staffs] retrieved December 2017</ref> for [[Lichfield (UK Parliament constituency)|Lichfield]] in 1660 in the Convention Parliament
+* [[Elias Ashmole]] (1617–1692), antiquary, politician,<ref>[https://en.wikisource.org/wiki/Ashmole,_Elias_(DNB00) Dictionary of National Biography, 1885-1900, Volume 02, Ashmole, Elias] retrieved December 2017</ref> astrologer and alchemist. founder of [[Ashmolean Museum]] 
+* [[Edward Wetenhall]] (1636–1713) English bishop<ref>[https://en.wikisource.org/wiki/Wetenhall,_Edward_(DNB00)  Dictionary of National Biography, 1885-1900, Volume 60, Wetenhall, Edward] retrieved December 2017</ref> of the [[Church of Ireland]]
+* [[Gregory King]] (1648–1712) genealogist,<ref>[https://www.britannica.com/biography/Gregory-King Encyclopædia Britannica, Gregory King, British statistician] retrieved December 2017</ref> engraver and statistician
+* [[John Floyer (physician)|John Floyer]] (1649 in [[Hints, Staffordshire|Hints]] – 1734), physician<ref>[https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Floyer,_Sir_John 1911 Encyclopædia Britannica, Volume 10, Floyer, Sir John] retrieved December 2017</ref> and author
+* [[Richard Dyott (died 1719)|Richard Dyott]] (1667–1719) elected MP<ref>[http://www.historyofparliamentonline.org/volume/1690-1715/member/dyott-richard-1667-1719 The History of Parliament Trust, DYOTT, Richard (1667-1719), of Freeford, Staffs] retrieved December 2017</ref> for [[Lichfield (UK Parliament constituency)|Lichfield]] 1690/1695, re-elected 1698/1708, elected again 1710/1715 
+* [[Gilbert Walmisley]] (1680–1751) barrister,<ref>[https://en.wikisource.org/wiki/Walmisley,_Gilbert_(DNB00)  Dictionary of National Biography, 1885-1900, Volume 59, Walmisley, Gilbert] retrieved December 2017</ref> friend of [[Samuel Johnson]], buried in a vault near the south side of [[Lichfield Cathedral]].
+* [[Theophilus Levett]] (1693–1746) attorney, town clerk of Lichfield, politician and landowner, 
+
+=== 18th c. ===
+* [[John Wyatt (inventor)|John Wyatt]] (1700–1766) inventor, particularly of a [[spinning machine]]
+* [[Thomas Newton]] (1704–1782) cleric, biblical scholar, author and [[Bishop of Bristol]] from 1761 to 1782.
+* [[Richard Greene (antiquary)|Richard Greene]] (1716–1793) [[antiquary]] and<ref>[https://en.wikisource.org/wiki/Greene,_Richard_(DNB00)  Dictionary of National Biography, 1885-1900, Volume 23, Greene, Richard] retrieved December 2017</ref> collector of curiosities.
+* [[David Garrick]] (1717–1779), actor,<ref>[https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Garrick,_David 1911 Encyclopædia Britannica, Volume 11, Garrick, David] retrieved December 2017</ref> playwright, producer and theatre manager
+* [[Erasmus Darwin]] (1731–1802), scientist,<ref>[https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Darwin,_Erasmus 1911 Encyclopædia Britannica, Volume 7, Darwin, Erasmus] retrieved December 2017</ref> inventor<ref>[https://en.wikisource.org/wiki/Darwin,_Erasmus_(DNB00)  Dictionary of National Biography, 1885-1900, Volume 14, Darwin, Erasmus] retrieved December 2017</ref> and grandfather<ref>[https://en.wikisource.org/wiki/The_New_International_Encyclopædia/Darwin,_Erasmus The New International Encyclopædia, Darwin, Erasmus] retrieved December 2017</ref> of [[Charles Darwin]]
+* [[Richard Lovell Edgeworth]] (1744–1817), politician,<ref>[https://en.wikisource.org/wiki/Edgeworth,_Richard_Lovell_(DNB00)   Dictionary of National Biography, 1885-1900, Volume 16, Edgeworth, Richard Lovell] retrieved December 2017</ref> writer, inventor,  lived at Stowe House
+* [[Theophilus Houlbrooke]] (1745–1824), minister and amateur botanist, President of the [[Liverpool Athenaeum]] from 1809 to 1813
+* General [[Richard Vyse]] (1746–1825) general<ref>[https://en.wikisource.org/wiki/Vyse,_Richard_William_Howard_(DNB00)  Dictionary of National Biography, 1885-1900, Volume 58, Vyse, Richard William Howard] retrieved December 2017</ref> and MP for [[Beverley (UK Parliament constituency)|Beverley]] in 1806
+* [[Joseph Potter (architect)|Joseph Potter]] (1756–1842) architect and builder, considerable practice in Staffordshire and neighbouring counties
+* [[Henry Salt (Egyptologist)|Henry Salt]] (1780–1827), antiquarian;<ref>[http://philosophyofscienceportal.blogspot.co.uk/2010/06/massive-head-of-ramesses-ii-and-henry.html Philosophy of Science Portal, June 14, 2010, Massive head of Ramesses II and Henry Salt] retrieved December 2017</ref> gave large Egyptian collection to the [[British Museum]]
+* [[Admiral of the Fleet]] [[Sir William Parker, 1st Baronet, of Shenstone]] (1781–1866) a<ref>[https://en.wikisource.org/wiki/The_New_International_Encyclopædia/Parker,_William The New International Encyclopædia, Parker, William] retrieved December 2017</ref> Royal Navy officer
+
+=== 19th c. ===
+* [[John Hewitt (antiquary)|John Hewitt]] (1807–1878) [[antiquarian]]<ref>[https://en.wikisource.org/wiki/Hewitt,_John_(1807-1878)_(DNB00)   Dictionary of National Biography, 1885-1900, Volume 26, Hewitt, John (1807-1878)] retrieved December 2017</ref>
+* [[James Fowler (architect)|James Fowler]] (1828–1892), aka "Fowler of Louth",<ref>[http://www.rodcollins.com/wordpress/james-fowler-church-restorer-mayor-of-louth Website of Rod Collins, Lincolnshire re James Fowler, Church Restorer & Mayor of Louth] retrieved December 2017</ref> a Victorian ecclesiastical architect 
+* [[Walter Noel Hartley]] (1845–1913), chemist<ref>[http://www.ucd.ie/merrionstreet/1910_hartley.html University College Dublin, the Government Buildings complex on Upper Merrion Street, 1911–1919, Sir Walter Hartley] retrieved December 2017</ref> and pioneer of [[spectroscopy]] 
+* Lieutenant-Colonel [[Michael Swinfen-Broun]] JP (1858-1948) soldier, magistrate, [[High Sheriff of Staffordshire|High Sheriff]] and Deputy Lieutenant of Staffordshire
+
+=== 20th c. ===
+* [[Alasdair Steele-Bodger]] CBE, FRCVS (1924–2008), veterinary surgeon
+* [[Denis Alva Parsons]] MBE, ARBS (1934–2012), sculptor<ref>[http://stjosephsdarlaston.co.uk/misc.htm St Joseph's R.C. Church, Church Street, Darlaston, Denis Parsons MBE – Artist in wood and stone] retrieved December 2017</ref>
+* [[Louis Lillywhite|Lieutenant General Louis Lillywhite]] CB, MBE, QHS (born 1948) retired British Army physician,<ref>[https://www.thegazette.co.uk/London/issue/58929/supplement/2 The London Gazette, Publication date: 31 December 2008, Supplement:58929, Page:2] retrieved December 2017</ref> [[Surgeon-General (United Kingdom)|Surgeon-General]] 2006/2009
+* [[Phil Ford (writer)|Phil Ford]] (born 1950), television writer<ref>[https://www.imdb.com/name/nm0285828/ IMDb Database] retrieved December 2017</ref>
+* [[Richard Allinson]] (born 1958), broadcaster, early morning weekend show on [[BBC Radio 2]]
+* [[Helen Baxendale]] (born 1970), actress<ref>[https://www.imdb.com/name/nm0062636/ IMDb Database] retrieved December 2017</ref>
+* [[Sian Brooke]] (born 1980), actress<ref>[https://www.imdb.com/name/nm1604939/ IMDb Database] retrieved December 2017</ref>
+* [[Siobhan Dillon]] (born 1984), singer<ref>[https://www.imdb.com/name/nm2381553/ IMDb Database] retrieved December 2017</ref> and actress
+
+=== Authors and Writers ===
+[[File:Anna Seward by Tilly Kettle.jpg|thumb|160px|Anna Seward]]
+[[File:Julian Arguelles.jpg|thumb|160px|Julian Arguelles]]
+[[File:Robert Rock.JPG|thumb|160px|Robert Rock]]
+
+* [[Joseph Addison]] (1672–1719), essayist,<ref>[https://en.wikisource.org/wiki/Addison,_Joseph_(DNB00)  Dictionary of National Biography, 1885-1900, Volume 01, Addison, Joseph] retrieved December 2017</ref> poet, playwright, and politician.
+* [[Samuel Johnson]] (1709–1784),<ref>[https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Johnson,_Samuel 1911 Encyclopædia Britannica, Volume 15, Johnson, Samuel] retrieved December 2017</ref> often referred to as '''Dr. Johnson''',<ref>[https://en.wikisource.org/wiki/Author:Samuel_Johnson_(1709-1784)  WikiSource, Author:Samuel Johnson (1709-1784)] retrieved December 2017</ref> writer who made lasting contributions to English literature as a poet, essayist, moralist, literary critic, biographer, editor and lexicographer. 
+* [[Anna Seward]] (1742–1809), romantic poet,<ref>[https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Seward,_Anna 1911 Encyclopædia Britannica, Volume 24, Seward, Anna] retrieved December 2017</ref> memorialist and letter writer
+* [[Thomas Day]] (1748–1789), author and abolitionist,<ref>[http://www.brycchancarey.com/abolition/day.htm Brycchan Carey 2001-2015, Thomas Day (1748-1789)] retrieved December 2017</ref> lived for a time at Stowe House
+* [[Richard Garnett (writer)|Richard Garnett]] (1835–1906), scholar,<ref>[https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Garnett,_Richard 1911 Encyclopædia Britannica, Volume 11, Garnett, Richard] retrieved December 2017</ref> librarian, biographer and poet
+* [[Elaine Horseman]] (1925–1999), author
+* [[Michael Laskey]] (born 1944), poet<ref>[http://www.poetryinternationalweb.net/pi/site/poet/item/10932 Poetry International Rotterdam, Michael Laskey, (United Kingdom, 1944)] retrieved December 2017</ref> and editor
+* [[Charles Lambert (author)|Charles Lambert]] (born 1953) novelist and short-story writer
+* [[David Charles Manners]] (born 1965), theatre designer, author and charity founder
+* [[Adrian Poynton]] (born 1979), screenwriter,<ref>[https://www.imdb.com/name/nm1845845/  IMDb Database] retrieved December 2017</ref> playwright and stand-up comedian
+
+=== Music ===
+* [[Frederic King]] (1853–1933), baritone
+* [[John Hinch (musician)|John Hinch]] (born 1947) drummer, original drummer of [[Judas Priest]]
+* [[Mark Thwaite]] (born 1965), guitarist with rock bands [[The Mission (band)|The Mission]], [[Tricky (musician)|Tricky]], & [[Peter Murphy (musician)|Peter Murphy]]
+* [[Julian Argüelles]] (born 1966), jazz<ref>[https://web.archive.org/web/20071111231516/http://www.ram.ac.uk/study/selectadepartment/biogs/Julian%2BArgelles.htm Royal Academy of Music, Julian Argüelles] retrieved December 2017</ref> saxophonist
+* [[Richie Edwards]] (born 1974), bassist with rock bands [[The Darkness (band)|the Darkness]] and [[Stone Gods]]
+* [[Bryn Fowler]] (born 1982), musician, bassist and backing vocalist in the band [[the Holloways]]
+
+=== Sport ===
+* [[Tommy Skelton]] (1856–1900), jockey, rode the winner of the Grand National 1886, ''Old Joe''
+* [[Roly Harper]] (1881–1949), professional footballer, born in Lichfield
+* [[Noel George]] (1897–1929), goalkeeper<ref>[https://web.archive.org/web/20100517025011/http://www.spartacus.schoolnet.co.uk/WOLgeorgeN.htm The Encyclopedia of British Football, Noel George] retrieved December 2017</ref> for [[Wolverhampton Wanderers F.C.|Wolves]], died of a disease of the gums
+* [[Roger Pearman (cricketer)|Roger Pearman]] (1943–2009), cricketer and cricket administrator
+* [[Tom Leadbitter]] (1945–1995), scrambles, motorcycle speedway and grasstrack rider
+* [[Ian Wright (footballer, born 1972)|Ian Wright]] (born 1972) former footballer,<ref>[http://www.soccerbase.com/players/player.sd?player_id=8719 SoccerBase Database] retrieved December 2017</ref> 347 pro appearances
+* [[Stuart Ryder]] (born 1973), former [[Walsall F.C.]] and England U21 footballer
+* [[Adam Wilcox (racing driver)|Adam Wilcox]] (born 1976), racing driver
+* [[Robert Rock]] (born 1977), professional golfer on the [[PGA European Tour]], formerly a coach at Swingers Golf Centre
+* [[Gary Mason (motorcycle racer)|Gary Mason]] (born 1979), motorcycle racer in the [[British Superbike Championship]]
+* [[James Austin (judoka)|James Austin]] (born 1983) judoka, competed at the [[2012 Summer Olympics]] in the -100 kg event
+
+== Twinnings ==
+Following the [[Second World War]] to try and help prevent another global conflict and to ease relations between, and stop prejudices against nations, the City of Lichfield is twinned with:<ref>{{cite web|url = http://www.lichfield.gov.uk/twinning.ihtml|title = ''Twinnings''|date = |publisher = Lichfield City Council|accessdate = 23 May 2018|deadurl = yes|archiveurl = https://web.archive.org/web/20120306091043/http://www.lichfield.gov.uk/twinning.ihtml|archivedate = 6 March 2012|df = dmy-all}}</ref> 
+{| class="wikitable"
+|- valign="top"
+|
+* {{flagicon|GER}} [[Limburg an der Lahn]], Germany 
+||
+* {{flagicon|FRA}} [[Sainte-Foy-lès-Lyon]], France
+|}
+
+== See also ==
+{{Portal|England}}
+* ''[[The Beaux' Stratagem]]'' by [[George Farquhar]], play set in Lichfield in 1707
+* [[Bishop of Lichfield|Bishops of Lichfield]]
+* [[Earl of Lichfield]]
+* [[Garrick Theatre (Lichfield)|Garrick Theatre]]
+* [[Heart of England Way]]
+* [[Lichfield Bower]]
+* [[Lichfield Canal]]
+* [[Lichfield Cricket Club]]
+* [[Lichfield Gospels|The Lichfield Gospels]]
+* [[Lichfield Rugby Union Football Club]]
+* [[RAF Lichfield]]
+
+== References ==
+{{reflist|colwidth=30em}}
+
+== External links ==
+{{Commons category|Lichfield}}
+{{Wikivoyage|Lichfield}}
+* [http://www.lichfield.gov.uk/ Lichfield City Council]
+* [http://www.lichfielddc.gov.uk Lichfield District Council]
+* [http://www.visitlichfield.co.uk/ Visit Lichfield - Travel and Tourism body]
+* [http://www.lichfieldarts.org.uk/ Lichfield Arts]
+* {{Cite NIE|wstitle=Lichfield|short=x}}
+* {{Cite EB1911|wstitle=Lichfield|short=x}}
+* {{Cite Americana|wstitle=Lichfield|short=x}}
+* ''[http://www.lichfieldgazette.co.uk/ Lichfield Gazette]''—local news magazine
+
+{{Geographic location
+|Northwest = [[Longdon, Staffordshire|Longdon]], [[Armitage]], [[Mavesyn Ridware]], [[Rugeley|RUGELEY]], [[Stafford|STAFFORD]]
+|North     = [[Elmhurst, Staffordshire|Elmhurst]], [[Curborough and Elmhurst|Curborough]], [[Kings Bromley]], [[Abbots Bromley]], [[Uttoxeter]], [[Ashbourne, Derbyshire|Ashbourne]]
+|Northeast = [[Streethay]], [[Fradley]], [[Alrewas]], [[Croxall]], [[Edingale]], [[Burton upon Trent|BURTON UPON TRENT]], [[Derby|DERBY]]
+|West      = [[Hammerwich]], [[Gentleshaw]], [[Cannock Wood]], [[Burntwood]], [[Chasetown]], [[Cannock|CANNOCK]]
+|Centre    = Lichfield
+|East      = [[Whittington, Staffordshire|Whittington]], [[Fisherwick]], [[Elford]], [[Thorpe Constantine]], [[Appleby Magna]], [[Measham]]
+|Southwest = [[Brownhills]], [[Walsall Wood]], [[Bloxwich]], [[Walsall|WALSALL]], [[Wolverhampton|WOLVERHAMPTON]]
+|South     = [[Wall, Staffordshire|Wall]], [[Shenstone, Staffordshire|Shenstone]], [[Sutton Coldfield]], [[Birmingham|BIRMINGHAM]], [[Solihull]]
+|Southeast = [[Swinfen and Packington|Swinfen & Packington]], [[Weeford]], [[Hopwas]], [[Hints, Staffordshire|Hints]], [[Tamworth, Staffordshire|TAMWORTH]], [[Coventry|COVENTRY]]
+}}
+{{City of Lichfield}}
+{{Lichfield (district)}}
+{{Staffordshire}}
+{{UK cities}}
+{{Authority control}}
+
+[[Category:Lichfield| ]]
+[[Category:Burial sites of the House of Icel]]
+[[Category:Cities in the West Midlands (region)]]
+[[Category:Civil parishes in Staffordshire]]
+[[Category:Towns in Staffordshire]]

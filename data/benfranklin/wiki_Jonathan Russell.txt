@@ -1,0 +1,73 @@
+{{Other people|Jonathan Russell}}
+{{Infobox Congressman 
+| name= Jonathan Russell
+| image name=
+| state1=[[Massachusetts]]
+| district1=[[Massachusetts's 11th congressional district|11th]]
+| term1= March 4, 1821 – March 3, 1823 
+| preceded1= [[Benjamin Adams (politician)|Benjamin Adams]] 
+| succeeded1= [[Aaron Hobart]] 
+| office2= Member of the [[Massachusetts House of Representatives]]
+| term2= 1820
+| birth_date= February 27, 1771
+| birth_place= [[Providence, Rhode Island]]
+| death_date= February 17, 1832 (aged 60)
+| death_place= [[Milton, Massachusetts]] 
+|restingplace= Russell Family Cemetery (Milton, Massachusetts)
+| spouse= Sylvia Ammidon (1773-1811) (M. 1796)<br/>Lydia Smith (1786-1859) (M. 1817)
+|children=
+|alma_mater= [[Brown University|Rhode Island College]]
+| profession= Merchant, Politician, Diplomat
+| religion=
+| party= [[Democratic-Republican Party]]
+|}}
+'''Jonathan Russell''' (February 27, 1771 – February 17, 1832) was a [[United States Representative]] from [[Massachusetts]] and diplomat.
+
+Born in [[Providence, Rhode Island]] on February 27, 1771, Russell graduated from [[Brown University]] (then Rhode Island College) in 1791.  He studied law and was admitted to the bar, but did not practice.  He engaged in mercantile pursuits for a number of years.   In 1808 he was appointed Collector of the Port of [[Bristol, Rhode Island|Bristol]].
+
+He was appointed by President [[James Madison]] to the Diplomatic Service in France in 1811.  He transferred to [[England]], where he was [[Chargé d'Affaires]] when [[War of 1812|war was declared by the United States in 1812]].  He was [[United States Ambassador to Sweden|Minister to Sweden]] and [[Norway]] from January 18, 1814 to October 16, 1818.
+
+"Jonathan Russell and the Capture of the Guerriere," by Lawrence S. Kaplan in The William and Mary Quarterly,Third Series, Vol. 24, No. 2 (Apr., 1967), published by the Omohundro Institute of Early American History and Culture, discusses the circumstances of Russell's authorship of a patriotic poem about the famous sea battle found in Russell's private papers (now mainly at Brown University's Library).  The article quotes the entirety of the poem, dates it to approximately 1812, and speculates that Russell was motivated to write this anti-British work by the humiliation he had suffered while at the Court of St. James.
+
+Russell was one of the five commissioners who negotiated the [[Treaty of Ghent]] with Great Britain in 1814, ending the War of 1812. He returned to the United States in 1818 and settled in [[Mendon, Massachusetts]].
+
+On April 29, 1818, when Jonathan Russell presented his credentials as American Minister Plenipotentiary to Sweden.
+
+He became a member of the [[Massachusetts House of Representatives]] in 1820 and was elected to the [[17th United States Congress|Seventeenth Congress]] (March 4, 1821 – March 3, 1823). He was chairman of the [[United States House Committee on Foreign Affairs|Committee on Foreign Affairs]] (Seventeenth Congress).
+
+In 1822, Russell authored a pamphlet accusing [[John Quincy Adams]], one of Russell's former fellow-negotiators at Ghent in 1814, of having favored British interests in those treaty talks.  Russell intended the pamphlet to further [[Henry Clay|Henry Clay's]] presidential candidacy against Adams in the [[United States presidential election, 1824|1824 election]].  Adams' responsive pamphlets were so devastating in impugning Russell's veracity that they engendered the phrase "to Jonathan Russell" someone, meaning to refute an attacker's falsehoods so effectively that it destroys the attacker's reputation.
+
+Russell died in [[Milton, Massachusetts]] on February 17, 1832, and was interred in the family plot on his estate in Milton.
+
+==Sources==
+* {{CongBio|R000531}}
+* {{findagrave|181862245|name=Jonathan Russell|work=Diplomat & U.S. Congressman}}
+
+{{s-start}}
+{{s-dip}}
+{{succession box 
+|title=[[United States Ambassador to Sweden|U.S. Ambassador to Sweden]] 
+| before=[[Benjamin Franklin]] 
+| after=[[Christopher Hughes (diplomat)|Christopher Hughes]] 
+| years=1814–1818}}
+{{s-end}}
+
+{{US Ambassadors to the UK}}
+{{US Ambassadors to France}}
+{{US Ambassadors to Sweden}}
+{{US House Foreign Affairs chairs}}
+{{USRepMA}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Russell, Jonathan}}
+[[Category:1771 births]]
+[[Category:1832 deaths]]
+[[Category:Brown University alumni]]
+[[Category:Members of the Massachusetts House of Representatives]]
+[[Category:Members of the United States House of Representatives from Massachusetts]]
+[[Category:Ambassadors of the United States to Sweden]]
+[[Category:People from Milton, Massachusetts]]
+[[Category:Massachusetts Democratic-Republicans]]
+[[Category:19th-century American diplomats]]
+[[Category:Democratic-Republican Party members of the United States House of Representatives]]

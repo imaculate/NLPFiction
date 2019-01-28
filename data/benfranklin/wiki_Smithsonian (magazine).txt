@@ -1,0 +1,84 @@
+{{Infobox Magazine
+ | title             = Smithsonian
+ | image_file        = Smithsonian magazine cover.png
+ | image_caption     = September 2008 cover of ''Smithsonian''
+ | editor            = Michael Caruso (editor-in-chief)<ref>{{cite web|url= http://www.poynter.org/latest-news/romenesko/150148/caruso-named-smithsonian-editor-in-chief/#more-150148|title= Caruso named Smithsonian editor-in-chief|author= [[Jim Romenesko]]|date= October 19, 2011|work= Romenesko+|publisher= [[The Poynter Institute]]|accessdate= October 19, 2011|deadurl= yes|archiveurl= https://web.archive.org/web/20111022005247/http://www.poynter.org/latest-news/romenesko/150148/caruso-named-smithsonian-editor-in-chief/#more-150148|archivedate= October 22, 2011|df= }}</ref>
+ | frequency         = Monthly
+ | category          = [[History]], [[science]], [[arts]], [[nature]]
+ | company           = [[Smithsonian Institution]]
+ | firstdate         = {{start date and age|1970|4}}
+ | country           = United States 
+| based        = [[Washington, D.C.]], U.S.
+ | language          = English
+ | website           = {{URL|http://www.smithsonianmag.com}}
+ | total_circulation = 1,840,077<ref>{{cite web|title=AAM: Total Circ for Consumer Magazines|url=http://abcas3.auditedmedia.com/ecirc/magtitlesearch.asp|website=Alliance for Audited Media|accessdate=27 October 2016}}</ref>	
+ | circulation_year  = June 2016
+ | issn              = 0037-7333
+}}
+'''''Smithsonian''''' is the official journal published by the [[Smithsonian Institution]] in [[Washington, D.C.]] The first issue was published in 1970.<ref>{{cite web|title=Top 100 U.S. Magazines by Circulation|url=http://www.psaresearch.com/images/TOPMAGAZINES.pdf|work=PSA Research Center|accessdate=February 6, 2016}}</ref>
+
+==History==
+The history of ''Smithsonian'' began when [[Edward K. Thompson]], the retired editor of ''[[Life (magazine)|Life]]'' magazine, was asked by the then-Secretary of the Smithsonian, [[S. Dillon Ripley]], to produce a magazine "about things in which the Smithsonian [Institution] is interested, might be interested or ought to be interested."<ref name=smith/>
+
+Thompson would later recall that his philosophy for the new magazine was that it "would stir curiosity in already receptive minds. It would deal with history as it is relevant to the present. It would present art, since true art is never dated, in the richest possible reproduction. It would peer into the future via coverage of social progress and of science and technology. Technical matters would be digested and made intelligible by skilled writers who would stimulate readers to reach upward while not turning them off with jargon. We would find the best writers and the best photographers—not unlike the best of the old ''Life''."<ref name=smith>{{citation |url= http://www.smithsonianmag.com/history-archaeology/Noxious_Bogs__Amorous_Elephants.html |title= Noxious Bogs & Amorous Elephants: Smithsonian's birth, 35 years ago, only hinted at the splendors to follow |last= Winfrey |first= Carey |publisher= Smithsonian |date= October 2005 |deadurl= yes |archiveurl= https://archive.is/20130202154607/http://www.smithsonianmag.com/history-archaeology/Noxious_Bogs__Amorous_Elephants.html |archivedate= 2013-02-02 |df=  }}</ref>
+
+In 1973, the magazine turned a profit for the first time. By 1974, circulation had nearly quadrupled, to 635,000, and it reached the one million milestone in 1975—one of the most successful launches of its time. In 1980, Thompson was replaced by Don Moser, who had also worked at ''Life'', and circulation reached upwards of two million, in turn, by Carey Winfrey upon his retirement in 2001.
+
+==Content==
+''Smithsonian'' magazine provides in-depth analysis of varied topics within a diverse range of scientific areas, and adds photography to supplement its comprehensive features.<ref>{{cite web|url=http://www.sciencenaturemagazines.com/magazines/smithsonian-magazine/|title=Smithsonian Magazine|work=Science & Nature Magazines|accessdate=February 11, 2014}}</ref> The monthly magazine looks at the topics and subject matters researched, studied and exhibited by the Smithsonian Institution - science, history, art, popular culture and innovation - and chronicles them for its diverse readership.<ref>{{cite web|url= http://www.smithsonianmag.com/about/|title=About Smithsonian|work=Smithsonian|accessdate=February 11, 2014}}</ref>
+
+==Smithsonian American Ingenuity Awards==
+Every year since 2012, the Magazine has sponsored the American Ingenuity Awards, a recognition of innovation in the arts, sciences and technology. Winners have included [[Elon Musk]], [[Lin-Manuel Miranda]], [[OK Go]], [[Dave Eggers]], [[Aziz Ansari]], [[Rosanne Cash]], [[Jeff Bezos]], [[Fred Armisen]], [[Bill Hader]] and [[David Lynch]]. 
+
+Presenters have included [[Stephen Hawking]] (twice), [[Stephen Colbert]], [[David Byrne]], [[Herbie Hancock]], [[Erin Brockovich]], [[Ruben Blades]], [[Bill Nye]], [[Art Spiegelman]] and Senator [[Al Franken]].
+
+The American Ingenuity Award itself was created by the artist [[Jeff Koons]]. <ref>{{cite web|title=Smithsonian American Ingenuity Awards|url=http://www.smithsonianmag.com/ingenuity/|website=Smithsonian.com|accessdate=January 12, 2016}}</ref>
+
+== Smithsonian.com Photo Contest ==
+Every year since 2003, Smithsonian magazine has run an international photography contest<ref>{{Cite web|url=https://www.smithsonianmag.com/photocontest/ |title=Featured Entries {{!}} Smithsonian Photo Contest |website= www.smithsonianmag.com|language=en|access-date=2018-03-28}}</ref>. Tens of thousands of images are submitted from over a hundred countries. 
+
+2017 Winners<ref>{{Cite news|url=https://www.smithsonianmag.com/photocontest/archive/2017/|title=See the Winners and Finalists of the 15th Annual Smithsonian.com Photo Contest!|work=Smithsonian|access-date=2018-03-28|language=en}}</ref>''':''' Thong Huu (Grand Prize), Sara Jacoby (Reader's Choice), Oreon Strusinski (Natural World), Dan Fenstermacher (American Experience), Tran Tuan Viet (Travel), SEYED MOHAMMAD SADEGH HOSSEINI (People), Adam Żądło (Altered Images) and Mohammad Mohsenifar (Mobile).
+
+2016 Winners<ref>{{Cite news|url=https://www.smithsonianmag.com/photocontest/archive/2016/|title=See the Winners and Finalists of the 14th Annual Smithsonian.com Photo Contest|work=Smithsonian|access-date=2018-03-28|language=en}}</ref>: Pradeep Raja Kannaiah (Grand Prize), Milan Sachs (Reader's Choice), Prelena Soma Owen (Natural World), Stephanie Foden (American Experience), Peter Nutkins (Travel), Greta Rybus (Sustainable Travel), João Borges (People), Jim Mneymneh (Altered Images) and Alina Rudya (Mobile).
+
+2015 Winners<ref>{{Cite web|url=https://www.smithsonianmag.com/photocontest/archive/2015/|title=Smithsonian Photo Contest 2015|last=|first=|date=|website=|access-date=}}</ref>: Albert Ivan Damanik (Grand Prize), Alice Van Kempen (Reader's Choice), Hidetoshi Ogata (Natural World), Lauren Pond (American Experience), Tamina-Florentine Zuch (Travel), Tihomir Trichkov (Sustainable Travel), Benedetta Ristori (People), Radim Schreiber (Altered Images), and Jian Wang (Mobile).
+
+2014 Winners<ref>{{Cite web|url=https://www.smithsonianmag.com/photocontest/archive/2014/|title=Smithsonian Photo Contest 2014|last=|first=|date=|website=|access-date=}}</ref>: Pham Ty (Grand Prize), Nicolas Reusens (Reader's Choice), Lorenzo Mittiga (Natural World), Olivier Douliery (American Experience), David Martín Huamaní Bedoya (Travel), Joydeep Mukherjee (People), Jefflin Ling (Altered Images), and Yilang Peng (Mobile).
+
+2013 Winners<ref>{{Cite web|url=https://www.smithsonianmag.com/photocontest/archive/2013/|title=Smithsonian Photo Contest 2013|last=|first=|date=|website=|access-date=}}</ref>: Sergio Carbajo Rodriguez (Grand Prize), Candy Feng (Reader's Choice), Graham McGeorge (Natural World), Willie Huang (American Experience), Nidal Adnan Kibria (Travel), Simon Morris (People), Shamma Esoof (Altered Images), and Cesar Rodriguez (Mobile).
+
+==Contributors==
+Notable past and current contributors to ''Smithsonian'' have included:
+{{div col|colwidth=15em}}
+* [[Richard Conniff]]
+* [[Frank Deford]]
+* [[Penn Jillette]]
+* [[Jon Krakauer]]
+* [[Jill Lepore]]
+* [[Franz Lidz]]
+* [[Alan Lightman]]
+* [[Jo Marchant]]
+* [[David McCullough]]
+* [[Susan Orlean]]
+* [[Nathaniel Philbrick]]
+* [[Paul Theroux]]
+{{div col end}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://www.smithsonianmag.com/ Official website]
+
+{{Smithsonian Institution}}
+{{50 largest US magazines}}
+
+{{DEFAULTSORT:Smithsonian (magazine)}}
+[[Category:1970 establishments in Washington, D.C.]]
+[[Category:American history magazines]]
+[[Category:American monthly magazines]]
+[[Category:English-language magazines]]
+[[Category:Magazines established in 1970]]
+[[Category:Magazines published in Washington, D.C.]]
+[[Category:Smithsonian Institution publications]]
+[[Category:Webby Award winners]]

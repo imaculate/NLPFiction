@@ -1,0 +1,148 @@
+{{other uses}}
+{{pp-vandalism|small=yes}}
+[[File:Lunar Total Eclipse on July 27, 2018 (100 2006) (43696968392) (cropped).jpg|thumb|Totality during the [[July 2018 lunar eclipse|lunar eclipse of 27 July 2018]]. Direct sunlight is being blocked by the [[Earth]], and the only light reaching it is sunlight [[Atmospheric refraction|refracted]] by Earth's atmosphere, producing a reddish color.]]
+ 
+A '''lunar eclipse''' occurs when the [[Moon]] passes directly behind [[Earth]] and into [[Earth's shadow|its shadow]].<ref>{{cite web
+|url=http://earthsky.org/tonight/centurys-longest-lunar-eclipse-july-27
+|title=Century's Longest Lunar Eclipse July 27
+|first=Bruce |last=McClure |date=July 27, 2018
+|website=[[EarthSky]]
+|access-date=August 1, 2018}}</ref> This can occur only when the [[Sun]], Earth, and Moon are exactly or very closely aligned (in [[syzygy (astronomy)|syzygy]]), with Earth between the other two. A lunar eclipse can occur only on the night of a [[full moon]]. The type and length of a lunar eclipse depend on the Moon's proximity to [[lunar node|either node]] of [[orbit of the Moon|its orbit]].
+
+During a total lunar eclipse, Earth completely blocks direct [[sunlight]] from reaching the Moon. The only light [[diffuse reflection|reflected]] from the lunar surface has been [[atmospheric refraction|refracted]] by [[Earth's atmosphere]]. This light appears reddish for the same reason that a [[sunset]] or [[sunrise]] does: the [[Rayleigh scattering]] of bluer light. Due to this reddish color, a totally eclipsed Moon is sometimes called a '''blood moon'''.
+
+Unlike a [[solar eclipse]], which can be viewed only from a certain relatively small area of the world, a lunar eclipse may be viewed from anywhere on the [[night]] side of Earth. A total lunar eclipse lasts a few hours, whereas a total solar eclipse lasts only a few minutes as viewed from any given place, due to the smaller size of the Moon's [[umbra, penumbra, and antumbra|shadow]]. Also unlike solar eclipses, lunar eclipses are safe to view without any [[astronomical filter|eye protection]] or special precautions, as they are dimmer than the full Moon.
+
+For the date of the next eclipse, see the section ''[[Lunar eclipse#Recent and forthcoming lunar eclipses|Recent and forthcoming lunar eclipses]]''.
+
+{{anchor|penumbral eclipse|penumbral lunar eclipse}} <!-- redirects from [[penumbral lunar eclipse]] -->
+
+==Types of lunar eclipse {{anchor|Penumbral eclipse}}<!-- [[Penumbral eclipse]] redirects here -->==
+[[File:Geometry of a Lunar Eclipse.svg|thumb|240px|left|A schematic diagram of the [[Earth's shadow|shadow]] cast by [[Earth]]. Within the [[umbra]], the central region, the planet totally shields direct [[sunlight]]. In contrast, within the [[penumbra]], the outer portion, the sunlight is only partially blocked. (Neither the [[Sun]], [[Moon]], and Earth sizes nor the distances between the bodies are to scale.)]]
+[[File:Penumbral lunar eclipse 1999 jan 31.png|thumb|240px|middle|A [[total penumbral lunar eclipse]] dims the Moon in direct proportion to the area of the Sun's disk covered by Earth. This comparison of the Moon (within the southern part of [[Earth's shadow]]) during the penumbral lunar eclipse of [[January 1999 lunar eclipse|January 1999]] (left) and the Moon outside the shadow (right) shows this slight darkening.]]
+
+[[Earth's shadow]] can be divided into two distinctive parts: the [[umbra]] and [[penumbra]]. Earth totally occludes direct [[solar radiation]] within the umbra, the central region of the shadow. However, since the Sun's [[angular diameter|diameter appears]] about one-quarter of Earth's in the [[Extraterrestrial skies#The Moon|lunar sky]], the planet only partially blocks direct [[sunlight]] within the penumbra, the outer portion of the shadow.
+
+A '''penumbral lunar eclipse''' occurs when the Moon passes through Earth's penumbra. The penumbra causes a subtle dimming of the lunar surface. A special type of penumbral eclipse is a '''[[total penumbral lunar eclipse]]''', during which the Moon lies exclusively within Earth's penumbra. Total penumbral eclipses are rare, and when these occur, the portion of the Moon closest to the umbra may appear slightly darker than the rest of the lunar disk.
+
+A '''partial lunar eclipse''' occurs when only a portion of the Moon enters Earth's umbra, while a '''total lunar eclipse''' occurs when the entire Moon enters the planet's umbra. The Moon's average [[orbital speed]] is about {{convert|2300|mph|km/s|abbr=on|sigfig=3|order=flip}}, or a little more than its diameter per hour, so totality may last up to nearly 107 minutes. Nevertheless, the total time between the first and the last contacts of the Moon's limb with Earth's shadow is much longer and could last up to four hours.<ref>{{cite book |title=Fundamental Astronomy |first=Hannu |last=Karttunen |publisher=Springer |url=https://books.google.com/books?id=DjeVdb0sLEAC&pg=PA139|isbn=9783540341444 |date=2007|page=139}}</ref>
+
+The [[lunar distance (astronomy)|relative distance]] of the Moon from Earth at the time of an eclipse can affect the eclipse's duration. In particular, when the Moon is near [[apogee]], the farthest point from Earth in [[orbit of the Moon|its orbit]], its [[orbital speed]] is the slowest. The diameter of Earth's umbra does not decrease appreciably within the changes in the Moon's orbital distance. Thus, the concurrence of a totally eclipsed Moon near apogee will lengthen the duration of totality.
+
+A '''central lunar eclipse''' is a total lunar eclipse during which the Moon passes through the centre of Earth's shadow, contacting the [[antisolar point]]. This type of lunar eclipse is [[list of central lunar eclipses|relatively rare]].
+{{clear}}
+
+===Selenelion===
+[[File:Lunar eclipse at sunrise Minneapolis October 2014.png|thumb|A view of the [[October 2014 lunar eclipse]] from [[Minneapolis]], with the setting and partially eclipsed Moon [[atmospheric refraction|appearing squashed]] just above the horizon just after [[sunrise]] (seen as [[sunlight]] shining on the tree in the right image)]]
+
+A '''selenelion''' or '''selenehelion''' occurs when both the Sun and an eclipsed Moon can be observed at the same time. This can occur only just before [[sunset]] or just after [[sunrise]], when both bodies will appear just above the [[horizon]] at nearly [[opposition (planets)|opposite points]] in the sky. This arrangement has led to the phenomenon being also called a '''horizontal eclipse'''.
+
+Typically, a number of high ridges undergoing [[false sunrise|sunrise]] or [[false sunset|sunset]] can view it. Although the Moon is in Earth's umbra, both the Sun and an eclipsed Moon can be simultaneously seen because [[atmospheric refraction]] causes each body to [[Mirage#Superior mirage|appear higher]] in the sky than their true geometric positions.<ref>{{cite web |url=http://www.skyandtelescope.com/community/skyblog/observingblog/97224024.html |title=Observing Blog - In Search of Selenelion |work=[[Sky & Telescope]] |author= |date=2010-06-26 |accessdate=2011-12-08}}</ref>
+
+==Timing==
+[[File:Lunareclipsediagram.svg|thumb|280px|right|As viewed from Earth, the Earth’s shadow can be imagined as two concentric circles. As the diagram illustrates, the type of lunar eclipse is defined by the path taken by the Moon as it passes through Earth’s shadow. If the Moon passes through the outer circle but does not reach the inner circle, it is a penumbral eclipse; if only a portion of the moon passes through the inner circle, it is a partial eclipse; and if entire Moon passes through the inner circle at some point, it is a total eclipse.]] 
+[[File:Lunar eclipse contact diagram.svg|thumb|left|Contact points relative to the Earth's umbral and penumbral shadows, here with the Moon near is descending node]]
+{{Total_lunar_eclipse_contacts}}
+
+==Danjon scale==
+The following scale (the [[Danjon scale]]) was devised by [[André Danjon]] for rating the overall darkness of lunar eclipses:<ref>{{cite web |title=Observing and Photographing Lunar Eclipses |url =http://skytonight.com/observing/objects/eclipses/3304036.html |authors=Paul Deans and Alan M. MacRobert |work=[[Sky & Telescope]] |publisher=[[F+W]] |date=July 16, 2006}}</ref>
+:'''L=0''': Very dark eclipse. Moon almost invisible, especially at mid-totality.
+:'''L=1''': Dark eclipse, gray or brownish in coloration. Details distinguishable only with difficulty.
+:'''L=2''': Deep red or rust-colored eclipse. Very dark central shadow, while outer edge of umbra is relatively bright.
+:'''L=3''': Brick-red eclipse. Umbral shadow usually has a bright or yellow rim.
+:'''L=4''': Very bright copper-red or orange eclipse. Umbral shadow is bluish and has a very bright rim.
+
+==Lunar versus solar eclipse==
+[[File:Solar lunar eclipse diagram.png|320px|thumb|A solar eclipse occurs in the daytime at [[new moon]], when the Moon is between Earth and the Sun, while a lunar eclipse occurs at night at [[full moon]], when Earth passes between the Sun and the Moon.]]
+[[File:Blood Moon Corrected Labels.png|320px|thumb|The Moon does not completely darken as it passes through the umbra because [[Earth's atmosphere]] [[atmospheric refraction|refracts]] [[sunlight]] into the shadow cone.]]
+
+There is often confusion between a solar eclipse and a lunar eclipse. While both involve interactions between the Sun, Earth, and the Moon, they are very different in their interactions.
+
+===Lunar eclipse appearance===
+[[File:Lunar eclipse oct 8 2014 Minneapolis 4 46am.png|thumb|320px|left|In a lunar eclipse, the Moon often passes through two regions of [[Earth's shadow]]: an outer penumbra, where direct sunlight is dimmed, and an inner umbra, where indirect and much dimmer sunlight [[atmospheric refraction|refracted]] by Earth's atmosphere shines on the Moon, leaving a reddish color. This can be seen in different exposures of a partial lunar eclipse, for example here with exposures of 1/80, 2/5, and 2 seconds.]]
+
+The Moon does not completely darken as it passes through the umbra because of the [[atmospheric refraction|refraction]] of [[sunlight]] by [[Earth's atmosphere]] into the shadow cone; if Earth had no atmosphere, the Moon would be completely dark during the eclipse.<ref>{{cite web |url=http://eclipse.gsfc.nasa.gov/LEcat5/appearance.html |title=Visual Appearance of Lunar Eclipses |publisher=NASA |authors=Fred Espenak and Jean Meeus |quote=The troposphere and stratosphere act together as a ring-shaped lens that refracts heavily reddened sunlight into Earth's umbral shadow.}}</ref> The reddish coloration arises because sunlight reaching the Moon must pass through a long and dense layer of Earth's atmosphere, where it is [[Rayleigh scattering|scattered]]. Shorter [[wavelength]]s are more likely to be scattered by the air molecules and [[particulates|small particles]]; thus, the longer wavelengths predominate by the time the light rays have penetrated the atmosphere. Human vision perceives this resulting light as [[red]]. This is the same effect that causes [[sunset]]s and [[sunrise]]s to turn the sky a reddish color. An alternative way of conceiving this scenario is to realize that, as viewed from the Moon, the Sun would appear to be setting (or rising) behind Earth.
+
+[[File:Lunar eclipse from moon simulation-sep 28 2015.png|thumb|180px|From the Moon, a lunar eclipse would show a ring of reddish-orange light surrounding a silhouetted Earth in the lunar sky.]]
+
+The amount of refracted light depends on the amount of [[particulates|dust]] or [[cloud]]s in the atmosphere; this also controls how much light is scattered. In general, the dustier the atmosphere, the more that other wavelengths of light will be removed (compared to red light), leaving the resulting light a deeper red color. This causes the resulting coppery-red hue of the Moon to vary from one eclipse to the next. Volcanoes are notable for expelling large quantities of dust into the atmosphere, and a large eruption shortly before an eclipse can have a large effect on the resulting color.
+
+[[File:Eclipse Christophe Colomb.jpg|thumb|[[Christopher Columbus]] predicting [[March 1504 lunar eclipse|a lunar eclipse]].]]
+
+==Lunar eclipse in culture==
+Several cultures have [[myth]]s related to lunar eclipses or allude to the lunar eclipse as being a good or bad omen. The [[Egyptian mythology|Egyptians]] saw the eclipse as a sow swallowing the moon for a short time; other cultures view the eclipse as the Moon being swallowed by other animals, such as a [[jaguar]] in [[Mayan mythology|Mayan]] tradition, or a [[Chan Chu|three legged toad]] in [[Chinese mythology|China]]. Some societies thought it was a demon swallowing the Moon, and that they could chase it away by throwing stones and curses at it.<ref>{{cite book |last=Littmann |first=Mark|last2=Espenak|first2=Fred|last3=Willcox |first3=Ken|edition=3rd|date=2008 |title=Totality Eclipses of the Sun |url=https://books.google.com/books?id=UOnH01tv078C|location=New York |publisher=[[Oxford University Press]] |chapter=Chapter 4: Eclipses in Mythology |isbn=978-0-19-953209-4}}</ref> The Greeks were ahead of their time when they said the Earth was round and used the shadow from the lunar eclipse as evidence.<ref>{{cite web|last1=Pollack|first1=Rebecca|title=Ancient Myths Revised with Lunar Eclipse|url=https://www.astro.umd.edu/openhouse/3about-the-obs/news/2003-11-10.html|publisher=University of Maryland|accessdate=2 October 2014}}</ref> Some Hindus believe in the importance of bathing in the Ganges River following an eclipse because it will help to achieve [[salvation]].<ref>{{cite web|last1=Ani|title=Hindus take a dip in the Ganges during Lunar Eclipse|url=https://in.news.yahoo.com/hindus-dip-ganges-during-lunar-eclipse-105428179.html|website=Yahoo News|accessdate=2 October 2014}}</ref>
+
+===Incans===
+Similarly to the Mayans, the Incans believed that lunar eclipses occurred when a jaguar would eat the Moon, which is why a blood moon looks red.  The Incans also believed that once the jaguar finished eating the Moon, it could come down and devour all the animals on Earth, so they would take spears and shout at the Moon to keep it away.<ref name="National Geographic">{{cite web|last1=Lee|first1=Jane|title=Lunar Eclipse Myths From Around the World|url=http://news.nationalgeographic.com/news/2014/04/140413-total-lunar-eclipse-myths-space-culture-science/|website=National Geographic|accessdate=9 October 2014}}</ref>
+
+===Mesopotamians===
+The ancient Mesopotamians believed that a lunar eclipse was when the Moon was being attacked by seven demons.  This attack was more than just one on the Moon, however, for the Mesopotamians linked what happened in the sky with what happened on the land, and because the king of Mesopotamia represented the land, the seven demons were thought to be also attacking the king.  In order to prevent this attack on the king, the Mesopotamians made someone pretend to be the king so they would be attacked instead of the true king. After the lunar eclipse was over, the substitute king was made to disappear (possibly by poisoning).<ref name="National Geographic"/>
+
+===Chinese===
+In some Chinese cultures, people would ring bells to prevent a dragon or other wild animals from biting the Moon.<ref>{{cite web|last1=Quilas|first1=Ma Evelyn|title=Interesting Facts and Myths about Lunar Eclipse|url=http://au.ibtimes.com/articles/548133/20140415/lunar-eclipse-facts-myths-superstition-nasa.htm#.VC2MJyldXmU|website=LA Times|accessdate=2 October 2014}}</ref> In the nineteenth century, during a lunar eclipse, the Chinese navy fired its artillery because of this belief.<ref>{{cite web|title=MYTHOLOGY OF THE LUNAR ECLIPSE|url=http://www.lifeasmyth.com/journal_planet_Eclipse.html}}</ref> During the Zhou Dynasty in the Book of Songs, the sight of a red Moon engulfed in darkness was believed to foreshadow famine or disease.<ref>{{cite web|last1=Kaul|first1=Gayatri|title=What Lunar Eclipse Means in Different Parts of the World|url=http://www.dnaindia.com/india/report-what-lunar-eclipse-means-in-different-parts-of-world-1555136|website=India.com|accessdate=6 October 2014}}</ref>
+
+==Blood moon==
+{{see also|Blood Moon Prophecy}}
+
+Certain lunar eclipses have been referred to as "blood moons" in popular articles but this is not a scientifically-recognized term.<ref name="Sappenfield">{{cite news|last=Sappenfield|first=Mark|title=Blood Moon to arrive Monday night. What is a Blood Moon?|url=http://www.csmonitor.com/Science/2014/0413/Blood-Moon-to-arrive-Monday-night.-What-is-a-Blood-Moon|accessdate=8 February 2018|newspaper=[[Christian Science Monitor]]|date=13 April 2014}}</ref>  This term has been given two separate, but overlapping, meanings.
+
+The first, and simpler, meaning relates to the reddish color a totally eclipsed Moon takes on to observers on Earth.<ref name="Nigro">{{cite book|last=Nigro|first=Nicholas |title=Knack Night Sky: Decoding the Solar System, from Constellations to Black Holes|url=https://books.google.com/books?id=iwim2lHciHAC&pg=PA214|date=2010|publisher=[[Globe Pequot]]|isbn=978-0-7627-6604-8|pages=214–5}}</ref> As [[sunlight]] penetrates the [[atmosphere of Earth]], the gaseous layer [[Extinction (astronomy)#Atmospheric extinction|filters]] and [[atmospheric refraction|refracts]] the rays in such a way that the green to violet wavelengths on the [[visible spectrum]] [[light scattering|scatter]] more strongly than the red, thus giving the Moon a reddish cast.<ref>{{cite news|title=All you need to know about the 'blood moon'|newspaper=theguardian|date=28 September 2015 <!-- 09.07 BST --> |url=https://www.theguardian.com/science/2015/sep/28/all-you-need-to-know-about-the-blood-moon}}</ref>
+
+The second meaning of "blood moon" has been derived from this apparent coloration by two [[Christian fundamentalism|fundamentalist Christian]] pastors, Mark Blitz and [[John Hagee]].<ref name="Sappenfield" /><ref name="McClure">{{cite news|title=What is a Blood Moon?|url=http://earthsky.org/space/what-is-a-blood-moon-lunar-eclipses-2014-2015|accessdate=30 May 2014|newspaper=[[Earth & Sky]]|date=24 April 2014}}</ref>  They claimed that the 2014–15 "[[tetrad (astronomy)|lunar tetrad]]" of four lunar eclipses coinciding with the feasts of [[Passover]] and [[Sukkot|Tabernacles]] matched the "moon turning to blood" described in the [[Book of Joel]] of the [[Hebrew Bible]].<ref name="McClure" /> This tetrad was claimed to herald the [[Second Coming|Second Coming of Christ]] and the [[Rapture]] as described in the [[Book of Revelation]] on the date of the first of the eclipses in this sequence [[List_of_dates_predicted_for_apocalyptic_events|on April 15, 2014]].<ref>{{cite news|last1=Bailey|first1=Sarah Pulliam|title=‘Blood moon’ sets off apocalyptic debate among some Christians|url=https://www.washingtonpost.com/national/religion/blood-moon-sets-off-apocalyptic-debate-among-some-christians/2014/04/15/00b76502-c4be-11e3-9ee7-02c1e10a03f0_story.html|accessdate=8 February 2018|work=Washington Post|agency=Religion News Service|date=15 April 2014}}</ref>
+
+==Occurrence==
+[[File:Lunar Eclipse at ESO 2017.jpg|thumb|This [[multiple exposure|multi-exposure]] sequence shows the [[August 2017 lunar eclipse]] visible from the [[European Southern Observatory|ESO]] headquarters.<ref>{{cite web |title=Lunar Eclipse @ ESO |url=https://www.eso.org/public/images/potw1733a/ |publisher=[[European Southern Observatory]] |accessdate=14 August 2017}}</ref>]]
+[[File:Blood Moon.tif|thumb|This collage shows the transitional stages of a lunar eclipse.]]
+{{see also|Saros (astronomy)|Eclipse cycle}}
+
+At least two lunar eclipses and as many as five occur every year, although total lunar eclipses are significantly less common. If the date and time of an eclipse is known, the occurrences of upcoming eclipses are predictable using an [[eclipse cycle]], like the [[saros (astronomy)|saros]].
+
+===Recent and forthcoming lunar eclipses===
+{{main article|List of 21st-century lunar eclipses}}
+{{further|Lists of lunar eclipses}}
+
+Eclipses occur only during an [[eclipse season]], when the Sun appears to pass near either [[lunar node|node]] of the [[orbit of the Moon|Moon's orbit]].
+
+{{Lunar eclipse set 1998-2002}}
+{{Lunar eclipse set 2002-2005}}
+{{Lunar eclipse set 2006-2009}}
+{{Lunar eclipse set 2009-2013}}
+{{Lunar eclipse set 2013-2016}}
+{{Lunar eclipse set 2016-2020}}
+
+==See also==
+{{Wikipedia books|Lunar Eclipses}}
+* [[Lists of lunar eclipses]] and [[List of 21st-century lunar eclipses]]
+*[[Moon illusion]]
+*[[Orbit of the Moon]]
+{{portalbar|Astronomy|Moon}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Bao-Lin Liu, ''Canon of Lunar Eclipses 1500 B.C.-A.D. 3000'', 1992
+*[[Jean Meeus]] and [[Hermann Mucke (astronomer)|Hermann Mucke]] ''Canon of Lunar Eclipses''. Astronomisches Büro, Vienna, 1983
+*Espenak, F., ''Fifty Year Canon of Lunar Eclipses: 1986–2035.'' NASA Reference Publication 1216, 1989
+
+==External links==
+{{Sister project links|wikt=lunar eclipse|commons=Category:Lunar eclipse|v=no|q=no|s=The New Student's Reference Work/Eclipse|b=High School Earth Science/The Sun and the Earth-Moon System}}
+* [https://www.youtube.com/watch?v=wuhNZejHeBg ''Lunar Eclipse Essentials'': video from NASA]
+*[http://alienworlds.southwales.ac.uk/lunarEclipse.html Animated explanation of the mechanics of a lunar eclipse], University of South Wales
+*[http://aa.usno.navy.mil/data/docs/LunarEclipse.php U.S. Navy Lunar Eclipse Computer]
+*[http://eclipse.gsfc.nasa.gov/lunar.html NASA Lunar Eclipse Page]
+*[http://xjubier.free.fr/en/site_pages/lunar_eclipses/5MCLE/xLE_Five_Millennium_Canon.html Search among the 12,064 lunar eclipses over five millennium and display interactive maps]
+*[http://www.mreclipse.com/Special/LEprimer.html Lunar Eclipses for Beginners]
+*[http://www.nyip.com/ezine/outdoors/eclipse.html Tips on photographing the lunar eclipse from New York Institute of Photography]
+*{{YouTube|wAn6NrxUt7g|Lunar Eclipse 08 October 2014}}
+
+{{The Moon}}
+{{Lunar eclipses}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lunar Eclipse}}
+[[Category:Astronomical events]]
+[[Category:Eclipses]]
+[[Category:Lunar eclipses| ]]
+[[Category:Lunar observation]]

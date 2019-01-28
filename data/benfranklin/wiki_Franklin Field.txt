@@ -1,0 +1,226 @@
+{{for|other uses, including airports with this name|Franklin Field (disambiguation)}}
+{{Infobox venue
+| stadium_name      = Franklin Field
+| nickname          =
+| image             = [[File:Franklin Field aerial.jpg|250px|right]]
+| location          = South 33rd and Spruce Streets<br>Philadelphia, PA 19104
+| broke_ground      = 1895
+| built             =
+| opened            = April 20, 1895 
+| closed            =
+| demolished        =
+| owner             = [[University of Pennsylvania]]
+| operator          = [[University of Pennsylvania]]
+| surface           = <u>Field</u><br>Grass (1895–1969)<br>[[AstroTurf]] (1969–2004)<br>Sprinturf (2004–present)<br><u>Track</u><br>Cinders (1895–1987)<br>Rekortan (1988–present)
+| construction_cost = $100,000 (1895)<br>(${{formatprice|{{Inflation|US|100000|1895}}}} in {{Inflation-year|US}} dollars{{inflation-fn|US}})
+| architect         = [[Frank Miles Day|Frank Miles Day & Brother]]<br>[[Charles Klauder]]
+| general_contractor= [[Turner Construction]] (permanent structure in 1922)
+| former_names      =
+| tenants           = [[Penn Quakers]] ([[National Collegiate Athletic Association|NCAA]]) (1895–present)<br>[[Philadelphia Eagles]] ([[National Football League|NFL]]) (1958–1970)<br>[[Philadelphia Bell]] ([[World Football League|WFL]]) (1975)<br>[[Philadelphia Atoms]] ([[North American Soccer League (1968–84)|NASL]]) (1976)<br>[[Philadelphia Spinners]] ([[Major League Ultimate|MLU]]) (2012–2014)
+| seating_capacity  = 30,000 (1895–1922)<br>50,000 (1922–1925)<br>78,000 (1925–1958)<br>60,658 (1958–1970)<br>60,546 (1970–1989)<br>52,593 (1989–2002)<br>52,958 (2003–present)
+|publictransit       = {{rint|septa|60px}} [[University City station|University City]]: [[SEPTA Regional Rail]]<br>{{bus icon|12px}} {{rint|septa|60px}} [[SEPTA]] bus: {{SEPTA bus link|30|40|42|LUCY}}
+}}
+'''Franklin Field''' is the home of the [[Penn Relays]], and is the [[University of Pennsylvania]]'s stadium for [[American football|football]], [[track and field]], [[lacrosse]] and formerly for [[soccer]], [[field hockey]] and [[baseball]]. It is also used by Penn students for recreation, and for [[intramural]] and [[college athletics|club sports]], including [[touch football (American)|touch football]] and [[cricket]], and is the site of Penn's graduation exercises, weather permitting.
+
+Franklin Field is located in [[Philadelphia]], at the eastern edge of Penn's campus, across the [[Schuylkill River]] from [[Center City, Philadelphia|Center City]].
+
+Deemed by the [[National Collegiate Athletic Association|NCAA]] as the oldest stadium still operating for football, it was the site of the nation's first scoreboard in 1895, the nation's first stadium with an upper deck of seats in 1922, and was the site of the first radio broadcast of a football game in 1922 on [[WTEL (AM)|WIP]] and the first television broadcast of a football game by [[KYW-TV|Philco]].<ref>http://www.pennathletics.com/page/franklin-field</ref>
+
+From 1958 until 1970, the stadium was the home field of the [[Philadelphia Eagles]] of the [[National Football League]].
+
+==History==
+[[File:FranklinField1922.PNG|thumb|left|200px| Workmen laying bricks on south wall of Franklin Field circa 1922.]] Franklin Field was built for {{USD|100000|1895}} and dedicated on April 20, 1895, for the first running of the [[Penn Relays]]. 
+The Field supplemented and eventually replaced the venue called '''University Grounds''', which was located a few blocks west on a block bounded by Spruce Street (north), 38th Street (east), Pine Street (south), Woodland Avenue and 37th Street T-intersection (northwest). Its location was typically given as "37th and Spruce".<ref>http://www.archives.upenn.edu/img/alum/blkly1894x600.jpg</ref>
+
+Permanent Franklin Field construction did not begin until after the turn of the century. Weightman Hall gymnasium, the stadium, and permanent grandstands were designed by architect [[Frank Miles Day|Frank Miles Day & Brother]] and were erected from 1903 to 1905 at a cost of {{USD|500000|1905}}. The field was 714 feet long and 443 feet wide. The site featured a ¼-mile track, a football field, and a baseball diamond. Beneath the stands were indoor tracks and indoor training facilities.<ref>{{cite book |last=Nitzsche|first=George E.|title=University of Pennsylvania: Its History, Traditions, Buildings and Memorials|url=https://books.google.com/books?id=CWYgAAAAMAAJ&pg=PA186&lpg=PA186&dq=%22Weightman+Hall%22&source=bl&ots=2ReAZ8GC-W&sig=bDzE58YjLmlHn9vWBPIGS6nO7N4&hl=en&ei=b-76SZvtJcOFtgeJn7naBQ&sa=X&oi=book_result&ct=result&resnum=5#PPA186,M1|publisher=International Publishing Company|year=1918|location=Philadelphia|edition=Seventh |isbn=|pages=186}}</ref>
+
+In 1916, university officials, led by George Neitzche, planned with the city to build a new 100,000-seat half-sunken stadium for $750,000 at Woodland Ravine, a depression on the southeastern side of [[The Woodlands (Philadelphia)|Woodland Cemetery]]. Plans called for a new train station called Union Station which would feature a [[Pennsylvania Railroad]] stop and a stop on a proposed (and never built) elevated subway line connected to the [[Market–Frankford Line]]. Architecture firm Koronski & Cameron created a rendering but plans quickly collapsed. Five years later, it was decided instead to expand Franklin Field.<ref>{{cite news |first= |last=|title=99 Years Ago in Philadelphia: Middle of February, 1916|date=2015-02-18|publisher=Philaphilia|url =http://philaphilia.blogspot.com/2015/02/99-years-ago-in-philadelphia-middle-of.html|accessdate=2015-03-11}}</ref>
+
+The current stadium structure was built in the 1920s, designed by Day & Klauder, after the original wooden bleachers were torn down. The lower tier was erected in 1922. The old wood stands were razed immediately following the Penn Relays and the new concrete lower tier and seating for 50,000 were built.<ref>{{cite news |title=PENN CANNOT BE HOST.; Changes at Franklin Field Bar Track for Intercollegiates.|date=1922-01-08|work=[[New York Times]]|url=https://timesmachine.nytimes.com/timesmachine/1922/01/08/107044252.pdf|pages=120|accessdate=2009-04-17 |format=PDF}}</ref> The second tier was added in 1925, again designed by [[Charles Klauder|Day & Klauder]], when it became the second (and the largest) two-tiered stadium in the United States.<ref>{{cite news |first=Mary D. |last=McConaghy|author2=Michael T. Woods |title=Penn Sports in the 1800s: The Origins of Penn Athletics|year=2005|publisher=[[University of Pennsylvania]]: University Archives and Records Center |url=http://www.archives.upenn.edu/histy/features/sports/sports1800s.html|accessdate=2009-01-08}}</ref>
+
+[[File:Penn - Franklin Field - 1922.jpg|thumb|left|200px| Franklin Field upon completion in 1922.]] The first football radio broadcast originated from Franklin Field in 1922. It was carried by Philadelphia station [[WTEL (AM)|WIP]]. This claim is pre-empted by an earlier live radio broadcast emanating from Forbes Field in Pittsburgh, on October 8, 1921, a full year before Franklin Field's claim to fame. Harold W. Arlin announced the live broadcast of the Pitt-West Virginia football game on October 8, 1921, on radio station KDKA. The first commercial football television broadcast in 1939 also came from Franklin Field.<ref name=Eagles />
+
+The [[1936 Democratic National Convention]] was concluded at Franklin Field, where President [[Franklin D. Roosevelt]] delivered his acceptance speech after being renominated for a second term.
+
+In the university's football heyday—when Penn led the nation in attendance—the 65,000-seat stadium was expanded each fall with temporary stands to seat 78,000. Today, Franklin Field, named after Penn's founder, [[Benjamin Franklin]], seats 52,958.
+
+Franklin Field switched from grass to AstroTurf in 1969. It was the first National Football League stadium to use artificial turf. The stadium's fifth AstroTurf surface was installed in 1993. The current Sprinturf field replaced the AstroTurf in 2004.<ref>{{cite news|first=Michael|last=Gertner|title=Franklin Field features new turf, scoreboard|date=2004-09-02|work=[[Daily Pennsylvanian]]|url=http://media.www.dailypennsylvanian.com/media/storage/paper882/news/2004/09/02/Sports/Franklin.Field.Features.New.Turf.Scoreboard-2151153.shtml|accessdate=2008-12-17|language=}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Franklin Field was considered a candidate to host games for the [[1994 FIFA World Cup|1994 World Cup]]. [[FIFA]] required that host stadiums have natural grass. Had Philadelphia been selected and Franklin Field used, the stadium would have had to return to a grass surface,<ref>{{cite news |title=Franklin Field May Get Grass if Phila. Gets World Cup Soccer|date=1989-07-15|work=[[Philadelphia Inquirer]] |page=D01}}</ref> or perhaps use a temporary grass field as was done at two World Cup sites—[[Giants Stadium]] in [[East Rutherford, New Jersey]], and the [[Pontiac Silverdome]] in [[Pontiac, Michigan]].
+
+==Track and field==
+[[File:FranklinField.JPG|thumb|left|200px|Fieldhouse at the west end of the field]]
+
+===Penn Relays===
+{{details|Penn Relays}}
+Franklin Field has hosted the annual [[Penn Relays|Penn Relays Carnival]], the largest track-and-field meet in the U.S., for over 100&nbsp;years.
+
+The first Penn Relays was held in 1895. Frank B. Ellis, chairman of Penn's track committee, was looking for an event to mark the dedication of the school's then new stadium, Franklin Field. Two years earlier, during his senior year at Penn, Penn and [[Princeton University|Princeton]] competed in a one-mile relay race in which four runners from each school each ran a quarter of a mile. That race had been an outgrowth of intramural relay races held at Penn. Ellis and others arranged a series of relay races to take place on Saturday afternoon, April 20, 1895. 64 competitors from eight colleges, six prep schools and two high schools took part. Eight two-team races were run with Harvard beating Penn in the mile-relay feature in 3:34.4.<ref>{{cite news| first=| last=| title=The Relays!| date=1955-05-02| work=[[Sports Illustrated]]| url=http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1069475/1/index.htm| pages=| accessdate=2009-01-08| language=| deadurl=yes| archiveurl=https://archive.is/20120717170006/http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1069475/1/index.htm| archivedate=2012-07-17| df=}}</ref>
+
+The Relays were featured in the April 29, 1961, premiere of [[ESPN on ABC|ABC]]'s ''[[Wide World of Sports (US TV series)|Wide World of Sports]]''.
+
+===Other meets===
+The 2nd [[Soviet Union|USSR]]-United States [[Track and field athletics|Track and Field]] dual meet was held at Franklin Field on July 18 and 19, 1959. Stars who competed included [[Parry O'Brien]], [[Ray Norton]], [[Al Cantello]], [[Hayes Jones]], [[Tamara Press]], [[Vasili Kuznetsov (athlete)|Vasili Kuznetsov]], [[Dyrol Burleson]], [[Greg Bell (athlete)|Greg Bell]], a young [[Wilma Rudolph]], and future long-jump great [[Igor Ter-Ovanesyan]].<ref>{{cite news | first=| last=ATF Editor| title=This Day in Track & Field: July 18–19 | date=2008-05-22| publisher=American Track & Field | url =http://www.american-trackandfield.com/read_feature/day-track-field| pages = | accessdate = 2009-01-08 | language = }}</ref>
+
+Franklin Field hosted the [[NCAA Men's Outdoor Track and Field Championship]] in June 1961, the first time the championship was held on the [[East Coast of the United States|East Coast]]. Seven records were set, and the [[USC Trojans|University of Southern California]] won its 21st team Track & Field championship.<ref>{{cite news| first=Roy| last=Terrell| title=The Ncaa Visits The Wild East| date=1961-06-26| work=[[Sports Illustrated]]| url=http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1072717/1/index.htm| pages=| accessdate=2009-01-08| language=| deadurl=yes| archiveurl=https://archive.is/20120718141145/http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1072717/1/index.htm| archivedate=2012-07-18| df=}}</ref>
+
+Following the [[Montreal]] [[1976 Summer Olympics]] and in honor of the [[United States Bicentennial]], Franklin Field hosted The Bicentennial Meet of Champions track and field event on August 4, 1976. Montreal Olympians at the meet included [[Hasely Crawford]], [[Don Quarrie]], [[Michael Shine]] and [[Edwin Moses]]. The meet was also a chance for top runners including [[Houston McTear]] who had not been able to compete in Montreal to race against medal winners.<ref>{{cite news | first=| last=[[Associated Press]]| title=Olympic medalists in Bicentennial meet| date=1976-08-04| publisher=[[The Daily Courier (Arizona)|The Prescott Courier]] | url =https://news.google.com/newspapers?nid=886&dat=19760804&id=-R0LAAAAIBAJ&sjid=UFADAAAAIBAJ&pg=5888,4874152| pages = | accessdate = 2009-07-06 | language = }}</ref> 13,722 attended the event and saw [[Dwight Stones]] set a record for the high-jump and [[John Walker (athlete)|John Walker]] win the mile.<ref>{{cite news | first=Dan| last=Berger| title=Stones aims higher| date=1976-08-05| publisher=[[The Free Lance–Star]] | url =https://news.google.com/newspapers?nid=1298&dat=19760805&id=sQ0UAAAAIBAJ&sjid=D4sDAAAAIBAJ&pg=4826,3522960| page =8 | accessdate = 2009-07-06 | language = }}</ref>
+
+The University of Pennsylvania hosted the two-day [[Liberty Bell Classic|1980 Liberty Bell Track and Field Classic]], an alternate to the [[1980 Summer Olympics]] for 26 countries participating in the [[1980 Summer Olympics boycott|American-led boycott of the 1980 Summer Olympics]] which were held in Moscow. The Liberty Bell Classic began on July 16, 1980. It was the largest international track meet held in the U.S. since the [[1932 Summer Olympics]] in terms of the number of foreign competitors. Franklin Field hosted the track and field events where 20,111 spectators saw the final evening of competitions. In several events, the times were better than those in Moscow, such as American [[Renaldo Nehemiah]]'s time of 13.31 in the 110m hurdles ahead of East German gold medal winner [[Thomas Munkelt]]'s time of 13.39.<ref>{{cite news| first=Craig| last=Neff| title=...and Meanwhile In Philadelphia: Half a world from Lenin Stadium, boycotting athletes, some of whom gave Olympian performances, proved there's no alternative to the Games| date=1980-07-28| work=[[Sports Illustrated]]| url=http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1123636/index.htm| pages=| accessdate=2009-06-15| language=| deadurl=yes| archiveurl=https://archive.is/20121202235510/http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1123636/index.htm| archivedate=2012-12-02| df=}}</ref>
+
+===Track configuration===
+The track in Franklin Field has a rarely used configuration where the 400 metre circumference is achieved in lane 5, rather than in lane one.  Thus there are two curbs on the track, inside of lane one and also inside of lane 5.  In order to accommodate the full fields of the Penn Relays and other meets, special adaptations are made with a movable curb on the backstretch to stagger the runners to arrive at a common break point in lane 5, rather than the conventional lane one.  Single lap races in the inner lanes, run portions of an extra straightaway.  Multiple lap races spend the majority of the race in lane 5 to run the proper distances.<ref>http://sites.google.com/site/collegeovalscom/ivy-league/franklin-field</ref>
+
+The current track was installed in 2015 by [http://www.attsports.com/ ATT Sports, Inc.], and uses a Rekortan track surface.
+
+==Football==
+[[File:FranlkinField2.jpg|right|thumb|300px|Franklin Field]]
+
+===Penn Quakers===
+Penn football played on Franklin Field for the first time in 1895. The University of Pennsylvania was one of the top football schools in the first years of college football. Many consider Penn to have been the national champion in college football in 1894, 1895, 1897 and 1904.<ref>{{cite book |title=Fight On, Pennsylvania |last=Rottenberg |first=Dan |year=1985 |publisher=Trustees of University of Pennsylvania |location=Philadelphia |pages=28, 33–34}}</ref> Other sources identify Penn as national champions in 1895, 1897, 1904 and 1908.<ref>{{cite web |title=College Football National Champions |url=http://www.collegefootballpoll.com/champions_national.html |publisher=collegefootballpoll.com |accessdate=2009-06-19 |deadurl=yes |archiveurl=https://web.archive.org/web/20110708175404/http://www.collegefootballpoll.com/champions_national.html |archivedate=2011-07-08 |df= }}</ref> [[John H. Outland]] played at Franklin Field for Penn in 1897 and 1898. On October 26, 1907, [[Jim Thorpe]] and the [[Carlisle Indian Industrial School|Carlisle Indian school]] trounced a powerful University of Pennsylvania team, 26-6, before an overflow crowd of 20,000 at Franklin Field.<ref>{{cite news |title=15 Most memorable Phila. sports moments. |date=2009-05-09 |newspaper=Philadelphia Inquirer |url=http://www.philly.com/philly/news/nation_world/20090529_During_The_Inquirer_s_180_years__a_city_that_loves_NO_HEAD_SPECIFIED.html |accessdate=2009-11-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20090926082141/http://www.philly.com/philly/news/nation_world/20090529_During_The_Inquirer_s_180_years__a_city_that_loves_NO_HEAD_SPECIFIED.html |archivedate=September 26, 2009}}</ref> [[Red Grange]] set an NCAA record at Franklin Field when he rushed for 331 yards<ref>{{cite news |title=Franklin Field |publisher=[[Ivy League|The Ivy League]] |url=http://www.ivyleaguesports.com/documents/02pennfbv.asp |accessdate=2009-01-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20080411232215/http://www.ivyleaguesports.com/documents/02pennfbv.asp |archivedate=April 11, 2008}}</ref> in the [[Illinois Fighting Illini football|University of Illinois]]' 24–2 victory over Penn on October 31, 1925, before 67,877 spectators.<ref>{{cite news |title=All-Time Scores: 1925 |date=July 2008 |publisher=University of Illinois Athletics |url=http://fightingillini.cstv.com/sports/m-footbl/archive/AllTimeScores.html |accessdate=2009-01-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20081216045848/http://fightingillini.cstv.com/sports/m-footbl/archive/AllTimeScores.html |archivedate=2008-12-16 |df= }}</ref>
+
+On Saturday, November 16, 2002, [[ESPN]] broadcast [[College GameDay (football)|College GameDay]] from Franklin Field prior to the game between Penn and [[Harvard Crimson|Harvard]]. Both teams entered the game undefeated, 5–0, in the conference. It was College GameDay's first broadcast from a [[NCAA Division I Football Championship|Division I-AA]] college.<ref>{{cite news |title=Yo! Who's No. 1? |date=2002-11-19 |publisher=[[Ivy League|The Ivy League]] |url=http://www.ivyleaguesports.com/article.asp?intID=1950 |accessdate=2009-01-05 |deadurl=yes |archiveurl=https://web.archive.org/web/20060614182809/http://ivyleaguesports.com/article.asp?intID=1950 |archivedate=June 14, 2006}}</ref> Penn won the contest, 44–9, and was undefeated and untied for the season. Harvard finished 6–1 in conference, 7–3 overall.<ref>{{cite news |author=Harvard Athletic Communications|title=Gridders Take A Fall In Philadelphia |date=2002-11-16 |publisher=GoCrimson.com |url=http://www.gocrimson.com/ViewArticle.dbml?SPSID=41070&SPID=3659&DB_OEM_ID=9000&ATCLID=679219 |accessdate=2009-01-05}} {{dead link|date=September 2010|bot=H3llBot}}</ref>
+
+The Penn Quakers football team played their 800th game ever at the stadium on October 4, 2008, against [[Dartmouth Big Green|Dartmouth]].<ref>{{cite news|first=Andy |last=Kuhn|title=Franklin Field 800: On Saturday, Quakers host 800th football game at facility for which they're 'caretakers'|date=2008-10-02|work=[[Daily Pennsylvanian]]|url=http://media.www.dailypennsylvanian.com/media/storage/paper882/news/2008/10/02/Sports/Franklin.Field.800-3465500.shtml |accessdate=2009-01-22|language=|deadurl=yes|archiveurl=https://web.archive.org/web/20081004051317/http://media.www.dailypennsylvanian.com/media/storage/paper882/news/2008/10/02/Sports/Franklin.Field.800-3465500.shtml|archivedate=2008-10-04}}</ref>
+
+===Philadelphia Eagles===
+The [[Philadelphia Eagles]] played at Franklin Field from [[1958 NFL season|1958]] through [[1970 NFL season|1970]]. They moved to the stadium for the 1958 season after leaving [[Connie Mack Stadium]]. Franklin Field would seat over 60,000 for the Eagles whereas Connie Mack had a capacity of 39,000. According to then-Eagles president Frank L. McNamee, the Eagles did not pay rent for use of Franklin Field because Penn was a not-for-profit organization. Instead, the Eagles donated between $75,000 and $100,000 per-year to pay for maintenance and other expenses. The university collected all concessions and parking revenue.<ref name=Eagles />
+
+On October 11, 1959, NFL Commissioner [[Bert Bell]] died after suffering a [[Myocardial infarction|heart attack]] at Franklin Field during the last two minutes of the game between the Eagles and [[Pittsburgh Steelers]].<ref>{{cite news |title=NFL History by Decade: 1950-1959|publisher=[[National Football League|NFL]] |url=http://www.nfl.com/history/chronology/1951-1960 |accessdate=2009-01-05}}</ref>
+
+The Eagles hosted the [[1960 NFL Championship Game]] here, defeating the [[Green Bay Packers]], 17–13,<ref>{{cite web |url=https://www.pro-football-reference.com/boxscores/196012260phi.htm|title=Green Bay Packers at Philadelphia Eagles – December 26, 1960|accessdate=2009-04-13 |publisher=[[Pro Football Reference]]}}</ref> in Packers' coach [[Vince Lombardi]]'s only career playoff loss. Attendance for the championship was 67,325.<ref>{{cite news|first=Tex|last=Maule|title=A Big Run Wins For A Big Defense|date=1961-01-09|work=[[Sports Illustrated]]|url=http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1072148/index.htm |accessdate=2009-04-13|deadurl=yes|archiveurl=https://archive.is/20120722210014/http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1072148/index.htm|archivedate=2012-07-22}}</ref>
+
+Two infamous incidents in Eagles history occurred at the stadium.
+
+====Santa Claus booed====
+During the December 15, 1968 game against the [[Minnesota Vikings]], a Christmas show was planned for halftime. The Eagles had entered the game 2–11, and fans were none too pleased with Eagles quarterback [[Norm Snead]], owner [[Jerry Wolman]], and especially coach [[Joe Kuharich]]: many fans came to the game wearing "Joe Must Go" buttons. Unfortunately, the man meant to play Santa was unable to make it to Franklin Field due to the bad weather. In lieu of the original halftime show, a 19-year-old fan named Frank Olivo (who came to the stadium already wearing a [[Santa Claus]] costume) was invited onto the field to toss candy canes with the cheerleaders. Frustrated by the team, the ugly wet weather, and his unconvincing beard, fans booed Olivo and threw snowballs at him. This incident is often referred to by sportscasters in denigrating Philadelphia sports fans as so mean they booed Santa Claus.<ref>{{cite news|first=Ronnie |last=Polaneczky |title=This is Philly: After 40 years, we'll still boo a bad Santa |date=2008-12-15 |work=[[Philadelphia Daily News]] |url=http://www.philly.com/philly/hp/news_update/20081215_Ronnie_Polaneczky__This_is_Philly__After_40_years__we_ll_still_boo_a_bad_Santa.html |accessdate=2008-12-15 |deadurl=yes |archiveurl=https://web.archive.org/web/20081216034235/http://www.philly.com/philly/hp/news_update/20081215_Ronnie_Polaneczky__This_is_Philly__After_40_years__we_ll_still_boo_a_bad_Santa.html |archivedate=December 16, 2008}}</ref> The Eagles lost the game, 24–17.<ref>{{cite web |url=https://www.pro-football-reference.com/boxscores/196812150phi.htm|title=Minnesota Vikings at Philadelphia Eagles – December 15, 1968|accessdate=2009-04-13 |publisher=[[Pro Football Reference]]}}</ref> (Olivo continued to attend Eagles games and even made a return as Santa Claus four decades later, at the Eagles' December 27, 2009 game against the [[Denver Broncos]] at [[Lincoln Financial Field]].)<ref>{{cite news|first=Kerith |last=Gabriel |title='Santa' recalls Eagles 1968 snowball incident |date=2009-12-28 |newspaper=Philadelphia Daily News |url=http://www.philly.com/philly/sports/20091228_Joseph_Santoliquito___Santa__recalls_Eagles_1968_snowball_incident.html |accessdate=2009-12-28 |deadurl=yes |archiveurl=https://web.archive.org/web/20091231032211/http://www.philly.com/philly/sports/20091228_Joseph_Santoliquito___Santa__recalls_Eagles_1968_snowball_incident.html |archivedate=December 31, 2009}}</ref>
+
+====Howard Cosell taken ill====
+On November 23, 1970, announcer [[Howard Cosell]] was apparently drunk during a nationally televised broadcast of the Eagles-[[New York Giants]] ''[[Monday Night Football]]'' game. After throwing up on [[color commentator]] [[Don Meredith]]'s cowboy boots shortly before halftime, Cosell left the stadium and took a taxi back to New York City. Meredith and [[play-by-play]] announcer [[Keith Jackson]] made little mention of his departure during the second half. Later, denying drunkenness, Cosell claimed that he had been dizzy from running laps around Franklin Field's track before the game with track star [[Tommie Smith]].{{Citation needed|date=September 2007}}
+
+===Other college football===
+[[File:ArmyNavy1908.jpeg|right|thumb|500px|1908 Army–Navy game at Franklin Field]]
+The [[Army–Navy Game]] was played 18 times at Franklin Field between 1899 and 1935 before moving to the larger [[Philadelphia Municipal Stadium|Municipal Stadium]] in South Philadelphia in 1936.<ref name=Eagles>{{cite book |last1=Didinger |first1=Ray |last2=Lyons |first2=Robert S. |title=The Eagles Encyclopedia |url=https://books.google.com/books?id=yV7lvstPuqgC&pg=PA205&dq=%22Franklin+Field%22+penn |accessdate=2009-01-08 |year=2005 |publisher=Temple University Press |location=Philadelphia |isbn=1-59213-449-1|page=205}}</ref> Penn alumnus and Olympic-medalist [[George Orton]] (who had worked with Frank Ellis in managing the Penn Relays) is credited with helping to bring the game to Philadelphia in 1899.<ref>{{cite web|title=George Washington Orton (1873–1958)|work=Penn Biographies |publisher=University of Pennsylvania Archives|url=http://www.archives.upenn.edu/people/1800s/orton_geo_w.html|accessdate=2009-04-30}}</ref>
+
+Temple University played its home football games at [[Temple Stadium]] until the late 1970s. Temple Stadium had opened in 1928 and sat up to 34,000 for football. Over the years, Temple had played home games at Franklin Field when crowds were expected to exceed Temple Stadium's capacity. Temple moved its home games to [[Veterans Stadium]] in the late 1970s but the [[Philadelphia Phillies|Phillies]] had priority for the field for Saturdays during baseball season, which ends the last week in September. When Temple home games conflicted with Phillies home games, Temple would play at Franklin Field. This continued through the 2002 season, Temple's final year at the Vet before the Owls moved to [[Lincoln Financial Field]] as tenants of the [[Philadelphia Eagles|Eagles]].<ref>{{cite news |first=David |last=Burrick |title=Franklin Field done serving as Owls' nest |url=http://media.www.dailypennsylvanian.com/media/storage/paper882/news/2003/09/12/Sports/Franklin.Field.Done.Serving.As.Owls.Nest-2154018.shtml |work=[[The Daily Pennsylvanian]] |date=2003-09-12 |accessdate=2009-06-19}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes}}</ref> One of the last Temple football games at Franklin Field was a 44–21 loss to the number-one-ranked [[2002 Miami Hurricanes football team|Miami Hurricanes]] on September 14, 2002; Miami's [[Willis McGahee]] rushed for 134 yards and four touchdowns in front of 33,169 fans.<ref>{{cite news|first=Dan|last=McQuade|title=Top-ranked Miami runs past Temple at Franklin Field|url=http://media.www.dailypennsylvanian.com/media/storage/paper882/news/2002/09/16/Sports/TopRanked.Miami.Runs.Past.Temple.At.Franklin.Field-2157261.shtml|work=[[The Daily Pennsylvanian]]|date=2002-09-16|accessdate=2009-06-19 |deadurl=yes|archiveurl=https://archive.is/20070514043144/http://media.www.dailypennsylvanian.com/media/storage/paper882/news/2002/09/16/Sports/TopRanked.Miami.Runs.Past.Temple.At.Franklin.Field-2157261.shtml|archivedate=2007-05-14|df=}}</ref>
+
+In [[2016 NCAA Division III football season|2016]], the multi-division [[Eastern College Athletic Conference]] (ECAC) held the second installment of its six [[NCAA Division III]] post-season [[bowl game]]s (over three days) at Franklin Field for select member teams that did not make the DIII playoffs. In the series's inaugural year, the games were played at [[Arute Field]] in [[New Britain, Connecticut]]. The bowl series will move to [[Delaware Stadium]] in [[2017 NCAA Division III football season|2017]], but will return to Franklin Field in [[2018 NCAA Division III football season|2018]].<ref>http://www.ecacsports.com/news/2017/5/31/football-ecac-d3-fb-fest-sites-announced-for-2017-18.aspx</ref>
+
+===Other professional football===
+The [[National Football League|NFL]]'s [[Frankford Yellow Jackets]] hosted the [[Dayton Triangles]] on September 24, 1927, at Franklin Field. The Yellow Jackets usually played their home games in the [[Frankford, Philadelphia, Pennsylvania|Frankford]] section of Philadelphia.<ref>{{cite news|first=John J.|last=Fenton |title=Philadelphia's Pro Football Stadiums|date=2001–2007|publisher=Ghosts of the Gridiron|url=http://home.comcast.net/~ghostsofthegridiron/stadiums.htm |accessdate=2009-01-13|deadurl=yes|archiveurl=https://web.archive.org/web/20081214135544/http://home.comcast.net/~ghostsofthegridiron/stadiums.htm |archivedate=2008-12-14}}</ref> The Triangles won, 6–3.<ref>{{cite news |title=1927 Dayton Triangles Game Results|date=2000–2008|publisher=Pro Football Reference |url=https://www.pro-football-reference.com/teams/day/1927_games.htm|accessdate=2009-01-13}}</ref>
+
+On August 23, 1958, the first [[Canadian Football League]] game played on American soil between two Canadian teams was played at Franklin Field, as the [[Hamilton Tiger-Cats]] defeated the [[Ottawa Rough Riders]], 13–7.<ref>{{cite news |first=Tony|last=Guadagnoli|title=Football's oldest stadiums: Witnesses to the game's evolution|date=2008-10-05|publisher=[[ESPN]] |url=http://sports.espn.go.com/travel/news/story?id=3620761&lpos=spotlight&lid=tab8pos1|accessdate=2008-10-16}}</ref>
+
+The [[Philadelphia Bell]] of the [[World Football League]] played their 1975 season home games at Franklin Field.
+
+Franklin Field hosted two [[United States Football League]] play off games; divisional playoff  game on June 30, 1984, between the host [[Philadelphia/Baltimore Stars|Philadelphia Stars]] and the visiting [[New Jersey Generals]]. The Stars were forced to play the game at Franklin Field because the [[Philadelphia Phillies]] had a game scheduled at [[Veterans Stadium]] that weekend. The Stars defeated the Generals, 28–7, behind two touchdowns from RB [[Kelvin Bryant]]. A crowd of 19,038 took in the game on a warm, overcast afternoon.<ref>{{cite news |title=1984 USFL Quarterfinals|publisher=OurSportsCentral.com/usfl |url=http://www.oursportscentral.com/usfl/84quart.htm|accessdate=2009-01-05}}</ref> The game was broadcast nationally on [[ABC Sports]]. The Eastern Conference championship game the following weekend against the [[Birmingham Stallions]] was also moved to Franklin, due to a Phillies game, and also broadcast on ABC.
+
+==Other sports==
+[[File:Franklin Field (Philadelphia)-exterior.JPG|thumb|left|200px|The arched exterior of Franklin Field]]
+Franklin Field served as Penn's baseball field early in its history, as records show that the varsity played here from 1895<ref>{{cite news |first=Michael T. |last=Woods|title=Penn Baseball in the 1800s: 1895 Varsity Team |date=August 2005|publisher=[[University of Pennsylvania]]: University Archives |url=http://www.archives.upenn.edu/histy/features/sports/baseball/1800s/1895.html|accessdate=2009-01-27}}</ref> until at least 1924.<ref>{{cite news |title=PENN BEATS YALE IN STRAW HAT GAME; Ten Thousand Baseball Fans, Many in Summer Head Dress, See Favorites Win, 8-5.|date=1924-05-24|work=[[New York Times]] |url=https://www.nytimes.com/1924/05/04/archives/penn-beats-yale-in-straw-hat-game-ten-thousand-baseball-fans-many.html|pages =S2 |accessdate=2009-04-17}}</ref>
+
+Franklin Field was the longtime home of Philadelphia's City Title high school football championship game. The game was held at the stadium in 1938, 1940, 1941, and from 1943 through 1972, before it moved to [[Veterans Stadium]]. On [[Thanksgiving (United States)|Thanksgiving Day]], 1941, 40,000 fans watched [[West Philadelphia High School|West Philadelphia]] tie [[West Philadelphia Catholic High School for Boys|West Philadelphia Catholic]], 0–0. In 1945, 54,000 fans saw [[South Philadelphia High School|Southern]] beat [[West Philadelphia Catholic High School for Boys|West Catholic]], 18–13. The 1946 game, played before 60,000, ended in a riot when [[Northeast High School (Philadelphia, Pennsylvania)|Northeast]] fans stormed the field in the final minute of the school's 33–26 victory over [[West Philadelphia Catholic High School for Boys|West Catholic]], prompting West Catholic fans to do the same.<ref>{{cite web |url=http://www.tedsilary.com/FBCitytitlegames.htm|title=FB City Title Recaps|accessdate=2009-04-23 |work=tedsillary.com|publisher=Ted Sillary|date=}}</ref>
+
+The [[North American Soccer League (1968–84)|NASL]] [[Philadelphia Atoms]] had played at [[Veterans Stadium]] from [[1973 North American Soccer League season|1973]]–[[1975 North American Soccer League season|1975]]. They moved to Franklin Field in [[1976 North American Soccer League season|1976]] which had better sight lines for soccer. Attendance was 8,400 for the home opener on May 2, 1976. They drew a season high of 25,000 for the July 17 match against the [[New York Cosmos (1971–1985)|New York Cosmos]] which featured soccer great [[Pele]]. The team averaged 6,449 at Franklin Field for their 11 home matches in 1976.<ref>{{cite news |first=Steve |last=Holroyd|title=Philadelphia atoms History: 1976 |publisher=PhiladelphiaAtoms.com|url=http://www.philadelphiaatoms.com/history5.htm|pages=|accessdate=2009-01-22}}</ref> The [[Philadelphia Fury (1978–80)|Philadelphia Fury]] hosted a play-off game against the [[Tampa Bay Rowdies (1975–93)|Tampa Bay Rowdies]] on August 23, 1979, at Franklin Field when the Fury's home field, Veterans Stadium, was being used by the Phillies.<ref>{{cite news |first=Mike|last=Tierney|title=Luck writes Rowdies' playoff script|date=1979-08-22|work=[[St. Petersburg Times]]|url =https://news.google.com/newspapers?id=Sw0OAAAAIBAJ&sjid=UnwDAAAAIBAJ&pg=6697,5000664&dq=philadelphia+fury+veterans+stadium|accessdate=2009-04-17}}</ref>
+
+Franklin Field was one of fifteen United States stadia (along with [[John F. Kennedy Stadium (Philadelphia)|John F. Kennedy Stadium]], also in Philadelphia) inspected by a five-member [[FIFA]] committee in April 1988 in the evaluation of the United States as a possible host of the [[1994 FIFA World Cup]].<ref>{{cite news |first=George|last=Vecsey|title=Sports of The Time; Americans Prepare for Lights, Cameras and Soccer|date=1988-04-10|work=[[New York Times]] |url=https://www.nytimes.com/1988/04/10/sports/sports-of-the-time-americans-prepare-for-lights-cameras-and-soccer.html?n=Top/Reference/Times%20Topics/People/V/Vecsey,%20George|accessdate=2009-04-24}}</ref> On August 25, 1989, a crowd of 43,356 at Franklin Field saw the [[United States men's national soccer team|US national soccer team]] defeat [[FC Dnipro Dnipropetrovsk|Dnepr]] of the [[Soviet Top League]], 1–0; [[Eric Eichmann]] scored the lone goal in the game's 12th minute.<ref>{{cite news |agency=[[Associated Press]]|title=RESULTS PLUS |date=1989-08-26|work=[[New York Times]]|url=https://www.nytimes.com/1989/08/26/sports/results-plus-632589.html?sec=&spon=|accessdate=2009-04-13}}</ref>
+
+On November 30, 2004, Franklin Field was home to the first [[rugby league]] match between the [[United States national rugby league team|United States]] and [[Australian national rugby league team|Australia]]. The United States led the [[Rugby League World Cup|World Cup]]-holders Australia for much of the game, but eventually lost, 36–24.<ref>{{cite news|first=Jonathan|last=Tannenwald|title=U.S. Rugby's upset bid spoiled by Australia at Franklin Field|date=2004-12-01|work=[[Daily Pennsylvanian]]|url=http://media.www.dailypennsylvanian.com/media/storage/paper882/news/2004/12/01/Sports/U.s-Rugbys.Upset.Bid.Spoiled.By.Australia.At.Franklin.Field-2149931.shtml|accessdate=2009-01-05}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>
+
+The stadium hosted the Division I [[NCAA Men's Lacrosse Championship]] in 1973 and 1992 and the [[NCAA Women's Lacrosse Championship|NCAA Division I Women's Lacrosse Championship]] in May 2007.<ref>{{cite news|title=2007 NCAA Division I Women's Lacrosse Championship Ticket Information|date=2007-01-10|work=Draw Philadelphia |url=http://www.drawphiladelphia.com/ViewArticle.dbml?DB_OEM_ID=2700&ATCLID=743954&KEY=&DB_OEM_ID=2700&DB_LANG=&IN_SUBSCRIBER_CONTENT=|accessdate=2008-10-16 |deadurl=yes|archiveurl=https://web.archive.org/web/20160107184023/http://www.drawphiladelphia.com/ViewArticle.dbml?DB_OEM_ID=2700&ATCLID=743954&KEY=&DB_OEM_ID=2700&DB_LANG=&IN_SUBSCRIBER_CONTENT=|archivedate=2016-01-07}}</ref>
+
+April 14, 2012 marked the debut of Franklin Field as the home stadium for the [[Philadelphia Spinners]] in their first [[AUDL]] season. An estimated 1700 were in attendance as the Spinners defeated the [[Buffalo Hunters]], 26–14. The Spinners continued to use Franklin Field for the rest of the 2012 season and used it for two games in the 2014 [[Major League Ultimate|MLU]] season.
+
+The inaugural [[Major League Ultimate]] championship game was played at Franklin Field on July 13, 2013. The [[Boston Whitecaps]] defeated the [[San Francisco Dogfish]], 20–15. The Stadium again hosted the MLU Championship on July 16, 2016, as the [[Philadelphia Spinners]] defeated the [[Portland Stags]], 14–11.
+
+==Other events==
+
+The stadium was the site of the speech by President [[Franklin D. Roosevelt]] in which he accepted the [[United States presidential election, 1936|1936]] [[Democratic Party (United States)|Democratic Party]]'s nomination for a second term as president.<ref>{{cite news | first=M. Charles| last=Bakst| title=At conventions, JFK and FDR also spoke outdoors| date=2008-08-21| publisher=[[Providence Journal]] | url =http://www.projo.com/news/politics/content/BAKST_COLUMN_21_08-21-08_G3B0CE8_v10.3f6a81e.html?npc| pages = | accessdate = 2008-08-28 | language = }}</ref> It is estimated that a crowd of 100,000 sat through intermittent rain at Franklin Field to hear FDR's speech.<ref>{{cite news|first=Jeff |last=Gammage |title=Before Obama, there was FDR at Franklin Field |date=2008-08-29 |work=[[Philadelphia Inquirer]] |url=http://www.philly.com/philly/news/politics/elections/20080829_Before_Obama__there_was_FDR_at_Franklin_Field.html |pages= |accessdate=2008-08-29 |language= |deadurl=yes |archiveurl=https://web.archive.org/web/20081216141734/http://www.philly.com/philly/news/politics/elections/20080829_Before_Obama__there_was_FDR_at_Franklin_Field.html |archivedate=December 16, 2008 }}</ref>
+
+===Entertainment===
+[[Drum Corps International]] held its annual [[DCI Division I World Champions|Drum and Bugle Corps World Championships]] at the stadium in 1975 and 1976.
+
+In 1997, Franklin Field hosted Irish band [[U2]] during the first leg of their [[Pop Mart]] Tour on June 8. This was the stadium's first concert since the 1970s.<ref>{{cite news| first=Jaclyn| last=LaPlaca| title=Tickets on sale today for U2 at Franklin Field| date=1997-02-13| publisher=[[Daily Pennsylvanian]]| url=http://media.www.dailypennsylvanian.com/media/storage/paper882/news/1997/02/13/Resources/Tickets.On.Sale.Today.For.U2.At.Franklin.Field-2171064.shtml| pages=| accessdate=2009-01-05| language=}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite news| first=Shannon| last=Burke| title=U2 rocks Franklin Field with energized show| date=1997-06-12| publisher=[[Daily Pennsylvanian]]| url=http://media.www.dailypennsylvanian.com/media/storage/paper882/news/1997/06/12/Resources/U2.Rocks.Franklin.Field.With.Energized.Show-2172066.shtml| pages=| accessdate=2009-01-05| language=| deadurl=yes| archiveurl=https://web.archive.org/web/20090204140327/http://media.www.dailypennsylvanian.com/media/storage/paper882/news/1997/06/12/Resources/U2.Rocks.Franklin.Field.With.Energized.Show-2172066.shtml| archivedate=2009-02-04| df=}}</ref>
+
+===In Film===
+The 2000 [[M. Night Shyamalan]]-directed movie ''[[Unbreakable (film)|Unbreakable]]'' prominently features Franklin Field as one of the main locations in the film. The film's main character, played by [[Bruce Willis]], plays a security guard at the stadium. In the [[2006 in film|2006]] movie ''[[Invincible (2006 film)|Invincible]]'', Franklin Field served as a stand-in for the demolished [[Veterans Stadium]], images of which were digitally superimposed on some of the football action sequences.
+
+{{coord|39|57|N|75|11.4|W|display=title}}
+
+==See also==
+{{Portal|Philadelphia}}
+* [[List of NCAA Division I FCS football stadiums]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [https://web.archive.org/web/20160820222643/http://penn-oas-web-prod.slabs-cloud.com/page/franklin-field Penn Athletics: Franklin Field]
+* [http://www.stadiumsofprofootball.com/past/FranklinField.htm Stadiums of Pro Football: Franklin Field]
+* [http://www.philadelphiabuildings.org/pab/app/pj_display.cfm/82889 Architectural photos of Franklin Field]
+* [http://sports.espn.go.com/travel/gallery/gallery?id=3016261 ESPN.com: Photo gallery "Oldest stadiums – Monuments to the past"]
+* [http://digital.hagley.org/cdm4/results.php?CISOOP1=all&CISOBOX1=franklin+field&CISOFIELD1=CISOSEARCHALL&CISOROOT=%2Fp268001uw Hagley Digital Archives: Aerial photographs of Franklin Field in 1920s and 1930s]
+
+{{S-start}}
+{{Succession box
+ | title = Home of the<br/>[[Philadelphia Eagles]]
+ | years = 1958–1970
+ | before = [[Shibe Park]]
+ | after = [[Veterans Stadium]]
+}}
+{{Succession box
+ | title = Host of the <br/>[[Drum Corps International]] <br/>World Championship 
+ | years = 1975–1976
+ | before = [[Schoellkopf Field]]
+ | after = [[Mile High Stadium]] 
+}}
+{{Succession box
+ | title = Home of the <br/> [[College lacrosse|NCAA Lacrosse]] [[NCAA Men's Lacrosse Championship|Final Four]]
+ | years = 1973
+ | before = [[Byrd Stadium]]
+ | after = [[Rutgers Stadium (1938)|Rutgers Stadium I]]
+}}
+{{succession box
+ | title = Host of the [[NCAA Division I Men's Soccer Championship|College Cup]]
+ | years = 1976
+ | before = [[Ralph Korte Stadium]]
+ | after = [[California Memorial Stadium]]
+}}
+{{End}}
+
+{{Penn Quakers football navbox}}
+{{Penn}}
+{{Benjamin Franklin}}
+{{Ivy League football venue navbox}}
+{{Temple Owls football navbox}}
+{{Philadelphia Eagles}}
+{{Philadelphia Atoms}}
+{{Democratic National Convention venues}}
+{{Drum Corps International World Championship host venues}}
+{{Pennsylvania college football venues}}
+
+{{DEFAULTSORT:Franklin Field}}
+[[Category:American football venues in Pennsylvania]]
+[[Category:Athletics (track and field) venues in Pennsylvania]]
+[[Category:Army–Navy Game]]
+[[Category:College football venues]]
+[[Category:College lacrosse venues in the United States]]
+[[Category:Former Major League Lacrosse venues]]
+[[Category:College track and field venues in the United States]]
+[[Category:Defunct National Football League venues]]
+[[Category:Defunct soccer venues in the United States]]
+[[Category:Lacrosse venues in the United States]]
+[[Category:NCAA Men's Division I Lacrosse Championship venues]]
+[[Category:North American Soccer League (1968–84) stadiums]]
+[[Category:Penn Quakers baseball]]
+[[Category:Penn Quakers football]]
+[[Category:Philadelphia Atoms sports facilities|f]]
+[[Category:Philadelphia Eagles stadiums]]
+[[Category:Philadelphia/Baltimore Stars stadiums]]
+[[Category:Rugby league stadiums in the United States]]
+[[Category:Sports venues in Philadelphia]]
+[[Category:Temple Owls football venues]]
+[[Category:Ultimate (sport) venues]]
+[[Category:United States Football League venues]]
+[[Category:University of Pennsylvania campus]]
+[[Category:Event venues established in 1895]]
+[[Category:Sports venues completed in 1895]]
+[[Category:1895 establishments in Pennsylvania]]

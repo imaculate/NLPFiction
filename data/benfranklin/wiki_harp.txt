@@ -1,0 +1,207 @@
+{{other uses}}
+{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{{Infobox instrument
+|name=Harp
+|image=Harp.png
+|image_capt=A medieval harp (left) and a single-action pedal harp (right)
+|background=string
+|hornbostel_sachs=322–5
+|hornbostel_sachs_desc=Composite [[chordophone]] sounded by the [[pizzicato|bare fingers]]
+|range= [[File:Range of harp.JPG|150px|center]]<div align=center>([[pedal harp|modern pedal harp]])<ref>Dave Black and Gerou, Tom (1998). ''Essential Dictionary of Orchestration''. Alfred Publishing Co. {{ISBN|0-7390-0021-7}}</ref></div>
+|midi=046/047 (A harp)
+|related=
+* [[Claviharp]]
+* [[Pedal harp|Pedal Harp]]
+* [[Triple harp|Triple Harp]](Baroque era)
+* [[Celtic harp|Celtic Harp]](Medieval era)
+* [[Epigonion]]
+* [[Lyre]]
+* [[Yazh]]
+* [[Zither]]
+}}
+
+The '''harp''' is a [[stringed musical instrument]] that has a number of individual [[string (music)|strings]] running at an angle to its [[sound board (music)|soundboard]]; the strings are plucked with the fingers. Harps have been known since antiquity in Asia, Africa and Europe, dating back at least as early as 3500&nbsp;BC. The instrument had great popularity in Europe during the Middle Ages and Renaissance, where it evolved into a wide range of variants with new technologies, and was disseminated to Europe's colonies, finding particular popularity in Latin America. Although some ancient members of the harp family died out in the Near East and South Asia, descendants of early harps are still played in Myanmar and parts of Africa, and other defunct variants in Europe and Asia have been utilized by musicians in the modern era.
+
+Harps vary globally in many ways. In terms of size, many smaller harps can be played on the lap, whereas larger harps are quite heavy and rest on the floor. Different harps may use strings of [[String (music)#Gut|catgut]], [[String (music)#Nylon|nylon]], [[String (music)#Steel|metal]], or some combination. While all harps have a [[Neck (music)|neck]], [[Acoustic resonance|resonator]], and [[String (music)|strings]], '''frame harps''' have a pillar at their long end to support the strings, while '''open harps''', such as '''arch harps''' and '''bow harps''', do not. Modern harps also vary in techniques used to extend the range and [[chromaticism]] (e.g., adding sharps and flats) of the strings, such as adjusting a string's note mid-performance with levers or pedals which modify the pitch. The [[pedal harp]] is a standard instrument in the [[orchestra]] of the [[Romantic music era]] (ca. 1800–1910) and the contemporary music era.
+
+==Origin==
+
+===Near East===
+[[File:Ur lyre.jpg|200px|right|thumb|Ur lyre]]
+[[File:Bishapur zan.jpg|left|thumb|1A [[Sassanid]] era mosaic excavated at [[Bishapur]]]]
+The earliest harps and lyres were found in [[Sumer]], 3500&nbsp;BC,<ref>{{cite journal|title=The Sumerian Harp of Ur, c. 3500 B.C.|journal=Oxford Journal of Music and Letters|date=1929|volume=X (2):|pages=108–123|url=http://ml.oxfordjournals.org/content/X/2/108.extract}}</ref> and several harps were found in burial pits and royal tombs in [[Ur]].<ref>{{cite web|title=Lyres: The Royal Tombs of Ur|url=http://sumerianshakespeare.com/509245/499545.html|publisher=SumerianShakespeare.com}}</ref> The oldest depictions of harps without a forepillar can be seen adjacent to the Near East, in the wall paintings of [[ancient Egypt]]ian tombs in the [[Nile Valley]], which date from as early as 3000&nbsp;BC. These murals show an instrument that closely resembles the hunter's bow, without the pillar that we find in modern harps.
+<ref name="internationalharpmuseum">{{cite web|url=http://www.internationalharpmuseum.org/visit/history.html|title=History of the Harp &#124; International Harp Museum|publisher=internationalharpmuseum.org|accessdate=18 June 2016}}</ref>
+The ''[[Chang (instrument)|chang]]'' flourished in Persia in many forms from its introduction, about 4000&nbsp;BC, until the 17th century.
+
+Around 1900&nbsp;BC arched harps in the Iraq–Iran region were replaced by angular harps with vertical or horizontal sound boxes.<ref name="Agnew2010">{{cite book|author=Neville Agnew|title=Conservation of Ancient Sites on the Silk Road: Proceedings of the Second International Conference on the Conservation of Grotto Sites, Mogao Grottoes, Dunhuang, People's Republic of China, June 28 – July 3, 2004|url=https://books.google.com/books?id=n8YAyXzJE2IC&pg=PA118|date=3 August 2010|publisher=Getty Publications|isbn=978-1-60606-013-1|pages=118–}}</ref> By the start of the Common Era, "robust, vertical, angular harps", which had become predominant in the Hellenistic world, were cherished in the [[Sasanian]] court. In the last century of the Sasanian period, angular harps were redesigned to make them as light as possible ("light, vertical, angular harps"); while they became more elegant, they lost their structural rigidity. At the height of the Persian tradition of illustrated book production (AD&nbsp;1300–1600), such light harps were still frequently depicted, although their use as musical instruments was reaching its end.<ref name="Yar-Shater2003">{{cite book|author=Ehsan Yar-Shater|title=Encyclopædia Iranica|url=https://books.google.com/books?id=RhQZAQAAIAAJ|year=2003|publisher=Routledge & Kegan Paul|isbn=978-0-933273-81-8|pages=7–8}}</ref>
+
+===South Asia===
+<!-- [[WP:NFCC]] violation: [[File:Samudracoin1.jpg|left|thumb|[[Gupta-period]] coin showing harpist.]] -->
+{{main article|Yazh}}
+The works of the Tamil [[Sangam literature]] describe the harp and its variants, as early as 200&nbsp;BC.<ref>{{cite journal|last1=Vipulananda|title=The Harps of Ancient Tamil-Land and The Twenty-Two Srutis of Indian Musical Theory|journal=Calcutta Review|volume= LXXXI|issue= 3|date=1941|url=http://www.southasiaarchive.com/Content/sarf.120137/211446/003}}</ref> Variants were described ranging from 14 to 17 strings, and the instrument used by wandering minstrels for accompaniment.<ref name="Zvelebil1992">{{cite book|author=Kamil Zvelebil|title=Companion Studies to the History of Tamil Literature|url=https://books.google.com/books?id=qAPtq49DZfoC&pg=PA145|year=1992|publisher=BRILL|isbn=90-04-09365-6|pages=145–}}</ref> Iconographic evidence in of the yaal appears in temple statues dated as early as 500&nbsp;BC{{citation needed|date=December 2014}} One of the Sangam works, the ''Kallaadam'' recounts how the first ''yaaḻ'' harp was inspired by an archer's bow, when he heard the musical sound of its twang.{{citation needed|date=December 2014}}
+
+Another early South Asian harp was the [[ancient veena]]; unlike the modern instrument of the same name, the ancient veena was a harp vice the modern lute-type instrument. Some Samudragupta gold coins show of the mid-4th century AD show (presumably) the king [[Samudragupta]] himself playing the instrument.<ref>{{cite book|title=The Journal of the Numismatic Society of India|url=https://books.google.com/books?id=yVNmAAAAMAAJ|year=2006|publisher=Numismatic Society of India|pages=73–75}}</ref> The ancient veena survives today in Burma, in the form of the ''[[saung]]'' harp still played there.<ref name="Goyala1992">{{cite book|author=Śrīrāma Goyala|title=Reappraising Gupta History: For S.R. Goyal|url=https://books.google.com/books?id=DkVuAAAAMAAJ|date=1 August 1992|publisher=Aditya Prakashan|isbn=978-81-85179-78-0|page=237}} - ''...yazh resembles this old vina... however it is the Burmese harp which seems to have been handed down in almost unchanged form since ancient times''</ref>
+
+===East Asia===
+The harp was popular in ancient China and neighboring regions, though harps are largely extinct in East Asia in the modern day. The Chinese ''[[konghou]]'' harp is documented as early as the [[Spring and Autumn period]] (770–476&nbsp;BC), and became extinct during the [[Ming Dynasty]] (AD&nbsp;1368–1644).<ref>{{cite web |title=Konghou |url=https://www.britannica.com/art/konghou |website=Encyclopaedia Britannica |accessdate=2 October 2018}}</ref> A similar harp, the ''[[gonghu]]'' was played in ancient Korea, documented as early as the [[Goguryeo]] period (37&nbsp;BC – AD&nbsp;686).<ref name="YunRichards2005">{{cite book|author1=Hu-myŏng Yun|author2=Kyungnyun K. Richards|author3=Steffen F. Richards|title=The love of Dunhuang|url=https://books.google.com/books?id=rRwaAQAAIAAJ|year=2005|publisher=Cross-Cultural Communications|isbn=978-0-89304-737-5}}</ref>
+
+==Structure and mechanism==
+[[File:Harp.svg|thumb|Basic structural elements and terminology of a modern concert harp]]
+
+Harps are essentially [[Triangle|triangular]] and made primarily of wood. Strings are made of gut or wire, often replaced in the modern day by [[nylon]], or metal. The top end of each string is secured on the crossbar or [[Neck (music)|neck]], where each will have a [[tuning peg]] or similar device to adjust the pitch. From the crossbar, the string runs down to the [[soundboard (music)|sounding board]] on the resonating body, where it is secured with a knot; on modern harps the string's hole is protected with an [[Grommet|eyelet]] to limit wear on the wood. It is the distance between the tuning peg and the soundboard, as well as tension and weight of the string, which decide the pitch of the string. The body is hollow, and when a [[Tension (physics)|taut]] string is plucked, the body [[Acoustic resonance|resonates]], projecting sound.
+
+The longest side of the harp is called the column or pillar, though some earlier harps, such as a "bow harp", lack a pillar. On most harps the sole purpose of the pillar is to hold up the neck against the great strain of the strings. On harps which have pedals (largely the modern concert harp), the pillar is a hollow column and encloses the rods which adjust the pitches, which are levered by pressing pedals at the base of the instrument.
+
+On harps of earlier design, a given string can play only a single note without retuning. In many cases this means such a harp can only play in one key at a time and must be manually retuned to play in another key. Various remedies to this limitation evolved: the addition of extra strings to cover [[chromatic (music)|chromatic]] notes (sometimes in separate or angled rows distinct from the main row of strings), addition of small levers on the crossbar which when actuated raise the pitch of a string by a set interval (usually a semitone), or use of pedals at the base of the instrument which change the pitch of a string when pressed with the foot. These solutions increase the versatility of a harp at the cost of adding complexity, weight, and expense.
+
+==Development and history==
+
+===Europe===
+[[Image:DupplinHarper.jpg|thumb|left|The harper on the [[Dupplin Cross]], Scotland, circa 800 AD]]
+While the angle and bow harps held popularity elsewhere, European harps favored the "pillar", a third structural member to support the far ends of the arch and soundbox.<ref name="Montagu 2002 564">{{cite encyclopedia | last = Montagu | first = Jeremy | authorlink = | editor = Alison Latham | encyclopedia = [[The Oxford Companion to Music]] | title = Harp | url = | accessdate = | edition = | year = 2002 | publisher = [[Oxford University Press]] | volume = | location = London | id = |isbn=0-19-866212-2 |oclc=59376677 | doi = | pages = 564 | quote = }}</ref><ref name="The Anglo Saxon Harp 1996 pp. 290">The Anglo Saxon Harp, 'Spectrum'', Vol. 71, No. 2 (April 1996), pp. 290–320.</ref><ref name="Harp Robert Boenig Speculum 1996 pp. 290-320">The Anglo-Saxon Harp Robert Boenig Speculum, Vol. 71, No. 2 (April 1996), pp. 290–320 {{doi|10.2307/2865415}} This article consists of 31-page(s).</ref> A harp with a triangular three-part frame is depicted on 8th-century [[Pictish stones]] in Scotland<ref name="Montagu 2002 564"/><ref name="The Anglo Saxon Harp 1996 pp. 290"/> and in manuscripts (e.g. the [[Utrecht Psalter]]) from early 9th-century France.<ref name="Harp Robert Boenig Speculum 1996 pp. 290-320"/> The curve of the harp's neck is a result of the proportional shortening of the basic triangular form to keep the strings equidistant; if the strings were proportionately distant they would be farther apart.
+
+[[File:Wartburg-Harfe.JPG|right|thumb|A medieval European harp (the [[Wartburg harp]]) with buzzing bray pins.]]
+As European harps evolved to play more complex music, a key consideration was some way to facilitate the quick changing of a string's pitch to be able to play more chromatic notes. By the [[Baroque]] period in Italy and Spain, more strings were added to allow for chromatic notes in more complex harps. In Germany in the second half of the 17th century, diatonic single-row harps were fitted with manually turned hooks which fretted individual strings to raise their pitch by a half step. In the 18th century, a link mechanism was developed connecting these hooks with pedals, leading to the invention of the single-action pedal harp.
+
+The first primitive form of pedal harps was developed in the Tyrol region of Austria. Jacob Hochbrucker was the next to design an improved pedal mechanism around 1720, followed in succession by Krumpholtz, Nadermann, and the Erard company, who came up with the double mechanism, in which a second row of hooks was installed along the neck, capable of raising the pitch of a string by either one or two half steps. While one course of European harps led to greater complexity, resulting largely in the modern pedal harp, other harping traditions maintained simpler diatonic instruments which survived and evolved into modern traditions.
+
+===Americas===
+In the Americas, harps are widely but sparsely distributed, except in certain regions where the harp traditions are very strong. Such important centres include [[Mexico]], the [[Andes|Andean]] region, [[Venezuela]], and [[Paraguay]]. They are derived from the [[Baroque]] harps that were brought from Spain during the colonial period.<ref name="Nicholls2013">{{cite book |author=David Nicholls |title=Whole World of Music: A Henry Cowell Symposium |url=https://books.google.com/books?id=wB9mAgAAQBAJ&pg=PA161 |date=19 December 2013 |publisher=Routledge |isbn=978-1-134-41946-3 |pages=161&nbsp;ff}}</ref> Detailed features vary from place to place.
+
+The [[Paraguayan harp]] is that country's [[List of national instruments (music)|national instrument]], and has gained a worldwide reputation, with international influences alongside folk traditions. [[Paraguayan harp]]s have around 36&nbsp;strings, played with the fingernails, and with a narrowing spacing and lower tension than modern Western harps, and have a wide and deep soundbox which tapers to the top.<ref>{{cite book|title=Folk Harp Journal|url=https://books.google.com/books?id=HkIqAQAAIAAJ|volume=99|year=1999}}</ref>
+
+The harp is also found in Argentina,<ref name="Méndez2004">{{cite book |author=Marcela Méndez |title=Historia del arpa en la Argentina |url=https://books.google.com/books?id=Ivlekn7J8XkC&pg=PA36 |date=1 January 2004 |publisher=Editorial de Entre Rios |isbn=978-950-686-137-7}}</ref> though in Uruguay it was largely displaced in religious music by the organ by the end of the 18th&nbsp;century.<ref name="Schechter1992">{{cite book |author=John Mendell Schechter |title=The Indispensable Harp: Historical Development, Modern Roles, Configurations, and Performance Practices in Ecuador and Latin America |url=https://books.google.com/books?id=59F-IxIgKOAC&pg=PA36 |year=1992 |publisher=Kent State University Press |isbn=978-0-87338-439-1 |page=36}}</ref> The harp is historically found in Brazil, but mostly in the south of the country.<ref>{{cite web |last1=Ortiz |first1=Alfredo Rolando |title=History of Latin American Harps |url=http://www.harpspectrum.org/folk/History_of_Latin_American_Harps.shtml |publisher=HarpSpectrum.org |accessdate=12 December 2014}}</ref>
+
+[[File:Meg with Andean harp (4134119578).jpg|thumb|Andean harp]]
+The [[Andean harp]] ({{lang-qu|arpa}}), also known as Peruan harp, or indigenous harp, is widespread among peoples living in highlands of the [[Andes]]: [[Quechua people|Quechua]] and [[Aymara people|Aymara]], mainly in [[Peru]], and also in [[Bolivia]] and [[Ecuador]]. Andean harp has relatively large size. Its distinguishing feature is significantly increased volume of the resonator box, which gives basses a special richness. Andean harp usually accompanies love dances and songs, such as [[huayno]].<ref name="Torres2013">{{cite book |author=George Torres |title=Encyclopedia of Latin American Popular Music |url=https://books.google.com/books?id=MX5BXxjwV9cC&pg=PA14 |date=27 March 2013 |publisher=ABC-CLIO|isbn=978-0-313-08794-3 |page=14}}</ref> One of the most famous performers on the Andean harp was [[Juan Cayambe]] ([[Pimampiro Canton]], [[Imbabura Province]], Ecuador<ref>{{cite web |title=Juan Cayambe |url=https://www.discogs.com/artist/3491434 |publisher=Discogs |language=en}}</ref>)
+
+Mexican "[[Arpa jarocha|jarocha]]" harp music of Veracruz has also gained some international recognition, evident in the popularity of "la bamba".{{original research inline|date=December 2014}} In southern Mexico (Chiapas), there is a very different indigenous style of harp music.<ref name="Schechter1992 a">{{cite book |author=John Mendell Schechter |title=The Indispensable Harp: Historical Development, Modern Roles, Configurations, and Performance Practices in Ecuador and Latin America |url=https://books.google.com/books?id=59F-IxIgKOAC&pg=PA201 |year=1992 |publisher=Kent State University Press |isbn=978-0-87338-439-1 |page=201}}</ref>
+
+In Venezuela, there are two distinct traditions, the ''arpa llanera'' and the ''arpa central'' (or ''arpa mirandina''). The modern Venezuelan arpa llanera has 32&nbsp;strings of nylon (originally, gut). The arpa central is strung with wire in the higher register.<ref name="Briceño1999">{{cite book |author=Fernando F. Guerrero Briceño |title=El arpa en Venezuela |url=https://books.google.com/books?id=xWBaAAAAMAAJ |year=1999 |publisher=FUNDARTE, Alcaldía de Caracas}}</ref>
+
+===Africa===
+[[Image:Magpetu vona.jpg|right|thumb|A [[Mangbetu people|Mangbetu]] man playing a bow harp.]]
+
+A number of types of harps are found in Africa, predominantly not of the three-sided frame-harp type found in Europe. A number of these, referred to generically as [[African harp]]s, are bow or angle harps, which lack forepillars joining the neck to the body.
+
+A number of harp-like instruments in Africa are not easily classified with European categories. Instruments like the West African ''[[Kora (instrument)|kora]]'' and Mauritanian ''[[ardin (harp)|ardin]]'' are sometimes labeled as "spike harp", "bridge harp", or [[harp lute]] since their construction includes a bridge which holds the strings laterally, vice vertically entering the soundboard.<ref name="Charry2000">{{cite book|author=Eric S. Charry|title=Mande Music: Traditional and Modern Music of the Maninka and Mandinka of Western Africa|url=https://books.google.com/books?id=8F5r27VBBm0C&pg=PA76|date=1 October 2000|publisher=University of Chicago Press|isbn=978-0-226-10162-0|pages=76–}}</ref>
+
+===South and Southwest Asia===
+While lyres and zithers have persisted in the Middle East, most of the true harps of the region have become extinct, though some are undergoing initial revivals. The Turkish ''[[çeng]]'' was a nine-string harp in the [[Ottoman Empire]] which became extinct at the end of the 17th century,<ref name="Buchanan2007">{{cite book|author=Donna A. Buchanan|title=Balkan Popular Culture and the Ottoman Ecumene: Music, Image, and Regional Political Discourse|url=https://books.google.com/books?id=E6FYiC_XjgoC&pg=PA239|date=1 October 2007|publisher=Scarecrow Press|isbn=978-0-8108-6677-5|pages=239–}}</ref> but has undergone some revival and evolution since the late 20th century. A similar harp, the ''[[Çeng#Changi|changi]]'' survives in the [[Svaneti]] region of Georgia.<ref name="ShepherdHorn2003">{{cite book|author1=John Shepherd|author2=David Horn|author3=Dave Laing|author4=Paul Oliver |author5=Peter Wicke|title=Continuum Encyclopedia of Popular Music of the World Part 1 Performance and Production|url=https://books.google.com/books?id=x8KvAwAAQBAJ&pg=PA435|date=8 May 2003|publisher=A&C Black|isbn=978-1-84714-472-0|pages=435–}}</ref>
+
+In the remote and mountainous [[Nuristan province]] of Afghanistan the [[Kafir harp]] has been part of the musical traditional for many years.<ref>{{cite journal|title=233. The Kafir Harp|first=Thomas|last=Alvad|journal=Man|volume=54|date=October 1954|pages=151–154|publisher=Royal Anthropological Institute of Great Britain and Ireland|doi=10.2307/2795578}}</ref> In India, the ''[[bin-baia]]'' harp survives about the [[Padhar]] people of [[Madhya Pradesh]].<ref name="ShepherdHorn2003"/>
+
+===East Asia===
+[[File:Saung harp musician.jpg|thumb|left|Saung musician in 1900.]]
+The harp largely became extinct in East Asia by the 17th century; around the year 1000 harps like the ''[[vajra]]'' began to replace preceding{{clarify|date=December 2014}} harps.<ref name="Agnew2010 a">{{cite book|author=Neville Agnew|title=Conservation of Ancient Sites on the Silk Road: Proceedings of the Second International Conference on the Conservation of Grotto Sites, Mogao Grottoes, Dunhuang, People's Republic of China, June 28 – July 3, 2004|url=https://books.google.com/books?id=n8YAyXzJE2IC&pg=PA121|date=3 August 2010|publisher=Getty Publications|isbn=978-1-60606-013-1|pages=121–}}</ref> A few examples survived to the modern era, particularly [[Myanmar]]'s ''[[Saung|saung-gauk]]'', which is considered the national instrument in that country. Though the ancient Chinese ''[[konghou]]'' has not been directly resurrected, the name has been revived and applied to a modern newly invented instrument based on the Western classical harp, but with the strings doubled back to form two notes per string, allowing advanced techniques such as note-bending.{{citation needed|date=December 2014}}
+
+==Modern European and American harps==
+===Concert harp===
+{{Main article|Pedal harp}}The ''concert'' harp is a technologically advanced instrument, particularly distinguished by its use of "pedals", foot-controlled devices which can alter the pitch of given strings, making it fully [[chromatic]] and thus able to play a wide body of classical repertoire. The pedal harp contains seven pedals that each affect the tuning of all strings of one [[pitch-class]]. The pedals, from left to right, are D, C, B on the left side and E, F, G, A on the right. Pedals were first introduced in 1697 by Jakob Hochbrucker of Bavaria.<ref name="Stanley1997">{{cite book|author=John Stanley|title=Classical Music: An Introduction to Classical Music Through the Great Composers & Their Masterworks|url=https://books.google.com/books?id=qnrZAAAAMAAJ|date=1 May 1997|publisher=Reader's Digest Association|isbn=978-0-89577-947-2|page=24}}</ref> In 1811 these were upgraded to the "double action" pedal system patented by Sébastien Erard.<ref>{{Cite web|url=http://www.oxfordmusiconline.com/subscriber/article/grove/music/45738pg5|title=Grove Music Online|last=DeVale|first=Sue Carole|date=|website=|publisher=Oxford University Press|access-date=}}</ref>
+
+The addition of pedals broadened the harp's abilities, allowing its gradual entry into the classical orchestra, largely beginning in the 19th century. The harp played little or no role in early classical music (being used only a handful of times by major composers such as Mozart and Beethoven), and its usage by [[Cesar Franck]] in his Symphony in D minor (1888) was described as "revolutionary" despite some body of prior classical usage.<ref name="Mar1983">{{cite book|author=Norman Del Mar|title=Anatomy of the Orchestra|url=https://books.google.com/books?id=vsVzqUN1GBcC&pg=PA435|year=1983|publisher=University of California Press|isbn=978-0-520-05062-4|pages=435–}}</ref> Entering the 20th century, the pedal harp found use outside of classical music, entering jazz with [[Casper Reardon]],{{when|date=December 2014}} [[the Beatles]] 1967 single "[[She's Leaving Home]]", and several works by [[Björk]] which featured harpist [[Zeena Parkins]].
+
+===Folk, lever, and Celtic instruments===
+{{Main article|Celtic harp}}
+[[File:Celtic harps.JPG|thumb|[[New Salem (Menard County), Illinois|New Salem Village]] [[Historical reenactment|re-enactor]] playing a [[Celtic harp]].]]
+In the modern era, there is a family of mid-size harps, generally with nylon strings, and optionally with partial or full levers but without pedals. They range from two to six octaves, and are plucked with the fingers using a similar technique to the pedal harp. Though these harps evoke ties to historical European harps, their specifics are modern, and they are frequently referred to broadly as "Celtic" harps due to their region of revival and popular association, or more generically as "folk" harps due to their use in non-classical music, or as "lever" harps to contrast their modifying mechanism with the larger pedal harp.<ref>{{cite journal|last1=Bouchaud |first1=Dominig |title=Is "Celtic" a myth? The Lever Harp in Brittany |journal=Harp Blog |url=http://www.harpblog.info/en/2016/01/is-celtic-a-myth-the-lever-harp-in-brittany/ }}</ref>
+
+[[File:Eisteddfod Caerwys - harpists (4153297586).jpg|thumb|313x313px|Welsh harpists at Caerwys [[Eisteddfod]] c.1892]]The modern Celtic harp began to appear in the early 19th&nbsp;century in Ireland, contemporary with the dying-out of earlier forms of Gaelic harp. Dublin pedal harp maker [[John Egan (harp maker)|John Egan]] developed a new type of harp which had gut strings and semitone mechanisms like an orchestral pedal harp; it was small and curved like the historical ''cláirseach'' or Irish harp, but its strings were of gut and the soundbox was much lighter.<ref>Rimmer 1980. p.&nbsp;67.</ref> In the 1890s a similar new harp was also developed in Scotland as part of a Gaelic cultural revival.<ref>See Collinson 1983.</ref> In the mid-20th&nbsp;century [[Jord Cochevelou]] developed a variant of the modern Celtic harp which he referred to as the "Breton Celtic harp"; his son [[Alan Stivell]] was to become the most influential Breton harper, and a strong influence in the broader world of the Celtic harp.
+
+===Multi-course harps===
+A [[multi-course harp]] is a harp with more than one row of strings, as opposed to the more common "single course" harp. On a double-harp, the two rows generally run parallel to each other, one on either side of the neck, and are usually both diatonic (sometimes with levers) with identical notes.
+
+The [[triple harp]] originated in Italy in the 16th century, and arrived in Wales in the late 17th century where it established itself in the local tradition as the Welsh harp (''telyn deires'', "three-row harp").<ref name="Koch">{{cite book|author=John T. Koch|title=Celtic culture: a historical encyclopedia. Vol. 1-|url=https://books.google.com/books?id=f899xH_quaMC&pg=PA893|publisher=ABC-CLIO|isbn=978-1-85109-440-0|pages=893–}}</ref> The triple consists of two outer rows of identical diatonic strings with a third set of chromatic strings between them. These strings are off set to permit the harpist to reach past the outer row and pluck an inner string if a chromatic note is needed.
+
+===Chromatic-strung harps===
+Some harps, rather than using pedal or lever devices, achieve chromaticity by simply adding additional strings to cover the notes outside their diatonic home scale. The Welsh triple harp is one such instrument, and two other instruments employing this technique are the [[cross-strung harp]] and the [[inline chromatic harp]].
+
+[[File:Cross harp.JPG|thumb|left|Cross-strung chromatic harp]]
+The cross-strung harp has one row of diatonic strings, and a separate row of chromatic notes, angled in an "X" shape so that the row which can be played by the right hand at the top may be played by the left hand at the bottom, and vice versa. This variant was first attested as the ''arpa de dos órdenes'' ("two-row harp") in Spain and Portugal, in the 17th century.<ref name="MikishkaMusic1989">{{cite book |author=Patricia O. Mikishka |title=Single, double, and triple harps, 1581–1782: harps having two or three rows of parallel strings. Part II |url=https://books.google.com/books?id=h3g9AQAAIAAJ |year=1989 |publisher=Department of music, Stanford University |page=48}}</ref>
+
+The inline chromatic harp is generally a single-course harp with all 12 notes of the chromatic scale appearing in a single row. Single course inline chromatic harps have been produced at least since 1902, when [[:de:Weigel-Harfe|Karl Weigel]] of [[Hanover]] patented a model of inline chromatic harp.<ref name="Society1903">{{cite book |author=International Musical Society |title=Zeitschrift |url=https://books.google.com/books?id=9Vw5AAAAIAAJ&pg=PA196 |year=1903|publisher=Breitkopf und Härtel |page=196 }}</ref>
+
+===Electric harps===
+Amplified (electro-acoustic) hollow body and solid body [[electric harp|electric lever harps]] are produced by many harpmakers, including [[Lyon & Healy]], [[Salvi Harps|Salvi]], and [[Camac Harps|Camac]]. They generally use individual [[piezo-electric]] sensors for each string, often in combination with small internal microphones to produce a mixed electrical signal. Hollow body instruments can also be played acoustically, while solid body instruments must be amplified.
+
+[[File:Gravikord.JPG|thumb|200xpx|right|A [[gravikord]]]]
+The late-20th century [[gravikord]] is a modern purpose-built electric double harp made of stainless steel based on the traditional West African [[kora (instrument)|kora]].
+
+==Terminology and etymology==
+The modern English word harp comes from the Old English ''hearpe''; akin to Old High German ''harpha''.<ref>{{cite web|title=Harp|url=http://www.oxforddictionaries.com/definition/english/harp|publisher=Oxford Dictionaries}}</ref>
+
+A number of non-harp-like instruments are colloquially referred to as "harps". Chordophones like the [[aeolian harp]] (wind harp) and the [[autoharp]] (with the piano and [[harpsichord]]) are not harps, but [[zither]]s, because their strings are not perpendicular to their soundboard. Similarly, the many varieties of [[harp guitar]] and [[harp lute]], while chordophones, belong to the [[lute]] family and are not true harps. All forms of the [[lyre]] and [[kithara]] are also not harps, but belong to the fourth family of ancient instruments under the chordophones, the lyres.
+
+The term "harp" has also been applied to many instruments which are not chordophones. The [[vibraphone]] was (and is still) sometimes referred to as the "vibraharp", though it has no strings and its sound is produced by striking metal bars. In blues music, the harmonica is often casually referred to as a "blues harp" or "harp", but it is a [[free reed]] wind instrument, not a stringed instrument, and is therefore not a true harp. The [[Jew's harp]] is neither Jewish nor a harp; it is a [[plucked idiophone]] and likewise not a stringed instrument. The [[laser harp]] is not a stringed instrument at all, but is a harp-shaped synthesized electronic instrument that has laser beams where harps have strings.
+
+==As a symbol==
+===Political===
+[[File:Coat of arms of Ireland.svg|thumbnail|[[Coat of arms of Ireland]]]]
+<!-- <div style="float:right; width:160px; padding:8px; margin-left: 1em; text-align:center">[[File:Ireland coa.png]]<br />'''The Coat of Arms of the [[Republic of Ireland]]'''</div> -->
+
+====Ireland====
+[[File:Pub plaque, Omagh - geograph.org.uk - 660876.jpg|thumb|Pub plaque, [[Omagh]]]]
+The harp has been used as a political symbol of Ireland for centuries. Its origin is unknown but from the evidence of the ancient oral and written literature, it has been present in one form or another since at least the 6th century or before. According to tradition, [[Brian Boru]], High King of Ireland (died at the Battle of Clontarf, 1014) played the harp, as did many of the gentry in the country during the period of the Gaelic Lordship of Ireland (ended {{circa}} 1607 with the "Flight of the Earls" following the Elizabethan Wars).{{Citation needed|date=March 2011}}
+
+In traditional Gaelic society every [[clan]] and chief of any consequence would have a resident harp player who would compose eulogies and elegies (later known as "planxties") in honour of the leader and chief men of the clan. The harp was adopted as a symbol of the [[Kingdom of Ireland]] on the coinage from 1542, and in the [[Royal Standard (United Kingdom)|Royal Standard]] of [[King James VI and I]] in 1603 and continued to feature on all English and United Kingdom Royal Standards ever since, though the styles of the harps depicted differed in some respects. It was also used on the [[Commonwealth Jack]] of [[Oliver Cromwell]], issued in 1649 and on the [[Protectorate Jack]] issued in 1658 as well as on the Lord Protector's Standard issued on the succession of [[Richard Cromwell]] in 1658. The harp is also traditionally used on the [[flag of Leinster]].
+
+Since 1922, the government of Ireland has used a similar left-facing harp, based on the [[Trinity College Harp]] in the [[Trinity College Library, Dublin|Library]] of [[Trinity College Dublin]] as its state symbol. It first appeared on the [[Great Seal of the Irish Free State]], which in turn was replaced by the [[coat of arms]], the [[Presidential Standard (Ireland)|Irish Presidential Standard]] and the [[Seal of the President of Ireland|Presidential Seal]] in the 1937 [[Constitution of Ireland]]. The harp emblem is used on official state seals and documents including the [[Irish passport]] and has appeared on [[Irish coinage]] from the [[Middle Ages]] to the current Irish imprints of [[euro]] coins. [[Guinness]] since 1759, [[Harp Lager]] since 1960, [[Irish Independent]] since 1961 originally in black but in green since 1972 and [[Ryanair]] since 1985.
+
+====Elsewhere====
+The South Asian [[Yazh|Tamil harp ''yaal'']] is the symbol of [[Jaffna|City of Jaffna]], Sri Lanka, whose legendary root originates from a harp player.<ref name="BlazeBlaze1921">{{cite book |author1=L. E. Blaze |author2=Louis Edmund Blaze |title=The Story of Lanka: Outlines of the History of Ceylon from the Earliest Times to the Coming of the Portuguese |url=https://books.google.com/books?id=hlpLH0w6VWUC&pg=PA45 |year=1921 |publisher=Asian Educational Services |isbn=978-81-206-1074-3 |page=45}}</ref>
+
+===Religious===
+[[File:Weingarten Marienkirche Empore Engel Harfe.jpg|left|thumb|St. Maria (Weingarten/[[Württemberg]])]]
+In the context of Christianity, [[heaven]] is sometimes symbolically depicted as populated by [[angels]] playing harps, giving the instrument associations of the sacred and heavenly. In the Bible, [[Book of Genesis|Genesis]] 4:21 says that [[Jubal (Bible)|Jubal]], the first musician and son of [[Lamech (descendant of Cain)|Lamech]], invented the harp and flute.<ref>{{cite book|title=The Musical quarterly|url=https://books.google.com/books?id=ezszAQAAMAAJ&pg=PA553|year=1919|pages=553–|chapter=On the Relative Difficulties of Depicting Heaven and Hell in Music by Carl Van Vechten}}</ref><ref name="WoodstraBrennan2005">{{cite book|author1=Chris Woodstra|author2=Gerald Brennan|author3=Allen Schrott|title=All Music Guide to Classical Music: The Definitive Guide to Classical Music|url=https://books.google.com/books?id=nlDOICBmhbkC&pg=PA699|year=2005|publisher=Backbeat Books|isbn=978-0-87930-865-0|pages=699–}}</ref>
+
+Many depictions of King David in Jewish art have him holding or playing a harp, such as a sculpture outside [http://jerusalem.com/photos/gallery/king_david_statue_king_davids_tomb_in_jerusalem-p86 King David's tomb] in Jerusalem.
+
+===Corporate===
+The harp is also used extensively as a [[corporate logo]], by private companies and government organisations. The Irish beer [[Guinness]] uses a harp, facing right and less detailed than the version used on the state arms. Relatively new organisations also use the harp, but often modified to reflect a [[motif (art)|theme]] relevant to their organisation: Irish airline [[Ryanair]] uses a modified harp, and the Irish [[State Examinations Commission]] uses it with an educational theme. The harp appears in the logo for League of Ireland football team [[Finn Harps F.C.]], Donegal's senior soccer club.
+
+Other organisations in Ireland use the harp, but not always prominently; these include the [[National University of Ireland]] and the associated [[University College Dublin]], and the [[Gaelic Athletic Association]]. In [[Northern Ireland]] the [[Police Service of Northern Ireland]] and [[Queen's University of Belfast]] use the harp as part of their identity.
+
+In Iraq, the football club [[Al-Shorta SC|Al-Shorta]] is nicknamed ''Al-Qeetharah'' ({{lang-aii|"the harp"}}), and has a harp on its logo.
+{{Clear}}
+
+==See also==
+* [[List of harpists]] 
+* [[:Category:Harpists|Harpists]]
+* [[Celtic harp|Clàrsach]]
+* [[Epigonion]]
+* [[Psaltery]]
+* [[Triple harp|Triple Harp]]
+* [[Pedal harp|Pedal Harp]]
+* [[Claviharp]]
+
+==References==
+{{reflist}}
+
+==Additional sources==
+* {{cite book|author=Thomas Gaisford|title=Etymologicum magnum|url=https://books.google.com/books?id=vvl6mgEACAAJ|year=1848|isbn= 960-400-139-6}}
+* {{cite book|author=Lucia Bova|title=L'arpa moderna. La scrittura, la notazione, lo strumento e il repertorio dal '500 alla contemporaneità|url=https://books.google.com/books?id=NVJpLwEACAAJ|year=2008|publisher=Sugarmusic|isbn=978-88-900691-4-7}}
+* "Harps of Their Owne Sorte'? A Reassessment of Pictish Chordophone Depictions". Alasdair Ross, ''Cambrian Medieval Celtic Studies 36'', Winter 1998.
+* {{cite book|author1=John Shepherd|author2=David Horn|author3=Dave Laing|author4=Paul Oliver |author5=Peter Wicke|title=Continuum Encyclopedia of Popular Music of the World Part 1 Performance and Production|url=https://books.google.com/books?id=x8KvAwAAQBAJ&pg=PA429|date=8 May 2003|publisher=A&C Black|isbn=978-1-84714-472-0|pages=427–437}}
+* {{cite book|author1=Ruth K. Inglefield|author2=Lou Anne Neill|title=Writing for the Pedal Harp: A Standardized Manual for Composers and Harpists|url=https://books.google.com/books?id=XaGmoXR66Y4C|year=1985|publisher=University of California Press|isbn=978-0-520-04832-4}}
+* {{cite book|author1=Lucile Lawrence|author2=Carlos Salzedo|title=Method for the Harp; Fundamental Exercises with Illustrations and Technical Explanations (as an Introduction and Complement to Carlos Salzedos̀ "Modern Study of the Harp") by Lucile Lawrence and Carlos Salzedo|url=https://books.google.com/books?id=F9YipwAACAAJ|year=1929|publisher=New York, G. Schirmer}}
+* {{cite book|author=Roslyn Rensch|title=Harps and harpists|url=https://books.google.com/books?id=XJIIAQAAMAAJ|date=June 2007 |origyear=original edition 1989|publisher=Indiana University Press|isbn= 0-253-34903-6}}
+
+==External links==
+{{wikiquote|Harp}}
+{{Commons category|Harps}}
+{{Wikisource1911Enc|Harp}}
+* [http://www.harpcolumn.com HarpColumn.com]
+* [http://www.harpspectrum.org/ HarpSpectrum.org]
+
+{{Harps}}
+
+{{Authority control}}
+
+[[Category:Harps| ]]
+[[Category:String instruments]]
+[[Category:Baroque instruments]]
+[[Category:Orchestral instruments]]
+[[Category:Western Classical music instruments]]
+[[Category:National symbols of Ireland]]
+[[Category:Ancient Greek musical instruments]]

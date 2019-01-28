@@ -1,0 +1,379 @@
+{{distinguish|electroconvulsive therapy|electroshock therapy}}
+{{Medical citations needed|date=February 2009}}
+{{Infobox interventions
+| Name = Electrotherapy
+| Image = Reeve 41480.jpg
+| Caption = Use of electrical apparatus. Interrupted galvanism used in regeneration of deltoid muscle. First half of the twentieth century.
+| ICD10 =
+| ICD9 =
+| MeshID = D004599
+| OPS301 =
+| OtherCodes =
+| HCPCSlevel2 =
+}}
+'''Electrotherapy''' is the use of [[electrical energy]] as a medical treatment.<ref>Institute of Electrical and Electronics Engineers, "''The IEEE standard dictionary of electrical and electronics terms''". 6th ed. New York, N.Y., Institute of Electrical and Electronics Engineers, c1997. IEEE Std 100-1996. {{ISBN|1-55937-833-6}} [''ed''. Standards Coordinating Committee 10, Terms and Definitions; Jane Radatz, (chair)]</ref> In [[medicine]], the term ''electrotherapy'' can apply to a variety of treatments, including the use of electrical devices such as [[deep brain stimulation|deep brain stimulators]] for neurological disease. The term has also been applied specifically to the use of electric current to speed wound healing. Additionally, the term "electrotherapy" or "electromagnetic therapy" has also been applied to a range of [[alternative medicine|alternative medical]] devices and treatments.
+
+==History==
+[[File:Oudin coil - Treatment by the effiuvation method.jpg|upright|thumb|Electric shock treatment with an [[Oudin coil]]]]
+The first recorded treatment of a patient by electricity was by Johann Gottlob Krüger in 1743.  [[John Wesley]] promoted electrical treatment as a universal panacea in 1747 but was rejected by mainstream medicine.  [[Giovanni Aldini]] treated insanity with static electricity 1823-1824.<ref>Chalovich, Joseph M, [http://thescholarship.ecu.edu/handle/10342/3929 'Franklinization: Early Therapeutic Use of Static Electricity''], ScholarShip, East Carolina University, 23 January 2012</ref>
+
+The first medical treatments with electricity in London have been recorded as far back as 1767 at [[Middlesex Hospital]] in London using a special apparatus. The same was purchased for [[St Bartholomew's Hospital|St. Bartholomew's Hospital]] only ten years later. The record of uses other than being therapeutic is not clear, however [[Guy's Hospital]] has a published list of cases from the earlier 1800s.<ref name="SteavensonWE">{{cite book | url=https://books.google.com/books?id=lwCqB7S8KnoC | title=Medical electricity | publisher=P. Blakiston, Son & Company | author=Steavenson, William Edward | year=1892 | location=Philadelphia | page=3}}</ref> [[Golding Bird]] at Guy's brought electrotherapy into the mainstream in the mid-19th century.<ref>Morus, Iwan Rhys, ''Frankenstein's Children: Electricity, Exhibition, and Experiment in Early-nineteenth-century London'', pp. 234-237, Princeton University Press, 1998 {{ISBN|0691059527}}</ref>  In the second half of the 19th century the emphasis moved from delivering large shocks to the whole body to more measured doses, the [[Effective dose (pharmacology)|minimum effective]].<ref>Chalovich, 36' 0"</ref>
+
+===Apparatus===
+Some equipments historically used in electrotherapy include;
+* The [[Electric bath (electrotherapy)|electric bath]] for high-voltage static induction
+* [[Oudin coil]], a high-voltage induction coil, in use around 1900
+* [[Pulvermacher's chain]], a wearable electrochemical device mostly used by [[quackery|quacks]], in use second half of 19th century
+* [[Leyden jar]]s, an early form of [[capacitor]], for storing electricity
+* [[Electrostatic generator]]s of various sorts
+
+=== People ===
+Some important people in the history of electrotherapy include;
+* [[Luigi Galvani]], a pioneer of medical electricity
+* [[Benjamin Franklin]], an early proponent of electrotherapy who made it widely known, but unfortunately mostly taken up by quacks and charlatans
+* Golding Bird, mentioned above
+* [[Duchenne de Boulogne]]
+* [[Jacques-Arsène d'Arsonval]]
+* [[George Miller Beard]]
+* [[Margaret Cleaves]], a promoter of [[ozone therapy]]
+* Many of the [[List of forms of electricity named after scientists|forms of electricity]] used in electrotherapy were named after scientists
+
+==== Notable historic fringe practitioners ====
+* [[James Graham (sexologist)|James Graham]]
+* [[Franz Mesmer]]
+
+===Muscle stimulation===
+In 1856 [[Guillaume Duchenne]] announced that [[Alternating current|alternating]] was superior to [[direct current]] for electrotherapeutic triggering of muscle contractions.<ref>Licht, Sidney Herman., "History of Electrotherapy", in Therapeutic Electricity and Ultraviolet Radiation, 2nd ed., ed. Sidney Licht, New Haven: E. Licht, 1967, Pp. 1-70.</ref> What he called the 'warming affect' of direct currents irritated the skin, since, at voltage strengths needed for muscle contractions, they cause the skin to blister (at the [[anode]]) and pit (at the [[cathode]]). Furthermore, with DC each contraction required the current to be stopped and restarted. Moreover, alternating current could produce strong muscle contractions regardless of the condition of the muscle, whereas DC-induced contractions were strong if the muscle was strong, and weak if the muscle was weak.
+
+Since that time almost all rehabilitation involving muscle contraction has been done with a symmetrical rectangular biphasic waveform. During the 1940s, however, the [[U.S. War Department]], investigating the application of electrical stimulation not just to retard and prevent atrophy but to restore muscle mass and strength, employed what was termed ''galvanic exercise'' on the atrophied hands of patients who had an ulnar nerve lesion from surgery upon a wound.<ref>Licht, "History of Electrotherapy"</ref> These galvanic exercises employed a monophasic wave form, direct current.
+
+===Cancer treatment===
+In the field of cancer treatment, DC electrotherapy showed promise as early as 1959, when a study published in the journal ''Science'' reported total destruction of tumor in 60% of subjects, which was very noteworthy for an initial study.<ref>{{cite journal|last=Humphrey|first=C.E.|author2=Seal, E.H.|title=Biophysical approach toward tumor regression in mice|journal=Science|year=1959|volume=130|pages=388–390|doi=10.1126/science.130.3372.388}}</ref> 
+In 1985, the journal ''Cancer Research ''published the most remarkable such study, reporting 98% shrinkage of tumor in animal subjects on being treated with DC electrotherapy for only five hours over five days.<ref>{{cite journal|last=David|first=S.L|author2=Absolom, D.R. |author3=Smith, C.R. |author4=Gams, J. |author5=Herbert, M.A. |title=Effect of low level direct current on in vivo tumor growth in hamsters|journal=Cancer Research|year=1985|volume=45|pages=5625–5631}}</ref>
+The mechanism for the effectiveness of DC electrotherapy in treating cancer was suggested in an article published in 1997.<ref>{{cite journal|last=Kulsh|first=J.|title=Targeting a key enzyme in cell growth: a novel therapy for cancer|journal=[[Medical Hypotheses]]|year=1997|volume=49|pages=297–300|doi=10.1016/s0306-9877(97)90193-6}}</ref>{{ums|date=November 2017}} The free-radical (unpaired electron) containing active-site of enzyme [[Ribonucleotide reductase|Ribonucleotide Reductase]], RnR—which controls the rate-limiting step in the synthesis of DNA—can be disabled by a stream of passing electrons.
+
+==Modern use==
+[[File:BTL-6000 super inductive system elite.jpg|thumb|220px|SIS electromagnetic therapy; used at a hospital in [[Budapest]], Hungary]]
+The use of electrotherapy is accepted practice in the field of [[physical therapy]]<ref>Robinson AJ, Snyder-Mackler, L. Clinical electrophysiology: electrotherapy and electrophysiologic testing 3rd ed. Baltimore: Lippincott Williams and Wilkins, 2008;151-196, 198-237, 239-274</ref> (see, e.g., [[electrical muscle stimulation]])—the [[American Physical Therapy Association]] acknowledges the use of electrotherapy for:<ref>Alon G et al. Electrotherapeutic Terminology in Physical Therapy; Section on Clinical Electrophysiology. Alexandria, VA: American Physical Therapy Association, 2005</ref>
+
+1. [[Pain management]]
+* Improves range of joint movement
+2. Treatment of neuromuscular dysfunction
+* Improvement of strength
+* Improvement of motor control
+* Retards [[muscle atrophy]]
+* Improvement of local blood flow
+3. Improves range of joint mobility
+* Induces repeated stretching of contracted, shortened soft tissues
+4. Tissue repair
+* Enhances [[microcirculation]] and protein synthesis to heal wounds
+* Increased blood flow to the injured tissues increases macrophages to clean up debris
+* Restores integrity of connective and dermal tissues
+5. Acute and chronic [[edema]]
+* Accelerates absorption rate
+* Affects blood vessel permeability
+* Increases mobility of proteins, blood cells and lymphatic flow
+6. Peripheral blood flow
+* Induces arterial, venous and lymphatic flow
+7. [[Iontophoresis]]
+* Delivery of [[Pharmacology|pharmacological]] agents
+* DC (direct current) transports ions through skin
+* Common drugs used:
+** Dexamethasone
+** Acetic acid
+** Lidocaine
+8. Urine and [[fecal incontinence]]
+* Affects [[pelvic floor]] musculature to reduce pelvic pain and strengthen musculature
+* Treatment may lead to complete continence
+9. Lymphatic Drainage 
+* Stimulate lymphatic system to reduce edema 
+Electrotherapy is primarily used in physical therapy for relaxation of muscle spasms, prevention and retardation of disuse atrophy, increase of local blood circulation, muscle rehabilitation and re-education [[electrical muscle stimulation]], maintaining and increasing range of motion, management of chronic and intractable pain, post-traumatic acute pain, post surgical acute pain, immediate post-surgical stimulation of muscles to prevent venous thrombosis, wound healing and drug delivery.{{Citation needed|date=February 2010}}
+
+Some of the treatment effectiveness mechanisms are little understood, with effectiveness and best practices for their use still anecdotal.
+
+===Effectiveness for particular indications===
+
+====Musculoskeletal conditions====
+
+In general, there is little evidence that electrotherapy is effective in the management of musculoskeletal conditions.<ref name="pmid18519097">{{cite journal
+|vauthors=Hurley MV, Bearne LM
+|title=Non-exercise physical therapies for musculoskeletal conditions
+|journal=[[Best Practice & Research. Clinical Rheumatology]]
+|volume=22
+|issue=3
+|pages=419–33
+|year=2008
+|pmid=18519097
+|doi=10.1016/j.berh.2008.01.001
+|url=https://linkinghub.elsevier.com/retrieve/pii/S1521-6942(08)00002-8
+}}</ref>
+In particular, there is no evidence that electrotherapy is effective in the relief of pain arising from [[osteoarthritis]],<ref name="pmid16084227">{{cite journal
+|vauthors=Sarzi-Puttini P, Cimmino MA, Scarpa R, Caporali R, Parazzini F, Zaninelli A, Atzeni F, Canesi B
+|title=Osteoarthritis: an overview of the disease and its treatment strategies
+|journal=[[Seminars in Arthritis and Rheumatism]]
+|volume=35
+|issue=1 Suppl 1
+|pages=1–10
+|year=2005
+|pmid=16084227
+|doi=10.1016/j.semarthrit.2005.01.013
+|url=https://linkinghub.elsevier.com/retrieve/pii/S0049-0172(05)00033-8
+}}</ref>
+and little to no evidence available to support electrotherapy for the management of [[fibromyalgia]].<ref name="pmid10562382">{{cite journal
+|vauthors=Sim J, Adams N
+|title=Physical and other non-pharmacological interventions for fibromyalgia
+|journal=[[Bailliere's Best Practice & Research. Clinical Rheumatology]]
+|volume=13
+|issue=3
+|pages=507–23
+|year=1999
+|pmid=10562382
+|doi=10.1053/berh.1999.0041
+|url=
+}}</ref>
+
+=====Neck and back pain=====
+
+A 2016 review found that, "in evidence of no effectiveness," clinicians should not offer electrotherapy for the treatment of [[neck pain]] or associated disorders.<ref name="pmid26984876">{{cite journal
+|authors=Côté P, Wong JJ, Sutton D, Shearer HM, Mior S, Randhawa K, Ameis A, Carroll LJ, Nordin M, Yu H, Lindsay GM, Southerst D, Varatharajan S, Jacobs C, Stupar M, Taylor-Vaisey A, van der Velde G, Gross DP, Brison RJ, Paulden M, Ammendolia C, David Cassidy J, Loisel P, Marshall S, Bohay RN, Stapleton J, Lacerte M, Krahn M, Salhany R
+|title=Management of neck pain and associated disorders: A clinical practice guideline from the Ontario Protocol for Traffic Injury Management (OPTIMa) Collaboration
+|journal=[[European Spine Journal : Official Publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society]]
+|volume=25
+|issue=7
+|pages=2000–22
+|year=2016
+|pmid=26984876
+|doi=10.1007/s00586-016-4467-7
+|url=https://dx.doi.org/10.1007/s00586-016-4467-7
+}}</ref>
+Earlier reviews found that no conclusions could be drawn about the effectiveness of electrotherapy for neck pain,<ref name="pmid23979926">{{cite journal
+|vauthors=Kroeling P, Gross A, Graham N, Burnie SJ, Szeto G, Goldsmith CH, Haines T, Forget M
+|title=Electrotherapy for neck pain
+|journal=[[The Cochrane Database of Systematic Reviews]]
+|volume=
+|issue=8
+|pages=CD004251
+|year=2013
+|pmid=23979926
+|doi=10.1002/14651858.CD004251.pub5
+|url=https://dx.doi.org/10.1002/14651858.CD004251.pub5
+}}</ref>
+and that electrotherapy has limited effect on neck pain as measured by clinical results.<ref name="pmid18173978">{{cite journal
+|vauthors=Borenstein DG
+|title=Chronic neck pain: how to approach treatment
+|journal=[[Current Pain and Headache Reports]]
+|volume=11
+|issue=6
+|pages=436–9
+|year=2007
+|pmid=18173978
+|doi=10.1007/s11916-007-0230-4
+|url=
+}}</ref>
+
+A 2015 review found that the evidence for electrotherapy in pregnancy-related lower [[back pain]] is "very limited".<ref name="pmid26018758">{{cite journal
+|vauthors=Gutke A, Betten C, Degerskär K, Pousette S, Olsén MF
+|title=Treatments for pregnancy-related lumbopelvic pain: a systematic review of physiotherapy modalities
+|journal=[[Acta Obstetricia et Gynecologica Scandinavica]]
+|volume=94
+|issue=11
+|pages=1156–67
+|year=2015
+|pmid=26018758
+|doi=10.1111/aogs.12681
+|url=https://dx.doi.org/10.1111/aogs.12681
+}}</ref>
+
+=====Shoulder disorders=====
+
+A 2014 [[Cochrane review]] found insufficient evidence to determine whether electrotherapy was better than exercise at treating [[adhesive capsulitis]].<ref name="pmid25271097">{{cite journal
+|vauthors=Page MJ, Green S, Kramer S, Johnston RV, McBain B, Buchbinder R
+|title=Electrotherapy modalities for adhesive capsulitis (frozen shoulder)
+|journal=[[The Cochrane Database of Systematic Reviews]]
+|volume=
+|issue=10
+|pages=CD011324
+|year=2014
+|pmid=25271097
+|doi=10.1002/14651858.CD011324
+|url=https://dx.doi.org/10.1002/14651858.CD011324
+}}</ref>
+As of 2004, there is insufficient evidence to draw conclusions about any intervention for [[rotator cuff]] pathology, including electrotherapy;<ref name="pmid15162111">{{cite journal
+|vauthors=Grant HJ, Arthur A, Pichora DR
+|title=Evaluation of interventions for rotator cuff pathology: a systematic review
+|journal=[[Journal of Hand Therapy : Official Journal of the American Society of Hand Therapists]]
+|volume=17
+|issue=2
+|pages=274–99
+|year=2004
+|pmid=15162111
+|doi=10.1197/j.jht.2004.02.013
+|url=https://linkinghub.elsevier.com/retrieve/pii/S089411300400047X
+}}</ref>
+furthermore, methodological problems precluded drawing conclusions about the efficacy of ''any'' rehabilitation method for [[impingement syndrome]].<ref name="pmid15162102">{{cite journal
+|vauthors=Michener LA, Walsworth MK, Burnet EN
+|title=Effectiveness of rehabilitation for patients with subacromial impingement syndrome: a systematic review
+|journal=[[Journal of Hand Therapy : Official Journal of the American Society of Hand Therapists]]
+|volume=17
+|issue=2
+|pages=152–64
+|year=2004
+|pmid=15162102
+|doi=10.1197/j.jht.2004.02.004
+|url=https://linkinghub.elsevier.com/retrieve/pii/S0894113004000389
+}}</ref>
+
+=====Other musculoskeletal disorders=====
+
+There is limited, low quality evidence for a slight benefit of noxious-level electrotherapy in the treatment of [[epicondylitis]].
+<ref name="pmid23335238">{{cite journal
+|vauthors=Dingemanse R, Randsdorp M, Koes BW, Huisstede BM
+|title=Evidence for the effectiveness of electrophysical modalities for treatment of medial and lateral epicondylitis: a systematic review
+|journal=[[British Journal of Sports Medicine]]
+|volume=48
+|issue=12
+|pages=957–65
+|year=2014
+|pmid=23335238
+|doi=10.1136/bjsports-2012-091513
+|url=http://bjsm.bmj.com/cgi/pmidlookup?view=long&pmid=23335238
+}}</ref>
+
+A 2012 review found that "Small, single studies showed that some electrotherapy modalities may be beneficial" in rehabilitating ankle [[bone fracture]]s.
+<ref name="pmid23152232">{{cite journal
+|vauthors=Lin CW, Donkers NA, Refshauge KM, Beckenkamp PR, Khera K, Moseley AM
+|title=Rehabilitation for ankle fractures in adults
+|journal=[[The Cochrane Database of Systematic Reviews]]
+|volume=11
+|issue=
+|pages=CD005595
+|year=2012
+|pmid=23152232
+|doi=10.1002/14651858.CD005595.pub3
+|url=https://dx.doi.org/10.1002/14651858.CD005595.pub3
+}}</ref> However, a 2008 review found it to be ineffective in healing long-bone fractures.<ref>{{cite journal|vauthors=Mollon B, da Silva V, Busse JW, Einhorn TA, Bhandari M |title=Electrical stimulation for long-bone fracture-healing: a meta-analysis of randomized controlled trials|journal=J Bone Joint Surg Am|volume=90|issue=11|pages=2322–30|date=November 2008|pmid=18978400|doi=10.2106/JBJS.H.00111}}</ref>
+
+A 2012 review found that evidence that electrotherapy contributes to recovery from knee conditions is of "limited quality".
+<ref name="pmid23122433">{{cite journal
+|vauthors=Button K, Iqbal AS, Letchford RH, van Deursen RW
+|title=Clinical effectiveness of knee rehabilitation techniques and implications for a self-care treatment model
+|journal=[[Physiotherapy]]
+|volume=98
+|issue=4
+|pages=288–99
+|year=2012
+|pmid=23122433
+|doi=10.1016/j.physio.2011.08.003
+|url=https://linkinghub.elsevier.com/retrieve/pii/S0031-9406(11)00454-8
+}}</ref>
+
+====Chronic pain====
+
+A 2004 Cochrane review found "weaker evidence" that pulsating electromagnetic fields could be effective in treating recurrent [[headaches]].<ref name="pmid15266458">{{cite journal
+|vauthors=Bronfort G, Nilsson N, Haas M, Evans R, Goldsmith CH, Assendelft WJ, Bouter LM
+|title=Non-invasive physical treatments for chronic/recurrent headache
+|journal=[[The Cochrane Database of Systematic Reviews]]
+|volume=
+|issue=3
+|pages=CD001878
+|year=2004
+|pmid=15266458
+|doi=10.1002/14651858.CD001878.pub2
+|url=https://dx.doi.org/10.1002/14651858.CD001878.pub2
+}}</ref>
+
+A 2016 Cochrane review found that supporting evidence for electrotherapy as a treatment for [[complex regional pain syndrome]] is "absent or unclear."<ref name="pmid26905470">{{cite journal
+|vauthors=Smart KM, Wand BM, O'Connell NE
+|title=Physiotherapy for pain and disability in adults with complex regional pain syndrome (CRPS) types I and II
+|journal=[[The Cochrane Database of Systematic Reviews]]
+|volume=2
+|issue=
+|pages=CD010853
+|year=2016
+|pmid=26905470
+|doi=10.1002/14651858.CD010853.pub2
+|url=https://dx.doi.org/10.1002/14651858.CD010853.pub2
+}}</ref>
+
+====Chronic wounds====
+
+A 2015 review found that the evidence supporting the use of electrotherapy in healing [[pressure ulcer]]s was of low quality,<ref name="pmid25737261">{{cite journal
+|vauthors=Vélez-Díaz-Pallarés M, Lozano-Montoya I, Abraha I, Cherubini A, Soiza RL, O'Mahony D, Montero-Errasquín B, Cruz-Jentoft AJ
+|title=Nonpharmacologic interventions to heal pressure ulcers in older patients: an overview of systematic teviews (The SENATOR-ONTOP Series)
+|journal=[[Journal of the American Medical Directors Association]]
+|volume=16
+|issue=6
+|pages=448–69
+|year=2015
+|pmid=25737261
+|doi=10.1016/j.jamda.2015.01.083
+|url=https://linkinghub.elsevier.com/retrieve/pii/S1525-8610(15)00084-5
+}}</ref> and a 2015 Cochrane review found that no evidence that electromagnetic therapy, a subset of electrotherapy, was effective in healing pressure ulcers.<ref name="pubmed26334539">{{cite journal|last=|first=|date=|year=2015|title=Electromagnetic therapy for treating pressure ulcers|journal=Cochrane Database Syst Rev|volume=9|pages=CD002930|doi=10.1002/14651858.CD002930.pub6|pmid=26334539|via=|vauthors=Aziz Z, Flemming K}}</ref> Earlier reviews found that, because of low-quality evidence, it was unclear whether electrotherapy increases healing rates of pressure ulcers.
+<ref name="pmid21524319">{{cite journal
+|vauthors=Reddy M
+|title=Pressure ulcers
+|journal=[[BMJ Clinical Evidence]]
+|volume=2011
+|issue=
+|pages=
+|year=2011
+|pmid=21524319
+|pmc=3217823
+|doi=
+|url=http://www.clinicalevidence.bmj.com/ceweb/pmc/2011/04/1901
+}}</ref>
+<ref name="pmid19450317">{{cite journal
+|vauthors=Cullum N, Petherick E
+|title=Pressure ulcers
+|journal=[[BMJ Clinical Evidence]]
+|volume=2008
+|issue=
+|pages=
+|year=2008
+|pmid=19450317
+|pmc=2907959
+|doi=
+|url=http://www.clinicalevidence.bmj.com/ceweb/pmc/2008/03/1901
+}}</ref> By 2014 the evidence supported electrotherapy's efficacy for ulcer healing.<ref name=pmid24456185>{{cite journal |title=Electrical stimulation vs. standard care for chronic ulcer healing: a systematic review and meta-analysis of randomised controlled trials|journal=Eur J Clin Invest |date=April 2014 |volume=44 |issue=4 |pages=429–40 |authors=Barnes R, Shahin Y, Gohil R, Chetter I |pmid=24456185 |doi=10.1111/eci.12244}}</ref>
+
+Another 2015 Cochrane review found no evidence supporting the user of electrotherapy for [[venous stasis ulcer]]s.<ref>{{cite journal|last=|first=|date=|year=2015|title=Electromagnetic therapy for treating venous leg ulcers|journal=Cochrane Database Syst Rev|volume=7|pages=CD002933|doi=10.1002/14651858.CD002933.pub6|pmid=26134172|via=|vauthors=Aziz Z, Cullum N, Flemming K|url=http://espace.library.uq.edu.au/view/UQ:330800/UQ330800_OA.pdf}}</ref>
+
+== See also == <!-- PLEASE RESPECT ALPHABETICAL ORDER -->
+* [[Alfred Charles Garratt]]
+* [[Cranial electrotherapy stimulation]]
+* [[Deep brain stimulation]]
+* [[Electrical brain stimulation]]
+* [[Electrical muscle stimulation]]
+* [[Electroanalgesia]]
+* [[Electroconvulsive therapy]]
+* [[Electrotherapy (cosmetic)]]
+* [[Galvanic bath]]
+*[[Microcurrent electrical neuromuscular stimulator]]
+<!-- * [[Neuromuscular diagnostics]] -->
+<!-- * [[Rebox Electrotherapy|Rebox electrotherapy]] -->
+* [[Transcranial magnetic stimulation]]
+*[[Transcutaneous electrical nerve stimulation]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Singh, Jagmohan; "Textbook of Electrotherapy", Ed.1/2005, {{ISBN|81-8061-384-4}}; Pub: JAYPEE Brothers Medical Publishers, New Delhi; Cover type: Paperback
+* Nelson, Roger M.; Currier, Dean P.; "''Clinical Electrotherapy''"; 2nd ed., {{ISBN|0-8385-1334-4}}; 422 p. Appleton & Lange, a publishing division of Prentice Hall, c1991 c1987; 3rd ed., {{ISBN|0-8385-1491-X}};
+* Becker, Robert O.; "The Body Electric. Electromagnetism and the Foundation of Life" (with Gary Selden). Morrow, New York 1985, {{ISBN|0-688-06971-1}}
+* Becker, Robert O.; "Cross Currents. The Promise of Electromedicine, the Perils of Electropollution" Torcher, Los Angeles 1990, {{ISBN|0-87477-536-1}}
+* Watkins, Arthur Lancaster, "''A manual of electrotherapy.''". 2d ed., thoroughly rev. Philadelphia : Lea & Febiger, c1962. 272 p.
+* Scott, Bryan O., "''The principles and practice of electrotherapy and actinotherapy''". Springfield, Ill., C.C. Thomas, c1959. 314 p.&nbsp;LCCN 60004533 /L
+* Neuroelectric Conference (1969 : San Francisco, Calif.), "'' Neuroelectric research; electroneuroprosthesis, electroanesthesia and nonconvulsive electrotherapy''". Editor, David V. Reynolds and Anita E. Sjoberg. Springfield, Ill., Thomas, 1971. LCCN 75115389 (''ed''. Selected papers presented at the 1969 Neuroelectric Conference, the second annual conference of the Neuroelectric Society.)
+
+==External links==
+{{Commons category}}
+* [http://www.electrotherapy.org Electrotherapy on the Web] Tim Watson's website on electrotherapy, containing in-depth discussion and dose calculations.
+* [http://www.electrotherapymuseum.com/ The Turn of The Century Electrotherapy Museum]
+* [http://fztokm.mevlana.edu.tr/yayinlar/elektroterapi_atlasi_1.pdf Atlas of electrotherapy] (PDF)
+
+{{Authority control}}
+
+[[Category:Medical treatments]]
+[[Category:Electrotherapy]]
+[[Category:Analgesics]]

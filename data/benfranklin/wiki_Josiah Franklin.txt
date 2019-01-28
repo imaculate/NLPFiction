@@ -1,0 +1,66 @@
+
+{{Infobox person
+|name          = Josiah Franklin
+|image         = 
+|image_size    = 
+|alt           = 
+|caption       = 
+|birth_date    = {{birth date|1657|12|23}}
+|birth_place   = [[Ecton, Northamptonshire|Ecton]], [[Northamptonshire]], [[England]] 
+|death_date    = {{death date and age|1745|01|16|1657|12|23}}
+|death_place   = [[Boston]], [[Province of Massachusetts Bay]]
+|death_cause   = 
+|body_discovered = 
+|resting_place = [[Granary Burying Ground]] on [[Tremont Street]]
+|residence     = Boston, MA
+|nationality   = English 
+|citizenship   = English
+|education     = 
+|occupation    = Businessman, Tallow Chandler, Soap Boiler 
+|employer      = 
+|known_for     = Father of [[Benjamin Franklin]]
+|home_town     = 
+|salary        = 
+|height        = 
+|weight        = 
+|spouse        = Anne Child (1677–1689)<br />Abiah Folger (1689–1744)
+|partner       = 
+|children      = 17, including [[James Franklin (printer)|James]], [[Benjamin Franklin|Benjamin]], and [[Jane Mecom|Jane]]
+|parents       = Thomas Franklin<br>Jane White
+|relations     = Henry Franckline (grandfather)
+|website       = 
+|signature     = 
+|signature_alt = 
+|networth      = 
+|box_width     = 
+}}
+
+'''Josiah Franklin Sr.''' (December 23, 1657 – January 16, 1745) was an [[English people|English]] businessman and the father of [[Benjamin Franklin]]. Born in the village of [[Ecton, Northamptonshire|Ecton]], [[Northamptonshire]], [[England]], Josiah was the ninth child of blacksmith Thomas Franklin (b. 1598), and his first wife, Jane White. Thomas was the son of Henry Franckline (b. 1573) and Agnes Joanes. Thomas Franklin remarried and had more children. Josiah Franklin worked as a [[Dyeing|fabric dyer]] in Ecton. In [[Boston]], he was a member of the [[Congregational church|Congregational]] [[Old South Church]] where he served as a [[tithing]]man.<ref>[http://www.websters-online-dictionary.org/definition/tithing Dictionary definition of "Tithing"] and [http://www.websters-online-dictionary.org/Ti/Tithingman.html Dictionary definition of "Tithingman".] Webster's Online Dictionary. Retrieved June 9, 2008</ref>
+Franklin immigrated to the [[Thirteen Colonies|American colonies]] in 1682. He married twice and had 17 children - ten boys and seven girls.
+
+==Marriage to Anne Child==
+Josiah Franklin married his first wife, Anne Child, in 1677 and they had seven children<ref>{{cite web |url=http://www.ushistory.org/franklin/biography/app01.htm| title=Life of Benjamin Franklin: APPENDIX No. I |last=Sparks |first=Jared |date=1999 |website=UShistory.org |access-date=December 30, 2017}}</ref>: Elizabeth, Samuel, Hannah. Josiah Jr., Joseph (1688-1688), Joseph II (1689-1689), and Ann<ref>https://www.findagrave.com/memorial/67815297</ref>. Upon moving to [[Boston]], he took up the trade of [[tallow]] [[Chandlery|chandler]] and soap boiler because the trade he was born to was not in demand in [[New England]].
+
+==Marriage to Abiah Folger==
+In November 1689, Josiah Franklin married his second wife, Abiah Folger, in the Old South Church. Abiah of [[Nantucket]], Massachusetts, was the daughter of [[Peter Foulger|Peter]] and [[Mary Morril|Mary ''Morrill'' Foulger]].<ref>{{Cite book|title=A Companion to Benjamin Franklin|last=Huang|first=Nian-sheng|date=2012-01-01|publisher=Wiley-Blackwell|isbn=9781444342154|editor-last=Waldstreicher|editor-first=David|pages=5–24|language=en|doi=10.1002/9781444342154.ch1|chapter = Franklin's Boston Years, 1706-1723}}</ref> Peter Foulger was a schoolmaster, a miller and a surveyor.
+
+Abiah bore Josiah 10 children: John (1690), Peter (1692), Mary (1694), [[James Franklin (printer)|James]] (1697), Sarah (1699), Ebenezer (1701), Thomas (1703), [[Benjamin Franklin|Benjamin]] (1706), Lydia (1708), and [[Jane Mecom|Jane]] (1712).
+
+==Benjamin Franklin==
+Josiah insisted that each of his sons must learn a trade. He had great dreams of Benjamin becoming a minister,<ref>[http://www.ushistory.org/franklin/info/index.htm Franklin], US History</ref> but Josiah could only afford to send his son to school for two years. As his young Benjamin loved to read, Josiah apprenticed him to his brother James, who was a printer. Later, Benjamin Franklin borrowed books from his friends and taught himself [[arithmetic]], [[grammar]], and [[philosophy]]. Benjamin, whose full name was Benjamin Josiah Franklin,<ref>[http://www.ushistory.org/franklin/info/index.htm Franklin], US History</ref> had a very strong relationship with his father, who had a great influence on Benjamin.<ref>[http://www.ushistory.org/franklin/info/index.htm Franklin], US History</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{Benjamin Franklin}}
+
+{{DEFAULTSORT:Franklin, Josiah}}
+[[Category:Benjamin Franklin]]
+[[Category:1657 births]]
+[[Category:1745 deaths]]
+[[Category:Franklin family]]
+[[Category:Burials at Granary Burying Ground]]
+[[Category:Kingdom of England emigrants to the Thirteen Colonies]]
+[[Category:People from Ecton, Northamptonshire]]

@@ -1,0 +1,82 @@
+{{otheruses}}
+{{Infobox person
+| name        = Samuel Willard
+| image       = SamuelWillard.jpg
+| caption     = Samuel Willard (1640-1707)
+| birth_date  = {{Birth date|1640|1|31|mf=y}}
+| birth_place = [[Concord, Massachusetts|Concord]], [[Massachusetts Bay Colony]]
+| death_date  = {{death date and age|1707|9|12|1640|1|31|mf=y}}
+| death_place = [[Cambridge, Massachusetts]]
+| occupation  = [[Minister (religion)|Minister]]
+| spouse      = {{marriage|Abigail Sherman |1664}}<br />Eunice Tyng (m. 1679)
+| signature   = Appletons' Willard Simon - Samuel signature.png
+}}
+
+[[Reverend]] '''Samuel Willard''' (January 31, 1640 – September 12, 1707) was a [[Colonialism|colonial]] [[clergy]]man. He was born in [[Concord, Massachusetts|Concord]], [[Massachusetts]], graduated [[Harvard University|Harvard]] in 1659, and was minister at [[Groton, Massachusetts|Groton]] from 1663–1676, whence he was driven by the Indians during [[King Philip's War]]. Willard was [[pastor]] of the [[Old South Meeting House|Third Church]], [[Boston, Massachusetts|Boston]] from 1678 until his death. He opposed the [[Salem witch trials]], and served as acting president of [[Harvard University|Harvard]] from 1701. He published many sermons; the folio volume  ''A Compleat Body of Divinity'' was published posthumously in 1726.
+
+==Early life==
+Willard's parents were Major [[Simon Willard (First generation)|Simon Willard]] and Mary Sharpe, who had emigrated from England to New England in 1634, settling first in [[Cambridge, Massachusetts]]. In 1635, with Rev. [[Peter Bulkley]], they established the town of [[Concord, Massachusetts|Concord]], where Samuel was born the sixth child and second son. After the death of his mother, his father remarried twice, and Samuel was one of seventeen children born to the family.<ref>Van Dyken, pp. 13–14.</ref> At the age of fifteen, Willard entered [[Harvard College]] in 1655, graduating in 1659, and was the only member of his class to receive an [[Master of Arts|M.A.]]<ref>Sibley, p. 13.</ref>
+
+==Ministry in Groton==
+In 1663, Willard began preaching in [[Groton, Massachusetts|Groton]], then at the very frontier of the [[Massachusetts Bay Colony]]. The town's first minister John Miller had become ill and, when he died, the congregation asked Willard to stay, and he was officially ordained by them in 1664.<ref>Van Dyken, pp. 26–27.</ref>
+
+On August 8, 1664, Willard married Abigail Sherman of [[Watertown, Massachusetts|Watertown]]. In 1670, he became a [[Freeman (Colonial)|freeman]], with full privileges of citizenship. In 1671, 16-year-old [[The Possession of Elizabeth Knapp|Elizabeth Knapp]] fell ill and appeared to be possessed. Willard wrote about the strange behavior. Groton was destroyed on March 10, 1676 during [[King Philip's War]], and the 300 residents abandoned the town. Willard and his family removed to [[Charlestown, Massachusetts]].{{cn|date=September 2015}}
+
+==Ministry in Boston==
+Willard preached at Boston's [[Old South Meeting House|Third Church]] during the illness of Rev. [[Thomas Thacher]] and gave an election-day sermon on June 5. The Third Church called Willard to be its Teacher, an associate pastor, on April 10, 1678. When Thacher died on October 15, Willard became their only pastor. Members of the congregation included a variety of influential members of the colony: John Hull, [[Samuel Sewall]], [[Edward Rawson (politician)|Edward Rawson]], [[Thomas Brattle]], [[Joshua Scottow]], [[Hezekiah Usher]], and Capt. John Alden (the son of [[John Alden|John]] and [[Priscilla Mullins|Priscilla Alden]] of Plymouth). His wife Abigail died sometime in the first half of 1679; in July of that year he married Eunice Tyng, a possible sister-in-law of [[Joseph Dudley]].<ref>Quincy, Josiah. ''The History of Harvard University''. John Owen (1840), Vol. I, p. 148.</ref>
+
+==Leading Harvard==
+Willard was the acting president of [[Harvard University|Harvard College]], although having the nominal title of vice-president, from 1701 until his death in 1707.<ref>Quincy, pp. 145–156.</ref>
+
+==Works==
+[[File:Dialogue Between S & B.jpg|thumb|right|First page of ''Some Miscellany Observations On our present Debates respecting Witchcrafts, in a Dialogue Between S. & B.'', attributed to Samuel Willard.]]
+* [http://www.17thc.us/docs/willard.shtml ''Some Miscellany Observations On our present Debates respecting Witchcrafts, in a Dialogue Between S. & B.'']
+* ''A Compleat Body of Divinity'', 1726
+* "A briefe account of a strange & unusuall Providence of God befallen to Elizabeth Knap of Groton" in Samuel A. Green, ed., [http://history.hanover.edu/texts/groton/grointro.html ''Groton In The Witchcraft Times''], Groton, MA: [s.n.] 1883
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{NIE|wstitle=Willard, Samuel}}
+
+==Further reading==
+* Seymour Van Dyken, ''Samuel Willard, 1640-1707: Preacher of Orthodoxy in an Era of Change'' (1972); {{ISBN|0-8028-3408-6}}
+* Ernest Benson Lowrie, ''The Shape of the Puritan Mind: The Thought of Samuel Willard'' (1974); {{ISBN|0-300-01714-6}}
+* John Langdon Sibley. "Samuel Willard," pp.&nbsp;13–36 of ''Biographical Sketches of Graduates of Harvard University, in Cambridge Massachusetts'', Vol. II, 1659–1677. Cambridge: Charles William Sever, 1881.
+
+==External links==
+* [https://web.archive.org/web/20071021000740/http://pragmatism.org/american/willard_samuel.htm Profile], pragmatism.org; accessed September 7, 2015.
+* [http://nrs.harvard.edu/urn-3:DIV.LIB:div00710 A collection] of Samuel Willard's sermons are in the Andover-Harvard Theological Library at [[Harvard Divinity School]] in [[Cambridge, Massachusetts]].
+* {{Cite Appletons'|wstitle=Willard, Simon (settler)|display=Willard, Simon, settler|year=1889|short=x|notaref=x}}
+
+{{s-start}}
+{{s-aca}}
+{{succession box
+| before=[[Increase Mather]]
+| title=[[President of Harvard University|President of Harvard College]]<br/>''acting''
+| years=1701–1707
+| after=[[John Leverett the Younger|John Leverett]]
+}}
+{{s-end}}
+
+{{Salem}}
+{{Harvard University presidents}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Willard, Samuel}}
+[[Category:1640 births]]
+[[Category:17th-century Christian clergy]]
+[[Category:1707 deaths]]
+[[Category:American sermon writers]]
+[[Category:American theologians]]
+[[Category:Critics of witch hunting‎]]
+[[Category:Harvard College alumni]]
+[[Category:History of religion in the United States]]
+[[Category:Massachusetts colonial-era clergy]]
+[[Category:People from Concord, Massachusetts]]
+[[Category:People from Groton, Massachusetts]]
+[[Category:People of colonial Massachusetts]]
+[[Category:People of the Salem witch trials]]
+[[Category:Presidents of Harvard University]]

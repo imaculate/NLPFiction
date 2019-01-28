@@ -1,0 +1,67 @@
+[[File:Bifoklabrille fcm.jpg|thumb]]
+[[File:Jan-Öjvind Swahn vid doktorspromovering 2006-06-02.jpg|thumb|Bifocals with separate lenses]]
+{{for|the bifocal tensor|Fundamental matrix (computer vision)}}
+'''Bifocals''' are [[glasses|eyeglasses]] with two distinct [[optical power]]s. Bifocals are commonly prescribed to people with [[presbyopia]] who also require a correction for [[myopia]], [[hyperopia]], and/or [[astigmatism (eye)|astigmatism]].
+
+==History==
+[[Benjamin Franklin]] is generally credited with the invention of bifocals. Historians have produced some evidence to suggest that others may have come before him in the invention; however, a correspondence between [[George Whatley]] and [[John Fenno]], editor of [[The Gazette of the United States]], suggested that Franklin had indeed invented bifocals, and perhaps 50 years earlier than had been originally thought. However the College of Optometrists concluded:
+:''Unless further evidence emerges all we can say for certain is that Franklin was one of the first people to wear split bifocals and this act of wearing them caused his name to be associated with the type from an early date. This no doubt contributed greatly to their popularisation. The evidence implies, however, that when he sought to order lenses of this type the London opticians were already familiar with them. Other members of Franklin's circle of British friends may have worn them even earlier, from the 1760s, but it is at best uncertain (and arguably improbable?) that split bifocal lenses had a famous gentleman inventor. ''<ref name=collegeoptometrists>{{cite web|title=The 'Inventor' of Bifocals?|author=The College of Optometrists|url=http://www.college-optometrists.org/en/knowledge-centre/museyeum/online_exhibitions/artgallery/bifocals.cfm|deadurl=yes|archiveurl=https://web.archive.org/web/20110613044912/http://www.college-optometrists.org/en/knowledge-centre/museyeum/online_exhibitions/artgallery/bifocals.cfm|archivedate=2011-06-13|df=}}</ref> 
+Since many inventions are developed independently by more than one person, it is possible that the invention of bifocals may have been such a case.
+
+[[John Isaac Hawkins]], the inventor of [[trifocal lenses]], coined the term ''bifocals'' in 1824 and credited Dr. Franklin. 
+
+In 1955, Irving Rips of [[Younger Optics]] created the first seamless or "invisible" bifocal, a precursor to all [[progressive lens]]es.<ref>http://www.visionmonday.com/Default.aspx?TabId=211&Parent_content_id=11079&content_id=11095&SkinSrc=%5BL%5DSkins/VM2007/PagePrint&ContainerSrc=%5BL%5DContainers/VM2007/SimpleContainer&dnnprintmode=true</ref>
+
+'''Construction'''
+
+Original bifocals were designed with the most convex lenses (for close viewing) in the lower half of the frame and the least convex lenses on the upper. Up until the beginning of the 20th century two separate lenses were cut in half and combined together in the rim of the frame. The mounting of two half lenses into a single frame led to a number of early complications and rendered such spectacles quite fragile. A method for fusing the sections of the lenses together was developed by Louis de Wecker at the end of the 19th century and patented by Dr. John L. Borsch, Jr. in 1908.
+Today most bifocals are created by molding a reading segment into a primary lens and are available with the reading segments in a variety of shapes and sizes. The most popular is the D-segment, 28&nbsp;mm wide.{{cn|date=March 2018}} While the D-segment bifocal offers superior optics, an increasing number of people opt for progressive bifocal lenses.
+
+==Problems==
+Bifocals can cause headaches and even dizziness in some users. Acclimation to the small field of view offered by the reading segment of bifocals can take some time, as the user learns to move either the head or the reading material rather than the eyes.  [[Computer monitor]]s are generally placed directly in front of users and can lead to muscle fatigue due to the unusual straight and constant movement of the head. This trouble is mitigated by the use of trifocal lenses or by the use of monofocal lenses for computer users.
+
+In an interesting legal case reported in the UK in 1969, the plaintiff's ability to use bifocals was impaired by accident.<ref>Agarwal, R.K. (1984), Plaintiff's ability to use bifocals impaired by accident, The Ophthalmic Optician, 24 (25), page 898 (the title of this journal was changed to Optometry Today in 1985, published by the Association of Optometrists, London, England).</ref>
+
+==Future==
+Research continues in an attempt to eliminate the limited field of vision in current bifocals.  New materials and technologies may provide a method which can selectively adjust the optical power of a lens.  Researchers have constructed such a lens using a [[liquid crystal]] layer sandwiched between two glass substrates.
+
+==Bifocals in the animal world==
+The aquatic larval stage of the [[Dytiscidae|diving beetle]] ''[[Thermonectus marmoratus]]'' has, in its principal eyes, two [[retina]]s and two distinct focal planes that are substantially separated (in the manner of bifocals) to switch their vision from up-close to distance, for easy and efficient capture of their prey, mostly [[mosquito]] larvae. This is the first ever recorded use of bifocal technology in the [[animal]] world.<ref>{{cite web |url=https://www.sciencedaily.com/releases/2010/08/100823121935.htm |title=Bug With Bifocals Baffles Biologists |author=Dawn Fuller (duly edited) |date=24 August 2010 |work=ScienceDaily |publisher=ScienceDaily LLC |accessdate=25 August 2010| archiveurl= https://web.archive.org/web/20100825140335/https://www.sciencedaily.com/releases/2010/08/100823121935.htm| archivedate= 25 August 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+==References==
+{{reflist}}
+
+==Sources==
+* {{cite journal
+    | author = Letocha, Charles E.
+    | title  = The Invention and Early Manufacture of Bifocals
+    | journal= Survey of Ophthalmology
+    | volume = 35
+    | year   = 1990
+    | pages  = 226–235
+    | doi    = 10.1016/0039-6257(90)90092-A
+    | pmid = 2274850
+    | issue = 3
+  }}
+* {{cite journal
+    | author = G. Li
+    | title  = Switchable electro-optic diffractive lens with high efficiency for ophthalmic applications
+    |date=April 2006
+    | journal= Proc. Natl. Acad. Sci. USA
+    | volume = 103
+    | pages = 6100–6104
+
+    | doi = 10.1073/pnas.0600850103
+    | pmid  = 16597675
+    | issue = 16
+    | pmc = 1458838
+|display-authors=etal}}
+
+==External links==
+* [http://eyehistory.wordpress.com/letters-on-double-spectacles-by-benjamin-franklin/  Franklin's letters to Whatley concerning double spectacles.]
+
+{{Benjamin Franklin}}
+
+[[Category:Corrective lenses]]
+[[Category:Inventions by Benjamin Franklin]]
+[[Category:American inventions]]

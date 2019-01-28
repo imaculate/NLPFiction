@@ -1,0 +1,179 @@
+{{distinguish|Massachusetts Bay Colony}}
+{{Use mdy dates|date=April 2012}}
+{{Infobox former country
+|conventional_long_name = Province of Massachusetts Bay
+|common_name       = Massachusetts
+|status                 = Colony of England (1691–1707)<br> Colony of Great Britain (1707–1783)
+|life_span         = 1691–1783
+|event_start       = Charter issued
+|year_start        = 1691
+|event1            = Provincial Congress established
+|date_event1       = October 1774
+|event2            = Massachusetts Declaration of Independence
+|date_event2       = May 1, 1776
+|event3            = Adoption of the [[Massachusetts Constitution]]
+|date_event3       = October 1779
+|event_end         = [[Treaty of Paris (1783)|Treaty of Paris]]
+|year_end          = 1783
+|p1                = Plymouth Colony
+|image_p1          = [[File:Plymouth Colony seal.png|30px|link=Plymouth Colony]]
+|p2                = Massachusetts Bay Colony
+|flag_p2           = New England blank flag.svg
+|p3                = Province of Maine
+|flag_p3           = Flag of England.svg
+|s1                = Massachusetts
+|flag_s1           = Flag of the United States (1776-1777).svg
+|s2                = Nova Scotia
+|flag_s2           = Flag of Great Britain (1707-1800).svg
+|image_flag        = Colonial-Red-Ensign.svg
+|image_coat        = Coat of Arms of Great Britain (1714-1801).svg
+|image_map         = Masscolony.png
+|image_map_caption = A map depicting the colonial claims related to the province
+|capital           = Boston
+|common_languages  = English, [[Massachusett language|Massachusett]], [[Mi'kmaq language|Mi'kmaq]]
+|currency          = [[Massachusetts pound]], [[Spanish dollar]]
+|leader1           = [[William III of England|William III]] and [[Mary II of England|Mary II]]
+|year_leader1      = 1691–1694
+|leader2           = [[George III of Great Britain|George III]]
+|year_leader2      = 1760–1783
+|title_leader      = Monarch
+|deputy1           = Sir [[William Phips]]
+|year_deputy1      = 1692–1694
+|deputy2           = [[List of colonial governors of Massachusetts|''full list'']]
+|year_deputy2      = 1694–1774
+|deputy3           = Thomas Gage
+|year_deputy3      = 1774–1775
+|title_deputy      = Royal Governor
+|legislature       = General Court
+|today = {{Flag|Canada}}<br/>{{Flag|United States}}
+}}
+
+The '''Province of Massachusetts Bay'''<ref>{{cite web|url=http://avalon.law.yale.edu/17th_century/mass07.asp|title=The Charter of Massachusetts Bay|year=1691|publisher=The Avalon Project|quotation=Wee doe by these presents Vnite Erect and Incorporate the same into one reall Province by the Name of Our Province of the Massachusetts Bay in New England….}}</ref> was a crown colony in British North America and one of the [[Thirteen Colonies|thirteen original states]] of the United States from 1776. It was chartered on October 7, 1691 by [[William III of England|William III]] and [[Mary II of England|Mary II]], the joint monarchs of the kingdoms of England, Scotland, and Ireland. The charter took effect on May 14, 1692 and included the [[Massachusetts Bay Colony]], the [[Plymouth Colony]], the [[Province of Maine]], [[Martha's Vineyard]], [[Nantucket]], [[Nova Scotia]], and [[New Brunswick]]; the Commonwealth of Massachusetts is the direct successor. Maine has been a separate state since 1820, and Nova Scotia and New Brunswick are now Canadian provinces, having been part of the colony only until 1697.
+
+The name Massachusetts comes from the Massachusett Indians, an [[Algonquian peoples|Algonquian]] tribe. It has been translated as "at the great hill", "at the place of large hills", or "at the range of hills", with reference to the [[Blue Hills Reservation|Blue Hills]] and to [[Great Blue Hill]] in particular.
+
+==Background==
+{{main|Massachusetts Bay Colony|Plymouth Colony|Dominion of New England}}
+Colonial settlement of the shores of [[Massachusetts Bay]] began in 1620 with the founding of the [[Plymouth Colony]].<ref>Labaree, pp. 23–26</ref> Other attempts at colonization took place throughout the 1620s, but expansion of English settlements only began on a large scale with the founding of the [[Massachusetts Bay Colony]] in 1628 and the arrival of the first large group of [[Puritans|Puritan]] settlers in 1630.<ref>Labaree, pp. 27–30</ref> Over the next ten years, there was a [[Puritan migration to New England (1620–40)|major migration]] of Puritans to the area, leading to the founding of a number of new colonies in [[New England]]. By the 1680s, the number of New England colonies had stabilized at five; the [[Connecticut Colony]], the [[Colony of Rhode Island and Providence Plantations]], and the [[Province of New Hampshire]] all bordered the area surrounding Massachusetts Bay and Plymouth. Massachusetts Bay, however, was the most populous and economically significant, hosting a sizable merchant fleet.
+
+The colonies had struggles with some of the Indian tribes.<ref>Hart, pp. 129–131</ref> The [[Pequot people|Pequot tribe]] was virtually destroyed in the [[Pequot War]] during the 1630s, and [[King Philip's War]] in the 1670s decimated the [[Narragansett people|Narragansetts]] in southern New England. King Philip's War was also very costly to the colonists of New England, putting a halt to expansion for several years.<ref>Labaree, pp. 96–105</ref>
+
+Massachusetts and Plymouth were both somewhat politically independent from England in their early days, but this situation changed after the [[Restoration (England)|restoration]] of [[Charles II of England|Charles II]] to the English throne in 1660.<ref>Labaree, p. 111</ref> Charles sought closer oversight of the colonies, and he tried to introduce and enforce economic control over their activities. The [[Navigation Acts]] passed in the 1660s were widely disliked in Massachusetts, where merchants often found themselves trapped and at odds with the rules. However, many colonial governments did not enforce the acts themselves, particularly Massachusetts,<ref>Labaree, pp. 94, 111–113</ref> and tensions grew when Charles revoked the first Massachusetts Charter in 1684.
+
+In 1686, Charles II's successor [[James II of England|King James II]] formed the [[Dominion of New England]] which ultimately created a single political unit out of the British territories from [[Delaware Bay]] to [[Penobscot Bay]].<ref>Lovejoy, pp. 159, 196–212</ref>  Dominion governor Sir [[Edmund Andros]] was highly unpopular in the colonies, but he was especially hated in Massachusetts where he angered virtually everyone by rigidly enforcing the Navigation Acts, vacating land titles, appropriating a Puritan meeting house as a site to host services for the Church of England, and restricting [[town meeting]]s, among other sundry complaints.<ref>Lovejoy, pp. 184–186,<!--town meeting, titles, and issues not enumerated here--> 188–190<!--trade-->, 193<!--church--></ref>  James was deposed in the 1688 [[Glorious Revolution]], whereupon Massachusetts political leaders rose up against Andros, [[1689 Boston revolt|arresting him]] and other English authorities in April 1689.<ref>Lovejoy, pp. 224–226<!--deposition of james--></ref><ref>Webb, pp. 183–184</ref>  This led to the collapse of the Dominion, as the other colonies then quickly reasserted their old forms of government.<ref>Palfrey, p. 596</ref>
+
+The Plymouth colony never had a royal charter, so its governance had always been on a somewhat precarious footing. The Massachusetts colonial government was re-established but it no longer had a valid charter, and some opponents of the old Puritan rule refused to pay taxes and engaged in other forms of protest.  Provincial agents traveled to London where [[Increase Mather]] was representing the old colony leaders, and he petitioned new rulers [[William III of England|William III]] and [[Mary II of England|Mary II]] to restore the old colonial charter.  King William refused, however, when he learned that this might result in a return to the religious rule.  Instead, the  [[Board of Trade|Lords of Trade]] combined the colonies of Plymouth and Massachusetts Bay into the Province of Massachusetts Bay.  They issued a charter for the Province on October 7, 1691, and appointed Sir [[William Phips]] as its governor.
+
+==Provincial charter==
+The new charter differed from the old one in several important ways. One of the principal changes was inaugurated over Mather's objection, changing the voting eligibility requirements from religious qualifications to land ownership.  The effect of this change has been a subject of debate among historians, but there is significant consensus that it greatly enlarged the number of men eligible to vote.<ref>Labaree, p. 127</ref>  The new rules required prospective voters to own £40 worth of property or real estate that yielded at least £2 per year in rent; Benjamin Labaree estimates that this included about three quarters of the adult male population at the time.<ref>Labaree, pp. 127, 132</ref>
+
+The second major change was that senior officials of the government were appointed by the crown instead of being elected, including governor, lieutenant governor, and judges.  The legislative assembly (or General Court) continued to be elected, however, and was responsible for choosing members of the Governor's Council.  The governor had veto power over laws passed by the General Court, as well as over appointments to the council.  These rules differed in important ways from the royal charters enjoyed by other provinces.  The most important were that the General Court now possessed the powers of appropriation, and that the council was locally chosen and not appointed by either the governor or the Crown.  These significantly weakened the governor's power, which became important later in provincial history.
+
+The province's territory was also greatly expanded beyond that originally claimed by the Massachusetts and Plymouth colonies.  Their territories initially included present-day mainland [[Massachusetts]], western [[Maine]], and portions of the neighboring modern states; this territory was expanded to include [[Acadia]] or [[Nova Scotia]] (then encompassing modern Nova Scotia, [[New Brunswick]], and eastern Maine), as well as what was then known as [[Dukes County, Province of New York|Dukes County]] in the [[Province of New York]], consisting of the islands of [[Nantucket]], [[Martha's Vineyard]], and the [[Elizabeth Islands]].
+
+== Colonial era ==
+
+In the aftermath of the revolt against Andros, colonial defenses had been withdrawn from the frontiers, which were then repeatedly raided by French and Indian forces from [[Canada, New France|Canada]] and [[Acadia]]. [[Queen Anne's War]] broke out in 1702 and lasted until 1713.  Massachusetts Governor [[Joseph Dudley]] organized the colonial defenses, and there were fewer raids than previously.  Dudley also organized expeditions in 1704 and 1707 against Acadia, a haven for French [[privateer]]s, and he requested support from London for more ambitious efforts against [[New France]].  In 1709, Massachusetts raised troops for an expedition against Canada that was called off; troops were again raised in 1710, when the Acadian capital of [[Habitation at Port-Royal|Port Royal]] was [[Siege of Port Royal (1710)|finally captured]].<ref>Benjamin Woods Labaree, ''Colonial Massachusetts: A History'' (1979)</ref>
+
+Because of these wars, the colony had issued paper currency whose value was constantly in decline, leading to financial crises.  This led to proposals to create a bank that would issue notes backed by real estate, but this move was opposed by Governor Dudley and his successor [[Samuel Shute]].  Dudley, Shute, and later governors fruitlessly attempted to convince the general court to fix salaries for crown-appointed officials.  The issues of currency and salary were both long-lived issues over which governors and colonists fought.  The conflict over salary reached a peak of sorts during the brief administration of [[William Burnet (administrator)|William Burnet]].  He held the provincial assembly in session for six months, relocating it twice, in an unsuccessful attempt to force the issue.<ref name="Labaree, 1979">Labaree, ''Colonial Massachusetts: A History'' (1979)</ref>
+
+In the early 1720s, the [[Abenaki]] Indians of northern New England resumed raiding frontier communities, encouraged by French intriguers but also concerned over English encroachment on their lands.  This violence was eventually put down by Acting Governor [[William Dummer]] in what came to be called [[Dummer's War]] (among many other names).  Many Abenakis retreated from northern New England into Canada after the conflict.
+
+In the 1730s, Governor [[Jonathan Belcher]] disputed the power of the legislature to direct appropriations, vetoing bills that did not give him the freedom to disburse funds as he saw fit.  This meant that the provincial treasury was often empty.  Belcher was, however, permitted by the Board of Trade to accept annual grants from the legislature in lieu of a fixed salary.  Under his administration, the currency crisis flared again.  This resulted in a revival of the land bank proposal, which Belcher opposed.  His political opponents intrigued in London to have him removed, and the bank was established.  Its existence was short-lived, for an act of Parliament forcibly dissolved it.  This turned a number of important colonists against crown and Parliament, including the father of [[American Revolutionary War]] political leader [[Samuel Adams]].<ref name="Labaree, 1979"/>
+
+The next twenty years were dominated by war.  [[King George's War]] broke out in 1744, and Governor [[William Shirley]] rallied troops from around New England for an assault on the French fortress at [[Fortress Louisbourg|Louisbourg]] which [[Siege of Louisbourg (1745)|succeeded in 1745]].  Louisbourg was returned to France at the end of the war in 1748, however, much to the annoyance of New Englanders.  Governor Shirley was relatively popular, in part because he managed to avoid or finesse the more contentious issues which his predecessors had raised.  He was again militarily active when the [[French and Indian War]] broke out in 1754.  He was raised to the highest colonial military command by the death of General [[Edward Braddock]] in 1755, but he was unable to manage the large-scale logistics that the war demanded and was recalled in 1757.  His successor [[Thomas Pownall]] oversaw the colonial contribution to the remainder of the war, which ended in North America in 1760.<ref>John A. Schutz, ''William Shirley, King's Governor of Massachusetts'' (1961).</ref><ref>Robert Zemsky, ''Merchants, Farmers and River Gods'' (1971)</ref>
+
+==Revolution==
+The 1760s and early 1770s were marked by a rising tide of colonial frustration with London's policies and with the governors sent to implement and enforce them. Both [[Sir Francis Bernard, 1st Baronet|Francis Bernard]] and [[Thomas Hutchinson (governor)|Thomas Hutchinson]], the last two non-military governors, were widely disliked over issues large and small, notably the Parliament's attempts to impose taxes on the colonies [[taxation without representation|without representation]]. Hutchinson was a Massachusetts native who served for many years as lieutenant governor, yet he authorized quartering British Army troops in Boston, which eventually precipitated the [[Boston Massacre]] on March 5, 1770. By this time, agitators such as Samuel Adams, [[Paul Revere]], and [[John Hancock]] were active in opposition to crown policies.
+
+After the [[Boston Tea Party]] in December 1773, Hutchinson was replaced in May 1774 by General [[Thomas Gage]].<ref>Wood, p. 38</ref> Gage was well received at first, but the reception rapidly became worse as he began to implement the so-called [[Intolerable Acts]], including the [[Massachusetts Government Act]], which dissolved the legislature, and the [[Boston Port Act]], which closed the port of Boston until reparations were paid for the dumped tea. The port closure did great damage to the provincial economy and led to a wave of sympathetic assistance from other colonies.
+
+The royal government of the Province of Massachusetts Bay existed until early October 1774, when members of the [[General Court of Massachusetts]] met in contravention of the Massachusetts Government Act and established the [[Massachusetts Provincial Congress]] which became the ''de facto'' government.<ref>Labaree, p. 278</ref> Governor Gage continued an essentially military rule in Boston, but the provincial congress had effective rule in the rest of the province.<ref>Labaree, pp. 170,278–282</ref> Hostilities broke out in April 1775 at [[Battles of Lexington and Concord|Lexington and Concord]], which started the [[American Revolutionary War]], and continued with the [[Siege of Boston]].<ref>Labaree, pp. 283–288</ref> The British [[Evacuation Day (Massachusetts)|evacuated Boston]] on March 17, 1776, ending the siege and bringing the city under patriot control.<ref>Labaree, pp. 296–300</ref><ref>Robert Taylor, Robert, ed. ''Massachusetts, Colony to Commonwealth: Documents on the Formation of Its Constitution, 1775–1780'' (1961).</ref>
+
+On May 1, 1776, the General Assembly adopted a resolution declaring independence in the name of "The Government and People of the Massachusetts Bay in New England".<ref>{{cite book|author=edited by Henry Barton Dawson  |title=Declaration of Independence by the Colony of Massachusetts Bay: May 1, 1776|url=https://books.google.com/books?id=JltaUhtW6H0C&pg=PA9|year=1862|page=9}}</ref> This was followed by the [[United States Declaration of Independence]] on July 4, 1776, declaring the independence of all of the [[Thirteen Colonies]].
+
+The [[Massachusetts Constitution|Constitution]] of the [[Massachusetts|Commonwealth of Massachusetts]] was agreed upon in Cambridge in October 1779 and adopted by the delegates nine months later in June 1780, to go into effect "the last Wednesday of October next". In elections held in October 1780, John Hancock was elected the first [[Governor of Massachusetts]] along with representatives to the commonwealth's first [[Massachusetts General Court|General Court]].
+
+==Politics==
+
+===Provincial politics===
+The politics of the province were dominated by three major factions, according to Thomas Hutchinson, who wrote the first major history of colonial Massachusetts.  This is in distinction to most of the other colonies, where there were two factions.  Expansionists believed strongly in the growth of the colony and in a vigorous defense against French and Indian incursions; they were exemplified in Massachusetts by people such as [[Thomas Hancock (merchant)|Thomas Hancock]], uncle to John Hancock, and [[James Otis, Sr.]].  This faction became a vital force in the [[Patriot (American Revolution)|Patriot]] movements preceding the revolution.  Non-expansionists were more circumspect, preferring to rely on a strong relationship with the mother country; they were exemplified by Hutchinson and the Oliver family of Boston.  This faction became the [[Loyalist (American Revolution)|Loyalists]] in the revolutionary era.
+
+The third force in Massachusetts politics was a populist faction made possible by the structure of the provincial legislature, in which rural and lower class communities held a larger number of votes than in other provinces.  Its early leaders included the Cookes ([[Elisha Cooke, Sr.|Elisha Senior]] and [[Elisha Cooke, Jr.|Junior]]) of Maine, while later leaders included revolutionary firebrand Samuel Adams.<ref>Egnal, pp. 20–21</ref>  Religion did not play a major role in these divisions, although non-expansionists tended to be Anglican while expansionists were mainly middle-of-the road Congregationalist. Populists generally held either conservative Puritan views or the revivalist views of the [[First Great Awakening]].<ref>Egnal, pp. 24–28</ref>  Throughout the provincial history, these factions made and broke alliances as conditions and circumstances dictated.<ref>Egnal, p. 29</ref>
+
+The populist faction had concerns that sometimes prompted it to support one of the other parties.  Its rural character meant that they sided with the expansionists when there were troubles on the frontier.  They also tended to side with the expansionists on the recurring problems with the local money, whose inflation tended to favor their ability to repay debts in depreciated currency.  These ties became stronger in the 1760s as the conflict grew with Parliament.<ref>Egnal, p. 24</ref>
+
+The non-expansionists were composed principally of a wealthy merchant class in Boston.  They had allies in the wealthy farming communities in the more developed eastern portions of the province, and in the province's major ports.  These alliances often rivalled the populist party in power in the provincial legislature.  They favored stronger regulation from the mother country and opposed the inflationist issuance of colonial currency.<ref>Egnal, pp. 27–28</ref>
+
+Expansionists mainly came from two disparate groups.  The first was a portion of the eastern merchant class, represented by the Hancocks and Otises, who harbored views of the growth of the colony and held relatively liberal religious views.  They were joined by wealthy landowners in the Connecticut River valley, whose needs for defense and growth were directly tied to property development.  These two groups agreed on defense and an expansionist vision, although they disagreed on the currency issue; the westerners sided with the non-expansionists in their desire for a standards-based currency.<ref>Egnal, pp. 25–27</ref>
+
+===Local politics===
+The province significantly expanded its geographical reach, principally in the 18th century.  There were 83 towns in 1695; this had grown to 186 by 1765.  Most of the towns in 1695 were within one day's travel of Boston, but this changed as townships sprang up in [[Worcester County, Massachusetts|Worcester County]] and [[the Berkshires]] on land that had been under Indian control prior to King Philip's War.<ref>Labaree, p. 128</ref>
+
+The character of local politics changed as the province prospered and grew.  Unity of community during the earlier colonial period gave way to subdivision of larger towns.  [[Dedham, Massachusetts|Dedham]], for example, was split into six towns, and [[Newburyport, Massachusetts|Newburyport]] was separated from [[Newbury, Massachusetts|Newbury]] in 1764.<ref name=L129>Labaree, p. 129</ref>
+
+Town meetings also became more important in local political life.  As towns grew, the townspeople became more assertive in managing their affairs.  Town [[selectmen]] had previously wielded significant power, but they lost some of their influence to the town meetings and to the appointment of paid town employees, such as [[tax assessor]]s, [[constable]]s, and treasurers.<ref>Labaree, pp. 129–130</ref>
+
+==Geography==
+{{unreferenced section|date=October 2015}}
+The boundaries of the province changed in both major and minor ways during its existence.  There was very thin soil land, and a rocky terrain. Nova Scotia, then including New Brunswick, was occupied by English forces at the time of the charter's issuance, but was separated in 1697 when the territory, called [[Acadia]] by the French, was formally returned to France by the 1697 [[Treaty of Ryswick]].  Nova Scotia became a separate province in 1710, following the [[Siege of Port Royal (1710)|British conquest]] of Acadia in [[Queen Anne's War]].  Maine was not separated until after American independence, when it attained statehood in 1820.
+
+The borders of the province with the neighboring provinces underwent some adjustment.  Its principal predecessor colonies, Massachusetts Bay and Plymouth, had established boundaries with New Hampshire, Rhode Island, and Connecticut, but these underwent changes during the provincial period.  The boundary with New Hampshire was of some controversy, since the original boundary definition in colonial charters (three miles north of the [[Merrimack River]]) had been made on the assumption that the river flowed predominantly west.  This issue was resolved by [[George II of Great Britain|King George II]] in 1741, when he ruled that the border between the two provinces follows what is now the border between the two states.
+
+Surveys in the 1690s suggested that the original boundary line with Connecticut and Rhode Island had been incorrectly surveyed.  In the early 18th century joint surveys determined that the line was south of where it should be.  In 1713 Massachusetts set aside a plot of land (called the "[[Equivalent Lands]]") to compensate Connecticut for this error.  These lands were auctioned off, and the proceeds were used by Connecticut to fund [[Yale College]].  The boundary with Rhode Island was also found to require adjustment, and in 1746 territories on the eastern shore of [[Narragansett Bay]] (present-day [[Barrington, Rhode Island|Barrington]], [[Bristol, Rhode Island|Bristol]],  [[Tiverton, Rhode Island|Tiverton]] and [[Little Compton, Rhode Island|Little Compton]]) were ceded to Rhode Island.  The borders between Massachusetts and its southern neighbors were not fixed into their modern form until the 19th century, requiring significant legal action in the case of the Rhode Island borders.  The western border with New York was agreed in 1773, but not surveyed until 1788.
+
+The province of Massachusetts Bay also laid a claim to what is now [[Western New York]] as part of the province's [[sea-to-sea grant]]. The 1780s [[Treaty of Hartford (1786)|Treaty of Hartford]] saw Massachusetts relinquish that claim in exchange for the right to sell it off to developers.
+
+==See also==
+{{Portal|Massachusetts|North America|British Empire}}
+*[[American Revolution]]
+*[[History of Massachusetts]]
+*[[Historical outline of Massachusetts]]
+*[[List of colonial governors of Massachusetts]]
+
+==Notes==
+{{reflist|30em}}
+
+==Further reading==
+* Adams, James Truslow. ''Revolutionary New England, 1691–1776'' (1923) [https://www.questia.com/read/61938787/revolutionary-new-england-1691-1776 online]
+* Bailyn, Bernard. ''The Ordeal of Thomas Hutchinson'' (Harvard University Press, 1974)
+* Bailyn, Bernard, and Lotte Bailyn. ''Massachusetts Shipping, 1697–1714: A Statistical Study'' (Harvard University Press, 1959)
+* Brown, B. Katherine. "Freemanship in Puritan Massachusetts". ''American Historical Review'' (1954): 865-883. [https://www.jstor.org/stable/1845121 in Jstor]
+* Cott, Nancy F. "Divorce and the changing status of women in eighteenth-century Massachusetts". ''William and Mary Quarterly: A Magazine of Early American History'' (1976): 586-614. [https://www.jstor.org/stable/1921717 in JSTOR]
+*{{cite book|last=Egnal|first=Marc|title=A Mighty Empire: the Origins of the American Revolution|publisher=Cornell University Press|location=Ithaca, NY|year=1988}}
+* Greven, Philip J. ''Four generations: Population, land, and family in colonial Andover, Massachusetts'' (Cornell University Press, 1972)
+*{{cite book|last=Hart|first=Albert Bushnell (ed)|title=Commonwealth History of Massachusetts|publisher=The States History Company|location=New York|year=1927|oclc=1543273}}
+* Hull, N. E. H. ''Female Felons: Women and Serious Crime in Colonial Massachusetts'' (U of Illinois Press, 1987)
+*{{cite book|last=Labaree|first=Benjamin|title=Colonial Massachusetts: a History|year=1979|publisher=KTO Press|location=Millwood, NY|isbn=978-0-527-18714-9|oclc=248194957}}
+* Lockridge, Kenneth A. ''A New England Town: The First Hundred Years: Dedham, Massachusetts, 1636–1736'' (New York: Norton, 1970)
+*{{cite book|last=Lovejoy|first=David|title=The Glorious Revolution in America|publisher=Wesleyan University Press|year=1987|location=Middletown, CT|isbn=978-0-8195-6177-0|oclc=14212813}}
+* Maier, Pauline. "Coming to Terms with Samuel Adams". ''American Historical Review'' (1976): 12–37. [https://www.jstor.org/stable/1863739 in JSTOR]
+*{{cite book|last=Palfrey|first=John|title=History of New England: History of New England During the Stuart Dynasty|year=1864|publisher=Little, Brown|location=Boston|oclc=1658888|url=https://books.google.com/books?id=A70rAAAAYAAJ&printsec=frontcover&cad=0}}
+* Pestana, Carla Gardina. ''Quakers and Baptists in Colonial Massachusetts'' (Cambridge University Press, 2004)
+*{{cite book|last=Webb|first=Stephen Saunders|title=Lord Churchill's Coup: The Anglo-American Empire and the Glorious Revolution Reconsidered|publisher=Syracuse University Press|year=1998|isbn=978-0-8156-0558-4|oclc=39756272|location=Syracuse, NY}}
+* {{cite book|last=Wood|first=Gordon S.|title=The American Revolution: A History|publisher=Modern Library|year=2002|isbn=0-8129-7041-1|oclc=|location=New York}}
+* Zemsky, Robert. ''Merchants, Farmers and River Gods'' (1971)
+
+===Online primary sources===
+* [http://babel.hathitrust.org/cgi/mb?c=855228657;a=listsrch;q1=Massachusetts;sort=rel_d;pn=1 500+ volumes of colonial records]
+
+{{Thirteen Colonies}}
+{{British overseas territories}}
+
+{{coord missing|Massachusetts}}
+
+{{DEFAULTSORT:Massachusetts Bay, Province of}}
+[[Category:1776 disestablishments in Massachusetts]]
+[[Category:Colonial Massachusetts| ]]
+[[Category:Colonial United States (British)]]
+[[Category:British North America]]
+[[Category:Former British colonies and protectorates in the Americas]]
+[[Category:Pre-statehood history of Massachusetts|Province of Massachusetts Bay]]
+[[Category:Pre-statehood history of Maine]]
+[[Category:Pre-statehood history of New Hampshire]]
+[[Category:Pre-Confederation Nova Scotia]]
+[[Category:Thirteen Colonies]]
+[[Category:States and territories established in 1691]]
+[[Category:Pre-Confederation New Brunswick]]
+[[Category:1691 establishments in Massachusetts]]
+[[Category:1691 establishments in Pennsylvania]]

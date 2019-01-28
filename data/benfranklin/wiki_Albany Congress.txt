@@ -1,0 +1,131 @@
+{{Redirect|Albany Conference|the early Millerite meeting|Adventism#Albany Conference}}
+{{Infobox legislature
+| background_color   =
+| text_color         =
+| name               = The Albany Congress
+| native_name        = Albany Conference
+| transcription_name =
+| coa_pic            = Albany Congress.jpeg
+| coa_res            = 250px
+| coa_caption        = Delegates converse outside the ''Stadt Huys'' during the Albany Congress
+| house_type         = Unicameral
+| houses             =
+| legislature        = Congress of seven [[British colonization of the Americas|British American]] [[Thirteen Colonies|Colonies]]
+| established        = June 19, 1754
+| preceded_by        =
+| succeeded_by       = [[Stamp Act Congress]]
+| disbanded          = July 11, 1754
+| leader1_type       = Governor
+| leader1            = [[James DeLancey]]
+| leader2_type       = Secretary
+| leader2            = [[Peter Wraxall]]
+| leader3_type       =
+| leader3            =
+| leader4_type       =
+| leader4            =
+| leader5_type       =
+| leader5            =
+| leader6_type       =
+| leader6            =
+| members            = 21 from 7 colonies
+| committees         =
+| house1             =
+| house2             =
+| house3             =
+| voting_system1     =
+| voting_system2     =
+| voting_system3     =
+| last_election1     =
+| last_election2     =
+| last_election3     =
+| session_room       =
+| session_res        =
+| motto              =
+| meeting_place      = ''[[Stadt Huys]]'', [[Albany, New York]]
+| website            =
+| footnotes          =
+}}
+
+'''The Albany Congress''' (also known as "The Conference of Albany") was a meeting of representatives sent by the legislatures of seven of the [[thirteen colonies|thirteen British colonies]] in [[British America]]: [[Connecticut Colony|Connecticut]], [[Province of Maryland|Maryland]], [[Province of Massachusetts Bay|Massachusetts]], [[Province of New Hampshire|New Hampshire]], [[Province of New York|New York]], [[Province of Pennsylvania|Pennsylvania]], and [[Colony of Rhode Island and Providence Plantations|Rhode Island]]. Northernmost [[Newfoundland Colony|Newfoundland]] and [[History of Nova Scotia|Nova Scotia]] were not in attendance. Representatives met daily at the ''[[Stadt Huys]]'' in [[Albany, New York]], from June 18 to July 11, 1754, to discuss better relations with the [[Native Americans in the United States|American Indian]] tribes and common defensive measures against the [[France|French]] threat from Canada in the opening stage of the [[French and Indian War]], the North American front of the [[Seven Years' War]] between Great Britain and France.
+
+Delegates did not have the goal of creating an American nation; rather, they were colonists with the more limited mission of pursuing a treaty with the [[Mohawk nation|Mohawks]] and other major [[Iroquois]] tribes.<ref>H.W. Brands, ''The First American: The Life and Times of Benjamin Franklin'' (2002) [https://www.amazon.com/First-American-Times-Benjamin-Franklin/dp/0385495404/ excerpt and text search]</ref> This was the first time that American colonists had met together, and it provided a model that came into use in setting up the [[Stamp Act Congress]] in 1765, as well as the [[First Continental Congress]] in 1774, which were preludes to the [[American Revolution]].
+
+== Previous colonial unions and congresses ==
+
+The Albany Congress was the first time in the 18th century that American colonial representatives met to discuss some manner of formal union. In the 17th century, some [[New England]] colonies had formed a loose association called the [[New England Confederation]], principally for purposes of defense, as raiding was frequent by French and allied Indian tribes. In the 1680s, [[Kingdom of Great Britain|the British Government]] created the [[Dominion of New England]] as a unifying government on the colonies between the [[Delaware River]] and [[Penobscot Bay]]; it was dissolved in 1689. [[Jacob Leisler]] summoned an intercolonial congress which met in New York on 1 May 1690 to plan concerted action against the French and Indians.<ref>{{EB1911|inline=1|wstitle=Leisler, Jacob}}</ref> Because of differences in threat, he attracted only the colonies as far south as [[Maryland]].<ref>{{Cite Americana|wstitle=Congress, Continental}}</ref>
+
+== History of the meeting ==
+
+The Albany delegates spent most of their time debating [[Benjamin Franklin]]'s [[Albany Plan]] of union to create a unified level of colonial government. The delegates voted approval of a plan that called for a union of 11 colonies, with a president appointed by the [[British Crown]]. Each colonial assembly would send 2 to 7 delegates to a "grand council" which would have legislative powers. The Union would have jurisdiction over Indian affairs.
+
+The plan was rejected by the colonies' legislatures, which were protective of their independent charters, and by the Colonial Office, which wanted a military command. Many elements of the plan were later the basis for the American government established by the [[Articles of Confederation]] of 1777 and the Constitution of 1787. Franklin speculated that the colonies might not have separated from England so soon had the 1754 plan been adopted.
+Benjamin Franklin said in 1789:<ref>{{cite book|author=Benjamin Franklin|title=Franklin on Franklin|url=https://books.google.com/books?id=bsab3tDNXeMC&pg=PA180|year=2005|publisher=University Press of Kentucky|page=180}}</ref>
+
+[[File:Benjamin Franklin - Join or Die.jpg|thumb|right|200px|[[Join, or Die|Benjamin Franklin's cartoon]] encouraging support for the Congress]]
+
+{{quote|On Reflection it now seems probable, that if the foregoing Plan or some thing like it, had been adopted and carried into Execution, the subsequent Separation of the Colonies from the Mother Country might not so soon have happened, nor the Mischiefs suffered on both sides have occurred, perhaps during another Century. For the Colonies, if so united, would have really been, as they then thought themselves, sufficient to their own Defence, and being trusted with it, as by the Plan, an Army from Britain, for that purpose would have been unnecessary: The Pretences for framing the Stamp-Act would not then have existed, nor the other Projects for drawing a Revenue from America to Britain by Acts of Parliament, which were the Cause of the Breach, and attended with such terrible Expence of Blood and Treasure: so that the different Parts of the Empire might still have remained in Peace and Union.}}
+
+The Congress and its Albany Plan have achieved iconic status as presaging the formation of the United States of America in 1776. It is often illustrated with Franklin's famous snake cartoon ''[[Join, or Die]]''.
+
+== Plan of Union ==
+
+Benjamin Franklin's plan to unite the colonies exceeded the scope of the congress, which had been called to plan a defense against the French and Indian threat. The original plan was heavily debated by all who attended the conference, including the young Philadelphia lawyer [[Benjamin Chew]].<ref>Konkle, Burton Alva. (1932). ''Benjamin Chew 1722-1810: Head of the Pennsylvania Judiciary System under Colony and Commonwealth''. Philadelphia: University of Pennsylvania Press. p. 63.</ref> Numerous modifications were also proposed by [[Thomas Hutchinson (governor)|Thomas Hutchinson]], who later became [[List of colonial governors of Massachusetts|Governor of Massachusetts]]. The delegates passed the plan unanimously. They submitted it with their recommendations, but the legislatures of the seven colonies rejected it, as it would have removed some of their existing powers. The plan was never sent to the Crown for approval, although it was submitted to the British [[Board of Trade]], which also rejected it.
+
+The Plan of Union proposed to include all the British North American colonies, although none of the colonies south of Maryland sent representatives to the Albany Congress. (Note that the [[Delaware|"Lower Counties on the Delaware"]] were then administered by Pennsylvania, and [[Province of Georgia|Georgia Colony]] was slow to start.) The plan called for a single executive (President-General) to be appointed by the King, who would be responsible for relations with the Indians, military preparedness, and execution of laws regulating various trade and financial activities. It called for a Grand Council to be selected by the colonial legislatures, with the number of delegates to be apportioned according to the taxes paid by each colony. The colonial assemblies rejected the plan, although delegates forming the government after the Revolution incorporated some features in the [[Articles of Confederation]] and the [[United States Constitution|Constitution]].
+
+== Participants ==
+
+Twenty-one representatives attended the Congress from New York, Pennsylvania, Maryland, Massachusetts, Rhode Island, Connecticut, and New Hampshire. [[List of colonial governors of New York|New York Governor]] [[James DeLancey]] was host governor and Chairman. [[Peter Wraxall]] served as Secretary to the Congress.
+
+Delegates included:
+* [[Connecticut Colony|Connecticut]]: [[William Pitkin]]‡, [[Oliver Wolcott]], [[Elisha Williams]]
+* [[Province of Maryland|Maryland]]: [[Abraham Barnes]], [[Benjamin Tasker, Jr.]]‡
+* [[Province of Massachusetts Bay|Massachusetts]]: [[Thomas Hutchinson (governor)|Thomas Hutchinson]]‡, [[Oliver Partridge]]
+* [[Province of New Hampshire|New Hampshire]]: [[Meshech Weare]], [[Theodore Atkinson]]‡
+* [[Province of New York|New York]]: [[James DeLancey]], [[William Johnson, 1st Baronet|William Johnson]]‡, [[Philip Livingston]], [[William Smith (judge)|William Smith]]‡<ref>{{cite book|last=Smith|first=William|title=The History of the Province of New-York. Vol. 2, A Continuation, 1732-1762|year=1972|publisher=Belknap Press of Harvard University Press|location=Cambridge|pages=157, 161|editor=Michael Kammen}}</ref><ref>{{cite book|last=Upton|first=L. F. S.|title=The Diary and Selected Papers of Chief Justice William Smith. Vol. 1, 1784-1785|year=1963|publisher=Champlain Society|location=Toronto|page=xxvi}}</ref>
+* [[Province of Pennsylvania|Pennsylvania]]: Secretary [[Benjamin Chew]], [[John Penn (governor)|John Penn]],<ref name="Minutes"/> [[Richard Peters (priest)|Richard Peters]],<ref name="Minutes"/> [[Isaac Norris (statesman)|Isaac Norris]],<ref name="Minutes"/> and [[Benjamin Franklin]]. [[Conrad Weiser]] and Benjamin Franklin's son [[William Franklin|William]]‡ attended as extra staff.
+* [[Colony of Rhode Island and Providence Plantations|Rhode Island]]: [[Martin Howard]], [[Stephen Hopkins (politician)|Stephen Hopkins]]‡
+‡ Indicates Members of the committee of the Plan of Union<ref name="Minutes">[http://earlytreaties.unl.edu/treaty.00005.html Early Recognized Treaties With American Indian Nations]</ref>
+
+== See also ==
+{{Portal|United States|New York|British Empire|Kingdom of France}}
+
+* [[History of the United States Constitution]]
+* [[History of Albany, New York]]
+* [[Great Britain in the Seven Years War]]
+* [[Indian Department]]
+* [[Albany Plan]]
+
+== Notes ==
+
+{{Reflist}}
+
+== Further reading ==
+
+* Alden, John R. "The Albany Congress and the Creation of the Indian Superintendencies," ''Mississippi Valley Historical Review,'' (1940) 27#2  pp.&nbsp;193–210 [https://www.jstor.org/stable/1896811 in JSTOR]
+* Bonomi, Patricia, ''A Factious People, Politics and Society in Colonial America'' (1971) {{ISBN|0-231-03509-8}}
+* McAnear, Beverly. "Personal Accounts of the Albany Congress of 1754," ''Mississippi Valley Historical Review,'' Vol. 39, No. 4 (Mar., 1953), pp.&nbsp;727–746 [https://www.jstor.org/stable/1895397 in JSTOR], primary documents
+* Shannon, Timothy J. ''Indians and Colonists at the Crossroads of Empire: The Albany Congress of 1754'' (Cornell University Press, 2000).
+
+== External links ==
+
+* [http://avalon.law.yale.edu/18th_century/albany.asp Full text of the Albany Plan of Union]
+* [http://ushistory.kerpal.net/albany_congress.html Summary of the Albany Congress]
+* [http://digitalgallery.nypl.org/nypldigital/dgkeysearchresult.cfm?parent_id=164482 The Albany Congress of 1754], prints and drawings from the Emmet Collection of Manuscripts Etc. Relating to American History in the New York Public Library Digital Gallery.
+* [https://amrevpodcast.blogspot.com/2017/08/episode-006-british-take-charge-battle.html Podcast discussing Albany Congress]
+* {{Wikisource-inline|list=
+** {{Cite NIE|wstitle=Albany Convention of 1754|short=x|noicon=x}}
+** {{Cite NSRW|wstitle=Albany Congress|short=x|noicon=x}}
+** {{Cite Americana|wstitle=Albany Congress|short=x|noicon=x}}
+** {{Cite Collier's|wstitle=Albany Congress|short=x|noicon=x}}
+}}
+
+{{Benjamin Franklin}}
+
+[[Category:French and Indian War]]
+[[Category:History of the Thirteen Colonies]]
+[[Category:1754 in the Thirteen Colonies]]
+[[Category:History of Albany, New York]]
+[[Category:Pre-statehood history of New York (state)]]
+[[Category:1754 in politics]]
+[[Category:18th-century conferences]]

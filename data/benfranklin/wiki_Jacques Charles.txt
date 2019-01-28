@@ -1,0 +1,148 @@
+{{Infobox scientist
+|name              = Jacques Charles
+|image             =Jacques Alexandre César Charles.jpg
+|image_size        =200px
+|caption           =Jacques Alexandre César Charles, 1820
+|birth_date        = {{Birth-date|November 12, 1746|November 12, 1746}}
+|birth_place       = [[Beaugency]], [[Orléanais]]
+|death_date = {{death-date|April 7, 1823|April 7, 1823}} (aged 76)
+|death_place       = [[Paris]]
+|residence  = 
+|citizenship =
+|nationality       = France
+|field             = [[physics]]<br/>[[mathematics]]<br/>[[hot air ballooning]]
+|work_institutions = [[Academíe des sciences]]
+|alma_mater        =
+|doctoral_advisor  =
+|doctoral_students =
+|known_for         = [[Charles's law]]
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        =
+|influenced        =
+|prizes            =
+|religion          =
+|footnotes         =
+|signature         =
+}}
+'''Jacques Alexandre César Charles''' (November 12, 1746 – April 7, 1823) was a [[French people|French]] [[inventor]], [[scientist]], [[mathematician]], and [[balloonist]].
+Charles wrote almost nothing about mathematics, and most of what has been credited to him was due to mistaking him with another Jacques Charles, also a member of the Paris Academy of Sciences, entering on May 12, 1785.  He was sometimes called Charles the Geometer.  (See J. B. Gough, Charles the Obscure, Isis 70, #254, pgs 576-579)  
+Charles and the [[Robert brothers]] launched the world's first unmanned [[hydrogen]]-filled [[gas balloon]] in August 1783; then in December 1783, Charles and his co-pilot [[Robert brothers|Nicolas-Louis Robert]] ascended to a height of about 1,800 feet (550 m) in a manned gas balloon. Their pioneering use of hydrogen for lift led to this type of balloon being named a ''Charlière'' (as opposed to a [[Montgolfière]] which used hot air).
+
+[[Charles's law]], describing how gases tend to expand when heated, was formulated by [[Joseph Louis Gay-Lussac]] in 1802, but he credited it to unpublished work by Jacques Charles.<ref name=GL02/>
+
+Charles was elected to the [[Académie des Sciences]] in 1795 and subsequently became professor of physics at the [[Académie de Sciences]].<ref>{{cite journal
+ | last = Gough
+ | first = J.B.
+ | title = Charles The Obscure
+ | journal = [[Isis (journal)|Isis]]
+ | volume = 70
+ | issue = 4
+ | pages = 576-579
+ | date = December 1979
+ | jstor = 230726
+ | doi=10.1086/352345}}
+</ref>
+
+==Biography==
+Charles was born in [[Beaugency|Beaugency-sur-Loire]] in 1746. He married Julie Françoise Bouchaud des Hérettes (1784–1817), a [[Creole peoples|creole]] woman 37 years younger than himself. Reportedly the poet [[Alphonse de Lamartine]] also fell in love with her, and she was the inspiration for ''Elvire'' in his 1820 autobiographical ''Poetic Meditation'' "Le Lac" ("The Lake"), which describes in retrospect the fervent love shared by a couple from the point of view of the bereaved man. Charles outlived her and died in Paris on April 7, 1823.
+
+==Hydrogen balloon flights==
+
+===First hydrogen balloon===
+[[File:WasserstoffballonProfCharles.jpg|thumb|250px|left|The balloon built by Jacques Charles and the Robert brothers is attacked by terrified villagers in Gonesse. Some of them even started attacking him because they weren't used to things flying.]]
+Charles conceived the idea that hydrogen would be a suitable lifting agent for balloons having studied the work of [[Robert Boyle]]'s ''[[Boyle's Law]]'' which was published 100 years earlier in 1662, and of his contemporaries [[Henry Cavendish]], [[Joseph Black]] and [[Tiberius Cavallo]].<ref name=FAI/> He designed the craft and then worked in conjunction with the [[Robert brothers]], Anne-Jean and Nicolas-Louis, to build it in their workshop at the ''[[Place des Victoires]]'' in Paris.<ref name="Fid Green"/> The brothers invented the methodology for the lightweight, airtight gas bag by dissolving [[rubber]] in a solution of [[turpentine]] and [[varnish]]ed the sheets of [[silk]] that were stitched together to make the main envelope. They used alternate strips of red and white silk, but the discolouration of the varnishing/rubberising process left a red and yellow result.<ref name=FAI/>
+
+Jacques Charles and the Robert brothers launched<ref name=Sci&Soc/> the world's first [[hydrogen]] filled [[balloon]] on August 27, 1783, from the [[Champ de Mars]], (now the site of the [[Eiffel Tower]]) where [[Ben Franklin]] was among the crowd of onlookers.<ref name=EcceF/>  The balloon was comparatively small, a 35 cubic metre sphere of rubberised silk,<ref name=FAI/> and only capable of lifting about 9&nbsp;kg (20&nbsp;lb).<ref name=EcceF/> It was filled with hydrogen that had been made by pouring nearly a quarter of a tonne of [[sulphuric acid]] onto a half a tonne of scrap iron.<ref name=EcceF/> The hydrogen gas was fed into the balloon via [[lead]] pipes; but as it was not passed through cold water, great difficulty was experienced in filling the balloon completely (the gas was hot when produced, but as it cooled in the balloon, it contracted). Daily progress bulletins were issued on the inflation; and the crowd was so great that on the 26th the balloon was moved secretly by night to the Champ de Mars, a distance of 4 kilometres.<ref name=TodinSci/>
+
+The balloon flew northwards for 45 minutes, pursued by chasers on horseback, and landed 21 kilometers away in the village of [[Gonesse]] where the reportedly terrified local peasants destroyed it with pitchforks<ref name=EcceF/> or knives.<ref name="Fid Green"/> The project was funded by a subscription organised by [[Barthelemy Faujas de Saint-Fond]].<ref name=Sci&Soc/>
+
+===First manned hydrogen balloon flight===
+[[File:Jacques Charles Luftschiff.jpg|thumb|220px|right|Contemporary illustration of the first flight by Prof. Jacques Charles with Nicolas-Louis Robert, December 1, 1783. Viewed from the [[Place de la Concorde]] to the [[Tuileries Palace]] (destroyed in 1871)]]
+
+At 13:45 (or 1:45 PM) on December 1, 1783 Jacques Charles and the Robert brothers launched a new manned balloon from the [[Tuileries Palace|Jardin des Tuileries]] in Paris.<ref name=FAI/><ref name=EcceF/> Jacques Charles was accompanied by Nicolas-Louis Robert as co-pilot of the 380-cubic-metre, hydrogen-filled balloon.<ref name=FAI/><ref name=EcceF/> The envelope was fitted with a hydrogen release valve and was covered with a net from which the basket was suspended. Sand ballast was used to control altitude.<ref name=FAI/> They ascended to a height of about 1,800 feet (550 m)<ref name=EcceF/> and landed at sunset in [[Nesles-la-Vallée]] after a 2-hour 5 minute flight covering 36&nbsp;km.<ref name=FAI/><ref name="Fid Green"/><ref name=EcceF/> The chasers on horseback, who were led by the [[Duc de Chartres]], held down the craft while both Charles and Nicolas-Louis alighted.<ref name="Fid Green"/>
+
+Jacques Charles then decided to ascend again, but alone this time because the balloon had lost some of its hydrogen. This time it ascended rapidly to an altitude of about 3,000 metres,<ref name="Fid Green"/><ref name="Britannica 2"/> where he saw the sun again. He began suffering from aching pain in his ears so he "valved" to release gas, and descended to land gently about 3&nbsp;km away at {{ill|Tour du Lay|fr|Bois de la Tour du Lay}}.<ref name="Fid Green"/> Unlike the Robert brothers, Charles never flew again,<ref name="Fid Green"/> although a hydrogen balloon came to be called a ''Charlière'' in his honour.
+
+It is reported that 400,000 spectators witnessed the launch, and that hundreds had paid one crown each to help finance the construction and receive access to a "special enclosure" for a "close-up view" of the take-off.<ref name="Fid Green"/> Among the "special enclosure" crowd was [[Benjamin Franklin]], the diplomatic representative of the [[United States|United States of America]].<ref name="Fid Green"/>  Also present was Joseph Montgolfier, whom Charles honoured by asking him to release the small, bright green, pilot balloon to assess the wind and weather conditions.<ref name="Fid Green"/>
+
+This event took place ten days after the world's first manned balloon flight by [[Jean-François Pilâtre de Rozier]] using a [[Montgolfier brothers]] [[hot air balloon]]. [[Simon Schama]] wrote in ''[[Citizens: A Chronicle of the French Revolution|Citizens]]'':
+{{quote|Montgolfier's principal scientific collaborator was M. Charles,&nbsp;... who had been the first to propose the gas produced by [[vitriol]] instead of the burning, dampened straw and wood that he had used in earlier flights.  Charles himself was also eager to ascend but had run into a firm veto from the King, who from the earliest reports had been observing the progress of the flights with keen attentiveness.  Anxious about the perils of a maiden flight, the King had then proposed that two criminals be sent up in a basket, at which Charles and his colleagues became indignant.<ref name="Schama p125"/>}}
+
+{{clear}}
+[[Image:Airship designed by Jean-Baptiste Marie Meusnier de La Place.jpg|220px|left|thumb|Meusnier's dirigible]]
+
+===Further ballooning activities===
+The next project of Jacques Charles and the Robert brothers was to build an elongated, steerable craft that followed [[Jean Baptiste Meusnier]]'s proposals (1783–85) for a dirigible balloon. The design incorporated Meusnier's internal ''ballonnet'' (air cells), a rudder and a method of propulsion.<ref name="BioDic HisTec"/>
+
+Jacques Charles chose never to fly in this craft, but on July 15, 1784 the brothers flew for 45 minutes from [[Saint-Cloud]] to [[Meudon]] with M. Collin-Hullin and [[Louis Philippe II, Duke of Orléans|Louis Philippe II, the Duke of Chartres]] in ''La Caroline''. It was fitted with oars for propulsion and direction, but they proved useless. The absence of a 'gas release valve' meant that the duke had to slash the 'ballonnet' to prevent rupture when they reached an altitude of circa {{convert|4500|m|ft|-2}}.<ref name=FAI/><ref name="FAA Oct 2001"/>
+
+On September 19, 1784 the Robert brothers and M. Collin-Hullin flew for 6 hours 40 minutes, covering 186&nbsp;km from Paris to [[Beuvry]] near [[Béthune]]. This was the first flight over 100&nbsp;km.<ref name=FAI/><ref name="FAA Oct 2001"/>
+:
+
+==Inventions==
+Charles developed several useful inventions, including a valve to let hydrogen out of the balloon and other devices, such as the [[hydrometer]] and reflecting [[goniometer]], and improved the [[Gravesand]] [[heliostat]] and [[Fahrenheit hydrometer|Fahrenheit's aerometer]].{{cn|date=January 2019}} In addition he confirmed [[Benjamin Franklin]]'s electrical experiments.<ref>{{harvnb|Encyclopedia Britannica|1911}}</ref>
+
+==Charles's law==
+[[Charles's law]] (also known as the law of volumes), describing how [[gas]]es tend to expand when heated, was first published by [[natural philosopher]] Joseph Louis Gay-Lussac in 1802,<ref name=GL02/> but he credited it to unpublished work by Jacques Charles, and named the law in his honour.
+
+Around 1787 Charles did an experiment where he filled 5 sites to the same volume with different adds.  He then raised the temperature of the sites to 80&nbsp;°C and noticed that they all increased in volume by the same amount. This experiment was referenced by Gay-Lussac in 1802 when he published a paper on the precise relationship between the volume and temperature of a gas. Charles' law states that under constant pressure, an [[ideal gas]]' volume is proportional to its absolute temperature. The volume of a gas at constant pressure increases linearly with the absolute temperature of the gas. The formula he created was ''V''<sub>1</sub>/''T''<sub>1</sub>&nbsp;= ''V''<sub>2</sub>/''T''<sub>2</sub>.<ref name=GL02/>
+
+==Career==
+Jacques Charles was elected to the [[Académie des Sciences]], in 1795, and subsequently became professor of physics at the [[Conservatoire des Arts et Métiers]].
+
+==Commemoration==
+A [[stele]] at Nesles-la-Vallée marks the Charles-Robert flight of 1 December 1783. {{Coord|49.1385|N|2.171|E}} [http://saint-christophe-sur-le-nais.over-blog.com/photo-1149075-charles-et-robert-ign_jpg.html Image of commemorative stele]
+
+The ''Coupe Charles et Robert'' was an international ballooning event that was run in 1983 in parallel with the [[Gordon Bennett Cup (ballooning)|Gordon Bennett Cup]].<ref>[http://www.gasballon.be/history/inmemoriam.php Coupe Aeronautique Gordon Bennett, More than 100 years.]</ref>
+
+==See also==
+* [[Gas laws]]
+* [[Timeline of hydrogen technologies]]
+* [[Jean-François Pilâtre de Rozier]], the first manned balloon flight using a [[Montgolfier]] hot-air balloon, 10 days before ''La Charlière''.
+* [[Jean-Pierre Blanchard]]
+* [[Timeline of aviation - 18th century]]
+* [[History of ballooning]]
+* [[List of firsts in aviation]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="BioDic HisTec">[https://books.google.com/books?id=UuigWMLVriMC&pg=PA143 Biographical dictionary of the history of technology, Volume 39  By Lance Day, Ian McNeil. Charles, Jacques Alexandre Cesar]</ref>
+
+<ref name="Britannica 2">[http://www.britannica.com/EBchecked/topic/1424455/balloon-flight Encyclopædia Britannica – Balloon Flight]</ref>
+
+<ref name="EcceF">[https://books.google.com/books?id=5_7IRHZGyzMC&pg=PA36 Eccentric France: Bradt Guide to mad, magical and marvellous France By Piers Letcher – Jacques Charles]</ref>
+
+<ref name="FAA Oct 2001">[https://web.archive.org/web/20080905044430/http://www.faa.gov/news/aviation_news/2001/media/Oct2001.pdf Federal Aviation Administration – F.A.Aviation News, October 2001, Balloon Competitions and Events Around the Globe, Page 15]</ref>
+
+<ref name="FAI">[https://web.archive.org/web/20030105101231/http://www.fai.org/ballooning/newsletter/pr00-02.htm Federation Aeronautique Internationale, Ballooning Commission, Hall of Fame, Robert Brothers.]</ref>
+
+<ref name="Fid Green">[https://www.fiddlersgreen.net/models/Aircraft/Balloon-Charles.html Fiddlers Green, History of Ballooning, Jacques Charles]</ref>
+
+<ref name="GL02">{{citation | author = Gay-Lussac, J. L. | authorlink = Joseph Louis Gay-Lussac | year = 1802 | title = Recherches sur la dilatation des gaz et des vapeurs | journal = Annales de Chimie | volume = XLIII | page = 137}}. [http://web.lemoyne.edu/~giunta/gaygas.html English translation (extract).]</ref>
+
+<ref name="Schama p125">S. Schama (1989), Citizens, p. 125-6.</ref>
+
+<ref name="Sci&Soc">[http://www.scienceandsociety.co.uk/results.asp?image=10447673 Science and Society, Medal commemorating Charles and Robert’s balloon ascent, Paris, 1783.]</ref>
+
+<ref name="TodinSci">[http://www.todayinsci.com/M/Montgolfier_Brothers/MontgolfierBalloon-EB1911.htm Today in Science, The Montgolfier and Charles Balloons, from 1911 Encyclopædia Britannica]</ref>
+
+}}
+
+==External links==
+* {{Cite EB1911|wstitle=Charles, Jacques Alexandre César |short=x}}
+* {{Cite AmCyc|wstitle=Charles, Jacques Alexandre César |short=x}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Charles, Jacques Alexandre Cesar}}
+[[Category:1746 births]]
+[[Category:1823 deaths]]
+[[Category:People from Loiret]]
+[[Category:Burials at Père Lachaise Cemetery]]
+[[Category:French inventors]]
+[[Category:French balloonists]]
+[[Category:French physicists]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Fluid dynamicists]]

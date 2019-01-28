@@ -1,0 +1,1549 @@
+{{About|the U.S. state of New Jersey}}
+{{Redirect|NJ}}
+{{pp-vandalism|small=yes}}
+{{pp-move-indef}}
+{{Use mdy dates|date=November 2018}}
+{{short description|State of the United States of America}}
+{{Infobox U.S. state
+|Name = New Jersey
+|Fullname = State of New Jersey
+|Flag = Flag of New Jersey.svg
+|Flaglink = [[Flag of New Jersey|Flag]]
+|Seal = Seal of New Jersey.svg
+|Map = New Jersey in United States (zoom).svg
+|Nickname = The Garden State<ref>[http://www.nj.gov/njfacts/garden.htm The Garden State and Other New Jersey State Nicknames], Robert Lupp, New Jersey Reference Services, New Jersey State Library, October 12, 1994.</ref>
+|Motto = Liberty and prosperity
+|Former = Province of New Jersey
+|Capital = [[Trenton, New Jersey|Trenton]]
+|LargestCity = [[Newark, New Jersey|Newark]]
+|LargestMetro = [[New York metropolitan area|Greater New York]]
+|Languages =
+* English (only) 69.4%
+* Spanish 15.9%
+* [[Indo-Aryan languages|Indic]] 2.7%
+* Chinese 1.5%
+* [[Korean language|Korean]] 1.1%
+* French 0.97%
+* [[Tagalog language|Tagalog]] 0.94%
+* [[Portuguese language|Portuguese]] 0.91%
+* Italian 0.83%
+* [[Arabic language|Arabic]] 0.76%
+* [[Polish language|Polish]] 0.72%
+* Russian 0.57%<ref>{{cite web|url=http://factfinder.census.gov/bkmk/table/1.0/en/ACS/14_1YR/B16001/0400000US34|title=Language spoken at home by ability to speak English for the population 5 years and over – 2014 American Community Survey 1-Year Estimates  |accessdate = February 10, 2016}}</ref>
+|Demonym = New Jerseyan (official),<ref>{{cite web|url=http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=2008_style_manual&docid=f:chapter5.pdf|title=GPO Style Manual 2008|format=PDF|accessdate=July 25, 2010}}</ref> New Jerseyite<ref>{{cite web|url=http://www.merriam-webster.com/dictionary/new%20jersey|title=New Jersey&nbsp;– Definition and More from the Free Merriam-Webster Dictionary|publisher=Merriam-Webster|accessdate=June 3, 2013}}</ref><ref>{{cite web|url=http://dictionary.reference.com/browse/new+jerseyite|title=Definition of New Jerseyite|publisher=Dictionary.reference.com|accessdate=July 25, 2010}}</ref>
+|Governor = [[Phil Murphy]] ([[Democratic Party (United States)|D]])
+|Lieutenant Governor = [[Sheila Oliver]] (D) <!-- Don't add link per MOS:OVERLINK. -->
+|Legislature = [[New Jersey Legislature]]
+|Upperhouse = [[New Jersey Senate|Senate]]
+|Lowerhouse = [[New Jersey General Assembly|General Assembly]]
+|Senators = [[Bob Menendez]] (D)<br />[[Cory Booker]] (D)
+|Representative = 11 Democrats <br /> 1 Republican
+|PostalAbbreviation = NJ
+|TradAbbreviation = N.J.
+|OfficialLang = None
+|AreaRank = 47th
+|TotalAreaUS = 8,722.58
+|TotalArea = 22,591.38
+|LandAreaUS = 7,354.22<ref name="NJCensusfacts"/>
+|LandArea = 19,047.34
+|WaterAreaUS = 1,368.36
+|WaterArea = 3,544.04
+|PCWater = 15.7
+|2010Pop = 9,032,872 (2018 est.)<ref name="WPR">{{cite web|title=New Jersey Population 2018|url=http://worldpopulationreview.com/states/new-jersey-population/|website=World Population Review|publisher=World Population Review|accessdate=May 6, 2018|ref=WPR}}</ref>
+|PopRank = 11th
+|DensityRank = 1st
+|2000DensityUS = 1189
+|2000Density = 467
+|2010DensityUS = 1210.10
+|MedianHouseholdIncome = $68,357<ref>{{cite web|url=http://kff.org/other/state-indicator/median-annual-income/?currentTimeframe=0|website=The Henry J. Kaiser Family Foundation|title=Median Annual Household Income|accessdate=December 9, 2016}}</ref>
+|IncomeRank = 7th
+|AdmittanceOrder = 3rd
+|AdmittanceDate = December 18, 1787
+|TimeZone = [[Eastern Time Zone|Eastern]]: [[Coordinated Universal Time|UTC]] [[Eastern Time Zone|-5]]/[[Eastern Daylight Time|-4]]
+|Latitude = 38° 56′ N to 41° 21′ N
+|Longitude = 73° 54′ W to 75° 34′ W
+|WidthUS = 70
+|Width = 112
+|LengthUS = 170
+|Length = 273
+|HighestPoint = [[High Point (New Jersey)|High Point]]<ref name=USGSA>{{cite web|url=http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |title=Elevations and Distances in the United States |publisher=[[United States Geological Survey]] |year=2001 |accessdate=October 24, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20111015012701/http://egsc.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |archivedate=October 15, 2011 }}</ref><ref name=NAVD88>Elevation adjusted to [[North American Vertical Datum of 1988]].</ref>
+|HighestElevUS = 1,803
+|HighestElev = 549.6
+|MeanElevUS = 250
+|MeanElev = 80
+|LowestPoint = Atlantic Ocean<ref name="USGSA" />
+|LowestElevUS = 0
+|LowestElev = 0
+|ISOCode = US-NJ
+|ElectoralVotes = 14
+|Website = www.nj.gov
+}}
+{{Infobox U.S. state symbols
+|Name = New Jersey
+|Flag = Flag of New Jersey.svg
+|Seal = Seal_of_New_Jersey.svg
+|Mammal = Horse<ref name="NJAnimal"/>
+|Bird = [[Eastern goldfinch]]<ref name="NJBird">{{cite web|url=http://www.state.nj.us/njfacts/bird.htm|title=New Jersey State Bird|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref>
+|Fish = [[Brook trout]]<ref name="NJFish">{{cite web|url=http://www.state.nj.us/njfacts/fish.htm|title=The New Jersey State Fish|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref>
+|Flower = ''[[Viola sororia]]''<ref name="NJFlower"/>
+|Insect = [[Western honey bee]]<ref name="NJInsect"/>
+|Tree = ''[[Quercus rubra]]'' (northern red oak),<ref name="NJTree">{{cite web|url=http://www.state.nj.us/njfacts/trees.htm|title=The New Jersey State Trees|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref> [[dogwood]] (memorial tree)<ref name="NJTree"/>
+|Colors =Buff and blue<br />{{Color box|#F0DC82|border=darkgray}} {{Color box|#0000FF|border=darkgray}}
+|Dance = 
+|Folk dance = [[Square dance]]<ref name="NJDance"/>
+|Food = [[Northern highbush blueberry]] (state fruit)<ref name="NJBerry"/>
+|Fossil = [[Hadrosaurus foulkii]]<ref name="NJDino"/>
+|Quarter = 1999 NJ Proof.png
+|QuarterReleaseDate = 1999
+|Route Marker = Ellipse sign 47.svg
+|Soil = [[downer (soil)|Downer]]<ref name="NJSoil">{{cite web | url=https://www.nrcs.usda.gov/wps/portal/nrcs/detail/nj/soils/?cid=nrcs141p2_018866 | title=New Jersey State Soil&nbsp;– Downer | website=[[Natural Resources Conservation Service]]| publisher=[[United States Department of Agriculture]]  | accessdate=August 17, 2014}}</ref>
+|Song = 
+}}
+[[File:Skylands3.jpg|thumb|275px|[[Skylands (estate)|The New Jersey Botanical Garden at Skylands]] in [[Ringwood State Park]], [[Passaic County, New Jersey|Passaic]] and [[Bergen County, New Jersey|Bergen]] counties]]
+'''New Jersey''' is a [[U.S. state|state]] in the [[Mid-Atlantic States|Mid-Atlantic]] region of the [[Northeastern United States]]. It is a [[peninsula]], bordered on the north and east by the state of [[New York (state)|New York]], particularly along the extent of the length of New York City on its western edge; on the east, southeast, and south by the Atlantic Ocean; on the west by the [[Delaware River]] and [[Pennsylvania]]; and on the southwest by the [[Delaware Bay]] and [[Delaware]]. New Jersey is the [[List of U.S. states and territories by area|fourth-smallest state]] by area but the [[List of U.S. states and territories by population|11th-most populous]], with 9 million residents as of 2017,<ref>{{cite web|url=http://www.nj.com/data/2017/12/new_jersey_population_hits_nine_million_finally.html|title=The population in New Jersey just hit this major milestone|website=The Star-Ledger|access-date=December 21, 2017}}</ref> and the [[List of U.S. states and territories by population density|most densely populated]] of the [[List of U.S. states|50 U.S. states]]; its biggest city is [[Newark, New Jersey|Newark]]. New Jersey lies completely within the [[combined statistical area]]s of New York City and [[Philadelphia]] and is the third-wealthiest state by [[Household income in the United States|median household income]] as of 2016.<ref name=NJMedianIncome>{{cite web|url=http://www.northjersey.com/story/news/new-jersey/2017/09/14/nj-household-incomes-up-4-percent-2016/661708001/|title=New Jersey household incomes up a strong 4 percent in 2016|author=John Brennan and Dave Sheingold|publisher=NorthJersey.com – part of the USA TODAY network|date=September 14, 2017|accessdate=September 14, 2017}}</ref>
+
+New Jersey was inhabited by Native Americans for more than 2,800 years, with historical tribes such as the [[Lenape]] along the coast. In the early 17th century, the Dutch and the [[Sweden|Swedes]] made the first European settlements in the state.<ref>{{cite web|url=http://www.usgennet.org/usa/nj/state/NJ-History.htm|title=NJ History Outline|publisher=Usgennet.org|accessdate=July 25, 2010}}</ref> The [[Kingdom of England|English]] later seized control of the region,<ref>{{cite web|url=http://www.infoplease.com/ce6/us/A0859954.html|title=Encyclopedia – New Jersey History|publisher=2000–2011 Pearson Education, publishing as Infoplease|accessdate=September 18, 2011}}</ref> naming it the [[Province of New Jersey]] after the largest of the [[Channel Islands]], [[Jersey]],<ref>{{cite encyclopedia|url=http://encarta.msn.com/encyclopedia_761559873/New_Jersey.html |title=MSN Encarta |publisher=Webcitation.org |accessdate=July 25, 2010 |deadurl=yes |archiveurl=https://www.webcitation.org/5kwsuNvS8?url=http://encarta.msn.com/encyclopedia_761559873/New_Jersey.html |archivedate=November 1, 2009  }}</ref> and granting it as a colony to [[Sir George Carteret]] and [[John Berkeley, 1st Baron Berkeley of Stratton]]. New Jersey was the site of several decisive battles during the [[American Revolutionary War]] in the 18th century.
+
+In the 19th century, factories in cities (known as the "Big Six"<ref>{{cite web|url=https://www.nytimes.com/1999/09/26/nyregion/new-jersey-s-cities-sad-urban-presence-encircled-by-wealth.html|title=New Jersey's Cities: Sad Urban Presence Encircled by Wealth|first=Laura|last=Mansnerus|date=September 26, 1999|access-date=December 21, 2017|work=The New York Times}}</ref>), [[Camden, New Jersey|Camden]], [[Paterson, New Jersey|Paterson]], [[Newark, New Jersey|Newark]], [[Trenton, New Jersey|Trenton]], [[Jersey City, New Jersey|Jersey City]], and [[Elizabeth, New Jersey|Elizabeth]] helped to drive the [[Industrial Revolution]]. New Jersey's geographic location at the center of the [[Northeast megalopolis]], between [[Boston]] and New York City to the northeast, and [[Philadelphia]], [[Baltimore]], and Washington, D.C., to the southwest, fueled its rapid growth through the process of suburbanization in the second half of the 20th century. In the first decades of the 21st century, this suburbanization began reverting with the consolidation of New Jersey's [[ethnic enclave|culturally diverse]] populace toward more urban settings within the state,<ref name=ReUrbanizationNJ2>{{cite web|url=http://www.northjersey.com/news/bergen-county-leads-population-growth-trend-halts-flow-to-other-parts-of-n-j-1.1532063|title=Bergen County leads population growth trend, halts flow to other parts of N.J|author=Dave Sheingold|date=March 24, 2016|accessdate=March 24, 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160324145941/http://www.northjersey.com/news/bergen-county-leads-population-growth-trend-halts-flow-to-other-parts-of-n-j-1.1532063|archivedate=March 24, 2016}}</ref><ref name=ReUrbanizationNJ>{{cite web|url=http://www.northjersey.com/news/business/big-office-buildings-look-to-reinvent-themselves-1.1440856|title=What's the future for suburban office space?|author=Kathleen Lynn|date=October 25, 2015|accessdate=October 25, 2015}}</ref> with towns home to [[Commuter rail in North America|commuter rail stations]] outpacing the population growth of more [[automobile]]-oriented suburbs since 2008.<ref>{{cite web|url=http://www.northjersey.com/news/population-rebounds-around-train-stations-in-n-j-1.1546298|title=Population rebounds around train stations in N.J|author=Chrispher Maag|date=April 15, 2016|accessdate=April 15, 2016}}</ref>
+
+==History==
+{{Main|History of New Jersey}}
+
+Around 180 million years ago, during the [[Jurassic]] Period, New Jersey bordered North Africa. The pressure of the collision between North America and Africa gave rise to the [[Appalachian Mountains]]. Around 18,000 years ago, the [[Wisconsin glaciation|Ice Age]] resulted in [[glacier]]s that reached New Jersey. As the glaciers retreated, they left behind [[Lake Passaic]], as well as many rivers, swamps, and gorges.<ref>[https://www.greatswamp.org/history-great-swamp/] by Great Swamp Watershed Association. Retrieved July 2, 2017.</ref>
+
+New Jersey was originally settled by Native Americans, with the [[Lenape|Lenni-Lenape]] being dominant at the time of contact. ''Scheyichbi'' is the [[Lenape language|Lenape]] name for the land that is now New Jersey.<ref>{{cite web |url=http://www.getnj.com/storiesofnewjersey/sojpg9a.shtml |title=The Story of the Discovery of Scheyichbi |website=Stories of New Jersey |publisher=GET NJ |accessdate=February 8, 2013}}</ref> The Lenape were several [[Autonomy|autonomous]] groups that practiced maize agriculture in order to supplement their hunting and gathering in the region surrounding the [[Delaware River]], the lower [[Hudson River]], and western [[Long Island Sound]]. The Lenape society was divided into [[Matrilineality|matrilinear]] clans that were based upon common female ancestors. These clans were organized into three distinct [[phratry|phratries]] identified by their animal sign: Turtle, [[Turkey (bird)|Turkey]], and [[Wolf]]. They first encountered the [[Dutch colonization of the Americas|Dutch]] in the early 17th century, and their primary relationship with the Europeans was through [[fur trade]].
+
+===Colonial era===
+{{Main|Colonial history of New Jersey|New Netherland|New Sweden|Province of New Jersey|Dominion of New England}}
+[[File:Nieuw Nederland and Nya Sverige.svg|thumb|right|upright|The relative location of the New Netherland and New Sweden settlements in eastern North America]]
+The Dutch became the first Europeans to lay claim to lands in New Jersey. The Dutch colony of [[New Netherland]] consisted of parts of modern [[Middle Atlantic]] states. Although the European principle of [[land ownership]] was not recognized by the [[Lenape]], [[Dutch West India Company]] policy required its colonists to purchase the land that they settled. The first to do so was [[Michael Reyniersz Pauw|Michiel Pauw]] who established a patronship called [[Pavonia, New Netherland|Pavonia]] in 1630 along the [[North River (Hudson River)|North River]] which eventually became the [[Bergen, New Netherland|Bergen]]. [[Peter Minuit]]'s purchase of lands along the [[Delaware River]] established the colony of [[New Sweden]]. The entire region became a territory of [[Kingdom of England|England]] on June 24, 1664, after an English fleet under the command of Colonel [[Richard Nicolls]] sailed into what is today [[New York Harbor]] and took control of [[Fort Amsterdam]], annexing the entire province.
+
+During the [[English Civil War]], the [[Channel Islands|Channel Island]] of [[Jersey]] remained loyal to the British Crown and gave sanctuary to the [[King of England|King]]. It was from the Royal Square in [[Saint Helier]] that [[Charles II of England]] was proclaimed King in 1649, following the execution of his father, [[Charles I of England|Charles I]]. The North American lands were divided by [[Charles II of England|Charles II]], who gave his brother, the Duke of York (later [[James II of England|King James II]]), the region between [[New England]] and [[Maryland]] as a [[proprietary colony]] (as opposed to a [[royal colony]]). James then granted the land between the [[Hudson River]] and the [[Delaware River]] (the land that would become New Jersey) to two friends who had remained loyal through the [[English Civil War]]: [[George Carteret|Sir George Carteret]] and [[John Berkeley, 1st Baron Berkeley of Stratton|Lord Berkeley of Stratton]].<ref>{{cite web|url=http://www.mrnussbaum.com/readingcomp/njcolony.htm|title=New Jersey Colony Reading Comprehension|publisher=MrNussbaum.com|accessdate=September 10, 2012}}</ref> The area was named the [[Province of New Jersey]].
+
+Since the state's inception, New Jersey has been characterized by [[multiculturalism|ethnic and religious diversity]]. New England [[Congregationalists]] settled alongside [[Scots' Church, Melbourne|Scots Presbyterians]] and [[Dutch Reformed]] migrants. While the majority of residents lived in towns with individual landholdings of {{convert|100|acre|ha|0}}, a few rich proprietors owned vast estates. English [[Quakers]] and [[Anglicans]] owned large landholdings. Unlike [[Plymouth Colony]], [[Jamestown, Virginia|Jamestown]] and other colonies, New Jersey was populated by a secondary wave of immigrants who came from other colonies instead of those who migrated directly from Europe. New Jersey remained agrarian and rural throughout the colonial era, and [[commercial agriculture|commercial farming]] developed sporadically. Some townships, such as [[Burlington, New Jersey|Burlington]] on the Delaware River and [[Perth Amboy]], emerged as important ports for shipping to New York City and Philadelphia. The colony's fertile lands and tolerant religious policy drew more settlers, and New Jersey's population had increased to 120,000 by 1775.
+
+Settlement for the first 10 years of English rule took place along [[Hackensack River]] and [[Arthur Kill]] – settlers came primarily from New York and New England. On March 18, 1673, Berkeley sold his half of the colony to [[Religious Society of Friends|Quakers]] in England, who settled the Delaware Valley region as a Quaker colony. ([[William Penn]] acted as trustee for the lands for a time.) New Jersey was governed very briefly as two distinct provinces, [[East Jersey|East]] and [[West Jersey]], for 28 years between 1674 and 1702, at times part of the [[Province of New York]] or [[Dominion of New England]].
+
+In 1702, the two provinces were reunited under a [[Royal Governor of New Jersey|royal governor]], rather than a [[Proprietary governor|proprietary one]]. [[Edward Hyde, 3rd Earl of Clarendon|Edward Hyde]], Lord Cornbury, became the first governor of the colony as a royal colony. Britain believed that he was an ineffective and corrupt ruler, taking bribes and speculating on land. In 1708 he was recalled to England. New Jersey was then ruled by the governors of New York, but this infuriated the settlers of New Jersey, who accused those governors of favoritism to New York. [[Lewis Morris (governor)|Judge Lewis Morris]] led the case for a separate governor, and was appointed governor by [[George II of Great Britain|King George II]] in 1738.<ref>Streissguth pp. 30–36</ref>
+
+===Revolutionary War era===
+{{Main|American Revolutionary War|Northern theater of the American Revolutionary War|New Jersey in the American Revolution|Lee Resolution|United States Declaration of Independence|Philadelphia campaign|Articles of Confederation#Ratification|Treaty of Paris (1783)|Constitutional Convention (United States)|Admission to the Union|List of U.S. states by date of admission to the Union}}
+New Jersey was one of the [[Thirteen Colonies]] that revolted against British rule in the [[American Revolution]]. The [[s:New Jersey Constitution of 1776|New Jersey Constitution of 1776]] was passed July 2, 1776, just two days before the [[Second Continental Congress]] declared American Independence from [[Kingdom of Great Britain|Great Britain]]. It was an act of the [[Provincial Congress of New Jersey|Provincial Congress]], which made itself into the [[New Jersey Legislature|State Legislature]]. To reassure neutrals, it provided that it would become void if New Jersey reached reconciliation with Great Britain.
+
+New Jersey representatives [[Richard Stockton (Continental Congressman)|Richard Stockton]], [[John Witherspoon]], [[Francis Hopkinson]], [[John Hart (New Jersey politician)|John Hart]], and [[Abraham Clark]] were among those who signed the [[United States Declaration of Independence]].
+[[File:Washington Crossing the Delaware by Emanuel Leutze, MMA-NYC, 1851.jpg|thumb|''[[Washington Crossing the Delaware (1851 painting)|Washington Crossing the Delaware]]'' during the [[New York and New Jersey campaign]], winter 1777]]
+During the [[American Revolutionary War]], British and American armies crossed New Jersey numerous times, and several pivotal battles took place in the state. Because of this, New Jersey today is often referred to as "The Crossroads of the American Revolution."<ref>{{cite web|title=About Crossroads of the American Revolution|url=http://revolutionarynj.org/about-crossroads-of-the-american-revolution/|publisher=Crossroads of the American Revolution}}</ref> The winter quarters of the [[Continental Army]] were established there twice by General [[George Washington]] in [[Morristown, New Jersey|Morristown]], which has been called "The Military Capital of the American Revolution".<ref>{{cite web|title=The Military Capital of the American Revolution|url=http://www.visitnj.org/article/military-capital-american-revolution|publisher=New Jersey Tourism}}</ref>
+
+[[File:Princetonwashington.jpg|thumb|[[George Washington]] rallying his troops at the [[Battle of Princeton]]]]
+On the night of December&nbsp;25–26, 1776, the Continental Army under [[Washington's crossing of the Delaware River|George Washington crossed the Delaware River]]. After the crossing, he surprised and defeated the [[Hessian (soldiers)|Hessian troops]] in the [[Battle of Trenton]]. Slightly more than a week after victory at [[Trenton, New Jersey|Trenton]], American forces gained an important victory by stopping [[Charles Cornwallis, 1st Marquess Cornwallis|General Cornwallis's]] charges at the [[Second Battle of Trenton]]. By evading Cornwallis's army, Washington made a surprise attack on [[Princeton, New Jersey|Princeton]] and successfully defeated the British forces there on January 3, 1777. [[Emanuel Leutze]]'s painting of ''[[Washington Crossing the Delaware (1851 painting)|Washington Crossing the Delaware]]'' became an icon of the Revolution.
+
+American forces under Washington met the forces under General [[Henry Clinton (American War of Independence)|Henry Clinton]] at the [[Battle of Monmouth]] in an indecisive engagement in June 1778. Washington attempted to take the British column by surprise; when the British army attempted to flank the Americans, the Americans retreated in disorder. The ranks were later reorganized and withstood the British charges.
+
+In the summer of 1783, the [[Continental Congress]] met in [[Nassau Hall]] at [[Princeton University]], making Princeton the nation's capital for four months. It was there that the Continental Congress learned of the signing of the [[Treaty of Paris (1783)]], which ended the war.
+
+On December 18, 1787, New Jersey became the third state to ratify the [[United States Constitution]], which was overwhelmingly popular in New Jersey, as it prevented New York and Pennsylvania from charging [[tariff]]s on goods imported from Europe. On November 20, 1789, the state became the first in the newly formed Union to ratify the [[United States Bill of Rights|Bill of Rights]].
+
+The 1776 [[New Jersey State Constitution]] gave the vote to "all inhabitants" who had a certain level of wealth. This included women and blacks, but not married women, because they could not own property separately from their husbands. Both sides, in several elections, claimed that the other side had had unqualified women vote and mocked them for use of "petticoat electors", whether entitled to vote or not; on the other hand, both parties passed Voting Rights Acts. In 1807, the legislature passed a bill interpreting the constitution to mean universal ''white male'' [[suffrage]], excluding paupers; the constitution was itself an act of the legislature and not enshrined as the modern constitution.<ref>Klinghoffer and Elkis ("The Petticoat Electors: Women's Suffrage in New Jersey, 1776–1807", ''Journal of the Early Republic'' 12, no. 2 (1992): 159–193.)</ref>
+
+===19th century===
+{{Main|New Jersey in the 19th century}}
+On February 15, 1804, New Jersey became the last northern state to [[Abolitionism in the United States|abolish]] new [[slavery]] and enacted legislation that slowly phased out existing slavery. This led to a gradual decrease of the slave population. By the close of the [[American Civil War|Civil War]], about a dozen African Americans in New Jersey were still held in bondage.<ref>James Gigantino, The Ragged Road to Abolition: Slavery and Freedom in New Jersey, 1775–1865</ref> New Jersey voters initially refused to ratify the constitutional amendments banning slavery and granting rights to the United States' black population.
+[[File:1827 Morris Canal.jpg|thumb|right|A map of the 107-mile long [[Morris Canal]] across northern New Jersey]]
+Industrialization accelerated in the northern part of the state following completion of the [[Morris Canal]] in 1831. The canal allowed for coal to be brought from eastern [[Pennsylvania]]'s [[Lehigh Valley]] to northern New Jersey's growing industries in [[Paterson, New Jersey|Paterson]], [[Newark, New Jersey|Newark]], and [[Jersey City, New Jersey|Jersey City]].
+
+In 1844, the second [[New Jersey State Constitution|state constitution]] was ratified and brought into effect. Counties thereby became districts for the State Senate, and some realignment of boundaries (including the creation of [[Mercer County, New Jersey|Mercer County]]) immediately followed. This provision was retained in the 1947 Constitution, but was overturned by the [[Supreme Court of the United States]] in 1962 by the decision ''[[Baker v. Carr]]''. While the Governorship was stronger than under the 1776 constitution, the constitution of 1844 created many offices that were not responsible to him, or to the people, and it gave him a three-year term, but he could not succeed himself.
+
+New Jersey was one of the few Union states (the others being [[Delaware]] and [[Kentucky]]) to select a candidate other than [[Abraham Lincoln]] twice in national elections, and sided with [[Stephen Douglas]] (1860) and [[George B. McClellan]] (1864) during their campaigns. McClellan, a native Philadelphian, had New Jersey ties and formally resided in New Jersey at the time; he later became Governor of New Jersey (1878–81). (In New Jersey, the factions of the Democratic party managed an effective coalition in 1860.) During the [[American Civil War]], the state was led first by Republican Governor [[Charles Smith Olden]], then by Democrat [[Joel Parker (politician)|Joel Parker]]. During the course of the war, over 80,000 from the state enlisted in the Northern army; unlike many states, including some Northern ones, no battle was fought there. {{citation needed|date=September 2014}}
+
+[[File:Newark NJ 1874.jpg|thumb|left|View of state's largest city, Newark, in 1874]]
+In the [[Industrial Revolution]], cities like [[Paterson, New Jersey|Paterson]] grew and prospered. Previously, the economy had been largely agrarian, which was problematically subject to crop failures and poor soil. This caused a shift to a more industrialized economy, one based on manufactured commodities such as textiles and silk. [[List of inventors|Inventor]] [[Thomas Edison]] also became an important figure of the Industrial Revolution, having been [[List of Edison patents|granted 1,093 patents]], many of which for inventions he developed while working in New Jersey. Edison's facilities, first at [[Menlo Park, New Jersey|Menlo Park]] and then in [[West Orange, New Jersey|West Orange]], are considered perhaps the first [[research center]]s in the United States. Christie Street in Menlo Park was the first thoroughfare in the world to have electric lighting. Transportation was greatly improved as [[locomotive|locomotion]] and [[steamboat]]s were introduced to New Jersey.
+
+[[Iron ore|Iron]] mining was also a leading industry during the middle to late 19th century. [[Bog iron]] pits in the southern New Jersey Pinelands were among the first sources of iron for the new nation.<ref>{{cite web|url=http://www.usgennet.org/usa/nj/county/atlantic/Pinelands/BogIron.htm|title=Usgennet.org|publisher=Usgennet.org|accessdate=July 25, 2010}}</ref> Mines such as Mt. Hope, Mine Hill and the Rockaway Valley Mines created a thriving industry. Mining generated the impetus for new towns and was one of the driving forces behind the need for the [[Morris Canal]]. [[Zinc]] mines were also a major industry, especially the [[Sterling Hill Mine]].
+[[File:Edison in his NJ laboratory 1901.jpg|thumb|[[Thomas Edison]] in his laboratory, West Orange, New Jersey, 1901]]
+
+===20th century===
+{{Main|New Jersey in the 20th century}}
+New Jersey prospered through the [[Roaring Twenties]]. The first [[Miss America Pageant]] was held in 1921 in [[Atlantic City]], the [[Holland Tunnel]] connecting [[Jersey City, New Jersey|Jersey City]] to [[Manhattan]] opened in 1927, and the first [[drive-in movie]] was shown in 1933 in Camden. During the [[Great Depression]] of the 1930s, the state offered begging licenses to unemployed residents,<ref>Gerdes, Louise I. ''The 1930s'', Greenhaven Press, Inc., 2000.</ref> the zeppelin airship [[Hindenburg disaster|Hindenburg]] crashed in flames over [[Lakehurst, New Jersey|Lakehurst]], and the [[SS Morro Castle (1930)|SS ''Morro Castle'']] beached itself near Asbury Park after going up in flames while at sea.
+
+Through both [[World War]]s, New Jersey was a center for war production, especially in naval construction, notably at [[Federal Shipbuilding and Drydock Company]]. Battleships, cruisers, and destroyers were made in the state. New Jersey manufactured 6.8 percent of total United States military armaments produced during [[World War II]], ranking fifth among the 48 states.<ref>[[Whiz Kids (Department of Defense)|Peck, Merton J.]] & [[Frederic M. Scherer|Scherer, Frederic M.]] ''The Weapons Acquisition Process: An Economic Analysis'' (1962) [[Harvard Business School]] p.111</ref> In addition, [[Fort Dix, New Jersey|Fort Dix]] (1917) (originally called "Camp Dix"),<ref name=dixhist>{{cite web|url=http://www.dix.army.mil/history/history.html |at=¶1 |title=Fort Dix History |publisher=U.S. Support Activity&nbsp;– Fort Dix |accessdate=January 4, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20131227024450/http://www.dix.army.mil/history/history.html |archivedate=December 27, 2013 |df= }}</ref> [[Camp Merritt (New Jersey)|Camp Merritt]] (1917)<ref>{{cite web|url=http://freepages.military.rootsweb.com/~cacunithistories/camp_merritt.htm|title=Camp Merritt|publisher=Freepages.military.rootsweb.com|accessdate=July 25, 2010}}</ref> and [[Camp Kilmer]] (1941)<ref>{{cite web|author=John Pike|url=http://www.globalsecurity.org/military/facility/camp-kilmer.htm|title=Camp Kilmer|publisher=Globalsecurity.org|accessdate=July 25, 2010}}</ref> were all constructed to house and train American soldiers through both World Wars. New Jersey also became a principal location for defense in the [[Cold War]]. Fourteen [[Project Nike|Nike Missile]] stations were constructed, especially for the defense of New York City and [[Philadelphia]]. ''[[Motor Torpedo Boat PT-109|PT-109]]'', a motor torpedo boat commanded by Lt. (j.g.) [[John F. Kennedy]] in World War II, was built at the Elco Boatworks in Bayonne. The aircraft carrier [[USS Enterprise (CV-6)|USS ''Enterprise'' (CV-6)]] was briefly docked at the Military Ocean Terminal in Bayonne in the 1950s before she was sent to Kearney to be scrapped.<ref>{{cite web|url=http://www.cv6.org/1946/scrap/default.htm|title=CV6.org|publisher=CV6.org|accessdate=July 25, 2010}}</ref> In 1962, the world's first nuclear-powered cargo ship, the [[NS Savannah]], was launched at Camden.
+[[File:Depression-Unemployed-the Unemployed Union, marchers south on Broadway, Camden New Jersey typical scene reflecting... - NARA - 195658.tif|thumb|left|Marchers in [[Camden, New Jersey]] demanding jobs during the [[Great Depression in the United States|Great Depression]], {{circa}}1935]]
+
+In 1951, the [[New Jersey Turnpike]] opened, permitting fast travel by car and truck between North Jersey (and [[New York metropolitan area|metropolitan New York]]) and South Jersey (and [[Delaware Valley|metropolitan Philadelphia]]).
+
+In the 1960s, [[race riot]]s erupted in many of the industrial cities of North Jersey. The first race riots in New Jersey occurred in Jersey City on August 2, 1964. Several others ensued in 1967, in [[1967 Newark riots|Newark]] and [[1967 Plainfield riots|Plainfield]]. Other riots followed the assassination of [[Dr. Martin Luther King, Jr.]] in April 1968, just as in the rest of the country. A riot occurred in [[Camden, New Jersey|Camden]] in 1971.
+
+As a result of an order from the [[New Jersey Supreme Court]] to fund schools equitably, the New Jersey legislature passed an income tax bill in 1976. Prior to this bill, the state had no income tax.<ref name=tws29decf3354>{{cite web | title=Mission & History | publisher=Education Law Center | date=December 29, 2009 | url=http://www.edlawcenter.org/about/mission-history.html | accessdate=January 4, 2014 | at=History, ¶3}}</ref>
+
+{{maplink|frame=yes|zoom=6|id=Q1408|type=shape|text=Interactive map of New Jersey}}
+
+===21st century===
+{{Main|New Jersey in the 21st century}}
+In the early part of the 2000s, two [[light rail]] systems were opened: the [[Hudson–Bergen Light Rail]] in Hudson County and the [[River Line (New Jersey Transit)|River Line]] between Camden and Trenton. The intent of these projects were to encourage [[transit-oriented development]] in North Jersey and South Jersey, respectively. The HBLR in particular was credited with a revitalization of Hudson County and [[Jersey City, New Jersey|Jersey City]] in particular.<ref>{{cite web|title=Livability: A Legacy of Northern N.J. Communities |website=Mobility Matters |publisher=New Jersey Regional Planning Association |date=Fall 2010 |url=http://www.njtpa.org/Pub/Report/documents/MM_newsletter_Fall10_000.pdf |accessdate=April 9, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110927173630/http://www.njtpa.org/Pub/Report/documents/MM_newsletter_Fall10_000.pdf |archivedate=September 27, 2011 |df= }}</ref><ref>{{Cite report |title=Hudson–Bergen Light Rail System and Economic Development on the Waterfront |publisher=[[Booz Allen Hamilton]] |url=http://www.reconnectingamerica.org/assets/Uploads/bestpractice097.pdf |accessdate=May 15, 2011}}</ref><ref>[http://www.dpz.com/project.aspx?Project_Number=9901&Project_Name=Liberty+Harbor+North Liberty Harbor North]. Retrieved January 3, 2007.</ref><ref>{{cite web|last=Robins |first=Martin E. |author2=Wells, Jan S. |title=Land Development at Selected Hudson-Bergen Light Rail Stations |website= |publisher=Alan M. Voorhees Transportation Center at Rutgers University |date=April 2008 |url=http://policy.rutgers.edu/vtc/reports/REPORTS/HBLR%20Final%20Report.pdf |accessdate=April 9, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110720043043/http://policy.rutgers.edu/vtc/reports/REPORTS/HBLR%20Final%20Report.pdf |archivedate=July 20, 2011 |df= }}</ref> Urban revitalization has continued in North Jersey in the 21st century. As of 2014, Jersey City's Census-estimated population was 262,146,<ref name=PopEst>[http://factfinder.census.gov/bkmk/table/1.0/en/PEP/2014/PEPANNRES/0400000US34.06100 PEPANNRES – Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2014 – 2014 Population Estimates for New Jersey municipalities], [[United States Census Bureau]]. Retrieved May 21, 2015.</ref> with the largest population increase of any municipality in New Jersey since 2010,<ref name=JC2014Est>Stirling, Stephen. [http://www.nj.com/news/index.ssf/2015/05/what_are_njs_fastest_growing_and_declining_towns_m.html#incart_most-read_morris_article "What are N.J.'s fastest growing and shrinking towns?"], NJ Advance Media for [[NJ.com]], May 21, 2015. Retrieved June 1, 2015. "Jersey City has gained nearly 15,000 residents since 2010, making it the fastest growing municipality in the state and a symbol of the Garden State's reinvigorated urban core."</ref> representing an increase of 5.9% from the [[2010 United States Census]], when the city's population was enumerated at 247,597.<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3401736000 DP-1 – Profile of General Population and Housing Characteristics: 2010 for Jersey City city, Hudson County, New Jersey], [[United States Census Bureau]]. Retrieved February 1, 2016.</ref><ref name=LWD2010>[http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_hud/jerseycity1.pdf Table DP-1. Profile of General Demographic Characteristics: 2010 for Jersey City] {{Webarchive|url=https://web.archive.org/web/20160112171718/http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_hud/jerseycity1.pdf |date=January 12, 2016 }}, [[New Jersey Department of Labor and Workforce Development]]. Retrieved February 1, 2016.</ref> In [[2010 United States Census|2010]], Newark experienced its first population increase since the 1950s.
+
+==Geography==
+{{multiple image
+ | align     = right
+ | direction = vertical
+ | image1    = Spring Lake, New Jersey Beach at Sunrise.jpg|
+ | width1    = 225
+ | caption1  =
+ | alt1      =
+ | image2    = Cape may.jpg
+ | width2    = 225
+ | caption2  = Sunrise on the [[Jersey Shore]] at [[Spring Lake, New Jersey|Spring Lake]], [[Monmouth County, New Jersey|Monmouth County]] (above), and sunset on the Shore at [[Sunset Beach (New Jersey)|Sunset Beach]], [[Cape May County, New Jersey|Cape May County]] (below).
+ | alt2      =
+}}
+[[File:High Point Monument and Lake Marcia framed.jpg|thumb|left|upright|[[High Point Monument]] as seen from Lake Marcia at High Point, [[Sussex County, New Jersey|Sussex County]], the [[List of U.S. states by elevation|highest elevation]] in New Jersey, at 1803 feet above sea level.<ref name=USGSB>{{cite web|date=April 29, 2005 |url=http://erg.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html#Highest |title=Elevations and Distances in the United States |publisher=U.S Geological Survey |accessdate=September 10, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20080601170143/http://erg.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html |archivedate=June 1, 2008 }}</ref>]]
+[[File:Delaware Water Gap.jpg|thumb|right|New Jersey, seen here in [[Warren County, New Jersey|Warrren County]], shares the [[Delaware Water Gap]] with neighboring [[Pennsylvania]].]]
+[[File:Kitty Ann Mountain.jpg|thumb|[[Kitty Ann Mountain]] rises above [[Kinnelon, New Jersey|Kinnelon]], [[Morris County, New Jersey|Morris County]], at an [[Altitude (triangle)|altitude]] of 1159 feet above sea level, with the highest [[prominence (mountains)|prominence]] in New Jersey, at 892 feet.]]
+[[File:Palisades cliff.jpg|right|thumb|upright|Part of the [[Palisades Interstate Park]], the cliffs of the [[New Jersey Palisades]] in [[Bergen County, New Jersey|Bergen]] (seen here) and [[Hudson County, New Jersey|Hudson]] counties overlook the [[Hudson River]].]]
+[[File:Bigfalls14w info.jpg|thumb|right|The [[Great Falls (Passaic River)|Great Falls]] of the [[Passaic River]] in [[Paterson, New Jersey|Paterson]], [[Passaic County, New Jersey|Passaic County]], dedicated as a [[List of national parks of the United States|U.S. National Park]] in November 2011, incorporates one of the largest [[waterfall]]s in the eastern United States.<ref>{{cite web|url=http://www.njspotlight.com/stories/11/1108/0050/|title=Paterson Great Falls National Park: More Than Scenery|author=Mark J. Magyar|publisher= 2010–2011, njSPOTLIGHT. All rights reserved|date=November 8, 2011|accessdate=September 2, 2012}}</ref>]]
+{{Main|Geography of New Jersey}}
+{{See also|List of counties in New Jersey|Metropolitan Statistical Areas of New Jersey}}
+New Jersey is bordered on the north and northeast by [[New York (state)|New York]] (parts of which are across the [[Hudson River]], [[Upper New York Bay]], the [[Kill Van Kull]], [[Newark Bay]], and the [[Arthur Kill]]); on the east by the Atlantic Ocean; on the southwest by [[Delaware]] across [[Delaware Bay]]; and on the west by [[Pennsylvania]] across the [[Delaware River]].
+
+New Jersey is often broadly divided into three geographic regions: [[North Jersey]], [[Central Jersey]], and [[South Jersey]]. Some New Jersey residents do not consider Central Jersey a region in its own right, but others believe it is a separate geographic and cultural area from the North and South.
+
+Within those regions are five distinct areas, based upon natural geography and population concentration. Northeastern New Jersey lies closest to [[Manhattan]] in New York City, and up to 1 million residents commute daily into the city for work, often via public transportation.<ref>{{cite web|url=https://wagner.nyu.edu/files/rudincenter/dynamic_pop_manhattan.pdf|title=The Dynamic Population of Manhattan|author1=Mitchell L. Moss  |author2=Carson Qing |lastauthoramp=yes |publisher=Rudin Center for Transportation Policy and Management, Wagner School of Public Service, New York University|date=March 2012|accessdate=April 16, 2016}}</ref> Northwestern New Jersey, is more wooded, rural, and mountainous. The [[Jersey shore]], along the Atlantic Coast in Central and South Jersey, has its own unique natural, residential, and cultural characteristics owing to its location by the ocean. The [[Delaware Valley]] includes the southwestern counties of the state, which reside within the [[Philadelphia Metropolitan Area]]. The [[Pine Barrens (New Jersey)|Pine Barrens]] region is in the southern interior of New Jersey. Covered rather extensively by mixed [[pine]] and [[oak]] forest, it has a much lower population density than much of the rest of the state.
+
+The federal [[Office of Management and Budget]] divides New Jersey's counties into seven [[Metropolitan Statistical Area]]s, with 16 counties included in either the New York City or Philadelphia metro areas. Four counties have independent metro areas, and Warren County is part of the Pennsylvania-based [[Lehigh Valley]] metro area. New Jersey is also at the center of the [[Northeast megalopolis]].
+
+[[High Point (New Jersey)|High Point]], in [[Montague Township, New Jersey|Montague Township]], [[Sussex County, New Jersey|Sussex County]], is the state's highest elevation, at {{convert|1803|ft|m}} above sea level. The state's highest [[prominence (mountains)|prominence]] is [[Kitty Ann Mountain]] in [[Morris County, New Jersey|Morris County]], rising 892 feet. The [[The Palisades (Hudson River)|Palisades]] are a line of steep cliffs on the west side of the [[Hudson River]], in [[Bergen County, New Jersey|Bergen]] and [[Hudson County, New Jersey|Hudson Counties]]. Major [[List of New Jersey rivers|New Jersey rivers]] include the [[Hudson River|Hudson]], [[Delaware River|Delaware]], [[Raritan River|Raritan]], [[Passaic River|Passaic]], [[Hackensack River|Hackensack]], [[Rahway River|Rahway]], [[Musconetcong River|Musconetcong]], [[Mullica River|Mullica]], [[Rancocas River|Rancocas]], [[Manasquan River|Manasquan]], [[Maurice River|Maurice]], and [[Toms River|Toms]] rivers. Due to New Jersey's [[peninsula]]r geography, both sunrise and sunset are visible over water from different points on the Jersey Shore.
+
+=== National parks, monuments, and historic landmarks ===
+* [[Appalachian National Scenic Trail]]
+* [[Delaware National Scenic River]]
+* [[Delaware Water Gap National Recreation Area]]
+* [[Ellis Island National Monument]]
+* [[Gateway National Recreation Area]] in Monmouth County
+* [[Great Egg Harbor River]]
+* [[Morristown National Historical Park]] in [[Morristown, New Jersey|Morristown]]
+* [[New Jersey Coastal Heritage Trail Route]]
+* [[Pinelands National Reserve|New Jersey Pinelands National Reserve]]
+* [[Paterson Great Falls National Historical Park]]
+* [[Thomas Edison National Historical Park]] in [[West Orange, New Jersey|West Orange]]
+
+=== Prominent geographic features ===
+* [[Delaware Water Gap]]
+* [[Great Bay (New Jersey)|Great Bay]]
+* [[Great Swamp National Wildlife Refuge]]
+* [[New York–New Jersey Highlands|Highlands]]
+* [[Hudson Palisades]]
+* [[Jersey Shore]]
+* [[New Jersey Meadowlands|Meadowlands]]
+* [[Pine Barrens (New Jersey)|Pine Barrens]]
+* [[South Mountain Reservation|South Mountain]]
+
+===Climate===
+There are two climatic conditions in the state. The south, central, and northeast parts of the state have a [[humid subtropical]] climate, while the northwest has a [[humid continental climate]] ([[microthermal]]), with much cooler temperatures due to higher elevation. New Jersey receives between 2,400 and 2,800 hours of [[sunshine]] annually.<ref>{{cite web|url=http://maps.howstuffworks.com/united-states-annual-sunshine-map.htm |title=united states annual sunshine map |publisher=HowStuffWorks, Inc |accessdate=March 14, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110429042722/http://maps.howstuffworks.com/united-states-annual-sunshine-map.htm |archivedate=April 29, 2011  }}</ref>
+
+Summers are typically hot and humid, with statewide average high temperatures of {{convert|82|-|87|F}} and lows of {{convert|60|-|69|F}}; however, temperatures exceed {{convert|90|°F|0}} on average 25 days each summer, exceeding {{convert|100|°F|0}} in some years. Winters are usually cold, with average high temperatures of {{convert|34|-|43|F|C}} and lows of {{convert|16|to|28|F}} for most of the state, but temperatures can, for brief periods, fall below {{convert|10|°F|0}} and sometimes rise above {{convert|50|°F}}. Northwestern parts of the state have significantly colder winters with sub-{{convert|0|°F|0}} being an almost annual occurrence. Spring and autumn may feature wide temperature variations, with lower humidity than summer. The [[Hardiness zone|USDA Plant Hardiness Zone]] classification ranges from 6 in the northwest of the state, to 7B near Cape May.<ref>[http://www.arborday.org/treeinfo/zonelookup.cfm Hardiness Zone Lookup at]. Arborday.org. Retrieved July 12, 2013.</ref> All-time temperature extremes recorded in New Jersey include {{Convert|110|F}} on July 10, 1936 in [[Runyon, New Jersey|Runyon]], Middlesex County and {{Convert|-34|F}} on January 5, 1904 in [[River Vale, New Jersey|River Vale]], Bergen County.<ref>{{cite web|url=http://www.ncdc.noaa.gov/extremes/scec/records|title=State Climate Extremes Committee (SCEC)|author=[[National Climatic Data Center]]|accessdate=April 3, 2015}}</ref>
+
+Average annual precipitation ranges from {{convert|43|to|51|in|mm}}, uniformly spread through the year. Average snowfall per winter season ranges from {{convert|10|-|15|in|cm}} in the south and near the seacoast, {{convert|15|-|30|in|cm}} in the northeast and central part of the state, to about {{convert|40|-|50|in|m}} in the northwestern highlands, but this often varies considerably from year to year. Precipitation falls on an average of 120 days a year, with 25 to 30 thunderstorms, most of which occur during the summer.
+
+During winter and early spring, New Jersey can experience "[[nor'easter]]s," which are capable of causing [[blizzards]] or flooding throughout the northeastern United States. [[Hurricane]]s and [[tropical storm]]s (such as Tropical Storm Floyd in 1999<ref>{{cite web|url=http://www.erh.noaa.gov/mhx/Floyd/Impacts.php|title=Hurricane Floyd Impacts|publisher=National Weather Service|accessdate=June 5, 2011}}</ref>), [[tornado]]es, and earthquakes are rare, although New Jersey was severely impacted by [[Hurricane Sandy]] on October 29, 2012 with the storm making landfall in the state at 90&nbsp;mph.
+
+{| class="wikitable"
+| colspan="14" |Average high and low temperatures in various cities of New Jersey '''°C''' (°F)[[New Jersey#cite note-NOAA PHL-60|<sup>[1]</sup>]] [[New Jersey#cite note-NOAA NYC-61|<sup>[2]</sup>]] [[New Jersey#cite note-62|<sup>[3]</sup>]]
+|-
+|'''City'''
+|'''Jan'''
+|'''Feb'''
+|'''Mar'''
+|'''Apr'''
+|'''May'''
+|'''Jun'''
+|'''Jul'''
+|'''Aug'''
+|'''Sep'''
+|'''Oct'''
+|'''Nov'''
+|'''Dec'''
+|
+|-
+|[[Sussex, New Jersey|'''Sussex''']]
+|'''1'''/'''−9''' (34/16)
+|'''3'''/'''−8''' (38/18)
+|'''8'''/'''−4''' (47/26)
+|'''15'''/'''2''' (59/36)
+|'''21'''/'''7''' (70/45)
+|'''25'''/'''12''' (78/55)
+|'''28'''/'''16''' (82/60)
+|'''27'''/'''14''' (81/58)
+|'''23'''/'''10''' (73/50)
+|'''17'''/'''4''' (62/38)
+|'''11'''/'''−1''' (51/31)
+|'''4'''/'''−6''' (39/22)
+|
+|-
+|[[Newark, New Jersey|'''Newark''']]
+|'''4'''/'''−4''' (39/24)
+|'''6'''/'''−3''' (42/27)
+|'''10'''/'''1''' (51/34)
+|'''17'''/'''7''' (62/44)
+|'''22'''/'''12''' (72/53)
+|'''28'''/'''17''' (82/63)
+|'''30'''/'''20''' (86/69)
+|'''29'''/'''20''' (84/68)
+|'''25'''/'''15''' (77/60)
+|'''18'''/'''9''' (65/48)
+|'''13'''/'''4''' (55/39)
+|'''6'''/'''−1''' (44/30)
+|
+|-
+|[[Kinnelon, New Jersey|'''Kinnelon''']]
+|'''0'''/'''−8''' (35/15)
+|'''2'''/'''−8''' (37/18)
+|'''7'''/'''-4''' (46/26)
+|'''16'''/'''2''' (60/36)
+|'''21'''/'''7''' (69/45)
+|'''24'''/'''12''' (76/66)
+|'''28'''/'''16''' (83/60)
+|'''27'''/'''14''' (81/58)
+|'''23'''/'''10''' (73/50)
+|'''16'''/'''4''' (60/38)
+|'''11'''/'''-2''' (51/29)
+|'''4'''/'''−6''' (39/22)
+|
+|-
+|[[Atlantic City, New Jersey|'''Atlantic City''']]
+|'''5'''/'''−2''' (42/29)
+|'''6'''/'''−1''' (44/31)
+|'''10'''/'''3''' (50/37)
+|'''14'''/'''8''' (58/46)
+|'''19'''/'''13''' (67/55)
+|'''24'''/'''18''' (76/64)
+|'''27'''/'''21''' (81/70)
+|'''27'''/'''21''' (80/70)
+|'''24'''/'''18''' (75/64)
+|'''18'''/'''11''' (65/53)
+|'''13'''/'''6''' (56/43)
+|'''8'''/'''1''' (46/34)
+|
+|-
+|[[Cape May, New Jersey|'''Cape May''']]
+|'''6'''/'''−2''' (42/28)
+|'''7'''/'''−2''' (44/29)
+|'''11'''/'''2''' (51/35)
+|'''16'''/'''7''' (61/44)
+|'''21'''/'''12''' (70/53)
+|'''26'''/'''17''' (79/63)
+|'''29'''/'''20''' (85/68)
+|'''29'''/'''19''' (83/67)
+|'''25'''/'''16''' (78/61)
+|'''19'''/'''9''' (67/50)
+|'''14'''/'''4''' (57/41)
+| '''8'''/'''0''' (47/32)
+|
+|}
+
+==Demographics==
+{{US Census population
+|1790= 184139
+|1800= 211149
+|1810= 245562
+|1820= 277575
+|1830= 320823
+|1840= 373306
+|1850= 489555
+|1860= 672035
+|1870= 906096
+|1880= 1131116
+|1890= 1444933
+|1900= 1883669
+|1910= 2537167
+|1920= 3155900
+|1930= 4041334
+|1940= 4160165
+|1950= 4835329
+|1960= 6066782
+|1970= 7168164
+|1980= 7364823
+|1990= 7730188
+|2000= 8414350
+|2010= 8791894
+|estimate= 8908520
+|estyear= 2018
+|footnote=Source:<center>1910–2010<ref>{{cite web|author=Resident Population Data |url=http://2010.census.gov/2010census/data/apportionment-pop-text.php |title=Resident Population Data&nbsp;– 2010 Census |publisher=2010.census.gov |accessdate=December 22, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20131019160532/http://2010.census.gov/2010census/data/apportionment-pop-text.php |archivedate=October 19, 2013  }}</ref><br />2018 Estimate<ref name=PopEstimate>[https://www2.census.gov/programs-surveys/popest/tables/2010-2018/state/totals/nst-est2017-01.xlsx]. Retrieved December 28, 2018.</ref>
+}}
+
+[[File:New Jersey Population Map.png|thumb|New Jersey population distribution]]
+
+===State population===
+The [[United States Census Bureau]] estimates that the population of New Jersey was 8,958,013 on July 1, 2015, a 1.89% increase since the [[2010 United States Census]].<ref name="PopEstUS">{{cite web|url=https://www.census.gov/popest/data/state/totals/2015/tables/NST-EST2015-01.csv |archive-url=https://web.archive.org/web/20151223235718/http://www.census.gov/popest/data/state/totals/2015/tables/NST-EST2015-01.csv |dead-url=yes |archive-date=December 23, 2015 |format=CSV |title=Table 1. Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2015 |date=December 23, 2015 |publisher=[[U.S. Census Bureau]] |accessdate=December 23, 2015 }}</ref> Residents of New Jersey are most commonly referred to as "New Jerseyans" or, less commonly, as "New Jerseyites". As of the 2010 census, there were 8,791,894 people residing in the state. The racial makeup of the state was:
+* 68.6% [[White American]]
+* 13.7% African American
+* 8.3% Asian American
+* 0.3% Native American
+* 2.7% [[Multiracial American]]
+* 6.4% [[Race (U.S. Census)|other races]]
+
+17.7% of the population were [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] (of any race).
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|+ '''New Jersey Racial Breakdown of Population'''
+|-
+! Racial composition !! 1970<ref name="census"/> !! 1990<ref name="census">{{cite web|url=https://www.census.gov/population/www/documentation/twps0056/twps0056.html |title=Historical Census Statistics on Population Totals By Race, 1790 to 1990, and By Hispanic Origin, 1970 to 1990, For The United States, Regions, Divisions, and States |date=December 24, 2014 |accessdate=March 12, 2017 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20141224151538/http://www.census.gov/population/www/documentation/twps0056/twps0056.html |archivedate=December 24, 2014  }}</ref>!! 2000<ref>[http://censusviewer.com/city/NJ Population of New Jersey: Census 2010 and 2000 Interactive Map, Demographics, Statistics, Quick Facts]{{dead link|date=March 2017 |bot=Beta7 |fix-attempted=yes }}</ref>!! 2010<ref>{{cite web|url=https://www.census.gov/2010census/data/|title=US Census Bureau 2010 Census|first1=Center for New Media and|last1=Promotions|first2=Public Information Staff, US Census|last2=Bureau|accessdate=March 12, 2017}}</ref>
+|-
+| [[White American|White]] || 88.6% || 79.3% || 72.5% || 68.6%
+|-
+| [[African American|Black]] || 10.7% || 13.4% || 13.6% || 13.7%
+|-
+| [[Asian American|Asian]] || 0.3% || 3.5% || 5.7% || 8.3%
+|-
+| [[Native Americans in the United States|Native]] || 0.1% || 0.2% || 0.2% || 0.3%
+|-
+| [[Native Hawaiian]] and<br />[[Pacific Islander|other Pacific Islander]] ||&nbsp;– ||&nbsp;– ||&nbsp;– ||&nbsp;–
+|-
+| [[Race and ethnicity in the United States Census|Other race]] || 0.3% || 3.6% || 5.4% || 6.4%
+|-
+| [[Multiracial American|Two or more races]] ||&nbsp;– ||&nbsp;– || 2.5% || 2.7%
+|}
+
+[[Non-Hispanic Whites]] were 58.9% of the population in 2011,<ref name="NJCensusfacts">{{cite web|url=http://quickfacts.census.gov/qfd/states/34000.html |title=New Jersey |website=State & County QuickFacts |publisher=U.S. Census Bureau |accessdate=October 30, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131031213659/http://quickfacts.census.gov/qfd/states/34000.html |archivedate=October 31, 2013 |df= }}</ref> down from 85% in 1970.<ref>{{cite web|title=New Jersey&nbsp;– Race and Hispanic Origin: 1790 to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0056/twps0056.html |archive-url=https://web.archive.org/web/20080725044857/http://www.census.gov/population/www/documentation/twps0056/twps0056.html |dead-url=yes |archive-date=July 25, 2008 |accessdate=April 20, 2012 |df= }}</ref>
+
+In 2010, unauthorized immigrants constituted an estimated 6.2% of the population. This was the fourth-highest percentage of any state in the country.<ref>{{cite web |url=http://www.pewhispanic.org/2011/02/01/iv-state-settlement-patterns/ |title=Pew Research Center |accessdate=May 17, 2015}}</ref> There were an estimated 550,000 illegal immigrants in the state in 2010.<ref>{{cite web|url=http://www.nj.com/news/index.ssf/2011/02/nj_illegal_immigration_level_h.html|title=N.J. illegal immigration level holds steady|accessdate=March 12, 2017}}</ref>
+
+The [[United States Census Bureau]], {{as of|lc=y|df=US|2017|07|01}}, estimated New Jersey's population at 9,005,644,<ref name=PopEstimate/> which represents an increase of 213,750, or 2.4%, since the last census in 2010. As of 2010, New Jersey was the eleventh-most populous state in the United States, and the most densely populated, at 1,185 residents per square mile (458 per km<sup>2</sup>), with most of the population residing in the counties surrounding New York City, Philadelphia, and along the eastern [[Jersey Shore]], while the extreme southern and northwestern counties are relatively less dense overall. It is also the second wealthiest state according to the U.S. Census Bureau.<ref name=NJMedianIncome/>
+
+The [[center of population]] for New Jersey is located in [[Middlesex County, New Jersey|Middlesex County]], in the town of [[Milltown, New Jersey|Milltown]], just east of the [[New Jersey Turnpike]].<ref>{{cite web|title=Population and Population Centers by State: 2000 |publisher=United States Census Bureau |accessdate=November 16, 2006 |url=https://www.census.gov/geo/www/cenpop/statecenters.txt |archive-url=https://web.archive.org/web/20011212170351/http://www.census.gov/geo/www/cenpop/statecenters.txt |dead-url=yes |archive-date=December 12, 2001 |df= }}</ref>
+
+New Jersey is home to more scientists and engineers per square mile than anywhere else in the world.<ref>{{cite web|url=http://www.njss.org/about/nj.php|title=New Jersey|publisher=New Jersey State Society|accessdate=October 19, 2013}}</ref><ref>{{cite web|author=Nature Jobs|url=http://www.nature.com/naturejobs/2001/010712/full/nj0021.html|title=Delaware / Hudson Valley Hot Spot for biotechnology|work=Nature|accessdate=July 25, 2010}}</ref><ref>{{cite web | url=http://www.politifact.com/new-jersey/statements/2012/sep/06/choose-new-jersey/new-jersey-leads-world-number-scientists-engineers/ | title=New Jersey leads world in number of scientists, engineers per square mile | publisher=PolitiFact | date=September 6, 2012 | accessdate=January 5, 2014}}</ref>
+
+On October 21, 2013, [[Recognition of same-sex unions in New Jersey|same-sex marriages]] commenced in New Jersey.<ref name="DroppedAppeal">{{cite web|url=http://www.northjersey.com/news/state/Christie_administration_withdraws_appeal_of_ruling_allowing_gay_marriage_in_NJ.html?page=all|title=Christie drops appeal of ruling allowing gay marriage in NJ|author=MELISSA HAYES, KIBRET MARKOS, CHRIS HARRIS AND SCOTT FALLON|date=October 21, 2013|accessdate=October 21, 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20140209185716/http://www.northjersey.com/news/state/Christie_administration_withdraws_appeal_of_ruling_allowing_gay_marriage_in_NJ.html?page=all|archivedate=February 9, 2014}}</ref>
+
+[[File:Bar Chart of Race & Ethnicity in New Jersey (2015).svg|thumb|upright=1.4|Race and ethnicity]]
+New Jersey is one of the most ethnically and religiously [[Polyethnicity|diverse]] states in the country. As of 2011, 56.4% of New Jersey's children under the age of one belonged to racial or ethnic minority groups, meaning that they had at least one parent who was not non-Hispanic white.<ref>{{cite news|url=http://www.cleveland.com/datacentral/index.ssf/2012/06/americas_under_age_1_populatio.html|title=Americans under age 1 now mostly minorities, but not in Ohio: Statistical Snapshot|last=Exner|first=Rich|date=June 3, 2012|work=[[The Plain Dealer]]}}</ref> It has the second largest [[Jewish American|Jewish]] population by percentage (after New York);<ref>{{cite web|url=https://www.jewishvirtuallibrary.org/jsource/US-Israel/usjewpop.html|title=Jewish Population in the United States, by State|publisher=American-Israeli Cooperative Enterprise|accessdate=November 11, 2013}}</ref> the second largest [[Islam in the United States|Muslim]] population by percentage (after [[Michigan]]); the largest population of [[Peruvian American]]s in the United States; the largest population of [[Cuban Americans|Cubans]] outside of Florida; the third highest [[Asian American|Asian]] population by percentage; and the third highest [[Italian-American|Italian]] population by percentage, according to the [[United States 2000 Census|2000 Census]]. African Americans, [[Hispanic and Latino Americans|Hispanics]] ([[Puerto Rican American|Puerto Ricans]] and [[Dominican American|Dominicans]]), [[West Indian Americans|West Indians]], [[Arab American|Arabs]], and [[Brazilian people|Brazilian]] and [[Portuguese Americans]] are also high in number. New Jersey has the third highest [[Indian American#List of U.S. States by population of Asian Indians|Asian Indian]] population of any state by absolute numbers and the highest by percentage,<ref>[http://www.migrationinformation.org/USfocus/display.cfm?ID=185 The Foreign Born from India in the United States], dated December 1, 2003</ref><ref>{{cite web|url=https://www.census.gov/population/cen2000/phc-t6/tab02.pdf|title=Census 2000 PHC-T-6. Population by Race and Hispanic or Latino Origin for the United States, Regions, Divisions, States, Puerto Rico, and Places of 100,000 or More Population: Table 2. Percent of Population by Race and Hispanic or Latino Origin, for the United States, Regions, Divisions, and States, and for Puerto Rico: 2000|format=PDF|accessdate=July 25, 2010}}</ref><ref>[https://www.census.gov/population/cen2000/atlas/divers.xls Mapping Census 2000: The Geography of U.S. Diversity] (Microsoft Excel)</ref><ref name="censusbrief">{{cite web|url=https://www.census.gov/prod/2004pubs/c2kbr-35.pdf |archive-url=https://web.archive.org/web/20040920132346/http://www.census.gov/prod/2004pubs/c2kbr-35.pdf |dead-url=yes |archive-date=September 20, 2004 |title=Ancestry: 2000&nbsp;– Census 2000 Brief |format=PDF |publisher=U.S. Census Bureau |date=June 2004 |accessdate=June 19, 2013 |df= }}</ref> with [[Bergen County]] home to America's largest [[Malayali]] community.<ref>[http://40days.homestead.com/Day_22_-_People.pdf]. Retrieved January 16, 2016.</ref> Overall, New Jersey has the third largest [[Korean American|Korean]] population, with Bergen County home to the highest Korean concentration per capita of any U.S. county<ref name="Richard Newman">{{cite web|url=http://www.northjersey.com/news/business/167951555_Korean_company_to_buy_Fort_Lee_bank_buying_local_lender.html |title=Korean company to buy Fort Lee bank |author=Richard Newman  |date=August 30, 2012 |accessdate=January 16, 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20131014140239/http://www.northjersey.com/news/business/167951555_Korean_company_to_buy_Fort_Lee_bank_buying_local_lender.html |archivedate=October 14, 2013  }}</ref> (6.9% in 2011). New Jersey also has the fourth largest [[Filipino American|Filipino]] population, and fourth largest [[Chinese American|Chinese]] population, per the 2010 U.S. Census. The five largest ethnic groups in 2000 were: [[Italian-American|Italian]] (17.9%), [[Irish American|Irish]] (15.9%), [[African American|African]] (13.6%), [[German American|German]] (12.6%), [[Polish American|Polish]] (6.9%).
+
+Newark was the fourth poorest of U.S. cities with over 250,000 residents in 2008,<ref>{{cite news|work=Buffalo Business First|title=Buffalo named third-poorest city in U.S.|date=September 29, 2009|last=Thomas|first=G. Scott|url=http://buffalo.bizjournals.com/buffalo/stories/2009/09/28/daily18.html|accessdate=November 25, 2009}}</ref> but New Jersey as a whole had the second-highest [[median household income]] as of 2014.<ref name=NJMedianIncome/> This is largely because so much of New Jersey consists of suburbs, most of them affluent, of New York City and [[Philadelphia]]. New Jersey is also the most densely populated state, and the only state that has had every one of its counties deemed "urban" as defined by the [[United States Census Bureau|Census Bureau]]'s [[Combined Statistical Area]].<ref>{{cite web|url=https://www.census.gov/population/estimates/metro-city/99mfips.txt|title=Metropolitan Areas and Components, 1999, with FIPS codes|accessdate=July 25, 2010}}</ref>
+[[File:Broad Avenue Palisades Park.jpg|thumb|[[Bergen County, New Jersey#Korean American|Bergen County]] is home to [[List of U.S. cities with significant Korean-American populations#Top ten municipalities as ranked by Korean-American percentage of overall population in 2010|all of the nation's top ten municipalities by percentage of Korean population]], led by [[Koreatown, Palisades Park|Palisades Park]] (above), a [[borough (New Jersey)|borough]] where [[Koreans]] comprise the majority (52%) of the population.<ref>{{cite web|url=http://quickfacts.census.gov/qfd/states/34/3455770lk.html |title=Palisades Park borough, New Jersey QuickLinks |publisher=United States Census Bureau |accessdate=August 8, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140513134539/http://quickfacts.census.gov/qfd/states/34/3455770lk.html |archivedate=May 13, 2014 |df= }}</ref><ref>{{cite web|url=https://www.nytimes.com/2012/05/19/nyregion/monument-in-palisades-park-nj-irritates-japanese-officials.html |title=In New Jersey, Memorial for 'Comfort Women' Deepens Old Animosity|work=The New York Times|author=Kirk Semple|date=May 18, 2012|accessdate=August 8, 2014}}</ref>]]
+[[File:India Square JC jeh.JPG|thumb|[[India Square]], [[Jersey City, New Jersey|Jersey City]], known as ''Little [[Bombay]]'',<ref>Kiniry, Laura. "Moon Handbooks New Jersey", Avalon Travel Publishing, 2006. pg. 34 {{ISBN|1-56691-949-5}}. Retrieved April 10, 2015.</ref> home to the highest concentration of [[Indians in the New York City metropolitan region|Asian Indians]] in the [[Western Hemisphere]].<ref>{{cite news|url=http://www.jerseycityindependent.com/2014/04/neighborhood-spotlight-journal-square/|title=Neighborhood Spotlight: Journal Square|author=Laryssa Wirstiuk|newspaper=Jersey City Independent|date=April 21, 2014|accessdate=April 10, 2015}}</ref> Immigrants from [[India]] constituted the largest [[foreign born|foreign-born]] nationality in New Jersey in 2013.<ref name=IndiaNewJersey/>]]
+[[File:New Jersey Counties by metro area labeled.svg|thumb|upright|[[Metropolitan statistical areas and divisions of New Jersey]]. The [[New York City Metropolitan Area]] includes the counties shaded in blue hues, as well as [[Mercer County, New Jersey|Mercer]] and [[Warren County, New Jersey|Warren]] counties, the latter representing part of the [[Lehigh Valley]]. Counties shaded in green hues, as well as [[Atlantic County, New Jersey|Atlantic]], [[Cape May County, New Jersey|Cape May]], and [[Cumberland County, New Jersey|Cumberland]] counties, belong to the [[Philadelphia Metropolitan Area]].]]
+
+In 2010, 6.2% of its population was reported as under age 5, 23.5% under 18, and 13.5% were 65 or older; and females made up approximately 51.3% of the population.<ref>{{cite web|url=http://quickfacts.census.gov/qfd/states/34000lk.html|title=New Jersey QuickLinks Demographic profile from the 2010 Census:|publisher=United States Census Bureau|accessdate=June 17, 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130607110742/http://quickfacts.census.gov/qfd/states/34000lk.html|archivedate=June 7, 2013}}</ref>
+
+A study by the [[Pew Research Center]] found that in 2013, New Jersey was the only U.S. state in which immigrants born in [[India]] constituted the largest [[foreign born|foreign-born]] nationality, representing roughly 10% of all foreign-born residents in the state.<ref name=IndiaNewJersey>{{cite web|url=http://www.nj.com/news/index.ssf/2015/10/whats_the_top_country_of_birth_for_immigrants_in_nj.html#incart_2box_nj-homepage-featured|title=What's the top country of birth for immigrants in N.J.?|author=Erin O'Neill|publisher=New Jersey On-Line LLC|date=October 19, 2015|accessdate=October 19, 2015}}</ref>
+
+For further information on various ethnic groups and neighborhoods prominently featured within New Jersey, see the following articles:
+* [[Indians in the New York City metropolitan region]]
+* [[Chinese in the New York City metropolitan region]]
+* [[List of U.S. cities with significant Korean American populations#Top ten municipalities as ranked by Korean-American percentage of overall population in 2010|List of U.S. cities with significant Korean American populations]]
+* [[Filipinos in the New York City metropolitan region]]
+* [[Filipinos in New Jersey]]
+* [[Russians in the New York City metropolitan region]]
+* [[Bergen County#Community diversity|Bergen County]]
+* [[Jersey City#Community diversity|Jersey City]]
+* [[India Square]] in Jersey City, home to the highest concentration of [[Asian Indian]]s in the [[Western Hemisphere]]
+* [[Ironbound]], a [[Portuguese people|Portuguese]] and [[Brazilian people|Brazilian]] enclave in [[Newark, New Jersey|Newark]]
+* [[Five Corners, Jersey City|Five Corners]], a [[Filipinos in the New York City metropolitan region|Filipino]] enclave in Jersey City
+* [[Havana on the Hudson]], a [[Cuban people|Cuban]] enclave in [[Hudson County, New Jersey|Hudson County]]
+* [[Koreatown, Fort Lee]], a Korean enclave in southeast Bergen County
+* [[Koreatown, Palisades Park]], also a Korean enclave in southeast Bergen County
+* [[Bangladeshi American#Demographics|Little Bangladesh]], a [[Bangladeshi American|Bangladeshi]] enclave in [[Paterson, New Jersey|Paterson]]
+* [[Little Istanbul]], also known as [[Ramallah|Little Ramallah]], a Middle Eastern enclave in Paterson
+* [[Little Lima]], a [[Peruvian American|Peruvian]] enclave in Paterson
+
+===Birth data===
+As of 2011, 56.4% of New Jersey's population younger than age 1 were minorities (meaning that they had at least one parent who was not non-Hispanic white).<ref>{{cite web|title=Americans under age 1 now mostly minorities, but not in Ohio: Statistical SnapshotM|url=http://www.cleveland.com/datacentral/index.ssf/2012/06/americas_under_age_1_populatio.html|website=The Plain Dealer|publisher=Advance Ohio|accessdate=September 11, 2016}}</ref>
+
+''Note: Births in table don't add up, because Hispanics are counted both by their ethnicity and by their race, giving a higher overall number.''
+{| class="wikitable"
+|+ Live Births by Single Race/Ethnicity of Mother
+|-
+! [[Race and ethnicity in the United States Census|Race]]
+! 2013<ref>https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf</ref>
+! 2014<ref>https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_12.pdf</ref>
+! 2015<ref>https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf</ref>
+! 2016<ref>https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_01.pdf</ref>
+|-
+| [[White Americans|White]]:
+| 71,729 (69.9%)
+| 71,033 (68.8%)
+| 72,400 (70.2%)
+| ...
+|-
+| > [[Non-Hispanic whites|Non-Hispanic White]]
+| 48,018 (46.8%)
+| 48,196 (46.6%)
+| 47,425 (46.0%)
+| 46,076 (44.9%)
+|-
+| [[African Americans|Black]]
+| 19,139 (18.7%)
+| 20,102 (19.4%)
+| 18,363 (17.8%)
+| 13,870 (13.5%)
+|-
+| [[Asian Americans|Asian]]
+| 11,511 (11.2%)
+| 11,977 (11.6%)
+| 12,192 (11.8%)
+| 12,053 (11.7%)
+|-
+| [[Native Americans in the United States|American Indian]]
+| 196 (0.2%)
+| 193 (0.2%)
+| 172 (0.2%)
+| 62 (0.0%)
+|-
+| ''[[Hispanic and Latino Americans|Hispanic]]'' (of any race)
+| ''27,251 (26.6%)''
+| ''27,267 (26.4%)''
+| ''27,919 (27.1%)''
+| ''28,083 (27.3%)''
+|-
+| '''Total New Jersey'''
+| '''102,575''' (100%)
+| '''103,305''' (100%)
+| '''103,127''' (100%)
+| '''102,647''' (100%)
+|}
+* Since 2016, data for births of [[White Hispanic and Latino Americans|White Hispanic]] origin are not collected, but included in one ''Hispanic'' group; persons of Hispanic origin may be of any race.
+
+===Languages===
+{|id="gujjuinjersey" class="wikitable sortable" style="margin-left:1em; float:center"
+|+'''Top 10 Non-English Languages Spoken in New Jersey'''
+|-
+! Language !! Percentage of population<br /><small>(as of 2010)</small><ref name="MLA Data"/>
+|-
+| Spanish || 14.59%
+|-
+| Chinese (including [[Cantonese language|Cantonese]] and [[Standard Chinese|Mandarin]]) || 1.23%
+|-
+| Italian || 1.06%
+|-
+| [[Portuguese language|Portuguese]] || 1.06%
+|-
+| [[Filipino language|Filipino]] || 0.96%
+|-
+| [[Korean language|Korean]] || 0.89%
+|-
+| [[Gujarati language|Gujarati]] || 0.83%
+|-
+| [[Polish language|Polish]] || 0.79%
+|-
+| [[Hindi language|Hindi]] || 0.71%
+|-
+| [[Arabic language|Arabic]] || 0.62%
+|-
+| Russian || 0.56%
+|}
+
+As of 2010, 71.31% (5,830,812) of New Jersey residents age 5 and older spoke English at home as a [[primary language]], while 14.59% (1,193,261) spoke Spanish, 1.23% (100,217) Chinese (which includes [[Cantonese]] and [[Standard Chinese|Mandarin]]), 1.06% (86,849) Italian, 1.06% (86,486) [[Portuguese language|Portuguese]], 0.96% (78,627) [[Tagalog language|Tagalog]], and [[Korean language|Korean]] was spoken as a [[main language]] by 0.89% (73,057) of the population over the age of five. In total, 28.69% (2,345,644) of New Jersey's population age 5 and older spoke a [[mother language]] other than English.<ref name="MLA Data">{{cite web|url=http://www.mla.org/map_data|title=New Jersey|publisher=[[Modern Language Association]]|accessdate=August 19, 2013}}</ref>
+
+A diverse collection of languages has since evolved amongst the state's population, given that New Jersey has become [[multiculturalism|cosmopolitan]] and is home to [[ethnic enclave]]s of non-English-speaking communities:<ref>{{cite web|url=https://www.dhs.gov/yearbook-immigration-statistics-2012-legal-permanent-residents|title=Yearbook of Immigration Statistics: 2012 Supplemental Table 1|publisher=U.S. Department of Homeland Security|accessdate=June 19, 2013}}</ref><ref>{{cite web|url=https://www.dhs.gov/files/statistics/publications/LPR11.shtm|title=Yearbook of Immigration Statistics: 2011 Supplemental Table 1|publisher=U.S. Department of Homeland Security|accessdate=June 19, 2013}}</ref><ref>{{cite web|url=https://www.dhs.gov/files/statistics/publications/LPR10.shtm|title=Yearbook of Immigration Statistics: 2010 Supplemental Table 1|publisher=U.S. Department of Homeland Security|accessdate=June 19, 2013}}</ref><ref>{{cite web|url=https://www.dhs.gov/files/statistics/publications/LPR09.shtm|title=Yearbook of Immigration Statistics: 2009 Supplemental Table 1|publisher=U.S. Department of Homeland Security|accessdate=June 19, 2013}}</ref>
+<small>
+* [[Albanian language|Albanian]] – [[Paterson, New Jersey|Paterson]], [[Garfield, New Jersey|Garfield]]
+* [[Arabic language|Arabic]] – Paterson, [[Jersey City, New Jersey|Jersey City]]
+* [[Armenian language|Armenian]] – [[Bergen County, New Jersey|Bergen County]]
+* [[Indonesian language|Bahasa Indonesia]] – [[Gloucester City, New Jersey|Gloucester City]], [[Middlesex County, New Jersey|Middlesex]], [[Somerset County, New Jersey|Somerset]], and [[Union County, New Jersey|Union]] counties
+* [[Bengali language|Bengali]] – Paterson
+* [[Cantonese]]
+* [[Persian language|Farsi]]
+* [[Greek language|Greek]]
+* [[Gujarati language|Gujarati]]
+* [[Hebrew language|Hebrew]]
+* [[Hindi]] – Jersey City, Edison, Iselin, Mount Laurel, Cherry Hill, Princeton, Robbinsville
+* Italian- widespread across the state especially in [[Camden County, New Jersey|Camden County]], Essex, and Bergen counties.
+* Japanese – [[Edgewater, New Jersey|Edgewater]] and [[Fort Lee, New Jersey|Fort Lee]] [[borough (New Jersey)|boroughs]] in Bergen County
+* [[Kannada language|Kannada]]
+* [[Korean language|Korean]] – [[Bergen County, New Jersey#Korean American|Bergen County (numerous municipalities)]]; [[Cherry Hill, New Jersey|Cherry Hill]]
+* [[Macedonian language|Macedonian]] – Bergen County
+* [[Malayalam]] – Bergen County
+* [[Standard Chinese|Mandarin Chinese]]
+* [[Marathi language|Marathi]]
+* [[Polish language|Polish]] – Bergen County ([[Garfield, New Jersey|Garfield]], [[Wallington, New Jersey|Wallington]]); Mercer County ([[Top Road, Trenton, New Jersey|Top Road]], [[Lawrence Township, Mercer County, New Jersey|Lawrence Township]], [[Hopewell, New Jersey|Hopewell]]); [[Linden, New Jersey|Linden]]
+* [[Portuguese language|Portuguese]] – [[Ironbound]] section of [[Newark, New Jersey|Newark]]; [[Elizabeth, New Jersey|Elizabeth]]
+* [[Punjabi language|Punjabi]]
+* Russian – [[Fair Lawn, New Jersey|Fair Lawn]] borough of Bergen County, Princeton area and Mercer County
+* Spanish- widespread across the state.
+* [[Tagalog language|Tagalog]]
+* [[Tamil language|Tamil]]
+* [[Telugu language|Telugu]]
+* [[Turkish language|Turkish]] – [[Little Istanbul]] section of Paterson, [[Mount Ephraim, New Jersey|Mount Ephraim]] (which has a large, vibrant and growing Turkish Community), Delran, Cherry Hill
+* [[Ukrainian language|Ukrainian]]
+* [[Urdu]] – Mount Ephraim has a significant number of residents of Pakistani origin.
+* [[Vietnamese language|Vietnamese]] – [[Atlantic City, New Jersey|Atlantic City]], [[Little Saigon, Philadelphia|Camden/Cherry Hill]], [[Edison Township, New Jersey|Edison Township]], [[Jersey City]]
+* [[Yiddish language|Yiddish]] – [[Lakewood Township, New Jersey|Lakewood Township]], [[Ocean County, New Jersey|Ocean County]]</small>
+<gallery mode="packed" heights="180">
+File:Constitution Park Fort Lee New Jersey.JPG|High-rise residential complexes in the borough of [[Fort Lee, New Jersey|Fort Lee]], Bergen County
+File:Downtown-paterson-nj2.jpg|[[Paterson, New Jersey|Paterson]], known as the "Silk City",<ref>{{cite web|url=http://www.patersonnj.gov/|title=City of Paterson&nbsp;– Silk City|accessdate=April 2, 2013}}</ref> has become a prime destination for an internationally diverse pool of immigrants,<ref>{{cite web|url=http://yumimmigrantcity.com/restaurants/machu-picchu/a-brief-history-of-peruvian-immigration-to-the-united-states/|title=A Brief History of Peruvian Immigration to the United States|publisher=yumimmigrantcity.com|accessdate=April 2, 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130731004838/http://yumimmigrantcity.com/restaurants/machu-picchu/a-brief-history-of-peruvian-immigration-to-the-united-states/|archivedate=July 31, 2013|df=mdy-all}}</ref><ref>{{cite web|url=http://thealternativepress.com/articles/patersons-bengali-community-takes-pride-in-akhta|title=Paterson's Bengali Community Takes Pride in Akhtaruzzaman's Upset Victory|author1=Joe Malinconico  |author2=Charlie Kratovil |lastauthoramp=yes |publisher=The Alternative Press|date=May 9, 2012|accessdate=April 2, 2013}}</ref> with at least 52 distinct ethnic groups.<ref>{{cite web|url=http://www.northjersey.com/news/political-battle-brewing-over-paterson-s-plans-for-hispanic-heritage-month-event-1.1096285|title=Political battle brewing over Paterson's plans for Hispanic Heritage Month event|author=Joe Malinconico|date=September 25, 2014|accessdate=September 27, 2014}}</ref>
+File:New Jersey skyline.jpg|Skyscrapers in [[Jersey City, New Jersey|Jersey City]], one of the most [[ethnic diversity|ethnically diverse]] cities in the world.<ref name=DiverseJC1>{{cite news|url=http://www.nj.com/hudson/index.ssf/2015/02/jersey_city_named_most_ethnically_linguistically_d.html|title=Jersey City named most diverse city in America: report|author=Summer Dawn Hortillosa|newspaper=The Jersey Journal|date=February 17, 2015|accessdate=May 16, 2015}}</ref><ref name=DiverseJC2>{{cite web|url=http://www.movoto.com/jersey-city-nj/jersey-city-facts/|title=53 Things You Probably Didn't Know About Jersey City|author=Spencer McKee|publisher=Movoto|accessdate=May 16, 2015}}</ref>
+File:CamdenNJ FedCourt.jpg|Federal Courthouse in [[Camden, New Jersey|Camden]], which is connected to [[Philadelphia]] via the [[Benjamin Franklin Bridge]] in the background
+</gallery>
+
+===Religion===
+{{Cat see also|Religion in New Jersey}}
+{{bar box
+|title=Religion in New Jersey (2014)<ref name="pew2014">{{cite web|url=http://www.pewforum.org/religious-landscape-study/state/new-jersey/|title=Religious Landscape Study|date=May 11, 2015|website=''PewForum.org''|access-date=December 21, 2017}}</ref>
+|titlebar=
+|left1=Religion
+|right1=Percent
+|float=left
+|bars=
+{{bar percent|[[Catholic]]|DodgerBlue|34}}
+{{bar percent|[[Protestant]]|DarkViolet|31}}
+{{bar percent|[[Irreligion|No religion]]|black|18}}
+{{bar percent|[[Jewish]]|yellow|6}}
+{{bar percent|[[Hindu]]|cyan|3}}
+{{bar percent|[[Muslim]]|green|3}}
+{{bar percent|[[Mormon]]|red|1}}
+{{bar percent|[[Eastern Orthodox]]|brown|1}}
+{{bar percent|[[Jehovah's Witness]]|violet|1}}
+{{bar percent|Other faith|grey|2}}
+{{bar percent|Don't know|pink|1}}
+}}
+{{clear}}
+By number of adherents, the largest denominations in New Jersey, according to the [[Association of Religion Data Archives]] in 2010, were the [[Roman Catholic Church]] with 3,235,290; [[Islam]] with 160,666; and the [[United Methodist Church]] with 138,052.<ref name="www.thearda.com">{{cite web|url=http://www.thearda.com/rcms2010/r/s/34/rcms2010_34_state_adh_2010.asp|title=State Membership Report|publisher=The Association of Religion Data Archives|accessdate=December 16, 2013}}</ref> The world's largest [[Hindu temple]] was inaugurated in [[Robbinsville, New Jersey|Robbinsville]], [[Mercer County, New Jersey|Mercer County]], in [[central New Jersey]] during 2014, a [[BAPS]] temple.<ref>{{cite web|url=http://www.nbcnews.com/news/asian-america/worlds-largest-hindu-temple-being-built-new-jersey-n166616|title=World's Largest Hindu Temple Being Built in New Jersey|author=Frances Kai-Hwa Wang|publisher=NBC News|date=July 28, 2014|accessdate=October 14, 2016}}</ref>
+<gallery mode="packed" heights="160">
+File:Facade of Sacred Heart Cathedral, Newark.jpg|[[Cathedral Basilica of the Sacred Heart (Newark)|Cathedral Basilica of the Sacred Heart]] in [[Newark, New Jersey|Newark]], the fifth-largest cathedral in North America, is the seat of the city's [[Roman Catholic Archdiocese of Newark|Roman Catholic Archdiocese]].
+File:Temple Sharey Tefilo Israel.JPG|Temple Sharey Tefilo-Israel, in [[South Orange, New Jersey|South Orange]], [[Essex County, New Jersey|Essex County]]. New Jersey is home to the second-highest [[American Jews#Demographics|Jewish American]] ([[Hebrew]]) population per capita, after [[New York (state)|New York]].
+File:BAPS Robbinsville Mandir - mandir interior.jpg|[[Akshardham (New Jersey)|Swaminarayan Akshardham]] ([[Devnagari]]) in [[Robbinsville, New Jersey|Robbinsville]], [[Mercer County, New Jersey|Mercer County]], inaugurated in 2014 as the world's largest [[Hindu temple]].<ref name="World'sLargestHinduTempleNJ">{{cite web|url=http://www.nbcnews.com/news/asian-america/worlds-largest-hindu-temple-being-built-new-jersey-n166616|title=World's Largest Hindu Temple Being Built in New Jersey|author=Frances Kai-Hwa Wang|publisher=NBC News|accessdate=December 3, 2016}}</ref>
+File:Iftar in Patterson New Jersey.jpg|''[[Little Ramallah]]'' in [[Paterson, New Jersey|Paterson]] is an increasingly popular destination for [[Muslim]] immigrants.
+</gallery>
+
+===Settlements===
+{{See also|List of counties in New Jersey}}
+# [[Bergen County, New Jersey|Bergen County]]: 905,116<ref name=NJCensusfacts/>
+# [[Middlesex County, New Jersey|Middlesex County]]: 809,858
+# [[Essex County, New Jersey|Essex County]]: 783,969
+# [[Hudson County, New Jersey|Hudson County]]: 634,266
+# [[Monmouth County, New Jersey|Monmouth County]]: 630,380
+# [[Ocean County, New Jersey|Ocean County]]: 576,567
+# [[Union County, New Jersey|Union County]]: 536,499
+# [[Camden County, New Jersey|Camden County]]: 513,657
+# [[Passaic County, New Jersey|Passaic County]]: 501,226
+# [[Morris County, New Jersey|Morris County]]: 492,276
+
+{{See also|List of municipalities in New Jersey}}
+For its overall population and nation-leading population density, New Jersey has a relative paucity of classic large cities. This paradox is most pronounced in [[Bergen County, New Jersey|Bergen County]], New Jersey's most populous county, whose more than 930,000 residents in 2014 inhabited 70 municipalities, the most populous being [[Hackensack, New Jersey|Hackensack]], with 44,519 residents estimated in 2014. Many urban areas extend far beyond the limits of a single large city, as New Jersey cities (and indeed municipalities in general) tend to be geographically small; three of the four largest cities in New Jersey by population have under 20 square miles of land area, and eight of the top ten, including all of the top five have land area under 30 square miles. {{As of|2010|alt=As of the [[United States 2010 Census]]}}, only<!--not POV at all. Regular use of "only" as a comparative--> four municipalities had populations in excess of 100,000, although Edison and Woodbridge came very close.
+{| class="wikitable sortable collapsible"
+|+Largest municipalities in New Jersey in terms of area
+! Rank !! Name !! Area (sq.mi.) !! Area (km<sup>2</sup>) !! County
+|-
+| style="text-align:right;"|1 || [[Galloway Township, New Jersey|Galloway Township]]
+| {{convert|115.2|sqmi|disp=table}} || [[Atlantic County, New Jersey|Atlantic County]]
+|-
+| style="text-align:right;"|2 || [[Hamilton Township, Atlantic County, New Jersey|Hamilton Township]]
+| {{convert|113.0|sqmi|disp=table}} || [[Atlantic County, New Jersey|Atlantic County]]
+|-
+| style="text-align:right;"|3 || [[Washington Township, Burlington County, New Jersey|Washington Township]]
+| {{convert|102.9|sqmi|disp=table}} || [[Burlington County, New Jersey|Burlington County]]
+|-
+| style="text-align:right;"|4 || [[Jackson Township, New Jersey|Jackson Township]]
+| {{convert|100.1|sqmi|disp=table}} || [[Ocean County, New Jersey|Ocean County]]
+|-
+| style="text-align:right;"|5 || [[Lacey Township, New Jersey|Lacey Township]]
+| {{convert|98.5|sqmi|disp=table}} || [[Ocean County, New Jersey|Ocean County]]
+|-
+| style="text-align:right;"|6 || [[Woodland Township, New Jersey|Woodland Township]]
+| {{convert|96.4|sqmi|disp=table}} || [[Burlington County, New Jersey|Burlington County]]
+|-
+| style="text-align:right;"|7 || [[Maurice River Township, New Jersey|Maurice River Township]]
+| {{convert|95.7|sqmi|disp=table}} || [[Cumberland County, New Jersey|Cumberland County]]
+|-
+| style="text-align:right;"|8 || [[Middle Township, New Jersey|Middle Township]]
+| {{convert|83.1|sqmi|disp=table}} || [[Cape May County, New Jersey|Cape May County]]
+|-
+| style="text-align:right;"|9 || [[Manchester Township, New Jersey|Manchester Township]]
+| {{convert|82.9|sqmi|disp=table}} || [[Ocean County, New Jersey|Ocean County]]
+|-
+| style="text-align:right;"|10 || [[West Milford, New Jersey|West Milford]]
+| {{convert|80.4|sqmi|disp=table}} || [[Passaic County, New Jersey|Passaic County]]
+|-
+| style="text-align:right;"|11 || [[Bass River Township, New Jersey|Bass River Township]]
+| {{convert|78.2|sqmi|disp=table}} || [[Burlington County, New Jersey|Burlington County]]
+|-
+| style="text-align:right;"|12 || [[Egg Harbor Township, New Jersey|Egg Harbor Township]]
+| {{convert|75.0|sqmi|disp=table}} || [[Atlantic County, New Jersey|Atlantic County]]
+|-
+| style="text-align:right;"|13 || [[Little Egg Harbor Township, New Jersey|Little Egg Harbor Township]]
+| {{convert|73.2|sqmi|disp=table}} || [[Ocean County, New Jersey|Ocean County]]
+|-
+| style="text-align:right;"|14 || [[Lower Alloways Creek Township, New Jersey|Lower Alloways Creek Township]]
+| {{convert|72.6|sqmi|disp=table}} || [[Salem County, New Jersey|Salem County]]
+|-
+| style="text-align:right;"|15 || [[Vernon Township, New Jersey|Vernon Township]]
+| {{convert|70.5|sqmi|disp=table}} || [[Sussex County, New Jersey|Sussex County]]
+|-
+| style="text-align:right;"|16 || [[Upper Township, New Jersey|Upper Township]]
+| {{convert|68.5|sqmi|disp=table}} || [[Cape May County, New Jersey|Cape May County]]
+|-
+| style="text-align:right;"|17 || [[Wantage Township, New Jersey|Wantage Township]]
+| {{convert|67.5|sqmi|disp=table}} || [[Sussex County, New Jersey|Sussex County]]
+|-
+| style="text-align:right;"|18 || [[Dennis Township, New Jersey|Dennis Township]]
+| {{convert|64.3|sqmi|disp=table}} || [[Cape May County, New Jersey|Cape May County]]
+|-
+| style="text-align:right;"|19 || [[Pemberton Township, New Jersey|Pemberton Township]]
+| {{convert|62.5|sqmi|disp=table}} || [[Burlington County, New Jersey|Burlington County]]
+|-
+| style="text-align:right;"|20 || [[Howell Township, New Jersey|Howell Township]]
+| {{convert|61.0|sqmi|disp=table}} || [[Monmouth County, New Jersey|Monmouth County]]
+|-
+| style="text-align:right;"|21 || [[Middletown Township, New Jersey|Middletown Township]]
+| {{convert|59.3|sqmi|disp=table}} || [[Monmouth County, New Jersey|Monmouth County]]
+|-
+| style="text-align:right;"|22 || [[Hopewell Township, Mercer County, New Jersey|Hopewell Township]]
+| {{convert|58.7|sqmi|disp=table}} || [[Mercer County, New Jersey|Mercer County]]
+|-
+| style="text-align:right;"|23 || [[Winslow Township, Camden County, New Jersey|Winslow Township]]
+| {{convert|58.1|sqmi|disp=table}} || [[Camden County, New Jersey|Camden County]]
+|-
+| style="text-align:right;"|24 || [[Mullica Township, New Jersey|Mullica Township]]
+| {{convert|56.9|sqmi|disp=table}} || [[Atlantic County, New Jersey|Atlantic County]]
+|-
+| style="text-align:right;"|25 || [[Berkeley Township, New Jersey|Berkeley Township]]
+| {{convert|55.8|sqmi|disp=table}} || [[Ocean County, New Jersey|Ocean County]]
+|-
+| style="text-align:right;"|26 || [[Hillsborough Township, New Jersey|Hillsborough Township]]
+| {{convert|54.8|sqmi|disp=table}} || [[Somerset County, New Jersey|Somerset County]]
+|-
+| style="text-align:right;"|26 || [[Stafford Township, New Jersey|Stafford Township]]
+| {{convert|54.8|sqmi|disp=table}} || [[Ocean County, New Jersey|Ocean County]]
+|}
+{{Largest cities
+| name = Largest cities
+| country = New Jersey
+| stat_ref = Source:<ref>https://www.census.gov/quickfacts/fact/table/newarkcitynewjersey,jerseycitycitynewjersey,patersoncitynewjersey,elizabethcitynewjersey,edisontownshipmiddlesexcountynewjersey,woodbridgetownshipmiddlesexcountynewjersey/PST045216</ref><ref>https://www.census.gov/quickfacts/fact/table/lakewoodtownshipoceancountynewjersey,tomsrivertownshipoceancountynewjersey,hamiltontownshipmercercountynewjersey,trentoncitynewjersey/PST045216</ref>
+| list_by_pop =
+| class = nav
+| div_name =
+| div_link = List of counties in New Jersey{{!}}County
+| city_1 = Newark, New Jersey{{!}}Newark
+| div_1 = Essex County, New Jersey{{!}}Essex
+| pop_1 = 281,764
+| img_1 = Newark October 2016 001.jpg
+| city_2 = Jersey City, New Jersey{{!}}Jersey City
+| div_2 = Hudson County, New Jersey{{!}}Hudson
+| pop_2 = 264,152
+| img_2 = Jersey_City_Skyline_Jan_2006.jpg
+| city_3 = Paterson, New Jersey{{!}}Paterson
+| div_3 = Passaic County, New Jersey{{!}}Passaic
+| pop_3 = 147,100
+| img_3 = City_of_Paterson,_NJ_from_Garret_Mountain.JPG
+| city_4 = Elizabeth, New Jersey{{!}}Elizabeth
+| div_4 = Union County, New Jersey{{!}}Union
+| pop_4 = 128,640
+| img_4 = File-UnionCoCourtHouse.JPG
+| city_5 = Edison, New Jersey{{!}}Edison
+| div_5 = Middlesex County, New Jersey{{!}}Middlesex
+| pop_5 = 101,996
+| img_5 =
+| city_6 = Woodbridge Township, New Jersey{{!}}Woodbridge Township
+| div_6 = Middlesex County, New Jersey{{!}}Middlesex
+| pop_6 = 101,389
+| img_6 =
+| city_7 = Lakewood Township, New Jersey{{!}}Lakewood Township
+| div_7 = Ocean County, New Jersey{{!}}Ocean
+| pop_7 = 100,758
+| img_7 =
+| city_8 = Toms River, New Jersey{{!}}Toms River
+| div_8 = Ocean County, New Jersey{{!}}Ocean
+| pop_8 = 91,837
+| img_8 =
+| city_9 = Hamilton Township, Mercer County, New Jersey {{!}}Hamilton Township (Mercer)
+| div_9 = Mercer County, New Jersey{{!}} Mercer
+| pop_9 = 88,400
+| img_9 =
+| city_10 = Trenton, New Jersey{{!}}Trenton
+| div_10 = Mercer County, New Jersey{{!}}Mercer
+| pop_10 = 84,056
+| img_10 =
+}}
+
+===Wealth===
+{{Main|New Jersey locations by per capita income}}
+
+==Economy==
+{{See also|New Jersey locations by per capita income}}
+[[File:Tree Map of Employment by Industries in New Jersey %282015%29.svg|thumb|upright=1.5|Employment by industries]]
+[[File:1999 NJ Proof.png|thumb|right|The New Jersey State Quarter, released in 1999, with a depiction of [[Washington Crossing the Delaware (1851 painting)|Washington Crossing the Delaware]]]]
+The U.S. [[Bureau of Economic Analysis]] estimates that New Jersey's gross state product in 2016 was $575&nbsp;billion.<ref>[https://www.bea.gov/iTable/iTable.cfm?reqid=70&step=10&isuri=1&7003=200&7035=-1&7004=sic&7005=1&7006=xx&7036=-1&7001=1200&7002=1&7090=70&7007=-1&7093=levels#reqid=70&step=10&isuri=1&7003=200&7004=naics&7035=-1&7005=1&7006=xx&7001=1200&7036=-1&7002=1&7090=70&7007=-1&7093=levels]</ref> New Jersey's estimated taxpayer burden in 2015 was $59,400 per taxpayer.<ref name="The Institute for Truth in Accounting">{{cite web|url=http://www.statedatalab.org/state_data_and_comparisons/detail/new-jersey|title=Financial state of the state: New Jersey|accessdate=October 16, 2016}}</ref>
+
+===Affluence===
+New Jersey's [[List of U.S. states by GDP per capita (nominal)|per capita gross state product]] in 2008 was $54,699, second in the U.S. and above the national per capita gross domestic product of $46,588.<ref name = BEAState>{{cite web|url=https://www.bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_k.pdf|title=Selected Regional Estimates|date=January 11, 2009|publisher=BEA.gov|accessdate=January 7, 2010}}</ref> Its per capita income was the third highest in the nation with $51,358.<ref name=BEAState/> In 2013, the state had the second-largest number of millionaires per capita in the United States (ratio of 7.49%), according to a study by Phoenix Marketing International.<ref>{{cite web|last=Frank|first=Robert|title=Top states for millionaires per capita|url=https://www.cnbc.com/id/101338309|publisher=CNBC|accessdate=January 22, 2014}}</ref> It is ranked second in the nation by the number of places with per capita incomes above national average with 76.4%. Nine of New Jersey's counties are in the wealthiest 100 of the country.
+
+[[File:Map of Income by Location in New Jersey.png|thumb|left|upright=1.2|A heat map showing median income distribution by county in New Jersey.]]
+
+===Fiscal policy===
+New Jersey has seven [[tax bracket]]s that determine [[state income tax]] rates, which range from 1.4% (for income below $20,000) to 8.97% (for income above $500,000).<ref>[http://www.state.nj.us/treasury/taxation/pdf/current/njtaxratesch.pdf New Jersey Tax Rate Schedules 2017], [[New Jersey Department of Treasury]]. Retrieved February 26, 2018.</ref>
+
+The standard [[sales tax]] rate as of January 1, 2018, is 6.625%, applicable to all retail sales unless specifically exempt by law. This rate, which is comparably lower than that of New York City, often attracts numerous shoppers from New York City, often to suburban [[Paramus]], New Jersey, which has five malls, one of which (the [[Garden State Plaza]]) has over two million square feet of retail space. [[Tax exemption]]s include most food items for at-home preparation, medications, most clothing, footwear and disposable paper products for use in the home.<ref>[http://www.state.nj.us/treasury/taxation/pdf/pubs/sales/su4.pdf New Jersey Sales Tax Guide], [[New Jersey Department of Treasury]]. Retrieved February 26, 2018.</ref> There are 27 [[Urban Enterprise Zone]] statewide, including sections of [[Paterson, New Jersey|Paterson]], [[Elizabeth, New Jersey|Elizabeth]], and [[Jersey City, New Jersey|Jersey City]]. In addition to other benefits to encourage employment within the zone, shoppers can take advantage of a reduced 3.3125% [[sales tax]] rate (half the rate rate charged statewide) at eligible merchants.<ref>[http://www.nj.gov/njbusiness/financing/uez/ Urban Enterprise Zone Program], State of New Jersey. Retrieved January 8, 2018.</ref><ref>[http://www.nj.gov/dca/affiliates/uez/publications/pdf/NJUEZ_Locations.pdf New Jersey Urban Enterprise Zone Locations], [[New Jersey Department of Community Affairs]], locations as of January 1, 2017. Retrieved January 8, 2018.</ref><ref>[http://www.state.nj.us/treasury/news/2017/p12272017a.pdf "NJ Division of Taxation Reminds Consumers & Business Owners That Sales Tax Rate Will Change to 6.625% in the New Year"], [[New Jersey Department of Treasury]], press release dated December 27, 2017. Retrieved January 8, 2018. "The New Jersey Division of Taxation is reminding business owners that the State Sales and Use Tax rate will be reduced to 6.625% on Jan. 1, 2018.... Rates for State Sales Tax in Urban Enterprise Zones also will change on Jan. 1, 2018. The rate in a designated UEZ will be 50 percent of the Sales Tax rate, or 3.3125 percent. The previous UEZ rate was 3.4375 percent."</ref>
+
+New Jersey has the highest cumulative tax rate of all 50 states with residents paying a total of $68&nbsp;billion in state and local taxes annually with a per capita burden of $7,816 at a rate of 12.9% of income.<ref>{{cite web|url=http://247wallst.com/2011/07/21/108558/3/|title=States Where People Pay The Most (And Least) In Taxes |publisher=24/7 Wall St.|date=July 21, 2011|accessdate=May 17, 2012}}</ref> All [[real property]] located in the state is subject to [[property tax]] unless specifically exempted by statute. New Jersey does not assess an intangible personal property tax, but it does impose an [[inheritance tax]].
+
+===Federal taxation disparity===
+New Jersey consistently ranks as having one of the highest proportional levels of disparity of any state in the United States, based upon what it receives from the federal government relative to what it gives. In 2015, WalletHub ranked New Jersey the state least dependent upon federal government aid overall and having the fourth lowest return on taxpayer investment from the federal government, at 48 cents per dollar.<ref>{{cite web|url=http://wallethub.com/edu/states-most-least-dependent-on-the-federal-government/2700/#main-findings|title=2015's States Most & Least Dependent on the Federal Government|publisher=Evolution Finance|accessdate=April 26, 2015}}</ref>
+
+New Jersey has one of the highest tax burdens in the nation.<ref name=taxfoundation>{{cite web | url=http://taxfoundation.org/state-tax-climate/new-jersey | title=New Jersey | at=New Jersey's State and Local Tax Burden Above National Average | publisher=[[Tax Foundation]] | accessdate=January 4, 2014}}</ref> Factors for this include the large federal tax liability which is not adjusted for New Jersey's higher cost of living and Medicaid funding formulas. As shown by the study, incomes tend to be higher in New Jersey, which puts those in higher tax brackets especially vulnerable to the [[alternative minimum tax]].
+
+===Industries===
+[[File:Cranberrys beim Ernten.jpeg|thumb|right|[[Cranberry]] harvest]]
+{{further|Biotech and pharmaceutical companies in New Jersey}}
+New Jersey's economy is multifaceted, but is centered on the [[pharmaceutical industry]], the [[financial industry]], chemical development, telecommunications, food processing, electric equipment, printing, publishing, and tourism. New Jersey's agricultural outputs are nursery stock, horses, vegetables, fruits and nuts, seafood, and dairy products.<ref>{{cite web|url=http://www.njbiz.com/article/20170613/NJBIZ01/170619950/maersk-aims-to-shore-up-nj-shipping-industry-with-direct-financing-service.|title=Maersk aims to shore up N.J. shipping industry with direct financing service – NJBIZ}}</ref> New Jersey ranks second among states in [[blueberry]] production, third in [[cranberry|cranberries]] and [[spinach]], and fourth in [[bell peppers]], [[peach]]es, and [[lettuce|head lettuce]].<ref>{{cite news|author=Judith H. Dobrzynski|title=A Garden Crawl Through the Garden State|url=https://www.nytimes.com/2010/06/25/garden/25garden.html|quote=Nowadays New Jersey ranks second among states in blueberry production, third in cranberries and spinach and fourth in bell peppers, peaches and head lettuce, the official state Web site, nj.gov, boasts.|work=The New York Times|date=June 24, 2010|accessdate=June 25, 2010|authorlink=Judith H. Dobrzynski}}</ref> The state harvests the fourth-largest number of acres planted with asparagus.<ref>{{cite news|title=It's No Tomato, but a Stalk Gets Some Respect|url=https://www.nytimes.com/2012/05/06/nyregion/in-new-jersey-asparagus-takes-its-place-at-the-table.html#h|quote=... New Jersey harvests the fourth-largest number of acres dedicated to asparagus in the nation.|newspaper=[[The New York Times]]|date=May 4, 2012|accessdate=May 7, 2012}}</ref>
+
+Although New Jersey is home to many energy-intensive industries, its energy consumption is only 2.7% of the U.S. total, and its [[carbon dioxide emissions]] are 0.8% of the U.S. total. Its comparatively low [[greenhouse gas]] emissions can be attributed to the state's use of [[nuclear power]]. According to the [[Energy Information Administration]], nuclear power dominates New Jersey's electricity market, typically supplying more than one-half of state generation. New Jersey has three nuclear power plants, including the [[Oyster Creek Nuclear Generating Station]], which came online in 1969 and is the oldest operating nuclear plant in the country.<ref>{{cite web|url=http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=NJ|title=EIA State Energy Profiles: New Jersey|date=June 12, 2008|accessdate=June 23, 2008|archive-url=https://web.archive.org/web/20080507034707/http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=NJ#|archive-date=May 7, 2008|dead-url=yes|df=mdy-all}}</ref>
+
+New Jersey has a strong scientific economy and is home to major pharmaceutical and telecommunications firms, drawing on the state's large and well-educated labor pool. There is also a strong service economy in retail sales, education, and real estate, serving residents who work in New York City or Philadelphia.
+
+Shipping is a key industry in New Jersey because of the state's strategic geographic location, the [[Port of New York and New Jersey]] being the busiest port on the [[East Coast of the United States|East Coast]]. The [[Port Newark-Elizabeth Marine Terminal]] was the world's first [[container port]] and today is one of the world's largest.
+
+New Jersey hosts several business headquarters, including twenty-four [[Fortune 500]] companies.<ref>{{cite news|url=http://money.cnn.com/magazines/fortune/fortune500/2007/states/NJ.html|title=Fortune 500 2007&nbsp;– States: New Jersey|date=March 30, 2007|accessdate=May 30, 2007|publisher=CNN}}</ref> [[Paramus, New Jersey|Paramus]] in [[Bergen County, New Jersey|Bergen County]] has become the top retail [[zip code]] (07652) in the United States, with the municipality generating over $5&nbsp;billion annually in retail sales.<ref>{{cite web|url=http://www.bergen.com/guide/shopping/Billion-Dollar_Bergen.html|title=Billion-Dollar Bergen: Retail reigns supreme throughout the county|author=Laura Adams|date=July 29, 2010|accessdate=March 21, 2014}}</ref><ref>{{cite web|url=http://www.northjersey.com/realestate/113835354_More_than_shopping.html|title=Paramus appeal goes beyond retail|author=Violet Snow|date=January 16, 2011|accessdate=March 21, 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20131212111637/http://www.northjersey.com/realestate/113835354_More_than_shopping.html|archivedate=December 12, 2013}}</ref> Several New Jersey counties, such as [[Somerset County, New Jersey|Somerset]] (7), [[Morris County, New Jersey|Morris]] (10), [[Hunterdon County, New Jersey|Hunterdon]] (13), [[Bergen County, New Jersey|Bergen]] (21), [[Monmouth County, New Jersey|Monmouth]] (42) are ranked among the [[highest-income counties in the United States]].
+
+====Tourism====
+[[File:Atlantic City skyline from 47th floor of Revel.jpg|thumb|[[Atlantic City]], looking southward, is an [[seaside resort|oceanfront resort]] and the nexus of New Jersey's [[casino|gambling industry]].]]
+New Jersey's location at the center of the [[Northeast megalopolis]] and its extensive transportation system have put over one-third of all United States residents and many Canadian residents within overnight distance by land. This accessibility to consumer revenue has enabled [[seaside resort]]s such as [[Atlantic City, New Jersey|Atlantic City]] and the remainder of the [[Jersey Shore]], as well as the state's other natural and cultural attractions, to contribute significantly to New Jersey's tourism revenue of $43.4&nbsp;billion and 95 million tourist visits in 2015, directly supporting 318,330 jobs and sustaining more than 512,000 jobs including peripheral impacts.<ref>{{cite web|url=http://www.state.nj.us/state/pdf/2015-nj-economic-impact.pdf|title=The Economic Impact of Tourism in New Jersey – Tourism Satellite Account Calendar Year 2015|publisher=Tourism Economics and the State of New Jersey|accessdate=December 3, 2016}}</ref>
+
+====Gambling====
+{{Main|Gambling in New Jersey}}
+In 1976, a referendum of New Jersey voters approved [[casino]] gambling in Atlantic City, where the first legalized casino opened in 1978.<ref>{{cite web|url=http://njmonthly.com/articles/towns_and_schools/history/30-and-counting-legalized-gambling.html|title=30 and Counting: Legalized Gambling|author=Brett Avery|website=New Jersey Monthly|date=February 5, 2008|accessdate=October 24, 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131030001609/http://njmonthly.com/articles/towns_and_schools/history/30-and-counting-legalized-gambling.html|archivedate=October 30, 2013}}</ref> At that time, [[Las Vegas Valley|Las Vegas]] was the only other casino resort in the country.<ref>{{cite news|title=Gambling Becomes Legal in New Jersey |url=https://news.google.com/newspapers?id=ejEeAAAAIBAJ&sjid=VL4EAAAAIBAJ&pg=4008,3062175&dq=gambling+in+new+jersey&hl=en |quote=The nation's only legal gambling casino outside Nevada won state approval Thursday night and planned Friday morning opening ... |agency=Associated Press |date=May 26, 1978 |accessdate=November 4, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110713173036/http://www.newsweek.com/feature/2011/americas-best-high-schools.html |archivedate=July 13, 2011 }}</ref> Today, several casinos lie along the Atlantic City [[Atlantic City#Boardwalk|Boardwalk]],<ref name=acbrdwlk>{{cite web | url=http://www.atlanticcitynj.com/visitors/thingstodo/attractions/boardwalk.aspx | title=Atlantic City Boardwalk | at=¶1 | accessdate=January 4, 2014 | publisher=The Atlantic City Convention & Visitors Authority}}{{self-published inline|date=January 2014}}</ref> the first and longest boardwalk in the world.<ref name=visitnj>{{cite web | url=http://www.visitnj.org/boardwalk | title=Boardwalk | publisher=The State of New Jersey, Division of Travel and Tourism | accessdate=January 4, 2014}}{{self-published inline|date=January 2014}}</ref> Atlantic City experienced a dramatic contraction in its stature as a gambling destination after 2010, including the closure of multiple casinos since 2014, spurred by competition from the advent of legalized gambling in other northeastern U.S. states.<ref>{{cite web|url=http://philly.curbed.com/2016/8/4/12376514/trump-taj-mahal-closed-atlantic-city-casinos|title=The Shuttered Casinos of Atlantic City|author=Melissa Romero|date=August 4, 2016|accessdate=December 3, 2016}}</ref><ref>{{cite web|url=http://www.northjersey.com/news/revel-had-wanted-to-shut-down-casino-on-monday-1.1068856|title=Revel had wanted to shut down casino on Monday|author=Wayne Parry, Associated Press|date=August 17, 2014|accessdate=August 18, 2014}}</ref> On February 26, 2013, Governor Chris Christie signed [[online gambling]] into law.<ref>{{cite web|url=http://www.nj.com/politics/index.ssf/2013/02/gov_christie_signs_internet_ga.html|title=Gov. Christie signs internet gambling into law|author=Ryan Hutchins|date=February 27, 2013|work=The Star-Ledger|accessdate=April 2, 2013}}</ref>
+
+===Natural resources===
+Forests cover 45%, or approximately 2.1&nbsp;million acres, of New Jersey's land area.<ref>{{cite web|url=http://www.fs.fed.us/ne/newtown_square/publications/brochures/pdfs/state_forests/nj_forest.pdf|title=Trends in New Jersey Forests|publisher=Department of Environmental Protection, N.J. Forestry Services and United States Department of Agriculture|accessdate=March 13, 2015}}</ref> The chief tree of the northern forests is the [[oak]]. The [[Pine Barrens (New Jersey)|Pine Barrens]], consisting of [[pine]] forests, is in the southern part of the state.
+
+Some mining activity of [[zinc]], iron, and [[manganese]] still takes place in the area in and around the [[Franklin Furnace]].
+
+New Jersey is second in the nation in [[Solar power in New Jersey|solar power]] installations,<ref>{{cite web|url=http://www.seia.org/state-solar-policy/New-Jersey|title=New Jersey Solar|publisher=Solar Energy Industries Association|accessdate=August 18, 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20131102002400/http://www.seia.org/state-solar-policy/New-Jersey|archivedate=November 2, 2013}}</ref> enabled by one of the country's most favorable [[net metering]] policies, and the renewable energy certificates program. The state has more than 10,000 solar installations.<ref>{{cite web|url=http://www.earthtechling.com/2011/08/solar-shore-jersey-hits-10000-installations/|title=Solar Shore: Jersey Hits 10,000 Installations – EarthTechling|accessdate=March 12, 2017}}</ref>
+
+==Education==
+{{See also|Post-secondary education in New Jersey|Primary education in the United States|Secondary education in the United States|Higher education in the United States|Education in the United States}}
+[[File:Bishop House, New Brunswick, NJ - campus gate.jpg|thumb|right|[[Bishop House (New Brunswick, New Jersey)|Bishop House]] at [[Rutgers University]], the flagship of public higher education in New Jersey, in [[New Brunswick, New Jersey|New Brunswick]], [[Middlesex County, New Jersey|Middlesex County]]]]
+[[File:Princeton (6035183309).jpg|thumb|left|Cleveland Tower in [[Princeton University]], one of the world's most prominent research universities,<ref name=PrincetonUSNews2>{{cite web|url=https://www.usnews.com/best-colleges/princeton-university-2627|title=Princeton University|work=[[U.S. News & World Report]]|accessdate=September 10, 2018}}</ref> [[Princeton, New Jersey|Princeton]], [[Mercer County, New Jersey|Mercer County]]]]
+In 2010, there were 605 [[List of school districts in New Jersey|school districts in the state]].<ref name="wp100422">{{cite news|first=George F.|last=Will|title=The thunder from New Jersey|url=https://www.washingtonpost.com/wp-dyn/content/article/2010/04/21/AR2010042104451.html?hpid=opinionsbox1|work=The Washington Post|location=Washington, D.C.|pages= A19|date=April 22, 2010}}</ref>
+
+Secretary of Education Rick Rosenberg, appointed by Governor [[Jon Corzine]], created the Education Advancement Initiative (EAI) to increase college admission rates by 10% for New Jersey's high school students, decrease dropout rates by 15%, and increase the amount of money devoted to schools by 10%. Rosenberg retracted this plan when criticized for taking the money out of healthcare to fund this initiative.
+
+In 2010, the state government paid all of the teachers' premiums for health insurance,<ref name="wp100422"/> but currently all NJ public teachers pay a portion of their own health insurance premiums.
+
+In 2015, New Jersey spent more per each public school student than any other U.S. state except [[New York (state)|New York]], [[Alaska]], and [[Connecticut]], amounting to $18,235 spent per pupil. Over 50% of the expenditure was allocated to student instruction.<ref>{{cite web|url=http://www.governing.com/gov-data/education-data/state-education-spending-per-pupil-data.html|title=Education Spending Per Student by State|publisher=GOVERNING – e.Republic|accessdate=March 4, 2018}}</ref>
+
+According to 2011 ''[[Newsweek]]'' statistics, students of [[High Technology High School]] in [[Lincroft, New Jersey|Lincroft]], [[Monmouth County, New Jersey|Monmouth County]] and [[Bergen County Academies]] in [[Hackensack, New Jersey|Hackensack]], [[Bergen County, New Jersey|Bergen County]] registered average [[SAT]] scores of 2145 and 2100, respectively,<ref name=newsweekHS2011>{{cite web|url=http://www.newsweek.com/feature/2011/americas-best-high-schools.html |title=America's Best High Schools 2011 |date=June 19, 2011 |website=Newsweek |accessdate=July 13, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110711212026/http://www.newsweek.com/feature/2011/americas-best-high-schools.html |archivedate=July 11, 2011 }}</ref> representing the second- and third-highest scores, respectively, of all listed U.S. high schools.<ref name=newsweekHS2011/>
+
+[[Princeton University]] in [[Princeton, New Jersey|Princeton]], [[Mercer County, New Jersey|Mercer County]], one of the world's most prominent research universities, is often featured at or near the top of various national and global university rankings, topping the 2019 list of ''[[U.S. News & World Report]]''.<ref name=PrincetonUSNews>{{cite web|url=https://www.usnews.com/best-colleges/rankings/national-universities |title=National University Rankings |work=[[U.S. News & World Report]] |accessdate=September 10, 2018}}</ref> In 2013, [[Rutgers University]], headquartered in [[New Brunswick, New Jersey|New Brunswick]], [[Middlesex County, New Jersey|Middlesex County]] as the flagship institution of higher education in New Jersey, gained [[medical school|medical]] and [[dental school]]s, augmenting its profile as a national research university as well.<ref name="RutgersRef">{{cite web|url=http://www.northjersey.com/news/education/A_new_Rutgers_debuts_after_official_merger.html |title=Rutgers a 'world-class university,' school president says at merger ceremony  |author=Patricia Alex |date=July 2, 2013 |accessdate=July 2, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130901190055/http://www.northjersey.com/news/education/A_new_Rutgers_debuts_after_official_merger.html |archivedate=September 1, 2013  }}</ref>
+
+In 2014, New Jersey's school systems were ranked at the top of all fifty U.S. states by financial website Wallethub.com.<ref>{{cite web|url=http://www.nj.com/education/2014/08/new_jersey_has_the_best_school_systems_in_us_report_says.html|title=New Jersey has the best school systems in U.S., report says|author=Alex Napoliello|publisher=New Jersey On-Line LLC|date=August 4, 2014|accessdate=August 5, 2014}}</ref> In 2018, New Jersey's overall educational system was ranked second among all states to [[Massachusetts]] by ''U.S. News & World Report''.<ref>{{cite web|url=https://www.usnews.com/news/best-states/slideshows/10-best-states-for-education?int=undefined-rec&slide=10|title=The 10 Best U.S. States for Education – 2. New Jersey|work=[[U.S. News & World Report]]|date=February 27, 2018|accessdate=May 2, 2018}}</ref>
+
+Nine New Jersey high schools were ranked among the top 25 in the U.S. on the ''Newsweek'' "America's Top High Schools 2016" list, more than from any other state.<ref>{{cite web|url=http://www.newsweek.com/high-schools/americas-top-high-schools-2016|title=America's Top High Schools 2016|work=[[Newsweek]]|year=2016|accessdate=August 12, 2016}}</ref> A 2017 UCLA Civil Rights project found that [[Education segregation in New Jersey|New Jersey has the sixth-most segregated classrooms in the United States]].<ref name="wnyc171116">{{cite news|last1=Pattani|first1=Aneri|title=New Jersey Schools Becoming More Segregated, New Report Finds|url=http://www.wnyc.org/story/new-jersey-schools-becoming-more-segregated-new-report-finds/|accessdate=December 10, 2017|publisher=WNYC|date=November 16, 2017}}</ref>
+
+==Culture==
+[[File:GatewayVueNB.jpg|thumb|upright|[[New Brunswick, New Jersey|Downtown New Brunswick]], Middlesex County, an educational and cultural district undergoing [[gentrification]]]]
+
+===General===
+New Jersey has continued to play a prominent role as a U.S. cultural nexus. Like every state, New Jersey has its own [[Cuisine of New Jersey|cuisine]], [[Religion in New Jersey|religious communities]], [[List of museums in New Jersey|museums]], and [[:Category:Halls of fame in New Jersey|halls of fame]].
+
+New Jersey is the birthplace of modern inventions such as: [[FM radio]], the motion picture camera, the [[lithium battery]], the [[light bulb]], [[transistor]]s, and the electric train. Other New Jersey creations include: the drive-in movie, the cultivated [[blueberry]], [[cranberry sauce]], the postcard, the [[boardwalk]], the [[zipper]], the [[phonograph]], [[saltwater taffy]], the [[dirigible]], the [[watermelon|seedless watermelon]],<ref>{{cite web|url=http://www.njinvent.njit.edu/1992/pioneer_inductees_1992/andrews.html |archiveurl=https://web.archive.org/web/20060901073622/http://www.njinvent.njit.edu/1992/pioneer_inductees_1992/andrews.html |archivedate=September 1, 2006 |title=New Jersey Inventors Hall of Fame |publisher=Njinvent.njit.edu |accessdate=July 25, 2010 |deadurl=yes  }}</ref> the [[David Bushnell|first use]] of a [[submarine]] in warfare, and the [[ice cream cone]].<ref>{{cite news|title=His Cones 'Original'|url=https://news.google.com/newspapers?nid=1798&dat=19711019&id=EPgeAAAAIBAJ&sjid=HY0EAAAAIBAJ&pg=6103,3154999|accessdate=June 11, 2014|issue=Vol 20 No. 130|work=Sarasota Journal|date=November 19, 1971}}</ref>
+[[File:A 50's Style Diner.jpg|thumb|A 1950s-style [[diner]] in [[Orange, New Jersey|Orange]], [[Essex County, New Jersey|Essex County]]]]
+
+[[Diner]]s are iconic to New Jersey. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world.<ref>{{cite web|url=http://www.50states.com/facts/newjerse.htm|title=New Jersey Facts and Trivia|publisher=50states.com|accessdate=July 25, 2010}}</ref>
+
+New Jersey is the only state without a state song. ''I'm From New Jersey'' is incorrectly listed on many websites as being the New Jersey state song, but it was not even a contender when in 1996 the New Jersey Arts Council submitted their suggestions to the [[New Jersey Legislature]].<ref>{{cite web|url=http://www.aboutnewjersey.com/editorials/stateSong_3_15_04.php|archive-url=https://web.archive.org/web/20070811193314/http://www.aboutnewjersey.com/editorials/stateSong_3_15_04.php|dead-url=yes|archive-date=August 11, 2007|title=The History of the New Jersey State Song?|publisher=Aboutnewjersey.com|accessdate=July 25, 2010}}</ref>
+
+New Jersey is frequently the target of jokes in American culture,<ref>{{cite news|url=http://www.cbsnews.com/news/why-does-new-jersey-get-no-respect/|title=Why does New Jersey get no respect?|author=<!-- Staff -->|publisher=[[CBS News]]|date=January 16, 2011|accessdate=April 12, 2016}}</ref> especially from New York City-based television shows, such as ''[[Saturday Night Live]]''. Academic [[Michael Aaron Rockland]] attributes this to New Yorkers' view that New Jersey is the beginning of [[Middle America (United States)|Middle America]]. The [[New Jersey Turnpike]], which runs between two major East Coast cities, New York City and [[Philadelphia]], is also cited as a reason, as people who traverse through the state may only see its industrial zones.<ref name=sjt>{{cite news|url=http://www.nj.com/washington-township-times/index.ssf/2014/07/the_jersey_joke_rutgers_profes.html|title=The Jersey Joke: Rutgers professor recounts long history of New Jersey as a punchline|last=Caffrey|first=Michelle|work=[[South Jersey Times]]|date=July 8, 2014|accessdate=April 12, 2016}}</ref> Reality television shows like ''[[Jersey Shore (TV series)|Jersey Shore]]'' and ''[[The Real Housewives of New Jersey]]'' have reinforced stereotypical views of New Jersey culture,<ref>{{cite web|url=http://articles.philly.com/2010-07-27/news/24969876_1_real-housewives-new-jersey-turnpike-new-jerseyans|title='Jersey Doesn't Stink' website defends state|last=Whelan|first=Aubrey|website=[[The Philadelphia Inquirer]]|date=July 27, 2010|accessdate=April 12, 2016}}</ref> but Rockland cited ''[[The Sopranos]]'' and the music of Bruce Springsteen as exporting a more positive image.<ref name=sjt/>
+
+===Cuisine===
+{{main|Cuisine of New Jersey}}
+
+New Jersey is known for several foods developed within the region, including [[Taylor Pork Roll|Taylor Ham]] (also known as [[Pork roll|pork roll)]], [[cheesesteak]]s, and [[scrapple]].
+
+Several states with substantial Italian American populations take credit for the development of [[submarine sandwich]]es, including New Jersey.<ref>{{cite web|url=http://www.verbatimmag.com/28_3.pdf|title=Vol. 28/3}}</ref>
+
+===Music===
+{{Main|Music of New Jersey}}
+<!-- IF YOU ARE GOING TO ADD AN ENTRY HERE, PLEASE ONLY DO SO IF THE PERSON/GROUP IS TRULY NOTABLE (I.E. AS NOTABLE AS THE LIMITED LIST INCLUDED BELOW. OTHERWISE, ADD THE NEW ENTRY TO THE ARTICLE [[Music of New Jersey]] -->
+New Jersey has long been an important origin for both [[rock and roll|rock]] and [[hip hop music|rap]] music. Prominent musicians from or with significant connections to New Jersey include:
+* Singer [[Frank Sinatra]] was born in [[Hoboken, New Jersey|Hoboken]]. He sang with a neighborhood vocal group, the Hoboken Four, and appeared in neighborhood theater amateur shows before he became an [[Academy Awards|Academy Award]]–winning actor.
+* [[Bruce Springsteen]], who has sung of New Jersey life on most of his albums, is from [[Freehold Borough, New Jersey|Freehold]]. Some of his songs that represent New Jersey life are "[[Born to Run (song)|Born to Run]]", "Spirit in the Night," "[[Rosalita (Come Out Tonight)]]", "[[Thunder Road (song)|Thunder Road]]", "[[Atlantic City (song)|Atlantic City]]", and "[[Jungleland]]".
+* The [[Jonas Brothers]] all reside in Wyckoff, New Jersey, where the eldest and youngest brothers of the group, Kevin and Frankie Jonas, were born.
+* [[Irvington, New Jersey|Irvington]]'s [[Queen Latifah]] was one of the first female rappers to succeed in music, film, and television.<ref>{{Cite book|url=https://books.google.com/books?id=tAM5n9JVhYwC&pg=PA34&lpg=PA34&dq=queen+latifah+irvington&source=bl&ots=-qhCFk1LCk&sig=6YBB9D6K_LriLIlmfLW49jFsrMM&hl=en&sa=X&ved=2ahUKEwigkK2Sx-TfAhVJXq0KHUpDDwUQ6AEwFnoECAAQAQ#v=onepage&q=queen%20latifah%20irvington&f=false|title=Queen Latifah|last=Ruth|first=Amy|date=2001|publisher=Twenty-First Century Books|isbn=9780822549888|language=en}}</ref>
+* [[Lauryn Hill]] is from [[South Orange, New Jersey]]. Her 1998 debut solo album, ''[[The Miseducation of Lauryn Hill]]'', sold 10 million copies internationally.<ref>{{Cite news|url=http://adage.com/article/news/miseducation-lauryn-hill-stephanie-gayle/61993/|title='THE MISEDUCATION OF LAURYN HILL': STEPHANIE GAYLE|access-date=18 July 2018}}</ref> She also sold millions with [[The Fugees]] second album ''[[The Score (Fugees album)|The Score]]''.<ref>{{Cite web|url=https://medium.com/the-passion-of-christopher-pierznik-books-rhymes/the-best-way-to-overcome-failure-8b50840f2509|title=From 12 Copies Sold to 10 Million — The Evolution of The Fugees|last=Pierznik|first=Christopher|date=2017-11-28|website=Medium|access-date=2018-12-13}}</ref>
+* [[Southside Johnny]], eponymous leader of Southside Johnny and the Asbury Jukes was raised in [[Ocean Grove, NJ|Ocean Grove]]. He is considered the "Grandfather of the New Jersey Sound"<ref>{{Cite web|url=http://www.whatsupmag.com/2018/12/03/184732/southside-johnny|title=Southside Johnny {{!}} What's Up Magazine|website=www.whatsupmag.com|language=en|access-date=2018-12-13}}</ref> and is cited by Jersey-born [[Jon Bon Jovi]] as his reason for singing.<ref>{{Cite web|url=https://www.npr.org/2018/04/13/602128269/jon-bon-jovi-reflects-on-a-music-career-that-surpassed-his-wildest-dreams|title=Jon Bon Jovi Reflects On A Music Career That Surpassed His 'Wildest Dreams'|website=NPR.org|language=en|access-date=2018-12-13}}</ref>
+* [[Redman (rapper)|Redman]] (Reggie Noble) was born, raised, and resides in [[Newark, New Jersey|Newark]].
+* All members of [[The Sugarhill Gang]] were born in [[Englewood, New Jersey|Englewood]].<ref>{{cite web|url=http://www.blackpast.org/aah/sugar-hill-gang-1979}}</ref>
+* [[Roc-A-Fella Records]] rap producer [[Just Blaze]] is from [[Paterson, New Jersey]].<ref name="Whitney Houston">{{Cite web|url=https://www.biography.com/people/whitney-houston-9344818|title=Whitney Houston|website=Biography|access-date=12 March 2018}}</ref>
+* [[Jon Bon Jovi]], from [[Sayreville, New Jersey|Sayreville]], reached fame in the 1980s with hard rock outfit [[Bon Jovi]]. The band has also written many songs about life in New Jersey including "Livin' On A Prayer"<ref>{{Cite web|url=https://www.tennessean.com/story/entertainment/music/2014/06/20/story-behind-song-livin-prayer/11103409/|title=Story Behind the Song: 'Livin on a Prayer'|website=The Tennessean|language=en|access-date=2019-01-11}}</ref> and named one of their albums after the state. (see [[New Jersey (album)|New Jersey]])
+* Singer [[Dionne Warwick]] was born in [[East Orange, New Jersey|East Orange]].<ref>{{cite web|url=https://www.biography.com/people/dionne-warwick-9524457|title=Dionne Warwick|website=Biography|access-date=4 February 2018}}</ref>
+* Singer [[Whitney Houston]] (who is Dionne Warwick's cousin) was born in [[Newark, New Jersey|Newark]], and grew up in neighboring [[East Orange, New Jersey|East Orange]].<ref name="Whitney Houston"/>
+* [[Jazz]] pianist and bandleader [[Count Basie]] was born in [[Red Bank, New Jersey|Red Bank]] in 1904.<ref>{{cite web|url=https://www.biography.com/people/count-basie-9201255|title=Count Basie|website=Biography|access-date=4 February 2018}}</ref> In the 1960s, he collaborated on several albums with fellow New Jersey native [[Frank Sinatra]].<ref>{{Cite web|url=https://www.allmusic.com/album/sinatra-basie-an-historic-musical-first-mw0000195377|title=Sinatra-Basie: An Historic Musical First - Frank Sinatra, Count Basie {{!}} Songs, Reviews, Credits|website=AllMusic|language=en-us|access-date=2019-01-11}}</ref> The [[Count Basie Theatre]] in Red Bank is named in his honor.
+* [[Parliament-Funkadelic]], the funk music collective, was formed in [[Plainfield, New Jersey|Plainfield]] by [[George Clinton (funk musician)|George Clinton]].{{citation needed|date=July 2014}}
+* [[Asbury Park, New Jersey|Asbury Park]] is home of [[The Stone Pony]], which [[Bruce Springsteen]] and [[Bon Jovi]] frequented early in their careers<ref>{{Cite news|url=http://www.nj.com/springsteen/index.ssf/2014/02/bruce_springsteens_most_memora.html|title=Bruce Springsteen at the Stone Pony: His most memorable performances|work=The Star-Ledger|access-date=4 February 2018}}</ref>
+* [[Hip-hop]] pioneers [[Naughty By Nature]] are from [[East Orange, New Jersey|East Orange]].<ref>{{Cite news|url=http://www.nj.com/essex/index.ssf/2016/07/naughty_by_nature_returns_to_nj_hometown_to_celebr.html|title=Naughty by Nature returns to N.J. hometown to celebrate 25th anniversary|work=The Star-Ledger|access-date=18 January 2018}}</ref>
+* In 1964, [[the Isley Brothers]] founded the record label [[T-Neck Records]], named after [[Teaneck, New Jersey|Teaneck]], their home at the time.<ref>{{Cite book|url=https://books.google.com/books?id=-FOSAgAAQBAJ&lpg=PA1053&dq=T-Neck&pg=PA1053#v=onepage&q=T-Neck&f=false|title=Encyclopedia of Recorded Sound|last=Hoffmann|first=Frank|date=November 12, 2004|publisher=Routledge|isbn=9781135949501|language=en}}</ref>
+* The Broadway musical "[[Jersey Boys]]" is based on the lives of the members of the [[The Four Seasons (group)|Four Seasons]], three of whose members were born in New Jersey ([[Tommy DeVito (musician)|Tommy DeVito]], [[Frankie Valli]], and [[Nick Massi]]) while a fourth [[Bob Gaudio]] was born out of state but raised in Bergenfield, NJ.{{citation needed|date=July 2014}}
+* [[Jazz pianist]] [[Bill Evans]] was born in [[Plainfield, New Jersey|Plainfield]] in 1929.<ref name="AMEvans">{{cite web | url=https://www.allmusic.com/artist/bill-evans-mn0000764702/biography | title=Bill Evans {{!}} Biography & History {{!}} AllMusic | publisher=AllMusic | accessdate=November 28, 2017 | author=Ginell, Richard S}}</ref>
+* [[Post-hardcore]] band [[Thursday (band)|Thursday]] was formed in [[New Brunswick, New Jersey]].<ref>{{cite web|last1=Green|first1=Brian|title=Thursday Biography|url=http://www.allmusic.com/artist/thursday-mn0000592595/songs|publisher=AllMusic|accessdate=September 13, 2017}}</ref> Numerous songs reference the city.{{citation needed|date=July 2014}}
+* Horror punk band [[Misfits (band)|The Misfits]] hail from [[Lodi, New Jersey|Lodi]], as well as their founder [[Glenn Danzig]].<ref>{{cite web|last1=Green|first1=Brian|title=Misfits Biography|url=http://www.allmusic.com/artist/misfits-mn0000891063/biography|publisher=AllMusic|accessdate=September 13, 2017}}</ref>
+* Punk rock poet [[Patti Smith]] is from [[Mantua, New Jersey|Mantua]].<ref>{{Cite news|url=https://www.newyorker.com/magazine/2002/03/11/the-torch-singer|title=The Torch Singer|last=DeLano|first=Sharon|date=March 4, 2002|work=The New Yorker|access-date=18 February 2018|issn=0028-792X}}</ref>
+* Indie rock veterans [[Yo La Tengo]] are based in [[Hoboken, New Jersey|Hoboken]].<ref>{{Cite web|url=https://njnext.com/theres-riot-going-jerseys-yo-la-tengo-dropping-new-album-march-16/|title='There's A Riot Going On': Jersey's Yo La Tengo Dropping New Album on March 16|date=2018-01-19|website=NJ NEXT {{!}} Events in New Jersey|language=en-US|access-date=2018-12-13}}</ref> They also have a song called "The Night Falls on Hoboken".
+* New Jersey was the East Coast hub for [[ska music]] in the 1990s. Some of the most popular ska bands, such as [[Catch 22 (band)|Catch 22]] and [[Streetlight Manifesto]], come from [[East Brunswick, New Jersey|East Brunswick]].{{citation needed|date=July 2014}}
+* Black Label Society's and Ozzy Osbourne's famed guitarist [[Zakk Wylde]] was born in [[Bayonne, New Jersey|Bayonne]]<ref>{{Cite web|url=https://www.rockcellarmagazine.com/2015/09/09/behind-the-curtain-zakk-wylde-beers-exercise-black-label-society/|title=Behind the Curtain: Sharing Studio Time (and Beer) With Zakk Wylde|last=Rosen|first=Steve|date=2015-09-09|website=Rock Cellar Magazine|language=en-US|access-date=2018-12-13}}</ref> and raised in [[Jackson, New Jersey|Jackson]]<ref>{{Cite web|url=https://njmonthly.com/articles/best-of-jersey/best-of-jersey-people-places-and-things/|title=The best places and things in New Jersey-www.njmonthly.com|date=2008-02-06|website=New Jersey Monthly|access-date=2018-12-13}}</ref>
+* [[The Bouncing Souls]] original four members grew up in [[Basking Ridge, New Jersey|Basking Ridge]] and formed in [[New Brunswick, New Jersey|New Brunswick]] in the late 1980s.{{citation needed|date=July 2014}}
+* As a child, singer [[Akon]] grew up in [[Union City, New Jersey]], [[Newark, New Jersey]], and [[Jersey City, New Jersey]].
+* [[My Chemical Romance]]'s [[Frank Iero]], [[Gerard Way]], [[Mikey Way]], and [[Ray Toro]] all are from New Jersey.{{citation needed|date=July 2014}}
+* [[Cobra Starship]] frontman Gabe Saporta is from New Jersey{{citation needed|date=July 2014}}
+* Punk band [[The Gaslight Anthem]] hails from New Brunswick, New Jersey.<ref>{{cite web|url=https://www.punknews.org/bands/thegaslightanthem|title=The Gaslight Anthem|last=Punknews.org|website=''Punknews.org''|access-date=4 February 2018}}</ref>
+* Experimental metal band [[The Dillinger Escape Plan]] are from [[Morris Plains, NJ]].<ref>{{Cite web|url=https://www.rollingstone.com/music/music-news/dillinger-escape-plans-10-craziest-shows-120336/|title=Dillinger Escape Plan's 10 Craziest Shows|last=Epstein|first=Dan|last2=Epstein|first2=Dan|date=2016-10-14|website=Rolling Stone|language=en-US|access-date=2018-12-13}}</ref>
+* [[Debbie Harry]], born in Miami, Florida, in 1945 but raised by her adoptive parents in [[Hawthorne, New Jersey|Hawthorne]].
+<!-- IF YOU ARE GOING TO ADD AN ENTRY HERE, PLEASE ONLY DO SO IF THE PERSON/GROUP IS TRULY NOTABLE (I.E. AS NOTABLE AS THE LIMITED LIST INCLUDED ABOVE. OTHERWISE, ADD THE NEW ENTRY TO THE ARTICLE [[Music of New Jersey]] -->
+
+===In comics and video games===
+* The fictional [[Gotham City]], home to [[Batman]], is depicted in [[DC Comics]] and the [[DC Extended Universe]] as being located in New Jersey.<ref>Montgomery, Paul (May 18, 2011). [http://ifanboy.com/articles/the-secret-geography-of-the-dc-universe-a-really-big-map/ "The Secret Geography of the DC Universe: A Really Big Map"]</ref><ref>''Amazing World of DC Comics'' No. 14, March 1974. DC Comics.</ref><ref>''World's Finest Comics'' No. 259, October–November 1979. DC Comics.</ref><ref>''Detective Comics #503'' June 1983. DC Comics.</ref><ref>''Atlas of the DC Universe'', 1990. DC Comics.</ref><ref>''Batman: Shadow of the Bat'' Annual #1, June 1993. DC Comics.</ref><ref>{{cite web|url=http://www.app.com/story/entertainment/movies/2016/08/05/review-suicide-squad-another-super-dc-mess/88286868/ |title=Review: 'Suicide Squad' |publisher=Asbury Park Press|date=August 5, 2016}}</ref><ref>{{cite web|url=http://www.comicbookresources.com/article/suicide-squad-the-biggest-revelations-from-the-latest-dc-film |title="Suicide Squad": The Biggest Revelations From The Latest DC Film |publisher=comicbookresources.com |date=August 7, 2016}}</ref>
+* ''[[The Lost and Damned]]'' (2009), ''[[The Ballad of Gay Tony]]'' and ''[[Max Payne 3]]'' (2012) take place in New Jersey.
+* The ''[[Grand Theft Auto]]'' series has parodied the state multiple times, with "New [[Guernsey]]" and "[[Alderney]] City" appearing as locations in games in the series.
+
+==Media==
+[[File:USA telephone area code map - New Jersey.svg|thumb|right|top|New Jersey's area codes]]
+
+===Newspapers===
+Major New Jersey newspapers including the following:
+{{div col|colwidth=20em}}
+* ''[[Asbury Park Press]]''
+* ''[[Burlington County Times]]''
+* ''[[Courier News (New Jersey)|Courier News]]''
+* ''[[Courier-Post]]''
+* ''Cranford Chronicle''
+* ''[[Daily Record (Morristown)|Daily Record]]'' (Morristown)<ref>{{cite web|url=http://www.nj.com/mediakit/ |title=New Jersey Advertising |work=The Star-Ledger |accessdate=July 25, 2010 |deadurl=yes |archiveurl=http://webarchive.loc.gov/all/20080919141432/http://www.nj.com/mediakit/ |archivedate=September 19, 2008 }}</ref>
+* ''[[The Express-Times]]''
+* ''[[Gloucester County Times]]''
+* ''[[Herald News]]''
+* ''[[Home News Tribune]]''
+* ''[[Hunterdon County Democrat]]''
+* ''Independent Press''
+* ''[[Jersey Journal]]''
+* ''[[The New Jersey Herald]]''<ref>{{cite web|url=http://www.njherald.com|title=The New Jersey Herald: Top Stories|publisher=Njherald.com|accessdate=July 25, 2010}}</ref>
+* ''[[The News of Cumberland County]]''
+* ''[[The Press of Atlantic City]]''
+* ''[[The Record (Bergen County)|The Record]]''<ref>{{cite web|url=http://www.northjersey.com|title=providing local news, sports & classifieds for Northern New Jersey!|publisher=NorthJersey.com|accessdate=July 25, 2010}}</ref>
+* ''The Record-Press and Suburban News''
+* ''The Reporter'' (Somerset)
+* ''[[The Star-Ledger]]''
+* [[The Times (Trenton)|''The Times'' (Trenton)]]
+* ''[[Today's Sunbeam]]''
+* ''[[Trentonian]]'' (Mercer)
+* ''The Warren Reporter''
+{{div col end}}
+
+===Radio stations===
+{{main|List of radio stations in New Jersey}}
+
+===Television and film===
+{{Main|Television and film of New Jersey}}
+
+Motion picture technology was developed by [[Thomas Edison]], with much of his early work done at his [[West Orange, New Jersey|West Orange]] laboratory. [[Edison's Black Maria]] was the first motion picture studio. [[America's first motion picture industry]] started in 1907 in [[Fort Lee, New Jersey|Fort Lee]] and the first studio was constructed there in 1909.<ref>{{cite web|url=http://www.fortleefilm.org/|title=Fort Lee Film Commission &#124; Fort Lee, NJ|publisher=Fortleefilm.org|accessdate=May 17, 2012}}</ref> [[DuMont Laboratories]] in [[Passaic, New Jersey|Passaic]] developed early sets and made the first broadcast to the private home.
+
+A number of television shows and films have been filmed in New Jersey. Since 1978, the state has maintained a Motion Picture and Television Commission to encourage filming in-state.<ref>{{cite web|url=http://www.njfilm.org/|title=NJ Motion Picture & Television Commission|publisher=Njfilm.org|accessdate=May 17, 2012}}</ref> New Jersey has long offered tax credits to television producers. Governor Chris Christie suspended the credits in 2010, but the [[New Jersey State Legislature]] in 2011 approved the restoration and expansion of the tax credit program. Under bills passed by both the state Senate and Assembly, the program offers 20 percent tax credits (22% in [[urban enterprise zone]]s) to television and film productions that shoot in the state and meet set standards for hiring and local spending.<ref name=crewsback>{{cite news|last=Wright|first=E. Assata|title=Getting the film crews back to NJ Gov. to decide future of tax credit that benefited Hudson County|newspaper=Hudson Reporter|date=February 20, 2011|url=http://www.hudsonreporter.com/view/full_story/11505447/article-Getting-the-film-crews-back-to-NJ-Gov--to-decide-future-of-tax-credit-that-benefited-Hudson-County-?|accessdate=February 21, 2011|archive-url=https://web.archive.org/web/20110712230629/http://www.hudsonreporter.com/view/full_story/11505447/article-Getting-the-film-crews-back-to-NJ-Gov--to-decide-future-of-tax-credit-that-benefited-Hudson-County-|archive-date=July 12, 2011|dead-url=yes|df=mdy-all}}</ref>
+
+==Transportation==
+{{Main|Transportation in New Jersey}}
+
+===Roadways===
+[[File:Map of New Jersey NA.png|thumb|right|Map of New Jersey showing major transportation networks and cities]]
+[[File:George Washington Bridge from New Jersey-edit.jpg|thumb|The [[George Washington Bridge]], connecting [[Fort Lee, New Jersey|Fort Lee]] (foreground) in [[Bergen County, New Jersey|Bergen County]] across the [[Hudson River]] to New York City, is the world's busiest motor vehicle bridge.<ref name="panynj.gov">{{cite web |url=http://www.panynj.gov/bridges-tunnels/george-washington-bridge.html |accessdate=March 10, 2014|title=Port Authority of New York and New Jersey – George Washington Bridge|publisher=The Port Authority of New York & New Jersey}}</ref><ref name=abcgwb>{{cite web|url=http://abcnews.go.com/US/george-washington-bridge-painters-dangerous-job-top-worlds/story?id=17771877|title=GW Bridge Painters: Dangerous Job on Top of the World's Busiest Bridge|author1=Bod Woodruff |author2=Lana Zak |author3=Stephanie Wash  |last-author-amp=yes |publisher=ABC News|date=November 20, 2012|accessdate=March 10, 2014}}</ref>]]
+{{See also|List of New Jersey State Highways}}
+The [[New Jersey Turnpike]] is one of the most prominent and heavily trafficked roadways in the United States. This [[toll road]], which overlaps with [[Interstate 95 in New Jersey|Interstate 95]] for much of its length, carries traffic between [[Delaware]] and New York, and up and down the [[East Coast of the United States|East Coast]] in general. Commonly referred to as simply "the Turnpike," it is known for its numerous [[rest area]]s named after prominent New Jerseyans.
+
+The [[Garden State Parkway]], or simply "the Parkway," carries relatively more in-state traffic than interstate traffic and runs from New Jersey's northern border to its southernmost tip at [[Cape May, New Jersey|Cape May]]. It is the main route that connects the [[New York metropolitan area]] to the [[Jersey Shore]] and is consistently one of the safest roads in the nation. With a total of 15 travel and 6 shoulder lanes, the [[Driscoll Bridge]] on the Parkway, spanning the [[Raritan River]] in [[Middlesex County, New Jersey|Middlesex County]], is the widest motor vehicle bridge in the world by number of lanes as well as one of the busiest.<ref>{{cite web|url=http://www.tollroadsnews.com/node/1492|title=Garden State Parkway opens world's widest bridge – 15 lanes|author=Peter Samuel|date=April 11, 2006|publisher=TOLLROADSnews|archiveurl=https://web.archive.org/web/20120323215304/https://www.tollroadsnews.com/node/1492|archivedate=March 23, 2012|deadurl=yes|accessdate=June 6, 2011}}</ref>
+
+New Jersey is connected to New York City via various key bridges and tunnels. The double-decked [[George Washington Bridge]] carries the heaviest load of motor vehicle traffic of any bridge in the world, at 102 million vehicles per year, across fourteen lanes.<ref name="panynj.gov"/><ref name=abcgwb/> It connects [[Fort Lee, New Jersey]] to the [[Washington Heights, Manhattan|Washington Heights]] neighborhood of [[Upper Manhattan]], and carries [[Interstate 95]] and [[U.S. Route 1/9]] across the [[Hudson River]]. The [[Lincoln Tunnel]] connects to [[Midtown Manhattan]] carrying [[New Jersey Route 495]], and the [[Holland Tunnel]] connects to [[Lower Manhattan]] carrying [[Interstate 78 in New Jersey|Interstate 78]]. New Jersey is also connected to [[Staten Island]] by three bridges&nbsp;– from north to south, the [[Bayonne Bridge]], the [[Goethals Bridge]], and the [[Outerbridge Crossing]].
+
+New Jersey has [[interstate compact]]s with all three of its neighboring states. The [[Port Authority of New York and New Jersey]], the [[Delaware River Port Authority]] (with [[Pennsylvania]]), the [[Delaware River Joint Toll Bridge Commission]] (with Pennsylvania), and the [[Delaware River and Bay Authority]] (with [[Delaware]]) operate most of the major transportation routes in and out of the state. Bridge tolls are collected only from traffic exiting the state, with the exception of the private [[Dingman's Ferry Bridge]] over the Delaware River, which charges a toll in both directions.
+
+It is unlawful for a customer to serve themselves gasoline in New Jersey. It became the last remaining U.S. state where all [[Filling station|gas stations]] are required to sell full-service gasoline to customers at all times in 2016, after [[Oregon]]'s introduction of restricted self-service gasoline availability took effect.<ref>{{cite web|url=http://www.hoodrivernews.com/news/2016/jan/06/self-serve-gas-legal-rural-oregon/|author=Patrick Mulvihill|title=Self-serve gas legal in rural Oregon|publisher=Eagle Newspapers, Inc|date=January 5, 2016 |accessdate=April 24, 2016}}</ref>
+
+===Airports===
+
+[[Newark Liberty International Airport]] is one of the [[List of the busiest airports in the United States|busiest airports]] in the United States. Operated by the [[Port Authority of New York and New Jersey]], it is one of the three main airports serving the New York City area. [[United Airlines]] is the airport's largest tenant, operating an entire terminal there, which it uses as one of its primary [[Airline hub|hubs]]. [[FedEx Express]] operates a large cargo terminal at Newark as well. The adjacent [[Newark Liberty International Airport (NJT station)|Newark Airport railroad station]] provides access to [[Amtrak]] and [[NJ Transit]] trains along the [[Northeast Corridor Line]].
+
+Two smaller commercial airports, [[Atlantic City International Airport]] and [[Trenton-Mercer Airport]], also operate in other parts of the state. [[Teterboro Airport]] in [[Bergen County, New Jersey|Bergen County]], and [[Millville Municipal Airport]] in [[Cumberland County, New Jersey|Cumberland County]], are [[general aviation]] airports popular with private and corporate aircraft due to their proximity to New York City and the [[Jersey Shore]], respectively.
+
+[[File:NECtrain3967.jpg|thumb|right|A [[NJ Transit]] train heads down the [[Northeast Corridor]] through [[Rahway, New Jersey]]]]
+
+===Rail and bus===
+{{Main|New Jersey Transit}}
+{{Further|New Jersey Transit Bus Operations|New Jersey Transit Rail Operations|Port Authority Trans-Hudson|PATCO Speedline}}[[File:Hudson bergen exchange place.jpg|thumb|right|Two [[Hudson-Bergen Light Rail]] trains in [[Jersey City]], New Jersey]]
+
+[[NJ Transit]] operates extensive rail and bus service throughout the state. A state-run corporation, it began with the consolidation of several private bus companies in [[North Jersey]] in 1979. In the early 1980s, it acquired [[Conrail]]'s commuter train operations that connected suburban towns to New York City. Today, NJ Transit has eleven [[commuter rail]] lines that run through different parts of the state. Most of the lines end at either New York's [[Pennsylvania Station (New York City)|Penn Station]] or [[Hoboken, New Jersey|Hoboken's]] [[Hoboken Terminal]]. One line provides service between [[Atlantic City, New Jersey|Atlantic City]] and [[Philadelphia]], Pennsylvania.
+
+NJ Transit also operates three [[light rail]] systems in the state. The [[Hudson-Bergen Light Rail]] connects [[Bayonne, New Jersey|Bayonne]] to [[North Bergen, New Jersey|North Bergen]], through [[Hoboken, New Jersey|Hoboken]] and [[Jersey City, New Jersey|Jersey City]]. The [[Newark Light Rail]] is partially underground, and connects downtown [[Newark, New Jersey|Newark]] with other parts of the city. The [[River Line (New Jersey Transit)|River Line]] connects [[Trenton, New Jersey|Trenton]] and [[Camden, New Jersey|Camden]].
+
+The [[Port Authority Trans-Hudson|PATH]] is a [[rapid transit]] system consisting of four lines operated by the [[Port Authority of New York and New Jersey]]. It links [[Hoboken, New Jersey|Hoboken]], [[Jersey City, New Jersey|Jersey City]], [[Harrison, New Jersey|Harrison]] and [[Newark, New Jersey|Newark]] with New York City. The [[PATCO Speedline]] is a rapid transit system that links [[Camden County, New Jersey|Camden County]] to Philadelphia. Both the PATCO and the PATH are two of only six rapid transit systems in the United States to operate 24 hours a day.
+
+[[Amtrak]] operates numerous long-distance passenger trains in New Jersey, both to and from neighboring states and around the country. In addition to the Newark Airport connection, other major Amtrak railway stations include [[Trenton (Amtrak station)|Trenton Transit Center]], [[Metropark (NJT station)|Metropark]], and the historic [[Pennsylvania Station (Newark)|Newark Penn Station]].
+
+The [[SEPTA|Southeastern Pennsylvania Transportation Authority]], or SEPTA, has two commuter rail lines that operate into New Jersey. The [[Trenton Line (SEPTA)|Trenton Line]] terminates at the [[Trenton Transit Center]], and the [[West Trenton Line (SEPTA)|West Trenton Line]] terminates at the [[West Trenton Rail Station]] in [[Ewing, New Jersey|Ewing]].
+
+[[AirTrain Newark]] is a [[monorail]] connecting the Amtrak/NJ Transit station on the Northeast Corridor to the airport's terminals and parking lots.
+
+Some private bus carriers still remain in New Jersey. Most of these carriers operate with state funding to offset losses and state owned buses are provided to these carriers, of which [[Coach USA]] companies make up the bulk. Other carriers include private charter and tour bus operators that take gamblers from other parts of New Jersey, New York City, Philadelphia, and [[Delaware]] to the casino resorts of Atlantic City.[[File:MVCapeHenlopen.jpg|thumb|right|The [[Cape May–Lewes Ferry]] connects New Jersey and [[Delaware]] across the [[Delaware Bay]]]]
+
+===Ferries===
+[[NY Waterway|New York Waterway]] has ferry terminals at [[Belford, New Jersey|Belford]], [[Jersey City]], Hoboken, [[Weehawken]], and [[Edgewater, New Jersey|Edgewater]], with service to different parts of Manhattan. [[Liberty Water Taxi]] in [[Jersey City]] has ferries from [[Paulus Hook]] and [[Liberty State Park]] to [[Battery Park City]] in Manhattan. [[Statue Cruises]] offers service from Liberty State Park to the [[Statue of Liberty National Monument]], including [[Ellis Island]]. [[SeaStreak]] offers services from the [[Raritan Bayshore]] to Manhattan, [[Martha's Vineyard]], and [[Nantucket]].
+
+On the [[Delaware Bay]], the [[Delaware River and Bay Authority]] operates the [[Cape May–Lewes Ferry]], carrying both passengers and vehicles from New Jersey to Deleware. The agency also operates the [[Forts Ferry Crossing]] for passengers across the [[Delaware River]]. The [[Delaware River Port Authority]] operates the [[RiverLink Ferry]] between the [[Camden, New Jersey|Camden]] waterfront and [[Penn's Landing]] in Philadelphia.
+
+==Government and politics==
+{{main|Government of New Jersey}}
+
+===Executive===
+{{Further|Governor of New Jersey|Lieutenant Governor of New Jersey}}
+{{multiple image
+|align            =right
+|direction        =horizontal
+|caption_align    =center
+|image1           =Philip D. Murphy (cropped).jpg
+|width1           =128
+|caption1         =[[Phil Murphy]] [[Democratic Party (United States)|(D)]]<br /><small>[[List of Governors of New Jersey|56th]] [[Governor of New Jersey|Governor]]<br />since January 16, 2018</small>
+|image2           =
+|width2           =140
+|caption2         =[[Sheila Oliver]] [[Democratic Party (United States)|(D)]]<br /><small>[[List of Lieutenant Governors of New Jersey|2nd]] [[Lieutenant Governor of New Jersey|Lt. Governor]]<br />since January 16, 2018 </small>
+}}
+<!--spills over into History too much IMO. This should be about modern day structure--->
+The position of Governor of New Jersey has been considered one of the most powerful in the nation. Until 2010, the governor was the only statewide elected executive official in the state and appointed numerous government officials. Formerly, an acting governor was even more powerful as he simultaneously served as President of the [[New Jersey State Senate]], thus directing half of the legislative and all of the executive process. In 2002 and 2007, President of the State Senate [[Richard Codey]] held the position of acting governor for a short time, and from 2004 to 2006 Codey became a long-term acting governor due to [[Jim McGreevey]]'s resignation. A 2005 amendment to the state Constitution prevents the Senate President from becoming acting governor in the event of a permanent gubernatorial vacancy without giving up her or his seat in the state Senate. [[Phil Murphy]] ([[Democratic Party (United States)|D]]) is the [[Governor of New Jersey|Governor]]. The governor's mansion is [[Drumthwacket]], located in [[Princeton, New Jersey|Princeton]].
+
+Before 2010, New Jersey was one of the few states without a [[Lieutenant governor (United States)|lieutenant governor]]. [[Republican Party (United States)|Republican]] [[Kim Guadagno]] was elected the first [[Lieutenant Governor of New Jersey]] and took office on January 19, 2010. She was elected on the Republican ticket with Governor-Elect [[Chris Christie]] in the November 2009 NJ gubernatorial election. The position was created as the result of a [[Constitutional amendment]] to the [[New Jersey State Constitution]] passed by the voters on November 8, 2005 and effective as of January 17, 2006.
+
+===Legislative===
+{{Main|New Jersey Legislature|2006 New Jersey State Government Shutdown}}
+[[File:New Jersey State House.jpg|thumb|The [[New Jersey State House]] is topped by its golden dome in [[Trenton, New Jersey|Trenton]].]]
+The current version of the [[New Jersey State Constitution]] was adopted in 1947. It provides for a [[bicameral]] [[New Jersey Legislature]], consisting of an [[upper house]] [[New Jersey Senate|Senate]] of 40 members and a [[lower house]] [[New Jersey General Assembly|General Assembly]] of 80 members. Each of the 40 legislative districts elects one State Senator and two Assembly members. Assembly members are elected for a two-year term in all odd-numbered years; State Senators are elected in the years ending in 1, 3, and 7 and thus serve either four- or two-year terms.
+
+New Jersey is one of only<!--purely comparative, with no judgement value--> five states that elects its state officials in odd-numbered years. (The others are [[Kentucky]], [[Louisiana]], [[Mississippi]], and [[Virginia]].) New Jersey holds elections for these offices every four years, in the year following each federal Presidential election year. Thus, the last year when New Jersey elected a Governor was 2017; the next gubernatorial election will occur in 2021.
+{{multiple image
+|align            =right
+|direction        =horizontal
+|caption_align    =center
+|image1           =Robert Menendez official Senate portrait.jpg
+|width1           =128
+|caption1         =[[Bob Menendez|Robert Menendez]] [[Democratic Party (United States)|(D)]]<br /><small>Senior [[U.S. Senator]]</small>
+|image2           =Cory Booker, official portrait, 114th Congress.jpg
+|width2           =132
+|caption2         =[[Cory Booker]] (D)<br /><small>Junior [[U.S. Senator]]</small>
+}}
+
+===Judicial===
+{{main|Judiciary of New Jersey}}
+
+The [[New Jersey Supreme Court]]<ref>{{cite web|url=http://www.judiciary.state.nj.us/supreme/index.htm|title=Supreme Court of New Jersey|publisher=Judiciary.state.nj.us|accessdate=July 25, 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20081216011351/http://www.judiciary.state.nj.us/supreme/index.htm|archivedate=December 16, 2008}}</ref> consists of a Chief Justice and six Associate Justices. All are appointed by the Governor with the [[advice and consent]] of a majority of the membership of the State Senate. Justices serve an initial seven-year term, after which they can be reappointed to serve until age 70.
+
+Most of the day-to-day work in the New Jersey courts is carried out in the Municipal Court, where simple traffic tickets, minor criminal offenses, and small civil matters are heard.
+
+More serious criminal and civil cases are handled by the [[New Jersey Superior Court|Superior Court]] for each county. All Superior Court judges are appointed by the Governor with the [[advice and consent]] of a majority of the membership of the State Senate. Each judge serves an initial seven-year term, after which he or she can be reappointed to serve until age 70. New Jersey's judiciary is unusual in that it still has separate courts of law and [[equity (law)|equity]], like its neighbor [[Delaware]] but unlike most other U.S. states. The [[New Jersey Superior Court]] is divided into Law and Chancery Divisions at the trial level; the Law Division hears both criminal cases and civil lawsuits where the plaintiff's primary remedy is [[damages]], while the Chancery Division hears family cases, civil suits where the plaintiff's primary remedy is equitable relief, and probate trials.
+
+The Superior Court also has an [[New Jersey Superior Court, Appellate Division|Appellate Division]], which functions as the state's intermediate [[appellate court]]. Superior Court judges are assigned to the Appellate Division by the Chief Justice.
+
+There is also a Tax Court, which is a court of limited jurisdiction. Tax Court judges hear appeals of tax decisions made by County Boards of Taxation. They also hear appeals on decisions made by the Director of the Division of Taxation on such matters as state income, sales and business taxes, and homestead rebates. Appeals from Tax Court decisions are heard in the Appellate Division of Superior Court. Tax Court judges are appointed by the Governor for initial terms of seven years, and upon reappointment are granted tenure until they reach the mandatory retirement age of 70. There are 12 Tax Court judgeships.
+
+===Counties===
+{{Further|List of New Jersey counties}}
+New Jersey is divided into 21 counties; 13 date from the colonial era. New Jersey was completely divided into counties by 1692; the present counties were created by dividing the existing ones; most recently [[Union County, New Jersey|Union County]] in 1857. New Jersey is the only state in the nation where elected county officials are called "Freeholders," governing each county as part of its own [[Board of Chosen Freeholders]]. The number of freeholders in each county is determined by referendum, and must consist of three, five, seven or nine members.
+
+Depending on the county, the executive and [[legislative]] functions may be performed by the Board of Chosen Freeholders or split into separate branches of government. In 16 counties, members of the Board of Chosen Freeholders perform both legislative and executive functions on a commission basis, with each Freeholder assigned responsibility for a department or group of departments. In the other 5 counties ([[Atlantic County, New Jersey|Atlantic]], [[Bergen County, New Jersey|Bergen]], [[Essex County, New Jersey|Essex]], [[Hudson County, New Jersey|Hudson]] and [[Mercer County, New Jersey|Mercer]]), there is a directly elected [[County Executive]] who performs the executive functions while the Board of Chosen Freeholders retains a legislative and oversight role. In counties without an Executive, a County Administrator (or County Manager) may be hired to perform day-to-day administration of county functions.
+
+===Municipalities===
+New Jersey currently has 565 municipalities; the number was 566 before [[Princeton Township, New Jersey|Princeton Township]] and [[Princeton Borough, New Jersey|Princeton Borough]] merged to form the municipality of [[Princeton, New Jersey|Princeton]] on January 1, 2013. Unlike other states, all New Jersey land is part of a municipality. In 2008, Governor [[Jon Corzine]] proposed cutting state aid to all towns under 10,000 people, to encourage mergers to reduce administrative costs.<ref>{{cite web|url=https://www.npr.org/templates/story/story.php?storyId=90090911|title=Small Towns in N.J. Told to Merge or Face Cuts|publisher=NPR|accessdate=July 25, 2010}}</ref> In May 2009, the Local Unit Alignment Reorganization and Consolidation Commission began a study of about 40 small communities in South Jersey to decide which ones might be good candidates for consolidation.<ref>[http://www.philly.com/philly/news/local/20090529_N_J__town_mergers_could_start_in_18_months.html "N.J. town mergers could start in 18 months"] by Jan Hefler, ''[[The Philadelphia Inquirer]]'', May 29, 2009. Retrieved May 29, 2009 {{webarchive |url=https://web.archive.org/web/20090614182032/http://www.philly.com/philly/news/local/20090529_N_J__town_mergers_could_start_in_18_months.html |date=June 14, 2009 }}</ref>
+
+====Forms of municipal government====
+{{NJmunigov}}
+Starting in the 20th century, largely driven by reform-minded goals, a series of six modern forms of government was implemented. This began with the [[Walsh Act (New Jersey)|Walsh Act]], enacted in 1911 by the [[New Jersey Legislature]], which provided for a three- or five-member commission elected on a non-partisan basis. This was followed by the [[1923 Municipal Manager Law]], which offered a non-partisan council, provided for a weak mayor elected by and from the members of the council, and introduced a [[Council-manager government]] structure with an appointed manager responsible for day-to-day administration of municipal affairs.
+
+The [[Faulkner Act (New Jersey)|Faulkner Act]], originally enacted in 1950 and substantially amended in 1981, offers four basic plans: [[Faulkner Act (Mayor-Council)|Mayor-Council]], [[Faulkner Act (Council-Manager)|Council-Manager]], [[Faulkner Act (Small Municipality)|Small Municipality]], and [[Faulkner Act (Mayor-Council-Administrator)|Mayor-Council-Administrator]]. The act provides many choices for communities with a preference for a strong executive and professional management of municipal affairs and offers great flexibility in allowing municipalities to select the characteristics of its government: the number of seats on the Council; seats selected at-large, by wards, or through a combination of both; staggered or concurrent terms of office; and a mayor chosen by the Council or elected directly by voters. Most large municipalities and a majority of New Jersey's residents are governed by municipalities with Faulkner Act charters. Municipalities can also formulate their own unique form of government and operate under a [[Special Charter (New Jersey)|Special Charter]] with the approval of the [[New Jersey Legislature]].{{citation needed|date=September 2015}}
+
+While municipalities retain their names derived from types of government, they may have changed to one of the modern forms of government, or further in the past to one of the other traditional forms, leading to municipalities with formal names quite baffling to the general public. For example, though there are four municipalities that are officially of the village type, [[Loch Arbour, New Jersey|Loch Arbour]] is the only one remaining with the village form of government. The other three villages – [[Ridgefield Park, New Jersey|Ridgefield Park]] (now with a Walsh Act form), [[Ridgewood, New Jersey|Ridgewood]] (now with a Faulkner Act Council-Manager charter) and [[South Orange, New Jersey|South Orange]] (now operates under a [[Special Charter (New Jersey)|Special Charter]]) – have all migrated to other non-village forms.{{citation needed|date=September 2015}}
+
+===Politics===
+{{Main|Politics of New Jersey}}
+
+====Social attitudes and issues====
+Socially, New Jersey is considered one of the more liberal states in the nation. Polls indicate that 60% of the population are self-described as [[pro-choice]], although a majority are opposed to late trimester and [[intact dilation and extraction]] and public funding of abortion.<ref>{{cite web|url=http://www.catholicnewsagency.com/new.php?n=17086|title=Poll says majority of Americans opposed to abortion funding in health care bill :: Catholic News Agency (CNA)|agency=Catholic News Agency|accessdate=July 25, 2010}}</ref><ref>{{cite web|url=http://www.surveyusa.com/50State2005/50StateAbortion0805SortedbyState.htm|title=SurveyUSA Pro-Life vs. Pro Choice Sorted by State|publisher=Surveyusa.com|accessdate=July 25, 2010}}</ref> In a 2009 [[Quinnipiac University Polling Institute]] poll, a plurality supported [[same-sex marriage in New Jersey|same-sex marriage]] 49% to 43% opposed,<ref>{{cite web|url=http://abclocal.go.com/wpvi/story?section=news/local&id=6776022&rss=rss-wpvi-article-6776022|title=Poll: NJ voters support gay marriage|publisher=Abclocal.go.com|date=April 23, 2009|accessdate=January 23, 2011}}</ref> On October 18, 2013, the [[New Jersey Supreme Court]] rendered a provisional, unanimous (7–0 vote) order authorizing same-sex marriage in the state, pending a legal appeal by Governor Chris Christie,<ref>{{cite web|url=http://www.nj.com/politics/index.ssf/2013/10/nj_supreme_court_gay_marriage_christie.html#incart_m-rpt-1|title=Same-sex weddings can begin pending appeal, N.J. Supreme Court rules|author=Salvador Rizzo|publisher=New Jersey On-Line LLC|date=October 18, 2013|accessdate=October 19, 2013}}</ref> who then withdrew this appeal hours after the inaugural same-sex marriages took place on October 21, 2013.<ref name="DroppedAppeal"/>
+
+{{See also|LGBT rights in New Jersey}}
+
+New Jersey also has some of the most stringent [[gun control]] laws in the U.S. These include bans on assault firearms, hollow-nose bullets and even slingshots. No gun offense in New Jersey is graded less than a felony. [[BB guns]] and black-powder guns are all treated as modern firearms. New Jersey does not recognize out-of-state gun licenses and aggressively enforces its own gun laws.<ref>[http://www.nraila.org/statelawpdfs/NJSL.pdf NRAILA.org] {{webarchive |url=https://web.archive.org/web/20111210170131/http://www.nraila.org/statelawpdfs/NJSL.pdf |date=December 10, 2011 }}</ref>
+
+====Elections====
+{{Main|Elections in New Jersey}}
+{{See also|Political party strength in New Jersey}}
+
+{| class="wikitable" style="float:right; margin:1em; font-size:95%;"
+|+ New Jersey vote|Gubernatorial election results<ref name="Leip, David">{{cite web|url=http://uselectionatlas.org/RESULTS/|title=General Election Results – New York|publisher=[[Dave Leip's Atlas of U.S. Presidential Elections]]|accessdate=November 18, 2016 |author=Leip, David}}</ref>
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (New Jersey)|Democratic]]
+! [[Republican Party (New Jersey)|Republican]]
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 1953|1953]]
+| {{Party shading/Democratic}}| '''53.2%''' ''962,710''
+| {{Party shading/Republican}}| 44.7% ''809,068''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 1957|1957]]
+| {{Party shading/Democratic}}| '''54.6%''' ''1,101,130''
+| {{Party shading/Republican}}| 44.5% ''897,321''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 1961|1961]]
+| {{Party shading/Democratic}}| '''50.4%''' ''1,084,194''
+| {{Party shading/Republican}}| 48.7% ''1,049,274''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 1965|1965]]
+| {{Party shading/Democratic}}| '''57.4%''' ''1,279,568''
+| {{Party shading/Republican}}| 41.1% ''915,996''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 1969|1969]]
+| {{Party shading/Democratic}}| '''59.7%''' ''1,411,905''
+| {{Party shading/Republican}}| 38.5% ''911,003''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 1973|1973]]
+| {{Party shading/Democratic}}| '''66.7%''' ''1,414,613''
+| {{Party shading/Republican}}| 31.9% ''676,235''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 1977|1977]]
+| {{Party shading/Democratic}}| '''55.7%''' ''1,184,564''
+| {{Party shading/Republican}}| 41.8% ''888,880''
+|-
+| {{Party shading/Republican}}|[[New Jersey gubernatorial election, 1981|1981]]
+| {{Party shading/Democratic}}| 49.4% ''1,144,202''
+| {{Party shading/Republican}}| '''49.5%''' ''1,145,999''
+|-
+| {{Party shading/Republican}}|[[New Jersey gubernatorial election, 1985|1985]]
+| {{Party shading/Democratic}}| 29.3% ''578,402''
+| {{Party shading/Republican}}| '''69.6%''' ''1,372,631''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 1989|1989]]
+| {{Party shading/Democratic}}| '''61.2%''' ''1,379,937''
+| {{Party shading/Republican}}| 37.2% ''838,553''
+|-
+| {{Party shading/Republican}}|[[New Jersey gubernatorial election, 1993|1993]]
+| {{Party shading/Democratic}}| 48.3% ''1,210,031''
+| {{Party shading/Republican}}| '''49.3%''' ''1,236,124''
+|-
+| {{Party shading/Republican}}|[[New Jersey gubernatorial election, 1997|1997]]
+| {{Party shading/Democratic}}| 45.8% ''1,107,968''
+| {{Party shading/Republican}}| '''46.9%''' ''1,133,394''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 2001|2001]]
+| {{Party shading/Democratic}}| '''56.4%''' ''1,256,853''
+| {{Party shading/Republican}}| 41.7% ''928,174''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 2005|2005]]
+| {{Party shading/Democratic}}| '''53.5%''' ''1,224,551''
+| {{Party shading/Republican}}| 43.0% ''985,271''
+|-
+| {{Party shading/Republican}}|[[New Jersey gubernatorial election, 2009|2009]]
+| {{Party shading/Democratic}}| 44.9% ''1,087,731''
+| {{Party shading/Republican}}| '''48.4%''' ''1,174,445''
+|-
+| {{Party shading/Republican}}|[[New Jersey gubernatorial election, 2013|2013]]
+| {{Party shading/Democratic}}| 38.2% ''809,978''
+| {{Party shading/Republican}}| '''60.2%''' ''1,278,932''
+|-
+| {{Party shading/Democratic}}|[[New Jersey gubernatorial election, 2017|2017]]
+| {{Party shading/Democratic}}| '''56.0%''' ''1,203,110''
+| {{Party shading/Republican}}| 41.9% ''899,583''
+|-
+|}
+{| class="wikitable"  style="float:right; margin:1em; font-size:95%;"
+|+ New Jersey vote|Presidential election results<ref name="Leip, David"/>
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (United States)|Democratic]]
+! [[Republican Party (United States)|Republican]]
+|-
+| {{party shading/Republican}} | [[United States presidential election in New Jersey, 1952|1952]]
+| {{party shading/Democratic}} | 42.0% ''1,015,902''
+| {{party shading/Republican}} | '''56.8%''' ''1,374,613''
+|-
+| {{party shading/Republican}} | [[United States presidential election in New Jersey, 1956|1956]]
+| {{party shading/Democratic}} | 34.2% ''850,337''
+| {{party shading/Republican}} | '''64.7%''' ''1,606,942''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in New Jersey, 1960|1960]]
+| {{party shading/Democratic}} | '''50.0%''' ''1,385,415''
+| {{party shading/Republican}} | 49.2% ''1,363,324''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in New Jersey, 1964|1964]]
+| {{party shading/Democratic}} | '''65.6%''' ''1,867,671''
+| {{party shading/Republican}} | 33.9% ''963,843''
+|-
+| {{party shading/Republican}} | [[United States presidential election in New Jersey, 1968|1968]]
+| {{party shading/Democratic}} | 44.0% ''1,264,206''
+| {{party shading/Republican}} | '''46.1%''' ''1,325,467''
+|-
+| {{party shading/Republican}} | [[United States presidential election in New Jersey, 1972|1972]]
+| {{party shading/Democratic}} | 36.8% ''1,102,211''
+| {{party shading/Republican}} | '''61.6%''' ''1,845,502''
+|-
+| {{party shading/Republican}} | [[United States presidential election in New Jersey, 1976|1976]]
+| {{party shading/Democratic}} | 47.9% ''1,444,653''
+| {{party shading/Republican}} | '''50.1%''' ''1,509,688''
+|-
+| {{party shading/Republican}} | [[United States presidential election in New Jersey, 1980|1980]]
+| {{party shading/Democratic}} | 38.6% ''1,147,364''
+| {{party shading/Republican}} | '''52.0%''' ''1,546,557''
+|-
+| {{party shading/Republican}} | [[United States presidential election in New Jersey, 1984|1984]]
+| {{party shading/Democratic}} | 39.2% ''1,261,323''
+| {{party shading/Republican}} | '''60.1%''' ''1,933,630''
+|-
+| {{party shading/Republican}} | [[United States presidential election in New Jersey, 1988|1988]]
+| {{party shading/Democratic}} | 42.6% ''1,320,352''
+| {{party shading/Republican}} | '''56.2%''' ''1,743,192''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in New Jersey, 1992|1992]]
+| {{party shading/Democratic}} | '''43.0%''' ''1,436,206''
+| {{party shading/Republican}} | 40.6% ''1,356,865''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in New Jersey, 1996|1996]]
+| {{party shading/Democratic}} | '''53.7%''' ''1,652,329''
+| {{party shading/Republican}} | 35.9% ''1,103,078''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in New Jersey, 2000|2000]]
+| {{party shading/Democratic}} | '''56.1%''' ''1,788,850''
+| {{party shading/Republican}} | 40.3% ''1,284,173''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in New Jersey, 2004|2004]]
+| {{party shading/Democratic}} | '''52.9%''' ''1,911,430''
+| {{party shading/Republican}} | 46.2% ''1,670,003''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in New Jersey, 2008|2008]]
+| {{party shading/Democratic}} | '''57.1%''' ''2,215,422''
+| {{party shading/Republican}} | 41.6% ''1,613,207''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in New Jersey, 2012|2012]]
+| {{party shading/Democratic}} | '''58.3%''' ''2,126,610''
+| {{party shading/Republican}} | 40.5% ''1,478,749''
+|-
+| {{party shading/Democratic}} | [[United States presidential election in New Jersey, 2016|2016]]
+| {{party shading/Democratic}} | '''55.0%''' ''2,148,278''
+| {{party shading/Republican}} | 41.0% ''1,601,933''
+|}
+[[File:United States presidential election in New Jersey, 2016.svg|thumb|left|[[Treemap]] of the popular vote by county, 2016 presidential election.]]
+
+In past elections, New Jersey was a [[Republican Party (United States)|Republican]] bastion, but recently has become a [[Democratic Party (United States)|Democratic]] stronghold. Currently, [[New Jersey Democratic State Committee|New Jersey Democrats]] have majority control of both houses of the [[New Jersey Legislature]] (Senate, 24–16, and Assembly, 47–33), a 7–5 split of the state's twelve seats in the [[United States House of Representatives|U.S. House of Representatives]], and both [[United States Senate|U.S. Senate]] seats. Although the Democratic Party is very successful statewide, the state had a Republican governor from 1994 to 2002, as [[Christine Todd Whitman]] won twice with 47% and 49% of the votes, and in the [[2009 New Jersey gubernatorial election|2009 gubernatorial election]], Republican [[Chris Christie]] defeated incumbent Democrat [[Jon Corzine]] with 48%. In the [[2013 New Jersey Gubernatorial election|2013 gubernatorial election]], Christie won reelection with over 60% of the votes. Because each candidate for lieutenant governor runs on the same ticket as the party's candidate for governor, the current Governor and Lieutenant Governor are members of the Democratic Party. The governor's appointments to cabinet and non-cabinet positions may be from either party; for instance, the Attorney General is a Democrat.
+
+In federal elections, the state leans heavily towards the [[Democratic Party (United States)|Democratic Party]]. For many years in the past, however, it was a Republican stronghold, having given comfortable margins of victory to the Republican candidate in the close elections of [[United States presidential election, 1948|1948]], [[United States presidential election, 1968|1968]], and [[United States presidential election, 1976|1976]]. New Jersey was a crucial [[swing state]] in the elections of [[United States presidential election, 1960|1960]], [[United States presidential election, 1968|1968]], and [[United States presidential election, 1992|1992]]. The last elected Republican to hold a Senate seat from New Jersey was [[Clifford P. Case]] in 1979. Newark Mayor [[Cory Booker]] was elected in October 2013 to join [[Bob Menendez|Robert Menendez]] to make New Jersey the first state with concurrent serving black and Latino U.S. senators.<ref>{{cite news|url=http://www.nj.com/politics/index.ssf/2013/10/booker_and_menendez_form_historic_duo_as_first_black_and_latino_senators_from_the_same_state.html|title=Booker and Menendez form historic duo as first black and Latino senators from the same state|author=David Giambusso|newspaper=The Star-Ledger|date=October 20, 2013|accessdate=October 20, 2013}}</ref>
+
+The state's Democratic strongholds include [[Camden County, New Jersey|Camden County]], [[Essex County, New Jersey|Essex County]] (typically the state's most Democratic county—it includes [[Newark, New Jersey|Newark]], the state's largest city), [[Hudson County, New Jersey|Hudson County]] (the second-strongest Democratic county, including [[Jersey City, New Jersey|Jersey City]], the state's second-largest city); [[Mercer County, New Jersey|Mercer County]] (especially around [[Trenton, New Jersey|Trenton]] and [[Princeton, New Jersey|Princeton]]), [[Middlesex County, New Jersey|Middlesex County]], and [[Union County, New Jersey|Union County]] (including [[Elizabeth, New Jersey|Elizabeth]], the state's fourth-largest city).<ref>{{cite web|url=http://www.nj.com/politics/index.ssf/2017/05/republican_vs_democratic_which_political_party_dom.html#incart_river_home|title=Your neighbors lean red or blue? How many Republicans and Democrats are in all 21 counties}}</ref>
+
+The suburban northwestern and southeastern counties of the state are reliably Republican: Republicans have support along the coast in [[Ocean County, New Jersey|Ocean County]] and in the mountainous northwestern part of the state, especially [[Morris County, New Jersey|Morris County]], [[Sussex County, New Jersey|Sussex County]], and [[Warren County, New Jersey|Warren County]]. Other suburban counties, especially [[Bergen County, New Jersey|Bergen County]] and [[Burlington County, New Jersey|Burlington County]] had the majority of votes go to the [[Democratic Party (United States)|Democratic Party]]. In the 2008 election, President [[Barack Obama]] won New Jersey with approximately fifty-seven percent of the vote, compared to [[John McCain|McCain's]] forty-one percent. Independent candidate [[Ralph Nader]] garnered less than one percent of the vote.
+
+About one-third of the state's counties are considered "swing" counties, but some go more one way than others. For example, [[Salem County, New Jersey|Salem County]], the same is true with [[Passaic County, New Jersey|Passaic County]], with a highly populated Hispanic Democratic south (including [[Paterson, New Jersey|Paterson]], the state's third-largest city) and a rural, Republican north; with the "swing" township of [[Wayne, New Jersey|Wayne]] in the middle. Other "swing" counties like [[Monmouth County, New Jersey|Monmouth County]], [[Somerset County, New Jersey|Somerset County]], and [[Cape May County, New Jersey|Cape May County]] tend to go Republican, as they also have population in conservative areas, although Somerset has recently trended Democratic.
+
+To be eligible to vote in a U.S. election, all New Jerseyans are required to start their residency in the state 30 days prior to an election and register 21 days prior to election day.<ref>{{cite web|url=http://www.njelections.org/voting-information.html|title=New Jersey Department of State – Division of Elections|accessdate=March 12, 2017}}</ref>
+
+====Capital punishment====
+{{Main|Capital punishment in New Jersey}}
+On December 17, 2007, Governor Jon Corzine signed into law a bill that would eliminate the death penalty in New Jersey. New Jersey is the first state to pass such legislation since [[Iowa]] and [[West Virginia]] eliminated executions in 1965.<ref>Hester Jr., Tom (2007), [http://www.nbcnews.com/id/22296966/ns/us_news-crime_and_courts/t/nj-first-state-years-ban-death-penalty/ "N.J. Bans Death Penalty"], Associated Press</ref> Corzine also signed a bill that would downgrade the Death Row prisoners' sentences from "Death" to "Life in Prison with No Parole."<ref>Peters, Jeremy W. "[https://www.nytimes.com/2007/12/18/nyregion/18death.html?pagewanted=print Corzine Signs Bill Ending Executions, Then Commutes Sentences of Eight]." ''[[The New York Times]]''. December 18, 2007. Retrieved December 25, 2009.</ref>
+
+==Points of interest==
+
+===Museums===
+{{See also|List of museums in New Jersey}}
+
+{|class="wikitable"
+|-
+!Museum
+!Location
+!Year opened
+!Type
+|-
+|[[New Jersey State Museum]]
+|[[Trenton, New Jersey|Trenton]]
+|1895
+|General Education
+|-
+|[[Franklin Mineral Museum]]
+|[[Franklin, New Jersey|Franklin]], [[Sussex County, New Jersey|Sussex County]]
+|1964
+|Mineral museum
+|-
+|[[Liberty Science Center]]
+|[[Liberty State Park]], [[Jersey City]]
+|1993
+|[[Science museum]]
+|-
+|[[Maywood Station Museum]]
+|[[Maywood, New Jersey|Maywood]]
+|2004
+|Railroad museum
+|-
+|[[Montclair Art Museum]]
+|[[Montclair, New Jersey|Montclair]]
+|1914
+|[[Art museum]]
+|-
+|[[Newark Museum]]
+|[[Newark, New Jersey|Newark]]
+|1909
+|Natural Science & Art museum
+|-
+|[[Princeton University Art Museum]]
+|[[Princeton, New Jersey|Princeton]]
+|1884
+|Art museum
+|-
+|Thomas Edison Museum
+|[[Menlo Park, New Jersey|Menlo Park]]
+|1938
+|[[Thomas Edison]] museum
+|}
+There is also a mineral museum [[Ogdensburg, New Jersey|Ogdensburg]] in Sussex County.
+[[File:Wildwood night view from Mariner's Landing ferris wheel.JPG|right|thumb|View of [[Wildwood, New Jersey|Wildwood]], [[Cape May County, New Jersey|Cape May County]] from the Mariner's Landing [[Ferris wheel]] at night]]
+
+===Entertainment and concert venues===
+Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including:
+{|class="wikitable"
+|-
+!Venue
+!Type
+!Location
+!Year opened
+|-
+|[[Prudential Center]]
+|[[Arena]]
+|[[Newark, New Jersey|Newark]]
+|2007
+|-
+|[[Meadowlands Arena]]
+|[[Arena]]
+|[[Meadowlands Sports Complex]]
+|1981
+|-
+|[[PNC Bank Arts Center]]
+|[[Amphitheater]]
+|[[Holmdel Township, New Jersey|Holmdel]]
+|1977
+|-
+|[[New Jersey Performing Arts Center|NJPAC]]
+|[[List of concert halls|Concert Hall]]
+|[[Newark, New Jersey|Newark]]
+|1997
+|-
+|[[Paper Mill Playhouse]]
+|Regional Theater
+|[[Millburn, New Jersey|Millburn]]
+|1968
+|-
+|State Theater
+|Regional Theater
+|[[New Brunswick, New Jersey|New Brunswick]]
+|1921
+|-
+|[[Boardwalk Hall]]
+|[[Arena]]
+|[[Atlantic City, New Jersey|Atlantic City]]
+|1926
+|-
+|[[Susquehanna Bank Center]]
+|[[Amphitheater]]
+|[[Camden, New Jersey|Camden]]
+|1995
+|-
+|[[Sun National Bank Center]]
+|[[Arena]]
+|[[Trenton, New Jersey|Trenton]]
+|1999
+|}
+
+===Theme parks===
+{{Wide image|SFGadv Skyline.jpg|900px|Skyline of [[Six Flags Great Adventure]] in [[Jackson Township, New Jersey|Jackson Township]], [[Ocean County, New Jersey|Ocean County]], the world's largest [[theme park]] as of 2013<ref>{{cite web|url=http://njtoday.net/2012/08/30/six-flags-great-adventure-to-become-the-worlds-largest-theme-park-in-2013|publisher= 2012 njtoday.net – Everything New Jersey. All Rights Reserved|accessdate=September 2, 2012|date=August 30, 2012|title=Six Flags Great Adventure To Become The World's Largest Theme Park in 2013}}</ref> To the far left is [[Kingda Ka]], the world's tallest [[roller coaster]].<ref>{{cite web|url=http://entertainmentdesigner.com/news/theme-park-design-news/10-highest-roller-coasters-on-earth/|title=10 Highest Roller Coasters on Earth|author=KarlFabricius|publisher= 2011 EntertainmentDesigner.com|date=September 20, 2010|accessdate=September 2, 2012}}</ref>|center}}
+
+{|class="wikitable"
+|-
+!Main Park
+!Other Parks
+!Location
+!Year opened
+|-
+|[[Six Flags Great Adventure]]
+|[[Six Flags Hurricane Harbor]]
+|[[Jackson, New Jersey|Jackson]]
+|1974
+|-
+|[[Clementon Amusement Park]]
+|Splash World
+|[[Clementon, New Jersey|Clementon]]
+|1907
+|-
+|[[Land of Make Believe (amusement park)|Land of Make Believe]]
+|Pirate's Cove
+|[[Hope Township, New Jersey|Hope]]
+|1958
+|-
+|[[Morey's Piers]]
+|Raging Waters and Ocean Oasis Waterparks
+|[[Wildwood, New Jersey|Wildwood]]
+|1969
+|-
+|[[Mountain Creek Waterpark]]
+|None
+|[[Vernon Township, New Jersey|Vernon]]
+|1998
+|-
+|[[Casino Pier]]
+|None
+|[[Seaside Heights]]
+|1960
+|}
+
+==Sports==
+[[File:New Meadowlands Stadium Mezz Corner.jpg|thumb|[[MetLife Stadium]] in [[East Rutherford, New Jersey|East Rutherford]], home to the NFL's New York Giants and New York Jets.<ref name="Esteban">{{cite web|url=http://www.totalprosports.com/2011/10/27/11-most-expensive-stadiums-in-the-world/|title=11 Most Expensive Stadiums in the World|publisher=Total Pro Sports|author=Esteban|date=October 27, 2011|accessdate=September 2, 2012}}</ref>]]
+{{main|Sports in New Jersey}}
+
+===Professional sports===
+New Jersey currently has four [[Major professional sports leagues in the United States and Canada|major league]] teams based in the state, although only one, the [[National Hockey League]]'s [[New Jersey Devils]], bears the state's name. Since 2007, they have played their home games at the [[Prudential Center]] in [[Newark, New Jersey|Newark]].
+
+The [[New York metropolitan area]]'s two [[National Football League]] teams, the [[New York Giants]] and the [[New York Jets]], both play in [[East Rutherford, New Jersey|East Rutherford]], at [[MetLife Stadium]] in the [[Meadowlands Sports Complex]].<ref>[http://www.newmeadowlandsstadium.com/ New Meadowlands Stadium official website] {{webarchive|url=https://web.archive.org/web/20141009075832/http://www.newmeadowlandsstadium.com/ |date=October 9, 2014 }} New Meadowlands Stadium Corporation. Retrieved June 14, 2010.</ref> Completed at a cost of approximately $1.6&nbsp;billion, it is one of the most expensive stadiums ever built.<ref name="Belson">{{cite news|url=https://www.nytimes.com/2010/04/09/sports/football/09stadium.html|title=New Stadium, a Football Palace, Opens Saturday With Lacrosse|last=Belson|first=Ken|date=April 8, 2010|newspaper=The New York Times|accessdate=March 21, 2011}}</ref><ref name="Esteban"/> On February 2, 2014, MetLife Stadium hosted [[Super Bowl XLVIII]], the first Super Bowl played outside in a cold-weather city.
+
+The [[New York Red Bulls]] of [[Major League Soccer]] play in [[Red Bull Arena (New Jersey)|Red Bull Arena]], a soccer-specific stadium located in [[Harrison, New Jersey|Harrison]], just outside of downtown Newark.
+
+The Meadowlands Sports Complex is also home to the [[Meadowlands Racetrack]], one of three major [[harness racing]] tracks in the state. That track, along with [[Freehold Raceway]] in [[Freehold Borough, New Jersey|Freehold]], are two of the major harness racing tracks in North America. [[Monmouth Park Racetrack]] in [[Oceanport, New Jersey|Oceanport]] is a popular spot for [[thoroughbred racing|thoroughbred horse racing]]. It hosted the [[Breeders' Cup]] in 2007, and its turf course was renovated in preparation.
+
+Additionally, New Jersey is home to two [[MLB]]-affiliated [[Minor League Baseball]] teams: the [[Trenton Thunder]] ([[New York Yankees]] affiliate) and the [[Lakewood BlueClaws]] ([[Philadelphia Phillies]] affiliate). The state is also home to the [[Can-Am League]] baseball team, the [[New Jersey Jackals]], who play at [[Yogi Berra Stadium]], which is located on the campus of [[Montclair State University]].
+
+The following table shows the major league sports teams in the state:
+
+{|class="wikitable sortable"
+|+New Jersey major league professional sports teams
+|- style="text-align:center;"
+!Club
+!Sport
+!League
+!Stadium (capacity)
+!Established
+!Championship Titles
+|- style="text-align:center;"
+|'''[[New Jersey Devils]]'''
+|Ice hockey
+|[[National Hockey League|NHL]]
+|[[Prudential Center]] (16,514)
+|1974
+| align=center | 3 (1995, 2000, 2003)
+|- style="text-align:center;"
+|'''[[New York Giants]]'''
+|Football
+|[[National Football League|NFL]]
+|[[MetLife Stadium]] (82,500)
+|1925
+| align=center | 8 (1927, 1934, 1938, 1956, 1986, 1990, 2007, 2011)
+|- style="text-align:center;"
+|'''[[New York Jets]]'''
+|Football
+|[[National Football League|NFL]]
+|[[MetLife Stadium]] (82,500)
+|1959
+| style="text-align:center;"| 1 (1968)
+|- style="text-align:center;"
+|'''[[New York Red Bulls]]'''
+|Soccer
+|[[Major League Soccer|MLS]]
+|[[Red Bull Arena (New Jersey)|Red Bull Arena]] (25,000)
+|1994
+| style="text-align:center;"| 0
+|}
+
+===College sports===
+{{See also|List of college athletic programs in New Jersey}}
+New Jerseyans' collegiate allegiances are predominantly split among the four major [[Division I (NCAA)|NCAA Division I]] programs in the state – the [[Seton Hall Pirates|Seton Hall University]] [[Seton Hall Pirates|Pirates]], the [[Rutgers University#Athletics|Rutgers University]] [[Rutgers Scarlet Knights|Scarlet Knights]], the [[NJIT Highlanders]], and the [[Princeton University#Athletics|Princeton University]] [[Princeton Tigers|Tigers]]. Rutgers joined the [[Big Ten Conference]] in 2014.
+
+Seton Hall's basketball team has been one of the most storied programs in the Big East Conference,{{citation needed|date=May 2014}} and it plays its home games at the [[Prudential Center]] in [[Newark, New Jersey|Newark]]. The Hall have 3 Big East Tournament Championships with wins in 1991, 1993 and most recently in 2016. Seton Hall was the national runner-up in the 1989 NCAA Tournament when they lost to the Michigan Wolverines in overtime. The Pirates made a huge comeback as a program in 2014 with a top-5 recruiting class nationally. The Pirates have support in the predominantly Roman Catholic areas of the northern part of the state and the [[Jersey Shore]].{{citation needed|date=May 2014}}
+
+Rutgers and Princeton have an intense rivalry – stemming from the [[1869 college football season|first intercollegiate football game]] in 1869 – though the two schools have not met on the football field since 1980. They continue to play each other annually in other sports.
+
+Rutgers, which fields 24 teams in various sports, is nationally known for its excellent football and women's basketball programs.{{citation needed|date=May 2014}} The university is planning an expansion to [[Rutgers Stadium]], and the teams play in [[Piscataway Township, New Jersey|Piscataway]], which is adjacent to the New Brunswick campus. The university also fields rising basketball and baseball programs.{{citation needed|date=May 2014}} Rutgers' fan base is mostly derived from the western parts of the state and [[Middlesex County, New Jersey|Middlesex County]],{{citation needed|date=May 2014}} and its alumni base is the largest in the state.
+
+===High-school sports===
+New Jersey high schools are divided into divisions under the [[New Jersey State Interscholastic Athletic Association]].(NJSIAA)<ref>{{cite web|url=http://www.njsiaa.org/|title=NJSIAA – New Jersey State Interscholastic Athletic Association – NJSIAA|accessdate=March 12, 2017}}</ref>'<ref>[http://www.ihigh.com/NJ/ New Jersey High School News and Sports] {{webarchive|url=https://web.archive.org/web/20090418224118/http://www.ihigh.com/NJ/ |date=April 18, 2009 }}. iHigh.com, Inc – The High School Internet Network. Retrieved January 26, 2011.</ref> Founded in 1918, the NJSIAA currently represents 22,000 schools, 330,000 coaches, and almost 4.5&nbsp;million athletes. Sports are divided between 3 seasons (fall, winter, and spring).
+
+==State symbols==
+{{main|List of New Jersey state symbols}}
+{| class="toccolours" style="float:left; clear:left; width:400px; margin-left: 1em;"
+|-
+|'''[[List of U.S. state animals|State animal]]'''||Horse<br />(''Equus caballus'')<ref name="NJAnimal">{{cite web|url=http://www.state.nj.us/njfacts/animal.htm|title=New Jersey State Animal|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref>
+|-
+|'''[[List of U.S. state birds|State bird]]'''||[[Eastern goldfinch]]<br />(''Carduelis tristis'')<ref name="NJBird"/>
+|-
+|'''[[List of U.S. state fish|State freshwater fish]]'''||[[Brook trout]]<br />(''Salvelinus fontinalis'')<ref name="NJFish"/>
+|-
+|'''[[List of U.S. state folk dances|State folk dance]]'''||[[Square dance]]<ref name="NJDance">{{cite web|url=http://www.state.nj.us/njfacts/dance.htm|title=New Jersey's State Dance|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref>
+|-
+|'''[[List of U.S. state insects|State insect]]'''||[[Western honey bee|European honey bee]]<br />(''Apis mellifera'')<ref name="NJInsect">{{cite web|url=http://www.state.nj.us/njfacts/bug.htm|title=New Jersey State Bug|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref>
+|-
+|'''[[List of U.S. state flowers|State flower]]'''||[[Viola sororia|Common meadow violet]]<br />(''Viola sororia'')<ref name="NJFlower">{{cite web|url=http://www.state.nj.us/njfacts/flower.htm|title=New Jersey State Flower|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref>
+|-
+|'''[[List of U.S. state mottos|State motto]]'''||"[[Liberty]] and [[Prosperity]]"
+|-
+|'''[[List of U.S. state songs|State song]]'''|| None<ref>{{cite web|url=http://www.state.nj.us/faqs/facts.html |title=State of New Jersey – FAQs |publisher=State.nj.us |date=November 20, 2008 |accessdate=July 25, 2010}}</ref>
+|-
+|'''[[List of U.S. state trees|State tree]]'''||[[Northern red oak]]<br />(''Quercus borealis maxima'')<br />(syn. ''Quercus rubra'')<ref name="NJTree"/>
+|-
+|'''[[List of U.S. state fossils|State dinosaur]]'''||''[[Hadrosaurus|Hadrosaurus foulkii]]''<ref name="NJDino">{{cite web|url=http://www.levins.com/state.shtml|title=Hadrosaurus foulkii Becomes Official State Dinosaur, June, 1991|author=Levins, Hoag|accessdate=June 5, 2013}}</ref>
+|-
+|'''[[List of U.S. state soils|State soil]]'''||[[Downer (soil)|Downer]]
+|-
+|'''[[List of U.S. state colors|State color]]'''||Buff and Jersey Blue<ref name="NJFlag">{{cite web|url=http://www.state.nj.us/njfacts/flag.htm|title=New Jersey State Flag|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref>
+|-
+|'''[[List of U.S. state ships|State ship]]'''||[[A. J. Meerwald]]<ref name="NJShip">{{cite web|url=http://www.state.nj.us/njfacts/meerwald1.html|title=A.J. Meerwald&nbsp;– NJ's Official Tall Ship|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130410023655/http://www.state.nj.us/njfacts/meerwald1.html|archivedate=April 10, 2013}}</ref>
+|-
+|'''[[List of U.S. state foods|State fruit]]'''||[[Northern highbush blueberry]]<br />(''Vaccinium corymbosum'')<ref name="NJBerry">{{cite web|url=http://www.state.nj.us/njfacts/shell.htm|title=New Jersey's State Fruit|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref>
+|-
+|'''[[List of U.S. state foods|State vegetable]]'''||[[Tomato|Jersey tomato]]<br />(''Lycopersicon esculentum'')
+|-
+|'''[[List of U.S. state shells|State shell]]'''||[[Knobbed whelk]]<br />(''Busycon carica gmelin'')<ref name="NJShell">{{cite web|url=http://www.state.nj.us/njfacts/shell.htm|title=New Jersey State Shell|website=The Official Web Site for The State of New Jersey|publisher=The State of New Jersey|accessdate=June 5, 2013}}</ref>
+|-
+|'''State memorial tree'''|| [[Dogwood]]<br />(''Cornus florida'')<ref name="NJTree"/>
+|-
+|'''State slogan'''|| Come See For Yourself
+|}
+{{Clear}}
+
+==Notable people==
+{{Further|List of people from New Jersey}}
+
+==See also==
+{{portal|New Jersey|United States}}
+* [[Outline of New Jersey]] – organized list of topics about New Jersey
+* [[Index of New Jersey-related articles]]
+{{Clear}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Sister project links|voy=New Jersey}}
+
+===State government===
+* [http://www.nj.gov/ Official New Jersey state web site]
+* [http://wikis.ala.org/godort/index.php/New_Jersey New Jersey State Databases] – Annotated list of searchable databases produced by New Jersey state agencies and compiled by the Government Documents Roundtable of the American Library Association.
+* [https://web.archive.org/web/20110114163158/http://www.njslom.org/types.html Descriptions of NJ forms of government] (e.g., township, borough, etc.) from NJ State League of Municipalities
+
+===U.S. government===
+* [https://web.archive.org/web/20080507034707/http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=NJ Energy Data & Statistics for New Jersey]
+* [https://web.archive.org/web/20070821165759/https://www.usgs.gov/state/state.asp?State=NJ USGS real-time, geographic, and other scientific resources of New Jersey]
+* [https://web.archive.org/web/20131031213659/http://quickfacts.census.gov/qfd/states/34000.html US Census Bureau]
+* [http://www.ers.usda.gov/data-products/state-fact-sheets/state-data.aspx?StateFIPS=34&StateName=New%20Jersey USDA New Jersey State Facts]
+
+===Other===
+* {{dmoz|Regional/North_America/United_States/New_Jersey}}
+* [http://www.njdigitalhighway.org/ The New Jersey Digital Highway, the statewide cultural heritage portal to digital collections from the state's archives, libraries and museums]
+* {{OSM relation|224951}}
+
+{{s-start}}
+{{s-bef|before=[[Pennsylvania]]}}
+{{s-ttl|title=[[List of U.S. states by date of admission to the Union]]|years=Ratified [[United States Constitution|Constitution]] on December 18, 1787 (3rd)}}
+{{s-aft|after=[[Georgia (U.S. state)|Georgia]]}}
+{{s-end}}
+
+{{New Jersey|expanded}}
+{{Northeast US}}
+{{United States political divisions}}
+
+{{Coord|display=title|40|N|74.5|W|region:US-NJ_type:adm1st_scale:3000000}}
+
+{{Authority control}}
+
+[[Category:New Jersey| ]]
+[[Category:States and territories established in 1787]]
+[[Category:States of the United States]]
+[[Category:Mid-Atlantic states]]
+[[Category:States of the East Coast of the United States]]
+[[Category:Northeastern United States]]
+[[Category:1787 establishments in New Jersey]]
